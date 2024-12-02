@@ -1,18 +1,18 @@
 {
-  "name": "[repo]",
+  "name": "cdragon-assets",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/[actor]/[repo]#readme",
+  "homepage": "https://github.com/wesleyel/cdragon-assets#readme",
   "bugs": {
-    "url": "https://github.com/[actor]/[repo]/issues"
+    "url": "https://github.com/wesleyel/cdragon-assets/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/[actor]/[repo].git"
+    "url": "git+https://github.com/wesleyel/cdragon-assets.git"
   },
   "license": "MIT",
-  "author": "[username]",
+  "author": "Wesley Yang",
   "sideEffects": false,
   "exports": {
     ".": {
