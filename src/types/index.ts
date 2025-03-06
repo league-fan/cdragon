@@ -26,4 +26,8 @@ export interface ResourceTypeMap {
  * 获取对应资源路径的类型
  * 类型帮助函数，用于在类型系统中获取对应路径的类型
  */
-export type ResourceTypeOf<P extends ResourceJsonPath> = ResourceTypeMap[P]; 
+export type ResourceTypeOf<P extends ResourceJsonPath> = ResourceTypeMap[P];
+
+export function skinIdToChampionId(skinId: number) {
+    return Math.floor(skinId / 1000)
+}

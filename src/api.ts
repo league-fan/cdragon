@@ -2,14 +2,14 @@ import { CDRAGON_URL, Language, ResourceJsonPath } from "./constants.ts";
 import { createFetch } from '@better-fetch/fetch';
 import { ResourceTypeOf } from "./types/index.ts";
 
-interface ApiConfig {
+export interface ApiConfig {
     patch: string;
     language: Language;
     fallbackLanguage: Language;
 }
 
 export class CdragonApi {
-    private config: ApiConfig;
+    config: ApiConfig;
     private $fetch: ReturnType<typeof createFetch>;
 
     constructor(config: ApiConfig) {
@@ -48,7 +48,7 @@ export class CdragonApi {
      * 
      * @param path - 资源路径. 例如v1/champion.json
      */
-    async fetchData<P extends ResourceJsonPath>(path: P): Promise<ResourceTypeOf<P>> {
+    async fetchAsset<P extends ResourceJsonPath>(path: P): Promise<ResourceTypeOf<P>> {
         const [url, fallbackUrl] = this.getAssetUrls(path);
 
         const { data, error } = await this.$fetch<ResourceTypeOf<P>>(url);
@@ -58,6 +58,20 @@ export class CdragonApi {
                 throw error;
             }
             return data;
+        }
+        return data;
+    }
+
+    /**
+     * 获取基础数据
+     * 
+     * @param path - 资源路径. 例如content-metadata.json
+     */
+    async fetchBase<T>(path: string): Promise<T> {
+        const url = `${this.getBaseUrl()}/${path}`;
+        const { data, error } = await this.$fetch<T>(url);
+        if (error) {
+            throw error;
         }
         return data;
     }
