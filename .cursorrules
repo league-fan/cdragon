@@ -1,0 +1,20 @@
+{
+  "projectName": "cdragon-assets",
+  "description": "这是一个数据收集项目，主要功能是定期抓取communitydragon.org的最新数据，如PBE服务器的Champion、Skin等相关数据。经过数据清洗、分类后归档。",
+  "purpose": "收集、处理和归档League of Legends游戏相关资源数据",
+  "mainFeatures": [
+    "定期抓取communitydragon.org的最新游戏数据",
+    "处理PBE服务器的Champion数据",
+    "处理PBE服务器的Skin数据",
+    "数据清洗与转换",
+    "数据分类与归档"
+  ],
+  "dataWorkflow": [
+    "数据抓取",
+    "数据处理",
+    "数据清洗",
+    "数据分类",
+    "数据归档"
+  ],
+  "context": "此项目专注于从communitydragon.org获取最新的游戏资源数据，为开发者和玩家提供更便捷的资源访问方式。"
+} 

@@ -1,0 +1,72 @@
+import { CDRAGON_URL, Language, ResourceJsonPath } from "./constants.ts";
+import { createFetch } from '@better-fetch/fetch';
+import { ResourceTypeOf } from "./types/index.ts";
+
+interface ApiConfig {
+    patch: string;
+    language: Language;
+    fallbackLanguage: Language;
+}
+
+export class CdragonApi {
+    private config: ApiConfig;
+    private $fetch: ReturnType<typeof createFetch>;
+
+    constructor(config: ApiConfig) {
+        this.config = config;
+
+        this.$fetch = createFetch({
+            baseURL: CDRAGON_URL,
+            retry: {
+                type: "exponential",
+                attempts: 4,
+                baseDelay: 1000,
+                maxDelay: 100000
+            }
+        });
+    }
+
+    /**
+     * 获取基础API URL
+     */
+    getBaseUrl(): string {
+        return `${CDRAGON_URL}/${this.config.patch}`;
+    }
+
+    /**
+     * 获取资源API URL列表（主语言和备用语言）
+     */
+    getAssetUrls(path: ResourceJsonPath): [string, string] {
+        return [
+            `${this.getBaseUrl()}/plugins/rcp-be-lol-game-data/global/${this.config.language}/${path}`,
+            `${this.getBaseUrl()}/plugins/rcp-be-lol-game-data/global/${this.config.fallbackLanguage}/${path}`
+        ];
+    }
+
+    /**
+     * 获取数据，如果主语言失败则使用备用语言
+     * 
+     * @param path - 资源路径. 例如v1/champion.json
+     */
+    async fetchData<P extends ResourceJsonPath>(path: P): Promise<ResourceTypeOf<P>> {
+        const [url, fallbackUrl] = this.getAssetUrls(path);
+
+        const { data, error } = await this.$fetch<ResourceTypeOf<P>>(url);
+        if (error) {
+            const { data, error } = await this.$fetch<ResourceTypeOf<P>>(fallbackUrl);
+            if (error) {
+                throw error;
+            }
+            return data;
+        }
+        return data;
+    }
+
+    /**
+     * 更新API配置
+     */
+    updateConfig(config: Partial<ApiConfig>): void {
+        this.config = { ...this.config, ...config };
+    }
+}
+
