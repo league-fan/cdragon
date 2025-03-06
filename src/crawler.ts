@@ -140,10 +140,13 @@ async function main() {
             language,
             patch: 'pbe',
             fallbackLanguage: 'default'
-        }, `data/${language}`);
+        }, `.data/${language}`);
 
+        console.log(`${language} crawling start`);
+        const timeStart = Date.now();
         await crawler.crawling();
-        console.log(`${language} crawling done`);
+        const timeEnd = Date.now();
+        console.log(`${language} crawling done in ${timeEnd - timeStart}ms`);
     }
 }
 

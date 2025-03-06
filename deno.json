@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "crawler": "deno run -A src/crawler.ts"
   },
   "imports": {
     "@better-fetch/fetch": "npm:@better-fetch/fetch@^1.1.15",
