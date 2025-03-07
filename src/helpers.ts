@@ -1,4 +1,4 @@
-import { CDRAGON_URL, Language, Patch } from "./constants.ts";
+import { CDRAGON_URL, Language, LOL_WIKI_URL, Patch } from "./constants.ts";
 
 export function skinIdToChampionId(skinId: number) {
   return Math.floor(skinId / 1000);
@@ -17,4 +17,8 @@ export function assetsRealUrl(
       }`,
     )
     .toLowerCase();
+}
+
+export function wikiChampionUrl(championAlias: string) {
+  return `${LOL_WIKI_URL}/${championAlias}/Cosmetics?action=render`;
 }

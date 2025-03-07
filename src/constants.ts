@@ -1,5 +1,6 @@
 /* URLs */
 export const CDRAGON_URL = "https://raw.communitydragon.org";
+export const LOL_WIKI_URL = "https://wiki.leagueoflegends.com/en-us";
 
 /* Languages */
 export const LANGUAGES = [

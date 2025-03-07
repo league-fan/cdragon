@@ -1,10 +1,11 @@
-import { ApiConfig, CdragonApi } from "./api.ts";
+import { ApiConfig, CdragonApi } from "./api/cdragon.ts";
 import { ensureDir } from "@std/fs";
 import { dirname, join } from "@std/path";
 import { skinIdToChampionId } from "./helpers.ts";
 import { Skin } from "./types/skins.ts";
 import { Skinline } from "./types/skinline.ts";
 import { Language } from "./constants.ts";
+import { getChampionSkins, SkinInfo } from "./api/wiki.ts";
 
 const SAVE_DIR = ".data";
 
