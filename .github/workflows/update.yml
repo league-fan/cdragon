@@ -19,7 +19,9 @@ jobs:
 
       - name: Update Assets
         id: update-assets
-        run: deno run crawler
+        run: |
+          deno run crawler
+          deno run genIndex
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

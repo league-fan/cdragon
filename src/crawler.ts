@@ -62,6 +62,7 @@ class Crawler {
     async checkIfNeedCrawling() {
         const originalVersion = await this.readDataFromFile<{
             version: string;
+            crawledAt: Date;
         }>("version.json");
 
         const version = await this.api.fetchBase<{
@@ -73,7 +74,10 @@ class Crawler {
         if (originalVersion?.version === version.version) {
             return false;
         } else {
-            await this.saveDataToFile(version, "version.json");
+            await this.saveDataToFile({
+                version: version.version,
+                crawledAt: new Date().toISOString(),
+            }, "version.json");
             return true;
         }
     }
@@ -143,7 +147,7 @@ class Crawler {
                         name: champion.name,
                         alias: champion.alias,
                     })),
-                }, "champion/summary.json");
+                }, "champion/index.json");
             })(),
 
             // 2. Universe相关数据处理
@@ -168,7 +172,7 @@ class Crawler {
                         id: universe.id,
                         name: universe.name,
                     })),
-                }, "universe/summary.json");
+                }, "universe/index.json");
             })(),
 
             // 3. Skinline相关数据处理
@@ -192,7 +196,7 @@ class Crawler {
                         id: skinline.id,
                         name: skinline.name,
                     })),
-                }, "skinline/summary.json");
+                }, "skinline/index.json");
             })(),
 
             // 4. Skin相关数据处理
@@ -206,7 +210,7 @@ class Crawler {
                 await this.saveDataToFile({
                     total: skins.length,
                     skins: skinsResolvedMap(skins),
-                }, "skin/summary.json");
+                }, "skin/index.json");
             })()
         ]);
     }
