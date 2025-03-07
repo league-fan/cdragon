@@ -3,24 +3,13 @@ import { join } from "@std/path";
 const dataDir = join(Deno.cwd(), ".data");
 const savePath = join(dataDir, "index.html");
 
-let versionInfo = { version: "未知", crawledAt: new Date().toISOString() };
+let versionInfo = { version: "未知", crawledAt: "未知" };
 try {
   const versionPath = join(dataDir, "version.json");
   const versionContent = Deno.readTextFileSync(versionPath);
   versionInfo = JSON.parse(versionContent);
 } catch (error) {
   console.error("读取版本信息失败:", error);
-}
-
-let formattedDate = "未知";
-try {
-  if (versionInfo.crawledAt) {
-    const date = new Date(versionInfo.crawledAt);
-    formattedDate = date.toISOString().split('T')[0];
-  }
-} catch (error) {
-  console.error("处理日期失败:", error);
-  formattedDate = new Date().toISOString().split('T')[0];
 }
 
 // 获取可用的语言
@@ -195,68 +184,79 @@ const template = `
     <div class="endpoint">
       <strong>获取特定语言的英雄列表</strong>
       <pre><code>GET /:language/champion/index.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/champion/index.json</code>
+      </p>
     </div>
 
     <div class="endpoint">
       <strong>获取特定语言的英雄详情</strong>
-      <pre><code>GET /:language/champion/:championId.json</code></pre>
+      <pre><code>GET /:language/champion/:championAlias.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/champion/Aatrox.json</code>
+      </p>
     </div>
 
     <div class="endpoint">
       <strong>获取特定语言的皮肤列表</strong>
       <pre><code>GET /:language/skin/index.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/skin/index.json</code>
+      </p>
     </div>
 
     <div class="endpoint">
       <strong>获取特定语言的皮肤详情</strong>
       <pre><code>GET /:language/skin/:skinId.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/skin/1.json</code>
+      </p>
     </div>
 
     <div class="endpoint">
       <strong>获取特定语言的皮肤系列列表</strong>
       <pre><code>GET /:language/skinline/index.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/skinline/index.json</code>
+      </p>
+    </div>
+
+    <div class="endpoint">
+      <strong>获取特定语言的皮肤系列详情</strong>
+      <pre><code>GET /:language/skinline/:skinlineId.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/skinline/1.json</code>
+      </p>
     </div>
 
     <div class="endpoint">
       <strong>获取特定语言的宇宙内容</strong>
       <pre><code>GET /:language/universe/index.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/universe/index.json</code>
+      </p>
     </div>
 
-    <h3>使用示例</h3>
-    <div class="table-container">
-      <table>
-        <thead>
-          <tr>
-            <th>用途</th>
-            <th>URL示例</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>获取简体中文英雄列表</td>
-            <td><code>/zh_cn/champion/index.json</code></td>
-          </tr>
-          <tr>
-            <td>获取默认语言版本特定英雄详情</td>
-            <td><code>/default/champion/266.json</code></td>
-          </tr>
-          <tr>
-            <td>获取韩文皮肤列表</td>
-            <td><code>/ko_kr/skin/index.json</code></td>
-          </tr>
-          <tr>
-            <td>获取日文特定皮肤系列</td>
-            <td><code>/ja_jp/skinline/19.json</code></td>
-          </tr>
-        </tbody>
-      </table>
+    <div class="endpoint">
+      <strong>获取特定语言的宇宙内容详情</strong>
+      <pre><code>GET /:language/universe/:universeId.json</code></pre>
+
+      <p>
+        例如：<code>/zh_cn/universe/1.json</code>
+      </p>
     </div>
-  </div>
 
   <div class="container">
     <h2>数据更新周期</h2>
     <p>数据会定期从communitydragon.org获取更新，通常在游戏版本更新后的24小时内完成。</p>
-    <p>最后更新时间: ${formattedDate}</p>
+    <p>最后更新时间: ${versionInfo.crawledAt}</p>
   </div>
 
   <footer style="text-align: center; margin-top: 50px; color: #666; font-size: 0.9em;">
