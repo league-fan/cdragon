@@ -1,0 +1,48 @@
+{
+  "id": 163,
+  "name": "탈리야",
+  "alias": "Taliyah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/163.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 163000,
+      "name": "탈리야",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 163001,
+      "name": "프렐요드 탈리야",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163002,
+      "name": "삼성 갤럭시 탈리야",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163003,
+      "name": "수영장 파티 탈리야",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163011,
+      "name": "별 수호자 탈리야",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163021,
+      "name": "혼돈의 수정 탈리야",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

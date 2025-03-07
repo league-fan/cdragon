@@ -1,0 +1,90 @@
+{
+  "id": 23,
+  "name": "蛮族之王",
+  "alias": "Tryndamere",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/23.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 23000,
+      "name": "蛮族之王",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 23001,
+      "name": "勇敢的心 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23002,
+      "name": "国王 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23003,
+      "name": "诸神的黄昏 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23004,
+      "name": "恶魔之刃 泰达米尔",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 23005,
+      "name": "奥斯曼大帝 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23006,
+      "name": "关羽 云长",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23007,
+      "name": "梦魇 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23008,
+      "name": "野兽猎人 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23009,
+      "name": "生化领主 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23010,
+      "name": "腥红之月 泰达米尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 23018,
+      "name": "黑夜使者 泰达米尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 23027,
+      "name": "胜利之王 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

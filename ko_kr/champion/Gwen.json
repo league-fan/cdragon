@@ -1,0 +1,41 @@
+{
+  "id": 887,
+  "name": "그웬",
+  "alias": "Gwen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/887.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 887000,
+      "name": "그웬",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 887001,
+      "name": "우주 그루브 그웬",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887011,
+      "name": "귀염둥이 카페 그웬",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887020,
+      "name": "소울 파이터 그웬",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887030,
+      "name": "전투 여왕 그웬",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

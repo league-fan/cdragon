@@ -1,0 +1,66 @@
+{
+  "id": 101,
+  "name": "제라스",
+  "alias": "Xerath",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/101.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 101000,
+      "name": "제라스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 101001,
+      "name": "룬 제라스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101002,
+      "name": "전투 기계 제라스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101003,
+      "name": "용광로 제라스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101004,
+      "name": "사막의 수호자 제라스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101005,
+      "name": "암흑의 별 제라스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101012,
+      "name": "아르카나 제라스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101021,
+      "name": "우주비행사 제라스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101030,
+      "name": "야성의 수정 제라스",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

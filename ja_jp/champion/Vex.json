@@ -1,0 +1,29 @@
+{
+  "id": 711,
+  "name": "ヴェックス",
+  "alias": "Vex",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/711.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 711000,
+      "name": "ヴェックス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 711001,
+      "name": "秩序の光ヴェックス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 711010,
+      "name": "荘厳の天球ヴェックス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

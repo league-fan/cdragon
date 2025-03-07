@@ -1,0 +1,54 @@
+{
+  "id": 154,
+  "name": "자크",
+  "alias": "Zac",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/154.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 154000,
+      "name": "자크",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 154001,
+      "name": "특수 병기 자크",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 154002,
+      "name": "수영장 파티 자크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154006,
+      "name": "SKT T1 자크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154007,
+      "name": "전투 기계 자크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154014,
+      "name": "창공 자크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154024,
+      "name": "딥 소스 자크",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

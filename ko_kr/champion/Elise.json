@@ -1,0 +1,72 @@
+{
+  "id": 60,
+  "name": "엘리스",
+  "alias": "Elise",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/60.png",
+  "roles": [
+    "assassin",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 60000,
+      "name": "엘리스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 60001,
+      "name": "죽음의 꽃 엘리스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60002,
+      "name": "승리의 엘리스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60003,
+      "name": "핏빛달 엘리스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60004,
+      "name": "SKT T1 엘리스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60005,
+      "name": "슈퍼 갤럭시 엘리스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60006,
+      "name": "마녀 엘리스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60015,
+      "name": "메마른 장미 엘리스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60024,
+      "name": "악의 여단 엘리스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60034,
+      "name": "검은 장미단의 가면 무도회 엘리스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 235,
+  "name": "姍娜",
+  "alias": "Senna",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/235.png",
+  "roles": [
+    "support",
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 235000,
+      "name": "姍娜",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 235001,
+      "name": "True Damage 姍娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235009,
+      "name": "尊爵不凡 True Damage 姍娜",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235010,
+      "name": "西域牛仔 姍娜",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235016,
+      "name": "菁英計畫：姍娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235026,
+      "name": "月蝕使者 姍娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235027,
+      "name": "尊爵不凡 月蝕使者 姍娜",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235036,
+      "name": "聖槍魔女 姍娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235046,
+      "name": "星光戰士 姍娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235056,
+      "name": "凜冬碎星 姍娜",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235063,
+      "name": "假面正義 姍娜",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

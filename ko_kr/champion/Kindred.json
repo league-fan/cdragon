@@ -1,0 +1,65 @@
+{
+  "id": 203,
+  "name": "킨드레드",
+  "alias": "Kindred",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/203.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 203000,
+      "name": "킨드레드",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 203001,
+      "name": "그림자 불꽃 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203002,
+      "name": "슈퍼 갤럭시 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203003,
+      "name": "영혼의 꽃 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203012,
+      "name": "도자기 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203022,
+      "name": "멍멍양 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203023,
+      "name": "DRX 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203033,
+      "name": "프레스티지 도자기 킨드레드",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 203034,
+      "name": "늑대에게 선택받은 자 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

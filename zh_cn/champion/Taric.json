@@ -1,0 +1,54 @@
+{
+  "id": 44,
+  "name": "瓦洛兰之盾",
+  "alias": "Taric",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/44.png",
+  "roles": [
+    "support",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 44000,
+      "name": "瓦洛兰之盾",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 44001,
+      "name": "绿水晶光辉 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44002,
+      "name": "紫水晶意志 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44003,
+      "name": "血石诅咒 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44004,
+      "name": "泳池派对 塔里克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44009,
+      "name": "塔里克 · 辉盾",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44018,
+      "name": "太空律动 “爱乐之子” 塔里克",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

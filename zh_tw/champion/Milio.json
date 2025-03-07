@@ -1,0 +1,30 @@
+{
+  "id": 902,
+  "name": "米里歐",
+  "alias": "Milio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/902.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 902000,
+      "name": "米里歐",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 902001,
+      "name": "妖精宮殿 米里歐",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 902011,
+      "name": "牧雨歌僮 米里歐",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

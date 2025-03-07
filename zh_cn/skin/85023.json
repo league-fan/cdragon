@@ -1,0 +1,61 @@
+{
+  "id": 85023,
+  "contentId": "163896a3-3ed5-442f-abce-2c126eca0e65",
+  "isBase": false,
+  "name": "DWG 凯南",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/Images/kennen_splash_centered_23.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/Images/kennen_splash_uncentered_23.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/Images/kennen_splash_tile_23.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/KennenLoadscreen_23.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/KennenLoadscreen_23_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85023.png",
+  "chromas": [
+    {
+      "id": 85024,
+      "name": "DWG 凯南 精锐",
+      "contentId": "174cd6bf-5548-4c63-bb4d-bdc06a49b59a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85024.png",
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在季中冠军赛(2021)期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 145
+    }
+  ],
+  "description": "以此致敬Nuguri在2020全球总决赛中使用凯南的夺胜表现。"
+}

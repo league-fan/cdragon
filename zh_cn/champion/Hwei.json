@@ -1,0 +1,24 @@
+{
+  "id": 910,
+  "name": "异画师",
+  "alias": "Hwei",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/910.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 910000,
+      "name": "异画师",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 910001,
+      "name": "北极星使者 彗",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

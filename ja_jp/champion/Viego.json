@@ -1,0 +1,54 @@
+{
+  "id": 234,
+  "name": "ヴィエゴ",
+  "alias": "Viego",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/234.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 234000,
+      "name": "ヴィエゴ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 234001,
+      "name": "月の聖獣ヴィエゴ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234010,
+      "name": "Pentakill ディソナンス ヴィエゴ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234019,
+      "name": "EDG ヴィエゴ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234021,
+      "name": "国王ヴィエゴ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234030,
+      "name": "ソウルファイター ヴィエゴ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 234037,
+      "name": "Worlds 2024 ヴィエゴ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

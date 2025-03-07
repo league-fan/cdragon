@@ -1,0 +1,493 @@
+{
+  "id": 167,
+  "name": "レガシー",
+  "description": "過ぎ去りし日々の輝きが、伸ばした手の先で瞬いている。",
+  "skins": [
+    {
+      "id": 1006,
+      "name": "取りかえっこアニー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2001,
+      "name": "孤高の戦士オラフ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3001,
+      "name": "神秘のガリオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 4003,
+      "name": "壮麗なカード師ツイステッド・フェイト",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 5002,
+      "name": "帝国兵士シン・ジャオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 7001,
+      "name": "ウィキッド ルブラン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 10005,
+      "name": "審判者ケイル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11001,
+      "name": "暗殺者マスター・イー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11002,
+      "name": "選ばれしマスター・イー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11003,
+      "name": "アイオニア マスター・イー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11004,
+      "name": "マスターサムライー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 12002,
+      "name": "金毛アリスター",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 14004,
+      "name": "戦争狂サイオン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 15001,
+      "name": "戦姫シヴィア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 15002,
+      "name": "超一流女優シヴィア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 15004,
+      "name": "盗賊の頭シヴィア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 17002,
+      "name": "偵察兵ティーモ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 17003,
+      "name": "アナグマ ティーモ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 21002,
+      "name": "ワーテルロー ミス・フォーチュン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 22005,
+      "name": "アメジスト アッシュ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23001,
+      "name": "高原の覇王トリンダメア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 24005,
+      "name": "ジャクシマス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 24006,
+      "name": "テンプル ジャックス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 24007,
+      "name": "無双ジャックス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 28002,
+      "name": "仮面舞踏会イブリン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30001,
+      "name": "ファントム カーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 31001,
+      "name": "悪夢の案内人チョ＝ガス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 33002,
+      "name": "クロム ラムス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 33005,
+      "name": "忍者ラムス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 34003,
+      "name": "ノクサスキラー アニビア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 35002,
+      "name": "宮廷道化師シャコ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 35004,
+      "name": "ネジ巻きシャコ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 35005,
+      "name": "闇の廃人シャコ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 36002,
+      "name": "筋肉モリモリ ムンドマン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 38004,
+      "name": "闇の前兆カサディン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 39001,
+      "name": "暗剣のイレリア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 40001,
+      "name": "嵐の化身ジャンナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 41002,
+      "name": "民兵ガングプランク",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42003,
+      "name": "レッドバロン コーキ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 43002,
+      "name": "サクラ カルマ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 51003,
+      "name": "サファリハント ケイトリン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 53001,
+      "name": "錆びついたブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 54003,
+      "name": "大理石マルファイト",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 55001,
+      "name": "傭兵カタリナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 57002,
+      "name": "トーテム マオカイ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 59003,
+      "name": "深淵の総帥ジャーヴァンⅣ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 61003,
+      "name": "殺人人形オリアナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62002,
+      "name": "ウーコン大将",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68001,
+      "name": "ランブル＆ジャングル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 76002,
+      "name": "女豹ニダリー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 78005,
+      "name": "王騎士ポッピー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 79002,
+      "name": "田舎もんグラガス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 81004,
+      "name": "未知への冒険者エズリアル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 84006,
+      "name": "白銀の牙アカリ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 85002,
+      "name": "沼地の主人ケネン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 85003,
+      "name": "空手家ケネン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 86001,
+      "name": "紅のガレン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 86002,
+      "name": "砂漠の兵士ガレン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 89002,
+      "name": "守護者レオナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 89003,
+      "name": "鋼の太陽レオナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 90002,
+      "name": "影の王子マルザハール",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 91001,
+      "name": "ストリート タロン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 96003,
+      "name": "ちょうちょコグ＝マウ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 98002,
+      "name": "黄装束のシェン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 98005,
+      "name": "シェン将軍",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 99004,
+      "name": "帝国兵士ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101001,
+      "name": "ルーンの眷属ゼラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102001,
+      "name": "鋼の鱗シヴァーナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102003,
+      "name": "黒龍シヴァーナ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 103002,
+      "name": "宵闇姫アーリ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 104002,
+      "name": "脱獄グレイブス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 105002,
+      "name": "ツンドラ フィズ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 107002,
+      "name": "ナイトハンター レンガー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 110001,
+      "name": "光のクリスタル ヴァルス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111002,
+      "name": "地底の支配者ノーチラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 115002,
+      "name": "ジグス少佐",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 119002,
+      "name": "剣闘士ドレイヴン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 126003,
+      "name": "孤高のジェイス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154001,
+      "name": "特殊兵器ザック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 236001,
+      "name": "傭兵ルシアン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 267001,
+      "name": "鯉ナミ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 221,
+  "name": "Zeri",
+  "alias": "Zeri",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/221.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 221000,
+      "name": "Zeri",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 221001,
+      "name": "Withered Rose Zeri",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221010,
+      "name": "Ocean Song Zeri",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221019,
+      "name": "Immortal Journey Zeri",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221028,
+      "name": "Fright Night Zeri",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221029,
+      "name": "Prestige Fright Night Zeri",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

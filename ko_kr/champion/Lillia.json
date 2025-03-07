@@ -1,0 +1,42 @@
+{
+  "id": 876,
+  "name": "릴리아",
+  "alias": "Lillia",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/876.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 876000,
+      "name": "릴리아",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 876001,
+      "name": "영혼의 꽃 릴리아",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876010,
+      "name": "어둠의 인도자 릴리아",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876019,
+      "name": "전설의 산수화 릴리아",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876028,
+      "name": "요정 왕국 릴리아",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

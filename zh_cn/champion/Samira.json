@@ -1,0 +1,48 @@
+{
+  "id": 360,
+  "name": "沙漠玫瑰",
+  "alias": "Samira",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/360.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 360000,
+      "name": "沙漠玫瑰",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 360001,
+      "name": "灵能特工 莎弥拉",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360010,
+      "name": "太空律动 “音浪狂舞” 莎弥拉",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360020,
+      "name": "西部魔影 持枪女巫 莎弥拉",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360030,
+      "name": "斗魂觉醒 莎弥拉",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 360033,
+      "name": "黑色玫瑰假面舞会 莎弥拉",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

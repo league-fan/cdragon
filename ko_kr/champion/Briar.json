@@ -1,0 +1,30 @@
+{
+  "id": 233,
+  "name": "브라이어",
+  "alias": "Briar",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/233.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 233000,
+      "name": "브라이어",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 233001,
+      "name": "거리의 악마 브라이어",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 233010,
+      "name": "태고족 브라이어",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 223,
+  "name": "Tahm Kench",
+  "alias": "TahmKench",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/223.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 223000,
+      "name": "Tahm Kench",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 223001,
+      "name": "Master Chef Tahm Kench",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 223002,
+      "name": "Urf Kench",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 223003,
+      "name": "Coin Emperor Tahm Kench",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 223011,
+      "name": "Arcana Tahm Kench",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 223020,
+      "name": "High Noon Tahm Kench",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 223030,
+      "name": "Shan Hai Scrolls Tahm Kench",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

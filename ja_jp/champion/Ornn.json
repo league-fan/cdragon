@@ -1,0 +1,41 @@
+{
+  "id": 516,
+  "name": "オーン",
+  "alias": "Ornn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/516.png",
+  "roles": [
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 516000,
+      "name": "オーン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 516001,
+      "name": "雷帝オーン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516002,
+      "name": "古の賢樹オーン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516011,
+      "name": "スペースグルーヴ オーン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516020,
+      "name": "きかんしゃオーン",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 68,
+  "name": "机械公敌",
+  "alias": "Rumble",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/68.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 68000,
+      "name": "机械公敌",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 68001,
+      "name": "热带丛林 兰博",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68002,
+      "name": "独眼海盗 兰博",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68003,
+      "name": "银河魔装机神 兰博",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 68004,
+      "name": "废土男爵 兰博",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68013,
+      "name": "太空律动 “串烧大师” 兰博",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68023,
+      "name": "咖啡甜心 兰博",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

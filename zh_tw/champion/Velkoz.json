@@ -1,0 +1,54 @@
+{
+  "id": 161,
+  "name": "威寇茲",
+  "alias": "Velkoz",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/161.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 161000,
+      "name": "威寇茲",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 161001,
+      "name": "狂派機甲 威寇茲",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161002,
+      "name": "聖堂星靈 威寇茲",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161003,
+      "name": "我不是威寇茲",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 161004,
+      "name": "地獄火 威寇茲",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161011,
+      "name": "黯雪魔眼 威寇茲",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161020,
+      "name": "颱蜂眼 威寇茲",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

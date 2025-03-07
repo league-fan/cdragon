@@ -1,0 +1,65 @@
+{
+  "id": 203,
+  "name": "永猎双子",
+  "alias": "Kindred",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/203.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 203000,
+      "name": "永猎双子",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 203001,
+      "name": "黯焰双魂 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203002,
+      "name": "银河魔装机神 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203003,
+      "name": "灵魂莲华 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203012,
+      "name": "青花瓷 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203022,
+      "name": "猫狗大战 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203023,
+      "name": "DRX 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203033,
+      "name": "至臻 青花瓷 千珏",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 203034,
+      "name": "狼神英灵 千珏",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

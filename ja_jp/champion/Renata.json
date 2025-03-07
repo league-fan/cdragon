@@ -1,0 +1,48 @@
+{
+  "id": 888,
+  "name": "レナータ・グラスク",
+  "alias": "Renata",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/888.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 888000,
+      "name": "レナータ・グラスク",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 888001,
+      "name": "提督グラスク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888010,
+      "name": "恐怖の夜レナータ・グラスク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888020,
+      "name": "ラ・イルシオン レナータ・グラスク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888021,
+      "name": "プレステージ ラ・イルシオン レナータ・グラスク",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 888031,
+      "name": "黒薔薇の仮面レナータ・グラスク",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 136,
+  "name": "オレリオン・ソル",
+  "alias": "AurelionSol",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/136.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 136000,
+      "name": "オレリオン・ソル",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 136001,
+      "name": "死灰の化身オレリオン・ソル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136002,
+      "name": "メカリオン・ソル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136011,
+      "name": "豪嵐龍オレリオン・ソル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136021,
+      "name": "墨影のオレリオン・ソル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136031,
+      "name": "磁器の守護者オレリオン・ソル",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

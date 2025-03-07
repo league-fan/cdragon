@@ -1,0 +1,84 @@
+{
+  "id": 2,
+  "name": "狂战士",
+  "alias": "Olaf",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/2.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 2000,
+      "name": "狂战士",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 2001,
+      "name": "烈焰猛士 奥拉夫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2002,
+      "name": "冰河时代 奥拉夫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2003,
+      "name": "铁哥们儿 奥拉夫",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 2004,
+      "name": "五杀摇滚鼓手 奥拉夫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2005,
+      "name": "黑暗骑士 奥拉夫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2006,
+      "name": "牛扒狂战 奥拉夫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2015,
+      "name": "SKT T1 奥拉夫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2016,
+      "name": "屠龙勇士 奥拉夫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2025,
+      "name": "光明哨兵 奥拉夫",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 2035,
+      "name": "五杀摇滚 III：遗失的章节 奥拉夫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2044,
+      "name": "地狱火 奥拉夫",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

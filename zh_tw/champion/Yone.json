@@ -1,0 +1,78 @@
+{
+  "id": 777,
+  "name": "犽凝",
+  "alias": "Yone",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/777.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 777000,
+      "name": "犽凝",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 777001,
+      "name": "靈花祭 犽凝",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777010,
+      "name": "戰爭學院 犽凝",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777019,
+      "name": "黎明使者 犽凝",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 777026,
+      "name": "海洋之歌 犽凝",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777035,
+      "name": "墨影戰士 犽凝",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777045,
+      "name": "心鋼之聲 犽凝",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777046,
+      "name": "尊爵不凡 心鋼之聲 犽凝",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 777055,
+      "name": "西域牛仔 犽凝",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 777058,
+      "name": "仲裁者 西域牛仔 犽凝",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 777065,
+      "name": "假面正義 犽凝",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 893,
+  "name": "歐羅拉",
+  "alias": "Aurora",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/893.png",
+  "roles": [
+    "mage",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 893000,
+      "name": "歐羅拉",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 893001,
+      "name": "戰鬥兔女郎 歐羅拉",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

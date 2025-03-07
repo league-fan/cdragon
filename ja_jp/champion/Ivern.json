@@ -1,0 +1,42 @@
+{
+  "id": 427,
+  "name": "アイバーン",
+  "alias": "Ivern",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/427.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 427000,
+      "name": "アイバーン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 427001,
+      "name": "お菓子の王様アイバーン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427002,
+      "name": "ダンクマスター アイバーン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427011,
+      "name": "古の神アイバーン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427020,
+      "name": "宇宙飛行士アイバーン",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

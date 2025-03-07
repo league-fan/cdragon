@@ -1,0 +1,859 @@
+{
+  "champions": [
+    {
+      "id": -1,
+      "name": "없음",
+      "alias": "None"
+    },
+    {
+      "id": 1,
+      "name": "애니",
+      "alias": "Annie"
+    },
+    {
+      "id": 2,
+      "name": "올라프",
+      "alias": "Olaf"
+    },
+    {
+      "id": 3,
+      "name": "갈리오",
+      "alias": "Galio"
+    },
+    {
+      "id": 4,
+      "name": "트위스티드 페이트",
+      "alias": "TwistedFate"
+    },
+    {
+      "id": 5,
+      "name": "신 짜오",
+      "alias": "XinZhao"
+    },
+    {
+      "id": 6,
+      "name": "우르곳",
+      "alias": "Urgot"
+    },
+    {
+      "id": 7,
+      "name": "르블랑",
+      "alias": "Leblanc"
+    },
+    {
+      "id": 8,
+      "name": "블라디미르",
+      "alias": "Vladimir"
+    },
+    {
+      "id": 9,
+      "name": "피들스틱",
+      "alias": "FiddleSticks"
+    },
+    {
+      "id": 10,
+      "name": "케일",
+      "alias": "Kayle"
+    },
+    {
+      "id": 11,
+      "name": "마스터 이",
+      "alias": "MasterYi"
+    },
+    {
+      "id": 12,
+      "name": "알리스타",
+      "alias": "Alistar"
+    },
+    {
+      "id": 13,
+      "name": "라이즈",
+      "alias": "Ryze"
+    },
+    {
+      "id": 14,
+      "name": "사이온",
+      "alias": "Sion"
+    },
+    {
+      "id": 15,
+      "name": "시비르",
+      "alias": "Sivir"
+    },
+    {
+      "id": 16,
+      "name": "소라카",
+      "alias": "Soraka"
+    },
+    {
+      "id": 17,
+      "name": "티모",
+      "alias": "Teemo"
+    },
+    {
+      "id": 18,
+      "name": "트리스타나",
+      "alias": "Tristana"
+    },
+    {
+      "id": 19,
+      "name": "워윅",
+      "alias": "Warwick"
+    },
+    {
+      "id": 20,
+      "name": "누누와 윌럼프",
+      "alias": "Nunu"
+    },
+    {
+      "id": 21,
+      "name": "미스 포츈",
+      "alias": "MissFortune"
+    },
+    {
+      "id": 22,
+      "name": "애쉬",
+      "alias": "Ashe"
+    },
+    {
+      "id": 23,
+      "name": "트린다미어",
+      "alias": "Tryndamere"
+    },
+    {
+      "id": 24,
+      "name": "잭스",
+      "alias": "Jax"
+    },
+    {
+      "id": 25,
+      "name": "모르가나",
+      "alias": "Morgana"
+    },
+    {
+      "id": 26,
+      "name": "질리언",
+      "alias": "Zilean"
+    },
+    {
+      "id": 27,
+      "name": "신지드",
+      "alias": "Singed"
+    },
+    {
+      "id": 28,
+      "name": "이블린",
+      "alias": "Evelynn"
+    },
+    {
+      "id": 29,
+      "name": "트위치",
+      "alias": "Twitch"
+    },
+    {
+      "id": 30,
+      "name": "카서스",
+      "alias": "Karthus"
+    },
+    {
+      "id": 31,
+      "name": "초가스",
+      "alias": "Chogath"
+    },
+    {
+      "id": 32,
+      "name": "아무무",
+      "alias": "Amumu"
+    },
+    {
+      "id": 33,
+      "name": "람머스",
+      "alias": "Rammus"
+    },
+    {
+      "id": 34,
+      "name": "애니비아",
+      "alias": "Anivia"
+    },
+    {
+      "id": 35,
+      "name": "샤코",
+      "alias": "Shaco"
+    },
+    {
+      "id": 36,
+      "name": "문도 박사",
+      "alias": "DrMundo"
+    },
+    {
+      "id": 37,
+      "name": "소나",
+      "alias": "Sona"
+    },
+    {
+      "id": 38,
+      "name": "카사딘",
+      "alias": "Kassadin"
+    },
+    {
+      "id": 39,
+      "name": "이렐리아",
+      "alias": "Irelia"
+    },
+    {
+      "id": 40,
+      "name": "잔나",
+      "alias": "Janna"
+    },
+    {
+      "id": 41,
+      "name": "갱플랭크",
+      "alias": "Gangplank"
+    },
+    {
+      "id": 42,
+      "name": "코르키",
+      "alias": "Corki"
+    },
+    {
+      "id": 43,
+      "name": "카르마",
+      "alias": "Karma"
+    },
+    {
+      "id": 44,
+      "name": "타릭",
+      "alias": "Taric"
+    },
+    {
+      "id": 45,
+      "name": "베이가",
+      "alias": "Veigar"
+    },
+    {
+      "id": 48,
+      "name": "트런들",
+      "alias": "Trundle"
+    },
+    {
+      "id": 50,
+      "name": "스웨인",
+      "alias": "Swain"
+    },
+    {
+      "id": 51,
+      "name": "케이틀린",
+      "alias": "Caitlyn"
+    },
+    {
+      "id": 53,
+      "name": "블리츠크랭크",
+      "alias": "Blitzcrank"
+    },
+    {
+      "id": 54,
+      "name": "말파이트",
+      "alias": "Malphite"
+    },
+    {
+      "id": 55,
+      "name": "카타리나",
+      "alias": "Katarina"
+    },
+    {
+      "id": 56,
+      "name": "녹턴",
+      "alias": "Nocturne"
+    },
+    {
+      "id": 57,
+      "name": "마오카이",
+      "alias": "Maokai"
+    },
+    {
+      "id": 58,
+      "name": "레넥톤",
+      "alias": "Renekton"
+    },
+    {
+      "id": 59,
+      "name": "자르반 4세",
+      "alias": "JarvanIV"
+    },
+    {
+      "id": 60,
+      "name": "엘리스",
+      "alias": "Elise"
+    },
+    {
+      "id": 61,
+      "name": "오리아나",
+      "alias": "Orianna"
+    },
+    {
+      "id": 62,
+      "name": "오공",
+      "alias": "MonkeyKing"
+    },
+    {
+      "id": 63,
+      "name": "브랜드",
+      "alias": "Brand"
+    },
+    {
+      "id": 64,
+      "name": "리 신",
+      "alias": "LeeSin"
+    },
+    {
+      "id": 67,
+      "name": "베인",
+      "alias": "Vayne"
+    },
+    {
+      "id": 68,
+      "name": "럼블",
+      "alias": "Rumble"
+    },
+    {
+      "id": 69,
+      "name": "카시오페아",
+      "alias": "Cassiopeia"
+    },
+    {
+      "id": 72,
+      "name": "스카너",
+      "alias": "Skarner"
+    },
+    {
+      "id": 74,
+      "name": "하이머딩거",
+      "alias": "Heimerdinger"
+    },
+    {
+      "id": 75,
+      "name": "나서스",
+      "alias": "Nasus"
+    },
+    {
+      "id": 76,
+      "name": "니달리",
+      "alias": "Nidalee"
+    },
+    {
+      "id": 77,
+      "name": "우디르",
+      "alias": "Udyr"
+    },
+    {
+      "id": 78,
+      "name": "뽀삐",
+      "alias": "Poppy"
+    },
+    {
+      "id": 79,
+      "name": "그라가스",
+      "alias": "Gragas"
+    },
+    {
+      "id": 80,
+      "name": "판테온",
+      "alias": "Pantheon"
+    },
+    {
+      "id": 81,
+      "name": "이즈리얼",
+      "alias": "Ezreal"
+    },
+    {
+      "id": 82,
+      "name": "모데카이저",
+      "alias": "Mordekaiser"
+    },
+    {
+      "id": 83,
+      "name": "요릭",
+      "alias": "Yorick"
+    },
+    {
+      "id": 84,
+      "name": "아칼리",
+      "alias": "Akali"
+    },
+    {
+      "id": 85,
+      "name": "케넨",
+      "alias": "Kennen"
+    },
+    {
+      "id": 86,
+      "name": "가렌",
+      "alias": "Garen"
+    },
+    {
+      "id": 89,
+      "name": "레오나",
+      "alias": "Leona"
+    },
+    {
+      "id": 90,
+      "name": "말자하",
+      "alias": "Malzahar"
+    },
+    {
+      "id": 91,
+      "name": "탈론",
+      "alias": "Talon"
+    },
+    {
+      "id": 92,
+      "name": "리븐",
+      "alias": "Riven"
+    },
+    {
+      "id": 96,
+      "name": "코그모",
+      "alias": "KogMaw"
+    },
+    {
+      "id": 98,
+      "name": "쉔",
+      "alias": "Shen"
+    },
+    {
+      "id": 99,
+      "name": "럭스",
+      "alias": "Lux"
+    },
+    {
+      "id": 101,
+      "name": "제라스",
+      "alias": "Xerath"
+    },
+    {
+      "id": 102,
+      "name": "쉬바나",
+      "alias": "Shyvana"
+    },
+    {
+      "id": 103,
+      "name": "아리",
+      "alias": "Ahri"
+    },
+    {
+      "id": 104,
+      "name": "그레이브즈",
+      "alias": "Graves"
+    },
+    {
+      "id": 105,
+      "name": "피즈",
+      "alias": "Fizz"
+    },
+    {
+      "id": 106,
+      "name": "볼리베어",
+      "alias": "Volibear"
+    },
+    {
+      "id": 107,
+      "name": "렝가",
+      "alias": "Rengar"
+    },
+    {
+      "id": 110,
+      "name": "바루스",
+      "alias": "Varus"
+    },
+    {
+      "id": 111,
+      "name": "노틸러스",
+      "alias": "Nautilus"
+    },
+    {
+      "id": 112,
+      "name": "빅토르",
+      "alias": "Viktor"
+    },
+    {
+      "id": 113,
+      "name": "세주아니",
+      "alias": "Sejuani"
+    },
+    {
+      "id": 114,
+      "name": "피오라",
+      "alias": "Fiora"
+    },
+    {
+      "id": 115,
+      "name": "직스",
+      "alias": "Ziggs"
+    },
+    {
+      "id": 117,
+      "name": "룰루",
+      "alias": "Lulu"
+    },
+    {
+      "id": 119,
+      "name": "드레이븐",
+      "alias": "Draven"
+    },
+    {
+      "id": 120,
+      "name": "헤카림",
+      "alias": "Hecarim"
+    },
+    {
+      "id": 121,
+      "name": "카직스",
+      "alias": "Khazix"
+    },
+    {
+      "id": 122,
+      "name": "다리우스",
+      "alias": "Darius"
+    },
+    {
+      "id": 126,
+      "name": "제이스",
+      "alias": "Jayce"
+    },
+    {
+      "id": 127,
+      "name": "리산드라",
+      "alias": "Lissandra"
+    },
+    {
+      "id": 131,
+      "name": "다이애나",
+      "alias": "Diana"
+    },
+    {
+      "id": 133,
+      "name": "퀸",
+      "alias": "Quinn"
+    },
+    {
+      "id": 134,
+      "name": "신드라",
+      "alias": "Syndra"
+    },
+    {
+      "id": 136,
+      "name": "아우렐리온 솔",
+      "alias": "AurelionSol"
+    },
+    {
+      "id": 141,
+      "name": "케인",
+      "alias": "Kayn"
+    },
+    {
+      "id": 142,
+      "name": "조이",
+      "alias": "Zoe"
+    },
+    {
+      "id": 143,
+      "name": "자이라",
+      "alias": "Zyra"
+    },
+    {
+      "id": 145,
+      "name": "카이사",
+      "alias": "Kaisa"
+    },
+    {
+      "id": 147,
+      "name": "세라핀",
+      "alias": "Seraphine"
+    },
+    {
+      "id": 150,
+      "name": "나르",
+      "alias": "Gnar"
+    },
+    {
+      "id": 154,
+      "name": "자크",
+      "alias": "Zac"
+    },
+    {
+      "id": 157,
+      "name": "야스오",
+      "alias": "Yasuo"
+    },
+    {
+      "id": 161,
+      "name": "벨코즈",
+      "alias": "Velkoz"
+    },
+    {
+      "id": 163,
+      "name": "탈리야",
+      "alias": "Taliyah"
+    },
+    {
+      "id": 164,
+      "name": "카밀",
+      "alias": "Camille"
+    },
+    {
+      "id": 166,
+      "name": "아크샨",
+      "alias": "Akshan"
+    },
+    {
+      "id": 200,
+      "name": "벨베스",
+      "alias": "Belveth"
+    },
+    {
+      "id": 201,
+      "name": "브라움",
+      "alias": "Braum"
+    },
+    {
+      "id": 202,
+      "name": "진",
+      "alias": "Jhin"
+    },
+    {
+      "id": 203,
+      "name": "킨드레드",
+      "alias": "Kindred"
+    },
+    {
+      "id": 221,
+      "name": "제리",
+      "alias": "Zeri"
+    },
+    {
+      "id": 222,
+      "name": "징크스",
+      "alias": "Jinx"
+    },
+    {
+      "id": 223,
+      "name": "탐 켄치",
+      "alias": "TahmKench"
+    },
+    {
+      "id": 233,
+      "name": "브라이어",
+      "alias": "Briar"
+    },
+    {
+      "id": 234,
+      "name": "비에고",
+      "alias": "Viego"
+    },
+    {
+      "id": 235,
+      "name": "세나",
+      "alias": "Senna"
+    },
+    {
+      "id": 236,
+      "name": "루시안",
+      "alias": "Lucian"
+    },
+    {
+      "id": 238,
+      "name": "제드",
+      "alias": "Zed"
+    },
+    {
+      "id": 240,
+      "name": "클레드",
+      "alias": "Kled"
+    },
+    {
+      "id": 245,
+      "name": "에코",
+      "alias": "Ekko"
+    },
+    {
+      "id": 246,
+      "name": "키아나",
+      "alias": "Qiyana"
+    },
+    {
+      "id": 254,
+      "name": "바이",
+      "alias": "Vi"
+    },
+    {
+      "id": 266,
+      "name": "아트록스",
+      "alias": "Aatrox"
+    },
+    {
+      "id": 267,
+      "name": "나미",
+      "alias": "Nami"
+    },
+    {
+      "id": 268,
+      "name": "아지르",
+      "alias": "Azir"
+    },
+    {
+      "id": 350,
+      "name": "유미",
+      "alias": "Yuumi"
+    },
+    {
+      "id": 360,
+      "name": "사미라",
+      "alias": "Samira"
+    },
+    {
+      "id": 412,
+      "name": "쓰레쉬",
+      "alias": "Thresh"
+    },
+    {
+      "id": 420,
+      "name": "일라오이",
+      "alias": "Illaoi"
+    },
+    {
+      "id": 421,
+      "name": "렉사이",
+      "alias": "RekSai"
+    },
+    {
+      "id": 427,
+      "name": "아이번",
+      "alias": "Ivern"
+    },
+    {
+      "id": 429,
+      "name": "칼리스타",
+      "alias": "Kalista"
+    },
+    {
+      "id": 432,
+      "name": "바드",
+      "alias": "Bard"
+    },
+    {
+      "id": 497,
+      "name": "라칸",
+      "alias": "Rakan"
+    },
+    {
+      "id": 498,
+      "name": "자야",
+      "alias": "Xayah"
+    },
+    {
+      "id": 516,
+      "name": "오른",
+      "alias": "Ornn"
+    },
+    {
+      "id": 517,
+      "name": "사일러스",
+      "alias": "Sylas"
+    },
+    {
+      "id": 518,
+      "name": "니코",
+      "alias": "Neeko"
+    },
+    {
+      "id": 523,
+      "name": "아펠리오스",
+      "alias": "Aphelios"
+    },
+    {
+      "id": 526,
+      "name": "렐",
+      "alias": "Rell"
+    },
+    {
+      "id": 555,
+      "name": "파이크",
+      "alias": "Pyke"
+    },
+    {
+      "id": 711,
+      "name": "벡스",
+      "alias": "Vex"
+    },
+    {
+      "id": 777,
+      "name": "요네",
+      "alias": "Yone"
+    },
+    {
+      "id": 799,
+      "name": "암베사",
+      "alias": "Ambessa"
+    },
+    {
+      "id": 800,
+      "name": "멜",
+      "alias": "Mel"
+    },
+    {
+      "id": 875,
+      "name": "세트",
+      "alias": "Sett"
+    },
+    {
+      "id": 876,
+      "name": "릴리아",
+      "alias": "Lillia"
+    },
+    {
+      "id": 887,
+      "name": "그웬",
+      "alias": "Gwen"
+    },
+    {
+      "id": 888,
+      "name": "레나타 글라스크",
+      "alias": "Renata"
+    },
+    {
+      "id": 893,
+      "name": "오로라",
+      "alias": "Aurora"
+    },
+    {
+      "id": 895,
+      "name": "닐라",
+      "alias": "Nilah"
+    },
+    {
+      "id": 897,
+      "name": "크산테",
+      "alias": "KSante"
+    },
+    {
+      "id": 901,
+      "name": "스몰더",
+      "alias": "Smolder"
+    },
+    {
+      "id": 902,
+      "name": "밀리오",
+      "alias": "Milio"
+    },
+    {
+      "id": 910,
+      "name": "흐웨이",
+      "alias": "Hwei"
+    },
+    {
+      "id": 950,
+      "name": "나피리",
+      "alias": "Naafiri"
+    }
+  ]
+}

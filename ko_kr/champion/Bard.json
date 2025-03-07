@@ -1,0 +1,60 @@
+{
+  "id": 432,
+  "name": "바드",
+  "alias": "Bard",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/432.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 432000,
+      "name": "바드",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 432001,
+      "name": "나무정령 바드",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432005,
+      "name": "눈싸움 달인 바드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432006,
+      "name": "음유시인 바드",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432008,
+      "name": "우주비행사 바드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432017,
+      "name": "귀염둥이 카페 바드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432026,
+      "name": "전설의 산수화 바드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432035,
+      "name": "T1 바드",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

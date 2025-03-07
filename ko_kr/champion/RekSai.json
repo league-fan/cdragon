@@ -1,0 +1,48 @@
+{
+  "id": 421,
+  "name": "렉사이",
+  "alias": "RekSai",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/421.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 421000,
+      "name": "렉사이",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 421001,
+      "name": "이터늄 렉사이",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421002,
+      "name": "수영장 파티 렉사이",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421009,
+      "name": "어둠서리 렉사이",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421017,
+      "name": "나무정령 렉사이",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421026,
+      "name": "태고족 렉사이",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

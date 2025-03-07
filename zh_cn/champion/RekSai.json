@@ -1,0 +1,48 @@
+{
+  "id": 421,
+  "name": "虚空遁地兽",
+  "alias": "RekSai",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/421.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 421000,
+      "name": "虚空遁地兽",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 421001,
+      "name": "上古战魂 雷克塞",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421002,
+      "name": "泳池派对 雷克塞",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421009,
+      "name": "黯晶巨兽 雷克塞",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421017,
+      "name": "永恒之森 雷克塞",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421026,
+      "name": "海魔兽 雷克塞",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

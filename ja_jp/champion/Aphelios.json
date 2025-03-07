@@ -1,0 +1,47 @@
+{
+  "id": 523,
+  "name": "アフェリオス",
+  "alias": "Aphelios",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/523.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 523000,
+      "name": "アフェリオス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 523001,
+      "name": "混沌の闇アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 523009,
+      "name": "月の聖獣アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 523018,
+      "name": "EDG アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 523020,
+      "name": "精霊の花祭りアフェリオス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 523030,
+      "name": "HEARTSTEEL アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

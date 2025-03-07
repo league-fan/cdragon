@@ -1,0 +1,41 @@
+{
+  "id": 240,
+  "name": "クレッド",
+  "alias": "Kled",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/240.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 240000,
+      "name": "クレッド",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 240001,
+      "name": "クレッド卿",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 240002,
+      "name": "ドラキュレッド伯爵",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240009,
+      "name": "略奪者クレッド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240018,
+      "name": "ドッグフードヘッド クレッド",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

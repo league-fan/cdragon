@@ -1,0 +1,66 @@
+{
+  "id": 101,
+  "name": "齊勒斯",
+  "alias": "Xerath",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/101.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 101000,
+      "name": "齊勒斯",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 101001,
+      "name": "符文魔導 齊勒斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101002,
+      "name": "科技魔導 齊勒斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101003,
+      "name": "滅世焦土 齊勒斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101004,
+      "name": "砂漠魔導 齊勒斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101005,
+      "name": "幽冥煞星 齊勒斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101012,
+      "name": "惡魔 齊勒斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101021,
+      "name": "太空魔導 齊勒斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101030,
+      "name": "不羈幻晶 齊勒斯",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

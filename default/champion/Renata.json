@@ -1,0 +1,48 @@
+{
+  "id": 888,
+  "name": "Renata Glasc",
+  "alias": "Renata",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/888.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 888000,
+      "name": "Renata Glasc",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 888001,
+      "name": "Admiral Glasc",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888010,
+      "name": "Fright Night Renata Glasc",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888020,
+      "name": "La Ilusión Renata Glasc",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888021,
+      "name": "Prestige La Ilusión Renata Glasc",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 888031,
+      "name": "Masque of the Black Rose Renata Glasc",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

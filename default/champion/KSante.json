@@ -1,0 +1,36 @@
+{
+  "id": 897,
+  "name": "K'Sante",
+  "alias": "KSante",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/897.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 897000,
+      "name": "K'Sante",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 897001,
+      "name": "Empyrean K'Sante",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 897002,
+      "name": "Prestige Empyrean K'Sante",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 897008,
+      "name": "HEARTSTEEL K'Sante",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

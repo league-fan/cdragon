@@ -1,0 +1,36 @@
+{
+  "id": 897,
+  "name": "卡桑帝",
+  "alias": "KSante",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/897.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 897000,
+      "name": "卡桑帝",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 897001,
+      "name": "宇宙幻焰 卡桑帝",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 897002,
+      "name": "尊爵不凡 宇宙幻焰 卡桑帝",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 897008,
+      "name": "心鋼之聲 卡桑帝",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

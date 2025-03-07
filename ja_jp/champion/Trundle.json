@@ -1,0 +1,66 @@
+{
+  "id": 48,
+  "name": "トランドル",
+  "alias": "Trundle",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/48.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 48000,
+      "name": "トランドル",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 48001,
+      "name": "ホームラン王トランドル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 48002,
+      "name": "ガラクタ王トランドル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 48003,
+      "name": "伝統的な衣装トランドル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 48004,
+      "name": "トランドル巡査",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 48005,
+      "name": "天地の破壊者トランドル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 48006,
+      "name": "龍殺しトランドル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 48012,
+      "name": "恐怖の夜トランドル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 48021,
+      "name": "eスポーツファン トランドル",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

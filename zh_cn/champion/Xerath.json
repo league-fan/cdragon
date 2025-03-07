@@ -1,0 +1,66 @@
+{
+  "id": 101,
+  "name": "远古巫灵",
+  "alias": "Xerath",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/101.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 101000,
+      "name": "远古巫灵",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 101001,
+      "name": "符文生物 泽拉斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101002,
+      "name": "战地法师 泽拉斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101003,
+      "name": "枯萎之壤 泽拉斯",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 101004,
+      "name": "沙之守护 泽拉斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101005,
+      "name": "暗星 泽拉斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101012,
+      "name": "欲望之主 泽拉斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101021,
+      "name": "宇航员 泽拉斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101030,
+      "name": "水晶巫灵 泽拉斯",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

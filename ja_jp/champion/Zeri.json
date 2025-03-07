@@ -1,0 +1,47 @@
+{
+  "id": 221,
+  "name": "ゼリ",
+  "alias": "Zeri",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/221.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 221000,
+      "name": "ゼリ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 221001,
+      "name": "枯朽の薔薇ゼリ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221010,
+      "name": "オーシャンソング ゼリ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221019,
+      "name": "不滅の旅路ゼリ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221028,
+      "name": "恐怖の夜ゼリ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221029,
+      "name": "プレステージ恐怖の夜ゼリ",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

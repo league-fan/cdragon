@@ -1,0 +1,42 @@
+{
+  "id": 427,
+  "name": "翠神",
+  "alias": "Ivern",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/427.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 427000,
+      "name": "翠神",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 427001,
+      "name": "糖果之王 艾翁",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427002,
+      "name": "灌篮高手 艾翁",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427011,
+      "name": "古神 艾翁",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427020,
+      "name": "宇航员 艾翁",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

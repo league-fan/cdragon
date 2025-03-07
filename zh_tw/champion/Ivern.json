@@ -1,0 +1,42 @@
+{
+  "id": 427,
+  "name": "埃爾文",
+  "alias": "Ivern",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/427.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 427000,
+      "name": "埃爾文",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 427001,
+      "name": "甜點國王 埃爾文",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427002,
+      "name": "灌籃高手 埃爾文",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427011,
+      "name": "古神 埃爾文",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427020,
+      "name": "太空樹人 埃爾文",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

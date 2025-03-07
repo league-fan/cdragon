@@ -1,0 +1,30 @@
+{
+  "id": 895,
+  "name": "닐라",
+  "alias": "Nilah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/895.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 895000,
+      "name": "닐라",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 895001,
+      "name": "별 수호자 닐라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 895011,
+      "name": "악의 여단 닐라",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

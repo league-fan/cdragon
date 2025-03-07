@@ -1,0 +1,96 @@
+{
+  "id": 110,
+  "name": "바루스",
+  "alias": "Varus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/110.png",
+  "roles": [
+    "marksman",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 110000,
+      "name": "바루스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 110001,
+      "name": "역병 수정 바루스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 110002,
+      "name": "빛의 바루스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 110003,
+      "name": "설원 특공대 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110004,
+      "name": "사랑의 추적자 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110005,
+      "name": "날쌘 화살 바루스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 110006,
+      "name": "암흑의 별 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110007,
+      "name": "정복자 바루스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 110009,
+      "name": "지옥의 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110016,
+      "name": "프로젝트: 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110017,
+      "name": "우주 사냥꾼 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110034,
+      "name": "하이 눈 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110044,
+      "name": "서리달 바루스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 110053,
+      "name": "창공 바루스",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

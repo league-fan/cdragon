@@ -1,0 +1,96 @@
+{
+  "id": 80,
+  "name": "판테온",
+  "alias": "Pantheon",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/80.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 80000,
+      "name": "판테온",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 80001,
+      "name": "미르미돈 판테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80002,
+      "name": "무자비한 판테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80003,
+      "name": "페르세우스 판테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80004,
+      "name": "강철의 판테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80005,
+      "name": "언월도 판테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80006,
+      "name": "용 사냥꾼 판테온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 80007,
+      "name": "좀비 슬레이어 판테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80008,
+      "name": "빵테온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80016,
+      "name": "펄스 건 판테온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 80025,
+      "name": "몰락한 판테온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 80026,
+      "name": "프레스티지 초월한 판테온",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 80036,
+      "name": "재의 정복자 판테온",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 80038,
+      "name": "늑대에게 선택받은 자 판테온",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

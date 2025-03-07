@@ -1,0 +1,30 @@
+{
+  "id": 895,
+  "name": "不羁之悦",
+  "alias": "Nilah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/895.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 895000,
+      "name": "不羁之悦",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 895001,
+      "name": "星之守护者 尼菈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 895011,
+      "name": "魔女 尼菈",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

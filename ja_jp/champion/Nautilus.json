@@ -1,0 +1,78 @@
+{
+  "id": 111,
+  "name": "ノーチラス",
+  "alias": "Nautilus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/111.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 111000,
+      "name": "ノーチラス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 111001,
+      "name": "深海底の主ノーチラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111002,
+      "name": "地底の支配者ノーチラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111003,
+      "name": "アストロノーチラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111004,
+      "name": "番人ノーチラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111005,
+      "name": "天地の破壊者ノーチラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111006,
+      "name": "覇者ノーチラス",
+      "rarity": "kRare",
+      "isBase": false
+    },
+    {
+      "id": 111009,
+      "name": "山海絵巻伝ノーチラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111018,
+      "name": "恐怖の夜ノーチラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111027,
+      "name": "宇宙の勇士ノーチラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111036,
+      "name": "クリスタリス インドゥミタス ノーチラス",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

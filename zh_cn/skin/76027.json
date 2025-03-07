@@ -1,0 +1,61 @@
+{
+  "id": 76027,
+  "contentId": "7ceb832a-1fcb-4621-9fee-ac70fc692316",
+  "isBase": false,
+  "name": "DWG 奈德丽",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin27/Images/nidalee_splash_centered_27.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin27/Images/nidalee_splash_uncentered_27.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin27/Images/nidalee_splash_tile_27.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin27/NidaleeLoadscreen_27.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin27/NidaleeLoadscreen_27_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/76/76027.png",
+  "chromas": [
+    {
+      "id": 76028,
+      "name": "DWG 奈德丽 精锐",
+      "contentId": "37b0e4ee-151c-44f7-be2b-189070efc8fb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/76/76028.png",
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在季中冠军赛(2021)期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 145
+    }
+  ],
+  "description": "以此致敬Canyon在2020全球总决赛中使用奈德丽的夺胜表现。"
+}

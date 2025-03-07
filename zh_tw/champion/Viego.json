@@ -1,0 +1,54 @@
+{
+  "id": 234,
+  "name": "維爾戈",
+  "alias": "Viego",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/234.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 234000,
+      "name": "維爾戈",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 234001,
+      "name": "牛年特戰隊 維爾戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234010,
+      "name": "殺五社異音 維爾戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234019,
+      "name": "EDG 維爾戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234021,
+      "name": "王者 維爾戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234030,
+      "name": "戰魂鬥士 維爾戈",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 234037,
+      "name": "2024世界大賽 維爾戈",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

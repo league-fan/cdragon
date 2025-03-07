@@ -1,0 +1,48 @@
+{
+  "id": 360,
+  "name": "사미라",
+  "alias": "Samira",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/360.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 360000,
+      "name": "사미라",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 360001,
+      "name": "초능력특공대 사미라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360010,
+      "name": "우주 그루브 사미라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360020,
+      "name": "하이 눈 사미라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360030,
+      "name": "소울 파이터 사미라",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 360033,
+      "name": "검은 장미단의 가면 무도회 사미라",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 62,
+  "name": "ウーコン",
+  "alias": "MonkeyKing",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/62.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 62000,
+      "name": "ウーコン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 62001,
+      "name": "火山岩ウーコン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62002,
+      "name": "ウーコン大将",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62003,
+      "name": "翡翠龍ウーコン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62004,
+      "name": "冥府の世界ウーコン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62005,
+      "name": "暁光のウーコン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62006,
+      "name": "ランサーストラタス ウーコン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62007,
+      "name": "バトルアカデミア ウーコン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62016,
+      "name": "古の賢樹ウーコン",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

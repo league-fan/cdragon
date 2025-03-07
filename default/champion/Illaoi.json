@@ -1,0 +1,48 @@
+{
+  "id": 420,
+  "name": "Illaoi",
+  "alias": "Illaoi",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/420.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 420000,
+      "name": "Illaoi",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 420001,
+      "name": "Void Bringer Illaoi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420002,
+      "name": "Resistance Illaoi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420010,
+      "name": "Cosmic Invoker Illaoi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420018,
+      "name": "Snow Moon Illaoi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420027,
+      "name": "Battle Bear Illaoi",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

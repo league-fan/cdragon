@@ -1,0 +1,54 @@
+{
+  "id": 6,
+  "name": "Urgot",
+  "alias": "Urgot",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/6.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 6000,
+      "name": "Urgot",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 6001,
+      "name": "Giant Enemy Crabgot",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6002,
+      "name": "Butcher Urgot",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6003,
+      "name": "Battlecast Urgot",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6009,
+      "name": "High Noon Urgot",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6015,
+      "name": "Pajama Guardian Cosplay Urgot",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6023,
+      "name": "Fright Night Urgot",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 101,
+  "name": "Xerath",
+  "alias": "Xerath",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/101.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 101000,
+      "name": "Xerath",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 101001,
+      "name": "Runeborn Xerath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101002,
+      "name": "Battlecast Xerath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101003,
+      "name": "Scorched Earth Xerath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101004,
+      "name": "Guardian of the Sands Xerath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101005,
+      "name": "Dark Star Xerath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101012,
+      "name": "Arcana Xerath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101021,
+      "name": "Astronaut Xerath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101030,
+      "name": "Crystalis Indomitus Xerath",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

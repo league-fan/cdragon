@@ -1,0 +1,41 @@
+{
+  "id": 516,
+  "name": "Ornn",
+  "alias": "Ornn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/516.png",
+  "roles": [
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 516000,
+      "name": "Ornn",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 516001,
+      "name": "Thunder Lord Ornn",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516002,
+      "name": "Elderwood Ornn",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516011,
+      "name": "Space Groove Ornn",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516020,
+      "name": "Choo-Choo Ornn",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 68,
+  "name": "Rumble",
+  "alias": "Rumble",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/68.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 68000,
+      "name": "Rumble",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 68001,
+      "name": "Rumble in the Jungle",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68002,
+      "name": "Bilgerat Rumble",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68003,
+      "name": "Super Galaxy Rumble",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 68004,
+      "name": "Badlands Baron Rumble",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68013,
+      "name": "Space Groove Rumble",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68023,
+      "name": "Cafe Cuties Rumble",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

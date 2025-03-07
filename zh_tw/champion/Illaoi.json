@@ -1,0 +1,48 @@
+{
+  "id": 420,
+  "name": "伊羅旖",
+  "alias": "Illaoi",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/420.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 420000,
+      "name": "伊羅旖",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 420001,
+      "name": "虛空使者 伊羅旖",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420002,
+      "name": "鋼鐵叛軍 伊羅旖",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420010,
+      "name": "星河水瓶 伊羅旖",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420018,
+      "name": "雪月祭司 伊羅旖",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420027,
+      "name": "戰鬥熊女 伊羅旖",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 3,
+  "name": "正义巨像",
+  "alias": "Galio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/3.png",
+  "roles": [
+    "tank",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 3000,
+      "name": "正义巨像",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 3001,
+      "name": "幽蓝梦魇 加里奥",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3002,
+      "name": "机械迷城 加里奥",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3003,
+      "name": "战地之王 加里奥",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3004,
+      "name": "地狱之门卫士 加里奥",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 3005,
+      "name": "风执事 加里奥",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3006,
+      "name": "鸡里奥",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3013,
+      "name": "地狱火 加里奥",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3019,
+      "name": "龙族卫士 加里奥",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3028,
+      "name": "剪纸仙灵 加里奥",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

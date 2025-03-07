@@ -1,0 +1,72 @@
+{
+  "id": 875,
+  "name": "세트",
+  "alias": "Sett",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/875.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 875000,
+      "name": "세트",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 875001,
+      "name": "메카 삼국 세트",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 875008,
+      "name": "흑요석용 세트",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 875009,
+      "name": "프레스티지 흑요석용 세트",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 875010,
+      "name": "수영장 파티 세트",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 875019,
+      "name": "불꽃놀이 세트",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 875038,
+      "name": "영혼의 꽃 세트",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 875045,
+      "name": "소울 파이터 세트",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 875056,
+      "name": "HEARTSTEEL 세트",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 875066,
+      "name": "찬란한 바다뱀 세트",
+      "rarity": "kExalted",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 163,
+  "name": "岩雀",
+  "alias": "Taliyah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/163.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 163000,
+      "name": "岩雀",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 163001,
+      "name": "弗雷尔卓德 塔莉垭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163002,
+      "name": "SSG 塔莉垭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163003,
+      "name": "泳池派对 塔莉垭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163011,
+      "name": "星之守护者 塔莉垭",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 163021,
+      "name": "水晶圣骑 塔莉垭",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9,
+  "name": "피들스틱",
+  "alias": "FiddleSticks",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/9.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 9000,
+      "name": "피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 9001,
+      "name": "유령 피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9002,
+      "name": "유니언 잭 피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9003,
+      "name": "노상강도 피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9004,
+      "name": "호박머리 피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9005,
+      "name": "해적 피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9006,
+      "name": "깜짝 파티 피들스틱",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 9007,
+      "name": "어둠 막대사탕 피들스틱",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9008,
+      "name": "부활한 피들스틱",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 9009,
+      "name": "시공간 침략자 피들스틱",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 9027,
+      "name": "별의 숙적 피들스틱",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 9037,
+      "name": "핏빛달 피들스틱",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 75,
+  "name": "納瑟斯",
+  "alias": "Nasus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/75.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 75000,
+      "name": "納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 75001,
+      "name": "星際之門 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 75002,
+      "name": "法老王朝 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 75003,
+      "name": "恐懼騎士 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 75004,
+      "name": "鎮暴警犬 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 75005,
+      "name": "地獄火 納瑟斯",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 75006,
+      "name": "大公爵 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 75010,
+      "name": "文明末日 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 75011,
+      "name": "玄天衛士 納瑟斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 75016,
+      "name": "狂派機甲 納瑟斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 75025,
+      "name": "太空律動 納瑟斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 75035,
+      "name": "重裝泰坦 納瑟斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 75045,
+      "name": "闇夜使者 納瑟斯",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

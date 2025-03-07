@@ -1,0 +1,78 @@
+{
+  "id": 142020,
+  "contentId": "d147234d-736a-46b6-ae9d-819c8f26272d",
+  "isBase": false,
+  "name": "EDG 佐伊",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Zoe/Skins/Skin20/Images/zoe_splash_centered_20.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Zoe/Skins/Skin20/Images/zoe_splash_uncentered_20.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Zoe/Skins/Skin20/Images/zoe_splash_tile_20.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Zoe/Skins/Skin20/ZoeLoadscreen_20.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Zoe/Skins/Skin20/ZoeLoadscreen_20_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/142/142020.png",
+  "chromas": [
+    {
+      "id": 142021,
+      "name": "EDG 佐伊 破军",
+      "contentId": "868f2532-010e-4720-ba59-5ffa88ba3c2e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/142/142021.png",
+      "colors": [
+        "#131521",
+        "#9E1517"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 142032,
+      "name": "巅峰星灵 佐伊 飞星破梦",
+      "contentId": "f1403cb9-f682-4398-b84c-45a1e96d3e95",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/142/142032.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Champion Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/54.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/54.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 158
+    }
+  ],
+  "description": "以此致敬Scout在2021全球总决赛中使用佐伊的夺胜表现。"
+}

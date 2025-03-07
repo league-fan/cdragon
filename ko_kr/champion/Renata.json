@@ -1,0 +1,48 @@
+{
+  "id": 888,
+  "name": "레나타 글라스크",
+  "alias": "Renata",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/888.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 888000,
+      "name": "레나타 글라스크",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 888001,
+      "name": "제독 글라스크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888010,
+      "name": "공포의 밤 레나타 글라스크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888020,
+      "name": "망자의 환영 레나타 글라스크",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 888021,
+      "name": "프레스티지 망자의 환영 레나타 글라스크",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 888031,
+      "name": "검은 장미단의 가면 무도회 레나타 글라스크",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

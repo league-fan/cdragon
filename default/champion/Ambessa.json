@@ -1,0 +1,24 @@
+{
+  "id": 799,
+  "name": "Ambessa",
+  "alias": "Ambessa",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/799.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 799000,
+      "name": "Ambessa",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 799001,
+      "name": "Chosen of the Wolf Ambessa",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

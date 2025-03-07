@@ -1,0 +1,78 @@
+{
+  "id": 777,
+  "name": "요네",
+  "alias": "Yone",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/777.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 777000,
+      "name": "요네",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 777001,
+      "name": "영혼의 꽃 요네",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777010,
+      "name": "전투사관학교 요네",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777019,
+      "name": "빛의 인도자 요네",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 777026,
+      "name": "바다의 노래 요네",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777035,
+      "name": "먹그림자 요네",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777045,
+      "name": "HEARTSTEEL 요네",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777046,
+      "name": "프레스티지 HEARTSTEEL 요네",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 777055,
+      "name": "하이 눈 요네",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 777058,
+      "name": "평화의 사도 하이 눈 요네",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 777065,
+      "name": "정의의 가면 요네",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

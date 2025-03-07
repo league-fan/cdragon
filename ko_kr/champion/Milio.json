@@ -1,0 +1,30 @@
+{
+  "id": 902,
+  "name": "밀리오",
+  "alias": "Milio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/902.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 902000,
+      "name": "밀리오",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 902001,
+      "name": "요정 왕국 밀리오",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 902011,
+      "name": "비의 인도자 밀리오",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

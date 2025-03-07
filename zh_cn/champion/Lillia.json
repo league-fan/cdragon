@@ -1,0 +1,42 @@
+{
+  "id": 876,
+  "name": "含羞蓓蕾",
+  "alias": "Lillia",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/876.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 876000,
+      "name": "含羞蓓蕾",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 876001,
+      "name": "灵魂莲华 莉莉娅",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876010,
+      "name": "黑夜使者 莉莉娅",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876019,
+      "name": "山海绘卷 莉莉娅",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876028,
+      "name": "花仙子 莉莉娅",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

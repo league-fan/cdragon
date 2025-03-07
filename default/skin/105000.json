@@ -1,0 +1,76 @@
+{
+  "id": 105000,
+  "contentId": "922a068f-ecb8-4e96-b4f7-cecc13d1c05d",
+  "isBase": true,
+  "name": "Fizz",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Base/Images/fizz_splash_centered_0.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Base/Images/fizz_splash_uncentered_0.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Base/Images/fizz_splash_tile_0.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Base/FizzLoadScreen.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105000.png",
+  "chromas": [
+    {
+      "id": 105005,
+      "name": "Fizz Scorch",
+      "contentId": "aeacc9f2-4e75-4d74-b420-7144d9d5d85f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105005.png",
+      "colors": [
+        "#F9E330",
+        "#E6B427"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 105006,
+      "name": "Fizz Scorch",
+      "contentId": "7c06c554-e71f-478b-a016-4fbb52161b62",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105006.png",
+      "colors": [
+        "#78688A",
+        "#23325D"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 105007,
+      "name": "Fizz Scorch",
+      "contentId": "9b9acaf5-a447-4460-9021-ba28c230c339",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105007.png",
+      "colors": [
+        "#D97AAF",
+        "#97192C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": null,
+  "description": null
+}

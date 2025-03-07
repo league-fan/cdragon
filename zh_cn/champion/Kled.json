@@ -1,0 +1,41 @@
+{
+  "id": 240,
+  "name": "暴怒骑士",
+  "alias": "Kled",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/240.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 240000,
+      "name": "暴怒骑士",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 240001,
+      "name": "爵士 克烈",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 240002,
+      "name": "克烈古拉伯爵",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240009,
+      "name": "黑暗骑士 克烈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240018,
+      "name": "狗粮克烈",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

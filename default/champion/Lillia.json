@@ -1,0 +1,42 @@
+{
+  "id": 876,
+  "name": "Lillia",
+  "alias": "Lillia",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/876.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 876000,
+      "name": "Lillia",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 876001,
+      "name": "Spirit Blossom Lillia",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876010,
+      "name": "Nightbringer Lillia",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876019,
+      "name": "Shan Hai Scrolls Lillia",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 876028,
+      "name": "Faerie Court Lillia",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

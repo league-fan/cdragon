@@ -1,0 +1,54 @@
+{
+  "id": 161,
+  "name": "虚空之眼",
+  "alias": "Velkoz",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/161.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 161000,
+      "name": "虚空之眼",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 161001,
+      "name": "战地机甲 维克兹",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161002,
+      "name": "苍穹之光 维克兹",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161003,
+      "name": "这货不是维克兹",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 161004,
+      "name": "地狱火 维克兹",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161011,
+      "name": "黯晶之眼 维克兹",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161020,
+      "name": "天才蜂 维克兹",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

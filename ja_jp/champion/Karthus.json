@@ -1,0 +1,71 @@
+{
+  "id": 30,
+  "name": "カーサス",
+  "alias": "Karthus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/30.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 30000,
+      "name": "カーサス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 30001,
+      "name": "ファントム カーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30002,
+      "name": "自由のカーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30003,
+      "name": "デスゲイト カーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30004,
+      "name": "Pentakill カーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30005,
+      "name": "Fnatic カーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30009,
+      "name": "破滅の光カーサス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30010,
+      "name": "地獄の業火カーサス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 30017,
+      "name": "Pentakill III: ロストチャプター カーサス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 30026,
+      "name": "古の賢樹カーサス",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 72,
+  "name": "스카너",
+  "alias": "Skarner",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/72.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 72000,
+      "name": "스카너",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 72001,
+      "name": "사막의 재앙 스카너",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72002,
+      "name": "대지룬 스카너",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72003,
+      "name": "전투 기계 알파 스카너",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 72004,
+      "name": "사막의 수호자 스카너",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 72005,
+      "name": "우주 전갈 스카너",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

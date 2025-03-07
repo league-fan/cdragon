@@ -1,0 +1,66 @@
+{
+  "id": 83,
+  "name": "Yorick",
+  "alias": "Yorick",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/83.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 83000,
+      "name": "Yorick",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 83001,
+      "name": "Undertaker Yorick",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 83002,
+      "name": "Pentakill Yorick",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 83003,
+      "name": "Arclight Yorick",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83004,
+      "name": "Meowrick",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83012,
+      "name": "Resistance Yorick",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83021,
+      "name": "Pentakill III: Lost Chapter Yorick",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83030,
+      "name": "Spirit Blossom Yorick",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83040,
+      "name": "Dark Star Yorick",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

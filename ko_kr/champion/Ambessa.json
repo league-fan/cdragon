@@ -1,0 +1,24 @@
+{
+  "id": 799,
+  "name": "암베사",
+  "alias": "Ambessa",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/799.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 799000,
+      "name": "암베사",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 799001,
+      "name": "늑대에게 선택받은 자 암베사",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 246,
+  "name": "키아나",
+  "alias": "Qiyana",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/246.png",
+  "roles": [
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 246000,
+      "name": "키아나",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 246001,
+      "name": "중간보스 키아나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 246002,
+      "name": "True Damage 키아나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 246010,
+      "name": "프레스티지 True Damage 키아나",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 246011,
+      "name": "전투 여왕 키아나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 246020,
+      "name": "칼날폭풍 키아나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 246021,
+      "name": "프레스티지 True Damage 키아나 (2022)",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 246030,
+      "name": "달빛 여왕 키아나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 246040,
+      "name": "망자의 환영 키아나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 246050,
+      "name": "프레스티지 전투사관학교 키아나",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

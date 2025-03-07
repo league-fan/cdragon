@@ -1,0 +1,54 @@
+{
+  "id": 161,
+  "name": "벨코즈",
+  "alias": "Velkoz",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/161.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 161000,
+      "name": "벨코즈",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 161001,
+      "name": "전투 기계 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161002,
+      "name": "빛의 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161003,
+      "name": "나 벨코즈 아니다",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 161004,
+      "name": "지옥의 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161011,
+      "name": "어둠서리 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161020,
+      "name": "벌코즈",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

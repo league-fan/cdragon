@@ -1,0 +1,54 @@
+{
+  "id": 68,
+  "name": "ランブル",
+  "alias": "Rumble",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/68.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 68000,
+      "name": "ランブル",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 68001,
+      "name": "ランブル＆ジャングル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68002,
+      "name": "なりきり船長ランブル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68003,
+      "name": "超銀河ランブル",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 68004,
+      "name": "荒くれバロン ランブル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68013,
+      "name": "スペースグルーヴ ランブル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68023,
+      "name": "カフェキューティーズ ランブル",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

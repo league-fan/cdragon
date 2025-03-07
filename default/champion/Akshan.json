@@ -1,0 +1,36 @@
+{
+  "id": 166,
+  "name": "Akshan",
+  "alias": "Akshan",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/166.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 166000,
+      "name": "Akshan",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 166001,
+      "name": "Cyber Pop Akshan",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 166010,
+      "name": "Crystal Rose Akshan",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 166020,
+      "name": "Three Honors Akshan",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 127,
+  "name": "리산드라",
+  "alias": "Lissandra",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/127.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 127000,
+      "name": "리산드라",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 127001,
+      "name": "혈석 리산드라",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 127002,
+      "name": "서슬 여왕 리산드라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127003,
+      "name": "프로그램 리산드라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127004,
+      "name": "악의 여단 리산드라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127012,
+      "name": "암흑 우주 리산드라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127023,
+      "name": "도자기 리산드라",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127033,
+      "name": "프레스티지 도자기 리산드라",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 127034,
+      "name": "우주 그루브 리산드라",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

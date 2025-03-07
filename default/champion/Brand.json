@@ -1,0 +1,90 @@
+{
+  "id": 63,
+  "name": "Brand",
+  "alias": "Brand",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/63.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 63000,
+      "name": "Brand",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 63001,
+      "name": "Apocalyptic Brand",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 63002,
+      "name": "Vandal Brand",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 63003,
+      "name": "Cryocore Brand",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 63004,
+      "name": "Zombie Brand",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 63005,
+      "name": "Spirit Fire Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63006,
+      "name": "Battle Boss Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63007,
+      "name": "Arclight Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63008,
+      "name": "Eternal Dragon Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63021,
+      "name": "Debonair Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63022,
+      "name": "Prestige Debonair Brand",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 63033,
+      "name": "Street Demons Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63042,
+      "name": "Empyrean Brand",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

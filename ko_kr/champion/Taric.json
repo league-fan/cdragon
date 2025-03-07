@@ -1,0 +1,54 @@
+{
+  "id": 44,
+  "name": "타릭",
+  "alias": "Taric",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/44.png",
+  "roles": [
+    "support",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 44000,
+      "name": "타릭",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 44001,
+      "name": "에메랄드 타릭",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44002,
+      "name": "다섯번째 성기사 타릭",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44003,
+      "name": "혈석 타릭",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44004,
+      "name": "수영장 파티 타릭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44009,
+      "name": "빛의 방패 타릭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44018,
+      "name": "우주 그루브 타릭",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

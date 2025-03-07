@@ -1,0 +1,90 @@
+{
+  "id": 245,
+  "name": "에코",
+  "alias": "Ekko",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/245.png",
+  "roles": [
+    "assassin",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 245000,
+      "name": "에코",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 245001,
+      "name": "모래폭풍 에코",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 245002,
+      "name": "전학생 에코",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 245003,
+      "name": "프로젝트: 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 245011,
+      "name": "SKT T1 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 245012,
+      "name": "사탕 이리 주시지! 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 245019,
+      "name": "True Damage 에코",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 245028,
+      "name": "펄스 건 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 245036,
+      "name": "아케인 점화단 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 245045,
+      "name": "별 수호자 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 245046,
+      "name": "프레스티지 별 수호자 에코",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 245056,
+      "name": "빅히트 True Damage 에코",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 245057,
+      "name": "아케인 최후의 저항 에코",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

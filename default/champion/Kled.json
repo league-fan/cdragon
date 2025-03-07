@@ -1,0 +1,41 @@
+{
+  "id": 240,
+  "name": "Kled",
+  "alias": "Kled",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/240.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 240000,
+      "name": "Kled",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 240001,
+      "name": "Sir Kled",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 240002,
+      "name": "Count Kledula",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240009,
+      "name": "Marauder Kled",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240018,
+      "name": "Kibble-Head Kled",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

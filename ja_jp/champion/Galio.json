@@ -1,0 +1,72 @@
+{
+  "id": 3,
+  "name": "ガリオ",
+  "alias": "Galio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/3.png",
+  "roles": [
+    "tank",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 3000,
+      "name": "ガリオ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 3001,
+      "name": "神秘のガリオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3002,
+      "name": "ヘクステック ガリオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3003,
+      "name": "コマンドー ガリオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3004,
+      "name": "地獄の門衛ガリオ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 3005,
+      "name": "おしゃれなガリオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3006,
+      "name": "トリオ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3013,
+      "name": "地獄の業火ガリオ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3019,
+      "name": "龍の守護者ガリオ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3028,
+      "name": "神話創生ガリオ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

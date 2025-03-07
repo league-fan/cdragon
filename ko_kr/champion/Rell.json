@@ -1,0 +1,42 @@
+{
+  "id": 526,
+  "name": "렐",
+  "alias": "Rell",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/526.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 526000,
+      "name": "렐",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 526001,
+      "name": "전투 여왕 렐",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526010,
+      "name": "별 수호자 렐",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526020,
+      "name": "하이 눈 렐",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526030,
+      "name": "장대한 심판 렐",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

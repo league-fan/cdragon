@@ -1,0 +1,41 @@
+{
+  "id": 887,
+  "name": "灵罗娃娃",
+  "alias": "Gwen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/887.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 887000,
+      "name": "灵罗娃娃",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 887001,
+      "name": "太空律动 “百万调音” 格温",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887011,
+      "name": "咖啡甜心 格温",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887020,
+      "name": "斗魂觉醒 格温",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887030,
+      "name": "女帝 格温",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

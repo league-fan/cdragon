@@ -1,0 +1,48 @@
+{
+  "id": 421,
+  "name": "Rek'Sai",
+  "alias": "RekSai",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/421.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 421000,
+      "name": "Rek'Sai",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 421001,
+      "name": "Eternum Rek'Sai",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421002,
+      "name": "Pool Party Rek'Sai",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421009,
+      "name": "Blackfrost Rek'Sai",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421017,
+      "name": "Elderwood Rek'Sai",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 421026,
+      "name": "Primordian Rek'Sai",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

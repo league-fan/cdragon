@@ -1,0 +1,47 @@
+{
+  "id": 221,
+  "name": "제리",
+  "alias": "Zeri",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/221.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 221000,
+      "name": "제리",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 221001,
+      "name": "메마른 장미 제리",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221010,
+      "name": "바다의 노래 제리",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221019,
+      "name": "불멸의 영웅 제리",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221028,
+      "name": "공포의 밤 제리",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221029,
+      "name": "프레스티지 공포의 밤 제리",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

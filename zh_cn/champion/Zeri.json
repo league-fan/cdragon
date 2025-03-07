@@ -1,0 +1,47 @@
+{
+  "id": 221,
+  "name": "祖安花火",
+  "alias": "Zeri",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/221.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 221000,
+      "name": "祖安花火",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 221001,
+      "name": "幽梦玫瑰 泽丽",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221010,
+      "name": "海之歌 泽丽",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 221019,
+      "name": "玉剑传说 神机花火",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221028,
+      "name": "魔域梦魇 泽丽",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 221029,
+      "name": "至臻 魔域梦魇 泽丽",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

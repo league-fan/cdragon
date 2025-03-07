@@ -1,0 +1,60 @@
+{
+  "id": 164,
+  "name": "カミール",
+  "alias": "Camille",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/164.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 164000,
+      "name": "カミール",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 164001,
+      "name": "プログラム カミール",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164002,
+      "name": "盟約の魔女カミール",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164010,
+      "name": "iG カミール",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164011,
+      "name": "アルカナ カミール",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164021,
+      "name": "強襲指揮官カミール",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164031,
+      "name": "冬の祝福カミール",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164032,
+      "name": "プレステージ冬の祝福カミール",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 200,
+  "name": "ベル＝ヴェス",
+  "alias": "Belveth",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/200.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 200000,
+      "name": "ベル＝ヴェス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 200001,
+      "name": "バトルボス ベル＝ヴェス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200010,
+      "name": "宇宙の女傑ベル＝ヴェス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200019,
+      "name": "プライモーディアン ベル＝ヴェス",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

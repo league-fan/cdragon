@@ -1,0 +1,30 @@
+{
+  "id": 902,
+  "name": "ミリオ",
+  "alias": "Milio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/902.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 902000,
+      "name": "ミリオ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 902001,
+      "name": "妖精の王宮ミリオ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 902011,
+      "name": "雨の導き手ミリオ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

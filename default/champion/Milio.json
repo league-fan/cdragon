@@ -1,0 +1,30 @@
+{
+  "id": 902,
+  "name": "Milio",
+  "alias": "Milio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/902.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 902000,
+      "name": "Milio",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 902001,
+      "name": "Faerie Court Milio",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 902011,
+      "name": "Rain Shepherd Milio",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

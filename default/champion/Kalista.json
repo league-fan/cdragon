@@ -1,0 +1,47 @@
+{
+  "id": 429,
+  "name": "Kalista",
+  "alias": "Kalista",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/429.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 429000,
+      "name": "Kalista",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 429001,
+      "name": "Blood Moon Kalista",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429002,
+      "name": "Worlds 2015 Kalista",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429003,
+      "name": "SKT T1 Kalista",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429005,
+      "name": "Marauder Kalista",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 429014,
+      "name": "Faerie Court Kalista",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 72,
+  "name": "スカーナー",
+  "alias": "Skarner",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/72.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 72000,
+      "name": "スカーナー",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 72001,
+      "name": "砂漠の悪魔スカーナー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72002,
+      "name": "アースルーン スカーナー",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72003,
+      "name": "バトルキャスト スカーナーα",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 72004,
+      "name": "砂漠の守護神スカーナー",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 72005,
+      "name": "宇宙の尖針スカーナー",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

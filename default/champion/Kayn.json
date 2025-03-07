@@ -1,0 +1,60 @@
+{
+  "id": 141,
+  "name": "Kayn",
+  "alias": "Kayn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/141.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 141000,
+      "name": "Kayn",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 141001,
+      "name": "Soulhunter Kayn",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141002,
+      "name": "Odyssey Kayn",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141008,
+      "name": "Nightbringer Kayn",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141009,
+      "name": "Prestige Nightbringer Kayn",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 141015,
+      "name": "Snow Moon Kayn",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141020,
+      "name": "HEARTSTEEL Kayn",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141026,
+      "name": "Battle Academia Kayn",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

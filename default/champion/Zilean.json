@@ -1,0 +1,60 @@
+{
+  "id": 26,
+  "name": "Zilean",
+  "alias": "Zilean",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/26.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 26000,
+      "name": "Zilean",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 26001,
+      "name": "Old Saint Zilean",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 26002,
+      "name": "Groovy Zilean",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 26003,
+      "name": "Shurima Desert Zilean",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 26004,
+      "name": "Time Machine Zilean",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 26005,
+      "name": "Blood Moon Zilean",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 26006,
+      "name": "Sugar Rush Zilean",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 26014,
+      "name": "Winterblessed Zilean",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

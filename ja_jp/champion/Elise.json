@@ -1,0 +1,72 @@
+{
+  "id": 60,
+  "name": "エリス",
+  "alias": "Elise",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/60.png",
+  "roles": [
+    "assassin",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 60000,
+      "name": "エリス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 60001,
+      "name": "死の華エリス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60002,
+      "name": "勝利の栄光エリス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60003,
+      "name": "ブラッドムーン エリス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60004,
+      "name": "SKT T1 エリス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 60005,
+      "name": "超銀河エリス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60006,
+      "name": "魅惑の魔女エリス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60015,
+      "name": "枯朽の薔薇エリス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60024,
+      "name": "盟約の魔女エリス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 60034,
+      "name": "黒薔薇の仮面エリス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

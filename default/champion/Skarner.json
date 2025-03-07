@@ -1,0 +1,48 @@
+{
+  "id": 72,
+  "name": "Skarner",
+  "alias": "Skarner",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/72.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 72000,
+      "name": "Skarner",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 72001,
+      "name": "Sandscourge Skarner",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72002,
+      "name": "Earthrune Skarner",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72003,
+      "name": "Battlecast Alpha Skarner",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 72004,
+      "name": "Guardian of the Sands Skarner",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 72005,
+      "name": "Cosmic Sting Skarner",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

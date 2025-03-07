@@ -1,0 +1,66 @@
+{
+  "id": 350,
+  "name": "魔法猫咪",
+  "alias": "Yuumi",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/350.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 350000,
+      "name": "魔法猫咪",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 350001,
+      "name": "战斗校长 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350011,
+      "name": "觅心猫猫 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350019,
+      "name": "小蜜蜂 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350028,
+      "name": "魅惑女巫 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350037,
+      "name": "EDG 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350039,
+      "name": "狗头猫咪 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350049,
+      "name": "人工智能 悠米",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350050,
+      "name": "至臻 人工智能 悠米",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

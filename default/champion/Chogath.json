@@ -1,0 +1,78 @@
+{
+  "id": 31,
+  "name": "Cho'Gath",
+  "alias": "Chogath",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/31.png",
+  "roles": [
+    "tank",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 31000,
+      "name": "Cho'Gath",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 31001,
+      "name": "Nightmare Cho'Gath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 31002,
+      "name": "Gentleman Cho'Gath",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 31003,
+      "name": "Loch Ness Cho'Gath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 31004,
+      "name": "Jurassic Cho'Gath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 31005,
+      "name": "Battlecast Prime Cho'Gath",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 31006,
+      "name": "Prehistoric Cho'Gath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 31007,
+      "name": "Dark Star Cho'Gath",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 31014,
+      "name": "Shan Hai Scrolls Cho'Gath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 31023,
+      "name": "Broken Covenant Cho'Gath",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 31032,
+      "name": "Toy Terror Cho'Gath",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

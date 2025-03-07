@@ -1,0 +1,96 @@
+{
+  "id": 80,
+  "name": "Pantheon",
+  "alias": "Pantheon",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/80.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 80000,
+      "name": "Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 80001,
+      "name": "Myrmidon Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80002,
+      "name": "Ruthless Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80003,
+      "name": "Perseus Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80004,
+      "name": "Full Metal Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80005,
+      "name": "Glaive Warrior Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80006,
+      "name": "Dragonslayer Pantheon",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 80007,
+      "name": "Zombie Slayer Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80008,
+      "name": "Baker Pantheon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 80016,
+      "name": "Pulsefire Pantheon",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 80025,
+      "name": "Ruined Pantheon",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 80026,
+      "name": "Prestige Ascended Pantheon",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 80036,
+      "name": "Ashen Conqueror Pantheon",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 80038,
+      "name": "Chosen of the Wolf Pantheon",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

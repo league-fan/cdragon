@@ -1,0 +1,65 @@
+{
+  "id": 121,
+  "name": "虚空掠夺者",
+  "alias": "Khazix",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/121.png",
+  "roles": [
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 121000,
+      "name": "虚空掠夺者",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 121001,
+      "name": "霸天异形 卡兹克",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 121002,
+      "name": "沙之守护 卡兹克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 121003,
+      "name": "死亡绽放 卡兹克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 121004,
+      "name": "暗星 卡兹克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121011,
+      "name": "冠军掠夺者 卡兹克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121060,
+      "name": "奥德赛 卡兹克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121069,
+      "name": "春晖海神 卡兹克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121079,
+      "name": "水晶掠夺者 卡兹克",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 233,
+  "name": "ブライアー",
+  "alias": "Briar",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/233.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 233000,
+      "name": "ブライアー",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 233001,
+      "name": "ストリートデーモン ブライアー",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 233010,
+      "name": "プライモーディアン ブライアー",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

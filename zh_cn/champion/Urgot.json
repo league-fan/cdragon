@@ -1,0 +1,54 @@
+{
+  "id": 6,
+  "name": "无畏战车",
+  "alias": "Urgot",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/6.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 6000,
+      "name": "无畏战车",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 6001,
+      "name": "深渊巨蟹 厄加特",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6002,
+      "name": "电锯狂人 厄加特",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6003,
+      "name": "战地机甲 厄加特",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 6009,
+      "name": "西部魔影 厄加特",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6015,
+      "name": "星之守护者COS 厄加特",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6023,
+      "name": "魔域梦魇 厄加特",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

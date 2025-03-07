@@ -1,0 +1,54 @@
+{
+  "id": 77,
+  "name": "烏迪爾",
+  "alias": "Udyr",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/77.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 77000,
+      "name": "烏迪爾",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 77001,
+      "name": "黑帶高手 烏迪爾",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77002,
+      "name": "百獸戰隊 烏迪爾",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77003,
+      "name": "極獸霸魂 烏迪爾",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 77004,
+      "name": "我不是烏迪爾",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77005,
+      "name": "神龍之諭 烏迪爾",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 77006,
+      "name": "墨影戰士 烏迪爾",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

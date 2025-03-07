@@ -1,0 +1,60 @@
+{
+  "id": 432,
+  "name": "バード",
+  "alias": "Bard",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/432.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 432000,
+      "name": "バード",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 432001,
+      "name": "古の賢樹バード",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432005,
+      "name": "雪遊びバード",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432006,
+      "name": "吟遊詩人バード",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432008,
+      "name": "宇宙飛行士バード",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432017,
+      "name": "カフェキューティーズ バード",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432026,
+      "name": "山海絵巻伝バード",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432035,
+      "name": "T1 バード",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

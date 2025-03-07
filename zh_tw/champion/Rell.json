@@ -1,0 +1,42 @@
+{
+  "id": 526,
+  "name": "銳兒",
+  "alias": "Rell",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/526.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 526000,
+      "name": "銳兒",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 526001,
+      "name": "戰爭女皇 銳兒",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526010,
+      "name": "星光戰士 銳兒",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526020,
+      "name": "西域牛仔 銳兒",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526030,
+      "name": "大角鬥賽 銳兒",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

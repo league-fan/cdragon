@@ -1,0 +1,60 @@
+{
+  "id": 141,
+  "name": "케인",
+  "alias": "Kayn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/141.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 141000,
+      "name": "케인",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 141001,
+      "name": "영혼사냥꾼 케인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141002,
+      "name": "오디세이 케인",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141008,
+      "name": "어둠의 인도자 케인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141009,
+      "name": "프레스티지 어둠의 인도자 케인",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 141015,
+      "name": "서리달 케인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141020,
+      "name": "HEARTSTEEL 케인",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141026,
+      "name": "전투사관학교 케인",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

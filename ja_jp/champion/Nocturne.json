@@ -1,0 +1,78 @@
+{
+  "id": 56,
+  "name": "ノクターン",
+  "alias": "Nocturne",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/56.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 56000,
+      "name": "ノクターン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 56001,
+      "name": "凍てつく恐怖ノクターン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 56002,
+      "name": "ヴォイド ノクターン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 56003,
+      "name": "破壊の化身ノクターン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 56004,
+      "name": "怨霊ノクターン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 56005,
+      "name": "無限の闇ノクターン",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 56006,
+      "name": "呪われし亡霊ノクターン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 56007,
+      "name": "古の神ノクターン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 56016,
+      "name": "ヘクステック ノクターン",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 56017,
+      "name": "破られし盟約ノクターン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 56026,
+      "name": "荘厳の天球ノクターン",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

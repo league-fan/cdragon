@@ -1,0 +1,30 @@
+{
+  "id": 895,
+  "name": "ニーラ",
+  "alias": "Nilah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/895.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 895000,
+      "name": "ニーラ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 895001,
+      "name": "スターガーディアン ニーラ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 895011,
+      "name": "盟約の魔女ニーラ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

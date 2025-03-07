@@ -1,0 +1,36 @@
+{
+  "id": 897,
+  "name": "크산테",
+  "alias": "KSante",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/897.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 897000,
+      "name": "크산테",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 897001,
+      "name": "창공 크산테",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 897002,
+      "name": "프레스티지 창공 크산테",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 897008,
+      "name": "HEARTSTEEL 크산테",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

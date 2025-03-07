@@ -1,0 +1,65 @@
+{
+  "id": 203,
+  "name": "Kindred",
+  "alias": "Kindred",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/203.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 203000,
+      "name": "Kindred",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 203001,
+      "name": "Shadowfire Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203002,
+      "name": "Super Galaxy Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203003,
+      "name": "Spirit Blossom Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203012,
+      "name": "Porcelain Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203022,
+      "name": "Woof and Lamb Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203023,
+      "name": "DRX Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203033,
+      "name": "Prestige Porcelain Kindred",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 203034,
+      "name": "Chosen of the Wolf Kindred",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

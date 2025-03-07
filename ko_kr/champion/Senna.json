@@ -1,0 +1,78 @@
+{
+  "id": 235,
+  "name": "세나",
+  "alias": "Senna",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/235.png",
+  "roles": [
+    "support",
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 235000,
+      "name": "세나",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 235001,
+      "name": "True Damage 세나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235009,
+      "name": "프레스티지 True Damage 세나",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235010,
+      "name": "하이 눈 세나",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235016,
+      "name": "프로젝트: 세나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235026,
+      "name": "달을 삼킨 세나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235027,
+      "name": "프레스티지 달을 삼킨 세나",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235036,
+      "name": "마녀 세나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235046,
+      "name": "별 수호자 세나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235056,
+      "name": "겨울의 축복 세나",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235063,
+      "name": "정의의 가면 세나",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

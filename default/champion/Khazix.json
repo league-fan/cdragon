@@ -1,0 +1,65 @@
+{
+  "id": 121,
+  "name": "Kha'Zix",
+  "alias": "Khazix",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/121.png",
+  "roles": [
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 121000,
+      "name": "Kha'Zix",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 121001,
+      "name": "Mecha Kha'Zix",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121002,
+      "name": "Guardian of the Sands Kha'Zix",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 121003,
+      "name": "Death Blossom Kha'Zix",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 121004,
+      "name": "Dark Star Kha'Zix",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121011,
+      "name": "Worlds 2018 Kha'Zix",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121060,
+      "name": "Odyssey Kha'Zix",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121069,
+      "name": "Lunar Guardian Kha'Zix",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121079,
+      "name": "Crystalis Indomitus Kha'Zix",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

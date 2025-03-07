@@ -1,0 +1,66 @@
+{
+  "id": 83,
+  "name": "ヨリック",
+  "alias": "Yorick",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/83.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 83000,
+      "name": "ヨリック",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 83001,
+      "name": "墓守ヨリック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 83002,
+      "name": "Pentakill ヨリック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 83003,
+      "name": "アークライト ヨリック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83004,
+      "name": "ミャオリック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83012,
+      "name": "レジスタンス ヨリック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83021,
+      "name": "Pentakill III: ロストチャプター ヨリック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83030,
+      "name": "精霊の花祭りヨリック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83040,
+      "name": "ダークスター ヨリック",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

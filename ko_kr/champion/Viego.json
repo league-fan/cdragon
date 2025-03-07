@@ -1,0 +1,54 @@
+{
+  "id": 234,
+  "name": "비에고",
+  "alias": "Viego",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/234.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 234000,
+      "name": "비에고",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 234001,
+      "name": "새해 야수 비에고",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234010,
+      "name": "펜타킬의 불협화음 비에고",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234019,
+      "name": "EDG 비에고",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234021,
+      "name": "왕 비에고",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234030,
+      "name": "소울 파이터 비에고",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 234037,
+      "name": "2024 월드 챔피언십 비에고",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

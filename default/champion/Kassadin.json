@@ -1,0 +1,72 @@
+{
+  "id": 38,
+  "name": "Kassadin",
+  "alias": "Kassadin",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/38.png",
+  "roles": [
+    "assassin",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 38000,
+      "name": "Kassadin",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 38001,
+      "name": "Festival Kassadin",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 38002,
+      "name": "Deep One Kassadin",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 38003,
+      "name": "Pre-Void Kassadin",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 38004,
+      "name": "Harbinger Kassadin",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 38005,
+      "name": "Cosmic Reaver Kassadin",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 38006,
+      "name": "Count Kassadin",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 38014,
+      "name": "Hextech Kassadin",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 38015,
+      "name": "Shockblade Kassadin",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 38024,
+      "name": "Dragonmancer Kassadin",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

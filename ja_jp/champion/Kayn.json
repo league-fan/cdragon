@@ -1,0 +1,60 @@
+{
+  "id": 141,
+  "name": "ケイン",
+  "alias": "Kayn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/141.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 141000,
+      "name": "ケイン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 141001,
+      "name": "ソウルハンター ケイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141002,
+      "name": "オデッセイ ケイン",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141008,
+      "name": "混沌の闇ケイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141009,
+      "name": "プレステージ混沌の闇ケイン",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 141015,
+      "name": "スノームーン ケイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141020,
+      "name": "HEARTSTEEL ケイン",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141026,
+      "name": "バトルアカデミア ケイン",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

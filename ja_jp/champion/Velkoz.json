@@ -1,0 +1,54 @@
+{
+  "id": 161,
+  "name": "ヴェル＝コズ",
+  "alias": "Velkoz",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/161.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 161000,
+      "name": "ヴェル＝コズ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 161001,
+      "name": "バトルキャスト ヴェル＝コズ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161002,
+      "name": "アークライト ヴェル＝コズ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161003,
+      "name": "これじゃないヴェル＝コズ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 161004,
+      "name": "地獄の業火ヴェル＝コズ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161011,
+      "name": "漆黒の霧氷ヴェル＝コズ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 161020,
+      "name": "ハチ＝コズ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

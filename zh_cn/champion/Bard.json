@@ -1,0 +1,60 @@
+{
+  "id": 432,
+  "name": "星界游神",
+  "alias": "Bard",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/432.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 432000,
+      "name": "星界游神",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 432001,
+      "name": "永恒之森 巴德",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432005,
+      "name": "冰雪游神 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432006,
+      "name": "巴德·吟游诗人",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432008,
+      "name": "宇航员 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432017,
+      "name": "咖啡甜心 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432026,
+      "name": "山海绘卷 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432035,
+      "name": "T1 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

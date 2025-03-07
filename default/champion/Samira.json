@@ -1,0 +1,48 @@
+{
+  "id": 360,
+  "name": "Samira",
+  "alias": "Samira",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/360.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 360000,
+      "name": "Samira",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 360001,
+      "name": "PsyOps Samira",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360010,
+      "name": "Space Groove Samira",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360020,
+      "name": "High Noon Samira",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360030,
+      "name": "Soul Fighter Samira",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 360033,
+      "name": "Masque of the Black Rose Samira",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

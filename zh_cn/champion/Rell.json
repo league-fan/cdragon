@@ -1,0 +1,42 @@
+{
+  "id": 526,
+  "name": "镕铁少女",
+  "alias": "Rell",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/526.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 526000,
+      "name": "镕铁少女",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 526001,
+      "name": "女帝 芮尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526010,
+      "name": "星之守护者 芮尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 526020,
+      "name": "西部魔影 芮尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526030,
+      "name": "最高清算 芮尔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

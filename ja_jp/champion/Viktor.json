@@ -1,0 +1,59 @@
+{
+  "id": 112,
+  "name": "ビクター",
+  "alias": "Viktor",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/112.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 112000,
+      "name": "ビクター",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 112001,
+      "name": "フルカスタム ビクター",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 112002,
+      "name": "プロトタイプ ビクター",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 112003,
+      "name": "創造主ビクター",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 112004,
+      "name": "死の契りビクター",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 112005,
+      "name": "PsyOps ビクター",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 112014,
+      "name": "荒野のビクター",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 112024,
+      "name": "Arcane 救世主ビクター",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

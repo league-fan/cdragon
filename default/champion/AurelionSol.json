@@ -1,0 +1,47 @@
+{
+  "id": 136,
+  "name": "Aurelion Sol",
+  "alias": "AurelionSol",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/136.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 136000,
+      "name": "Aurelion Sol",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 136001,
+      "name": "Ashen Lord Aurelion Sol",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136002,
+      "name": "Mecha Aurelion Sol",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136011,
+      "name": "Storm Dragon Aurelion Sol",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136021,
+      "name": "Inkshadow Aurelion Sol",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136031,
+      "name": "Porcelain Protector Aurelion Sol",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

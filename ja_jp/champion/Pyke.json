@@ -1,0 +1,78 @@
+{
+  "id": 555,
+  "name": "パイク",
+  "alias": "Pyke",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/555.png",
+  "roles": [
+    "support",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 555000,
+      "name": "パイク",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 555001,
+      "name": "砂の生霊パイク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555009,
+      "name": "ブラッドムーン パイク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555016,
+      "name": "PROJECT: Pyke",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 555025,
+      "name": "PsyOps パイク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555034,
+      "name": "光の番人パイク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555044,
+      "name": "灰の騎士パイク",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 555045,
+      "name": "荘厳の天球パイク",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 555053,
+      "name": "ソウルファイター パイク",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555054,
+      "name": "プレステージ ソウルファイター パイク",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 555064,
+      "name": "恐怖の夜パイク",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 950,
+  "name": "娜菲芮",
+  "alias": "Naafiri",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/950.png",
+  "roles": [
+    "assassin",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 950000,
+      "name": "娜菲芮",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 950001,
+      "name": "戰魂鬥士 娜菲芮",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 950011,
+      "name": "菁英計畫：娜菲芮",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

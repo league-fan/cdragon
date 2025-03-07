@@ -1,0 +1,78 @@
+{
+  "id": 777,
+  "name": "ヨネ",
+  "alias": "Yone",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/777.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 777000,
+      "name": "ヨネ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 777001,
+      "name": "精霊の花祭りヨネ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777010,
+      "name": "バトルアカデミア ヨネ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777019,
+      "name": "秩序の光ヨネ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 777026,
+      "name": "オーシャンソング ヨネ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777035,
+      "name": "墨影のヨネ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777045,
+      "name": "HEARTSTEEL ヨネ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 777046,
+      "name": "プレステージ HEARTSTEEL ヨネ",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 777055,
+      "name": "荒野のヨネ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 777058,
+      "name": "荒野の調停者ヨネ",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 777065,
+      "name": "正義の仮面ヨネ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

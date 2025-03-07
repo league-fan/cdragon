@@ -1,0 +1,54 @@
+{
+  "id": 234,
+  "name": "Viego",
+  "alias": "Viego",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/234.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 234000,
+      "name": "Viego",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 234001,
+      "name": "Lunar Beast Viego",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234010,
+      "name": "Dissonance of Pentakill Viego",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234019,
+      "name": "EDG Viego",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234021,
+      "name": "King Viego",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234030,
+      "name": "Soul Fighter Viego",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 234037,
+      "name": "Worlds 2024 Viego",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

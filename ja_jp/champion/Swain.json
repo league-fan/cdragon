@@ -1,0 +1,72 @@
+{
+  "id": 50,
+  "name": "スウェイン",
+  "alias": "Swain",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/50.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 50000,
+      "name": "スウェイン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 50001,
+      "name": "北方戦線司令塔スウェイン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50002,
+      "name": "海賊島のスウェイン",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50003,
+      "name": "独裁者スウェイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50004,
+      "name": "龍帝スウェイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50011,
+      "name": "ヘクステック スウェイン",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 50012,
+      "name": "水晶の薔薇スウェイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50021,
+      "name": "冬の祝福スウェイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50032,
+      "name": "狼に選ばれし者スウェイン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50033,
+      "name": "プレステージ狼に選ばれし者スウェイン",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

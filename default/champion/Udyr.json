@@ -1,0 +1,54 @@
+{
+  "id": 77,
+  "name": "Udyr",
+  "alias": "Udyr",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/77.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 77000,
+      "name": "Udyr",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 77001,
+      "name": "Black Belt Udyr",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77002,
+      "name": "Primal Udyr",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77003,
+      "name": "Spirit Guard Udyr",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 77004,
+      "name": "Definitely Not Udyr",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77005,
+      "name": "Dragon Oracle Udyr",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 77006,
+      "name": "Inkshadow Udyr",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

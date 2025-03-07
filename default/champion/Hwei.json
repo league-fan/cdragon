@@ -1,0 +1,24 @@
+{
+  "id": 910,
+  "name": "Hwei",
+  "alias": "Hwei",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/910.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 910000,
+      "name": "Hwei",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 910001,
+      "name": "Winterblessed Hwei",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

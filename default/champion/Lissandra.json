@@ -1,0 +1,65 @@
+{
+  "id": 127,
+  "name": "Lissandra",
+  "alias": "Lissandra",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/127.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 127000,
+      "name": "Lissandra",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 127001,
+      "name": "Bloodstone Lissandra",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 127002,
+      "name": "Blade Queen Lissandra",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127003,
+      "name": "Program Lissandra",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127004,
+      "name": "Coven Lissandra",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127012,
+      "name": "Dark Cosmic Lissandra",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127023,
+      "name": "Porcelain Lissandra",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 127033,
+      "name": "Prestige Porcelain Lissandra",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 127034,
+      "name": "Space Groove Lissandra",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

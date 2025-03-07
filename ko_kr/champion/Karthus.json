@@ -1,0 +1,71 @@
+{
+  "id": 30,
+  "name": "카서스",
+  "alias": "Karthus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/30.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 30000,
+      "name": "카서스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 30001,
+      "name": "유령 카서스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30002,
+      "name": "자유의 카서스상",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30003,
+      "name": "사신 카서스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30004,
+      "name": "펜타킬 카서스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30005,
+      "name": "Fnatic 카서스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30009,
+      "name": "빛의 파괴자 카서스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30010,
+      "name": "지옥의 카서스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 30017,
+      "name": "펜타킬 III: 사라진 양피지 카서스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 30026,
+      "name": "나무정령 카서스",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

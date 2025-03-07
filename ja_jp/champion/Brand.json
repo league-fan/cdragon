@@ -1,0 +1,90 @@
+{
+  "id": 63,
+  "name": "ブランド",
+  "alias": "Brand",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/63.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 63000,
+      "name": "ブランド",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 63001,
+      "name": "世紀末ブランド",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 63002,
+      "name": "アウトロー ブランド",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 63003,
+      "name": "冷凍炉心ブランド",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 63004,
+      "name": "ゾンビ ブランド",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 63005,
+      "name": "蒼炎の精霊ブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63006,
+      "name": "バトルボス ブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63007,
+      "name": "アークライト ブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63008,
+      "name": "久遠龍ブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63021,
+      "name": "おしゃれなブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63022,
+      "name": "プレステージおしゃれなブランド",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 63033,
+      "name": "ストリートデーモン ブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 63042,
+      "name": "荘厳の天球ブランド",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

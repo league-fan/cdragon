@@ -1,0 +1,41 @@
+{
+  "id": 887,
+  "name": "Gwen",
+  "alias": "Gwen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/887.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 887000,
+      "name": "Gwen",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 887001,
+      "name": "Space Groove Gwen",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887011,
+      "name": "Cafe Cuties Gwen",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887020,
+      "name": "Soul Fighter Gwen",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887030,
+      "name": "Battle Queen Gwen",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

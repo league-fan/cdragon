@@ -1,0 +1,36 @@
+{
+  "id": 897,
+  "name": "カ・サンテ",
+  "alias": "KSante",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/897.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 897000,
+      "name": "カ・サンテ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 897001,
+      "name": "荘厳の天球カ・サンテ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 897002,
+      "name": "プレステージ荘厳の天球カ・サンテ",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 897008,
+      "name": "HEARTSTEEL カ・サンテ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

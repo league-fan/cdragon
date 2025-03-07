@@ -1,0 +1,78 @@
+{
+  "id": 111,
+  "name": "Nautilus",
+  "alias": "Nautilus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/111.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 111000,
+      "name": "Nautilus",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 111001,
+      "name": "Abyssal Nautilus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111002,
+      "name": "Subterranean Nautilus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111003,
+      "name": "AstroNautilus",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111004,
+      "name": "Warden Nautilus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111005,
+      "name": "Worldbreaker Nautilus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111006,
+      "name": "Conqueror Nautilus",
+      "rarity": "kRare",
+      "isBase": false
+    },
+    {
+      "id": 111009,
+      "name": "Shan Hai Scrolls Nautilus",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111018,
+      "name": "Fright Night Nautilus",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111027,
+      "name": "Cosmic Paladin Nautilus",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111036,
+      "name": "Crystalis Indomitus Nautilus",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 201,
+  "name": "ブラウム",
+  "alias": "Braum",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/201.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 201000,
+      "name": "ブラウム",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 201001,
+      "name": "龍殺しブラウム",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201002,
+      "name": "エル・ティグレ ブラウム",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201003,
+      "name": "獅子心王ブラウム",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201010,
+      "name": "サンタ ブラウム",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201011,
+      "name": "クライムシティー ブラウム",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201024,
+      "name": "シュガーラッシュ ブラウム",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201033,
+      "name": "プールパーティ ブラウム",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

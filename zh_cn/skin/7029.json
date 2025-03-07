@@ -1,0 +1,103 @@
+{
+  "id": 7029,
+  "contentId": "687914ec-bbcb-4945-a02a-ccc493e679c2",
+  "isBase": false,
+  "name": "冠军蔷薇 乐芙兰",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin29/Images/leblanc_splash_centered_29.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin29/Images/leblanc_splash_uncentered_29.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin29/Images/leblanc_splash_tile_29.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin29/LeblancLoadscreen_29.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin29/LeblancLoadscreen_29_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7029.png",
+  "chromas": [
+    {
+      "id": 7030,
+      "name": "冠军蔷薇 乐芙兰 飘逸魅影",
+      "contentId": "e8741851-4690-4153-a87b-39749786457d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7030.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 2
+        },
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 7031,
+      "name": "冠军蔷薇 乐芙兰 激昂魅影",
+      "contentId": "8eaf1822-746e-4127-b94f-1b2f1d735f47",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7031.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020年期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 2
+        },
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 7032,
+      "name": "冠军蔷薇 乐芙兰 冷静魅影",
+      "contentId": "02724d65-71eb-4c68-8b94-98d286e2d24a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7032.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "用来纪念在上海举办的全球总决赛(2020)。"
+}

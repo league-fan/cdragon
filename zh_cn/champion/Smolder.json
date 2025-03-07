@@ -1,0 +1,24 @@
+{
+  "id": 901,
+  "name": "炽炎雏龙",
+  "alias": "Smolder",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/901.png",
+  "roles": [
+    "marksman",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 901000,
+      "name": "炽炎雏龙",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 901001,
+      "name": "天龙之子 斯莫德",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

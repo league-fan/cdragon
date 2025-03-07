@@ -1,0 +1,72 @@
+{
+  "id": 3,
+  "name": "Galio",
+  "alias": "Galio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/3.png",
+  "roles": [
+    "tank",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 3000,
+      "name": "Galio",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 3001,
+      "name": "Enchanted Galio",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3002,
+      "name": "Hextech Galio",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3003,
+      "name": "Commando Galio",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3004,
+      "name": "Gatekeeper Galio",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 3005,
+      "name": "Debonair Galio",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3006,
+      "name": "Birdio",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3013,
+      "name": "Infernal Galio",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3019,
+      "name": "Dragon Guardian Galio",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3028,
+      "name": "Mythmaker Galio",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

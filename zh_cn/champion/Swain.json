@@ -1,0 +1,72 @@
+{
+  "id": 50,
+  "name": "诺克萨斯统领",
+  "alias": "Swain",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/50.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 50000,
+      "name": "诺克萨斯统领",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 50001,
+      "name": "北领前线 斯维因",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50002,
+      "name": "海贼参谋 斯维因",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50003,
+      "name": "绝代智将 斯维因",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50004,
+      "name": "驯龙大师 斯维因",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50011,
+      "name": "海克斯科技 斯维因",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 50012,
+      "name": "水晶玫瑰 斯维因",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50021,
+      "name": "北极星猎人 斯维因",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50032,
+      "name": "狼神英灵 斯维因",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50033,
+      "name": "至臻 狼神英灵 斯维因",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

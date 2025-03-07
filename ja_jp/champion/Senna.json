@@ -1,0 +1,78 @@
+{
+  "id": 235,
+  "name": "セナ",
+  "alias": "Senna",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/235.png",
+  "roles": [
+    "support",
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 235000,
+      "name": "セナ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 235001,
+      "name": "True Damage セナ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235009,
+      "name": "プレステージ True Damage セナ",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235010,
+      "name": "荒野のセナ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235016,
+      "name": "PROJECT: Senna",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235026,
+      "name": "ルナーエクリプス セナ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235027,
+      "name": "プレステージ ルナーエクリプス セナ",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235036,
+      "name": "魅惑の魔女セナ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235046,
+      "name": "スターガーディアン セナ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235056,
+      "name": "冬の祝福セナ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235063,
+      "name": "正義の仮面セナ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

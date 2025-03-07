@@ -1,0 +1,54 @@
+{
+  "id": 154,
+  "name": "生化魔人",
+  "alias": "Zac",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/154.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 154000,
+      "name": "生化魔人",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 154001,
+      "name": "邪恶魔人 扎克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 154002,
+      "name": "泳池派对 扎克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154006,
+      "name": "SKT T1 扎克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154007,
+      "name": "战地机甲 扎克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154014,
+      "name": "至高天 扎克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154024,
+      "name": "香浓芝士 扎克",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

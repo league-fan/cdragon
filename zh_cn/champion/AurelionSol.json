@@ -1,0 +1,47 @@
+{
+  "id": 136,
+  "name": "铸星龙王",
+  "alias": "AurelionSol",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/136.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 136000,
+      "name": "铸星龙王",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 136001,
+      "name": "灰烬领主 奥瑞利安·索尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136002,
+      "name": "霸天龙神 奥瑞利安 · 索尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136011,
+      "name": "圣龙 奥瑞利安 · 索尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136021,
+      "name": "墨影之灵 奥瑞利安 · 索尔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136031,
+      "name": "青花瓷 奥瑞利安 · 索尔",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

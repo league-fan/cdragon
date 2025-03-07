@@ -1,0 +1,78 @@
+{
+  "id": 92016,
+  "contentId": "95b14254-477c-49c1-849d-c63a0a9b5b66",
+  "isBase": false,
+  "name": "黎明使者 锐雯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin16/Images/riven_splash_centered_16.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin16/Images/riven_splash_uncentered_16.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin16/Images/riven_splash_tile_16.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin16/RivenLoadscreen_16.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin16/RivenLoadscreen_16_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92016.png",
+  "chromas": [
+    {
+      "id": 92024,
+      "name": "黎明使者 锐雯 圣辉",
+      "contentId": "cd6150d8-58ac-4e8f-abb4-ff5367c6f52b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92024.png",
+      "colors": [
+        "#6FFDFF",
+        "#2377FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 92056,
+      "name": "黎明使者 锐雯 黑夜使者",
+      "contentId": "f3b3673a-fb61-4480-88f6-931d8721e53b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92056.png",
+      "colors": [
+        "#8C1517",
+        "#2E2630"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 193
+    }
+  ],
+  "description": "生于造物之破晓的旋涡能量，锐雯是星界里秩序能量的鲜活具象。她的宿命就是与黑夜使者永远对抗下去，而她正在等待着，终有一日，她的光明将完全击破他的黑暗。"
+}

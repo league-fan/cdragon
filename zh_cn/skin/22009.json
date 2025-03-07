@@ -1,0 +1,61 @@
+{
+  "id": 22009,
+  "contentId": "726103c1-5e6d-4b57-add3-5c135bc3fdd6",
+  "isBase": false,
+  "name": "冠军之箭 艾希",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/Images/ashe_splash_centered_9.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/Images/ashe_splash_uncentered_9.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/Images/ashe_splash_tile_9.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/AsheLoadscreen_9.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/AsheLoadScreen_9_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22009.png",
+  "chromas": [
+    {
+      "id": 22010,
+      "name": "冠军之箭 艾希 凯旋圣装",
+      "contentId": "3936d944-ab90-4301-9c4a-87d1d8f970f0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22010.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在一个全球总决赛事件期间作为战利品专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "以此庆祝2017年在中国举办的全球总决赛。"
+}

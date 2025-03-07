@@ -1,0 +1,41 @@
+{
+  "id": 887,
+  "name": "グウェン",
+  "alias": "Gwen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/887.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 887000,
+      "name": "グウェン",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 887001,
+      "name": "スペースグルーヴ グウェン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887011,
+      "name": "カフェキューティーズ グウェン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887020,
+      "name": "ソウルファイター グウェン",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887030,
+      "name": "バトルクイーン グウェン",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

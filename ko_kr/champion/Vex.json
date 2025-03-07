@@ -1,0 +1,29 @@
+{
+  "id": 711,
+  "name": "벡스",
+  "alias": "Vex",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/711.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 711000,
+      "name": "벡스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 711001,
+      "name": "빛의 인도자 벡스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 711010,
+      "name": "창공 벡스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

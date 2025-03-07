@@ -1,0 +1,68 @@
+{
+  "id": 42006,
+  "contentId": "7d7ab946-f34c-4046-b85f-e1263c05e0dd",
+  "isBase": false,
+  "name": "龍翼のコーキ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/Images/corki_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/Images/corki_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/Images/corki_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/CorkiLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/42/42006.png",
+  "chromas": [
+    {
+      "id": 42017,
+      "name": "龍翼のコーキ",
+      "contentId": "7ec9343f-5986-4d89-8e7b-617222df7f9a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/42/42017.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018年のルナーフェスティバルミッションから戦利品限定で獲得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 42035,
+      "name": "龍翼のコーキ",
+      "contentId": "e73080ea-e265-4ecf-8f51-e133e4c260b7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/42/42035.png",
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 54
+    }
+  ],
+  "description": "コーキのピットクルーはルナーフェスティバルのために特別な乗物を用意した。悪霊を追い払うとされる龍の顔を模したヒコーキだ。銃弾の雨を降らせたり爆発物も発射できるように改造されている。きっとこれも悪霊を追い払うためなのだろう…そういうことにしておこう。"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 200,
+  "name": "虚空女皇",
+  "alias": "Belveth",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/200.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 200000,
+      "name": "虚空女皇",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 200001,
+      "name": "战场BOSS 卑尔维斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200010,
+      "name": "星界女神 卑尔维斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200019,
+      "name": "海魔女 卑尔维斯",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

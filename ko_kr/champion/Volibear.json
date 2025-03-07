@@ -1,0 +1,72 @@
+{
+  "id": 106,
+  "name": "볼리베어",
+  "alias": "Volibear",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/106.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 106000,
+      "name": "볼리베어",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 106001,
+      "name": "천둥 군주 볼리베어",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 106002,
+      "name": "북극 폭풍 볼리베어",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 106003,
+      "name": "룬 수호자 볼리베어",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 106004,
+      "name": "볼리베어 경위",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 106005,
+      "name": "프로레슬러 볼리베어",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 106006,
+      "name": "천 번 찔린 곰",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 106007,
+      "name": "이중용 볼리베어",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 106009,
+      "name": "프레스티지 이중용 볼리베어",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 106019,
+      "name": "먹그림자 볼리베어",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 895,
+  "name": "Nilah",
+  "alias": "Nilah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/895.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 895000,
+      "name": "Nilah",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 895001,
+      "name": "Star Guardian Nilah",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 895011,
+      "name": "Coven Nilah",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

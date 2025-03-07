@@ -1,0 +1,29 @@
+{
+  "id": 711,
+  "name": "愁云使者",
+  "alias": "Vex",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/711.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 711000,
+      "name": "愁云使者",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 711001,
+      "name": "黎明使者 薇古丝",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 711010,
+      "name": "至高天 薇古丝",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

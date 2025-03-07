@@ -1,0 +1,42 @@
+{
+  "id": 427,
+  "name": "아이번",
+  "alias": "Ivern",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/427.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 427000,
+      "name": "아이번",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 427001,
+      "name": "새콤달콤 아이번",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427002,
+      "name": "덩크왕 아이번",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427011,
+      "name": "고대 신 아이번",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427020,
+      "name": "우주비행사 아이번",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

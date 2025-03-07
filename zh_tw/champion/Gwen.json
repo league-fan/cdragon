@@ -1,0 +1,41 @@
+{
+  "id": 887,
+  "name": "關",
+  "alias": "Gwen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/887.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 887000,
+      "name": "關",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 887001,
+      "name": "太空律動 關",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887011,
+      "name": "超萌咖啡廳 關",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887020,
+      "name": "戰魂鬥士 關",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 887030,
+      "name": "戰爭女皇 關",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

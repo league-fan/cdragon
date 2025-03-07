@@ -1,0 +1,54 @@
+{
+  "id": 68,
+  "name": "럼블",
+  "alias": "Rumble",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/68.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 68000,
+      "name": "럼블",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 68001,
+      "name": "정글 속 럼블",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68002,
+      "name": "빌지워터 럼블",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68003,
+      "name": "슈퍼 갤럭시 럼블",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 68004,
+      "name": "황야의 폭주족 럼블",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68013,
+      "name": "우주 그루브 럼블",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 68023,
+      "name": "귀염둥이 카페 럼블",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

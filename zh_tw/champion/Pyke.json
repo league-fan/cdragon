@@ -1,0 +1,78 @@
+{
+  "id": 555,
+  "name": "派克",
+  "alias": "Pyke",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/555.png",
+  "roles": [
+    "support",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 555000,
+      "name": "派克",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 555001,
+      "name": "殺漠鬼影 派克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555009,
+      "name": "血月幽影 派克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555016,
+      "name": "菁英計畫：派克",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 555025,
+      "name": "靈戰特工 派克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555034,
+      "name": "光之哨兵 派克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555044,
+      "name": "死灰騎士 派克",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 555045,
+      "name": "宇宙幻焰 派克",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 555053,
+      "name": "戰魂鬥士 派克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 555054,
+      "name": "尊爵不凡 戰魂鬥士 派克",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 555064,
+      "name": "午夜驚魂 派克",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

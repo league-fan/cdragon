@@ -1,0 +1,47 @@
+{
+  "id": 429,
+  "name": "カリスタ",
+  "alias": "Kalista",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/429.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 429000,
+      "name": "カリスタ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 429001,
+      "name": "ブラッドムーン カリスタ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429002,
+      "name": "Worlds 2015 カリスタ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429003,
+      "name": "SKT T1 カリスタ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429005,
+      "name": "略奪者カリスタ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 429014,
+      "name": "妖精の王宮カリスタ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

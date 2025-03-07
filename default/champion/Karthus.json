@@ -1,0 +1,71 @@
+{
+  "id": 30,
+  "name": "Karthus",
+  "alias": "Karthus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/30.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 30000,
+      "name": "Karthus",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 30001,
+      "name": "Phantom Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30002,
+      "name": "Statue of Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30003,
+      "name": "Grim Reaper Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30004,
+      "name": "Pentakill Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30005,
+      "name": "Fnatic Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30009,
+      "name": "Karthus Lightsbane",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30010,
+      "name": "Infernal Karthus",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 30017,
+      "name": "Pentakill III: Lost Chapter Karthus",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 30026,
+      "name": "Elderwood Karthus",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

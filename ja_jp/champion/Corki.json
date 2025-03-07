@@ -1,0 +1,78 @@
+{
+  "id": 42,
+  "name": "コーキ",
+  "alias": "Corki",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/42.png",
+  "roles": [
+    "marksman",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 42000,
+      "name": "コーキ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 42001,
+      "name": "UFO コーキ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42002,
+      "name": "ボブスレー コーキ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 42003,
+      "name": "レッドバロン コーキ",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 42004,
+      "name": "暴走族コーキ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42005,
+      "name": "アーフライダー コーキ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42006,
+      "name": "龍翼のコーキ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42007,
+      "name": "Fnatic コーキ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42008,
+      "name": "アーケード コーキ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 42018,
+      "name": "コーギーコーキ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 42026,
+      "name": "宇宙飛行士コーキ",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

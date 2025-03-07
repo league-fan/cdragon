@@ -1,0 +1,78 @@
+{
+  "id": 14,
+  "name": "사이온",
+  "alias": "Sion",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/14.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 14000,
+      "name": "사이온",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 14001,
+      "name": "마법공학 사이온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 14002,
+      "name": "야만전사 사이온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 14003,
+      "name": "나무꾼 사이온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 14004,
+      "name": "전쟁광 사이온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 14005,
+      "name": "메카 제로 사이온",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 14014,
+      "name": "파괴의 신 사이온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 14022,
+      "name": "어둠서리 사이온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 14030,
+      "name": "하이 눈 사이온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 14040,
+      "name": "우주 성기사 사이온",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 14049,
+      "name": "장대한 심판 사이온",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

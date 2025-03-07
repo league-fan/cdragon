@@ -1,0 +1,78 @@
+{
+  "id": 111,
+  "name": "노틸러스",
+  "alias": "Nautilus",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/111.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 111000,
+      "name": "노틸러스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 111001,
+      "name": "아틀란티스 노틸러스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111002,
+      "name": "지하 세계 노틸러스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111003,
+      "name": "우주비행사 노틸러스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111004,
+      "name": "심판자 노틸러스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111005,
+      "name": "파괴의 신 노틸러스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111006,
+      "name": "정복자 노틸러스",
+      "rarity": "kRare",
+      "isBase": false
+    },
+    {
+      "id": 111009,
+      "name": "전설의 산수화 노틸러스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111018,
+      "name": "공포의 밤 노틸러스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111027,
+      "name": "우주 성기사 노틸러스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 111036,
+      "name": "야성의 수정 노틸러스",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

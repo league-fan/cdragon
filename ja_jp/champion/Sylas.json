@@ -1,0 +1,66 @@
+{
+  "id": 517,
+  "name": "サイラス",
+  "alias": "Sylas",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/517.png",
+  "roles": [
+    "mage",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 517000,
+      "name": "サイラス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 517001,
+      "name": "月の生霊サイラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 517008,
+      "name": "フレヨルド サイラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 517013,
+      "name": "PROJECT: Sylas",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 517014,
+      "name": "プレステージ PROJECT: Sylas",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 517024,
+      "name": "バトルウルフ サイラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 517034,
+      "name": "灰の暗殺者サイラス",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 517036,
+      "name": "冬の祝福サイラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 517046,
+      "name": "ダークスター サイラス",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

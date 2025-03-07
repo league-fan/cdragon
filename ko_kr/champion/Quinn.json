@@ -1,0 +1,54 @@
+{
+  "id": 133,
+  "name": "퀸",
+  "alias": "Quinn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/133.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 133000,
+      "name": "퀸",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 133001,
+      "name": "불사조 퀸",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 133002,
+      "name": "북방 정찰대 퀸",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 133003,
+      "name": "해적 퀸",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 133004,
+      "name": "사랑의 추적자 퀸",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 133005,
+      "name": "심판자 퀸",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 133014,
+      "name": "별 수호자 퀸",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

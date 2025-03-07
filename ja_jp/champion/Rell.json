@@ -1,0 +1,42 @@
+{
+  "id": 526,
+  "name": "レル",
+  "alias": "Rell",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/526.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 526000,
+      "name": "レル",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 526001,
+      "name": "バトルクイーン レル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526010,
+      "name": "スターガーディアン レル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526020,
+      "name": "荒野のレル",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526030,
+      "name": "最後の清算レル",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

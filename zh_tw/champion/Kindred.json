@@ -1,0 +1,65 @@
+{
+  "id": 203,
+  "name": "鏡爪",
+  "alias": "Kindred",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/203.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 203000,
+      "name": "鏡爪",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 203001,
+      "name": "影焰狼魂 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203002,
+      "name": "星際特攻 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203003,
+      "name": "靈花祭 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203012,
+      "name": "青花瓷 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203022,
+      "name": "貓狗大戰 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203023,
+      "name": "DRX 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 203033,
+      "name": "尊爵不凡 青花瓷 鏡爪",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 203034,
+      "name": "英靈戰狼 鏡爪",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 235,
+  "name": "涤魂圣枪",
+  "alias": "Senna",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/235.png",
+  "roles": [
+    "support",
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 235000,
+      "name": "涤魂圣枪",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 235001,
+      "name": "真实伤害 赛娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235009,
+      "name": "至臻 真实伤害 赛娜",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235010,
+      "name": "西部天使 赛娜",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235016,
+      "name": "源计划：魅灵 赛娜",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 235026,
+      "name": "月蚀骑士 赛娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235027,
+      "name": "至臻 月蚀骑士 赛娜",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 235036,
+      "name": "魅惑女巫 赛娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235046,
+      "name": "星之守护者 赛娜",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 235056,
+      "name": "北极星神 赛娜",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 235063,
+      "name": "正义假面 赛娜",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

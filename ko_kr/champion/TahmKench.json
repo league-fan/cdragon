@@ -1,0 +1,54 @@
+{
+  "id": 223,
+  "name": "탐 켄치",
+  "alias": "TahmKench",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/223.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 223000,
+      "name": "탐 켄치",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 223001,
+      "name": "마스터 셰프 탐 켄치",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 223002,
+      "name": "우르프 켄치",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 223003,
+      "name": "금두꺼비 탐 켄치",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 223011,
+      "name": "아르카나 탐 켄치",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 223020,
+      "name": "하이 눈 탐 켄치",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 223030,
+      "name": "전설의 산수화 탐 켄치",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 13010,
+  "contentId": "6821512e-034a-4a27-850d-0f1d92d64ac9",
+  "isBase": false,
+  "name": "SKT T1 瑞兹",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/skin10/Images/ryze_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/skin10/Images/ryze_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/skin10/Images/ryze_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/skin10/RyzeLoadscreen_10.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/13/13010.png",
+  "chromas": [
+    {
+      "id": 13030,
+      "name": "SKT T1 瑞兹 至强",
+      "contentId": "16538b0d-b13e-46af-904d-d3f1a10fdcca",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/13/13030.png",
+      "colors": [
+        "#64DCC8",
+        "#E446F7"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个图标曾作为专属奖励发布，用于奖励那些已拥有致敬Faker的2024名人堂签名版收藏礼包的玩家。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 6
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 5
+    }
+  ],
+  "description": "以此致敬Faker在2015年全球总决赛中使用瑞兹的夺胜表现。这是Faker第二个世界冠军皮肤，前一次是2013年全球总决赛SKT夺冠。"
+}

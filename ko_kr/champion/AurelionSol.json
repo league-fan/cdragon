@@ -1,0 +1,47 @@
+{
+  "id": 136,
+  "name": "아우렐리온 솔",
+  "alias": "AurelionSol",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/136.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 136000,
+      "name": "아우렐리온 솔",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 136001,
+      "name": "잿빛 군주 아우렐리온 솔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136002,
+      "name": "메카 아우렐리온 솔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136011,
+      "name": "폭풍용 아우렐리온 솔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136021,
+      "name": "먹그림자 아우렐리온 솔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 136031,
+      "name": "도자기 수호자 아우렐리온 솔",
+      "rarity": "kLegendary",
+      "isBase": false
+    }
+  ]
+}

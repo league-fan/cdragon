@@ -1,0 +1,54 @@
+{
+  "id": 6,
+  "name": "アーゴット",
+  "alias": "Urgot",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/6.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 6000,
+      "name": "アーゴット",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 6001,
+      "name": "なんて巨大なカニゴット",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6002,
+      "name": "虐殺者アーゴット",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 6003,
+      "name": "バトルキャスト アーゴット",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6009,
+      "name": "荒野のアーゴット",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6015,
+      "name": "パジャマガーディアン コスプレ アーゴット",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 6023,
+      "name": "恐怖の夜アーゴット",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

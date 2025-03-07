@@ -1,0 +1,48 @@
+{
+  "id": 360,
+  "name": "サミーラ",
+  "alias": "Samira",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/360.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 360000,
+      "name": "サミーラ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 360001,
+      "name": "PsyOps サミーラ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360010,
+      "name": "スペースグルーヴ サミーラ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360020,
+      "name": "荒野のサミーラ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360030,
+      "name": "ソウルファイター サミーラ",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 360033,
+      "name": "黒薔薇の仮面サミーラ",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

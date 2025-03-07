@@ -1,0 +1,60 @@
+{
+  "id": 201,
+  "name": "弗雷尔卓德之心",
+  "alias": "Braum",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/201.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 201000,
+      "name": "弗雷尔卓德之心",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 201001,
+      "name": "屠龙勇士 布隆",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201002,
+      "name": "猛虎 布隆",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201003,
+      "name": "布隆·狮心",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201010,
+      "name": "圣诞老人 布隆",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201011,
+      "name": "黑帮管家 布隆",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201024,
+      "name": "糖果大战 布隆",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201033,
+      "name": "泳池派对 布隆",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

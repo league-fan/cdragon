@@ -1,0 +1,48 @@
+{
+  "id": 360,
+  "name": "煞蜜拉",
+  "alias": "Samira",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/360.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 360000,
+      "name": "煞蜜拉",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 360001,
+      "name": "靈戰特工 煞蜜拉",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360010,
+      "name": "太空律動 煞蜜拉",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360020,
+      "name": "西域牛仔 煞蜜拉",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 360030,
+      "name": "戰魂鬥士 煞蜜拉",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 360033,
+      "name": "黑玫瑰假面 煞蜜拉",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

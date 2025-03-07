@@ -1,0 +1,48 @@
+{
+  "id": 72,
+  "name": "史加納",
+  "alias": "Skarner",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/72.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 72000,
+      "name": "史加納",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 72001,
+      "name": "沙漠魔獸 史加納",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72002,
+      "name": "大地魔蠍 史加納",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72003,
+      "name": "狂派機甲 史加納",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 72004,
+      "name": "砂皇護衛 史加納",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 72005,
+      "name": "星河天蠍 史加納",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 72,
+  "name": "上古领主",
+  "alias": "Skarner",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/72.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 72000,
+      "name": "上古领主",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 72001,
+      "name": "沙暴巨蝎 斯卡纳",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72002,
+      "name": "远土之灵 斯卡纳",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72003,
+      "name": "战地机甲 斯卡纳",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 72004,
+      "name": "沙之守护 斯卡纳",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 72005,
+      "name": "天蝎星神 斯卡纳",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

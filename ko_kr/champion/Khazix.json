@@ -1,0 +1,65 @@
+{
+  "id": 121,
+  "name": "카직스",
+  "alias": "Khazix",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/121.png",
+  "roles": [
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 121000,
+      "name": "카직스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 121001,
+      "name": "메카 카직스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121002,
+      "name": "사막의 수호자 카직스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 121003,
+      "name": "죽음의 꽃 카직스",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 121004,
+      "name": "암흑의 별 카직스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121011,
+      "name": "2018 월드 챔피언십 카직스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121060,
+      "name": "오디세이 카직스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121069,
+      "name": "달빛 수호자 카직스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 121079,
+      "name": "야성의 수정 카직스",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

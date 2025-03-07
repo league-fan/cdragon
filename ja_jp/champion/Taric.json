@@ -1,0 +1,54 @@
+{
+  "id": 44,
+  "name": "タリック",
+  "alias": "Taric",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/44.png",
+  "roles": [
+    "support",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 44000,
+      "name": "タリック",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 44001,
+      "name": "エメラルド タリック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44002,
+      "name": "アメジスト タリック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44003,
+      "name": "血塗られた石晶タリック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44004,
+      "name": "プールパーティ タリック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44009,
+      "name": "タリック ルーミンシールド",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44018,
+      "name": "スペースグルーヴ タリック",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

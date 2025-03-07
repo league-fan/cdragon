@@ -1,0 +1,54 @@
+{
+  "id": 77,
+  "name": "우디르",
+  "alias": "Udyr",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/77.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 77000,
+      "name": "우디르",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 77001,
+      "name": "검은띠 우디르",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77002,
+      "name": "태고의 우디르",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77003,
+      "name": "정령 수호자 우디르",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 77004,
+      "name": "나 우디르 아니다",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77005,
+      "name": "용의 사도 우디르",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 77006,
+      "name": "먹그림자 우디르",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

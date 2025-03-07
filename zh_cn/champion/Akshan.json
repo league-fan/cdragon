@@ -1,0 +1,36 @@
+{
+  "id": 166,
+  "name": "影哨",
+  "alias": "Akshan",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/166.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 166000,
+      "name": "影哨",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 166001,
+      "name": "赛博潮流 阿克尚",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 166010,
+      "name": "水晶玫瑰 阿克尚",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 166020,
+      "name": "荣誉使者 阿克尚",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

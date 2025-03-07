@@ -1,0 +1,66 @@
+{
+  "id": 83,
+  "name": "요릭",
+  "alias": "Yorick",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/83.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 83000,
+      "name": "요릭",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 83001,
+      "name": "장의사 요릭",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 83002,
+      "name": "펜타킬 요릭",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 83003,
+      "name": "빛의 요릭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83004,
+      "name": "요릭냥이",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83012,
+      "name": "저항군 요릭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83021,
+      "name": "펜타킬 III: 사라진 양피지 요릭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83030,
+      "name": "영혼의 꽃 요릭",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 83040,
+      "name": "암흑의 별 요릭",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

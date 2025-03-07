@@ -1,0 +1,54 @@
+{
+  "id": 77,
+  "name": "ウディア",
+  "alias": "Udyr",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/77.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 77000,
+      "name": "ウディア",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 77001,
+      "name": "黒帯ウディア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77002,
+      "name": "原始の力ウディア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77003,
+      "name": "精霊の守護者ウディア",
+      "rarity": "kUltimate",
+      "isBase": false
+    },
+    {
+      "id": 77004,
+      "name": "これじゃないウディア",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 77005,
+      "name": "龍の啓示ウディア",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 77006,
+      "name": "墨影のウディア",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

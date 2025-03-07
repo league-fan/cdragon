@@ -1,0 +1,24 @@
+{
+  "id": 800,
+  "name": "メル",
+  "alias": "Mel",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/800.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 800000,
+      "name": "メル",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 800001,
+      "name": "Arcane 評議員メル",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

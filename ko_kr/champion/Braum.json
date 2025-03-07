@@ -1,0 +1,60 @@
+{
+  "id": 201,
+  "name": "브라움",
+  "alias": "Braum",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/201.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 201000,
+      "name": "브라움",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 201001,
+      "name": "용 사냥꾼 브라움",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201002,
+      "name": "프로레슬러 브라움",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201003,
+      "name": "용맹한 브라움",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201010,
+      "name": "산타 브라움",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201011,
+      "name": "범죄 도시 브라움",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201024,
+      "name": "달콤 가득 브라움",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201033,
+      "name": "수영장 파티 브라움",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

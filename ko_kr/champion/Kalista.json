@@ -1,0 +1,47 @@
+{
+  "id": 429,
+  "name": "칼리스타",
+  "alias": "Kalista",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/429.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 429000,
+      "name": "칼리스타",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 429001,
+      "name": "핏빛달 칼리스타",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429002,
+      "name": "2015 월드 챔피언십 칼리스타",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429003,
+      "name": "SKT T1 칼리스타",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429005,
+      "name": "습격자 칼리스타",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 429014,
+      "name": "요정 왕국 칼리스타",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

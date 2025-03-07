@@ -1,0 +1,72 @@
+{
+  "id": 3,
+  "name": "갈리오",
+  "alias": "Galio",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/3.png",
+  "roles": [
+    "tank",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 3000,
+      "name": "갈리오",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 3001,
+      "name": "마법 강화 갈리오",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3002,
+      "name": "마법공학 갈리오",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3003,
+      "name": "특공대 갈리오",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3004,
+      "name": "지옥 수문장 갈리오",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 3005,
+      "name": "연미복 갈리오",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3006,
+      "name": "꼬끼오",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3013,
+      "name": "지옥의 갈리오",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3019,
+      "name": "용 수호자 갈리오",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 3028,
+      "name": "신화 창조자 갈리오",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

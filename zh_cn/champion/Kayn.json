@@ -1,0 +1,60 @@
+{
+  "id": 141,
+  "name": "影流之镰",
+  "alias": "Kayn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/141.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 141000,
+      "name": "影流之镰",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 141001,
+      "name": "摄魂猎手 凯隐",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 141002,
+      "name": "奥德赛 凯隐",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141008,
+      "name": "黑夜使者 凯隐",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141009,
+      "name": "至臻 黑夜使者 凯隐",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 141015,
+      "name": "净雪之月 凯隐",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 141020,
+      "name": "心之钢 凯隐",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 141026,
+      "name": "战斗学院 凯隐",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

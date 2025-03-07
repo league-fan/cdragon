@@ -1,0 +1,24 @@
+{
+  "id": 893,
+  "name": "Aurora",
+  "alias": "Aurora",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/893.png",
+  "roles": [
+    "mage",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 893000,
+      "name": "Aurora",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 893001,
+      "name": "Battle Bunny Aurora",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

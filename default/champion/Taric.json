@@ -1,0 +1,54 @@
+{
+  "id": 44,
+  "name": "Taric",
+  "alias": "Taric",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/44.png",
+  "roles": [
+    "support",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 44000,
+      "name": "Taric",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 44001,
+      "name": "Emerald Taric",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44002,
+      "name": "Armor of the Fifth Age Taric",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44003,
+      "name": "Bloodstone Taric",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44004,
+      "name": "Pool Party Taric",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44009,
+      "name": "Taric Luminshield",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44018,
+      "name": "Space Groove Taric",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 9,
+  "name": "Fiddlesticks",
+  "alias": "FiddleSticks",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/9.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 9000,
+      "name": "Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 9001,
+      "name": "Spectral Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9002,
+      "name": "Union Jack Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9003,
+      "name": "Bandito Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9004,
+      "name": "Pumpkinhead Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9005,
+      "name": "Fiddle Me Timbers",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9006,
+      "name": "Surprise Party Fiddlesticks",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 9007,
+      "name": "Dark Candy Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 9008,
+      "name": "Risen Fiddlesticks",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 9009,
+      "name": "Praetorian Fiddlesticks",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 9027,
+      "name": "Star Nemesis Fiddlesticks",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 9037,
+      "name": "Blood Moon Fiddlesticks",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

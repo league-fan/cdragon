@@ -1,0 +1,60 @@
+{
+  "id": 432,
+  "name": "Bard",
+  "alias": "Bard",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/432.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 432000,
+      "name": "Bard",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 432001,
+      "name": "Elderwood Bard",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432005,
+      "name": "Snow Day Bard",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432006,
+      "name": "Bard Bard",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432008,
+      "name": "Astronaut Bard",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432017,
+      "name": "Cafe Cuties Bard",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432026,
+      "name": "Shan Hai Scrolls Bard",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432035,
+      "name": "T1 Bard",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

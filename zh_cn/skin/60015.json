@@ -1,0 +1,153 @@
+{
+  "id": 60015,
+  "contentId": "5a43ff45-6e3f-498b-b805-31e8b12d0f23",
+  "isBase": false,
+  "name": "幽梦玫瑰 伊莉丝",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Elise/Skins/Skin15/Images/elise_splash_centered_15.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Elise/Skins/Skin15/Images/elise_splash_uncentered_15.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Elise/Skins/Skin15/Images/elise_splash_tile_15.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Elise/Skins/Skin15/EliseLoadscreen_15.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60015.png",
+  "chromas": [
+    {
+      "id": 60016,
+      "name": "幽梦玫瑰 伊莉丝 热烈花蕾",
+      "contentId": "6013a9fc-8765-4ca4-8cf2-dc4b61bf7fbf",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60016.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2022年期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 60017,
+      "name": "幽梦玫瑰 伊莉丝 倾心花蕾",
+      "contentId": "b0e41f96-6610-4d1b-9b86-1f0f28db7390",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60017.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 60018,
+      "name": "幽梦玫瑰 伊莉丝 痴心花蕾",
+      "contentId": "b2757ad9-a976-4e9e-808b-75c2a8813e59",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60018.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 60019,
+      "name": "幽梦玫瑰 伊莉丝 真挚花蕾",
+      "contentId": "8aba7ce4-0b94-4c01-b3f3-1b119f8a9b12",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60019.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 60020,
+      "name": "幽梦玫瑰 伊莉丝 憧憬花蕾",
+      "contentId": "5b7f800d-3fc6-4103-8825-7981583bef30",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60020.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 60021,
+      "name": "幽梦玫瑰 伊莉丝 浪漫花蕾",
+      "contentId": "17d1cc3b-105a-4955-abee-e6bd9874ee0b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60021.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 60022,
+      "name": "幽梦玫瑰 伊莉丝 纯洁花蕾",
+      "contentId": "6af445f1-0fea-4eec-9f60-d1caddcd30d7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60022.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 60023,
+      "name": "幽梦玫瑰 伊莉丝 甜蜜花蕾",
+      "contentId": "c45fd175-d843-43d8-9eb4-a619cb9bda5a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/60/60023.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Valentine New",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/67.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/67.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 141
+    }
+  ],
+  "description": "尽管从未收到过正式邀请，但伊莉丝每年都会出席。有传言说，她因在一个晚上的时间里因为编造谎言、结成和解散各种誓约而被列入黑名单。与会者还指出，她的追求者们似乎在之后从未再次拜访过这个庆典。"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 233,
+  "name": "Briar",
+  "alias": "Briar",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/233.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 233000,
+      "name": "Briar",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 233001,
+      "name": "Street Demons Briar",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 233010,
+      "name": "Primordian Briar",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

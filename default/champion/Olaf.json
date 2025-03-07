@@ -1,0 +1,84 @@
+{
+  "id": 2,
+  "name": "Olaf",
+  "alias": "Olaf",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/2.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 2000,
+      "name": "Olaf",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 2001,
+      "name": "Forsaken Olaf",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2002,
+      "name": "Glacial Olaf",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2003,
+      "name": "Brolaf",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 2004,
+      "name": "Pentakill Olaf",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2005,
+      "name": "Marauder Olaf",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2006,
+      "name": "Butcher Olaf",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2015,
+      "name": "SKT T1 Olaf",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2016,
+      "name": "Dragonslayer Olaf",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2025,
+      "name": "Sentinel Olaf",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2035,
+      "name": "Pentakill III: Lost Chapter Olaf",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 2044,
+      "name": "Infernal Olaf",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

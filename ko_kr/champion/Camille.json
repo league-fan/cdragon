@@ -1,0 +1,60 @@
+{
+  "id": 164,
+  "name": "카밀",
+  "alias": "Camille",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/164.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 164000,
+      "name": "카밀",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 164001,
+      "name": "프로그램 카밀",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164002,
+      "name": "악의 여단 카밀",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164010,
+      "name": "iG 카밀",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164011,
+      "name": "아르카나 카밀",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164021,
+      "name": "타격대 지휘관 카밀",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164031,
+      "name": "겨울의 축복 카밀",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 164032,
+      "name": "프레스티지 겨울의 축복 카밀",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

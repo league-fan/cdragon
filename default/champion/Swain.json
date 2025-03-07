@@ -1,0 +1,72 @@
+{
+  "id": 50,
+  "name": "Swain",
+  "alias": "Swain",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/50.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 50000,
+      "name": "Swain",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 50001,
+      "name": "Northern Front Swain",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50002,
+      "name": "Bilgewater Swain",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50003,
+      "name": "Tyrant Swain",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50004,
+      "name": "Dragon Master Swain",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50011,
+      "name": "Hextech Swain",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 50012,
+      "name": "Crystal Rose Swain",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50021,
+      "name": "Winterblessed Swain",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50032,
+      "name": "Chosen of the Wolf Swain",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50033,
+      "name": "Prestige Chosen of the Wolf Swain",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

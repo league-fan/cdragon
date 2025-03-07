@@ -1,0 +1,96 @@
+{
+  "id": 267,
+  "name": "나미",
+  "alias": "Nami",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/267.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 267000,
+      "name": "나미",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 267001,
+      "name": "비단인어 나미",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 267002,
+      "name": "강의 정령 나미",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 267003,
+      "name": "바다나미 우르프",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 267007,
+      "name": "깊은 바다 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267008,
+      "name": "SKT T1 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267009,
+      "name": "프로그램 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267015,
+      "name": "불멸의 영웅 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267024,
+      "name": "우주의 운명 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267032,
+      "name": "마녀 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267041,
+      "name": "우주 그루브 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 267042,
+      "name": "프레스티지 우주 그루브 나미",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 267051,
+      "name": "악의 여단 나미",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 267058,
+      "name": "신화 창조자 나미",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 518,
+  "name": "니코",
+  "alias": "Neeko",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/518.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 518000,
+      "name": "니코",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 518001,
+      "name": "겨울 동화 니코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 518010,
+      "name": "별 수호자 니코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 518011,
+      "name": "프레스티지 별 수호자 니코",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 518012,
+      "name": "전설의 산수화 니코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 518021,
+      "name": "프레스티지 별 수호자 니코 (2022)",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 518022,
+      "name": "마녀 니코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 518031,
+      "name": "거리의 악마 니코",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 518040,
+      "name": "코스플레이어 니코",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

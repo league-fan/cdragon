@@ -1,0 +1,54 @@
+{
+  "id": 44,
+  "name": "塔里克",
+  "alias": "Taric",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/44.png",
+  "roles": [
+    "support",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 44000,
+      "name": "塔里克",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 44001,
+      "name": "翡翠裝甲 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44002,
+      "name": "金剛芭比 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44003,
+      "name": "血石戰甲 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 44004,
+      "name": "泳池狂歡 塔里克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44009,
+      "name": "光輝聖盾 塔里克",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 44018,
+      "name": "太空律動 塔里克",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

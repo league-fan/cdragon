@@ -1,0 +1,66 @@
+{
+  "id": 101,
+  "name": "ゼラス",
+  "alias": "Xerath",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/101.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 101000,
+      "name": "ゼラス",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 101001,
+      "name": "ルーンの眷属ゼラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101002,
+      "name": "バトルキャスト ゼラス",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101003,
+      "name": "焦炎魔人ゼラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101004,
+      "name": "砂漠の守護者ゼラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101005,
+      "name": "ダークスター ゼラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101012,
+      "name": "アルカナ ゼラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101021,
+      "name": "宇宙飛行士ゼラス",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 101030,
+      "name": "クリスタリス インドゥミタス ゼラス",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

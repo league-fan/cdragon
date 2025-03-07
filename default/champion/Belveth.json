@@ -1,0 +1,35 @@
+{
+  "id": 200,
+  "name": "Bel'Veth",
+  "alias": "Belveth",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/200.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 200000,
+      "name": "Bel'Veth",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 200001,
+      "name": "Battle Boss Bel'Veth",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200010,
+      "name": "Cosmic Matriarch Bel'Veth",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200019,
+      "name": "Primordian Bel'Veth",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

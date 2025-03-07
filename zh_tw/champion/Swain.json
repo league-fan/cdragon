@@ -1,0 +1,72 @@
+{
+  "id": 50,
+  "name": "斯溫",
+  "alias": "Swain",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/50.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 50000,
+      "name": "斯溫",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 50001,
+      "name": "北領前線 斯溫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50002,
+      "name": "海賊參謀 斯溫",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50003,
+      "name": "強權暴君 斯溫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50004,
+      "name": "喚龍魔君 斯溫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50011,
+      "name": "海克斯科技 斯溫",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 50012,
+      "name": "水晶薔薇 斯溫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50021,
+      "name": "凜冬碎星 斯溫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50032,
+      "name": "英靈戰狼 斯溫",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50033,
+      "name": "尊爵不凡 英靈戰狼 斯溫",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

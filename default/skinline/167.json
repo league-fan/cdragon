@@ -1,0 +1,493 @@
+{
+  "id": 167,
+  "name": "Legacy",
+  "description": "Treasures from days long passed, glimmering just within reach.",
+  "skins": [
+    {
+      "id": 1006,
+      "name": "Reverse Annie",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 2001,
+      "name": "Forsaken Olaf",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 3001,
+      "name": "Enchanted Galio",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 4003,
+      "name": "The Magnificent Twisted Fate",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 5002,
+      "name": "Imperial Xin Zhao",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 7001,
+      "name": "Wicked LeBlanc",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 10005,
+      "name": "Judgment Kayle",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11001,
+      "name": "Assassin Master Yi",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11002,
+      "name": "Chosen Master Yi",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11003,
+      "name": "Ionia Master Yi",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 11004,
+      "name": "Samurai Yi",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 12002,
+      "name": "Golden Alistar",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 14004,
+      "name": "Warmonger Sion",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 15001,
+      "name": "Warrior Princess Sivir",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 15002,
+      "name": "Spectacular Sivir",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 15004,
+      "name": "Bandit Sivir",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 17002,
+      "name": "Recon Teemo",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 17003,
+      "name": "Badger Teemo",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 21002,
+      "name": "Waterloo Miss Fortune",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 22005,
+      "name": "Amethyst Ashe",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 23001,
+      "name": "Highland Tryndamere",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 24005,
+      "name": "Jaximus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 24006,
+      "name": "Temple Jax",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 24007,
+      "name": "Nemesis Jax",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 28002,
+      "name": "Masquerade Evelynn",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 30001,
+      "name": "Phantom Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 31001,
+      "name": "Nightmare Cho'Gath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 33002,
+      "name": "Chrome Rammus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 33005,
+      "name": "Ninja Rammus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 34003,
+      "name": "Noxus Hunter Anivia",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 35002,
+      "name": "Royal Shaco",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 35004,
+      "name": "Workshop Shaco",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 35005,
+      "name": "Asylum Shaco",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 36002,
+      "name": "Mr. Mundoverse",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 38004,
+      "name": "Harbinger Kassadin",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 39001,
+      "name": "Nightblade Irelia",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 40001,
+      "name": "Tempest Janna",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 41002,
+      "name": "Minuteman Gangplank",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42003,
+      "name": "Red Baron Corki",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 43002,
+      "name": "Sakura Karma",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 51003,
+      "name": "Safari Caitlyn",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 53001,
+      "name": "Rusty Blitzcrank",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 54003,
+      "name": "Marble Malphite",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 55001,
+      "name": "Mercenary Katarina",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 57002,
+      "name": "Totemic Maokai",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 59003,
+      "name": "Darkforge Jarvan IV",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 61003,
+      "name": "Bladecraft Orianna",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62002,
+      "name": "General Wukong",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 68001,
+      "name": "Rumble in the Jungle",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 76002,
+      "name": "Leopard Nidalee",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 78005,
+      "name": "Battle Regalia Poppy",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 79002,
+      "name": "Hillbilly Gragas",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 81004,
+      "name": "Explorer Ezreal",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 84006,
+      "name": "Silverfang Akali",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 85002,
+      "name": "Swamp Master Kennen",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 85003,
+      "name": "Karate Kennen",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 86001,
+      "name": "Sanguine Garen",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 86002,
+      "name": "Desert Trooper Garen",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 89002,
+      "name": "Defender Leona",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 89003,
+      "name": "Iron Solari Leona",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 90002,
+      "name": "Shadow Prince Malzahar",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 91001,
+      "name": "Renegade Talon",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 96003,
+      "name": "Monarch Kog'Maw",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 98002,
+      "name": "Yellow Jacket Shen",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 98005,
+      "name": "Warlord Shen",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 99004,
+      "name": "Imperial Lux",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 101001,
+      "name": "Runeborn Xerath",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102001,
+      "name": "Ironscale Shyvana",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102003,
+      "name": "Darkflame Shyvana",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 103002,
+      "name": "Midnight Ahri",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 104002,
+      "name": "Jailbreak Graves",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 105002,
+      "name": "Tundra Fizz",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 107002,
+      "name": "Night Hunter Rengar",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 110001,
+      "name": "Blight Crystal Varus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 111002,
+      "name": "Subterranean Nautilus",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 115002,
+      "name": "Major Ziggs",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 119002,
+      "name": "Gladiator Draven",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 126003,
+      "name": "Forsaken Jayce",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154001,
+      "name": "Special Weapon Zac",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 236001,
+      "name": "Hired Gun Lucian",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 267001,
+      "name": "Koi Nami",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

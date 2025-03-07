@@ -1,0 +1,54 @@
+{
+  "id": 234,
+  "name": "破败之王",
+  "alias": "Viego",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/234.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 234000,
+      "name": "破败之王",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 234001,
+      "name": "福牛守护者 佛耶戈",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 234010,
+      "name": "五杀摇滚之噪音 佛耶戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234019,
+      "name": "EDG 佛耶戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234021,
+      "name": "国王 佛耶戈",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 234030,
+      "name": "斗魂觉醒 佛耶戈",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 234037,
+      "name": "2024 全球总决赛 佛耶戈",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

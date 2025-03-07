@@ -1,0 +1,36 @@
+{
+  "id": 166,
+  "name": "埃可尚",
+  "alias": "Akshan",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/166.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 166000,
+      "name": "埃可尚",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 166001,
+      "name": "科技俠盜 埃可尚",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 166010,
+      "name": "水晶薔薇 埃可尚",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 166020,
+      "name": "三重榮譽 埃可尚",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

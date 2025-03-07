@@ -1,0 +1,78 @@
+{
+  "id": 42,
+  "name": "코르키",
+  "alias": "Corki",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/42.png",
+  "roles": [
+    "marksman",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 42000,
+      "name": "코르키",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 42001,
+      "name": "UFO 코르키",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42002,
+      "name": "얼음 썰매 코르키",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 42003,
+      "name": "붉은 남작 코르키",
+      "rarity": "kLegendary",
+      "isBase": false
+    },
+    {
+      "id": 42004,
+      "name": "스피드광 코르키",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42005,
+      "name": "우르프 라이더 코르키",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42006,
+      "name": "불꽃놀이 코르키",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42007,
+      "name": "Fnatic 코르키",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 42008,
+      "name": "아케이드 코르키",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 42018,
+      "name": "웰시 코르키",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 42026,
+      "name": "우주비행사 코르키",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

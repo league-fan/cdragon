@@ -1,0 +1,41 @@
+{
+  "id": 516,
+  "name": "山隐之焰",
+  "alias": "Ornn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/516.png",
+  "roles": [
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 516000,
+      "name": "山隐之焰",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 516001,
+      "name": "雷霆领主 奥恩",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516002,
+      "name": "永恒之森 奥恩",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 516011,
+      "name": "太空律动 “创乐之神” 奥恩",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516020,
+      "name": "嘟！嘟 ！奥恩",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

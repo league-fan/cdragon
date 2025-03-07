@@ -1,0 +1,66 @@
+{
+  "id": 350,
+  "name": "Yuumi",
+  "alias": "Yuumi",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/350.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 350000,
+      "name": "Yuumi",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 350001,
+      "name": "Battle Principal Yuumi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350011,
+      "name": "Heartseeker Yuumi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350019,
+      "name": "Yuubee",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350028,
+      "name": "Bewitching Yuumi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350037,
+      "name": "EDG Yuumi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350039,
+      "name": "Shiba Yuumi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350049,
+      "name": "Cyber Cat Yuumi",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 350050,
+      "name": "Prestige Cyber Cat Yuumi",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

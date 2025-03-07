@@ -1,0 +1,47 @@
+{
+  "id": 429,
+  "name": "复仇之矛",
+  "alias": "Kalista",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/429.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 429000,
+      "name": "复仇之矛",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 429001,
+      "name": "腥红之月 卡莉丝塔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429002,
+      "name": "冠军之矛 卡莉丝塔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429003,
+      "name": "SKT T1 卡莉丝塔",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 429005,
+      "name": "黑暗骑士 卡莉丝塔",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 429014,
+      "name": "花仙骑士 卡莉丝塔",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

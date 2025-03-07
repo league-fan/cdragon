@@ -1,0 +1,60 @@
+{
+  "id": 432,
+  "name": "巴德",
+  "alias": "Bard",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/432.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 432000,
+      "name": "巴德",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 432001,
+      "name": "神木精靈 巴德",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432005,
+      "name": "霜降使者 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432006,
+      "name": "吟遊詩人 巴德",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 432008,
+      "name": "宇宙漫遊者 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432017,
+      "name": "超萌咖啡廳 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432026,
+      "name": "山海卷軸 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 432035,
+      "name": "T1 巴德",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

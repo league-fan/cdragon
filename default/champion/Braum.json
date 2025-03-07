@@ -1,0 +1,60 @@
+{
+  "id": 201,
+  "name": "Braum",
+  "alias": "Braum",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/201.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 201000,
+      "name": "Braum",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 201001,
+      "name": "Dragonslayer Braum",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201002,
+      "name": "El Tigre Braum",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201003,
+      "name": "Braum Lionheart",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 201010,
+      "name": "Santa Braum",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201011,
+      "name": "Crime City Braum",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201024,
+      "name": "Sugar Rush Braum",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 201033,
+      "name": "Pool Party Braum",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

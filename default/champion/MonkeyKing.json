@@ -1,0 +1,66 @@
+{
+  "id": 62,
+  "name": "Wukong",
+  "alias": "MonkeyKing",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/62.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 62000,
+      "name": "Wukong",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 62001,
+      "name": "Volcanic Wukong",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62002,
+      "name": "General Wukong",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62003,
+      "name": "Jade Dragon Wukong",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62004,
+      "name": "Underworld Wukong",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62005,
+      "name": "Radiant Wukong",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62006,
+      "name": "Lancer Stratus Wukong",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62007,
+      "name": "Battle Academia Wukong",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62016,
+      "name": "Elderwood Wukong",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

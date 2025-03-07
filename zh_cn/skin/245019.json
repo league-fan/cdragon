@@ -1,0 +1,160 @@
+{
+  "id": 245019,
+  "contentId": "57cc8b19-97a8-40c5-9b85-abd339422637",
+  "isBase": false,
+  "name": "真实伤害 艾克",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin19/Images/ekko_splash_centered_19.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin19/Images/ekko_splash_uncentered_19.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin19/Images/ekko_splash_tile_19.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin19/EkkoLoadscreen_19.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin19/EkkoLoadscreen_19_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245019.png",
+  "chromas": [
+    {
+      "id": 245020,
+      "name": "真实伤害 艾克 锐意之风",
+      "contentId": "5cba9fd6-22eb-4799-9103-069e3a6bd128",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245020.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245021,
+      "name": "真实伤害 艾克 孤高之傲",
+      "contentId": "044fb52a-422f-42f4-9d81-8e51869b15a0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245021.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 245022,
+      "name": "真实伤害 艾克 即兴说唱",
+      "contentId": "349b86c1-4555-42d2-a10f-894b74a4502d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245022.png",
+      "colors": [
+        "#BD1357",
+        "#19182A"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245023,
+      "name": "真实伤害 艾克 天籁之律",
+      "contentId": "fe2c9467-a6df-4613-acd1-97530fd86f04",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245023.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 245024,
+      "name": "真实伤害 艾克 华丽之韵",
+      "contentId": "e328881c-b6d7-4e2a-92a7-62cb1b8be3e9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245024.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 245025,
+      "name": "真实伤害 艾克 天纵之才",
+      "contentId": "09e4e770-8e8b-4b70-847d-12f6251b96c1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245025.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245026,
+      "name": "真实伤害 艾克 本真之范",
+      "contentId": "a3d5bcbe-4c17-49a2-812e-b73488c7004b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245026.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 245027,
+      "name": "真实伤害 艾克 无畏之志",
+      "contentId": "d1b4ae9e-f6e1-4d08-b065-57ffed4a32f2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245027.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 120
+    }
+  ],
+  "description": "天才少年艾克来自穷街陋巷，将音乐作为表达自我的一种方式。惊为天人的作词加上高超的制作技巧本可以让他出人头地，但他并没有这么做，而是选择留下来鼓舞他的街坊邻居们。现在，他激烈地抗拒着名利的诱惑，因而在年轻人和怀才者们当中拥趸甚多。在他们眼中，艾克就是个人潜力发挥到极致的典范。"
+}

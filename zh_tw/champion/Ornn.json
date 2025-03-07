@@ -1,0 +1,41 @@
+{
+  "id": 516,
+  "name": "鄂爾",
+  "alias": "Ornn",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/516.png",
+  "roles": [
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 516000,
+      "name": "鄂爾",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 516001,
+      "name": "雷霆至尊  鄂爾",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516002,
+      "name": "神木精靈 鄂爾",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516011,
+      "name": "太空律動 鄂爾",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 516020,
+      "name": "嘟嘟火車 鄂爾",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

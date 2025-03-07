@@ -1,0 +1,66 @@
+{
+  "id": 62,
+  "name": "오공",
+  "alias": "MonkeyKing",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/62.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 62000,
+      "name": "오공",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 62001,
+      "name": "불원숭이 오공",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62002,
+      "name": "제천대성 오공",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62003,
+      "name": "수룡 오공",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 62004,
+      "name": "언더월드 오공",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62005,
+      "name": "찬란한 오공",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62006,
+      "name": "안개의 창기병 오공",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62007,
+      "name": "전투사관학교 오공",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 62016,
+      "name": "나무정령 오공",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

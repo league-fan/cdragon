@@ -1,0 +1,35 @@
+{
+  "id": 200,
+  "name": "貝爾薇斯",
+  "alias": "Belveth",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/200.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 200000,
+      "name": "貝爾薇斯",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 200001,
+      "name": "二次元女皇 貝爾薇斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200010,
+      "name": "星河女皇 貝爾薇斯",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200019,
+      "name": "遠古霸者 貝爾薇斯",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

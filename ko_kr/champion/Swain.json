@@ -1,0 +1,72 @@
+{
+  "id": 50,
+  "name": "스웨인",
+  "alias": "Swain",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/50.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 50000,
+      "name": "스웨인",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 50001,
+      "name": "북부전선 스웨인",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50002,
+      "name": "빌지워터 스웨인",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 50003,
+      "name": "폭군 스웨인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50004,
+      "name": "용 지배자 스웨인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50011,
+      "name": "마법공학 스웨인",
+      "rarity": "kMythic",
+      "isBase": false
+    },
+    {
+      "id": 50012,
+      "name": "수정 장미 스웨인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50021,
+      "name": "겨울의 축복 스웨인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50032,
+      "name": "늑대에게 선택받은 자 스웨인",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 50033,
+      "name": "프레스티지 늑대에게 선택받은 자 스웨인",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

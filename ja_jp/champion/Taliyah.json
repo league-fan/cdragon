@@ -1,0 +1,48 @@
+{
+  "id": 163,
+  "name": "タリヤ",
+  "alias": "Taliyah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/163.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 163000,
+      "name": "タリヤ",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 163001,
+      "name": "フレヨルド タリヤ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163002,
+      "name": "SSG タリヤ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163003,
+      "name": "プールパーティ タリヤ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163011,
+      "name": "スターガーディアン タリヤ",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 163021,
+      "name": "クリスタリス モートゥス タリヤ",
+      "rarity": "kMythic",
+      "isBase": false
+    }
+  ]
+}

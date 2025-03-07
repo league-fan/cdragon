@@ -1,0 +1,29 @@
+{
+  "id": 711,
+  "name": "Vex",
+  "alias": "Vex",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/711.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 711000,
+      "name": "Vex",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 711001,
+      "name": "Dawnbringer Vex",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 711010,
+      "name": "Empyrean Vex",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

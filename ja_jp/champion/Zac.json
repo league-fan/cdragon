@@ -1,0 +1,54 @@
+{
+  "id": 154,
+  "name": "ザック",
+  "alias": "Zac",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/154.png",
+  "roles": [
+    "tank",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 154000,
+      "name": "ザック",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 154001,
+      "name": "特殊兵器ザック",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 154002,
+      "name": "プールパーティ ザック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154006,
+      "name": "SKT T1 ザック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154007,
+      "name": "バトルキャスト ザック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154014,
+      "name": "荘厳の天球ザック",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 154024,
+      "name": "ザクザクザック",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

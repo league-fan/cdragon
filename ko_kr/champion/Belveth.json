@@ -1,0 +1,35 @@
+{
+  "id": 200,
+  "name": "벨베스",
+  "alias": "Belveth",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/200.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 200000,
+      "name": "벨베스",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 200001,
+      "name": "중간보스 벨베스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200010,
+      "name": "우주 여제 벨베스",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 200019,
+      "name": "태고족 벨베스",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

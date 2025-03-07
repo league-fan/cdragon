@@ -1,0 +1,48 @@
+{
+  "id": 420,
+  "name": "海兽祭司",
+  "alias": "Illaoi",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/420.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 420000,
+      "name": "海兽祭司",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 420001,
+      "name": "虚空使者 俄洛伊",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 420002,
+      "name": "抵抗军炎魔 俄洛伊",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420010,
+      "name": "水瓶星神 俄洛伊",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420018,
+      "name": "净雪之月 俄洛伊",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 420027,
+      "name": "幻灵巨熊 俄洛伊",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

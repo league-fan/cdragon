@@ -1,0 +1,42 @@
+{
+  "id": 427,
+  "name": "Ivern",
+  "alias": "Ivern",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/427.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 427000,
+      "name": "Ivern",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 427001,
+      "name": "Candy King Ivern",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427002,
+      "name": "Dunkmaster Ivern",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427011,
+      "name": "Old God Ivern",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 427020,
+      "name": "Astronaut Ivern",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 240,
+  "name": "클레드",
+  "alias": "Kled",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/240.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 240000,
+      "name": "클레드",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 240001,
+      "name": "클레드 경",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 240002,
+      "name": "클레듈라 백작",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240009,
+      "name": "습격자 클레드",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 240018,
+      "name": "개밥그릇 클레드",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}

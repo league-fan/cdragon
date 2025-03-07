@@ -1,0 +1,42 @@
+{
+  "id": 526,
+  "name": "Rell",
+  "alias": "Rell",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/526.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 526000,
+      "name": "Rell",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 526001,
+      "name": "Battle Queen Rell",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526010,
+      "name": "Star Guardian Rell",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526020,
+      "name": "High Noon Rell",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 526030,
+      "name": "Grand Reckoning Rell",
+      "rarity": "kNoRarity",
+      "isBase": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102,
+  "name": "쉬바나",
+  "alias": "Shyvana",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/102.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 102000,
+      "name": "쉬바나",
+      "rarity": "kNoRarity",
+      "isBase": true
+    },
+    {
+      "id": 102001,
+      "name": "강철 용기사 쉬바나",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102002,
+      "name": "뼈갈퀴손 쉬바나",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102003,
+      "name": "어둠 불꽃 쉬바나",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102004,
+      "name": "서리용 쉬바나",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102005,
+      "name": "2014 월드 챔피언십 쉬바나",
+      "rarity": "kNoRarity",
+      "isBase": false
+    },
+    {
+      "id": 102006,
+      "name": "슈퍼 갤럭시 쉬바나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 102008,
+      "name": "몰락한 쉬바나",
+      "rarity": "kEpic",
+      "isBase": false
+    },
+    {
+      "id": 102017,
+      "name": "불멸의 영웅 쉬바나",
+      "rarity": "kEpic",
+      "isBase": false
+    }
+  ]
+}
