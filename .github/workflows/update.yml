@@ -20,7 +20,11 @@ jobs:
       - name: Update Assets
         id: update-assets
         run: |
-          deno run crawler
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            deno run crawler --force
+          else
+            deno run crawler
+          fi
           deno run genIndex
 
       - name: Prepare tag

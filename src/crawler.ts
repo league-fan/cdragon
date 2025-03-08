@@ -89,7 +89,7 @@ class Crawler {
     this.api.config = { ...this.api.config, ...config };
   }
 
-  async checkIfNeedCrawling() {
+  async checkIfNeedCrawling(forceCrawl: boolean = false) {
     const originalVersion = await this.readDataFromFile<{
       version: string;
       crawledAt: Date;
@@ -103,7 +103,7 @@ class Crawler {
       `originalVersion: ${originalVersion?.version}, version: ${version.version}`,
     );
 
-    if (originalVersion?.version === version.version) {
+    if (originalVersion?.version === version.version && !forceCrawl) {
       return false;
     } else {
       await this.saveDataToFile({
@@ -226,7 +226,7 @@ class Crawler {
   }
 }
 
-async function main() {
+async function main(forceCrawl: boolean = false) {
   const desiredLanguages = [
     "zh_cn",
     "default",
@@ -241,7 +241,7 @@ async function main() {
     fallbackLanguage: "default",
   }, SAVE_DIR);
 
-  const needCrawling = await defaultCrawler.checkIfNeedCrawling();
+  const needCrawling = await defaultCrawler.checkIfNeedCrawling(forceCrawl);
   if (!needCrawling) {
     console.log("no need to crawl");
     return;
@@ -292,3 +292,11 @@ async function main() {
 main().then(() => {
   console.log("all crawling tasks finished");
 }).catch(console.error);
+
+// 测试运行函数
+if (import.meta.main) {
+  const forceCrawl = Deno.args.includes("--force");
+  main(forceCrawl).then(() => {
+    console.log("all crawling tasks finished");
+  }).catch(console.error);
+}
