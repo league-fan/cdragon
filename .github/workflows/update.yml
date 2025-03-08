@@ -12,7 +12,24 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+
+      - name: Fetch version file from gh-pages
+        run: |
+          git config --global advice.detachedHead false
+          if git ls-remote --heads origin gh-pages; then
+            git fetch origin gh-pages --depth=1
+            if git show origin/gh-pages:.data/version.json > /dev/null 2>&1; then
+              mkdir -p .data
+              git show origin/gh-pages:.data/version.json > .data/version.json
+              echo "Successfully fetched version.json from gh-pages branch"
+            else
+              echo "version.json does not exist in gh-pages branch"
+            fi
+          else
+            echo "gh-pages branch does not exist yet"
+          fi
+
       - uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x # Run with latest stable Deno.
@@ -41,4 +58,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .data
           tag_name: ${{ steps.prepare_tag.outputs.DEPLOY_TAG }}
-          tag_message: 'Deployment of ${{ steps.prepare_tag.outputs.DEPLOY_TAG }} at ${{ steps.prepare_tag.outputs.DEPLOY_TIME }}'
+          tag_message: "Deployment of ${{ steps.prepare_tag.outputs.DEPLOY_TAG }} at ${{ steps.prepare_tag.outputs.DEPLOY_TIME }}"
