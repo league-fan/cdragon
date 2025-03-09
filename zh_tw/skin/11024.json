@@ -132,6 +132,54 @@
     }
   ],
   "description": "隨著惡魔國度與人類世界的界線被迅速消除，血月教派的教徒展開了一場令人恐懼的蛻變。易大師首先受到了這股黑暗力量的祝福，藏身於他劍身中的惡魔驅動他創造更盛大的血腥暴虐。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence."
+  }
 }

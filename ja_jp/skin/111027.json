@@ -137,6 +137,52 @@
     }
   ],
   "description": "このノーチラスという生き物は、目的もなく銀河間を彷徨っている姿を目撃されているが、彼がどこからやって来たのか、どうやって生きたまま宇宙の星々を渡り歩いているのか、知っている者はいない。彼は生まれつき、ダークスターのエントロピーフォースに対して耐性を持っており、ベル＝ヴェスはそこに注目した。そして、これまで宇宙を漂っているだけだった彼は、勇士として意義と目的を見つけた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-30",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 31
+      }
+    },
+    "splashartist": [
+      "Joshua Raphael",
+      "West Studio"
+    ],
+    "lore": "A creature found aimlessly wandering between galaxies, no one knows where Nautilus came from, or how he has stayed alive in the space between stars. But his natural resistance to the entropic forces of the Dark Star attracted the attention of Bel'Veth. He has found meaning and purpose as a Paladin, where before he simply drifted amongst the cosmos."
+  }
 }

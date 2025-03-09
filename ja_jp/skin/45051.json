@@ -137,6 +137,55 @@
     }
   ],
   "description": "ビィガーは攻撃の瞬間を10日間(注: 蜂にとっては長い年月)待ち続け、ようやくその時が来た。彼の目は女王蜂の王冠を真っすぐ見据えている。反乱蜂に栄光あれ！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45051,
+    "formatname": "King Beegar",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-22",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Beegar's waited a whole 10 days (that's a long time in bee-years) for his moment to strike. It's finally here, and the Queen Bee's crown is in his sights. Long live the Bee-sistance!"
+  }
 }

@@ -170,6 +170,63 @@
     }
   ],
   "description": "동물특공대 신입 대원이라면 일라오이의 쩌렁쩌렁 울리는 웃음소리를, 그리고 힘들기로 악명 높은 훈련 시간을 모를 수가 없습니다. 늘 미래를 바라보고 사는 일라오이가 동물특공대의 옛 방식을 지킨다는 사실이 이상하게 느껴지기도 하지만, 최후의 도시 이전에도 삶이 있었다는 사실을 아는 일라오이는 전쟁이 끝난 후에도 삶이 계속 이어지게 하려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 420027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 32,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Nightwire": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Every Anima Squad recruit knows Illaoi's booming laugh—and her notoriously tough training sessions—all too well. As someone always looking towards the future, it may seem strange that she is also Anima Squad's keeper of the Old Ways. But Illaoi knows that there was life before Final City, and she will ensure life continues long after the war is done."
+  }
 }

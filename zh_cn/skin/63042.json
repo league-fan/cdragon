@@ -165,6 +165,58 @@
     }
   ],
   "description": "如果说布兰德所在位面的毁灭让他的意志屈服了，那么成为一位至高天则打破了他的意志。对他来说，“成为他的位面的唯一幸存者并获得神之力量”这一事件的随机性，证明了什么都无所谓。他可以点燃一整颗星球或是送走他父亲的每一个版本。一切都是混乱无序的，而布兰德简直太乐意传播这种状态了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63042,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 44
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Neon Facade": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Tanzanite": {
+        "id": 48
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "If the destruction of Brand's realm bent his mind, becoming an Empyrean broke it. To him, the randomness of being his realm's lone survivor and gaining the powers of a god prove that nothing truly matters. He could set fire to an entire planet or kill every version of his father. Everything is anarchy, and Brand is only too glad to spread it."
+  }
 }

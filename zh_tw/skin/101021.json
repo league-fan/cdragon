@@ -137,6 +137,55 @@
     }
   ],
   "description": "齊勒斯是渴求力量的化學家，他發現了外星侵略者米普的存在，並窮極一生研究如何掌控米普的能量。在一次實驗爆炸意外中，他不幸失去了自己的身體。如今，完全受腐化米普所佔據的齊勒斯穿梭在銀河中，意圖將邪惡散播到整個宇宙。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 29
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "An obsessive chemist driven by power, Xerath discovered the invader meeps and devoted his life to researching how to harness their energy. After an explosion during one of his experiments, his body was permanently mutated. Now, fully consumed by the corrupted meeps, Xerath traverses the galaxy, seeking to spread his malice across the cosmos."
+  }
 }

@@ -12,72 +12,367 @@
       "name": "麗珊卓",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2013-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2013-04-29",
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "As the reclusive leader of the Frostguard, many believe Lissandra is a living saint whose followers bring healing and wisdom to the tribes of the Freljord. The truth is perhaps more sinister, as she uses her elemental magic to twist the power of True Ice into something dark and terrible, entombing or impaling any who would reveal her deepest secrets. Indeed, the legacy of her past may yet be the beginning of the end for Runeterra."
+      }
     },
     {
       "id": 127001,
       "name": "血之祈舞 麗珊卓",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-04-29",
+        "set": [
+          "Bloodstone"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Once a powerful sorceress who sought absolute control over her followers, Lissandra transformed into something altogether different when she finally found the hallowed Bloodstone. The magic she drew from it drove her to slay those who once tended to her every whim. To this day she wanders in search of more mortals to sacrifice to her newfound source of power."
+      }
     },
     {
       "id": 127002,
       "name": "刀鋒女王 麗珊卓",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-05-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-05-26",
+        "set": [
+          "Omen of the Dark"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Ruler of a once mighty city, Lissandra was seduced by the promises of a monstrous shadow, whispering of esoteric power and eternal life. For this, she betrayed her people and gave them to darkness, so that in the shadow's womb she would be reborn an ageless monster."
+      }
     },
     {
       "id": 127003,
       "name": "人工智慧 麗珊卓",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-04-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-04-06",
+        "earlysale": "2016-10",
+        "set": [
+          "Program"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Built as an all-seeing security bot, Program Lissandra rose above her initial code to become a self-generating artificial intelligence. She manipulates the technology of augmented humans with her own mimetic commands, so that all will fall before her."
+      }
     },
     {
       "id": 127004,
       "name": "女巫集會 麗珊卓",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-27",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Dark Ritual": {
+            "id": 22,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Meteorite": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 11
+          },
+          "Tanzanite": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "They came to Lissandra as if in some waking dream—visions of the Ivory Stag, and the old magics long lost to antiquity. Even now, the ageless witch resides among those twisted shadows of the old growth, awaiting the day her dead gods spill forth from their rotten and accursed graves."
+      }
     },
     {
       "id": 127012,
       "name": "幽冥煞星 麗珊卓",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rainbow": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared."
+      }
     },
     {
       "id": 127023,
       "name": "青花瓷 麗珊卓",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Aquamarine": {
+            "id": 25
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Golden Tiger": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "West Studio"
+        ],
+        "lore": "Long ago, the sorceress Lissandra stole the Snake Relic from the ancient Protectors in a bid to gain immortality. Cast down and sealed away for her crimes, Lissandra spent centuries of solitude scheming a way to take all twelve Zodiac Relics for herself, waiting for the perfect time to strike... And now Ezreal has given her the chance."
+      }
     },
     {
       "id": 127033,
       "name": "尊爵不凡 青花瓷 麗珊卓",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127033,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 23,
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "What is fashion, if not sculpture? Is it not beauty and elegance in physical form? The portrait of glamor in white, blue, and gold, Lissandra is a work of art, on and off the runway."
+      }
     },
     {
       "id": 127034,
       "name": "太空律動 麗珊卓",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-17",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Rainbow": {
+            "id": 39
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "Brutal alien leader of the Harsh Vibes, Lissandra subjugates planets rich in The Groove for her own nefarious purposes—banning disco and steeping the entire galaxy in Muzak. She and her army of roller-skating derby goons will stop at nothing to eliminate disco forever. But for her latest scheme to work, she's going to need an invite to the disco to end all discos: The Jam."
+      }
     }
   ]
 }

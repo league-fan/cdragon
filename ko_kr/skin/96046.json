@@ -137,6 +137,54 @@
     }
   ],
   "description": "야수 코그모는 불멸에 가까운 껍데기 덕분에 소용돌이의 힘에 굴하지 않고 급류를 안전하게 타고 다닐 수 있습니다. 끝없는 자가당착 상태에 빠져 있는 코그모의 꼬리는 소용돌이의 힘을 흡수하는 데 사로잡혀 있는 반면에 머리는 그냥 눈앞에 있다면 무엇이든지 전부 집어삼키고 싶을 뿐입니다. 산수화 속에 코그모의 커가는 배고픔을 잠재울 수 있는 게 있기는 할까요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 52
+      },
+      "Catseye": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "In defiance of the maelstrom's power, the beast Kog'Maw safely rides along its currents thanks to its nigh-unbreakable shell. Perpetually at odds with itself, its tail is addicted to feeding on the maelstrom's energy, while its head simply wants to devour everything in sight. Can anything within the Scrolls sate its growing hunger?"
+  }
 }

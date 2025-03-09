@@ -49,6 +49,32 @@
     }
   ],
   "description": "Commemorating the 2019 Mid-Season Invitational in Asia.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2019-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12020,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2019-04-30",
+    "set": [
+      "Conqueror"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      }
+    },
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Commemorating the 2019 Mid-Season Invitational in Asia."
+  }
 }

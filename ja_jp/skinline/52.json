@@ -8,16 +8,50 @@
       "name": "雷帝ボリベア",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-11-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 106001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-11-29",
+        "set": [
+          "Thunder Lord"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "In an age before man, King Voli ruled the bitter northlands, and he was as harsh and unforgiving as they were. It is said that he waged a terrible war against his brother, the great King Ornn, and that their struggle razed mountains and emptied seas, as the two of them became like beasts themselves."
+      }
     },
     {
       "id": 516001,
       "name": "雷帝オーン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-08-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 516001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-22",
+        "earlysale": "2018-02",
+        "set": [
+          "Thunder Lord"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "In an age before man, King Ornn ruled the craggy southlands, and he was as rocky and lifeless as they were. It is said that he weathered an endless siege from his brother, the great King Voli, and that the blood they spilled sprouted grass and trees and animals, even as they became like beasts themselves."
+      }
     }
   ]
 }

@@ -48,6 +48,27 @@
     }
   ],
   "description": "学部長告知: アーリは次の問題行動(その他多数)を起こしたため、停学処分とする──授業中のスマホ使用、スマホ使用に関する学園の聴き取り調査中のスマホ使用、並びにスマホ使用に関する聴き取り調査からの逃亡。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2015-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-08-26",
+    "earlysale": "2016-01",
+    "set": [
+      "Academy"
+    ],
+    "chromas": {
+      "Ahri-versary": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "NOTICE FROM THE DEAN: Ahri is henceforth suspended from Academy grounds for behavior including (but not limited to): use of her phone during class, use of her phone during disciplinary hearings about her phone, and escaping disciplinary hearings about her phone."
+  }
 }

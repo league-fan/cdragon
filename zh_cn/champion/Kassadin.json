@@ -13,80 +13,325 @@
       "name": "虚空行者",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2009-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-08-06",
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes—until the day his village was consumed by the Void. He vowed vengeance, combining a number of arcane artifacts and forbidden technologies for the struggle ahead. Finally, Kassadin set out for the wastelands of Icathia, ready to face any monstrous Void-construct in his search for their self-proclaimed prophet, Malzahar."
+      }
     },
     {
       "id": 38001,
       "name": "寒冰王座 卡萨丁",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-12",
+        "set": [
+          "Winter Sports"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "lore": "Reigning from his frozen throne on a lonely mountain, Kassadin prepares in secret for a special festival hidden deep in the icy wastes. Whether it's a winter sports festival, none can say… except for the attendees, who think he's being ridiculous."
+      }
     },
     {
       "id": 38002,
       "name": "深海一号 卡萨丁",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-01",
+        "retired": "2014-12-02",
+        "set": [
+          "Forgotten Depths"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "lore": "“Kassadin vanished at sea over fifty years ago. Whatever you saw down there—if you did see anything—it can't have been the same man I watched fall into the drink. And if it was… gods help us.”"
+      }
     },
     {
       "id": 38003,
       "name": "虚空前世 卡萨丁",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-26",
+        "set": [
+          "Curse of the Void"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ]
+      }
     },
     {
       "id": 38004,
       "name": "先驱行者 卡萨丁",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-13",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Kassadin swore vengeance on all gods, good and evil, of his world and of others, when his kingdom was destroyed by an errant thought. Forging armor from the remnants of an ancient living machine, he now sees himself growing closer towards the all-powerful beings he wishes to destroy. "
+      }
     },
     {
       "id": 38005,
       "name": "掠星魔刃 卡萨丁",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-10-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-10-14",
+        "earlysale": "2016-04",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "lore": "Born before the kindling of the stars, Kassadin stands alone in space's vast void. He watches over all things, a sentinel awaiting the end of this universe… and the beginning of the next."
+      }
     },
     {
       "id": 38006,
       "name": "伯爵 卡萨丁",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-10-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Citrine": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "A grim, lonely man who lives on a grim, lonely street, Kassadin is the one whom all kids avoid on All Hallows' Eve; for in his presence, there are no treats nor sweets to be found."
+      }
     },
     {
       "id": 38014,
       "name": "海克斯科技 卡萨丁",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38014,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-10-15",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "Engrossed in his work to the point of near-obsession, Kassadin vanished for some time into the bowels of his labyrinthian workshop, disappearing from public life for years. When he emerged, he revealed a shocking hextech innovation to the world: his own body, fully integrated with the technology he so loved."
+      }
     },
     {
       "id": 38015,
       "name": "冲击之刃 卡萨丁",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-02-17",
+        "set": [
+          "Shockblade"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 19
+          },
+          "Catseye": {
+            "id": 17
+          },
+          "Emerald": {
+            "id": 18,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Zoe Zhu",
+          "West Studio"
+        ],
+        "lore": "As high priest of the Shockblade order, Kassadin has a deep connection to the Storm few understand, but all respect. It is the power of his station that allows the Shockblades to follow their targets in and out of the spirit realm, going where no one else can to protect the people under their charge."
+      }
     },
     {
       "id": 38024,
       "name": "神龙尊者 星界之龙 卡萨丁",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 30
+          },
+          "Citrine": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Kassadin scoured the world in search of a missing loved one. He mapped out a path in the stars, following a pattern of constellations only he could read—reaching an open field where the Astral Dragon recognized his purpose. Though his spirit darkens over the possibility his journey may never end, he now harnesses the dragon's brilliance to light his way."
+      }
     }
   ]
 }

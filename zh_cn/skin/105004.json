@@ -33,6 +33,22 @@
     }
   ],
   "description": "众所周知，菲兹是一名来自无尽虚空的致命生物。他喜欢创造生命，并藉此故意惹怒监视者们——因此即便是在虚空中，他也很遭人烦。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-04-06",
+    "set": [
+      "Curse of the Void"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "lore": "There's no disputing that Fizz is a deadly creature of the endless Void. But even in the Void, Fizz is widely considered to be extremely irritating for his love of bringing life into existence just to annoy the Watchers."
+  }
 }

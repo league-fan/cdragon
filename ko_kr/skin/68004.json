@@ -194,6 +194,50 @@
     }
   ],
   "description": "저 멀리서 럼블의 로봇이 칙칙거리는 소리와 함께 희뿌연 연기를 내뿜는 광경은 심장이 얼어붙을 듯 무섭습니다. 그건 누군가가 럼블의 주의를 끌었다는 뜻이고, 럼블의 주의를 끌었다는 건 곧 영원히 끝장났다는 뜻이니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-04-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 68004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-04-11",
+    "set": [
+      "Road Warrior"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Meteorite": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 5
+      },
+      "Turquoise": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Ari Rubin"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Nothing turns a traveler's blood cold like seeing Rumble in the distance, his iron death buggy chugging thick clouds of irradiated smoke. That means someone's got his attention, and those with Rumble's attention have a nasty habit of becoming very, very dead."
+  }
 }

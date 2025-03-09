@@ -160,6 +160,60 @@
     }
   ],
   "description": "萨科与违禁品和模具一起被埋在地板下，被限制在一个简单的玩具里，策划着世界末日。他所需要的只是一个傻瓜将他从束缚中解救出来并执行仪式，但他早该知道——永远不要相信一个惊魂露营者能够正确完成一次仪式！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Ghoulish": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 61
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Cast beneath the floorboards with contraband and mold, confined within a simple toy, Shaco plotted worldwide doom. All he needed was a fool to spring him from his bindings and perform the ritual rites, but he should have known—never trust a Creepaway camper to get a ritual right!"
+  }
 }

@@ -48,6 +48,33 @@
     }
   ],
   "description": "장대하고 고차원적인 행성계의 잔해로부터 태어난 오리아나는 어둠의 별을 정밀하게 섬깁니다. 그녀는 소름 끼치는 춤을 추며 은하 사이를 지나가고, 조용한 파괴의 흔적만이 떠나가는 그녀를 지켜봅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-05-03",
+    "earlysale": "2017-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake."
+  }
 }

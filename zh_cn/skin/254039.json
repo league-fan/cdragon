@@ -138,6 +138,54 @@
     }
   ],
   "description": "蔚因其蛮力而在各地受到尊重，是众所周知的神恩战爪的首领。尽管许多人羡慕她的地位，但她遥遥领先于她的竞争者们，泰然自若并渴望对阵任何值得她猛烈出拳的挑战者。在那之前，她会在世界各地寻找传说中的狂野虎纹，据说它可以将一位神恩战爪的力量超越到不可理解的高度。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Peridot": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Respected throughout the land for her strength, Vi is known to all as the leader of the Favorclaw. Although many envy her status, she stands above her competitors, unphased and eager for any challengers worthy of her furious fists. Until then, she searches the world for a mythical Wildstripe said to transcend a Favorclaw's power to unfathomable heights."
+  }
 }

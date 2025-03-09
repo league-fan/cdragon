@@ -141,6 +141,53 @@
     }
   ],
   "description": "對和平的渴望帶來的可不只是一年一度的祭典。在這舉世共同的祈願中誕生的就是珍娜，這位神靈的魔法在一夜之間就如花圈般盛綻。儘管多數人只把她當作一段傳說，賓客有時仍聲稱看見一名美麗女子漂浮而過。也許那是水晶薔薇光輝的錯覺吧...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-10",
+    "set": [
+      "Crystal Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The desire for peace brought about more than just a yearly festival. Born from this universal wish was Janna, a spirit whose magic hangs like a wreath over the night. Though she's regarded by most as a legend, guests sometimes say they see a beautiful woman float by. Maybe it's a trick of the crystal rose's light..."
+  }
 }

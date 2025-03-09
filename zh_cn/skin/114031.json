@@ -53,6 +53,32 @@
     }
   ],
   "description": "以此致敬TheShy在2018全球总决赛中使用菲奥娜的夺胜表现。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-04-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114031,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-04-23",
+    "set": [
+      "World Champions: 2018"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 79,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring TheShy's winning performance as Fiora during the 2018 World Championship."
+  }
 }

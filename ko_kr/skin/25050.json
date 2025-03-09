@@ -160,6 +160,60 @@
     }
   ],
   "description": "미지의 기원으로부터 나타난 악당 모르가나는 정의와 질서가 우주의 발전을 방해한다고 믿습니다... 그리고 엔트로피로 가득한 세상을 만들기 위해 무엇이든 할 준비가 되어 있죠. 이제 모르가나는 별 수호자들을 파괴의 대상으로 삼은 채 끊임없이 괴롭히며 강력한 최후의 일격을 준비하고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25050,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 58
+      },
+      "Catseye": {
+        "id": 52
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Peridot": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Turquoise": {
+        "id": 54
+      },
+      "Wicked": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "A villainess of mysterious origins, Morgana believes that concepts like justice and order are holding the universe back... and she's willing to do anything to return it to a state of entropy. Targeting the Star Guardians for destruction, she torments them relentlessly before dealing the final, crushing blow."
+  }
 }

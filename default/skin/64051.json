@@ -147,6 +147,52 @@
     }
   ],
   "description": "All hail the Prince of Dragons, heir to the throne of the heavenly Kingdom of Dragons! A noble and just prince, Lee Sin is deeply devoted to his people. When he hears the telltale crackle of fireworks just below the clouds, he knows it's time to learn more about his human subjects—and how they greet the New Year with a bang!",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64051,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 58
+      },
+      "Citrine": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Lustrous": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Rose Quartz": {
+        "id": 55
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "All hail the Prince of Dragons, heir to the throne of the heavenly Kingdom of Dragons! A noble and just prince, Lee Sin is deeply devoted to his people. When he hears the telltale crackle of fireworks just below the clouds, he knows it's time to learn more about his human subjects—and how they greet the New Year with a bang!"
+  }
 }

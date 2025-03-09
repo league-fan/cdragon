@@ -119,6 +119,53 @@
     }
   ],
   "description": "The most powerful (and powerfully dressed) man in Nox Vegas, Zed has been dabbling in more than fancy parties and cutthroat dealmaking. A new crowd from Crime City has entered his inner circle, granting this debonair gentleman an unbreakable stranglehold over the strip… and a dreadful new change in both mind and body.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 33
+      },
+      "Cerulean Club": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "The most powerful (and powerfully dressed) man in Nox Vegas, Zed has been dabbling in more than fancy parties and cutthroat dealmaking. A new crowd from Crime City has entered his inner circle, granting this debonair gentleman an unbreakable stranglehold over the strip… and a dreadful new change in both mind and body."
+  }
 }

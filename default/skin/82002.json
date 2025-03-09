@@ -24,6 +24,23 @@
     }
   ],
   "description": "An ancient, Infernal general who attacks without feeling or remorse, Mordekaiser raises the incinerated corpses of his victims as soldiers for his own vast armies. They sweep across the world like a burning plague, annihilating all life.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-02-24",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "An ancient, Infernal general who attacks without feeling or remorse, Mordekaiser raises the incinerated corpses of his victims as soldiers for his own vast armies. They sweep across the world like a burning plague, annihilating all life."
+  }
 }

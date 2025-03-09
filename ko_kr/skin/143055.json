@@ -137,6 +137,55 @@
     }
   ],
   "description": "많은 핏빛달 여사제가 악마의 속삭임을 따르지만 자이라의 악마는 가학적인 환호성을 내지르며, 자이라도 똑같이 응답합니다. 타락을 향한 갈증으로 하나 된 자이라와 악마는 자이라의 동료 여사제들을 찾아내 하나로 결속하고자 합니다. 그래야만 아이오니아 너머로 자신들의 파괴를 퍼뜨릴 수 있으니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-17",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Pearl": {
+        "id": 63
+      },
+      "Rose Quartz": {
+        "id": 60
+      },
+      "Ruby": {
+        "id": 56,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "While many Blood Moon priestesses follow the whispers of their demons, Zyra's demon howls with sadistic glee—and Zyra responds in kind. United in their thirst for corruption, Zyra and her demon seek out her fellow priestesses in order to unite them all as one. Only then can they spread their destruction to the world beyond Ionia's borders."
+  }
 }

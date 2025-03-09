@@ -160,6 +160,60 @@
     }
   ],
   "description": "ジンクスは一騎当千の壊し屋であり、破壊を求めるその天性の衝動は、プライモーディアンとの戦いで大いに役立つこととなった。ただ、厳密に言うと彼女は兵士ではない。また、人類を救うという大義にあまり興味はなく、命令も無視してばかりだが…その戦果だけは誰にも文句の付けようがない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Nightwire": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Jinx is a one-cat demolitions squad, her natural destructive impulses turned toward more productive ends: fighting off the Primordians. She's not really a soldier, doesn't seem to care about humanity's cause, and doesn't follow orders "
+  }
 }

@@ -48,6 +48,29 @@
     }
   ],
   "description": "아리의 고귀한 혈통은 그녀의 옷차림과 몸가짐에 고스란히 드러나지만, 아리는 성에 갇혀있는 것보다 옥상을 뛰어다니며 이런저런 장난을 치는 걸 훨씬 좋아합니다. 웃음이 없는 삶은 재미없잖아요?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Yuhong Ding",
+      "West Studio"
+    ],
+    "lore": "Though Ahri's royal blood is obvious in her fashion and poise, she much prefers running across rooftops and causing general mischief to being locked up in a castle. Life's more fun with laughter, don't you think?"
+  }
 }

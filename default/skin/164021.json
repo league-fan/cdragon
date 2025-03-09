@@ -160,6 +160,60 @@
     }
   ],
   "description": "There are few truly “veteran” soldiers in the galaxy, and those who make it far enough to earn the title have done so for a reason. As commander of RSM's newly minted Strike Team Hyperion, Camille is ruthless, calculating, and fierce, bringing to bear the full power of the Y03-Principality on any target unlucky enough to end up in her sights.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 25
+      },
+      "Citrine": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "There are few truly “veteran” soldiers in the galaxy, and those who make it far enough to earn the title have done so for a reason. As commander of RSM's newly minted Strike Team Hyperion, Camille is ruthless, calculating, and fierce, bringing to bear the full power of the Y03-Principality on any target unlucky enough to end up in her sights."
+  }
 }

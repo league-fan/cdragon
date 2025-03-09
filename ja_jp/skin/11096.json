@@ -226,6 +226,59 @@
     }
   ],
   "description": "皇子が武術を学ぶ師として最上級の達人を要求したとき、マスター・イーよりも優れた技を持つ龍は存在しなかった。真の達人は戦士であると同時に詩人であり、王者であると同時に芸術家でなくてはならない。そして学ぶに当たっては、常にあらゆる事態に対処できる必要がある。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11096,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 101
+      },
+      "Citrine": {
+        "id": 98
+      },
+      "Emerald": {
+        "id": 99
+      },
+      "Lustrous": {
+        "id": 104,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Meteorite": {
+        "id": 103
+      },
+      "Obsidian": {
+        "id": 105
+      },
+      "Rose Quartz": {
+        "id": 100
+      },
+      "Ruby": {
+        "id": 97,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 102
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "A prince requires a master of the highest caliber to teach him martial arts, and there is no dragon of greater skill than Master Yi. A true master must be both warrior and poet, champion and artist—and in the spirit of learning, must always be ready for anything."
+  }
 }

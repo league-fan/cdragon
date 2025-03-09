@@ -120,6 +120,51 @@
     }
   ],
   "description": "薩科是一名邪惡術士、通緝要犯，同時也是危險的生物，他的理智在實驗性的靈魂複製儀式中四分五裂。在某個時間點，他得到了一本罕見而強大的咒語書，他令人懼怕的奧術魔法也因此更具威脅。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-09",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Rainbow": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "Vile warlock and wanted criminal, Shaco is a dangerous creature whose mind was shattered during experimental soul duplication rituals. At some point he came into possession of a rare and powerful book of spells, amplifying the threat of his monstrous arcane sorcery."
+  }
 }

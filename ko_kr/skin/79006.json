@@ -24,6 +24,21 @@
     }
   ],
   "description": "그라가스는 모든 마실 거리에 능통한 전문가입니다. 역시 이곳 국제 음료 축제에서도 그라가스다운 면모를 아낌없이 발휘하고 있네요!",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-09-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-09-21",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "lore": "Gragas is the world's premier authority on beverages. Here, at the international beverage festival and funfair, he's drinking a lot of them."
+  }
 }

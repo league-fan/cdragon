@@ -24,6 +24,24 @@
     }
   ],
   "description": "가장 어두운 심연에서 한 지옥의 존재가 울부짖습니다. 이제 수 세기 동안 단순한 신화로만 여겨졌던 레넥톤 같은 괴물들이 세상에 나타나 필멸자들의 오만함을 벌합니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-02-10",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "What is an Infernal but the screams beckoning from the darkest corners of mortal imagination? For centuries they were considered nothing more than myth—and yet, now, monstrosities such as Renekton roam freely, punishing us all for the last fleeting gasp of our own hubris."
+  }
 }

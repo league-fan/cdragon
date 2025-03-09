@@ -48,6 +48,35 @@
     }
   ],
   "description": "作為來自神祕凜冬之地的冰雪精靈，伊瑞莉雅的行為舉止在她那些淘氣的同胞旁邊顯得特別地堅忍不拔。儘管如此，她的內心仍嚮往有一天能在普羅王的王宮中效命。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 39004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-04-30",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "vu": true,
+    "chromas": {
+      "Golden": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "An ice sprite hailing from the mythical Winterlands, Irelia's demeanor is surprisingly stoic considering her mischievous brethren. Despite this, she aspires to one day serve in the court of the Poro King."
+  }
 }

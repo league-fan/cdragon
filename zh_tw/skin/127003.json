@@ -24,6 +24,27 @@
     }
   ],
   "description": "「人工智慧 麗珊卓」最初的設計是一個全能的安全機器人，但她掙脫了身體裡一開始被設定的程式碼，成為了一個能自我運作的人工智能。麗珊卓用她模仿的命令操縱著改造人類所擁有的技術，使萬物都臣服在她面前。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-04-06",
+    "earlysale": "2016-10",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Built as an all-seeing security bot, Program Lissandra rose above her initial code to become a self-generating artificial intelligence. She manipulates the technology of augmented humans with her own mimetic commands, so that all will fall before her."
+  }
 }

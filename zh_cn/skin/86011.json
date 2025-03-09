@@ -57,6 +57,32 @@
     }
   ],
   "description": "作为司马仲达的古老王国的忠诚守护者，张辽文远是一名勇敢冲向最艰苦的战斗中的勇士。他为了国王的荣誉和人民的安全而战，对正义有着顽固到接近偏执的执着。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-01-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-01-19",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "Brave guardian of Azir's ancient fortress, Garen is a mighty warrior who charges fearlessly into even the most hopeless battles. He fights for the glory of his ruler and the safety of his people, a powerful, if headstrong, force for justice."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "「私の仲間は奴に騙された。奪われたものは必ず取り返す」と、そのアウトサイダーは言い、「機械仕掛けの悪魔」について書かれたお尋ね者の貼り紙にナイフを突き立てた。彼女は赤々と燃える石炭のように目を光らせながら、砂ぼこりまみれの外套を着た旅人たち一人ひとりに視線を送った。「お前たち『啓示者』がサルファー鉄道で列車強盗を企てていると聞いた。この悪魔を倒すつもりなら、私も協力する」 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Nomad": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "“My people got swindled. I aim to collect what we're owed,” the Outsider says, pinning her dagger in a wanted poster of the Mechanical Devil. Her eyes burn like stoked coal as she fixes each dusty traveler in her gaze, “And I hear y'all plan on jumpin' the Sulfur Rail, Harbingers. If you're gonna take this devil down, I want in.” "
+  }
 }

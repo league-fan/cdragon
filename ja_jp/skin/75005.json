@@ -25,6 +25,25 @@
     }
   ],
   "description": "地獄の住人は上級になるほど、低級な者たちよりも残酷で憎悪に満ちるものだが、ナサスも例外ではない。遥か彼方の地獄の深淵で育ったこの三ツ首の怪物は、軽く触れただけで生命を枯らし、そして燃やし尽くす。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2013-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2013-11-20",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "The greater Infernals are somehow even more cruel and hateful than their lesser counterparts, and Nasus is no exception. A three-headed monstrosity raised from some far-flung, hellish abyss, he withers life with his merest touch… then burns it away."
+  }
 }

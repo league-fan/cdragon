@@ -137,6 +137,52 @@
     }
   ],
   "description": "向擊鼓蠻人，巨響之神的選召者—歐拉夫歡呼吧！如風暴般狂野，如地震般蠻狠，他對敵人回以嘲笑，他擊鼓的震顫撼動著整個世界的根基。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2035,
+    "formatname": "Pentakill III: Lost Chapter Olaf",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 37
+      },
+      "Catseye": {
+        "id": 38
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 40
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "All hail, Olaf, the Blastbeat Barbarian, and Chosen of Stentorus! As wild as a tempest, as brutal as an earthquake, he laughs in the faces of his enemies, his pounding drumbeats shaking the very foundations of the world."
+  }
 }

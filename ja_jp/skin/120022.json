@@ -147,6 +147,57 @@
     }
   ],
   "description": "上層世界の執行人であるヘカリムは、決して止まることなく前へ進み続け、立ちはだかる者すべてを破壊する。そして彼が通り過ぎた跡には、新たな運命が刻まれる。彼は下層世界のラカンを阻止し、星々の間で運命の愛が花開くことで引き起こされる悲劇的な惨事を防ごうとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 28,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Enforcer of the Higher World, his ever-forward motion crushes those before him while carving new fates for those left in his wake. He seeks to stop Rakan of the Lower World and prevent the calamitous disaster that will result from a fated love blooming betwixt the stars."
+  }
 }

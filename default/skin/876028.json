@@ -142,6 +142,54 @@
     }
   ],
   "description": "Lady of the Winter Court and Keeper of the Seelie Heart-tree, Lillia records the history of the Faerie Queendoms in the ancient tree's rings, freezing events into forested, ever-growing archives. When Lillia discovers that someone has tried to tamper with her work, however, she must rally her courage—there is trouble afoot!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Lady of the Winter Court and Keeper of the Seelie Heart-tree, Lillia records the history of the Faerie Queendoms in the ancient tree's rings, freezing events into forested, ever-growing archives. When Lillia discovers that someone has tried to tamper with her work, however, she must rally her courage—there is trouble afoot!"
+  }
 }

@@ -141,6 +141,60 @@
     }
   ],
   "description": "伊莉絲每年總是出席盛會，儘管她從未受過正式邀請。謠言盛傳她早已被列入黑名單，全因她編織出的無數謊言、一夕之間締結又毀棄的忠貞關係。與會者也注意到，她的歷代追求者從未回來參與祭典。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 60015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-10",
+    "set": [
+      "Withered Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 17
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Paragon": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Sydney Rainin-Smith"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Elise is in attendance at every annual gala, despite never once receiving a formal invitation. Rumor has it she's been blacklisted for spinning webs of lies, forming and disbanding allegiances in the span of a single evening. Attendees have also noted her suitors never seem to make a return visit to the festival."
+  }
 }

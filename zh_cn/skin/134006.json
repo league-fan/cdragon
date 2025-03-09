@@ -160,6 +160,61 @@
     }
   ],
   "description": "令人敬畏的辛德拉是一位来自古老时代的星之守护者，她的过去隐藏在阴影中。她是阿狸小队的智囊，虽然深得队长的信任，但也有些成员怀疑辛德拉为了自己的个人野心可以不惜任何代价。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-06",
+    "earlysale": "2018-02",
+    "set": [
+      "Star Guardian Season 2"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "splashartist": [
+      "Jean 'Curing' Go",
+      "Esben Lash Rasmussen",
+      "Alex 'alexplank' Flores",
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Feared and admired, Syndra is a formidable Star Guardian from an earlier era, whose history is cloaked in shadow. She acts as an advisor on Ahri's team, but despite her captain's trust, some members suspect there is no price that Syndra won't pay to achieve her personal ambitions."
+  }
 }

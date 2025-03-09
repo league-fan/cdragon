@@ -160,6 +160,60 @@
     }
   ],
   "description": "実家から逃げ出した彼女が見つけた最高の隠れ場所、それは…テレビ中継の現場だった！真面目な話、この令嬢はトラウマを抱えている…このリングほど、トラウマを解消するのにうってつけの場所はないはずだ！彼女ならきっと魂の望みを糧に、己が悲劇を終わらせられるだろう。賭けてもいい！というか、もう賭けてる！ラックス、入場！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 57
+      },
+      "Aquamarine": {
+        "id": 53
+      },
+      "Citrine": {
+        "id": 59
+      },
+      "Emerald": {
+        "id": 55
+      },
+      "Limitless": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "On the run from her family, and she figured the best place to hide would be ON TV?! Seriously though, folks, this lady has some trauma... and we all know the ring is *the* place to work that out! Now, if I was a betting man—and I am—I'd say she'd use that soul's desire to make her drama disappear. It's Lux!"
+  }
 }

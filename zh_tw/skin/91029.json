@@ -137,6 +137,53 @@
     }
   ],
   "description": "自從塔隆的繼妹卡特蓮娜在上屆祭典所組成的聯盟關係被破壞了，他便發誓一定要復仇。塔隆想要透過揭露跟粉碎整個祭典伴隨的神聖誓言以及概念來回復家族榮耀。今年的祭典中，沒有任何人能從塔隆的怒火中逃脫。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91029,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Withered Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "After the alliance his adopted sister Katarina formed at the last festival was broken, Talon swore revenge. He intends to restore their family's honor by exposing and shattering the entire concept of this celebration of glittering finery and sacred vows. Nothing and no one at this year's festival will escape his wrath."
+  }
 }

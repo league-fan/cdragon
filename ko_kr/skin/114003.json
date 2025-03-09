@@ -226,6 +226,45 @@
     }
   ],
   "description": "긴급 공지: 최근 급증한 공공기물 파손 및 문제 행동과 관련하여, 피오라 선생님의 주의를 끌기 위해 의도적으로 자행되는 것이 아닌지 의심스럽습니다. 학장으로서 이런 행태는 치명적인 결과를 초래할 수 있다는 점을 학생 여러분께 상기시켜 드리며, 반드시 학칙을 숙지해주시길 당부합니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Academy"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Jasper": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      },
+      "Sapphire": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "lore": "ATTENTION ALL STUDENTS: Concerning the recent upswing in vandalism and general troublemaking, it has come to my attention these behaviors may be intended to draw the personal attention of our headmistress. The dean reminds students that such encounters can be fatal, and encourages them to re-read the Academy code of conduct. "
+  }
 }

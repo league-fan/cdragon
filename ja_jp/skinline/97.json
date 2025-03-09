@@ -8,32 +8,129 @@
       "name": "ビリジアン ケイル",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "set": [
+          "Albion"
+        ],
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "chromas": {
+          "Aquamarine": {
+            "id": 11
+          },
+          "Citrine": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 13
+          }
+        },
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world."
+      }
     },
     {
       "id": 22002,
       "name": "ロビンフッド アッシュ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-04-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-08",
+        "set": [
+          "Albion"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "lore": "Condemned as a rogue and a thief, Ashe is nonetheless a leader of the free peoples of Albion, protecting the weak and the powerless from oppression in any form. Hundreds of bounty hunters have scoured the woods to find her, but they always come back with empty hands… and emptier pockets."
+      }
     },
     {
       "id": 25004,
       "name": "ブラックソーン モルガナ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-05-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-05-23",
+        "set": [
+          "Albion"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 13
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "The Dark Forest Elves are the shattered remnants of the great elven empires, jealously guarding evil power that some once considered the cornerstone of their magical supremacy. Morgana has hidden this magic deep within her body, chaining it to her soul so that only she might wield it."
+      }
     },
     {
       "id": 81001,
       "name": "古城の冒険者エズリアル",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-03-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "retired": "2011-11-28",
+        "set": [
+          "Albion"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "An adventuring elf from the outlying forest kingdoms, Ezreal likes to present himself as a “handsome rogue-paladin” named Jarro Lightfeather. Very few people believe his claims of knighthood, but they serve as a decent enough distraction between his disastrous misadventures."
+      }
     }
   ]
 }

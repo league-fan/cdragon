@@ -34,6 +34,27 @@
     }
   ],
   "description": "曾是女皇艾希右使的拉克丝拥抱了内心的黑暗，回应了暗星的癫狂召唤。终于看到了真相的她拒绝了星界神廷，转而效忠于她自身的黑暗雄心，来让陈腐的创造噪音安静下来。因为她现在知道了她的真正宿命——以黑暗神廷的女皇，和暗星的合法主人的身份来施行统治。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "variant": 18,
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Once the right hand of Queen Ashe, Lux embraced the darkness in her heart, answering the mad call of the Dark Star. Finally seeing the truth, she rejects the Cosmic Court, instead serving her own dark ambition to quiet the banal noise of creation. For she now knows her true fate—to reign as Queen of a Dark Court, and rightful master of the Dark Star."
+  }
 }

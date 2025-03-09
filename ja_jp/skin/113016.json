@@ -170,6 +170,65 @@
     }
   ],
   "description": "セジュアニはG/NETIC反乱軍の中でも過激な派閥のリーダーだったが、アッシュの“抵抗運動”が明確な暴力の姿勢を示さないと知って、彼女と袂を分かっていた。しかし、プログラムによるシティの支配が始まると、彼女は崩壊前のテクノロジーを再利用したモービルに乗って再び姿を現した。セジュアニは獰猛な仲間たちを率いて、この新たな脅威が世界に根付く前に排除しようとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113016,
+    "formatname": "PROJECT: Sejuani",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Reckoning": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "The leader of a more radicalized sect of the G/NETIC rebels, Sejuani broke off from Ashe's movement when their 'resistance action' failed to turn explicitly violent. Resurfacing amid Program's takeover of the City, she rides a piece of reclaimed pre-collapse technology alongside her ferocious cohort, ready to put down this new threat before it takes root."
+  }
 }

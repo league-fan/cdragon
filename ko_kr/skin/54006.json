@@ -198,6 +198,48 @@
     }
   ],
   "description": "M-2로 명명된 메카 말파이트는 행성 드릴로 변신할 수 있는 이족 보행의 거대한 요새로서, 강력하고 새로운 괴수를 마주했을 때 궁극의 방어력을 보여주는 유닛입니다. 메카 말파이트의 건틀릿은 펀치 한 방에 두꺼운 티타늄 판에 구멍을 낼 수 있으며, 지금까지 수많은 괴물들을 때려눕혔습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-07-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-07-23",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 8
+      },
+      "Citrine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Granite": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Sandstone": {
+        "id": 11
+      },
+      "Sapphire": {
+        "id": 13
+      }
+    },
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Designated M-2, the “Mecha Malphite” unit is a massive, bipedal fortress capable of turning into a planetary drill—making it the ultimate defensive option when faced with new and powerful kaiju. A single punch from its gauntlets can blow holes through thick titanium sheeting, and such attacks have felled countless monsters."
+  }
 }

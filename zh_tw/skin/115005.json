@@ -24,6 +24,25 @@
     }
   ],
   "description": "希格斯沉浸在科學與魔法交疊的灰色地帶，他的性格古怪，收藏的魔法文物和禁書已可以和世界上最偉大的人物媲美。他利用所學到的相關知識製造魔法炸彈。超大的那種。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-05-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-05-06",
+    "earlysale": "2015-12",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones."
+  }
 }

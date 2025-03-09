@@ -128,6 +128,51 @@
     }
   ],
   "description": "彬彬有礼——但过分深居简出——的斗魂武道大会举办人欢迎所有人来到他的竞技场！看呀，他现在就在擂台上方，在他的王座之室里注视着比赛！他的孤寂有没有让你们生起一丝悲伤呢，伙计们？真希望他从那座塔上跳下来，然后把这种伤感变成无拘无束的怒火！佛——耶——戈——！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-08-03",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Citrine": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Limitless": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Meteorite": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The gracious—if needlessly reclusive—host of the Tournament of Souls welcomes all to his arena! Look at him now, eyeing the competition from his throne room high above the ring! Doesn't his solitude just make ya sad, folks? Here's hoping he hops down from that tower and turns that sorrow into UNBRIDLED RAGE! Viiiiieeeeeeegoooooo!"
+  }
 }

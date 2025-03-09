@@ -132,6 +132,54 @@
     }
   ],
   "description": "With the world revitalized, there came another wave of titans. Most fearsome of all was Malzahar, the once-great protector of animals. Vengeful over the horrors of the previous extinction, the holy shaman succumbed to anger, and there, in the depths of his rage, his magic turned dark, fueling a fury to end all life—from the depths of the seas to the peaks of mountains.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-09",
+    "set": [
+      "Worldbreaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "With the world revitalized, there came another wave of titans. Most fearsome of all was Malzahar, the once-great protector of animals. Vengeful over the horrors of the previous extinction, the holy shaman succumbed to anger, and there, in the depths of his rage, his magic turned dark, fueling a fury to end all life—from the depths of the seas to the peaks of mountains."
+  }
 }

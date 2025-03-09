@@ -160,6 +160,60 @@
     }
   ],
   "description": "Briar was an early draft of Aatrox's perfection, but was deemed a “failure”—because instead of using her finely-honed mind to get back at surface-dwellers, she loves humans! Now that Briar has joined up with Anima Squad, maybe they can show her how to be more than what she was made to be.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 233010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Abyssal": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 13
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Peridot": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Julie Nathanson"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Briar was an early draft of Aatrox's perfection, but was deemed a “failure”—because instead of using her finely-honed mind to get back at surface-dwellers, she loves humans! Now that Briar has joined up with Anima Squad, maybe they can show her how to be more than what she was made to be."
+  }
 }

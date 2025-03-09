@@ -77,6 +77,37 @@
     }
   ],
   "description": "作為戰爭機器隊伍中的破壞者，飛斯擅長在水下進行戰鬥。他在入隊前出過什麼樣的勤務沒人知道，我們唯一知道的是他把大海稱為「一個滿是魚餌的桶子」。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Omega Squad's saboteur, Fizz is skilled in underwater combat. It is unclear what kind of action he saw before joining up, however, as he only ever refers to the sea as “a big bucket of chum.”"
+  }
 }

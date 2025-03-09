@@ -196,6 +196,73 @@
     }
   ],
   "description": "【胜利凤凰 艾尼维亚】曾奖励给那些在2023赛季第1赛段获得了必要的排位赛段点数的玩家。从覆盖着冰晶盔甲的灰烬中重生，艾尼维亚华丽的的羽毛反映了她高尚的天性。她是毅力的化身，是给予最需要她的那些人的一个不朽的愿望。 ",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34046,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2023 - Split 1.",
+    "release": "2023-07-17",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 47,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Challenger": {
+        "id": 54,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Diamond": {
+        "id": 51,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Gold": {
+        "id": 49,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Grandmaster": {
+        "id": 53,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Master": {
+        "id": 52,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Platinum": {
+        "id": 50,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Silver": {
+        "id": 48,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      }
+    },
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Victorious Anivia was awarded to players who earned the requisite ranked split points in Season 2023 Split 1. Rising from the ashes covered in crystalline armor, Anivia's opulent feathers reflect her heightened nature. She is perseverance personified, an undying wish granted to those that need her most. "
+  }
 }

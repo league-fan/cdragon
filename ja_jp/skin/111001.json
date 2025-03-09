@@ -24,6 +24,19 @@
     }
   ],
   "description": "「この海で姿を消したダイバーを探すなんてまっぴらごめんだ。光が届かないあの海の底には、何か不吉なものが棲んでやがるんだ。行方不明になった奴らはいったいどんな目に遭わされたのか…考えるだけで寒気がする」",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-02-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-02-14",
+    "set": [
+      "Forgotten Depths"
+    ],
+    "neweffects": true,
+    "splashartist": [
+      "Alex Konstad"
+    ],
+    "lore": "“Never once have I sailed these waves looking for missing divers. Something unnatural lives in the depths, and I fear what it does to these lost souls.”"
+  }
 }

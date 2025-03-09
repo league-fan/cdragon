@@ -137,6 +137,55 @@
     }
   ],
   "description": "약탈자들은 잔인하긴 해도 여전히 마법군단의 시대에 세워진 결사단을 따릅니다. 이들의 지휘관들은 한때 결사단이 가지고 있었던 힘을 되찾기만을 바랄 뿐입니다. 신 짜오는 한 쌍의 우두머리 중 하나입니다. 실용주의적이고 신중한 신 짜오는 고대의 마법군단을 되살려 자신의 적을 완전히 파괴합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Marauder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "Though brutal, the Marauders still follow a martial order established during the era of the Magelords. These commanders seek only to reclaim the might with which their order once ruled. Xin Zhao is one half of the pair of current leaders. Pragmatic and measured, he has resurrected an ancient Magelord to destroy his foes once and for all."
+  }
 }

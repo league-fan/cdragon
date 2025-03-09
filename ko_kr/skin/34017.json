@@ -149,6 +149,55 @@
     }
   ],
   "description": "소용돌이치는 에너지로 온 우주의 생명을 탄생시킨 제왕이자 진정한 고대의 존재입니다. 그녀는 자신의 종족이 오랫동안 잊고자 했던 고대의 황금빛 적이 돌아오는 것을 두려워하며 자신의 창조물을 막기 시작했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Rainbow": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "A regal and truly ancient being, whose swirling energies give birth to entire galaxies. She has begun to wall off her creations, fearing the return of an ancient, golden foe that her kind has long sought to forget…"
+  }
 }

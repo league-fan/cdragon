@@ -120,6 +120,51 @@
     }
   ],
   "description": "암흑의 별 타락자 바루스의 모습으로 탄생한 우주 의회의 젊은 구성원입니다. 자신과 똑같은 모습을 한 괴물을 쓰러뜨리는 임무를 맡은 이 새로운 바루스는 임무를 마친 후 별 사이에서 자신의 자리를 찾고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A young member of the cosmic court, minted in the image of the Dark Star corruptant Varus. Tasked with destroying his monstrous doppelganger, this new Varus seeks his place among the stars after his task is finally complete."
+  }
 }

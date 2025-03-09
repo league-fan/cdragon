@@ -137,6 +137,51 @@
     }
   ],
   "description": "与你最喜欢的毛绒小伙伴“鳄加斯”依偎在一起！揉捏他柔软的腹部，看着他吓走恶梦来保证你的一夜安眠。内含可伸缩的小爪子，可带来双倍的乐趣！不适合5岁以下的儿童。需要一些手动拼装。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 34
+      },
+      "Catseye": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Snuggle up with Cho'Gath, your favorite plush pal! Squeeze his soft belly and watch him scare away bad dreams for a guaranteed good night's sleep. Extendable claw arms included for double the fun! Not suitable for children under 5 years of age. Some assembly required."
+  }
 }

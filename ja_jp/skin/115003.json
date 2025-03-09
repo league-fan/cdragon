@@ -24,6 +24,24 @@
     }
   ],
   "description": "ジグスはプールサイドで開催されるイベント史上最大の水風船を作ることに夢中になっているが、誰もその理由を知る者はいない。自分は\"水専門家\"だと主張しているが、そんなものは本当は存在しない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-09-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-09-04",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Ziggs is obsessed with creating the biggest water balloon in the history of poolside festivities, for reasons lost on everyone he's ever met. He keeps insisting he's a 'waterologist,' which isn't a real thing."
+  }
 }

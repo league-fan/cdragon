@@ -137,6 +137,54 @@
     }
   ],
   "description": "지옥의 위대한 여왕으로 군림하는 마녀 트리스타나는 어마어마한 규모의 하급 악마 군대를 통솔하며 파멸과 재앙의 성위를 지배합니다. 트리스타나를 소환하려는 필멸자는 솔깃한 계약을 제안받겠지만 조심하는 게 좋을 겁니다. 계약자와 세상을 지옥 불에 빠뜨리는 것이 트리스타나의 궁극적인 목표니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-30",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Aquamarine": {
+        "id": 32
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A witch who is now one of the great queens of Hell, Tristana commands a vast army of lesser demons and rules the twin Aspects of Ruin and Woe. Mortals attempting to invoke her will find a variety of tempting contracts, but signers beware: Tristana's ultimate goal is bathing her signatories—as well as the world—in hellfire."
+  }
 }

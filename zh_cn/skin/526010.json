@@ -169,6 +169,60 @@
     }
   ],
   "description": "从姊妹城市搬来的不只有奎因，还有芮尔。她是一个我行我素、令人头大的独行者，不想交朋友，所以和所有人都不对付。在战斗中，她骑着她强大的骏马塞巴斯蒂安，她翻腾的怒火将她变成一位星光骑士，保护温顺之人免受伤害。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Park Jun Seong",
+      "West Studio"
+    ],
+    "lore": "Hailing from a sister city along with Quinn, Rell is a delinquent loner who does what she wants, when she wants, and avoids making friends by pushing everyone away. In battle she rides atop her mighty steed Sebastien, her simmering rage transforming her into a starlit knight who defends the meek from harm."
+  }
 }

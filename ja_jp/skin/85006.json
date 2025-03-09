@@ -24,6 +24,25 @@
     }
   ],
   "description": "ブラッドムーンの夜に召喚された王殺しの悪魔ケネンは、権力の座についたものを失脚させ、その家系を根絶やしにすることを目的としている。彼は非情なまでにこの目的に邁進しており、守りを固めた城塞都市でさえ一瞬のうちにズタズタにしてしまう。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-02-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-02-25",
+    "earlysale": "2016-07",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "A kingslaying demon summoned on the night of the Blood Moon, Kennen's purpose is to depose those in power and eliminate every member of their line. He is ruthless in this task, tearing across heavily armed fortress cities in the blink of an eye."
+  }
 }

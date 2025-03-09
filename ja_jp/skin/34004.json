@@ -24,6 +24,16 @@
     }
   ],
   "description": "限定的ではあるが言語能力を持つ人造鳥アニビアが開発されるまで、初期のヘクステック生命体には自意識があるとは言い難かった。アニビアの誕生は近代ヘクステック発展の礎に、そして彼女に続く多数の生命体の土台になったのだ。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2011-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2011-03-01",
+    "retired": "2017-11-01",
+    "set": [
+      "Hextech"
+    ],
+    "lore": "Early hextech lifeforms could barely be considered sentient... until the development of Anivia, an artificial avian capable of limited speech. Her birth was the foundation of the modern Hextech movement, and the multitude of creatures that came after her."
+  }
 }

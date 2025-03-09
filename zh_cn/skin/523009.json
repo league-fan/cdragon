@@ -169,6 +169,55 @@
     }
   ],
   "description": "厄斐琉斯总是沉默不语，偏爱以一种福牛守护者小队的其他成员不熟悉的、晦涩的“古老方式”崇拜福牛之神。他的队友们对此并不见外，只是有些好奇，但他们还没有意识到，厄斐琉斯和他的妹妹拉露恩实际上是福牛之神的后裔，被安置在福牛守护者小队是为了面对今年的年兽。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 523009,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 14
+      },
+      "Vitality": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "N/A",
+      "Tania Gunadi"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Aphelios stays quiet, preferring to worship the Bull God according to obscure “old ways” that are unfamiliar to the rest of his squad. His teammates are welcoming, if curious, but have yet to realize that Aphelios and his sister Alune are actually the Bull God's progeny, placed among the squad to face this year's Lunar Beast."
+  }
 }

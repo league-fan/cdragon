@@ -177,6 +177,66 @@
     }
   ],
   "description": "Head counselor, nurse, and necromancer at Creepaway Camp, Zeri wears many hats. Always ready to graft a hand or stitch up a mess, Zeri never leaves a camper behind. So when she drowned, campers put on their thinking caps and did as she had taught: a few stitches, a ZAP, and Zeri was back!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 36
+      },
+      "Aquamarine": {
+        "id": 34
+      },
+      "Catseye": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Ghoulish": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Meteorite": {
+        "id": 35
+      },
+      "Nightshade": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Worlds 2024 Premium Pass Bundle"
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Head counselor, nurse, and necromancer at Creepaway Camp, Zeri wears many hats. Always ready to graft a hand or stitch up a mess, Zeri never leaves a camper behind. So when she drowned, campers put on their thinking caps and did as she had taught: a few stitches, a ZAP, and Zeri was back!"
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "They came to Zyra from the roots and rocks -- stirrings of the Night Dove, its beating wings twisting the very land that is its grave. Tied now to the whispers beneath the loam, she rips away humanity's works of stone and glass, each broken vestige another step towards a world returned to nature.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Dark Ritual": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "They came to Zyra from the roots and rocks "
+  }
 }

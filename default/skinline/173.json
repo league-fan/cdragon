@@ -8,8 +8,42 @@
       "name": "DJ Sona",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "3250",
-      "wikiReleaseDate": "2015-02-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 37006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2015-02-25",
+        "set": [
+          "DJ"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "DJ Sona Kinetic",
+        "forms": [
+          "Kinetic",
+          "Concussive",
+          "Ethereal"
+        ],
+        "chromas": {
+          "Concussive": {
+            "id": 6
+          },
+          "Ethereal": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ]
+      }
     }
   ]
 }

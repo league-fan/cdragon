@@ -25,6 +25,46 @@
     }
   ],
   "description": "Sarah Fortune is a living weapon of mass destruction; a legendary bounty hunter seeking revenge among a galaxy of thieves. Shot and left for dead, she now pilots the deadliest combat exo-suit in known space—and she'll stop at nothing to bring violent justice to her would-be killers.",
-  "wikiPrice": "2775",
-  "wikiReleaseDate": "2018-03-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 2775,
+    "release": "2018-03-22",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Gun Goddess",
+    "forms": [
+      "Scarlet Fair",
+      "Zero Hour",
+      "Royal Arms",
+      "Starswarm"
+    ],
+    "chromas": {
+      "Zero Hour": {
+        "id": 16
+      },
+      "Royal Arms": {
+        "id": 16
+      },
+      "Starswarm": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Rachel Kimsey",
+      "Joe Zieja"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sarah Fortune is a living weapon of mass destruction; a legendary bounty hunter seeking revenge among a galaxy of thieves. Shot and left for dead, she now pilots the deadliest combat exo-suit in known space—and she'll stop at nothing to bring violent justice to her would-be killers."
+  }
 }

@@ -148,6 +148,38 @@
     }
   ],
   "description": "乐芙兰目前正在躲避一场国际性的追捕行动，因为之前她把一架满载着乘客的喷气机弄消失了，然后意识到她根本不知道他们去哪了以及怎样把他们带回来。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-11-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-11-02",
+    "set": [
+      "Day Job"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Tanzanite": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "lore": "LeBlanc is currently evading an international manhunt after making a jet liner filled with passengers disappear, then realizing she had no idea where they went or how to bring them back."
+  }
 }

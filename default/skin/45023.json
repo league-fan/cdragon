@@ -133,6 +133,53 @@
     }
   ],
   "description": "50% fury, 50% horn,100% evil.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-01",
+    "set": [
+      "Definitely Not"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 25
+      },
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "50% fury, 50% horn,100% evil."
+  }
 }

@@ -133,6 +133,48 @@
     }
   ],
   "description": "왕립 우주군의 고위급 제독이었던 갱플랭크는 이전 동료가 실험 중이던 초강력 무기의 설계도를 훔쳐 대량생산을 하면서 공포 정치를 단행했습니다. 천년 간 이어진 내전을 순식간에 끝내버린 갱플랭크는 무장한 대군을 이끌고 왕립 우주군을 떠난 뒤 우주 범죄 조직 '행성 파괴자 군단'을 결성했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-01-12",
+    "earlysale": "2017-07",
+    "set": [
+      "Dreadnova"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rogue": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Once a high ranking admiral in the Royal Space Military, Gangplank's reign of terror began when he stole and proliferated blueprints for a former colleague's experimental superweapon. Ending a thousand-year civil war in an instant, he defected with a massive armed battalion and formed the interplanetary criminal network known as the Dreadnova Corps."
+  }
 }

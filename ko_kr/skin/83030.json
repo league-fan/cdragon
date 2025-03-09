@@ -170,6 +170,63 @@
     }
   ],
   "description": "요릭이 집이라고 불렀던 숲은 눈앞에서 잿더미로 변해 버렸습니다. 다른 영혼은 고독에 빠졌지만 요릭은 분노가 자신을 집어삼키도록 내버려 두었습니다. 파멸의 영혼이 지나간 자리에 자라는 꽃과 나무는 뇌리를 떠나지 않으며 그 꽃과 나무를 돌보는 정원사는 밤의 생물을 향해 울부짖습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 35,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Night Blossom": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "The grove he called home burnt to ashes before his very eyes. While another retreated into solitude, Yorick allowed the rage to consume him. The flowers and trees that bloom in the Spirit of Ruin's wake are haunting, the gardeners that tend to them howling creatures of the night."
+  }
 }

@@ -120,6 +120,51 @@
     }
   ],
   "description": "卡特蓮娜是血月教派中一位受人尊敬的女祭司，並且已經承受所有女祭司的命運，讓己身與惡魔之血肉相互融合。然而血月的降臨已經改變了惡魔與人類的天性，而卡特蓮娜正逐漸開始魔化為一個更新穎黑暗的存在。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "An honored priestess of the Blood Moon cult, merged with the flesh of her demon as all priestesses are fated to be. Yet the descent of the Blood Moon has changed the nature of demons and humankind, and Katarina has begun her ascent into a newer, darker form."
+  }
 }

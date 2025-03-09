@@ -24,6 +24,19 @@
     }
   ],
   "description": "돌연변이 바이러스가 창궐하기 전에 브랜드는 정부의 비밀 기관에서 강력한 바이러스 개발을 담당하던 최고의 군사 과학자였습니다. 하지만 그를 등용했던 정부는 갑자기 자금을 끊고 브랜드가 자기 자신에게 돌연변이체를 실험하도록 강요했죠… 결과는 처참했습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2012-10-26",
+    "set": [
+      "Zombies VS Slayers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "lore": "Before the mutagenic outbreak, Brand was a leading military scientist, responsible for the development of a powerful virus deep within a government compound. But the same government who elevated him among his peers suddenly cut his funding, forcing Brand to test the mutagen on himself… with disastrous results."
+  }
 }

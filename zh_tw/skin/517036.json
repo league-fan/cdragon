@@ -160,6 +160,59 @@
     }
   ],
   "description": "落魄的發明家賽勒斯一直對北極星心懷怨恨，因此這次他準備了一個特殊的裝置：一副能吸收極光之力的拳套。他稍早有在赫威身上測試，現在他將拳套瞄準北極星。姍娜毫無還手之力，力量就這麼被奪走，被賽勒斯、卡蜜兒和瑟雷西所吸收。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Peridot": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Turquoise": {
+        "id": 41
+      },
+      "Wreathguard": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "The disgraced inventor, Sylas, had long harbored a grudge against Polaris and had prepared a special device for this occasion: gauntlets capable of absorbing the Aurora. He'd tested it on Hwei earlier, but now turned his focus to Polaris. Powerless to resist, Senna's power was taken away, to be spread among Sylas, Camille, and Thresh. "
+  }
 }

@@ -147,6 +147,54 @@
     }
   ],
   "description": "서리달 여사제인 일라오이는 세상을 집어삼키는 광기가 사라진 세상을 상상합니다. 일라오이의 예지는 모든 영혼이 정화되고 모든 악마가 구속에서 분리되어야만 실현될 수 있을 것입니다. 차가운 결의로 질서를 유지하는 일라오이는 절대 멈추지 않으며, 그녀에게 인간성은 그저 덧없는 기억에 불과합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 420018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-23",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Illaoi, the High Priestess of the Snow Moon, imagines a world free of the madness that consumes it. Her vision can only be realized when every soul is cleansed, every demon ripped from its bindings. Maintaining order with an icy resolve, she'll stop at nothing, her own humanity a fleeting memory."
+  }
 }

@@ -13,96 +13,485 @@
       "name": "ジン",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2016-02-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2016-02-01",
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia’s ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror."
+      }
     },
     {
       "id": 202001,
       "name": "荒野のジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-02-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-02-01",
+        "earlysale": "2016-07",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Emerald": {
+            "id": 9
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 6,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 12
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Need a man dead? Hire any sun-baked lunatic looking to make a name for themselves in the Old West. Need to set an example? Then you should seek out the mechanical assassin known as Jhin—and no one will ever forget what happens at the crossroads of murder and art."
+      }
     },
     {
       "id": 202002,
       "name": "ブラッドムーン ジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-02-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Ink-mage, trained assassin, master of ceremonies: Jhin is all this and more, a grandiose figure whose encyclopedic knowledge of centuries-old rituals fuels the Blood Moon's hellish summoning rites. He knows the name of every demon, and how to direct them into a still-living vessel."
+      }
     },
     {
       "id": 202003,
       "name": "SKT T1 ジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-06-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-06-27",
+        "set": [
+          "World Champions: 2016"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Honoring Bang's winning performance as Jhin during the 2016 World Championship. This is Bang's second World Champion skin, following his win with SKT at the 2015 World Championship."
+      }
     },
     {
       "id": 202004,
       "name": "PROJECT: Jhin",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202004,
+        "formatname": "PROJECT: Jhin",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-11-22",
+        "earlysale": "2018-05",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity."
+      }
     },
     {
       "id": 202005,
       "name": "暗黒の宇宙ジン",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-06-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art."
+      }
     },
     {
       "id": 202014,
       "name": "山海絵巻伝ジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-28",
+        "set": [
+          "Shan Hai Scrolls"
+        ],
+        "filter": false,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          },
+          "Tanzanite": {
+            "id": 18
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "A mad god who resides within a mysterious painting older than creation, Jhin has grown bored of the canvas in which he dwells and wishes to bring his art to new, fresh eyes. He has begun weaving the edges of the painting into the fabric of the multiverse, hoping to escape his confinement."
+      }
     },
     {
       "id": 202023,
       "name": "DWG ジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202023,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-29",
+        "set": [
+          "World Champions: 2020"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Honoring Ghost's winning performance as Jhin during the 2020 World Championship."
+      }
     },
     {
       "id": 202025,
       "name": "荘厳の天球ジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Neon Flare": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rainbow": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Jhin woke as an Empyrean with a sensation he'd never known before: true warmth. Exhilarated by the power, he set innocents ablaze with a flick of his hand. Finally, a muse worthy of him! The realization that “she” is slowly killing him only charms him more. Now if only he could find her source… "
+      }
     },
     {
       "id": 202036,
       "name": "ソウルファイター ジン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 43
+          },
+          "Catseye": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Limitless": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Don't ask him how, but this twisted mentor can unlock ANY person's soul power under the right conditions! Just be prepared, because his trials are deadly! He's ready to put his art on full display on the world's biggest stage and maybe even get some revenge on a bounty hunter along the way! Let's give it up for… Jhin!"
+      }
     },
     {
       "id": 202037,
       "name": "暗黒の宇宙 抹消者ジン",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202037,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Cosmic 2023 Capsules or opening 30 Cosmic 2023 Capsules",
+        "release": "2023-08-30",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 5,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art."
+      }
     },
     {
       "id": 202047,
       "name": "神話創生ジン",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2025-01-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202047,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2025-01-23",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 52
+          }
+        },
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Augusto Qurino",
+          "Pandart Studio"
+        ],
+        "lore": "Jhin is the first of Cassiopeia's creations after the Lunar Players distort the world of myth. He embodies the mythical snake's most insidious qualities: sinister, calculating, and malicious. Displeased with the goddess's benevolent methods, Jhin plans to recreate humanity in his image and introduce them to the beauty of suffering."
+      }
     }
   ]
 }

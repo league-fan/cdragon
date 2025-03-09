@@ -160,6 +160,60 @@
     }
   ],
   "description": "퀸과 마찬가지로 자매 도시에서 온 렐은 규칙을 따르는 것을 별로 좋아하지 않으며 언제든 하고 싶은 대로 행동해야 직성이 풀립니다. 항상 다른 이들을 밀어내며 친구를 사귀지 않고 홀로 움직이죠. 위풍당당한 말 세바스찬을 타고 전투에 나설 때면 이 끓어오르는 분노는 렐이 약자를 보호하는 별빛 기사로 변하게 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Park Jun Seong",
+      "West Studio"
+    ],
+    "lore": "Hailing from a sister city along with Quinn, Rell is a delinquent loner who does what she wants, when she wants, and avoids making friends by pushing everyone away. In battle she rides atop her mighty steed Sebastien, her simmering rage transforming her into a starlit knight who defends the meek from harm."
+  }
 }

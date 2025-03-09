@@ -141,6 +141,53 @@
     }
   ],
   "description": "平和を求める心は、毎年開催される祭典以上に大切なものを生み出した。この世界的な願いから生まれた精霊のジャンナは、その魔法を使って夜空にかかった花冠のように浮かんでいる。多くの人々は彼女のことを伝説だと考えているが、客の中には美しい女性が浮かんでいるのを見たと言う者もいる。水晶の薔薇の光がそう見えさせたのかもしれない…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-10",
+    "set": [
+      "Crystal Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The desire for peace brought about more than just a yearly festival. Born from this universal wish was Janna, a spirit whose magic hangs like a wreath over the night. Though she's regarded by most as a legend, guests sometimes say they see a beautiful woman float by. Maybe it's a trick of the crystal rose's light..."
+  }
 }

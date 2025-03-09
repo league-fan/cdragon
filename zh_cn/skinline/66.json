@@ -8,88 +8,403 @@
       "name": "重生之沙 费德提克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 9008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-04-29",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Once upon a time in a faraway land, a jealous young emperor invoked profane summoning rites in exchange for power. Yet when the ancient horror Fiddlesticks stepped forth, it did not aid the boy"
+      }
     },
     {
       "id": 13013,
       "name": "沙之守护 瑞兹",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 13013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-22",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Ryze, the eternal conservator—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your righteous magic entomb them beneath the dunes."
+      }
     },
     {
       "id": 33007,
       "name": "沙之守护 拉莫斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 33007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-04-26",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Rammus, the skewering wheel—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest they be broken beneath your unforgiving carapace."
+      }
     },
     {
       "id": 40020,
       "name": "沙之守护 迦娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 40020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-22",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 26
+          },
+          "Peridot": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Janna, the desert gale—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your sandstorms consume them whole."
+      }
     },
     {
       "id": 55006,
       "name": "沙漠风暴 卡特琳娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-01-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-02",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Robin Ruan"
+        ]
+      }
     },
     {
       "id": 72004,
       "name": "沙之守护 斯卡纳",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 72004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-04-26",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Imari Williams"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Skarner, the forsaken sovereign, ancient guardian of the sands—we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest in your wrath they are torn asunder."
+      }
     },
     {
       "id": 101004,
       "name": "沙之守护 泽拉斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-04-26",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Xerath, the liquid light—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance."
+      }
     },
     {
       "id": 107023,
       "name": "沙之守护 雷恩加尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 107023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-22",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Jason Simpson"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "An assassin of a forgotten order long thought dead, Rengar prowls the tombs, retrieving ancient relics of power for purposes unknown. Far more alarming, he appears to be hunting guardians, his blades enchanted to pierce their ancient magic and defenses…"
+      }
     },
     {
       "id": 121002,
       "name": "沙之守护 卡兹克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-09-09",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Kha'Zix, the devouring scarab—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you consume them utterly."
+      }
     },
     {
       "id": 245001,
       "name": "时之砂 艾克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 245001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-05-27",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Peridot": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Sandstone": {
+            "id": 7
+          },
+          "Tanzanite": {
+            "id": 4
+          }
+        },
+        "voiceactor": [
+          "Antony Del Rio"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ]
+      }
     },
     {
       "id": 555001,
       "name": "怨之砂 派克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 555001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-05-31",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 2
+          },
+          "Obsidian": {
+            "id": 3
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Sapphire": {
+            "id": 4
+          },
+          "Tanzanite": {
+            "id": 5
+          },
+          "Turquoise": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Darien Sills-Evans"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "The vengeful ghost of an ancient caravan master betrayed by his guards, Pyke now lurks within the golden halls of the desert's remaining city-states. He hunts anyone and everyone who attracts his gaze, claiming they all condemned him to death."
+      }
     }
   ]
 }

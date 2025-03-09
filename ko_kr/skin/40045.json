@@ -160,6 +160,60 @@
     }
   ],
   "description": "왕립 우주군 연구개발부의 실험체 잔나는 역사상 유일하게 엑소수트를 조종할 수 있는 안드로이드입니다. 외형이 어찌나 인간과 흡사한지, 대부분의 사람은 잔나가 부리는 '바람'이 실은 잔나의 중앙 처리 장치와 X09-제피르에 연결된 나노봇 무리라는 사실을 깜박하곤 하죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "An experiment from RSM's R&D division, Janna is the only successful use of an android to pilot an exosuit in history. Perhaps it's because she looks so human that most forget the gusts of “wind“ she commands are actually a fleet of nanobots connected directly to both the X09-Zephyr as well as her central processing core."
+  }
 }

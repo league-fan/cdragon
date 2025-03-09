@@ -137,6 +137,53 @@
     }
   ],
   "description": "為了創作靈感而暫時休息後，瑟菈紛回來了！她並不急著投入個人巡演，而是借助「海洋之歌音樂節」的輕鬆氛圍讓自己重新適應歌壇。這次演出沒有事先決定的歌單，她將會傾聽歌迷的心聲，讓當下的音樂引領她。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "After taking a break to recharge her creative spirit, Seraphine is back! Rather than dive straight into a solo tour, she's drawing on the relaxed energy of the Ocean Song Festival to ease herself back into singing. With no setlist, she's going to listen to her audience and let the musical current take her."
+  }
 }

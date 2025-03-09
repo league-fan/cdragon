@@ -165,6 +165,61 @@
     }
   ],
   "description": "ノクターンは次元に寄生する悪夢であり、フォアグローに引き寄せられ、力の根源的な形式に向けて掘り進んだことで、意図せずに最初の次元の崩壊を引き起こした。そしてその結果、最初の荘厳の天球であるパイクが創造した。フォアグローがその元となる姿を穢れさせたとき、ノクターンはフォアグローを使ってさらなる実験を行い、その飢えを満たす新たな方法を見つけ出すのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Neon Facade": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger."
+  }
 }

@@ -24,6 +24,22 @@
     }
   ],
   "description": "ケイルは、平和な時代には慈悲深き女神であるが、戦いが始まると畏怖すべき戦の化身となる。彼女は勝利と力の生ける象徴として、部族に伝わる戦化粧を身にまとう。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-18",
+    "set": [
+      "Woad"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Kayle is a benevolent goddess in times of peace, and a terrifying battle spirit in times of war. She wears the traditional warpaint of her people as a living record of their victories and power."
+  }
 }

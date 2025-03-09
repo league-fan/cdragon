@@ -24,6 +24,24 @@
     }
   ],
   "description": "鎧を纏った小屋ほどの大きさの片目の戦熊。赤い星のあしらわれた小粋な帽子をかぶったセジュアニは、そんな獣の背に跨り、地雷の付いた鎖を振り回しながら戦場を蹂躙する。彼女と遭遇したが最後、あとは神に祈るしかない！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-07-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-07-31",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Sejuani has taken to battle on an armored, one-eyed warbear the size of a shed, while swinging a land mine on a chain, wearing a delightfully vintage red-star hat. Good luck out there!"
+  }
 }

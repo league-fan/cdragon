@@ -165,6 +165,61 @@
     }
   ],
   "description": "奎桑提在身体、情感、嗓音上都是一个令人惊叹的存在，始终着眼于大局，决心让心之钢在音乐行业留下它的印记。尽管在奎桑提的单飞生涯中，他的雄心壮志常常超出个人力所能及的限度，但现在他找到了他信任的朋友和合作者，知道没有什么可以阻止他们。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 897008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-08",
+    "set": [
+      "HEARTSTEEL"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Rockstar": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "DeObia Oparei"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen",
+      "Julia Yurtsev",
+      "Jennifer Wuestling"
+    ],
+    "lore": "An awe-inspiring presence—physically, emotionally, vocally—K'Sante is always focused on the bigger picture, determined for HEARTSTEEL to make its mark on the music industry. Though in his solo career his ambition often outpaced what one man can do alone, now that he's found friends and collaborators he believes in, K'Sante knows nothing can stop them."
+  }
 }

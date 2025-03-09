@@ -170,6 +170,60 @@
     }
   ],
   "description": "When Ahri steps onto the stage to perform with K/DA, she knows she's surrounded by the best of the best—different women with different personalities, all at the top of their craft. As their leader and as their friend, Ahri is poised to guide these divas to even greater heights and leave their audiences breathless for more.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103028,
+    "formatname": "K/DA ALL OUT Ahri",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-29",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Ahri-versary": {
+        "id": 63
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "BADDEST": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "When Ahri steps onto the stage to perform with K/DA, she knows she's surrounded by the best of the best—different women with different personalities, all at the top of their craft. As their leader and as their friend, Ahri is poised to guide these divas to even greater heights and leave their audiences breathless for more."
+  }
 }

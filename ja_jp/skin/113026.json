@@ -137,6 +137,55 @@
     }
   ],
   "description": "セジュアニは巨大な猛獣にまたがり、賢樹の森の周辺を巡視している蝕の騎士だ。残忍かつ荒々しい性分の持ち主である彼女は、古の神々の軍勢との戦いを生き甲斐にしているが、その意義など気にもかけていない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 31
+      },
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "A Knight of the Eclipse who patrols the border of the Elderwood on a great beast. Grim and wild at heart, Sejuani lives for battle with the forces of the Old Gods, caring naught for the reason why."
+  }
 }

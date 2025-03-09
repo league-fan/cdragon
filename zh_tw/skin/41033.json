@@ -142,6 +142,56 @@
     }
   ],
   "description": "剛普朗克是以殘忍無情著稱的命令列領袖，能夠派遣危險程度極高的菁英計畫科技，藉此對整座城市實施鐵腕統治。時至今日叛變程式出現，還在他的轄區內到處肆虐，他不惜訴諸武力、動用曾是流亡者的單位，也要守護自己一手打造的城市，將病毒一舉掃蕩殆盡。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41033,
+    "formatname": "PROJECT: Gangplank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good."
+  }
 }

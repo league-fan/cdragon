@@ -165,6 +165,60 @@
     }
   ],
   "description": "5人目のハービンジャーの手によって、我が家が崩れ去ったとき、レルは逃げ出した。だが、この若き「火薬の魔女」はもう逃げたりしない。彼女は胸をはり、魔法と蒸気、そして炎で造られた馬の鞍に颯爽とまたがると、馬上から物憂げなガンマンを見下ろした。「さあ行くよ、おじさん。せっかくの二度目のチャンスなんだ。無駄にする気はない」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Noonday": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Rell ran as her home rotted away at the Fifth Harbinger's hands, but the young Powder Witch ain't running now. She squares her shoulders and swings into the saddle of a horse made of magic, steam, and fire. From its back, she looks down at the haunted gunslinger. “Come on, old man. We got a second chance, I ain't gonna waste it.”"
+  }
 }

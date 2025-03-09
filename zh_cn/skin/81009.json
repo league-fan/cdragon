@@ -24,6 +24,26 @@
     }
   ],
   "description": "一名高水平的游戏玩家被维迦传送到了街机世界，伊泽瑞尔使用自己的特制手柄，以45秒的成绩成为全世界超级水晶地下城的通关记录保持者。维迦这次真的大错特错了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2017-02",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "A skilled gamer transported to Arcade World by Veigar, Ezreal holds the world record for speedrunning the original version of Hyper Crystal Dungeon in 45 seconds, using a custom-made mobile controller. Veigar has made a terrible mistake."
+  }
 }

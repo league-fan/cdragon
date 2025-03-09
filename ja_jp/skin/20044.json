@@ -160,6 +160,61 @@
     }
   ],
   "description": "ヌヌの頭が枕に当たるといつも、ベッドの下からコツコツコツと音が聞こえる。ウィルンプは無視するように言うが、ペチャクチャ喋る音がヌヌの耳に響く。我慢できなくなったヌヌはベッドの下に潜り込み、夏のキャンプを楽しむという夢を満たしてくれる小さなピエロと友達になった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 46
+      },
+      "Citrine": {
+        "id": 51
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Ghoulish": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Whenever Nunu's head hit his pillow, from under the bed came a tap-tap-tapping. Willump urged him to ignore it, but the yap-yap-yapping tugged at Nunu's ear. Unable to resist, he crawled beneath and made friends with a little clown who filled his dreams of summer camp glory."
+  }
 }

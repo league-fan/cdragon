@@ -113,6 +113,44 @@
     }
   ],
   "description": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 30010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land."
+  }
 }

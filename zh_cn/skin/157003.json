@@ -33,6 +33,25 @@
     }
   ],
   "description": "作为血月教派的仪式执行者，亚索的剑刃已被一只贪婪嗜血的恶魔而寄生，它对生灵的屠戮欲望永远得不到满足。而这正好符合亚索的心愿，恶魔的贪欲加上亚索内心黑暗的力量远胜于在他耳边低语的生物。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-02-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-02-25",
+    "earlysale": "2016-06",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Ceremonial executioner of the Blood Moon cult, Yasuo's blade is inhabited by an insidious, bloodthirsty demon whose hunger for death can never be satisfied. This suits Yasuo well, for he is possessed of an inner darkness even deeper than the creature whispering at his side."
+  }
 }

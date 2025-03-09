@@ -137,6 +137,54 @@
     }
   ],
   "description": "저명한 마법사의 소환수인 코그모는 주인이 비전 마법을 연구하는 동안 몇 년이나 학대받고 방치되었습니다. 다행히도 우연히 조이와 마주친 덕분에 코그모는 노예 생활에서 해방되어 조이와 함께 여정을 떠날 수 있게 되었고, 마침내 무늬만 학생인 조이가 다니는 학교에 입학했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-09",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Rainbow": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends."
+  }
 }

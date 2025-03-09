@@ -107,6 +107,48 @@
     }
   ],
   "description": "Rhaast was once an archon of light, a beacon of order… and now he is little more than a weapon in the hands of Kayn, an ambitious demi-god of dusk seeking true godhood. The two war within Kayn's own body, each determined to overthrow the other and lay claim to true divinity.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 141008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 11
+      },
+      "Deathbringer": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Rhaast was once an archon of light, a beacon of order… and now he is little more than a weapon in the hands of Kayn, an ambitious demi-god of dusk seeking true godhood. The two war within Kayn's own body, each determined to overthrow the other and lay claim to true divinity."
+  }
 }

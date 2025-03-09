@@ -170,6 +170,63 @@
     }
   ],
   "description": "지옥으로 가는 길은 선의로 포장되어 있습니다. 기계 악마 곁에서 일하는 공학자 빅토르 박사도 처음에는 좋은 뜻에서 연구를 시작했습니다. 망자의 영혼을 시계태엽 의체 안으로 옮겨 죽음 그 자체를 극복하려는 연구였죠. 모데카이저가 이 선량한 박사에게 거부할 수 없는 거래를 제안한 것이 유감일 따름입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 17,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Nomad": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 19
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Many a road to Hell was paved with good intent. Dr. Viktor may be the Mechanical Devil's kept engineer now, but his work began as charity: trying to “rehome” the souls of the dead in clockwork bodies, in order to circumvent mortality itself. Shame that Mordekaiser saw the good doctor's kindness and struck him a deal he could not deny."
+  }
 }

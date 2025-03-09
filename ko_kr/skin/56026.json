@@ -165,6 +165,61 @@
     }
   ],
   "description": "악몽과도 같은 차원의 기생충인 녹턴은 힘의 원형을 파헤치다가 창공의 빛에 이끌려 무심코 최초의 차원 붕괴를 일으키고 최초의 창공인 파이크를 만들어 버렸습니다. 창공의 빛으로 인해 원래 모습이 오염된 녹턴은 창공의 빛을 더 실험하고 자신의 굶주림을 채울 새로운 방법을 찾으려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Neon Facade": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger."
+  }
 }

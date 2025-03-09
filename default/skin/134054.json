@@ -160,6 +160,57 @@
     }
   ],
   "description": "They came to Syndra in a thundering flutter of carrion wings, beckoning her to free herself from the limitations of mortals. Following the wings' foul wind to a ritual site, she along with another witch awakened the Horned King from his putrid tomb. She now seeks retribution against all who stand against the Coven or the Old Gods.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 61
+      },
+      "Aquamarine": {
+        "id": 62
+      },
+      "Catseye": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 58
+      },
+      "Meteorite": {
+        "id": 59
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Profane": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "They came to Syndra in a thundering flutter of carrion wings, beckoning her to free herself from the limitations of mortals. Following the wings' foul wind to a ritual site, she along with another witch awakened the Horned King from his putrid tomb. She now seeks retribution against all who stand against the Coven or the Old Gods."
+  }
 }

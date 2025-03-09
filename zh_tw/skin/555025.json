@@ -158,6 +158,61 @@
     }
   ],
   "description": "派克是黑玫瑰軍團領導層中的其中一員，同時也是一位強大的靈媒，派克掌握的靈能讓他能夠在生者與死者的屏障中穿梭。然而這樣的過程漸漸的蠶食了他的心智，讓他成為了一個會對著鬼魂尖叫，半瘋狂的殺手。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 30,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Hunter": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 27
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "A member of the Black Rose Group's leadership and a powerful spiritual medium, Pyke's mastery of psychic power allows him to jump across the barrier separating the living and the dead. This process has slowly eaten at his mind, leaving him a half-deranged killer screaming at literal ghosts."
+  }
 }

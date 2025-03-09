@@ -148,6 +148,57 @@
     }
   ],
   "description": "只要一個眼神，伊芙琳就能夠讓全場為她傾倒－－只要她願意的話。 K/DA 的成功讓這位風波不斷的女歌手的名號出現在所有人的嘴邊，而伊芙琳打算利用自己無懈可擊的時尚感將這種狀況維持下去。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28015,
+    "formatname": "K/DA ALL OUT Evelynn",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-29",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "BADDEST": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "With a single devastating glance, Evelynn can ensure that all eyes are on her—when she wants them to be. K/DA's success has ensured that this provocative diva's name will be on everyone's lips, but Evelynn is intent that her killer fashion sense will keep it there."
+  }
 }

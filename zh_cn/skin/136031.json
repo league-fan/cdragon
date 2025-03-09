@@ -138,6 +138,52 @@
     }
   ],
   "description": "在生肖神卫铸造他们的各种圣物时，奥瑞利安 · 索尔就在场。和他一起的，还有另外十一个：他们是第一批承担起守护圣物任务的，也是第一批被赋予力量的。几个世纪后，奥瑞利安 · 索尔被他的龙类后辈召唤出来，渴求他的帮助来对抗他非常熟悉的某个古老威胁。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Opulent": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Zodiac forged their relics, Aurelion Sol was there. With him, eleven others: the first to be humbled with the task of guarding the artifacts, the first to be granted their powers. Centuries later, Aurelion Sol is summoned forth by his draconic descendant, desperate for his help against an ancient threat with which he is all too familiar."
+  }
 }

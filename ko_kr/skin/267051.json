@@ -119,6 +119,52 @@
     }
   ],
   "description": "그들은 심해에서 나미를 불렀습니다. 그 목소리는 나미가 아는 그 어떤 것보다 강력한 힘을 약속했죠. 나미는 먹이를 바치기만 하면 됐습니다. 맹세와 악의 여단을 저버린 나미는 이제 고대 숲의 어두운 수로 바로 밑에 숨어 끝없는 밤을 보내며 레비아탄에게 바칠 다음 제물을 찾습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267051,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 56
+      },
+      "Profane": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Joshua Raphael",
+      "West Studio"
+    ],
+    "lore": "They called to Nami from the deep, their voice carrying a promise of power greater than any she had ever known. All Nami needed to do was feed it. She has now forsaken her oaths, her coven, spending endless nights lurking just below the murky waterways of the Elderwood in search of her next sacrifice to the Leviathan."
+  }
 }

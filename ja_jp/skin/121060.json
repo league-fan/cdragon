@@ -158,6 +158,58 @@
     }
   ],
   "description": "腕利きの賞金稼ぎ団の一員であるカ＝ジックスは冷酷で非情、そして依頼を必ずやり遂げることで知られている。失踪したテンプラー教団員たちの足取りを追うためカ＝ジックスを雇ったカルマだったが、そのカ＝ジックスが実は彼女を狙うエイトロックスのために活動している二重スパイであることにはまだ気が付いていない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 121060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-15",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 66,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Merc": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 67
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      }
+    },
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "A member of an elite bounty hunting organization, Kha'zix is cold, ruthless and always gets the job done. Though hired by Karma to track down the missing templars, she doesn't realize that Kha'zix is a double agent secretly working for Aatrox to bring Karma to him."
+  }
 }

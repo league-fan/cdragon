@@ -133,6 +133,54 @@
     }
   ],
   "description": "스스로 마지막 불사의 영혼이라고 자부하는 블라디미르는 갈증을 채우고 자존심을 챙기는 데만 관심이 있습니다. \"얼간이\" 라칸 때처럼 적절한 대가만 있다면 타인을 돕지 못할 이유는 없지만, 이 전쟁에서 블라디미르의 관심사는 교단 내에 있다는 생명의 숨결 샘을 찾는 것뿐입니다. 그런 힘은 자신이 가지는 편이 낫다고, 콧대 높은 블라디미르는 생각합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "The ultimate Neverghaast, at least to himself, Vladimir cares only about feeding himself and his ego. Though he is not above helping someone for the right price, like that \"idiot\" Rakan, he has no stake in the war beyond finding the fabled well of Aspira within the congregation. Such power, he smugly reasons, would surely be better in his hands."
+  }
 }

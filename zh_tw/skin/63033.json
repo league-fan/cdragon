@@ -137,6 +137,50 @@
     }
   ],
   "description": "布蘭德是一位風格誇張的鬼火藝術家。他的藝術主題都是關於接納自己的內在力量，然後讓這股力量爆發出來！（他的作品用了很多驚嘆號。）他最有名的就是用非傳統的工具來創作，明確來說就是利用破壞來創造美麗的圖像：酸洗、破碎的混凝土，當然還有火焰。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "A will-o'-wisp with bombastic style, Brand's art is all about embracing your inner power and letting it EXPLODE! (His work features lots of exclamation points.) He's famous for using destruction as an unconventional tool to create beautiful images: acid washes, cracked concrete, and, of course, burning."
+  }
 }

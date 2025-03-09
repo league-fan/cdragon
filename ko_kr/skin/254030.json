@@ -171,6 +171,54 @@
     }
   ],
   "description": "널 장미에 비유해 볼까? 네 스파이크는 꼭 내 옆구리를 찌르는 가시 같아.<br>넌 덩굴처럼 내 꿈을 휘감고, 내 마음을 지탱해줘.<br> 정원 바깥에서 자라는 제비꽃처럼 거칠기도 하지.<br>네가 있어서 난 더 행복해.<br>나랑 같이 춤추러 갈래?<br>사랑을 담아,<br>케이틀린",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-10",
+    "set": [
+      "Heartthrobs and Heartaches"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 35
+      },
+      "Catseye": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Shall I compare you to a rose? Your spikes like thorns against my side.<br>Like a vine, you've coiled through my dreams, trellising my mind.<br> Wild like the violets that thrive beyond the garden's bounds;<br>Life's simply better now that you're around.<br>Will you go to the dance with me?<br>XOXO,<br>Caitlyn"
+  }
 }

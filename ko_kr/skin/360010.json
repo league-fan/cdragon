@@ -160,6 +160,60 @@
     }
   ],
   "description": "스릴 있는 일을 찾아 헤매는 정예 전사 사미라는 핫텁 성운 출신입니다. 그녀는 외부 세력의 침공이 임박한 보통 세계에서 럭스를 구해 달라는 세 파티 여신의 의뢰를 받았죠. 은하계 행성들의 해방이 진행되는 동안, 사미라는 온 힘을 다해 목숨을 아까워할 줄 모르는 럭스를 리산드라로부터 구출해야 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 360010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Disco": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rainbow": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Emily O’Brien"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "A groovy, thrill-seeking bodyguard and elite warrior from the Hot Tub Nebula, Samira took a job directly from the Three Party Goddesses to save Lux from an impending invasion of the Normal World. Now, as the pair liberate planets across the galaxy, Samira must do everything in her power to keep Lux safe—both from Lissandra and from Lux's own lack of self preservation instincts."
+  }
 }

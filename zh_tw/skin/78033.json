@@ -137,6 +137,54 @@
     }
   ],
   "description": "波比不經意找到了一支魔法槌子，每一次揮動都會留下最令人垂涎三尺的點心，她因此發現了自己的使命：餵飽咖啡店飢腸轆轆的客人！不過要是有誰膽敢找她朋友的碴……可能就會發現那些點心並不一定都是甜頭。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 41
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "After stumbling upon a magical hammer said to leave behind the tastiest treats from every swing, Poppy discovered her true calling: feeding the cafe's hungry customers! Anybody who messes with her friends, though… might find out that those treats aren't always so sweet."
+  }
 }

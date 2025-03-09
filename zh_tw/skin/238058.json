@@ -137,6 +137,54 @@
     }
   ],
   "description": "儘管血月教派內部產生分裂，劫仍然是逆命忠貞不渝的左右手和專屬的權力掮客。他用祕密、暗影和鮮血與他人打交道，同時利用自身所控制的惡魔來增加教派的影響力。但逆命不知道的是，劫也在尋找自己被雪月奪走的門徒。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238058,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-17",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 63
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "As loyalty fractures within the Blood Moon cult, Zed remains Twisted Fate's unshakable right hand and personal power broker. He trades in secrets, shadows, and blood, all while using his mastery over his demon to increase the cult's influence. What Twisted Fate doesn't know is that Zed is also searching for his lost acolyte, stolen by the Snow Moon."
+  }
 }

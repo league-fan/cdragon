@@ -137,6 +137,53 @@
     }
   ],
   "description": "梅尔·米达尔达对事物的潜能有着敏锐的判断力，在海克斯科技中，她看到了彻底改变皮尔特沃夫面貌的力量。对于多数人来说，这项技术可望而不可即，但以她在议会中的影响力，没有什么能逃出她的掌心。有了海克斯科技的加持，无法想象如今的她能成就多么宏大的壮举。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 800001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-23",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Tanzanite": {
+        "id": 4
+      },
+      "Turquoise": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Toks Olagundoye"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Mel Medarda has always had a keen eye for potential—and in hextech, she saw power that would forever alter the face of Piltover. For most, this technology would be unobtainable, but with her influence on the Council, nothing escapes her grasp. With hextech at her fingertips, there is no telling what she'll be able to accomplish."
+  }
 }

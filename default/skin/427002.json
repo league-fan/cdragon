@@ -142,6 +142,54 @@
     }
   ],
   "description": "Daisy and Ivern first started as a basketball doubles pair on the mean streets of Kumungu jungle—but then a chance encounter with then-NBA commissioner John Brambleback pushed them both into the national spotlight. They've been tearing up the court on the professional circuit ever since.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-04-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 427002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-04-04",
+    "set": [
+      "Dunkmaster"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Peridot": {
+        "id": 4
+      },
+      "Rose Quartz": {
+        "id": 5
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "David Lodge"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Daisy and Ivern first started as a basketball doubles pair on the mean streets of Kumungu jungle—but then a chance encounter with then-NBA commissioner John Brambleback pushed them both into the national spotlight. They've been tearing up the court on the professional circuit ever since."
+  }
 }

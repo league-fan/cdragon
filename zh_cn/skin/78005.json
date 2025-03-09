@@ -137,6 +137,42 @@
     }
   ],
   "description": null,
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-03-15",
+    "set": [
+      "Legacy"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "splashartist": [
+      "Shuohan Zhou"
+    ]
+  }
 }

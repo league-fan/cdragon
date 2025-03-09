@@ -148,6 +148,55 @@
     }
   ],
   "description": "Enchanted by LeBlanc herself, Batnivia flies along with a coven of witches, shrouding the night sky in darkness and chaos. Though she was once an ordinary bat, Leblanc sensed the spirit of the season in her; now she helps to spread terror to the children below and glee to the partygoers who follow her flight.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34037,
+    "formatname": "Bewitching Batnivia",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 43
+      },
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 42,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "splashartist": [
+      "Huyy Nugyen",
+      "West Studio"
+    ],
+    "lore": "Enchanted by LeBlanc herself, Batnivia flies along with a coven of witches, shrouding the night sky in darkness and chaos. Though she was once an ordinary bat, Leblanc sensed the spirit of the season in her; now she helps to spread terror to the children below and glee to the partygoers who follow her flight."
+  }
 }

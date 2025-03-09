@@ -33,6 +33,26 @@
     }
   ],
   "description": "作为又一台上古机械枪骑，孙悟空会在极度危险的时期从沉睡中扬尘而起，保护边境城邦，对抗最为可怕的威胁。一旦这些敌人都被歼灭，他就会回到大地中，而这是一个比可考历史更久远的谜团。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-04-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-04-04",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Another of the ancient, mechanized Lancer units, Wukong arises from his dusty slumber in times of extreme danger, protecting the outland city-states from the most dire threats. Once these foes are eliminated he returns to the earth, an enigma older than recorded history."
+  }
 }

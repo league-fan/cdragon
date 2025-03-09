@@ -24,6 +24,22 @@
     }
   ],
   "description": "「リフトクエスト」の拡張パックに正式実装されたにもかかわらず、新クラス「ダークパラディン」は強すぎるからバン対象にすべきだと主張するモルデカイザーのパーティーがいる。それ以外のプレイヤーは、その強さの裏に隠された真実や、知られざる悲劇が明かされる日を待ち続けている。いずれにせよ、彼らにできるのは増え続ける犠牲者の数を眺めることだけだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-05-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-05-10",
+    "set": [
+      "Rift Quest"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Some of Mordekaiser's party complain that the Dark Paladin class is horribly overpowered and should be banned, despite its official inclusion in the latest Riftquest expansion. The rest of them are still waiting to discover the Dark Paladin's secret, redeeming, tragic backstory—but all they've been getting is a lot of murder instead."
+  }
 }

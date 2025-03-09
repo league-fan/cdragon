@@ -48,6 +48,35 @@
     }
   ],
   "description": "ケイトリンはあらゆる時代を通じて恐れられる伝説的な「時空法」の執行官であり、時の流れという壊れやすく、人智及ばぬ事象を守る使命を帯びている。時の流れに脅威を与えようとする者は、いずれ彼女の時空プラズマブラスターのスコープに捉えられることになる。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-05-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-05-24",
+    "earlysale": "2017-11",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+  }
 }

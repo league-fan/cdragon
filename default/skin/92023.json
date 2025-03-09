@@ -148,6 +148,56 @@
     }
   ],
   "description": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Night Blossom": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion."
+  }
 }

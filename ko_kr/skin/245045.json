@@ -155,6 +155,60 @@
     }
   ],
   "description": "태초의 별이 준 시간 변형 능력을 가진 에코는 평온하고 무심한 태도로 살아갑니다. 얼마든지 반복할 수 있는데 열심히 할 필요가 있나요? 하지만 다른 별 수호자들과 함께 괴물에 맞설 때는 진지한 모습으로 변해 시공간을 조작하며 어둠으로부터 발로란시를 지켜냅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Given time-shifting powers by the First Star, Ekko approaches life with a relaxed and casual demeanor. Why care if you get infinite do-overs? But when it comes to facing monsters alongside the Star Guardians, he's deadly serious, using his command over time and space to keep Valoran City safe from the darkness."
+  }
 }

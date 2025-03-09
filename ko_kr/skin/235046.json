@@ -133,6 +133,54 @@
     }
   ],
   "description": "홀로 수년간 어둠과 싸우던 세나의 의지는 강해졌지만, 동시에 냉담해지기도 했습니다. 무엇보다 자신이 별 수호자라면 사랑하는 누군가를 잃는 게 불가피하다는 사실을 알고 있습니다. 그래도 세나는 지금 어느 때보다 열심히 어둠과 싸우고 있습니다. 새로운 친구인 자야가 그녀의 사악한 전 남자친구와 재회한 것은 강력한 동기부여가 되었죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 53
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rainbow": {
+        "id": 55
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Mingchen Shen",
+      "West Studio"
+    ],
+    "lore": "Years spent battling the darkness alone has strengthened Senna's resolve, but it also hardened her heart. After all, when you're a Star Guardian, you know losing loved ones is inevitable. Still, she'll keep fighting now, harder than ever. Reuniting her new friend Xayah with her evil ex-boyfriend is a powerful motivator."
+  }
 }

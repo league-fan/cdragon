@@ -164,6 +164,60 @@
     }
   ],
   "description": "锤石、塞拉斯和卡蜜尔三人狂笑着，感受着北极光在他们体内潮涌。但没过多久，他们的狂笑就变成了惨叫！北极光的力量太过强大，发明家和舞者当场暴毙，只剩下被侵蚀的锤石。于是锤石认为自己已经成为新一任北极星，他举起武器，准备摧毁赛娜……就在这时，卢锡安出现了！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412049,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 55
+      },
+      "Citrine": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Obsidian": {
+        "id": 57
+      },
+      "Pearl": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 50,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Turquoise": {
+        "id": 54
+      },
+      "Wreathguard": {
+        "id": 58,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Thresh, Sylas, and Camille laughed as the Aurora surged within them, until the laughs turned to screams! The raw power of the Aurora was too much, killing the inventor and dancer and leaving only a corrupted Thresh behind. Believing himself to be the rightful new Polaris, he raised his weapon, ready to doom Senna... when suddenly, Lucian appeared!"
+  }
 }

@@ -12,32 +12,196 @@
       "name": "Bel'Veth",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 200000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2022-06-09",
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "A nightmarish empress created from the raw material of an entire devoured city, Bel’Veth is the end of Runeterra itself... and the beginning of a monstrous reality of her own design. Driven by epochs of repurposed history, knowledge, and memories from the world above, she voraciously feeds an ever-expanding need for new experiences and emotions, consuming all that crosses her path. Yet her wants could never be sated by only one world as she turns her hungry eyes toward the Void’s old masters..."
+      }
     },
     {
       "id": 200001,
       "name": "Battle Boss Bel'Veth",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 200001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-06-09",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rainbow": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "True final boss of the hit 1998 RPG \"Initial Reverie VIII,\" Bel'Veth has become a staple of the series thanks to fan popularity and her storyline about assimilating all of reality into herself. Recruited into the war in Arcadia by Veigar, she has decided to ignore his commands, annihilate everything in her path, and assimilate all of Arcade World into herself. Who could have seen it coming?"
+      }
     },
     {
       "id": 200010,
       "name": "Cosmic Matriarch Bel'Veth",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 200010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-30",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "A lonely cradle of life amongst the stars, Bel'Veth wanders ruined space in the aftermath of the Cosmic Court's destruction. She refuses to allow the Dark Star's entropy to spread any further, and so has begun plucking chosen creatures from dying worlds, imbuing them with the power to fight by her side and contain the corruption before it is too late."
+      }
     },
     {
       "id": 200019,
       "name": "Primordian Bel'Veth",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 200019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Primordian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Abyssal": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Citrine": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          },
+          "Tanzanite": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "The tide of war has turned, with Primordians scattered and Anima Squad idling safely in Final City. But deep below the tranquil sea, Bel'Veth plots. A creature of incredible intelligence, she grew used to living in Aatrox's shadow, her masterful tactics less bombastic than his brute strength. Now her time has come to rise above the waters and strike."
+      }
     }
   ]
 }

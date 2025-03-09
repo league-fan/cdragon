@@ -160,6 +160,60 @@
     }
   ],
   "description": "ポンコツ扱いの愛機ワイルドカード号と同様に、腰抜けというあらぬ誤解を受けている宇宙の運び屋ツイステッド・フェイトは、数人の宇宙海賊からテンプラー教団員を解放するだけの簡単な仕事と聞いてカルマに雇われた。しかし一緒に雇われている者たちが、皆ちんけな殴り込みよりも殺しの仕事で有名な傭兵ばかりであることに、彼はようやく気付き始めたのだった…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-15",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Merc": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "A space smuggler erroneously known for discretion, as well as his impractically famous ship, The Wildcard, Twisted Fate was hired by Karma to free some templars from some space pirates. He has only just begun to notice that the other mercs on the job are better known for wetwork than simple heists..."
+  }
 }

@@ -160,6 +160,61 @@
     }
   ],
   "description": "The tide of war has turned, with Primordians scattered and Anima Squad idling safely in Final City. But deep below the tranquil sea, Bel'Veth plots. A creature of incredible intelligence, she grew used to living in Aatrox's shadow, her masterful tactics less bombastic than his brute strength. Now her time has come to rise above the waters and strike.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 200019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Primordian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Abyssal": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Anoush NeVart"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "The tide of war has turned, with Primordians scattered and Anima Squad idling safely in Final City. But deep below the tranquil sea, Bel'Veth plots. A creature of incredible intelligence, she grew used to living in Aatrox's shadow, her masterful tactics less bombastic than his brute strength. Now her time has come to rise above the waters and strike."
+  }
 }

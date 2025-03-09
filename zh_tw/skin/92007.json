@@ -49,6 +49,33 @@
     }
   ],
   "description": "慶祝於北美舉辦的2016世界大賽。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-09-25",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      }
+    },
+    "variant": 4,
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Celebrating Worlds 2016 in North America."
+  }
 }

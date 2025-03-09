@@ -198,6 +198,47 @@
     }
   ],
   "description": "맞춤 정장, 몸에 꼭 맞는 조끼, 우아한 마법 장갑을 보면 누구나 이즈리얼과 일반인들의 단순한 차이점을 알 수 있습니다. 이즈리얼은 멋있게 소화하는데 일반인들은… 못해요.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-08-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-08-05",
+    "set": [
+      "Debonair"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Meteorite": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 12
+      },
+      "Striped": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't."
+  }
 }

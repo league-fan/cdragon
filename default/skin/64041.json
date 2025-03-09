@@ -137,6 +137,54 @@
     }
   ],
   "description": "Martial artist Lee Sin's focus on overwhelming his opponents before they could react had won him many championships, but also burned him out. Realizing that his strategy had been rooted in fear, he augments his body not to give himself more strength, but to concentrate his mind and senses.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-09",
+    "set": [
+      "Zenith Games"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Martial artist Lee Sin's focus on overwhelming his opponents before they could react had won him many championships, but also burned him out. Realizing that his strategy had been rooted in fear, he augments his body not to give himself more strength, but to concentrate his mind and senses."
+  }
 }

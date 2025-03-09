@@ -172,6 +172,54 @@
     }
   ],
   "description": "사냥감을 둘러싼 보호용 방울을 찌르며 바닥에 떨어질 사냥감에 달려들 준비를 하는 유미는 잠시 생각합니다. 호박 고양이가 호박 물고기를 먹으면 이상할까요? 아니, 호박은 많으면 많을수록 좋은 것 아닐까요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350028,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 32
+      },
+      "Citrine": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Svetlana Tigai",
+      "West Studio"
+    ],
+    "lore": "Yuumi pierces the protective bubble surrounding her prey, readying a pounce as it plops to the ground. She ponders for a moment: if a pumpkin-cat eats a pumpkin-fish, is that too much pumpkin? Is there even such a thing as too much pumpkin?"
+  }
 }

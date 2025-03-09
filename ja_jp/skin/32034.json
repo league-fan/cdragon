@@ -160,6 +160,61 @@
     }
   ],
   "description": "アムムは子の干支の遺物との絆によって永遠に子供のままで、その無邪気さは数世紀に渡って続いている。彼は長いこと孤独に過ごしてきたが、それも終わりを迎えた。ラックスは彼の姉のような存在であり、キンドレッドは彼の…キンドレッド(親類)のような存在だ。もちろん、だからといって彼の駄々っ子がやんだ訳ではないが、少なくとも大泣きしたあとにその磁器の目から流れる涙を拭いてくれる者はいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 32034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 39
+      },
+      "Catseye": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Golden Tiger": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Eternally young due to his bond with the Rat Relic, Amumu's innocence belies centuries of existence. He's been lonely in ages past, but no more: Lux is like his big sister, and Kindred is his… Kindred? Companionship hasn't stopped his occasional tantrums, of course, but at least now there's someone to shine his porcelain eyes after a nice cathartic cry."
+  }
 }

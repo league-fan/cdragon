@@ -25,6 +25,24 @@
     }
   ],
   "description": "飢饉に襲われた星系の残余物から発生したチョ＝ガスは、目にとめた天体すべてを食らいつくす欲求に衝き動かされている。その心臓に巣食った双子のブラックホールには、そうした饗宴の記憶が刻み込まれており、彼の飢えに終わりが訪れることはない。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31007,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-07-13",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses his path. These feasts swirl into the twin black holes at his heart—as endless and ageless as his hunger."
+  }
 }

@@ -136,6 +136,54 @@
     }
   ],
   "description": "연방 보안관이자 청부 총잡이였던 루시안의 영혼은 그가 사랑하는 사람의 목숨을 살리려 악마와 계약했을 때 타락하고 말았습니다. 악마에게 속아 지옥의 저주를 받은 루시안은 이제 복수를 다짐하고 서부 개척지를 떠돌며 악마를 추적하고 있습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 22
+      },
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tenfold Triumph": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A former federal marshal and gunslinger for hire, Lucian's soul was corrupted when he made a deal with the devil in order to spare the life of his one true love. Double-crossed, and cursed with the powers of hell, he now hunts this devil across the high frontier, seeking revenge."
+  }
 }

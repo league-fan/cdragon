@@ -8,48 +8,147 @@
       "name": "北領前線 斯溫",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 50001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-10-05",
+        "set": [
+          "Arctic Ops"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "James Faulkner"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "They could have sent an army—twelve helicarriers boasting hypercoil cannons, pulse-jumping shocktroopers, and mechs to carve through the ice. But instead, a lone, grizzled veteran striding across the tundra. Some things are better left to the Grand General."
+      }
     },
     {
       "id": 51004,
       "name": "極地狙擊手 凱特琳",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-12-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 51004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-12-29",
+        "set": [
+          "Arctic Ops"
+        ],
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Félix Donadio",
+          "West Studio"
+        ],
+        "lore": "Very few snipers can cut it on the Arctic front. The cold is unforgiving, the winds are harsh, and any who dare brave the tundra find themselves at the mercy of Caitlyn, a sniper with deadly aim and a killer instinct."
+      }
     },
     {
       "id": 79010,
       "name": "雪嶺突襲 古拉格斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-01-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 79010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-01-25",
+        "earlysale": "Jun 2018",
+        "set": [
+          "Arctic Ops"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "J.S. Gilbert"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A large man even before donning his hermetically sealed arctic combat suit, Gragas is a mystery to all save for High Command's secretive R&D labs. He appears human by all measures, save for the mask he never removes, and the eerily cold mixture of chemicals powering his massive frame."
+      }
     },
     {
       "id": 85005,
       "name": "雪嶺突襲 凱能",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-12-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 85005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-29",
+        "set": [
+          "Arctic Ops"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "lore": "High Command's public stance towards ninjas are joking-to-nonexistent, as this is a war of modern weapons, not medieval flights of fancy. Privately, they deploy Kennen to hot zones in the deep Arctic, relying on his finely honed ninjitsu and deadly precision."
+      }
     },
     {
       "id": 106002,
       "name": "北極風暴 弗力貝爾",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-11-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 106002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-29",
+        "retired": "2017-11-01",
+        "set": [
+          "Arctic Ops"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "It's easy to get used to having a bear in the platoon. He never gets cold, he sleeps all the time, and he can tear through a fully armored regiment of enemy soldiers in about six seconds. It's very easy to get used to having a bear in the platoon."
+      }
     },
     {
       "id": 110003,
       "name": "雪嶺突襲 法洛士",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 110003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-03-20",
+        "set": [
+          "Arctic Ops"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ],
+        "lore": "Varus leaps from the rampart, a hail of arrows flying from his bow and freezing the ground beneath his victims. As they struggle to regroup, he draws a missile—circuits flashing along its spine—and lets fly. Thanks for the archer, High Command!"
+      }
     }
   ]
 }

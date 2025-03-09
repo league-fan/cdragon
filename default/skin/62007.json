@@ -138,6 +138,55 @@
     }
   ],
   "description": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Meteorite": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up."
+  }
 }

@@ -142,6 +142,56 @@
     }
   ],
   "description": "狼よ、強奪者が我々に加わった。自らの手に余るほどの権力を渇望する男。彼は自らの愚かさに気付いていない。支配権を失った今、新たな環境にどのように適応していくのだろう？彼を注意深く監視するとしよう… 獲物として追跡しながら。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 39
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 37,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "An usurper has joined us, dear Wolf. A man who grasps for power far beyond his reach. He fails to see his folly. How will he adapt to his new surroundings, now that he is no longer in control? We will be watching him closely… as we give chase."
+  }
 }

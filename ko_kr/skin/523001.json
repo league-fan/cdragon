@@ -131,6 +131,55 @@
     }
   ],
   "description": "혼돈의 화신 아펠리오스와 질서의 집정관 알룬은 태초부터 서로 적대하도록 창조되었습니다. 하지만 매일 밤 달의 환영에 이끌려 배회하던 두 사람은 서로 만나게 됐죠. 이제 그들은 본성을 거역하고, 신들의 전쟁이 끝없이 계속되는 가운데 어둠도 빛날 수 있다는 사실을 증명하기 위해 노력합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 523001,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "cost": 1350,
+    "release": "2019-12-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Emerald": {
+        "id": 7
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pariah": {
+        "id": 3,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Turquoise": {
+        "id": 2
+      }
+    },
+    "voiceactor": [
+      "N/A",
+      "Tania Gunadi"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Separated at primordial birth, Aphelios, a fiend of chaos, and Alune, an archoness of order, were created as enemies. Yet, drawn each night to wander by shared visions of the moon, they found each other. Abandoning their natures, they struggle to show creation that darkness can shine, even as other divinities endlessly war…"
+  }
 }

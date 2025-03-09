@@ -24,6 +24,25 @@
     }
   ],
   "description": "アークライトの長である司法官は、正義と秩序に仕える執行者でもある。エイトロックスは具現化した力であり、彼の武勇こそが混沌を斥けられるのだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-06-12",
+    "set": [
+      "Justicar"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Aatrox embodies power, for it is his martial prowess that holds the chaos back."
+  }
 }

@@ -147,6 +147,57 @@
     }
   ],
   "description": "在所有人都以為杰西死亡的時候，他突然回到了鋼鐵叛軍之中，有人認為是奇蹟發生，其他人則覺得是詛咒纏身。杰西心中充滿內疚，他仍舊因為自己無法阻止維克特的崛起而自責。現在只有時間知道杰西是否能扭轉頹勢了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 126015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 17
+      },
+      "Emerald": {
+        "id": 18,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Trevor Devall"
+    ],
+    "splashartist": [
+      "Xuning Cui",
+      "Kudos Productions"
+    ],
+    "lore": "While many presumed him dead, Jayce's sudden return to the Resistance has been heralded by some as a miracle and others as a curse. Burdened by guilt, he still blames himself for his failure to halt Viktor's rise. Only time will tell if Jayce can turn the tide."
+  }
 }

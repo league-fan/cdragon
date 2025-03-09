@@ -137,6 +137,54 @@
     }
   ],
   "description": "Something about this smol, dainty dog doesn't feel right... Wait, did it just hiss at the audience?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-06",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 44
+      },
+      "Aquamarine": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Something about this smol, dainty dog doesn't feel right... Wait, did it just hiss at the audience?"
+  }
 }

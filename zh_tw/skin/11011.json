@@ -111,6 +111,43 @@
     }
   ],
   "description": "易是一名著名武術學院的學徒，他將自己的生命奉獻在純粹的戰鬥藝術上。然而，在他內心深處，他其實知道只有一把傳說中的玉劍才配得上他、還有那超越生死的力量…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11011,
+    "formatname": "Eternal Sword Yi",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-27",
+    "earlysale": "2018-03",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A pupil of a famous martial arts school, Yi has dedicated his life to the purity and art of combat. And yet, in his heart, he knows he is worthy of the fabled sword of jade, and a power beyond mere mortality…"
+  }
 }

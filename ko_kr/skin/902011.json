@@ -137,6 +137,53 @@
     }
   ],
   "description": "항상 물을 좋아했던 밀리오는 개굴개굴 노래하는 개구리 가족과 함께 자라 비가 아쉬울 일이 없었습니다. 하지만 개구리 가족이 노래하는 능력을 잃어 땅이 말라붙으면서 밀리오에게 새로운 책임이 주어졌습니다. 가족을 모아 배낭에 넣은 밀리오는 가족의 노랫소리를 되찾고 새로운 비의 인도자로서 노래를 배우기 위해 길을 나섭니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-06-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 902011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-06-26",
+    "set": [
+      "Rain Shepherd"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Giselle Fernandez"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Milio always loved water, and growing up with his frog family of lyrical croakers meant there was never any shortage of rain. But once they lost their ability to sing and the lands dried up, he took on new responsibilities. Gathering up his family in his backpack, he set out to restore their singing voices and learn their songs as a new Rain Shepherd."
+  }
 }

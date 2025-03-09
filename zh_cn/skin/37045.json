@@ -138,6 +138,54 @@
     }
   ],
   "description": "作为炽血派刚刚得道的仙子，琴仙子的威能在于从混乱的嘈杂中寻获和谐。 对她来说，得道成仙只能通过找到与同胞的和谐相处来实现，因此她将她的学生视为仙音妙律中不可或缺的强音。 正是在这种共同的热情中，一切皆有可能。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 51
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "As a newly immortal member of the Radiant Passion School, Sona's power is in building harmony from dissonance. To her, immortality only comes through finding your shared harmony with your fellow people, and she sees her students as strong notes to be built into immortal chords. It is in this shared passion that makes anything possible."
+  }
 }

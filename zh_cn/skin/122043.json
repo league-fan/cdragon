@@ -160,6 +160,60 @@
     }
   ],
   "description": "德莱厄斯的身体倒在地上，又一名士兵牺牲了。但他的灵魂不会安息。捡起刚从他凡躯手中震落的斧头，这位战争之灵由此产生。一个只会导致流血灾祸，德莱厄斯在凡界追猎着，寻求战斗的刺激。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Night Blossom": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 49
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Darius' body fell to the dirt, yet another soldier's sacrifice. But his soul would not rest. Picking up his axe just as soon as it was knocked from his mortal hand, the Spirit of War arose. A calamity motivated only towards bloodshed, Darius stalks the mortal world, searching for the thrill of battle. "
+  }
 }

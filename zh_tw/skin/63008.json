@@ -170,6 +170,60 @@
     }
   ],
   "description": "布蘭德沉溺於從永恆之龍那裏得到的生死之力，他在這片土地上散布著死亡以及腐敗。現在，賦予他力量的龍已經遠離塵世，只有其他受到龍恩的選召者能夠對抗宣稱自己無人能敵的腐敗布蘭德。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Emberclaw": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Jadeclaw": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "Intoxicated by the power over life and death he received from the Eternal Dragon, Brand now spreads death and decay across the land. Now that his dragon benefactor has retreated from the affairs of mortals, only other dragon-blessed can fight against the rot Brand leaves in his wake as he asserts his prowess."
+  }
 }

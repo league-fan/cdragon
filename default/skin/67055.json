@@ -133,6 +133,53 @@
     }
   ],
   "description": "Vayne vowed to hunt the blazing, rotting forces that arose from Brand's destruction. She never faltered, even when cornered on a remote coast, where she fought to the brink of death. By fate, her narrow victory coincided with the turn of a new night, and the Midnight Dragon came down to imbue her spirit with blessed darkness, sharp as draconic scales.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-09",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 60
+      },
+      "Citrine": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 56,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Turquoise": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Vayne vowed to hunt the blazing, rotting forces that arose from Brand's destruction. She never faltered, even when cornered on a remote coast, where she fought to the brink of death. By fate, her narrow victory coincided with the turn of a new night, and the Midnight Dragon came down to imbue her spirit with blessed darkness, sharp as draconic scales."
+  }
 }

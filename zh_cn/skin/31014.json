@@ -132,6 +132,51 @@
     }
   ],
   "description": "科加斯是一头虚构、巨大的野兽，被画进了神秘的山海绘卷中，皆因他的暴食导致了永恒的业力惩罚。科加斯已经掌握了山海绘卷通向多重宇宙的连接，并且计划将他自己的世界和所有其它的世界都统统吞噬掉。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others."
+  }
 }

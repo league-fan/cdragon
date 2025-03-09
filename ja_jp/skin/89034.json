@@ -124,6 +124,52 @@
     }
   ],
   "description": "ソラリ家の令嬢は吹きつける熱風に向かって顎を上げた。前方では一家から奪った財産を積んで、サルファー鉄道の列車が砂漠のなかを駆けている。この財産を取り戻せば、一家を救うことができる。行く手を阻む唯一のもの。それは「機械仕掛けの悪魔」だ。彼女の剣が夕暮れ時のセミのように唸りを上げ、蝶たちが辺りを舞う。そして「啓示者」の一団は今、馬に跨った。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Nomad": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 49
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "The Lady of House Solari lifts her chin against the scorching wind. Ahead lies her family's salvation: the Sulfur Rail, carrying the stolen family fortune, churning across the desert. The only thing that stands in her way is the Mechanical Devil himself. Her sword hums like cicadas in the gloaming. The butterflies gather. Time for the Harbingers to ride."
+  }
 }

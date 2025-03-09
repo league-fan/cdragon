@@ -24,6 +24,19 @@
     }
   ],
   "description": "關於人類靈魂的問題，一直是維克特非常好奇的，因此他開始著手打造一套能夠駕馭的狂派機甲。扭曲的齊勒斯便由此誕生，如同一頭被囚禁在精神能量牢籠中的地獄猛獸，不斷地朝範圍內的任何敵人釋放熾熱的電漿。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-10-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-10-05",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "lore": "The question of the human soul has always intrigued Viktor, and so he set to work building a Battlecast machine capable of harnessing it. The resulting Xerath units are twisted, hellish monsters imprisoned in a cage of psychic energy, constantly discharging superheated plasma toward any opponent in range."
+  }
 }

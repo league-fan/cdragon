@@ -138,6 +138,54 @@
     }
   ],
   "description": "엄청난 힘의 소유자로 대륙 전역에서 명성이 자자한 바이는 모두에게 은총발톱의 우두머리로 알려져 있습니다. 많은 이가 바이의 지위를 선망하지만 경쟁자 위에 우뚝 올라선 바이는 자신의 맹렬한 주먹에 맞설 만한 도전자가 나타나길 간절히 바라고 있죠. 그동안 바이는 은총발톱의 힘을 헤아릴 수 없는 경지까지 끌어올려 준다는 신비한 야생줄무늬를 찾아 세계를 돌아다닙니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Peridot": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Respected throughout the land for her strength, Vi is known to all as the leader of the Favorclaw. Although many envy her status, she stands above her competitors, unphased and eager for any challengers worthy of her furious fists. Until then, she searches the world for a mythical Wildstripe said to transcend a Favorclaw's power to unfathomable heights."
+  }
 }

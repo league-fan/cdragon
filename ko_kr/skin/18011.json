@@ -25,6 +25,24 @@
     }
   ],
   "description": "뭐, 이것도 가마솥을 사용하는 방법 중 하나인 것 같네요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-10-19",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Well, I guess that's one way to hold a cauldron."
+  }
 }

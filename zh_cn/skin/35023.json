@@ -159,6 +159,61 @@
     }
   ],
   "description": "萨科曾经只是图奇财团的一名信使，但现在已经几乎不是人类了。怪异的腐蚀已剥夺了他的理智和身份，将他转变成了出没于瓦洛兰城的一群喋喋不休、挥舞匕首的怪物。它们之中没人可以确定哪一个才是“真正”的萨科。它们之中也没人在乎。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Catseye": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Underground": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Once a mere courier for the Twitch syndicate, Shaco is now barely human. The eldritch corruption has stripped him of reason and identity, turning him into a chittering horde of knife-wielding monsters that haunt the boroughs of Valoran City. None of them are sure which is the “real” Shaco anymore. None of them care."
+  }
 }

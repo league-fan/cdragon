@@ -124,6 +124,49 @@
     }
   ],
   "description": "전투사관학교 대항전에서 한 번도 우승한 적 없던 바빌론 전투사관학교의 신성무기는 올해 대항전에서 학교를 이끌 대표로 자야를 선택했습니다. 전투 동아리 회장인 자야는 새롭게 얻은 영향력으로 팀원들을 이끌고 라칸과 ''휴가''를 즐기며 행복해 하지만, 리더가 되어 기쁘다는 사실은 인정하지 않으려 합니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": null
+  "wikiSkinData": {
+    "id": 498057,
+    "availability": "Upcoming",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "N/A",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 59
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Pearl": {
+        "id": 63
+      },
+      "Rebelguard": {
+        "id": 62
+      },
+      "Ruby": {
+        "id": 58,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Babylon Academy's God-Weapon chose Xayah to lead the school's team in this year's cross-academy tournament, which they've never won. As captain of the Battle Club, she's happy to use her new leverage to boss around her teammates and savor the “vacation” with Rakan, though she'll never admit she enjoys being a leader."
+  }
 }

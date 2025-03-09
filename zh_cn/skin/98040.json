@@ -137,6 +137,54 @@
     }
   ],
   "description": "慎曾是冲击之刃教派的精英二人组之一。在犯了一个差点让搭档劫丧命的错误后，他退出了战斗。现在，慎教导着年轻的忍者训练加入他们的行列——但他的新职责可能会激发他再一次拿起他的剑加入战斗。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 45
+      },
+      "Aquamarine": {
+        "id": 44
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Once half of an elite operative duo for the Shockblade order, Shen stepped away from combat after he made a mistake that nearly cost the life of his partner, Zed. Now Shen mentors young shinobi training to join their ranks – but his new charge may inspire him to take up his sword and join the fight once more."
+  }
 }

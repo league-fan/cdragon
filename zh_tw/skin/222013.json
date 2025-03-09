@@ -109,6 +109,47 @@
     }
   ],
   "description": "吉茵珂絲在晨星號的工作是負責建造或摧毀（大部份）危險且極度不穩定的武器，她同時也是晨星號的飛行員。她上一份工作是開採站的爆破技師，她任職期間因為闖了太多禍，最後慘遭上層解僱。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Adept at building and/or destroying (but mostly destroying) a variety of haphazard, highly unstable weaponry for the Morning Star crew, Jinx also serves as the ship's pilot. Her previous job as a mining explosives technician resulted in a lot of collateral damage, and a thoroughly justified dismissal."
+  }
 }

@@ -138,6 +138,50 @@
     }
   ],
   "description": "厄运小姐是一个虔诚的灵息教众，并且是教会的代言人。她一心一意地专注于对绝息者们的报复，不单是为了她被谋杀的双亲，也是为了被腐化的锐雯。莎拉不能相信她的挚友帮助过敌人，并且也不后悔对她开枪，因为只要绝息者还活着，邪恶就会逐步加深。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 46
+      },
+      "Tanzanite": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A devout Aspirant, Miss Fortune is the public face of the congregation. She has a single-minded focus on revenge against the Neverghaast, not just for murdering her parents, but for also corrupting Riven. Sarah can't believe her best friend helped the enemy and doesn't regret shooting her, because as long as the Neverghaast live, evil will fester."
+  }
 }

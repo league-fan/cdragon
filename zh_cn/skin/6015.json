@@ -121,6 +121,50 @@
     }
   ],
   "description": "厄加特是一名“星之守护者”的超级死忠粉丝，为了粉丝见面会而非常努力地准备了这身装扮，所以请尊重他。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 6015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-01",
+    "set": [
+      "Definitely Not"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A Star Guardian superfan of almost impossible proportions, Urgot worked really hard on this outfit for the fan meet, so please be respectful."
+  }
 }

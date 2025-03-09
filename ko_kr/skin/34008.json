@@ -142,6 +142,53 @@
     }
   ],
   "description": "종이 세상에서 가장 높은 종이 산에 오른 누누와 윌럼프는 거대한 종이 불사조를 만났어요. 불사조가 말했죠. ''산 정상으로 가면 안 돼. 엄마가 굉장히 화내실 거야.'' 누누와 윌럼프는 머리를 굴려 봤지만, 정상으로 갈 방법을 찾지 못했어요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-02-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-02-21",
+    "set": [
+      "Papercraft"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 10,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rainbow": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "At the tallest paper mountain in the whole paper world, Nunu and Willump found a great paper phoenix. “You cannot go to the top of the mountain,” said the phoenix, “or your mother will be very angry.” So Nunu and Willump thought and thought, but they couldn't find any way to get past…"
+  }
 }

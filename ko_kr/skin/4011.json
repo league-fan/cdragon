@@ -48,6 +48,33 @@
     }
   ],
   "description": "속임수로 시공경관들을 따돌리는 트위스티드 페이트는 여러 시간대에서 엄청난 도둑질에 성공하며 이름을 알렸습니다. 항상 주머니에 훔친 재물을 지니고 법보다 한발 앞서가는 그는 가장 빨리 도주할 수 있는 시간의 골목길을 알고 있습니다…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4011,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Pulsefire"
+    ],
+    "cost": 1350,
+    "release": "2018-05-17",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…"
+  }
 }

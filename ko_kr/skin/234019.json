@@ -49,6 +49,32 @@
     }
   ],
   "description": "2021 월드 챔피언십에서 비에고를 플레이한 Jiejie의 우승 기념 스킨",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234019,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "World Champions: 2021"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Honoring Jiejie's winning performance as Viego during the 2021 World Championship."
+  }
 }

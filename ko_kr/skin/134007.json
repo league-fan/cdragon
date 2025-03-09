@@ -141,6 +141,50 @@
     }
   ],
   "description": "모든 상대에게 압도적으로 승리한 신드라에게는 이제 친구들이 두 번 다시 날아온 공에 맞지 않도록 지키는 일만 남았습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 11
+      },
+      "Catseye": {
+        "id": 10
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rainbow": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Now that Syndra's aced all her opponents, it's time for her final test: prevent any rogue volleyballs from hitting her friends. Again."
+  }
 }

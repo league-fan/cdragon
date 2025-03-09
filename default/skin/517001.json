@@ -134,6 +134,47 @@
     }
   ],
   "description": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the heavenly realm, and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-25",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 2
+      },
+      "Pearl": {
+        "id": 3
+      },
+      "Ruby": {
+        "id": 7,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the heavenly realm, and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching."
+  }
 }

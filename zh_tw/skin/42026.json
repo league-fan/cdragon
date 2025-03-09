@@ -147,6 +147,58 @@
     }
   ],
   "description": "指揮官庫奇是太空計畫的資深老手，同時也是英勇無懼的領導者。在與他的無畏組員一同前往了一顆前所未見的星球後，他與一隻流浪外星米普成為了好友，最終也成為了他的助理與探索銀河的戰友。兩人結伴飛行，阻止邪惡紫色米普逐步逼近的入侵行動，以守護宇宙的和平。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 42026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-01",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 31,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Commander Corki is both a veteran of the space program and its fearless leader. After traveling to a new and undiscovered planet with his intrepid crew, he befriended a stray alien meep that became his assistant and ally in exploring the galaxy. Together they fly, holding off the encroaching invasion of evil purple meeps that threaten the cosmos."
+  }
 }

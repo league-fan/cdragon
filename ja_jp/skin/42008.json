@@ -162,6 +162,48 @@
     }
   ],
   "description": "80年代の縦スクロール・シューティングの主人公、恐れを知らぬコーキは、ベイガーの手下であるバトルボスたちに立ち向かう。といっても何千発ものキラキラの弾幕をかわすのと同じ要領である。素早く動き、撃たれる前に撃つ。それが彼の戦術だ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 42008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2016-12",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "lore": "The fearless protagonist of a 1980s top-down shooter, Corki resists Veigar's battle bosses the same way he resists being shot down by thousands of glowing bullets—move fast, and shoot everything before it shoots him."
+  }
 }

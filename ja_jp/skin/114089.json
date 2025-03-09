@@ -142,6 +142,54 @@
     }
   ],
   "description": "テルムの冷酷無比な王国の貴族たちは、力を付けつつあったフィオラに対して共謀し、彼女の片目を奪って、彼女の死を宣言した。しかし、彼女は花と炎の中から立ち上がり、「戴冠式」で成功を掴んだ。今では女王フィオラは自国の鋼鉄の庭園で武器の製造を監督し、炎に燃える、とある王女に訓練と鍛錬を行って自身の後継者を確保しようとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114089,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 91
+      },
+      "Emerald": {
+        "id": 92
+      },
+      "Obsidian": {
+        "id": 96
+      },
+      "Pearl": {
+        "id": 95
+      },
+      "Rose Quartz": {
+        "id": 94
+      },
+      "Ruby": {
+        "id": 90,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 93
+      },
+      "Tanzanite": {
+        "id": 94
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Nobles in the cutthroat queendom of Telum conspired against Fiora's rise to power, taking her eye and proclaiming her dead. Yet from flowers and flame she arose, then prevailed, in the Grand Coronation. Queen Fiora now oversees arms manufacturing in her nation's steel gardens, and secures her succession by training and tempering a certain fiery princess."
+  }
 }

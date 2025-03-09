@@ -150,6 +150,56 @@
     }
   ],
   "description": "有一小部分永恒之森的孩童仍然没有被魔女会不断增长的势力所影响，使学者和故事讲述者之类的人感到宽慰。不幸的是，那些特别的孩童有些极其怪诞和危险，包括他们之中的疯狂哥布林“维迦”以及他的那些受诅咒的、致幻的毒蕈。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rainbow": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "A small number of the Elderwood's children remain largely unaffected by the growing influence of the Coven, to the relief of scholars and storytellers alike. Unfortunately, those particular children are some of the most whimsical and dangerous, including among their number the insane goblin Veigar and his cursed, hallucinogenic toadstools."
+  }
 }

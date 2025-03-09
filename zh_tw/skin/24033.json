@@ -147,6 +147,59 @@
     }
   ],
   "description": "賈克斯是一名古老的戰士，曾經獨力保衛城市外的郊區免於菁英計畫的威權控制，如今必須透過實驗性科技延長自身壽命。當魔鬥凱薩的病毒入侵，迫使他失控並親手屠戮自己窮極一生守護的子民時，他對於未來僅存的一絲希望也跟著一起葬送了。現在驅使他前進的唯一動力，便是復仇的怒火。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24033,
+    "formatname": "PROJECT: Jax",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 38
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 36,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 41
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge."
+  }
 }

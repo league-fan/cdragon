@@ -24,6 +24,24 @@
     }
   ],
   "description": "古老的公墓不是一個討糖的好地方。那些扭曲的、死亡的也慶祝著這個節慶...只是他們的遊戲對於那些失落且恐懼的人是絕對致命的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-10-29",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "The old cemetery is no place for stray trick-or-treaters. The twisted, dead undergrowth celebrates this season as well… but their roots run deep into the blighted earth, and their games too often prove deadly for the lost and afraid."
+  }
 }

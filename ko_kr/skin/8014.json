@@ -129,6 +129,53 @@
     }
   ],
   "description": "사악한 밤의 제왕 블라디미르는 불안과 환락의 화신입니다. 그는 알 수 없는 그림자 속에 숨어 필멸자들의 마음속 생명의 정수와 어둠을 먹고 살아가죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-12-12",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 19,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pariah": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The chaotic king of the night, Vladimir exists as the personification of uncertainty and revelry. He thrives in the unknown shadows, feeding on the life essence and darkness found in mortal hearts."
+  }
 }

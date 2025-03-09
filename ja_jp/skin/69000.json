@@ -73,6 +73,29 @@
   "rarityGemPath": null,
   "skinLines": null,
   "description": null,
-  "wikiPrice": "880",
-  "wikiReleaseDate": "2010-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 69000,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 880,
+    "release": "2010-12-14",
+    "chromas": {
+      "Day": {
+        "id": 5
+      },
+      "Dusk": {
+        "id": 6
+      },
+      "Night": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Evan 'Somnicidal' Monteiro"
+    ],
+    "lore": "Cassiopeia is a deadly creature bent on manipulating others to her sinister will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was bitten by a gruesome tomb guardian, whose venom transformed her into a viper-like predator. Cunning and agile, Cassiopeia now slithers under the veil of night, petrifying her enemies with her baleful gaze."
+  }
 }

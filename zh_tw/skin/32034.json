@@ -160,6 +160,61 @@
     }
   ],
   "description": "因他與鼠之神器的緊密連結而永保青春，阿姆姆的天真懵懂令人難以看出他早已存在了數百年之久。他在過去忍受了長久的孤獨，但現在終結孤單了：拉克絲就像他的大姊，鏡爪也像是他的... 近親？當然，儘管有人陪伴也無法阻止他偶爾的脾氣爆發，但至少在他嚎啕大哭後，會有人來為他拭去青花瓷淚水。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 32034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 39
+      },
+      "Catseye": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Golden Tiger": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Eternally young due to his bond with the Rat Relic, Amumu's innocence belies centuries of existence. He's been lonely in ages past, but no more: Lux is like his big sister, and Kindred is his… Kindred? Companionship hasn't stopped his occasional tantrums, of course, but at least now there's someone to shine his porcelain eyes after a nice cathartic cry."
+  }
 }

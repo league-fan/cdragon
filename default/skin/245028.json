@@ -136,6 +136,54 @@
     }
   ],
   "description": "A time fugitive who built his Pulsefire suit from scratch, Ekko improved on the Remembrancers' technology, crafting a modified Chronobreak device that allows him to make short temporal jumps, create time breaks within a singular timeline, and to collapse them all into a single, anomaly-free singularity.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-14",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 32
+      },
+      "Chrono": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Citrine": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "A time fugitive who built his Pulsefire suit from scratch, Ekko improved on the Remembrancers' technology, crafting a modified Chronobreak device that allows him to make short temporal jumps, create time breaks within a singular timeline, and to collapse them all into a single, anomaly-free singularity."
+  }
 }

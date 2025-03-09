@@ -160,6 +160,61 @@
     }
   ],
   "description": "这个被称为费德提克的生物在每个时代都以星之守护者们为食，猎杀那些濒临堕落者，然后完全消耗掉他们的光芒。它与守护者们的联系，以及它被他们吸引的原因，都还不清楚……但被陷入它之内的佣兽似乎暗示了一个真正令人不安的起源。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Peridot": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 35
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 33
+      },
+      "Wicked": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      }
+    },
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "The creature known as Fiddlesticks has fed on Star Guardians across every era, hunting those on the verge of falling before finally consuming their light. Its connection to the Guardians, and the reason it is drawn to them, is not well understood... but the familiar seemingly trapped within it suggests a truly disturbing origin."
+  }
 }

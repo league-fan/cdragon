@@ -13,72 +13,288 @@
       "name": "龙血武姬",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2011-11-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2011-11-01",
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia."
+      }
     },
     {
       "id": 102001,
       "name": "钢之逆鳞 希瓦娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-11-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-01",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
     },
     {
       "id": 102002,
       "name": "骸骨之爪 希瓦娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-11-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-11-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Feihong Chen"
+        ],
+        "lore": "Many hunters claim Shyvana holds an unfair advantage when it comes to slaying the giant beasts that roam the land. Shyvana herself cares little about their opinions, preferring instead to channel her rage into her true form—a massive, fire-breathing dragon… that proves the hunters' point."
+      }
     },
     {
       "id": 102003,
       "name": "黯黑魔龙 希瓦娜",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-05-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-05-28",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "lore": "With her humanity burned away by the Darkflame, Shvyana wreaks havoc upon the battlefield. It is said that any enemy touched by her flame will have their very soul incinerated by its dark magics."
+      }
     },
     {
       "id": 102004,
       "name": "冰霜亚龙 希瓦娜",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-04-29",
+        "set": [
+          "Blackfrost"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "From the desolate reaches of the North, a dormant drake lay in rest. Upon Shyvana's arrival this behemoth awakened from its slumber and imbued her with the power of the frozen wastes. Now she stalks the tundra, searching for any foolish enough to cross her path."
+      }
     },
     {
       "id": 102005,
       "name": "冠军之血 希瓦娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-10-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-13",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 7,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Brandon 'Madspartan' Liao"
+        ],
+        "lore": "Celebrating Worlds 2014 in Korea."
+      }
     },
     {
       "id": 102006,
       "name": "银河魔装机神 希瓦娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-05-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-05-25",
+        "earlysale": "2016-10",
+        "set": [
+          "Super Galaxy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "By far the most experienced of the entire Super Galaxy team, Shyvana is the leader her teammates sorely need. A transfer pilot from a different (but just as hyperbolically named) defense force, she does sometimes find herself at odds with her allies as much as her enemies—and periodically questions if the ten percent salary bonus was actually worth it."
+      }
     },
     {
       "id": 102008,
       "name": "破败军团 希瓦娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-21",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 10
+          },
+          "Cursed": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 12
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Shyvana's ruination brings a newfound darkness, as well as clarity. Turning swiftly against Demacia for its persecution of magic, and sinking into her more draconic emotions, she appears as an avenging beast of old, ready to topple Demacia for its ignorance."
+      }
     },
     {
       "id": 102017,
       "name": "玉剑传说 舞龙卫",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "For 100 years, the dragon Shyvana watched over the Sprouting Courage School's gardens, but after saving one of the monk's sons from drowning, she was allowed to train. Transforming into a human, she enjoyed the challenge this new form would bring. Unlike Soraka, Shyvana has no doubt about who she is: a protector of the strongest school of immortality."
+      }
     }
   ]
 }

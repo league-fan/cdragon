@@ -69,6 +69,39 @@
     }
   ],
   "description": "【胜利女神 奥莉安娜】谨奖给那些在2018赛季的排位队列中达到荣耀黄金或更高段位的玩家。她的身躯已被皮尔特沃夫最棒的匠人们重铸，并被实验性的海克斯科技强化。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-11-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61008,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2018-11-21",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amber": {
+        "id": 9,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2018"
+      },
+      "Peridot": {
+        "id": 10,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2018"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "Victorious Orianna was awarded to players who reached Gold or higher in Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech."
+  }
 }

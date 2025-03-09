@@ -132,6 +132,53 @@
     }
   ],
   "description": "2024 LoL 플레이어 데이즈 기념 스킨",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-09",
+    "set": [
+      "Superfans"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Commemorating LoL Player Days 2024."
+  }
 }

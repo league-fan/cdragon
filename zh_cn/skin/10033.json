@@ -137,6 +137,55 @@
     }
   ],
   "description": "为“悲伤使者”凯尔欢呼吧！凭借着一位自称正义的天使的力量，她声称正义和审判在她愤怒的翅膀上翱翔。 当然，如果有人能召集金属的战士主机，那就是她。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10033,
+    "formatname": "Pentakill III: Lost Chapter Kayle",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 37
+      },
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "All hail, Kayle, the Bringer of Woe! With the strength of a self-righteous angel, she claims justice and judgment soar on her wings of wrath. Surely, if any can rally the warrior host of metal, it will be her."
+  }
 }

@@ -165,6 +165,60 @@
     }
   ],
   "description": "馬爾札哈自稱為曙光之聲。他跨越次元，宣稱宇宙幻焰是更大的疾病的徵狀，用於對抗跨次元瘟疫的延燒。無人能確定馬爾札哈是否真的代表宇宙幻焰發言，不過能確定的是，他只是在暖身。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Neon Facade": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Malzahar is the self-proclaimed Voice of the Foreglow. Traveling from realm to realm, he announces that the Empyreans are symptoms of a greater sickness, the fever designed to fight an infection festering across the dimensions. Whether Malzahar truly speaks for the neon flame is anyone's guess, but for now, he's only just warming up."
+  }
 }

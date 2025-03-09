@@ -24,6 +24,23 @@
     }
   ],
   "description": "オオカミとして生まれ、その出自を示す旗印を掲げて戦う。このダキアの剣の戦士は、極寒のカルパティア山脈での戦いを耐え抜く──敵の血が自身を暖めてくれると知っているのだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-05-30",
+    "retired": "2017-11-01",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "Born of a wolf, and bearing the wolf's standard into battle, this Dacian glaive warrior fights in the cold of the Carpathian Mountains—knowing that the blood of his enemies will keep him warm."
+  }
 }

@@ -137,6 +137,55 @@
     }
   ],
   "description": "尽管反抗军中的很多人都发现辛吉德令人不安，但很少有人能否认他在击退机器威胁方面的高效。对于辛吉德来说，唯一重要的事情就是把维克托的造物们赶回去，不管用什么手段。    ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 27010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "voiceactor": [
+      "Unknown voice actor"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "Though many in the Resistance find Singed unsettling, few can deny his efficacy in pushing back the machine threat. For Singed, the only thing that matters is driving back Viktor's creations, whatever the means."
+  }
 }

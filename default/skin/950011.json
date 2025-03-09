@@ -142,6 +142,56 @@
     }
   ],
   "description": "PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 950011,
+    "formatname": "PROJECT: Naafiri",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Morla Gorrondona"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile."
+  }
 }

@@ -165,6 +165,61 @@
     }
   ],
   "description": "噩夢般的次元寄生蟲「夜曲」，受到曙光所吸引後，便深入其力量根源，接觸它的原始形態，不經意間引發了第一場次元坍塌，並促成了第一個宇宙幻焰「派克」的誕生。被曙光扭曲了原本的外貌後，夜曲決意繼續對曙光進行實驗，嘗試找出方法滿足它的飢餓。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Neon Facade": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger."
+  }
 }

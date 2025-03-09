@@ -24,6 +24,21 @@
     }
   ],
   "description": "내 고향 빌지워터,<br>마지막 항해 이후부터 쭉 내 고향이었지!<br>하지만 더 머물지 않으리,<br>곧 고래 사냥이 시작되니까.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2011-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2011-01-10",
+    "retired": "2013-07-18",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "lore": "O, Bilgewater has been my home,<br>Since last time I was sailing!<br>But I'll not stay another day,<br>I'd sooner be out whaling."
+  }
 }

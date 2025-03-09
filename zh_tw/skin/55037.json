@@ -160,6 +160,60 @@
     }
   ],
   "description": "「我的人被詐騙了。我是來討回欠款的。」異鄉人說到，將她的匕首狠狠刺在一張機械惡魔的通緝海報上。她的雙眼如燃煤般熾烈，目光掃過每個風塵僕僕的旅人，「而我聽說你們打算跳上那硫磺鐵路的列車，惡兆使者。如果你們要去收拾這惡魔，我也加入。」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Nomad": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "“My people got swindled. I aim to collect what we're owed,” the Outsider says, pinning her dagger in a wanted poster of the Mechanical Devil. Her eyes burn like stoked coal as she fixes each dusty traveler in her gaze, “And I hear y'all plan on jumpin' the Sulfur Rail, Harbingers. If you're gonna take this devil down, I want in.” "
+  }
 }

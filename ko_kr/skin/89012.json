@@ -148,6 +148,58 @@
     }
   ],
   "description": "레오나는 어린 시절부터 던라이즈 왕가의 딸 중 가장 큰 사랑을 받았습니다. 그리고 조국을 노리는 거대 괴수들이 해안에 나타났을 때, 군대를 지휘하며 왕국의 여군주로 발돋움했죠. 활약의 대가로 궁정의 학자들은 레오나에게 아발론을 선물했습니다. 아발론은 조종 가능한 거대한 메카 유닛으로 왕국을 침략했던 괴물들에게서 추출한 생명의 정수로 움직이죠. 이제 두려울 것이 없는 레오나는 대규모의 해군을 이끌고 전장으로 출격합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 14
+      },
+      "Peacekeeper": {
+        "id": 13,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Tanzanite": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Leona grew up as the favored daughter of the Dawnrise Kingdom. When the leviathans appeared on her homeland's shores, she took command of her realm's forces, becoming the matriarch of her people. In return, the grateful scholars of her court gifted her an Avalon, an immense pilotable mech powered by the life essence of the very monsters that threatened her home. Now, she stands fearless, leading vast navies into war."
+  }
 }

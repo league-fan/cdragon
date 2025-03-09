@@ -137,6 +137,53 @@
     }
   ],
   "description": "도시 위, 하이 아르카나의 경계에서 아슬아슬하게 균형을 잡고 있는 카밀의 힘은 놀라움과 예상을 거스르는 힘으로부터 나옵니다. 카밀의 패턴은 카밀의 길을 가로지르는 이들에게 혼란스럽고 불안하다 못해 아주 위험해 보이지만, 늘 카밀에게 이익이 되는 결정을 내립니다. 끝으로 몰렸을 때 가장 강한 카밀이 그 힘을 다 어디에 쓸지 정확히 아는 사람은 아무도 없습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "Poised precariously above the city, on the edge of High Arcana, Camille's power comes from surprise and defying expectations. Her patterns seem confusing and alarming—even perilous—to those who cross her path, but they always resolve to her benefit. When burdened on the brink, Camille is at her strongest, but no one truly knows what she plans to use all that strength for..."
+  }
 }

@@ -108,6 +108,48 @@
     }
   ],
   "description": "요원들이 가장 우려하던 일이 현실이 되고 말았습니다. 시공간의 틈을 통해 다중 우주에 나타난 정체불명의 로봇 약탈자 무리가 지나가는 곳마다 쑥대밭을 만들고 있죠. 이 무수한 침략자 중 하나인 피들스틱은 손에 넣는 기술을 흡수하며 모든 생명체를 파괴합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-08",
+    "set": [
+      "Praetorian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Citrine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "The Remembrancers' worst fears have been realized. Emerging from tears in the fabric of spacetime, hordes of faceless, robotic marauders appear across the multiverse, destroying everything in their path. Fiddlesticks is only a single unit in this endless invasion force, assimilating any technology it comes across, and eradicating all life."
+  }
 }

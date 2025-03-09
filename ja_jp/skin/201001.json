@@ -216,6 +216,68 @@
     }
   ],
   "description": "古代の敵と戦うために最初の龍殺したちが立ち上がったのは数百年前であり、その勝利のあと、世界には長きにわたる平和と忘却の時代が訪れた。ドラゴンが戻ってきたとき、古代の戦士の多くはすでに亡くなっており、ブラウムは無実の人々を守るために強力な盾だけを武器に戦うしかなかった。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-05-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-05-11",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Fan Pass": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Fan Pass Missions"
+      },
+      "LCS": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LEC": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LPL": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "Obsidian": {
+        "id": 5
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent."
+  }
 }

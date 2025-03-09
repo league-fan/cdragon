@@ -138,6 +138,54 @@
     }
   ],
   "description": "ジャロー・ライトフェザー様。貴殿をシルケン・ダンスにご招待いたします。貴殿の英雄伝はノクサスの貴族の間にも届いており、誰もがお会いすることを心待ちにしております。我々は同じ手段で、地域の垣根を超えて活動しております。我々は貴殿から学ぶべきことが多くあり、貴殿も同様でしょう。ライトフェザー様…それとも、エズリアルとお呼びするべきかしら？──エリスより",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81065,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-09",
+    "set": [
+      "Masque of the Black Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Citrine": {
+        "id": 71
+      },
+      "Emerald": {
+        "id": 67
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 69
+      },
+      "Turquoise": {
+        "id": 72
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Park Jun Seong",
+      "West Studio"
+    ],
+    "lore": "Greetings, Jarro Lightfeather. We cordially invite you to the Silken Danse. Word of your heroism has reached the halls of Noxian nobility, and we are keen to meet you. We operate in the same manner, working beyond regional lines. You've much to learn about us, and we've much to learn about you, Lightfeather… Or, shall we be forthright, Ezreal? –Lady Elise"
+  }
 }

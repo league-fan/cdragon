@@ -143,6 +143,56 @@
     }
   ],
   "description": "アウライのクイーン、ジャンナは文字通り遥か上空から、トーナメント全体の様子を静かに見下ろしていた。しかし、戴冠式に参加しなくては、隔絶された地に住むアウライの人々に長寿をもたらしている魔法が機能しなくなってしまう。ジャンナは再び自らの力を披露するため地上に降り立った。すべては彼女の民を守るために。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 32
+      },
+      "Aquamarine": {
+        "id": 31
+      },
+      "Catseye": {
+        "id": 29
+      },
+      "Coronation": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Peridot": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Hailing from Aurai, floating high above the Tournament, Queen Janna quite literally looks down on the whole affair. But without a champion in the Coronation, the magic that brings long-life to Aurai's reclusive population will fail, and so Janna descends for yet another showcase exhibition of her power. Anything to protect her people."
+  }
 }

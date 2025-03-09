@@ -48,6 +48,35 @@
     }
   ],
   "description": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-05-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-05-24",
+    "earlysale": "2017-11",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+  }
 }

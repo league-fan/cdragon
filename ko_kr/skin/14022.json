@@ -135,6 +135,54 @@
     }
   ],
   "description": "리산드라의 대군을 선두에서 이끌던 무시무시한 거인 사이온은 전사하며 거대한 몸 안으로 주인의 마법이 흘러드는 것을 느낀 후 분노와 냉기로 이루어진 괴물이 되어 부활했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Aquamarine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "A fearsome jötunn who once stood at the front of Lissandra's vast armies, Sion fell in battle only for his master's magic to weave itself beneath his massive frame, resurrecting him as a monster of rage and cold."
+  }
 }

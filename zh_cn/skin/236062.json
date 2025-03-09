@@ -142,6 +142,53 @@
     }
   ],
   "description": "外星人“梅佐拉克斯”入侵“奥科诺”期间，卢锡安亲眼目睹了他的妻子死去。他之所以能活下来，多亏了永恩。永恩看到卢锡安的心中燃烧着与他一样的愤怒和失落。卢锡安从他的救命恩人手中接受了一套高能伪装战斗服，并发誓要保护他的星球——只要他能为他的心之所爱报仇。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236062,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-20",
+    "set": [
+      "Masked Justice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 68
+      },
+      "Emerald": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 69
+      },
+      "Pearl": {
+        "id": 70
+      },
+      "Rose Quartz": {
+        "id": 67
+      },
+      "Ruby": {
+        "id": 63,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 66
+      },
+      "Tanzanite": {
+        "id": 65
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Lucian saw his wife perish during the alien Mezzorax's invasion of Ocono. He only survived thanks to Yone, who recognized a rage and loss burning in Lucian's heart much like his own. Lucian accepted a Hyperguise suit from his savior, and vowed to protect his planet—once he avenges his beloved."
+  }
 }

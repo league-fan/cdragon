@@ -148,6 +148,58 @@
     }
   ],
   "description": "电格莫是一种奇怪的生物，即使是最有经验的小怪兽训练师也会对他感到困惑。他被目击到的区域，仅限于那些只有最勇敢的人才敢进入的废弃遗迹。目前为止，只有一个小怪兽训练师成功了，他们的羁绊——以及电格莫的闪电攻击——正在每天都变得更强。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96037,
+    "formatname": "Zap'Maw",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-11",
+    "set": [
+      "Monster Tamers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 42
+      },
+      "Aquamarine": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "The Zap'Maw is a curious monster that baffles even the most experienced of Tamers. Sightings are limited to abandoned ruins that only the bravest dare enter. But taming one is an even more challenging task. Only one Tamer has succeeded so far, their bond—and the Zap'Maw's lightning attacks—growing stronger each day."
+  }
 }

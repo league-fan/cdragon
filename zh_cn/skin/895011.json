@@ -160,6 +160,61 @@
     }
   ],
   "description": "它们在一阵荆棘与骨头的刺耳声音中来到尼菈身边，提供无拘无束的才能来换取她的忠诚。为此，她将从荆棘上滴下的深红色液体装满了一个容器。她现在随身携带着这件神圣的圣物，同时也知道她注定得到的东西比这个魔女集会所能给予的东西还要多。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 895011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Profane": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Sandra Saad"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "They came to Nilah in a cacophony of cracking brambles and bone, offering unbridled talents in exchange for her loyalty. She obliged by filling a vessel with the deep crimson that dripped from the thorns. She now carries with her this godly relic along with the knowledge that she is destined for more than this coven can ever give."
+  }
 }

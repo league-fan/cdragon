@@ -44,6 +44,35 @@
     }
   ],
   "description": "アッシュが北方の故郷を去ったのは、侵略などが理由ではなく、プリズマエ・クリスタルのせいだった。故郷の厳しい環境において、クリスタルの力は抗いがたいものであり、その魔法によって多くの者が精神や肉体を失った。南方で安息の地を探さなければならなくなったアッシュは軍隊を招集し、故郷を蹂躙した怪物たちからその土地を取り戻そうとしている。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22065,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-12-06",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Ashe's retreat from her northern homeland was not due to any invasion, but the Prismae Crystals. In such a harsh environment, their power was difficult to resist, leading many to lose their minds and bodies to its magic. Forced to find shelter in the south, Ashe now gathers an army to take back her home from the monsters that overrun it."
+  }
 }

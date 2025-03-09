@@ -160,6 +160,59 @@
     }
   ],
   "description": "범죄 도시에서 활동하던 시절, 르블랑의 동료였던 말자하는 이제 혼자 힘으로 거물이 되었습니다. 여전히 둘은 가끔 만나지만, 말자하의 관심사는 전혀 다른 곳을 향하고 있습니다. 인간들은 상상도 못 할 뭔가를 손에 넣기 위해서죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Cerulean Club": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Citrine": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 34
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "An associate of LeBlanc's from her days in Crime City, now established as a mover and shaker in his own right. While the two cross paths on occasion, Malzahar has certain... outside interests to consider, and those business partners have promised him more than any mortal could ever dream of."
+  }
 }

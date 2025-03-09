@@ -137,6 +137,54 @@
     }
   ],
   "description": "已被一个地狱烈焰灵体附身的卡尔玛曾经是黯焰神殿的强大控火士。相信能够控制烈焰灵体的她捕获了它，以期终结灰烬领主的统治，但却像其他人一样屈服于地狱之火。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Aquamarine": {
+        "id": 64
+      },
+      "Catseye": {
+        "id": 63
+      },
+      "Pearl": {
+        "id": 69
+      },
+      "Peridot": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Possessed by a spirit of the Infernal flame, Karma was once a powerful pyromancer of the Shadowfire Temple. Believing it possible to control the flame spirit, she captured it hoping to put an end to the Ashen Lord's reign but succumbed to the hellfire like all the rest."
+  }
 }

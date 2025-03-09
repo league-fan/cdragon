@@ -73,6 +73,40 @@
     }
   },
   "description": "発明家、狂気の人物、そして英雄──ジンクスはシルコを殺し、ピルトーヴァー評議会を爆破して、二つの都市を混乱の渦に陥れた。ジンクスの未来は炎の中に崩れ落ち、壊れた人生の欠片と向き合うなかで、その人格もまた砕かれてしまった。今では変革の象徴となった彼女は、自らの混沌によって形作られた世界のなかで、自分が何者となるのかを決めなければならない。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222060,
+    "availability": "Rare",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "transforming": true,
+    "forms": [
+      "Hero",
+      "Tinkerer",
+      "Menace"
+    ],
+    "chromas": {
+      "Tinkerer": {
+        "id": 60
+      },
+      "Menace": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Inventor, maniac, hero—Jinx left the twin cities reeling after killing Silco and blowing up the Piltover Council. Her future had gone up in flames, and as she faced the pieces of her fractured life, Jinx did the same. Now a symbol of change, she must decide who she will become in a world shaped by her own chaos."
+  }
 }

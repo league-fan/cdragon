@@ -13,56 +13,245 @@
       "name": "Taric",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "585",
-      "wikiReleaseDate": "2009-08-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-08-18",
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "Taric is the Aspect of the Protector, wielding incredible power as Runeterra’s guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of ancient Targon, the Shield of Valoran now stands ever vigilant against the insidious corruption of the Void."
+      }
     },
     {
       "id": 44001,
       "name": "Emerald Taric",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2012-03-12",
+        "set": [
+          "Elderwood"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "The Knights of the Emerald Chapel are the once-human stewards of the Elderwood—men and women who swore an oath to the land itself, and in return were granted unnaturally long life. Now led by a man named Taric, a handful reside there still, protecting the forest from all manner of invaders."
+      }
     },
     {
       "id": 44002,
       "name": "Armor of the Fifth Age Taric",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-04-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-04-08",
+        "set": [
+          "Demacia Vice"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ]
+      }
     },
     {
       "id": 44003,
       "name": "Bloodstone Taric",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-08-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-09",
+        "set": [
+          "Bloodstone"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "lore": "Considered to be the most handsome and cunning acolyte of his Bloodstone cult, Taric seized power after the former leader took to the hunt. Now fully in control of his Bloodstone artifact, he uses his powers to maintain his youth and beauty at all costs—even if it means getting his hands a little bloody."
+      }
     },
     {
       "id": 44004,
       "name": "Pool Party Taric",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-07-13",
+        "earlysale": "2016-11",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 7
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Always on the alert, Taric will run in cinematic slow motion to save any swimmer in distress. Although, Taric has failed to save a distressing number of them."
+      }
     },
     {
       "id": 44009,
       "name": "Taric Luminshield",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44009,
+        "formatname": "Taric Luminshield",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-19",
+        "set": [
+          "Rift Quest"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Amethyst": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Peridot": {
+            "id": 14
+          },
+          "Rainbow": {
+            "id": 15
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "lore": "A battle cleric who has to simultaneously tank and heal for a pair of bumbling rogues, Taric Luminshield may be the only thing keeping his table from a total party wipe. In-universe he's a devout warrior of the Divine Goddess Targonius, but out of universe he'd rather be in a different campaign."
+      }
     },
     {
       "id": 44018,
       "name": "Space Groove Taric",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-17",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rainbow": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Silvia Meiliani",
+          "Caravan Studio"
+        ],
+        "lore": "Taric always found himself wanting more out of life and dreamed of discovering what was beyond his mundane world. His wish was granted when Teemo arrived on his planet and swept him off on an adventure. He's now found a place for himself as Ornn's apprentice as he works to understand the concept of Groove."
+      }
     }
   ]
 }

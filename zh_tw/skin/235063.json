@@ -142,6 +142,54 @@
     }
   ],
   "description": "姍娜的記憶一片模糊，只記得自己十指交叉，有大量閃光，還有爆炸——然後便突然驚醒，四處都是破壞的跡象，身上穿著一套奇怪的外星服裝，腦海中只留下一個影像：瘋狂巨人的臉孔。姍娜聽到遠處傳來求救聲，便立即起身踏上一場新的旅程，她要找回自己的記憶，並在沿途拯救需要幫助的人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235063,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-20",
+    "set": [
+      "Masked Justice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 66
+      },
+      "Catseye": {
+        "id": 67
+      },
+      "Emerald": {
+        "id": 65
+      },
+      "Obsidian": {
+        "id": 71
+      },
+      "Pearl": {
+        "id": 69
+      },
+      "Rose Quartz": {
+        "id": 68
+      },
+      "Ruby": {
+        "id": 64,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 70
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Senna's memories are a haze. There are flashes—hands locked together, an explosion—before waking up to vast destruction in a strange, alien suit. Only one image lingers in her mind—the face of a mad giant. She hears cries for help in the air, and sets out on a new journey. Senna will find her memories, and save whoever she can on the way."
+  }
 }

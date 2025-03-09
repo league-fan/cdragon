@@ -24,6 +24,26 @@
     }
   ],
   "description": "戦時に呼び出される機械化センチネル、ランサーゼロ ヘカリムは古代都市の守護者であり、もっとも恐ろしい敵から都市を守り抜くための最後の砦だ。彼が解放されれば尋常でない被害が発生することになるため、イチかバチかの最後の切り札として温存されるのが常である。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2017-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120007,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2017-08-16",
+    "earlysale": "Ineligible",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "A mechanized sentinel called upon in times of war, Lancer Zero Hecarim is the protector of an ancient city—the last line of defense against the most fearsome opponents. Once unleashed, the damage it causes can be extraordinary, so it is always held back as a final, desperate gamble."
+  }
 }

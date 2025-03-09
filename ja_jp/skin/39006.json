@@ -152,6 +152,53 @@
     }
   ],
   "description": "遥か昔、半神のイレリアは強情な龍の王に決闘を挑み、王宮に仕える人々の面前で倒したことがある。自尊心を傷つけられた王は彼女に襲いかかった。そこで彼女は、龍の王の力を自分の聖なる刃に封印した。王が人間たちに交じって謙虚さを学べるようにと。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 39006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-04",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Aquamarine": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Meteorite": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Unflinching Zeal": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Long ago, the demigoddess Irelia challenged a headstrong dragon king to a duel, defeating him before all the members of his assembled court. In his hubris, he lashed out at her, and in return she sealed his power within her sacred blade, so that he might find humility among humankind."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "전설 속 검사 마스터 이는 평생 단 한 명의 제자만을 두었습니다. 예상치 못한 배신을 당한 이는 검이 아닌 상심 때문에 죽고 말았죠. 이제 유산의 영혼은 제자를 찾으며 영혼 세계를 돌아다닙니다. 길을 잃은 그와 함께하는 자는 누구든 같은 운명을 맞이하게 됩니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 81
+      },
+      "Emerald": {
+        "id": 83
+      },
+      "Night Blossom": {
+        "id": 88,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 87
+      },
+      "Pearl": {
+        "id": 86
+      },
+      "Rose Quartz": {
+        "id": 84
+      },
+      "Ruby": {
+        "id": 80,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 82
+      },
+      "Turquoise": {
+        "id": 85
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "West Studio"
+    ],
+    "lore": "Legends speak of Master Yi, a swordsman who took but one student in his lifetime. After an unceremonious betrayal, Yi perished—not from a blade, but from a broken heart. Now the Spirit of Legacy roams the spirit world, searching for a pupil. He is lost, anyone that joins him destined to face the same fate."
+  }
 }

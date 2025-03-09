@@ -123,6 +123,49 @@
     }
   ],
   "description": "幼年时的星仙子本是旸刚派的童女，也理应成为旸刚派的弟子，但她嫌恶既定的命数。在武神贾克斯的古老故事中曾经说过，他相信真正的力量来自于逍遥自在，因此星仙子违逆了父母的意愿，前往混意派接受修行。她将踏上独属其一人的大道。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way."
+  }
 }

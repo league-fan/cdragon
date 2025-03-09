@@ -173,6 +173,46 @@
     }
   ],
   "description": "首次生产于1996年，鳄霸雷克顿迅速且出人意料地成为了当季的必备赠礼。库存紧缺和订单飙升导致出现了线上拍卖，家长们在商店走道上互殴，此事被少数警察在之后描述为“商场大暴走”的事件。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58009,
+    "formatname": "Renektoy",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Catseye": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "First produced in 1996, Renektoy quickly and unexpectedly became the must-have gift of the season. Shortages and heightened demand led to online scalping, parents fist fighting in store aisles, and a small number of what police later described as “mall stampedes.”"
+  }
 }

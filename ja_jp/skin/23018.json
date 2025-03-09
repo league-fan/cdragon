@@ -153,6 +153,60 @@
     }
   ],
   "description": "トリンダメアは激情と戦闘を司る残忍な神であり、戦争が血塗られた狂乱になり果てる瞬間を体現する存在だ。平和は受け入れがたいものだが、ヨネの正義の戦いは好機と言えるかもしれない…トリンダメアにとっては、秩序の衰退から生まれる混沌こそが最高の混沌なのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 23018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Deathbringer": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Emerald": {
+        "id": 22,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Brian Sommer"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "A fiendish god of rage and battle, Tryndamere embodies the moment when war descends into bloodied frenzy. Peace is anathema, but perhaps Yone's crusade presents an opportunity… After all, to Tryndamere, chaos is best when it is born of order's decay."
+  }
 }

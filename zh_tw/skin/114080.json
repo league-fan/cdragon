@@ -138,6 +138,54 @@
     }
   ],
   "description": "菲歐拉充滿尊嚴又態度嚴謹，挑戰了所有濫用自己力量的人，但她真正的試煉卻出現在她自己的美夢當中：一場與她最大的敵人，也就是她自己的戰鬥。她擊敗了另一個自己，讓背骨之龍對她刮目相看。神龍與受選者開心地笑著，她微笑著接受了神龍的祝福，進一步證明了自己的資格。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114080,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-09",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 82
+      },
+      "Emerald": {
+        "id": 83
+      },
+      "Obsidian": {
+        "id": 86
+      },
+      "Pearl": {
+        "id": 88
+      },
+      "Rose Quartz": {
+        "id": 85
+      },
+      "Ruby": {
+        "id": 81,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 84
+      },
+      "Tanzanite": {
+        "id": 87
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Dignified and exacting, Fiora challenged all who misused their power. But her true test appeared in her own gilded dreams: a duel with herself, her greatest enemy. She defeated this other self, impressing the Defiance Dragon. Both dragon and chosen laughed as she raised her chin while receiving its blessing, cementing her worthiness."
+  }
 }

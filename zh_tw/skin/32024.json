@@ -149,6 +149,57 @@
     }
   ],
   "description": "一個孤獨的小夥子，也是繃帶界的小王子。阿姆姆看著自己的人民年復一年的被地鼠還有喧鬧的青少年們摧殘。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 32024,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-22",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 33
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "A lonely lad and prince of the patch, Amumu watches year after year as his people are decimated by possums and rowdy teenagers."
+  }
 }

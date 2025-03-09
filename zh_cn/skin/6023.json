@@ -137,6 +137,53 @@
     }
   ],
   "description": "油腻的厄加特叔叔没有闻味道的鼻子<br>虽然没有发臭的脚趾，他仍感觉不适<br>因为访客们到来了并让门铃响声不止<br>新零件对他来说没那么烂，况且还有满腹零食！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 6023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 25
+      },
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Turquoise": {
+        "id": 31
+      }
+    },
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Unctuous Uncle Urgot has no nose to smell<br>No feet or toes to stink, but he's still feeling swell<br>'Cause visitors arrive and ring the household bell<br>With new parts not so rotten for him, and tummy snacks as well!"
+  }
 }

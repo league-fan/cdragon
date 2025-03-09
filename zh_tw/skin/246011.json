@@ -143,6 +143,53 @@
     }
   ],
   "description": "姬亞娜是同時期伊克斯塔爾眾多女皇中最年輕的一位，而她們都在近期的加冕儀式中成為了女皇。她一直焦急地等待著能夠重獲皇冠和頭銜的機會。現在這個機會終於到來，她打算透過自己在比武大會中獲得的力量重塑她眼中的伊克斯塔爾。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 13
+      },
+      "Coronation": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "lore": "Qiyana is the youngest in a line of sisters who have been Queens of Ixtal for most of the recent Coronations. She's been waiting impatiently for her chance at the Crest and the title. Now that she has it, she intends to use the power she gains in the tournament to remake Ixtal in her vision."
+  }
 }

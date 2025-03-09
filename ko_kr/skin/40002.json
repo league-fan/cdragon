@@ -24,6 +24,20 @@
     }
   ],
   "description": "역사적으로 마법공학자들은 그들이 다루는 수정의 심원한 속성으로부터 이익을 얻었습니다. 유명한 사례로, 원재료에 오랜 기간 노출되었던 잔나는 제한된 비행 능력과 바람을 제어하는 능력을 가지게 되었습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2010-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-11-08",
+    "retired": "2017-11-01",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "lore": "Practitioners of Hextech science have historically benefited from the core crystalline matrix's more esoteric properties. Janna's long exposure to such raw materials famously granted her the power of limited flight, and the ability to control the wind."
+  }
 }

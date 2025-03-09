@@ -24,6 +24,25 @@
     }
   ],
   "description": "협곡의 모험 캐릭터 중에서 인기 없기로 유명한 음유시인 역할을 맡은 바드는 고대의 노래를 바꾸어 현실을 변환하는 죽음의 무기로 사용합니다. 안타깝게도 그에게 시간은 선형의 개념이 아니며, 말 대신 울리는 소리만 내기에 바드가 플레이할 차례가 오려면 영겁을 기다려야 할지도 모릅니다.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2016-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432006,
+    "formatname": "Bard Bard",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2016-11-17",
+    "earlysale": "2017-05",
+    "set": [
+      "Rift Quest"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Though playing a famously unpopular Riftquest character class, Bard Bard has turned the ancient art of song into a reality-altering weapon of death. Unfortunately his turns take forever, since he has no concept of linear time and speaks in those weird “bwong” sounds."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "声音城的霓虹侠盗已成为了地下世界的英雄，大部分是因为他的有勇有谋，还有他潜入高度戒备的公司大楼而不被发现的神奇能力。魅力四射也没什么坏处。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 166001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-22",
+    "set": [
+      "Cyber Pop"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Sunil Malhotra"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The Neon Rogue of Sound City has become the hero of the underground, largely due to his bravery, his wit, and his uncanny ability to sneak into highly-secure corporate buildings without being detected. Being charming as hell doesn't hurt, either."
+  }
 }

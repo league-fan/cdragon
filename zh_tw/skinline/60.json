@@ -8,16 +8,54 @@
       "name": "詠夏芙蓉 伊瑞莉雅",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-06-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-03",
+        "earlysale": "2016-01",
+        "set": [
+          "Order of the Lotus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "vu": true,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "A chance encounter with the Order of the Lotus changed Irelia's life forever, as she opened her mind to the cosmic cycles of death and rebirth over many human lifetimes. She is still a fierce warrior, but now fights knowing her soul can never truly die."
+      }
     },
     {
       "id": 43004,
       "name": "詠夏芙蓉 卡瑪",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-10-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-01",
+        "set": [
+          "Order of the Lotus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Aleksandr Nikonov"
+        ]
+      }
     }
   ]
 }

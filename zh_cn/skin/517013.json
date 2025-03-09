@@ -155,6 +155,62 @@
     }
   ],
   "description": "塞拉斯是生活在城墙外的流放者们的一位“自封的”领袖，他回应了艾希的号召并召集了叛变者们一同守卫城市。尽管他的真正动机是颠覆源计划以及都市的监控状态，目前他却暂时将精力放在了摧毁一个异常人工智能的几支大军上。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517013,
+    "formatname": "PROJECT: Sylas",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 19
+      },
+      "Reckoning": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "A self-styled leader of the outcasts who live beyond the city's walls, Sylas has heeded Ashe's call and rallied the Renegades in defense of the City. Though his true motives are the collapse of PROJECT and the capital surveillance state, for now he's content destroying the armies of a dangerous rogue AI."
+  }
 }

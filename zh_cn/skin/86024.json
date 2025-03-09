@@ -138,6 +138,55 @@
     }
   ],
   "description": "作为“拉克丝”的哥哥，盖伦是他们家唯一的亲生孩子，但他从小就被父母忽视了，因为他的父母将他们的所有时间都花在研发神之武器的碎片上，而这个碎片终有一日会成为他们的女儿。当他以越来越不良的方式发泄自己的愤怒时，莱布利斯找到他入学，而他在那里最终加入了战斗俱乐部。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 32
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club."
+  }
 }

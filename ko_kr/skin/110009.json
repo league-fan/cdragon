@@ -102,6 +102,44 @@
     }
   ],
   "description": "지옥의 바루스는 땅속에서 대량의 용암을 뽑아내어 자신에게 맞서는 자들을 향해 발사합니다. 폭발하는 화산처럼 맹렬하게 발사된 용암 화살은 적들을 전부 잿더미로 만듭니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-05",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Peridot": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The Infernal Varus rips massive gouts of magma from the foundation of the earth, before firing them in volleys at those who would fight back against him. Each arrow lands with the ferocity of an exploding volcano, reducing all resistance to ash."
+  }
 }

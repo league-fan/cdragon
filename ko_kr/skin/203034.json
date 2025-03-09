@@ -137,6 +137,55 @@
     }
   ],
   "description": "늑대여, 허기가 지십니까? 영겁의 추격이 코앞으로 다가왔습니다. 전투를 통해 환희를 느끼는 당신과 추종자들에게 이번 사냥은 보상입니다. 볼라크넌에 들어오도록 선택받은 자만이 이 기회를 얻었습니다. 과연 그들이 당신의 사후 세계에서도 우리에게 저항할 수 있을까요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 203034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Marcella Lentz-Pope",
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Do you hunger, dear Wolf? The Eternal Chase is almost upon us. For you and your followers who find bliss through battle, this hunt is their reward. Only those chosen to enter Volrachnun are granted this opportunity. Tell me, will they be able to withstand us in your afterlife?"
+  }
 }

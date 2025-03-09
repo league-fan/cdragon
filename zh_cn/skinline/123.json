@@ -8,16 +8,54 @@
       "name": "死亡骑士 内瑟斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 75003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-26",
+        "set": [
+          "Dreadknights"
+        ],
+        "chromas": {
+          "Blight": {
+            "id": 8
+          },
+          "Burn": {
+            "id": 7
+          },
+          "Frostbite": {
+            "id": 9
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ],
+        "lore": "Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable."
+      }
     },
     {
       "id": 86004,
       "name": "死亡骑士 盖伦",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-01-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 86004,
+        "availability": "Available",
+        "looteligible": true,
+        "distribution": "Twitter Distribution",
+        "cost": 975,
+        "release": "2011-01-18",
+        "set": [
+          "Dreadknights"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "lore": "Once a valiant hero, Dreadknight Garen fell to the promise of power great enough to save his land. Now, twisted by the corrupting magic of his Master, he commands the frozen legions in their march upon the living. Only desolation remains in his wake."
+      }
     }
   ]
 }

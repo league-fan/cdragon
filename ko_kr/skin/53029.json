@@ -124,6 +124,53 @@
     }
   ],
   "description": "블리츠와 크랭크는 고양이 행성의 용맹한 전사입니다. 함께 블리츠크랭크라는 로봇을 조종하는 둘은 몇몇 경우만 제외하면 호흡이 잘 맞는 편이죠. 다만 리듬 감각이 부족한 크랭크는 파트너의 도움을 바라지만, 블리츠는 혼자서 춤추기 바쁩니다. 이제 블리츠와 크랭크는 햇빛을 차지하기 위해 강아지 행성을 점령하려고 합니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53029,
+    "formatname": "Space Groove Blitz & Crank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 32
+      },
+      "Catseye": {
+        "id": 31
+      },
+      "Disco": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joe Zieja"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Blitz and Crank are Cat Planet's fiercest warriors, and work together seamlessly (mostly) to pilot their mech, Blitzcrank. While Crank believes that he can overcome his lack of rhythm with the help of his exuberant copilot, Blitz is… well… he's busy dancing to his own beat. Together they plan to take over Dog Planet and claim its sunbeams for themselves."
+  }
 }

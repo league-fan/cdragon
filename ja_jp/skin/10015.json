@@ -148,6 +148,56 @@
     }
   ],
   "description": "ケイルは自ら“救世主”を名乗る、強大な力を持ったサイオニック剣士である。自分のことを世界中の紛争に公平なる裁きを下す存在だと考えており、サイキックエネルギーを動力とする翼を備え戦争の天使として出没している。彼女はこの世界を極端なまでに白か黒かでしか考えておらず、その捻じれた考えを現実のものにするために民兵組織であるBRGに加入した。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 21
+      },
+      "Hunter": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 17
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A self-described “savior” and powerful psionic swordswoman, Kayle views herself as an impartial judge in world affairs, appearing on wings powered by psychic energy as an angel of war. Her understanding of the world is black and white to a frightening extreme, and she has joined the paramilitary BRG to see her twisted vision realized."
+  }
 }

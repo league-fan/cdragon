@@ -131,6 +131,40 @@
     }
   ],
   "description": "在換了數不清的搭檔後，整個警局都在賭「孤狼」菲艾警官的下一任新夥伴能撐多久。然而這位性格暴躁、行事魯莽的警官，終於遇見了能夠容忍她的搭檔——凱特琳。她不僅是一位頭腦靈光的神射手，也對這頂著一頭粉紅頭髮的破壞王有著好感。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-10-29",
+    "set": [
+      "Cops and Robbers"
+    ],
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "After cycling through too many partners to count, the entire department had a bet going about \"lone wolf\" Officer Vi. But this tempestuous, impetuous officer has finally found her match in Caitlyn, a sharpshooter with a quick wit and soft spot for pink-haired wrecking balls."
+  }
 }

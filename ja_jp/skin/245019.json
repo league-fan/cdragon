@@ -148,6 +148,57 @@
     }
   ],
   "description": "荒れたストリート育ちの天才少年であるエコーは、自己表現の手段として音楽を始めた。その天才的なリリックと頭脳があれば街を出ることは可能だったが、彼はそこに留まり、地元を活気づけることを選んだ。エコーは頑なに名声と栄光の誘惑を拒んでおり、彼の成功を自分たちの未来の可能性と重ね合わせる若者たちの間でファンを増やし続けている。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-11-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-11-10",
+    "set": [
+      "True Damage"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Freestyle": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "True Damage 2019"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Umar 'Thutmose' Ibrahim"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "A boy genius from the rough streets, Ekko turned to music as a way to express himself. His prodigious lyricism and technological savvy could have bought him a way out, but instead, he chose to stay and uplift his neighborhood. Now, he fiercely resists the temptations of fame and glory, garnering a following among the young and hopeful who see him as an avatar for their own potential."
+  }
 }

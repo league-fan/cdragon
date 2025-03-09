@@ -24,6 +24,17 @@
     }
   ],
   "description": "한 외딴 마을에서는 사람들이 먹이를 먹을 때마다 몸집이 커지는 거대하고 흉포한 해양 생물이 존재한다고 주장했습니다. 고작 흐릿한 사진 한 장만이 근거였죠. 그 외에 다른 증거는 없었으나 관광객이 크게 늘어나 마을의 경제에는 큰 도움이 되었습니다. 실종 사건은 끊이지 않았지만요.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-03-01",
+    "retired": "2017-11-01",
+    "set": [
+      "Fables"
+    ],
+    "neweffects": true,
+    "lore": "Citing nothing more than a blurry photograph, the locals in one isolated town insist on the existence of a large, predatory marine animal that grows in size every time it feeds. The reports are otherwise unsubstantiated, but the spike in tourism has been great for the local economy. Not the disappearances, though. Those are bad."
+  }
 }

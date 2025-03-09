@@ -96,6 +96,45 @@
     }
   ],
   "description": "巨魔部落之王特朗德，是一個令人尊敬的弒龍者。天生具有號令冰山原始之力的他，捍衛了自己的王國免於死亡與破壞。多年以來，倖存的巨魔在這個被巨龍之火摧毀的世界中抬頭仰望時，始終能看見他們令人敬仰的領袖。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+  }
 }

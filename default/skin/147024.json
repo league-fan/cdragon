@@ -160,6 +160,60 @@
     }
   ],
   "description": "A sunny siren of the Summer Court, it was Lady Seraphine's skillful makeover talents that helped get Karma and Kalista ready to face the nobility with style. She is a master of courtly manners and was more than happy to teach her new friends everything that really counts about being fabulous!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 30
+      },
+      "Turquoise": {
+        "id": 32
+      },
+      "Winsome": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Silvia Meiliani",
+      "Caravan Studio"
+    ],
+    "lore": "A sunny siren of the Summer Court, it was Lady Seraphine's skillful makeover talents that helped get Karma and Kalista ready to face the nobility with style. She is a master of courtly manners and was more than happy to teach her new friends everything that really counts about being fabulous!"
+  }
 }

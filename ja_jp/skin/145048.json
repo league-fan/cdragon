@@ -160,6 +160,60 @@
     }
   ],
   "description": "カバルに父を殺されながらも、ひとり生き延びた若きカイ＝サは、都市から逃れ、反乱軍に加わった。自分の代わりに他の者たちが戦うことを良しとしない彼女は、自らの独立性を犠牲に反撃のための力──それ無しでは生きることができない、魔力を持った共生型の刺青をその身に刻んだ。カイ＝サには今、復讐を遂げるための力がある。正義を果たす時がきたのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145048,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 55
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Inked": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Jasper": {
+        "id": 51
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A young survivor who lost her father to the Cabal, Kai'Sa fled the city and joined the Uprising. Refusing to allow others to fight a battle on her behalf, she sacrificed her independence for the chance to fight back, receiving a magical, symbiotic tattoo she needs in order to live. Kai'Sa finally has the tools to get revenge. She will see justice done."
+  }
 }

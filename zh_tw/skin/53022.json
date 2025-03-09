@@ -134,6 +134,47 @@
     }
   ],
   "description": "布里茨曾經只是個簡單的大鍋，而現在它被施法賦予生命，以協助好運姐施行她誘人的幻惑。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53022,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments."
+  }
 }

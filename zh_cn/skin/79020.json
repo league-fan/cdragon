@@ -147,6 +147,57 @@
     }
   ],
   "description": "酷炫之王古拉加斯是一个知道如何享受派对乐趣的人。无论他走到哪里都带着放克乐，即使是不羁乐仙境的居民也承认他在律动上的实力。如果古拉加斯驾临迪斯科舞厅，你就知道你将度过一个狂野的夜晚。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 23,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rainbow": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "splashartist": [
+      "Rio Sabda",
+      "Caravan Studio"
+    ],
+    "lore": "The King of Cool, Gragas is one guy who knows how to party. Bringing the funk with him everywhere he goes, even the denizens of Boogiewonderland acknowledge his prowess for groovin'. If Gragas rolls up to the disco, you know you're in for a wild night."
+  }
 }

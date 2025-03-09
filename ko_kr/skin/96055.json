@@ -869,6 +869,82 @@
     }
   },
   "description": "코그모는 랭크에서 스플릿 포인트를 충분히 모으면 지급됩니다. 호기심 많은 이들은 더러 쩍 벌어진 틈새에서 흘러나와 일렁이는 수액의 자취를 따라가기도 합니다. 그리고 코그모의 무시무시한 입에 삼켜지기 바로 직전에 깨닫지요. 자신을 응시하는 코그모의 반짝이는 눈빛에 똑같은 호기심이 담겨 있다는 사실을 말입니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-05-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 1.",
+    "release": "2024-05-17",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Challenger": {
+        "id": 64,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Diamond": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Emerald": {
+        "id": 60,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Gold": {
+        "id": 58,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Grandmaster": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Master": {
+        "id": 62,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Platinum": {
+        "id": 59,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Silver": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth."
+  }
 }

@@ -142,6 +142,56 @@
     }
   ],
   "description": "늑대여, 찬탈자가 합류했습니다. 자신의 능력을 넘어서는 힘을 쥐려고 하는 자입니다. 이자는 자신의 어리석음을 보지 못합니다. 더는 자신이 통제할 수 없는 새로운 환경에서 과연 어떻게 적응할까요? 추격하는 동안 예의 주시해야겠습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 39
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 37,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "An usurper has joined us, dear Wolf. A man who grasps for power far beyond his reach. He fails to see his folly. How will he adapt to his new surroundings, now that he is no longer in control? We will be watching him closely… as we give chase."
+  }
 }

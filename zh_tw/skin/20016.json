@@ -160,6 +160,62 @@
     }
   ],
   "description": "威朗普擁有著自己星球前所未見的狂舞引導技術，因此被麗珊卓所徵召，將美好的舞動氛圍轉變為難聽的律動。但他在圍攻正常世界時遇到了努努，也成功掙脫了麗珊卓的控制。兩個人結為夥伴，棄暗投明遊歷在銀河系間，希望能將美好的氛圍帶回宇宙。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Disco": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Yan Kyohara",
+      "West Studio"
+    ],
+    "lore": "Blessed with the strongest boogie-channeling abilities his planet had ever seen, Willump had been recruited by Lissandra to convert good vibes into harsh ones. But when he met Nunu during the siege of Normal World, Willump broke free of Lissandra's control and the two deserted to travel the galaxy, and bring good vibes back to the universe."
+  }
 }

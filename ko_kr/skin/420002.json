@@ -145,6 +145,48 @@
     }
   ],
   "description": "인간이 이끄는 저항군의 최고 집행자인 일라오이는 원래 전투 기계화 대상이었습니다. 전환은 실패했으나 그 결과 가까운 곳에 있는 기계들을 제어할 수 있게 되었죠. 새로운 능력을 얻은 일라오이는 수많은 전투에서 단신으로 빅토르의 군대를 격파함으로써 전 세계의 저항군에게 희망의 등대가 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 420002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-03-15",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 4
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 3
+      },
+      "Tanzanite": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Chief enforcer of the human-led resistance, Illaoi was once the subject of a failed Battlecast conversion that left her with control over nearby machines. Seizing her newfound power, she has single handedly decimated Viktor's forces in countless battles, becoming a beacon of hope for rebels across the world."
+  }
 }

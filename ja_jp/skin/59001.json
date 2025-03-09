@@ -24,6 +24,21 @@
     }
   ],
   "description": "確かに、ジャーヴァンの腕と脚には銃が結び付けられている。だからといって、撃つことはできない。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-03-01",
+    "set": [
+      "Commando"
+    ],
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Zhang Ji"
+    ],
+    "lore": "Yes, those are guns strapped to Jarvan's arms and legs. No, he can't shoot them."
+  }
 }

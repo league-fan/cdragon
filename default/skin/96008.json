@@ -24,6 +24,22 @@
     }
   ],
   "description": "Mass-produced artillery units based on the now-extinct Kog'Maw organism, Viktor has invented an ingenious shell delivery system best appreciated from about a hundred miles away—the latest design's maximum range.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-11-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-11-25",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "Mass-produced artillery units based on the now-extinct Kog'Maw organism, Viktor has invented an ingenious shell delivery system best appreciated from about a hundred miles away—the latest design's maximum range."
+  }
 }

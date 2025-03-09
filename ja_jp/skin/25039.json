@@ -148,6 +148,56 @@
     }
   ],
   "description": "必ずや混沌を打ち破り、秩序に勝利をもたらさんとするモルガナは、光の優勢を得るために多大な犠牲を払った。暁が勝利すれば、間違いなく神々の破壊は回避されて、新時代が到来する。混沌の腐敗のない自由な時代…その時こそ、ヨネは均衡など幻想であることに気付くだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 45
+      },
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Lifebringer": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Determined to see order triumph over chaos, Morgana has sacrificed much to tip the scales in favor of light. If dawn emerges victorious, she is certain that they can avoid the gods' destruction and usher in a new age, one free from the corruption of chaos… Perhaps then Yone will see balance for the delusion that it is."
+  }
 }

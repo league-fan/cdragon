@@ -182,6 +182,64 @@
     }
   ],
   "description": "They came to Ahri at the first stirrings of dusk—the laughter of the Half-Light Jackal, ever stalking the world as it turned towards its own inevitable entropy. A vicious predator and powerful witch, Ahri sucks the life from all she lures close, siphoning it towards her lord within the gloom.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103042,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 64
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Dark Ritual": {
+        "id": 51,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Pearl": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 46
+      },
+      "Tanzanite": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "They came to Ahri at the first stirrings of dusk—the laughter of the Half-Light Jackal, ever stalking the world as it turned towards its own inevitable entropy. A vicious predator and powerful witch, Ahri sucks the life from all she lures close, siphoning it towards her lord within the gloom."
+  }
 }

@@ -25,6 +25,21 @@
     }
   ],
   "description": "A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21018,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-10-24",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren."
+  }
 }

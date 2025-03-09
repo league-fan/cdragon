@@ -137,6 +137,54 @@
     }
   ],
   "description": "美術博士号を取得した者の中でも、最高の実力を誇る抽象画の天才。それがムンドだ。彼の無謀で野生的なフィンガーペインティングは、モンスターと人間の融合に対するハイコンセプトな分析を評価され、芸術家コミュニティーから多くの尊敬を勝ち得た(ただ、ムンド自身はその意味をよく分かっていない。皆に気に入ってもらえれば、彼はそれだけで十分なのだ)。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 25
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An abstract genius of the highest caliber with a doctorate in fine art, Mundo's reckless and wild finger painting has earned him a lot of respect in the artistic community for its high-concept analysis of the monster/human condition. (Mundo isn't sure what that means; he's just happy that people like his work!)"
+  }
 }

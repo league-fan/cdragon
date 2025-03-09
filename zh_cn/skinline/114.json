@@ -8,64 +8,202 @@
       "name": "女皇 艾希",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-09-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-21",
+        "retired": "2015-08-29",
+        "set": [
+          "Medieval"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "lore": "A radiant queen once venerated as a figure reborn from legend, Ashe rules her people as the visionary leader of two great Freljordian houses. Yet two equally driven rivals oppose her queendom, as a rising darkness threatens to consume them all."
+      }
     },
     {
       "id": 23002,
       "name": "国王 泰达米尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-09-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 23002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-21",
+        "set": [
+          "Medieval"
+        ],
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "lore": "A proud king who was once known only as a brutal highland swordsman, Tryndamere rules his people as the martial protector of two great Freljordian houses. Yet every day he resists the pull of an intangible evil at his back, as he has not forgotten a certain blood debt that he vowed to see repaid."
+      }
     },
     {
       "id": 29003,
       "name": "都铎王朝 图奇",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-12-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29003,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Honor Capsule",
+        "release": "2009-12-15",
+        "set": [
+          "Medieval"
+        ],
+        "chromas": {
+          "Sapphire": {
+            "id": 21,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2019 Honor 5 Tokens"
+          },
+          "Amethyst": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020 Honor 5 Tokens"
+          },
+          "Obsidian": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2021 Honor 5 Tokens"
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "An assassin-for-hire living beneath Dread Fortress Zaun, Twitch is a disgusting malefactor who has tipped every one of his killing implements in moist, toxic garbage. He excitedly awaits each contract, eager to kill, steal, and destroy as much as he can."
+      }
     },
     {
       "id": 32006,
       "name": "小小骑士 阿木木",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-07-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-07-18",
+        "set": [
+          "Medieval"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "A diminutive knight whose heart is brave and true, Sir Amumu of Shurima wants only to see peace reign the land in his lifetime. Considering that he's an undying, mummified princeling, he'll probably succeed."
+      }
     },
     {
       "id": 45001,
       "name": "白魔法师 维迦",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "390",
-      "wikiReleaseDate": "2009-12-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 45001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 390,
+        "release": "2009-12-17",
+        "set": [
+          "Medieval"
+        ],
+        "voiceactor": [
+          "Bob Beal"
+        ],
+        "lore": "A master of healing magic residing within an ancient cathedral, Veigar self-identifies as a dastardly archvillain rather than the pious cleric he clearly is. His magic has cured ailments and dispelled curses from across the land, much to his chagrin."
+      }
     },
     {
       "id": 78003,
       "name": "宗师级锻造训练师",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-08-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 78003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-08-24",
+        "retired": "2011-11-28",
+        "set": [
+          "Medieval"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Kate Higgins"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ],
+        "lore": "A famously gruff blacksmith working under the tutelage of Sir Ornn of the Freljord, Poppy wields a hammer imbued with a powerful magic that she believes is destined for the weapon for an unknown hero. Little does she know the hammer is the weapon, and the hero… is herself."
+      }
     },
     {
       "id": 99001,
       "name": "奥术光辉 拉克丝",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-10-19",
+        "set": [
+          "Medieval"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "An aspiring mage from the Demacian Dukedom, Lux has traveled across the land in her quest to lighten the lives of the peasantry with magic. Though her efforts are often met with suspicion at first, tales of her 'miracles' are beginning to reach the ruling class of the Dukedom itself…"
+      }
     },
     {
       "id": 240001,
       "name": "爵士 克烈",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-08-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 240001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-08-09",
+        "earlysale": "2016-12",
+        "set": [
+          "Medieval"
+        ],
+        "newrecall": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Sir Prince Chevalier Archduke Lord Double-Earl Kled (or Sir Kled, for short) is a half-mad knight from the aptly named Kingdom of Kled, which contains exactly two subjects: Kled, and his cowardly avian mount, Skarl. Together, the pair ravage the countryside to 'reclaim' Kled's 'land', which apparently is… all land, everywhere."
+      }
     }
   ]
 }

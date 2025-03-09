@@ -137,6 +137,55 @@
     }
   ],
   "description": "An ancient creature of deep, primal wisdoms from before the forming of the first galaxies, Skarner is composed of the very elements that are the building blocks of all the cosmos. His kind are the radiant antithesis of the ancient, squirming things that lurk in the deep darkness of space, and beyond it.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 72005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 9
+      },
+      "Turquoise": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Imari Williams"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "An ancient creature of deep, primal wisdoms from before the forming of the first galaxies, Skarner is composed of the very elements that are the building blocks of all the cosmos. His kind are the radiant antithesis of the ancient, squirming things that lurk in the deep darkness of space, and beyond it."
+  }
 }

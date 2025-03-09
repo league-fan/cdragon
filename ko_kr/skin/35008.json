@@ -123,6 +123,51 @@
     }
   ],
   "description": "한때 요란한 우주의 영역이었던 샤코는 암흑의 별에 의해 파괴된 뒤 우스꽝스러운 어릿광대의 모습으로 다시 태어났습니다. 우주의 주민들은 샤코의 모습을 보기도 전에 그의 일그러진 웃음소리부터 듣게 됩니다. 파멸의 환각을 불러일으키고 사회를 붕괴시키는 일만이 샤코의 끝없는 갈망을 해소할 수 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-06-13",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Emerald": {
+        "id": 11,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Victor '3rdColossus' Maury"
+    ],
+    "lore": "Shaco was once a region of space known for raucous celebration, wiped clean by the Dark Star and reborn into the mocking visage of a jester. His twisted cackling reaches inhabited systems long before he does, provoking visions of destruction, and societal breakdowns that will soon feed his endless hunger."
+  }
 }

@@ -24,6 +24,26 @@
     }
   ],
   "description": "要完全的投入死神的服務，生者必須準備好犧牲性命。一位技術純熟的刺客卡特蓮娜自願以她險惡的刀刃發誓，而獲得的幽靈能力讓她可以輕鬆的進出地下世界。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-10-25",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "To fully swear oneself to Death's service, a mortal must be prepared to sacrifice the living. A skilled assassin in life, Katarina pledged her sinister blades willingly, and was granted spectral abilities allowing her to pass in and out of the underworld with ease."
+  }
 }

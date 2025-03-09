@@ -147,6 +147,57 @@
     }
   ],
   "description": "As high priest of the Shockblade order, Kassadin has a deep connection to the Storm few understand, but all respect. It is the power of his station that allows the Shockblades to follow their targets in and out of the spirit realm, going where no one else can to protect the people under their charge.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 38015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 19
+      },
+      "Catseye": {
+        "id": 17
+      },
+      "Emerald": {
+        "id": 18,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Zoe Zhu",
+      "West Studio"
+    ],
+    "lore": "As high priest of the Shockblade order, Kassadin has a deep connection to the Storm few understand, but all respect. It is the power of his station that allows the Shockblades to follow their targets in and out of the spirit realm, going where no one else can to protect the people under their charge."
+  }
 }

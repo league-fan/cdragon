@@ -137,6 +137,53 @@
     }
   ],
   "description": "アーリは強大な力を持った、古代のホッキョクギツネの精霊であり、スノームーン教団の創設当時から存在している。密使たちはアーリと一種の共生関係にあり、自らの感情と記憶を捧げて彼女の飢えを満たすことで、自身を浄化している。アーリはその失われた記憶の守り手であり、信者たちを通して外の世界を体験している──彼らの虚ろで冷え切った眼を通して。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103076,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 78
+      },
+      "Emerald": {
+        "id": 82
+      },
+      "Jasper": {
+        "id": 80
+      },
+      "Rose Quartz": {
+        "id": 79
+      },
+      "Ruby": {
+        "id": 77,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 83
+      },
+      "Tanzanite": {
+        "id": 81
+      },
+      "Turquoise": {
+        "id": 84
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An ancient and powerful arctic fox spirit, Ahri has been around since the founding of the Snow Moon order. It is a symbiotic arrangement: agents purify themselves by sacrificing their emotions and memories to her appetite. Ahri is the keeper of their lost memories, experiencing the outside world through her devotees, their eyes now vacant and cold."
+  }
 }

@@ -148,6 +148,56 @@
     }
   ],
   "description": "자칭 구원자이자 강력한 초능력 검사인 케일은 스스로 세계의 공정한 심판관이라고 생각합니다. 초자연적 에너지로 구동되는 날개를 달아 마치 전장의 천사처럼 보이지만, 그녀는 심각한 흑백 논리에 사로잡혀 있죠. 불법 무장 단체 BRG에 합류한 이유도 자신의 삐뚤어진 꿈을 이루기 위해서였습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 21
+      },
+      "Hunter": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 17
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A self-described “savior” and powerful psionic swordswoman, Kayle views herself as an impartial judge in world affairs, appearing on wings powered by psychic energy as an angel of war. Her understanding of the world is black and white to a frightening extreme, and she has joined the paramilitary BRG to see her twisted vision realized."
+  }
 }

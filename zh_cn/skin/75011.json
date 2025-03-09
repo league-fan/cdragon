@@ -117,6 +117,41 @@
     }
   ],
   "description": "作为送给年幼的春晖神女的礼物，内瑟斯一直在她身边陪伴她长大，保卫天界免受远古黑暗的侵袭。内瑟斯沉静内敛又强大，他远眺北方，将所有威胁到天界的敌人毫不留情的消灭殆尽。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-02-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-02-08",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Jasper": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A gift to the young Lunar Empress, Nasus was raised alongside her to guard the immortal realm from an ancient darkness. Stoic but powerful, he stands watch in the north, annihilating all who would threaten the land."
+  }
 }

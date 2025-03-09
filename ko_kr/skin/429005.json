@@ -137,6 +137,55 @@
     }
   ],
   "description": "마법군단… 맹렬하고 잔인하고 영광스럽게 정복하는 종파의 전사들은 시간의 모래 속에서 오래전에 잊혔습니다. 현재 습격자의 지도자들에 의해 부활한 칼리스타의 복수를 향한 열망은 천년의 세월이 지나는 동안 더욱 짙어졌습니다. 칼리스타는 심판자와 그들이 이룬 모든 것들을 박멸하기 위해 이전보다 더욱 강력한 존재가 되어 돌아왔습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 429005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Marauder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Misty Lee"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The Magelords… furious, brutal, and glorious in their conquest—a sect of warriors long lost to the sands of time. Until now. Resurrected by the current Marauder leaders, Kalista's desire for vengeance has only festered over the millenia. Now she returns, more powerful than ever, to eradicate the Wardens and everything they've built."
+  }
 }

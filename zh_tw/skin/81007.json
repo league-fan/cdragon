@@ -198,6 +198,47 @@
     }
   ],
   "description": "伊澤瑞爾身上的訂製西裝、合身的背心和細緻的手套是他和其他賭徒最大的不同。他可以讓這身穿著看起來高貴且優雅，這是其他人辦不到的事。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-08-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-08-05",
+    "set": [
+      "Debonair"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Meteorite": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 12
+      },
+      "Striped": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't."
+  }
 }

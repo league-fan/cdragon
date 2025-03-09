@@ -113,6 +113,47 @@
     }
   ],
   "description": "いたずら好きな炎の精霊であるケネンは邪悪な存在ではないものの、素早く動き回りながら周囲のあらゆるものを発火させてしまう。不運にも、この雷のように素早く動き回る小鬼のような精霊を呼び寄せてしまった村は、大惨事に見舞われることとなる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Rainbow": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A playful spirit of fire, Kennen is not a malevolent being, but can't help igniting his surroundings while zipping about. His lightning quick movements wreak havoc upon any village unfortunate enough to entice the impish spirit to visit."
+  }
 }

@@ -165,6 +165,61 @@
     }
   ],
   "description": "一首精心制作的神曲让伊泽瑞尔成为万众瞩目的焦点，但在这张专辑遭到批评时，他又再次过气，于是伊泽瑞尔决定是时候收回一些创作控制权了。现在，伊泽瑞尔离开了他的旧厂牌，并将自己的明星影响力借给了心之钢，找到了一些准备与他一起复出翻红的音乐家和朋友。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-08",
+    "set": [
+      "HEARTSTEEL"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Citrine": {
+        "id": 52
+      },
+      "Emerald": {
+        "id": 48
+      },
+      "Pearl": {
+        "id": 50
+      },
+      "Rockstar": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 47
+      },
+      "Tanzanite": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen",
+      "Julia Yurtsev",
+      "Jennifer Wuestling"
+    ],
+    "lore": "After a manufactured one-hit wonder launched Ezreal into the spotlight, only for him to fall out of it again when the album got panned, Ezreal decided it was time he took some creative control back. Now, having left his old label and lending what star power he has to HEARTSTEEL, Ezreal has found musicians and friends he's ready to make a comeback with."
+  }
 }

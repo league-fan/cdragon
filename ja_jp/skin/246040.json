@@ -160,6 +160,60 @@
     }
   ],
   "description": "キヤナは並外れた自己中心的なアスリートだったが、優勝決定戦の最中に、突如命を落としてしまう。そして、打ちひしがれた家族の悲しみにより、彼女はエイドラ・ヴィダへと変わった。死してなお敗北を恥じていたキヤナだったが、家族が自分の偉業になど興味はなく、有りのままの自分を愛していたことに気付く。家族の愛に満たされたキヤナは、最期の瞬間まで家族を見守り続けるつもりだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 44
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 47
+      },
+      "Vivida": {
+        "id": 49,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Qiyana was a prodigiously self-centered athlete, but after dying during a championship match without warning, her family's love-stricken grief transformed her into an Eidola Vida. Still ashamed of her failure, Qiyana realizes her family never cared about what she did, only who she was. Filled with their love, she's ready to watch over them until the end."
+  }
 }

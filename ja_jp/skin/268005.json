@@ -158,6 +158,60 @@
     }
   ],
   "description": "古代のエルダーウッドを治めたこのドルイドの王は、神々の影に隠れ無名の存在となってからも、この森を故郷と呼んでいた。彼の民は滅びへの道を辿っているが、彼は魔法の力で自らに似せた軍隊を作り出した。その中には、物語でよく知られた、あの人間の王の抜け殻も含まれていた…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 268005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 9
+      },
+      "Emberwood": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 10,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "An ancient druid-king of the Elderwood, who has called the forest his home since it stood nameless in the shadow of the gods. Though his people are a dying breed, he has raised an ensorcelled army in their likeness, including the shell of a human king whose story rings all too familiar..."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "Sweet tooths are always satisfied when Lulu and her helpful sous-chef Pix are crafting the desserts! Just one whiff of their pastry magic concoctions is enough to enchant even the most unruly customers. Some say their treats are so captivating that they even have reality altering effects…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Sweet tooths are always satisfied when Lulu and her helpful sous-chef Pix are crafting the desserts! Just one whiff of their pastry magic concoctions is enough to enchant even the most unruly customers. Some say their treats are so captivating that they even have reality altering effects…"
+  }
 }

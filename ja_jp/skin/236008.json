@@ -136,6 +136,54 @@
     }
   ],
   "description": "かつて連邦保安官として立ち回り、早撃ちの名手の殺し屋でもあったルシアンだが、愛する者の命を救うために悪魔と取り引きをし、その魂は穢れてしまった。裏切られ、地獄の力で呪われた彼は、復讐を求めて荒野の辺境をさすらい、その悪魔を追っている。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 22
+      },
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tenfold Triumph": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A former federal marshal and gunslinger for hire, Lucian's soul was corrupted when he made a deal with the devil in order to spare the life of his one true love. Double-crossed, and cursed with the powers of hell, he now hunts this devil across the high frontier, seeking revenge."
+  }
 }

@@ -142,6 +142,54 @@
     }
   ],
   "description": "一直以來，當地皇帝嘉文四世竭盡全力保護領土免受外人入侵，也因此經常與其他神明發生衝突。不過，當邪惡的燼帶來前所未有的危機，嘉文四世便不得不與昔日仇敵合作，確保人類能夠存活。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59044,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-23",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 51
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "The region's Emperor, Jarvan IV, does whatever it takes to protect his realm from outsiders, leading him to frequent clashes with other gods. But when the malicious Jhin poses a threat greater than any before, he finds himself working with unlikely allies to pave the way for humanity's survival."
+  }
 }

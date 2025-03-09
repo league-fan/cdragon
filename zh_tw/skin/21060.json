@@ -142,6 +142,50 @@
     }
   ],
   "description": "卡特蓮娜女皇的諭令傳遍艾莉西亞大陸，根據新規，各國必須派出軍隊互相征伐，以神聖加冕儀式之名進行榮耀之戰。這對席芮尼雅的好運姐來說是喜聞樂見的好機會，於是她便號令麾下飛艇艦隊啟航，以爆炸性的強大火力展示昌盛國力。儘管與隱辟的歐萊伊結盟，但好運姐的加冕就是空中旅團殘忍無情的最佳證明。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Pearl": {
+        "id": 67
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 66
+      },
+      "Tanzanite": {
+        "id": 65
+      }
+    },
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Queen Katarina's decree rang throughout Elysia: the Grand Coronation ordains honorable battle among nations, army versus army. Miss Fortune of Cyrenia welcomed this change, commanding her sky-fleet in an explosive display of wealth and munitions. While allied to the secluded Aurai, Miss Fortune's crowning proves the ruthlessness of the brigades above."
+  }
 }

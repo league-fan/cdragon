@@ -160,6 +160,61 @@
     }
   ],
   "description": "幾百年來，古靈翱銳龍獸一直都在與凡人訂立契約，方法是在他們身上刻上紋身。這會賦予他們超凡力量，但代價是生命力會被翱銳龍獸逐漸奪去，終有一日衰弱倒下。一場戰爭結束，另一場就會開始——與翱銳龍獸立約的人源源不絕，他的力量不斷增加，永不缺乏食糧。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Inked": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "An ancient spirit that has been making contracts with mortals through tattoos for centuries, Aurelion Sol grants inhuman power in exchange for the life force of his pawns, letting them slowly waste away until they inevitably succumb to his appetite. There is always another conflict, another war—so he has grown powerful on their deals, ever feeding."
+  }
 }

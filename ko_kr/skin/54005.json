@@ -24,6 +24,17 @@
     }
   ],
   "description": "저건 빙하가 아닌 것 같은데요...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-07-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-07-11",
+    "set": [
+      "Glacial"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "lore": "That's no glacier…"
+  }
 }

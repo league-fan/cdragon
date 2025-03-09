@@ -110,6 +110,39 @@
     }
   ],
   "description": "某些獵人選擇在有生之年盡可能地挑戰極限，嘗試攀登至不可能抵達的高度，他們為了殺戮的喜悅而殺害無數生物。雷葛爾的身上配戴著無數獵物的骨頭，不禁讓人擔憂他的嗜血程度是否越演越烈。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-08-21",
+    "set": [
+      "Headhunter"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Emerald": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith",
+      "Bo Lu",
+      "Pan Chengwei",
+      "Wesley Keil"
+    ],
+    "lore": "Some hunters choose to scale impossible heights, cutting down creatures many times their own size for the sheer rush of the kill. Rengar is clad in the bones of these creatures, a worrying sign to his more human quarry."
+  }
 }

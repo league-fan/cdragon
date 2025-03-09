@@ -160,6 +160,60 @@
     }
   ],
   "description": "アイオニアに暮らす人々の間では、夜の双子の精霊であるアフェリオスとアルーンの物語が囁かれている。その物語によると、暗い空は兄の武器によってもたらされているのだという。彼の武器が青と白の生地を切り裂き、漆黒のキャンバスを作り出し、そこに星が塗られるのだ。そして妹の真意については…謎に包まれている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 523020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Night Blossom": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "N/A",
+      "Tania Gunadi"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Ionians share whispered stories of the twin spirits of the night, Aphelios and Alune. It is said the darkening of the sky comes from the brother's armaments, tearing the fabric of blues and whites apart to create an obsidian canvas painted with stars. The sister's motives are more... mysterious."
+  }
 }

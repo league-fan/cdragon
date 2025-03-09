@@ -124,6 +124,51 @@
     }
   ],
   "description": "姍娜醒了過來，映入她眼簾的，是極光如夢似幻的簇擁。她既不認得自己身穿的這襲華服，也不記得自己是如何來到此處，其他記憶就更不用說了。她腦中僅剩些許溫暖的回憶，一個迷失在黯影中的摯愛。「我到底是誰？」她問著自己。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235056,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Rainbow": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Wreathguard": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Senna woke in the dreamlike embrace of the Aurora. Clad in regal dress she didn't recognize, she had no memory of how she got there, nor could she remember anything else, save for flashes of warmth: a love, lost in shadow. \"Who am I?\" she wondered."
+  }
 }

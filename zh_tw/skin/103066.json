@@ -137,6 +137,53 @@
     }
   ],
   "description": "阿璃是一名詭計多端的魔術師，其力量源自於微笑之月，進行交易以重新編排圖樣，讓低階世界的居民得以一窺高階世界的樣貌。她早已讓剎雅與銳空這對命定眷侶歪斜的衝向彼此，並帶著玩世不恭的好奇態度等待渾沌的結果到來。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103066,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 68
+      },
+      "Emerald": {
+        "id": 69
+      },
+      "Obsidian": {
+        "id": 74
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 67,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 72
+      },
+      "Tanzanite": {
+        "id": 71
+      },
+      "Turquoise": {
+        "id": 73
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "A trickster and magician whose power is drawn from the grinning moon, Ahri plies her trade rearranging patterns and allowing the Lower World insight into the Higher. Having already set the fated pair Xayah and Rakan careening towards each other, she awaits the resulting chaos with a cynical bemusement."
+  }
 }

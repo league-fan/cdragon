@@ -24,6 +24,25 @@
     }
   ],
   "description": "고대 프렐요드 전설에는 정령 주술사들을 잠식해 버린 무자비한 곰의 영혼에 관한 이야기가 전해집니다. 프렐요드의 역사보다 더 오래된 그 존재가 어떤 끔찍하고 원초적인 힘을 지녔는지도 모른 채, 인간들은 도움을 얻기 위해 그 이름을 부르죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106006,
+    "formatname": "The Thousand-Pierced Bear",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2020-05-28",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves."
+  }
 }

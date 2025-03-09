@@ -160,6 +160,60 @@
     }
   ],
   "description": "누군가에게 용서는 축복입니다. 여왕 키아나에게 용서는 필수입니다. 그녀의 제국과 위대한 바다 제국 사이의 적대 관계는 키아나의 자매들 탓이지만, 그녀는 올해의 연회에서 속죄를 구합니다. 여왕 애쉬와의 화해를 가로막는 유일한 장애물은 그녀의 자존심과... 그녀의 수호자 말파이트와 새롭게 떠오른 거대뱀 사이에서 수 세기 동안 이어진 원한입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Resplendent": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "For some, forgiveness is a blessing; for Empress Qiyana, it is a necessity. Though the hostility between her empire and the Empire of the Great Sea is the fault of her sisters, she seeks atonement at this year's banquet. The only barrier to a reconciliation with Empress Ashe is her pride... and a centuries-old grudge between her guardian Malphite and a newly resurfaced giant serpent."
+  }
 }

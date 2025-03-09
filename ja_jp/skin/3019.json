@@ -137,6 +137,54 @@
     }
   ],
   "description": "古の偉大なる龍であり、かつては龍族の先祖の繁殖地を荒らそうとする者たちからその場所を守っていた。しかし、狂気の騎士ケイルに欺かれ、自らの監視中にすべての卵を破壊されてしまう。そして彼は彼女を追い、人間界へとやってきた──復讐を遂げるために。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might exact his vengeance personally."
+  }
 }

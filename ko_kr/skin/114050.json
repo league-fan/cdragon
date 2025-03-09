@@ -160,6 +160,53 @@
     }
   ],
   "description": "남과 잘 어울리지 않는 피오라는 지난 소의 해 수호단 단원이었던 아버지가 임무 수행에 실패하여 실추된 가문의 명예를 되찾기로 결심했습니다. 다른 단원들이 의무를 진지하게 여기지 않는다고 생각하는 피오라는 또다시 새해 참사가 생겨서는 안 된다고 다짐하며 차가운 태도로 단원들에게 거리를 둡니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-02-04",
+    "set": [
+      "Lunar Beast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 54
+      },
+      "Vitality": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Fiora keeps mostly to herself, determined to reclaim her family's honor from her father's failure as a member of the last Ox Squad. She thinks the rest of the squad doesn't take their duties seriously enough, and her determination to avoid another disastrous New Year makes her seem standoffish and cold to her teammates."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "거리에 버려져 수년간 겨우겨우 살아가며 자신의 비참한 처지에 으르렁거리던 나르는 어느 날 상냥한 고아 소녀의 눈에 띄었습니다. 음식처럼 단순한 선물로 시작되어 우정을 꽃피워 나가던 둘의 관계는 나르가 갑작스레 병으로 죽으며 끝났습니다. 가족과 다름없던 소녀의 사랑 덕분에 생명의 영혼이 되어 돌아온 나르는 이제 가족을 위험으로부터 지키고자 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 38
+      },
+      "Turquoise": {
+        "id": 37
+      },
+      "Vivida": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "Abandoned to the streets, Gnar spent years scraping by, snarling at his misfortune, until he was found by a gentle orphaned girl. What started as simple gifts of food blossomed into a loving friendship, only for Gnar to suddenly fall ill and pass. Because of their familial love, Gnar now returns as an Eidola Vida, ready to protect his family from danger."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "布郎姆的堤基檸檬調酒就跟他本人一樣—重量級、甜蜜蜜而且超受普羅歡迎。獸血拳皇就算排隊也要喝上一杯！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-06-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 37
+      },
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Braum's tiki lemonades are a lot like him—tall, sweet, and very popular with poros. Even the Boss is willing to wait his turn to get a glass!"
+  }
 }

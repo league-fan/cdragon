@@ -160,6 +160,59 @@
     }
   ],
   "description": "汚名を負わされ、ポラリスに積年の恨みを抱えていたサイラス。彼は今年、特別な装置──オーロラを吸収することができるガントレット──を用意していた。まずそれをフェイで試し、その後いよいよポラリスに狙いを定めた。セナは抵抗することもできず、奪われた力はサイラス、カミール、スレッシュへ分け与えられてしまった。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Peridot": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Turquoise": {
+        "id": 41
+      },
+      "Wreathguard": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "The disgraced inventor, Sylas, had long harbored a grudge against Polaris and had prepared a special device for this occasion: gauntlets capable of absorbing the Aurora. He'd tested it on Hwei earlier, but now turned his focus to Polaris. Powerless to resist, Senna's power was taken away, to be spread among Sylas, Camille, and Thresh. "
+  }
 }

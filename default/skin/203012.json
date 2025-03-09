@@ -160,6 +160,61 @@
     }
   ],
   "description": "Once a skilled hunter and her fierce hound, the two were so bonded that their souls remained together when they were preserved inside the Dog Zodiac Relic. Now they are two halves of a whole, mentoring generations of Protectors like Lux and Amumu and standing guard eternally over the ancient magic that keeps them alive.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 203012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Golden Tiger": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Marcella Lentz-Pope",
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Once a skilled hunter and her fierce hound, the two were so bonded that their souls remained together when they were preserved inside the Dog Zodiac Relic. Now they are two halves of a whole, mentoring generations of Protectors like Lux and Amumu and standing guard eternally over the ancient magic that keeps them alive."
+  }
 }

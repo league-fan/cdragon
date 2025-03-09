@@ -138,6 +138,52 @@
     }
   ],
   "description": "失去家人的韦鲁斯在他的位面崩溃时就已经被复仇所吞噬。不仅他活了下来——由于魔腾的干涉——而且两名来访的至高天，凯和瓦尔玛，也被吸收到他的弓中。被盈晖激起了怒火的韦鲁斯发誓要消灭所有尚存的至高天，无论他的新“朋友们”说什么。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110053,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 55
+      },
+      "Neon Facade": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Turquoise": {
+        "id": 56
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "Having lost his family, Varus was already consumed by vengeance when his realm collapsed. Not only did he survive, due to Nocturne's meddling, but two visiting Empyreans, Kai and Valmar, were absorbed into his bow. With the Foreglow stoking his rage, Varus vows to wipe out every last Empyrean, no matter what his new \"friends\" say."
+  }
 }

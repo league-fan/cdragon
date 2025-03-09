@@ -24,6 +24,25 @@
     }
   ],
   "description": "나르는 새하얗게 쌓인 눈 위에서의 결투 신청을 기꺼이 받아들입니다. 자신들이 상대하고 있는 게 누군지 모르고 있는 자들이 안타까울 뿐입니다. 메가 나르는 아무에게도 보이지 않게 숨어 적을 괴롭혀 주겠다는 상상을 하며 신나는 눈싸움 한판을 기다리고 있습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-12-10",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Gnar can't resist the call of a tussle in fresh powder, but woe to those who forget what they're dealing with. Mega Gnar lurks just beneath the surface, ready to take the snowball fight to the next level... and rip someone in half."
+  }
 }

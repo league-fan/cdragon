@@ -137,6 +137,55 @@
     }
   ],
   "description": "許多血月女祭司都會聽從惡魔的低語，枷蘿的惡魔卻毫不掩飾自己殘暴的天性，而枷蘿也熱烈回應。出於對腐化的共同渴望，枷蘿和她的惡魔一一找出其他女祭司，以統一整個教派。唯有如此，他們才能將毀滅散播到愛歐尼亞以外的世界。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-17",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Pearl": {
+        "id": 63
+      },
+      "Rose Quartz": {
+        "id": 60
+      },
+      "Ruby": {
+        "id": 56,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "While many Blood Moon priestesses follow the whispers of their demons, Zyra's demon howls with sadistic glee—and Zyra responds in kind. United in their thirst for corruption, Zyra and her demon seek out her fellow priestesses in order to unite them all as one. Only then can they spread their destruction to the world beyond Ionia's borders."
+  }
 }

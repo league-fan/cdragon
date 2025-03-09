@@ -138,6 +138,54 @@
     }
   ],
   "description": "ルルは新人ではあるものの、テイマーのお見本のような存在だ。彼女はCORE (伝達および交戦用の小型オブジェクト)のマニュアルを熟読しており、実際に何度か使用したこともある！彼女が最近出会ったビリ＝マウは、可愛いながらも危険なクリーチャーだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-11",
+    "set": [
+      "Monster Tamers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Though she's new to the scene, Lulu exemplifies what it means to be a Tamer. She's studied the CORE (Compact Object for Relay and Engagement) manual front to back. She's even used it in the field a few times! Her latest discovery: Zap'Maw, a creature as dangerous as it is adorable."
+  }
 }

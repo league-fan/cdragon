@@ -163,6 +163,59 @@
     }
   ],
   "description": "잘생긴 만큼 장난기도 많은 아크샨은 매년 자신의 대담한 모험은 접어 두고 많은 사람의 요청에 응해 축제에 나타납니다. 사람들과 어울려 춤추는 모습도 가끔 보이지만, 아크샨의 눈이 인파 속에서 찾는 사람은 단 한 명입니다. 두 사람의... 윤리적 간극은 둘 사이의 짜릿한 궁합에 비하면 아무것도 아닙니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 166010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-10",
+    "set": [
+      "Crystal Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Aquamarine": {
+        "id": 12
+      },
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tiffany & Co.": {
+        "id": 19,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Worlds 2022 Drop Reward"
+      }
+    },
+    "voiceactor": [
+      "Sunil Malhotra"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "As roguish as he is handsome, Akshan abandons his daring adventures each year to make a highly-requested appearance at the festival. He might be seen stealing a dance or two, but he only has eyes for one among the crowd. Their moral… discrepancies are no match for the electrifying chemistry between them."
+  }
 }

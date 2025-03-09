@@ -160,6 +160,60 @@
     }
   ],
   "description": "他們以迷霧中的暗影之姿來到卡莎碧雅身邊—化為銀色眼鏡蛇，自數不盡的古墓中蜿蜒竄起。她現在盤繞著人類的統治者家族，她的雕像花園中滿是那些難擋誘惑的亡魂，他們過度遠離城堡牆邊的安全距離，現已被永久凍固於恐懼的苦難中。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 69018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Dark Ritual": {
+        "id": 27,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "They came to Cassiopeia as a shadow within the fog—the shape of the Silver Cobra, slithering up from the numberless graves of the ancient dead. She now stalks the ruling families of humankind, her sculpture garden full of wayward souls who strayed too far from the safety of castle walls, now eternally frozen in the throes of terror."
+  }
 }

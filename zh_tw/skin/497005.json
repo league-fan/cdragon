@@ -73,6 +73,41 @@
     }
   ],
   "description": "許多年前，銳空和他的愛侶剎雅在對抗柔依的戰鬥中被摧毀殆盡。隨後，這對比翼愛侶的形體被重構並轉而對抗他們曾經的戰友 ─ 銳空很敏銳地發現了這個事實。銳空耐心等待著出擊的時刻，他有個計畫：他要徹底淨化剎雅內心中的黑暗 ─ 即使代價可能是讓自己永遠墮入黑暗之中。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Rakan was destroyed in the fight against Zoe, alongside his lover Xayah. The pair were then resurrected and turned against their allies "
+  }
 }

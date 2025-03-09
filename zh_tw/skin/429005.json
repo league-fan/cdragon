@@ -137,6 +137,55 @@
     }
   ],
   "description": "瑪傑羅人的征服之旅狂野、殘暴，並且充滿光榮 — 他們是一群早已消失於時間之沙的勇士 ─ 直到現在。被當前的劫掠者領袖們復活後，克黎思妲的復仇之慾隨著幾千年的過去而加劇。如今她回來了，比以往更加強大，想要根除守望者和他們所建立的一切。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 429005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Marauder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Misty Lee"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The Magelords… furious, brutal, and glorious in their conquest—a sect of warriors long lost to the sands of time. Until now. Resurrected by the current Marauder leaders, Kalista's desire for vengeance has only festered over the millenia. Now she returns, more powerful than ever, to eradicate the Wardens and everything they've built."
+  }
 }

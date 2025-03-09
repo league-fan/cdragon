@@ -160,6 +160,59 @@
     }
   ],
   "description": "적의 본거지에 침투해 가장 먼저 빠르고 강력한 타격을 날리는 동물특공대 최고의 정보 전문가 베인은 인류의 생존을 위해서라면 무슨 일이든 할 준비가 되어 있습니다. 그것이 포츈 지휘관의 지시에 반하는 일이더라도 말이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Nightwire": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 41
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Vayne is Anima Squad's premiere intel expert, infiltrating enemy strongholds to strike first, strike fast, and strike hard. She's willing to do anything it takes to ensure humanity's survival, even if sometimes that means butting heads with the leadership of Commander Fortune."
+  }
 }

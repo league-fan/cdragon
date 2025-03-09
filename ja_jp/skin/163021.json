@@ -44,6 +44,35 @@
     }
   ],
   "description": "プリズマエ・クリスタルが出現したとき、モートゥスの人々の反応は様々だった。島の中だけで暮らしてきたタリヤと同郷の人々は、それを脅威ではなく、自然の延長であると考えた。彼らはいま、自らの体に持つクリスタルと共生的な調和を結び、かつてないほどの力に目覚めている。そして、タリヤは己の力を試すべく、本土を目指して危険な旅に乗り出した。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163021,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-09-13",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Prismae Crystals began to appear, everyone on Motus reacted differently. Locked to their island, Taliyah's people viewed them not as a threat, but as an extension of nature. Now in symbiotic harmony with the crystals on their bodies, Taliyah's people are stronger than ever, and she ventures to the mainland to put her powers to the test."
+  }
 }

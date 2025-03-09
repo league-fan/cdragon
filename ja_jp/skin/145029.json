@@ -160,6 +160,59 @@
     }
   ],
   "description": "ブランドによって穢された土地を浄化する力を求めていたカイ＝サは、底なしの深さになっているという恐ろしい伝説を知ってもなお、礁湖龍が棲む水域の奥深くへと身を沈めた。礁湖龍は未知なるものに挑むカイ＝サの勇気を認め、彼女に恩寵を授けた。そしてカイ＝サは世界を旅して回りながら、土地を浄化し、自らを守る術を持たない人々を守っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 33
+      },
+      "Emberclaw": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Seeking the power to purify the land of Brand's corruption, Kai'Sa plunged into the depths of the Lagoon Dragon's waters, despite terrifying legends of the endless deep. However, the Dragon recognized her for her courage to face the unknown and blessed her with its gifts. Now, she adventures the world, cleansing the land and protecting those who cannot protect themselves."
+  }
 }

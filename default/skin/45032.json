@@ -137,6 +137,54 @@
     }
   ],
   "description": "A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back was different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-01",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 35
+      },
+      "Citrine": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Rainbow": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back was different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple."
+  }
 }

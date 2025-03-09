@@ -119,6 +119,51 @@
     }
   ],
   "description": "偉大的女皇卡瑪統領著光與美的妖精宮殿。雖然她被指名為女皇並登上王座讓貴族、平民，甚至連她自己都大吃了一驚，她仍舊是權力與優雅的象徵。她掌管著四季的更迭，維持著永遠爭吵不休的四季宮殿之間的平衡。女皇萬歲萬萬歲！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Winsome": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "All hail Her Majesty, Karma, Queen of the Seelie Court of Light and Beauty! Though her selection and subsequent rise to the throne was a surprise to everyone (nobles, laymen, even Karma herself), she is a beacon of poise and power, overseeing the turning of seasons and keeping the balance between the ever-bickering seasonal sub-courts. Long live the Queen!"
+  }
 }

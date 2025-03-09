@@ -49,6 +49,35 @@
     }
   ],
   "description": "키라먼 가문의 후계자 케이틀린은 방에 들어가는 순간부터 각 잡힌 모습과 그보다 더 예리한 시선으로 존경을 불러일으키는 법을 알고 있습니다. 승진을 거듭하여 도시의 집행자를 이끌게 된 케이틀린은 필트오버의 미래를 이끌어 갈 든든한 인재입니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51051,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 50,
+    "chromas": {
+      "Stellar": {
+        "id": 53,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Arcane 2024 Premium Pass Bundle"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "As scion of the Kiramman family, Caitlyn knows how to command respect from the moment she enters a room—not only with her sharp appearance, but her even-sharper gaze as well. Having climbed the ranks to lead the city's enforcers, she makes an even stronger asset to the future of Piltover."
+  }
 }

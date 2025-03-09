@@ -160,6 +160,59 @@
     }
   ],
   "description": "アカナの森の外れで、ソラカは失った者たちを思い泣いている。彼らは皆、彼女が救おうとしたが早逝してしまった者たちだ。多くの者は彼女を救世主として歓迎しているものの、彼女の力は無常で残酷だと考える者もいる。「憐みの精霊」にとって、死は決して祝福ではないのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 30
+      },
+      "Night Blossom": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 33
+      },
+      "Turquoise": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "In a secluded corner of the Akana forest, Soraka weeps for those she's lost. Each life cut short she longed to save, but for as many that welcome her as a savior, there are others who see her power as a merciless cruelty. To the Spirit of Pity, death is never a blessing."
+  }
 }

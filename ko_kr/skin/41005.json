@@ -24,6 +24,22 @@
     }
   ],
   "description": "특수 부대는 얼마나 특수할까요? 간단히 답해드리죠. 전체 군부대 중 오직 특수 부대만이 귤을 무제한으로 공급받고 있습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-09-12",
+    "set": [
+      "Commando"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "vu": true,
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "lore": "How special are the special forces? Let's put it this way: they're the only unit in the military with unlimited access to oranges."
+  }
 }

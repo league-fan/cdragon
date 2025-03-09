@@ -138,6 +138,54 @@
     }
   ],
   "description": "フレンドリーなグウェンはカフェの接客担当で、いつだって笑顔と緻密に並べたケーキで常連客たちを歓迎している。しかし、彼女を甘く見てはいけない。仲間たちに危害を加えようとする困った客がいれば、彼女はキャンディーカット用のハサミを別の目的に使用することもためらわない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Gwen is the friendly face of customer service for the cafe, always there to welcome patrons with a smile and an immaculately-plated pastry. Don't be fooled, though—she isn't afraid to use her candy-cutting shears for other things when rogue customers threaten her friends."
+  }
 }

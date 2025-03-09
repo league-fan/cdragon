@@ -24,6 +24,19 @@
     }
   ],
   "description": "忘れている者も多いが、エルダーウッドの中心地はかつて穏やかで心安らぐ場所だった。かつてそこにはフェアリーやシルヴァン、ドライアドといった種族が住み、興味深そうに人類を観察していた。現在はわずかな数がまばらに存在しているだけであり、ソラカのように人類に親しみを覚える者はさらに少ない。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-06-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-06-03",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "lore": "Too many forget that the heart of the Elderwood was once gentle and kind. Within its confines rested fae, sylvans, and dryads—creatures from another age, who looked upon humanity with curious eyes. Now only a scattered few remain, and fewer still, like Soraka, who regard humans fondly."
+  }
 }

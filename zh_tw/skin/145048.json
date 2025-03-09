@@ -160,6 +160,60 @@
     }
   ],
   "description": "父親遭祕密組織殘殺的凱莎，好不容易逃離城市，並加入了反抗軍。凱莎不願看到別人為她戰鬥，便決定犧牲自己的自由，以換來反擊的機會。她被賦予一個魔法紋身，沒有了它，她便無法生存，儘管如此，報仇所需的工具終於到手了，報仇不成功，她絕不罷休。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145048,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 55
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Inked": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Jasper": {
+        "id": 51
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A young survivor who lost her father to the Cabal, Kai'Sa fled the city and joined the Uprising. Refusing to allow others to fight a battle on her behalf, she sacrificed her independence for the chance to fight back, receiving a magical, symbiotic tattoo she needs in order to live. Kai'Sa finally has the tools to get revenge. She will see justice done."
+  }
 }

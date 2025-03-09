@@ -121,6 +121,50 @@
     }
   ],
   "description": "매우 특이한 신체 비율을 지닌 별 수호자 광팬 우르곳은 팬 미팅에 참석하기 위해 심혈을 기울여서 이 복장을 준비했습니다. 그러니 부디 놀리지 마세요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 6015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-01",
+    "set": [
+      "Definitely Not"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A Star Guardian superfan of almost impossible proportions, Urgot worked really hard on this outfit for the fan meet, so please be respectful."
+  }
 }

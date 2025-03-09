@@ -112,6 +112,48 @@
     }
   ],
   "description": "최고의 무기 장인으로 명성이 자자한 잭스는 제대로 된 무기와 화끈한 싸움을 갈망해 왔습니다. 그리고 신비로운 기술을 지닌 에스터크레스트 왕국 최고의 과학자들이 힘을 합쳐 불굴의 아발론을 만들었을 때, 잭스는 마침내 만족했죠. 그는 왕국을 침략하는 거대 괴수와의 싸움을 마다하지 않습니다. 오히려 자신이 평생을 찾아 헤매던 적수가 되길 바랄 뿐이죠.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Peacekeeper": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Famed as the greatest weapons master in all the land, Jax has been itching for a proper weapon, and a proper fight. When the best minds of the Estercrest Kingdom came together—using strange technology seemingly gifted to them by the heavens—to construct an indomitable Avalon, Jax was finally impressed. He welcomes the leviathan invasion, hoping these monstrous foes will prove to be the challenge he has been searching for his entire life."
+  }
 }

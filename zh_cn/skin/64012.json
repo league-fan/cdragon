@@ -203,6 +203,50 @@
     }
   ],
   "description": "凭借着在任何情况下都开启的第六感，李青可以让敌方球队草率的任意球变成世代相传的绝无仅有的操作。尽管这是他在联盟中的第一年，已经有一些观众认为他是球场中不可复制的瑰宝了。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2018-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-06-14",
+    "set": [
+      "Soccer Cup"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "With a sixth sense for openings in any and all situations, Lee Sin can turn the opposing team's sloppy free kick into a once-in-a-lifetime play talked about for generations to come. Though it's his first year in the majors, some are saying there may never be another player like him."
+  }
 }

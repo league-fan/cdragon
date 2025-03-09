@@ -24,6 +24,27 @@
     }
   ],
   "description": "「人工智慧 卡蜜兒」為了平定 G/NETIC 反抗軍而生，身為一個人造機器人殺手，她專門暗殺嘗試利用未授權科技進行叛亂的人類。她的體內植入了可以因應敵人能力而改變屬性的系統，下半身則被裝上如雷射般鋒利的足刃。冰冷無情的她直接受命於中央系統的高級人工智慧。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-12-12",
+    "earlysale": "2017-06",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Weaponized to quell the G/NETIC rebellion, Program Camille is a robotic assassin who will kill any human trying to utilize unauthorized technology. A being of adaptable protocols and laser-like focus, she takes her orders directly from Program's superior artificial intelligence."
+  }
 }

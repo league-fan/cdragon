@@ -138,6 +138,54 @@
     }
   ],
   "description": "ニーコは毎年恒例のフェスティバルで着るコスチュームをいつも買い忘れている。彼女の陽気な扮装は、彼女自身の変身能力とシェイプシフトの呪文によるものだ。ん？このパーティーにはニダリーが…二人いる？いや、そんなはずはない。またニーコがイタズラをしているのだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518022,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Hendry Iwanaga",
+      "Caravan Studio"
+    ],
+    "lore": "Neeko never remembers to buy a costume for the yearly festivities. Her delightful disguises come courtesy of her transfigurative talents and shapeshifting spells. Wait… are there two Nidalees at this party? Nope. That's just Neeko, pulling one of her classic pranks."
+  }
 }

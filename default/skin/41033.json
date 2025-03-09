@@ -142,6 +142,56 @@
     }
   ],
   "description": "Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41033,
+    "formatname": "PROJECT: Gangplank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good."
+  }
 }

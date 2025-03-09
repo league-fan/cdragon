@@ -147,6 +147,58 @@
     }
   ],
   "description": "사이온은 숨을 거두는 순간까지 자신의 행성을 파괴하려는 암흑의 별과 맞서 싸울 방법을 찾은 전사였습니다. 그 집요한 끈기에 매료된 벨베스는 죽어 가는 세계에서 사이온을 부활시켰습니다. 이제 힘과 폭력의 공성퇴가 되어 벨베스 옆에서 싸우는 그의 목적은 단 하나, 암흑의 별을 제거하는 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-30",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 45,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Sion was a warrior who found a way to fight his planet's destruction at the hands of the Dark Star to his dying breath. Bel'Veth, fascinated by his stubborn tenacity, raised him from that dying world. Now he fights by her side, a battering ram of force and violence turned towards a singular purpose: eliminating the Dark Star."
+  }
 }

@@ -138,6 +138,54 @@
     }
   ],
   "description": "人們都在流傳今年慶典主辦人勒布朗的故事！據說她以造成痛苦為樂，她能把南瓜燈籠的笑容變的上下顛倒。但她也有更為柔軟的一面，那是她持續隱藏著，連自己也不願面對的一面。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7045,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Turquoise": {
+        "id": 49
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Everyone shares spooky stories of LeBlanc, the host of this year's celebration! It's said she delights in causing misery; she can turn any Jack-o'-lantern's smile upside down. But there's a softer side to her as well, one she tries to keep hidden, even from herself."
+  }
 }

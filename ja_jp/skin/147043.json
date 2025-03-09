@@ -124,6 +124,51 @@
     }
   ],
   "description": "セラフィーンはかつてアニマ部隊の通信担当員で、チームを陰から支えていた。しかし、生まれ持つ優れた聴覚を活かしてバトルドーヴとなり、音波を武器にして攻撃する新たなアニマテックスーツを操って、戦場に鳴り響かせている！奇妙な救難信号を傍受したことで、彼女はチームを率いて、信号の発信源を見つけて救助に向かうという初めての任務に就くこととなった。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Nightwire": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Alsie Lau"
+    ],
+    "lore": "Seraphine was Anima Squad's comms officer, the \"girl in the chair\"—until she became the first Battle Dove, using her naturally sensitive hearing to operate a new AnimaTech suit that weaponizes sound waves to rock the battlefield! When she intercepts a strange distress call, Seraphine gets her first mission: find the source, and lead a team to the rescue."
+  }
 }

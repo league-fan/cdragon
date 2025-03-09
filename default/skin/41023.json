@@ -137,6 +137,55 @@
     }
   ],
   "description": "Energized by a mysterious amulet containing Viego of Camavor and wielding the Blade of the Ruined King, Gangplank's personality erupted as he raged in search of the long-lost Isolde. Though ultimately freed of the King's influence by a group of heroes, he carries the experience with him... a reminder, perhaps, of true power.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41023,
+    "formatname": "Gangplank the Betrayer",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-05",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "Energized by a mysterious amulet containing Viego of Camavor and wielding the Blade of the Ruined King, Gangplank's personality erupted as he raged in search of the long-lost Isolde. Though ultimately freed of the King's influence by a group of heroes, he carries the experience with him... a reminder, perhaps, of true power."
+  }
 }

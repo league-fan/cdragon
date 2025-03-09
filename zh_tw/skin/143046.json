@@ -137,6 +137,54 @@
     }
   ],
   "description": "只要看到枷蘿的作品，就知道她多有才華。她的藝術風格優雅、渾然天成地秀麗，讓冥橋市的市民為這個只聞其名的藝術家瘋狂。枷蘿用熟練的技巧在都市叢林的大街小巷畫上綻放的花朵，整個城市都是她的畫布。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 53
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Foritis Wang",
+      "Pandart Studio"
+    ],
+    "lore": "Zyra is a devil whose work speaks for itself. Famous enough to be known by a single-name moniker, she has captivated the people of Styxbridge with her elegant style and effortless grace. In Zyra's skilled hands, paint flowers across concrete and blooms in every alley, claiming each slice of the city as Zyra's own."
+  }
 }

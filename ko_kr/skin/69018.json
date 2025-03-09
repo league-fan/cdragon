@@ -160,6 +160,60 @@
     }
   ],
   "description": "그들은 안개 속 그림자가 되어 카시오페아를 찾아왔습니다. 무수히 많은 고대 무덤에서 은빛 코브라의 형체가 미끄러지듯 올라왔죠. 이제 인간 왕족에게 몰래 접근하는 카시오페아의 조각 정원에는 안전한 성벽에서 너무 멀리 벗어났다가 공포의 고통 속에 영원히 얼어붙어 버린 통제할 수 없는 영혼들이 가득합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 69018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Dark Ritual": {
+        "id": 27,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "They came to Cassiopeia as a shadow within the fog—the shape of the Silver Cobra, slithering up from the numberless graves of the ancient dead. She now stalks the ruling families of humankind, her sculpture garden full of wayward souls who strayed too far from the safety of castle walls, now eternally frozen in the throes of terror."
+  }
 }

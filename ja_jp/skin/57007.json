@@ -24,6 +24,25 @@
     }
   ],
   "description": "シーズン6にゴールド以上に到達したプレイヤーに授与された勝利の栄光マオカイ。勝利の栄光マオカイは上質な青と金色のローブを身に纏い、黄金色の葉の付いたつると根をファッショナブルに伸ばします。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2016-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57007,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2016-11-08",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "Victorious Maokai was awarded to players who reached Gold or higher in the 2016 season. Victorious Maokai lays down his roots fashionably with vines of golden leaves, and a rich blue and gold robe. "
+  }
 }

@@ -235,6 +235,45 @@
     }
   ],
   "description": "全体学生注意：鉴于目前校园内的蓄意破坏事件和捣乱的学生越来越多，女校长已经决定亲自出动处理这些事件。教导处特此提醒大家，与她单独相遇将非常危险，请大家仔细阅读校规不要犯错。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Academy"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Jasper": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      },
+      "Sapphire": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "lore": "ATTENTION ALL STUDENTS: Concerning the recent upswing in vandalism and general troublemaking, it has come to my attention these behaviors may be intended to draw the personal attention of our headmistress. The dean reminds students that such encounters can be fatal, and encourages them to re-read the Academy code of conduct. "
+  }
 }

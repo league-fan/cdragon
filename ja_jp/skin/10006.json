@@ -123,6 +123,51 @@
     }
   ],
   "description": "戦闘用EXOスーツ「X07-ゲブラー」の認定パイロットであるケイルは、宇宙の無法地帯の奥深くで活動する王立宇宙軍所属の正義の執行者である。元々の任務は戦後の平和維持活動だったが、過酷な環境と尽きぬ暴力によって急進的な考えを持つようになった。今では目にとまる者すべてに裁きを下し、自ら刑を執行する冷酷な法の執行官となっている。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2013-01-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2013-01-18",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Ace": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Amethyst": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Authorized pilot of the X07-Gevurah combat exosuit, Kayle is a justicar of the Royal Space Military operating deep in the heart of lawless space. Though her mission is to uphold the fragile postwar peace, years of violent conflict have radicalized her—now she acts as heartless judge, jury, and executioner for anyone or anything that falls beneath her gaze."
+  }
 }

@@ -24,6 +24,19 @@
     }
   ],
   "description": "PAX 2009で配布されたスペシャルイベントスキン。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2009-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4001,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Code Redemption",
+    "cost": "Special",
+    "release": "2009-09-03",
+    "set": [
+      "PAX"
+    ],
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "lore": "A special event skin given away at PAX 2009."
+  }
 }

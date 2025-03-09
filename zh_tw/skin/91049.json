@@ -138,6 +138,54 @@
     }
   ],
   "description": "塔隆是一位無情的刺客，受到許多人的敬畏。他環遊世界，只為了一個目標：消滅除了他以外所有的幸運之爪。當他聽說有一個會緊咬著目標不放的傭兵被雇來搶在他前面拿下幸運之爪的領袖，他感到十分欣喜，因為新的狩獵即將展開。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91049,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 52
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Pearl": {
+        "id": 58
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "A ruthless assassin feared and respected by many, Talon roams the world with one goal: eliminate each and every other Favorclaw until only he remains. When he catches wind that a stubborn mercenary was contracted to take down the leader of the Favorclaw before he can complete his mission, he gleefully realizes that a new hunt is about to begin."
+  }
 }

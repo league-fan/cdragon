@@ -157,6 +157,58 @@
     }
   ],
   "description": " 蕾欧娜从小就是拂晓王国国主的掌上明珠。当利维坦出现在她祖国的海岸上时，她奉命掌管王国的武装力量，成为她人民的女族长。作为回报，宫廷里心怀感激的学者们赠予她一台阿瓦隆。这是一台庞大的人工驾驶机甲，以她家园的怪物们的生命精华作为动力。现在，她毫无畏惧地矗立着，带领着一望无际的海军们前往战斗。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 14
+      },
+      "Peacekeeper": {
+        "id": 13,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Tanzanite": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Leona grew up as the favored daughter of the Dawnrise Kingdom. When the leviathans appeared on her homeland's shores, she took command of her realm's forces, becoming the matriarch of her people. In return, the grateful scholars of her court gifted her an Avalon, an immense pilotable mech powered by the life essence of the very monsters that threatened her home. Now, she stands fearless, leading vast navies into war."
+  }
 }

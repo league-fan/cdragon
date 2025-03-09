@@ -137,6 +137,53 @@
     }
   ],
   "description": "露璐跟得力的二廚皮克斯在製作甜點時，總是能滿足愛吃甜食的人！他們魔法糕點的香味一飄散出來，就連最不守規矩的客人都會馬上像被施了魔法般聽話。聽說他們的點心美味到甚至有改變現實的能力……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Sweet tooths are always satisfied when Lulu and her helpful sous-chef Pix are crafting the desserts! Just one whiff of their pastry magic concoctions is enough to enchant even the most unruly customers. Some say their treats are so captivating that they even have reality altering effects…"
+  }
 }

@@ -129,6 +129,52 @@
     }
   ],
   "description": "世界が破滅を迎えたとき、家族を失ったヴァルスはすでに復讐の感情に取り憑かれていた。彼は生き延びただけでなく、ノクターンの仕業で彼の世界を訪れた2人の荘厳の天球であるカイとヴァルマーを自身の弓の中に吸収してしまった。フォアグローによって怒りをかき立てられ、ヴァルスはすべての荘厳の天球を消し去ることを誓っている──たとえ新たな「友人」が彼になんと言おうとも。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110053,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 55
+      },
+      "Neon Facade": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Turquoise": {
+        "id": 56
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "Having lost his family, Varus was already consumed by vengeance when his realm collapsed. Not only did he survive, due to Nocturne's meddling, but two visiting Empyreans, Kai and Valmar, were absorbed into his bow. With the Foreglow stoking his rage, Varus vows to wipe out every last Empyrean, no matter what his new \"friends\" say."
+  }
 }

@@ -24,6 +24,25 @@
     }
   ],
   "description": "維克特是「狂派機甲」機械大軍的創造者，在將活體大腦移植到大量生產的低技術武器上，他達到的完美境界已經可以稱之為藝術。然而這距離他想達成的偉業還遠遠不及，現在他為了摧毀反抗者，依然不斷地在研發更新穎致命的作品。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-09-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-09-30",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "The creator of the Battlecast machine army, Viktor has perfected the art of transplanting living brains into low-tech, mass-produced weapons. But his work is far from complete, and even now he tinkers on newer, deadlier creations to crush all who oppose him."
+  }
 }

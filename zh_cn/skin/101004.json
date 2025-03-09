@@ -33,6 +33,25 @@
     }
   ],
   "description": "泽拉斯，液态之光——远古的沙之守护，我们唤醒它们来保护我们免受恶灵——一个由我们亲手创造的恶灵——的荼毒。让这片圣土无人踏足，以免他们被淹没在你净化一切的圣辉之中。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-04-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-04-26",
+    "earlysale": "2015-12",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Xerath, the liquid light—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance."
+  }
 }

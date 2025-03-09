@@ -25,6 +25,20 @@
     }
   ],
   "description": "據說寇格魔臉上的紅鼻和頭上的鹿角來自於之前某隻被牠吞噬掉的可愛生物。不論這個傳言是否可信，牠都是現在最受歡迎的馴鹿。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2010-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "It is rumored that Kog'Maw stole his glowing nose and deer antlers from a particularly adorable creature he devoured. Whether or not the theory is true, Kog'Maw is now the most famous reindeer of all."
+  }
 }

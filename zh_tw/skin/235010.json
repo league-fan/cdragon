@@ -119,6 +119,51 @@
     }
   ],
   "description": "姍娜曾是這片土地上最偉大的神槍手。她的生命因被惡魔撕扯出心臟而告終 ─ 但更高等的存在介入了。她帶著一顆天使的心臟和一匹惡魔駿馬神祕地復活了，並重返西域，致力於恢復天堂和地獄的平衡…直到她認為合理的程度。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-06-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-06-18",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 15
+      },
+      "Mythic": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Once the greatest gunslinger on the continent, Senna's life would have ended when her heart was torn out by the devil—save for the intervention of a higher authority. Mysteriously resurrected with the heart of an angel and a demonic steed, she has returned to the west to restore the balance of Heaven and Hell... however she sees fit."
+  }
 }

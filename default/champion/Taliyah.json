@@ -13,48 +13,225 @@
       "name": "Taliyah",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-05-17",
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe. Some have mistaken her compassion for weakness and paid the ultimate price—for beneath Taliyah’s youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth itself tremble."
+      }
     },
     {
       "id": 163001,
       "name": "Freljord Taliyah",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-05-17",
+        "earlysale": "2016-10",
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ]
+      }
     },
     {
       "id": 163002,
       "name": "SSG Taliyah",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-07-20",
+        "set": [
+          "World Champions: 2017"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Rudy Siswanto",
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Crown's winning performance as Taliyah during the 2017 World Championship."
+      }
     },
     {
       "id": 163003,
       "name": "Pool Party Taliyah",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-02",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Aquamarine": {
+            "id": 5
+          },
+          "Catseye": {
+            "id": 7
+          },
+          "Peridot": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Sean 'Raiko' Tay",
+          "West Studio"
+        ],
+        "lore": "Taliyah once attempted to describe surfboarding to a perplexed Jarvan, using such terms as “get pitted”, “tubular”, and “ride the barrel”. She's pretty sure he still has no idea what she was talking about."
+      }
     },
     {
       "id": 163011,
       "name": "Star Guardian Taliyah",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-07-28",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Brilliant": {
+            "id": 20,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Star Guardian 2022"
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          },
+          "Tanzanite": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "A rowdy, boisterous fighter by night and a somewhat reserved first year student by day, Taliyah's missions with the Star Guardians are a chance for her to discover the kind of person she wants to become. Surfing across the city on a giant wave of starlight, she's okay with taking her time."
+      }
     },
     {
       "id": 163021,
       "name": "Crystalis Motus Taliyah",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163021,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2023-09-13",
+        "set": [
+          "Crystalis Motus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Reclaimed": {
+            "id": 22,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "When the Prismae Crystals began to appear, everyone on Motus reacted differently. Locked to their island, Taliyah's people viewed them not as a threat, but as an extension of nature. Now in symbiotic harmony with the crystals on their bodies, Taliyah's people are stronger than ever, and she ventures to the mainland to put her powers to the test."
+      }
     }
   ]
 }

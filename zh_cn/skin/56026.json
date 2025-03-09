@@ -165,6 +165,61 @@
     }
   ],
   "description": "作为一种梦魇般的次元寄生虫，魔腾被盈晖所吸引并且——当它挖掘出其力量的原始形态时——无意中创造了第一次次元崩溃和第一个至高天，派克。随着盈晖破坏了它原来的外观，魔腾试图对盈晖进行进一步实验，并找到新的方法来满足它的饥饿。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Neon Facade": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger."
+  }
 }

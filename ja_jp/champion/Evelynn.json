@@ -13,128 +13,610 @@
       "name": "イブリン",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "585",
-      "wikiReleaseDate": "2009-04-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-04-30",
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Within the dark seams of Runeterra, the demon Evelynn searches for her next victim. She lures in prey with the voluptuous façade of a human female, but once a person succumbs to her charms, Evelynn’s true form is unleashed. She then subjects her victim to unspeakable torment, gratifying herself with their pain. To the demon, these liaisons are innocent flings. To the rest of Runeterra, they are ghoulish tales of lust gone awry and horrific reminders of the cost of wanton desire."
+      }
     },
     {
       "id": 28001,
       "name": "シャドウ イブリン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "set": [
+          "Death Sworn"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ]
+      }
     },
     {
       "id": 28002,
       "name": "仮面舞踏会イブリン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-17",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Andrew Theophilopoulos"
+        ]
+      }
     },
     {
       "id": 28003,
       "name": "タンゴ イブリン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-10-05",
+        "set": [
+          "High Society"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      }
     },
     {
       "id": 28004,
       "name": "金庫破りイブリン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-11-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Mara Junot"
+        ]
+      }
     },
     {
       "id": 28005,
       "name": "ブラッドムーン イブリン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2018-05-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2018-05-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "A seductive demon summoned on the night of the Blood Moon, Evelynn moves between isolated villages, wooing the residents until they fall deeply in love with her. One by one these poor souls will surely perish, their hearts torn from their still-living bodies."
+      }
     },
     {
       "id": 28006,
       "name": "K/DA イブリン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28006,
+        "formatname": "K/DA Evelynn",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "No one is as deliciously volatile as Evelynn. She's a diva who drives divisiveness in the media—they love her one day and hate her the next, her name a permanent fixture of tabloid headlines. She is a born superstar, and the foundation of K/DA's sound."
+      }
     },
     {
       "id": 28007,
       "name": "プレステージ K/DA イブリン",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28007,
+        "formatname": "Prestige K/DA Evelynn",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-04-18",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 6,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now."
+      }
     },
     {
       "id": 28008,
       "name": "シュガーラッシュ イブリン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-12-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Jasper": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sweet Tooth": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "In a world where every tooth is sweet, Evelynn's sugary bite is deadly."
+      }
     },
     {
       "id": 28015,
       "name": "K/DA ALL OUT イブリン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28015,
+        "formatname": "K/DA ALL OUT Evelynn",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "BADDEST": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "With a single devastating glance, Evelynn can ensure that all eyes are on her—when she wants them to be. K/DA's success has ensured that this provocative diva's name will be on everyone's lips, but Evelynn is intent that her killer fashion sense will keep it there."
+      }
     },
     {
       "id": 28024,
       "name": "盟約の魔女イブリン",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-08-12",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Dark Ritual": {
+            "id": 30,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The covens of the south join their sisters for the great resurrection, as old things stir once more, and old grudges are at last repaid in full. Evelynn, daughter of the Great Harrier, gladly joins her sisters for the darkness to come—a trail of brutality and death always in her wake."
+      }
     },
     {
       "id": 28031,
       "name": "プレステージ K/DA イブリン(2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28031,
+        "formatname": "Prestige K/DA Evelynn (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now."
+      }
     },
     {
       "id": 28032,
       "name": "精霊の花祭りイブリン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28032,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 34
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Night Blossom": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 39
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 33,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 36
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "Come. Leave your flesh behind and pass into the Spirit World. Bring with you only your desires, your vices, your painful memories. Let the Spirit of Love feed on these unwanted temptations, for her hunger is ravenous. Evelynn will show you peace at last."
+      }
     },
     {
       "id": 28042,
       "name": "ソウルファイター イブリン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Limitless": {
+            "id": 51,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Peridot": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Most awaken their souls through hard work, but this fighter... no! All it took was a stop by the Department for the Eradication of Manifested Anomalies and boom! Cobra powers. SURE, apparently the procedure involves the \"worst pain one can possibly imagine.\" But look at her now! Here to hunt down a daughter with nowhere left to run... it's Evelynn!"
+      }
     },
     {
       "id": 28052,
       "name": "荒野のイブリン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28052,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-20",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 60
+          },
+          "Emerald": {
+            "id": 55
+          },
+          "Noonday": {
+            "id": 62,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "High Noon 2024"
+          },
+          "Obsidian": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 59
+          },
+          "Ruby": {
+            "id": 54,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 58
+          },
+          "Tanzanite": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 57
+          },
+          "Vendetta": {
+            "id": 63,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "High Noon 2024 Premium Pass Bundle"
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "The poor man looks haunted. Perfect. Evelynn leans over the bar top towards him with a sweet smile curling her red lips: “Tell me your woes, handsome.” And he does. He tells her of his brother, and a raw deal, and how he thinks he might be dead now but ain't sure... and the devil drinks deep. “It's alright, darlin',” she coos. “I've got you now.”"
+      }
     },
     {
       "id": 28053,
       "name": "プレステージ荒野のイブリン",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28053,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-03-20",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 52,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Alsie Lau"
+        ],
+        "lore": "Ateliers near and far always ask Evelynn to wear their haute couture, but for this Gala, she's bringing her edgy elegance to a rowdier line of Western wear instead. What is fashion if not a wild new frontier? If there's anyone who knows how to take style by the reins and ride it into the sunset, it's this rodeo queen."
+      }
     }
   ]
 }

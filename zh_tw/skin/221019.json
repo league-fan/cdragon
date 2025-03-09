@@ -138,6 +138,54 @@
     }
   ],
   "description": "曾是棄嬰的婕莉被一個發明家家族收養，讓她也跟著愛上了敲敲打打。他們給她的愛促成她深深希望能夠幫助別人，勝過幫助自己，而因為她天資聰穎，她的家人幫她付了學費，讓她進入淬念學院就讀。作為充滿了夢想與好奇心的學生，婕莉將會用永生的力量幫助所有需要幫助的人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Orphaned as a baby, Zeri was taken in by a family of inventors who cultivated her tinkering tendencies. Their love ignited a deep desire to help others over herself, and because of her prodigious talents, her family paid her admission to the Tempered Faith School. A student full of dreams and curiosity, Zeri will use immortality to help everyone she can."
+  }
 }

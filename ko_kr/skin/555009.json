@@ -108,6 +108,48 @@
     }
   ],
   "description": "핏빛달의 평행 차원. 그 어둠 속에는 포악한 작살잡이가 도사리고 있습니다. 파이크는 끝없는 심해에 갈고리를 던져 세상의 밑바닥에서 건져 올린 악마들을 인간에게 주입합니다. 하필 핏빛달이 떠오를 때 갑작스럽게 아이오니아에 등장한 파이크. 아무래도 끔찍한 흉조가 아닐 수 없겠죠...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-10",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "A demonic spearfisher lurking within the darkness of the Blood Moon's mirror dimension, Pyke casts his hooked blade across an endless, liquid night, dragging demons up from the bottom of the world and into their human hosts. Inexorably tied to the Blood Moon, Pyke's sudden appearance in Ionia is a dire omen indeed…"
+  }
 }

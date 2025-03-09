@@ -136,6 +136,44 @@
     }
   ],
   "description": "ゼドは雷刃の一団の精鋭工作員であり、雷の如き迅速さで戦闘に飛び込んでいく。以前の相棒であるシェンは、ゼドの命を危険にさらしたことを今でも悔いているが、ゼドは彼が早く最前線に戻ってくるように促している。だが、二人が再び相棒となるかどうかにかかわらず、“嵐”の怒りは激しさを増している。ゼドは必要とあらば、その怒りを一人で担うつもりだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-11-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-11-13",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An elite operative of the Shockblade order, Zed dives into battle with lightning-fast lethality. Though his former partner Shen hasn't forgiven himself for nearly getting Zed killed, Zed still urges him to return to the front lines; and yet the Storm rages on, whether or not the duo are reunited. Zed will bring its fury to bear alone if he must."
+  }
 }

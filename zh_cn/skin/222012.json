@@ -33,6 +33,24 @@
     }
   ],
   "description": "大师级玩具工匠兼发明家金克丝相信，自己有朝一日一定会成为最伟大的圣诞使者。其他小精灵担心她的作品会被看作是武器……但有的时候这就是真正实现野心的代价。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-12-12",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "A master toy maker and inventor, Jinx believes she could one day become the greatest Santa anyone has ever seen. Other elves worry her creations could be classified as weapons... but sometimes that's the price of true ambition."
+  }
 }

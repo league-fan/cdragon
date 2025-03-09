@@ -33,6 +33,19 @@
     }
   ],
   "description": "隐藏在巨大的冰盖之下的某处，潜伏着一个魔鬼，以那些蠢到敢进入他领地的人们的恐惧为供养。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-03-15",
+    "set": [
+      "Glacial"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "lore": "Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain."
+  }
 }

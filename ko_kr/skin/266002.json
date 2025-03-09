@@ -89,6 +89,36 @@
     }
   ],
   "description": "ATRX-1으로 명명된 메카 아트록스는 활공하는 괴수에 대응하기 위해 제한적인 비행능력을 탑재하여 개발된 유닛입니다. 또한 메카 아트록스는 잔여 광입자를 이용해 칼날을 뜨겁게 달굴 수 있는 열검을 휘두릅니다. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-07-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-07-23",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 4
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Designated ATRX-1, the “Mecha Aatrox” unit was developed in response to 'gliding' kaiju with the capability of limited flight. In addition, ATRX-1 wields a thermal blade that can turn residual light particles into a heated cutting edge. "
+  }
 }

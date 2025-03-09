@@ -142,6 +142,54 @@
     }
   ],
   "description": "洛之前满足于在巴比隆学院按部就班地度过校园生活。然后他在去年的舞会上看到了霞——然后就像被闪电击中了一样。现在，他有了一段火热的新恋情，他设法说服自己成为博识俱乐部的部长，这样他就可以参加比赛，看到他心爱之人最美的样子。如果他们赢了呢？那就更棒了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": null
+  "wikiSkinData": {
+    "id": 497047,
+    "availability": "Upcoming",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "N/A",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 55
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Rakan was content to coast his way through Babylon Academy. Then he saw Xayah at last year's prom—and ditched his date for her. Now in a fiery new relationship, he's managed to talk his way into becoming captain of the Luminary Club, just so he can be at the tournament and see his love at her best. If they win? Even better."
+  }
 }

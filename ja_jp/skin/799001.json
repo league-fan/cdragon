@@ -113,6 +113,49 @@
     }
   ],
   "description": "狼よ、お前が選びし者がやってきた。彼女の前に生まれた者たちは、この時のために道を整えてきたのだ。メダルダ家は彼女と生まれなかった彼女の子の喪失を嘆くだろう… だが、私にはまだ彼女を生者と結びつける糸が見える。戦乱の母、アンベッサ。彼女の運命はヴォラクヌンにあるのだろうか？",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 799001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "transforming": true,
+    "chromas": {
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 5
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Ellen Thomas"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Your chosen has arrived, dear Wolf. Those who came before her paved the way for this moment. The Medardas will mourn the loss of her and her unborn child… and yet I see a thread that ties her still to the living. Ambessa, the Matriarch of War. Does her destiny lie in Volrachnun?"
+  }
 }

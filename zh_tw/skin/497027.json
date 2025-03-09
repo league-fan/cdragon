@@ -133,6 +133,54 @@
     }
   ],
   "description": "銳空經常禍從口出，有一天他嘗試偷弗拉迪米爾的東西時被逮到，差點丟了性命，醒來後發現自己變成了不滅鬼神，而這都是多虧了他的愛人剎雅。當剎雅四處奔波為他還債時，銳空能感覺到自己的渴望越來越強烈，仿佛正在逐步變成自己懼怕的怪物。不過，他最害怕的，是被伴侶發現這個祕密。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Rakan's mouth always got him into trouble, and after getting caught stealing from Vladimir and nearly killed, he awoke to find himself a newly turned Neverghaast, thanks to his beloved Xayah. In the time they've been separated while she repays his debt, Rakan can feel his thirsts grow and dreads showing his partner the monster he fears he's becoming."
+  }
 }

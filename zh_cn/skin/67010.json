@@ -69,6 +69,33 @@
     }
   ],
   "description": "薇恩曾经是猎杀所有被污染者的猎手，现在却成为了她曾经想要摧毁的事物。她扭曲的思想扭曲了她的感知，使她在每一个生物中都看到了一个敌人。她肆无忌惮地夺取灵魂，良心上丝毫没有沾染这些卑鄙行为的污点。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2016-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67010,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2016-07-28",
+    "set": [
+      "Soulstealer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "First Decennial": {
+        "id": 53
+      },
+      "Tenfold Triumph": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Once a hunter of all things tainted, Vayne has become the very thing she sought to destroy. Her twisted mind warps her perception, causing her to see an enemy in every living thing. She takes souls with impunity, with no stain of these vile deeds upon her conscience."
+  }
 }

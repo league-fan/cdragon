@@ -25,6 +25,27 @@
     }
   ],
   "description": "After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202004,
+    "formatname": "PROJECT: Jhin",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-22",
+    "earlysale": "2018-05",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity."
+  }
 }

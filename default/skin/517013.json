@@ -155,6 +155,62 @@
     }
   ],
   "description": "A self-styled leader of the outcasts who live beyond the city's walls, Sylas has heeded Ashe's call and rallied the Renegades in defense of the City. Though his true motives are the collapse of PROJECT and the capital surveillance state, for now he's content destroying the armies of a dangerous rogue AI.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517013,
+    "formatname": "PROJECT: Sylas",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 19
+      },
+      "Reckoning": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "A self-styled leader of the outcasts who live beyond the city's walls, Sylas has heeded Ashe's call and rallied the Renegades in defense of the City. Though his true motives are the collapse of PROJECT and the capital surveillance state, for now he's content destroying the armies of a dangerous rogue AI."
+  }
 }

@@ -53,6 +53,35 @@
     }
   ],
   "description": "慎依然在城堡的场地上行走，秉承着他那已被击杀的统帅的信念，挥舞着他主人的刀刃和他自己的刀刃。或许他的一小部分意识到，当寻求古代财富的旅行者每次打击他的盔甲时，他的守卫是毫无意义的。但生命必须有意义。即使是如此无穷无尽的生命。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98049,
+    "availability": "Rare",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-03-23",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "A devotee of the principles of his now slain leader, Shen still walks the castle grounds, wielding his master's blade alongside his own. Perhaps some small part of him recognizes, with each blow to his armor from travelers seeking ancient riches, that his guard is senseless. But life must have meaning. Even life as endless as this."
+  }
 }

@@ -173,6 +173,47 @@
     }
   ],
   "description": "ボール？ オーケー。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2018-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 33008,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-06-14",
+    "set": [
+      "Soccer Cup"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Be the ball."
+  }
 }

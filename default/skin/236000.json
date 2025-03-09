@@ -73,6 +73,30 @@
   "rarityGemPath": null,
   "skinLines": null,
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236000,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-08-21",
+    "chromas": {
+      "Blue": {
+        "id": 5
+      },
+      "Red": {
+        "id": 4
+      },
+      "Yellow": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Andrew 'Silver' Silver",
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance… but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist."
+  }
 }

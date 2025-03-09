@@ -48,6 +48,32 @@
     }
   ],
   "description": "有一國的傳說是這樣子的：雷玟的劍以龍焰鍛造，於一場惡戰後降落在敵方的飛地裡。她橫掃千軍，殺光了所有敵人並釋放俘虜；任何奴役無辜者之徒，都將遭她碾碎。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-01-28",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "One tale of the kingdoms tells of Riven, her sword forged in dragonfire, descending into an enemy enclave in the aftermath of battle. Slaying her foes and freeing their captives, she rampaged across the countryside, crushing any who would enslave the innocent."
+  }
 }

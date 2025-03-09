@@ -133,6 +133,54 @@
     }
   ],
   "description": "作为终极绝息者——至少对他自己而言——弗拉基米尔只关心填饱他的自身和自尊。尽管他并非不屑于以合适的价码为别人提供帮助，比如那个“白痴”洛，但除了在教众中找到传说中的灵息之井以外，他与这场战争没有任何利害关系。他沾沾自喜地认为，这样的力量在他手中肯定会更好。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "The ultimate Neverghaast, at least to himself, Vladimir cares only about feeding himself and his ego. Though he is not above helping someone for the right price, like that \"idiot\" Rakan, he has no stake in the war beyond finding the fabled well of Aspira within the congregation. Such power, he smugly reasons, would surely be better in his hands."
+  }
 }

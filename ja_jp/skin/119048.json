@@ -160,6 +160,60 @@
     }
   ],
   "description": "ドレイヴンは命懸けのショーを披露しながら、栄光の炎に包まれて消えることを夢見てきた。だが、ドレイヴンがその望みを叶えたとき、彼の最期を見届けた者は一人としていなかった。そして、エイドラ・ムエルテとなり少しだけ謙虚になったドレイヴンは、エゴ一家の中に同士を見出した。彼はいま、生者たちの中から栄光に飢えた者を探しだし、アルドールの力を巧みに使って、スタイリッシュにあの世へと送っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119048,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 56
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 53
+      },
+      "Vivida": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Draven always dreamed of going out in a blaze of glory during his daredevil act, but when he got his wish, nobody was around to savor it. Only slightly humbler as an Eidola Muerte, Draven's found his kin within the Ego Family and spends his time spotting other glory hounds among the living, using his manipulative Ardor powers to send them off in style."
+  }
 }

@@ -132,6 +132,54 @@
     }
   ],
   "description": "역사를 통틀어 습격자들은 잔혹함과 교활함 사이에서 날카로운 균형을 이루었습니다. 현재 체제를 이끄는 한 쌍의 지도자 중 한 명인 클레드 장군은 역사적 잔혹함의 진정한 화신, 그 이상입니다. 신 짜오가 아니었다면 클레드는 잔혹한 최종 전투에 모든 것을 걸었을 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Marauder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Throughout history, the Marauders have balanced on the knife's edge between brutality and cunning. General Kled, one half of the pair that currently leads the regime, is truly the incarnation of their historic brutality… and little more. If it weren't for Xin Zhao, Kled would bet everything on a final, bloody, battle."
+  }
 }

@@ -160,6 +160,61 @@
     }
   ],
   "description": "弗力貝爾是代表憤怒與戰爭的神靈，許多復仇心切的人都曾與他定下契約，但只有烏迪爾活超過了一年。無論與他簽立契約的人成功復仇或是死於非命，只要有人死，他的力量就越變越強。力量越強代表會有更多恣意妄為的人來找他定契約，因此弗力貝爾的力量更是源源不絕。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 24
+      },
+      "Inked": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "A spirit of fury and war, many vengeful souls have made contracts with the Volibear, and only Udyr has survived for longer than a year. Whether his charges succeed in taking revenge or meet violent ends, each one who dies gives him more power. More power means more wayward mortals seek him out for contracts—and thus the bear will never go hungry."
+  }
 }

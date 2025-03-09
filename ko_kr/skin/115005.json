@@ -24,6 +24,25 @@
     }
   ],
   "description": "직스는 과학과 마법을 함께 연구하며 전 세계에서 마법의 유물과 금지된 고서를 누구보다 많이 수집한 괴짜입니다. 이 신비한 지식을 이용해 폭탄을 만들죠. 마법의 힘을 가진 커다란 폭탄을요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-05-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-05-06",
+    "earlysale": "2015-12",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones."
+  }
 }

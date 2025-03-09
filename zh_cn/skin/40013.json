@@ -148,6 +148,50 @@
     }
   ],
   "description": "迦娜最爱的季节又来了——这个时节里，黑暗的灵体从地上升起，并且隐藏的糖果宝藏将被所有人享用。做出你最棒的乔装，然后驰骋入黑夜中，因为巫聚时分即将来临！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40013,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-24",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Golden": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      },
+      "Rainbow": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "It's Janna's favorite season once again—when dark spirits rise from the earth, and hidden troves of candy are enjoyed by all. Don your best disguise and ride into the night, for the witching hour is upon us!"
+  }
 }

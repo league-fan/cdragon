@@ -48,6 +48,34 @@
     }
   ],
   "description": "嘉文曾是凡人的帝王，他的世界被摧毀，但他並沒有因此所困。嘉文的本質被太空深處的不老力量重新塑造。他永遠失去了自己的人性以及子民，並準備好迎接幽冥煞星的降生，最終，他會征服所有的存在。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-03-01",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence."
+  }
 }

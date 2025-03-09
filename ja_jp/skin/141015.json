@@ -84,6 +84,43 @@
     }
   ],
   "description": "悪魔との一体化は、ほぼ終えていた。ケインは自らの内側で、ブラッドムーンの悪魔がうごめくのを感じ取る。だがその時、スノームーンのアサシンたちによる襲撃が起こった。ブラッドムーンの寺院にいたケインは彼らの寺院へと連れ去られ、スノームーン教団に入信さられた──彼にとっては馴染みのない、骨身の凍るような古代の方法で。しかし、彼らがケインの精神をいつまで飼いならしておけるかは、誰にも分らない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 141015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-23",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Meteorite": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "The communion was nearly complete. Kayn could feel the Blood Moon demon writhing within. It was then that the Snow Moon assassins struck. Stolen away from that temple into theirs, Kayn was inducted into the Snow Moon Order, their ancient ways piercing and unfamiliar. Only time will tell if their taming of his spirit holds."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "从姊妹城市搬来的不只有芮尔，还有奎因和她的佣兽华洛。这对搭档是一个充满活力的怪兽战斗组合，在家乡非常出名……从面具到一切。瓦洛兰城代表着她们从寻常之中迈出了一大步，而这对搭档已准备好与黑暗作战，因为只有他们知道该怎么做。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 133014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Lauren Mayhew"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Hailing from a sister city along with Rell, Quinn and her familiar Valor are known back home as a dynamic monster-fighting duo... mask and all. Valoran City represents a big step up from what they're used to, but the two are ready to fight the darkness as only they know how."
+  }
 }

@@ -143,6 +143,57 @@
     }
   ],
   "description": "卡特琳娜是一个与杜朗德尔学院的政治活动保持远离的顽劣独行者。作为一个秉性好斗的二年级学生，她也是刺客俱乐部的一名顶级成员——这个俱乐部也是仅有的一个允许在学校批准的决斗中击杀对手的校内俱乐部。鲜有其他学生敢靠近她。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-15",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 18
+      },
+      "Formal": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 16
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Atey Ghailan"
+    ],
+    "lore": "Katarina is a rough-edged loner who stays far away from the politics of Durandal Academy. A 2nd year student with a chip on her shoulder, she is also a top member of the Assassin Club—the only club on campus allowed to kill opponents in school-sanctioned duels. Few other students ever dare approach her."
+  }
 }

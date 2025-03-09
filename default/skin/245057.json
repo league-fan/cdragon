@@ -49,6 +49,33 @@
     }
   ],
   "description": "While the future of Piltover and Zaun is unclear, one thing remains constant—Ekko's dedication to those he loves, and to the future of Zaun. Armed with his Z-Drive, he is ready to fight for that future, even if the odds are stacked against him. Luckily, the boy savior still has a few tricks up his sleeve…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245057,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 58,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "While the future of Piltover and Zaun is unclear, one thing remains constant—Ekko's dedication to those he loves, and to the future of Zaun. Armed with his Z-Drive, he is ready to fight for that future, even if the odds are stacked against him. Luckily, the boy savior still has a few tricks up his sleeve…"
+  }
 }

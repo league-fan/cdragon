@@ -137,6 +137,54 @@
     }
   ],
   "description": "ひょんなことから、振り回すたびにとっても美味しいスイーツが現れる魔法のハンマーを見つけたポッピーは、カフェのお腹を空かせたお客さんたちにスイーツを振る舞うことこそが自分の天職なのだと悟った！だが、彼女の仲間に迷惑をかける者は…彼女のスイーツが必ずしも甘いだけではないことを思い知らされることになる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 41
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "After stumbling upon a magical hammer said to leave behind the tastiest treats from every swing, Poppy discovered her true calling: feeding the cafe's hungry customers! Anybody who messes with her friends, though… might find out that those treats aren't always so sweet."
+  }
 }

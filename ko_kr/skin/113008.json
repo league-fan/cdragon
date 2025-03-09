@@ -160,6 +160,53 @@
     }
   ],
   "description": "싸구려 폭약으로 만든 채찍을 든 채 거대한 돼지를 타고 다니는 세주아니는 스스로를 이번 설맞이 축제에서 가장 주의해서 지켜봐야 할 사람으로 굳게 믿고 있습니다. 주의해서 지켜보지 않으면 돼지와 함께 돌진해 깔아뭉개 버릴 수도 있으니, 조심해야겠죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113008,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-28",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 10
+      },
+      "Golden Tiger": {
+        "id": 27,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "Charging forth on her giant pig and swinging a whip made from low-grade explosives, Sejuani has firmly cemented herself as the woman to watch this Lunar Revel. Because if you're not watching her she'll trample you, and you'll die."
+  }
 }

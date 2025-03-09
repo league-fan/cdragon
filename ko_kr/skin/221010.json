@@ -137,6 +137,53 @@
     }
   ],
   "description": "남서부에서 온 전도유망한 물 조련사 제리는 바다의 노래 축제에 풍덩 빠져들고 있습니다. 자신만의 무대를 선보이는 건 이번이 처음이라 눈도장을 제대로 찍기 위해 조금 과감한 쇼를 계획했죠. 약간의 과한 자극은 누구나 좋아하잖아요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An up and coming Water Tamer from the Southwest, Zeri is diving into the Ocean Song Festival headfirst. This is her first time handling a stage on her own, and she may have gone a little overboard with her showstopper plans in order to give herself a calling card. Everybody loves a little overstimulation, right?"
+  }
 }

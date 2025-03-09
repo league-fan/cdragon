@@ -124,6 +124,48 @@
     }
   ],
   "description": "ドレイヴンはかつてヴァーセンティアで将来を期待された将軍だったが、もはや誰かの栄光のために戦うことは望んでいない。彼は独立した傭兵として理想の生活を送るようになり、戦いで魅せる傭兵として名をあげるようになった。彼がアヴァロンの製造に必要な資源をどうやって入手することができたのかは、未だに謎に包まれている…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Peacekeeper": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Once a promising general of Vercentia, Draven no longer wished to fight for someone else's glory. Now living his best life as an independent mercenary, he has made a name for himself and his showmanship in battle. To this day, how he managed to acquire the resources necessary to craft an Avalon remains a mystery…"
+  }
 }

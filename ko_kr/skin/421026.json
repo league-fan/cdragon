@@ -170,6 +170,64 @@
     }
   ],
   "description": "최후의 도시는 높은 장벽을 건설해 수없이 많은 태고족의 위협으로부터 시민들을 보호합니다. 렉사이는 이러한 장애물 앞에서 미소를 짓거나 크고 고통스럽게 끽끽거리는 웃음소리를 흉내 내곤 합니다. 지하에 터널을 뚫을 수 있도록 진화한 렉사이는 이상적인 침입자로 최후의 도시를 주목한 최초의 태고족이지만... 마지막 태고족은 아닐 겁니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Primordian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Abyssal": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Amethyst": {
+        "id": 29
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 31,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Rainbow": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Final City built its barricades high, protecting its citizens from countless Primordian threats. Rek'Sai laughs in the face of these obstructions—or at least mimics a laugh in the form of a loud, painful screech. Having evolved to tunnel beneath land, she is the ideal infiltrator, the first Primordian to lay eyes on Final City… but certainly not the last."
+  }
 }

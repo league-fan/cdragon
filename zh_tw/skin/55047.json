@@ -160,6 +160,59 @@
     }
   ],
   "description": "卡特蓮娜是正式的外交大使，來自真實與黑暗的惡之妖精宮殿。儘管她是大使，你絕對無法想像那些心胸狹窄的八股朝臣對她投以了多少輕蔑與不滿的眼光。但這些都無所謂：卡特蓮娜的手上握有匕首，心中藏著祕密，她，有她自己的計畫。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 51
+      },
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 55
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 53
+      },
+      "Winsome": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Though Katarina is an official diplomatic envoy hailing from the Unseelie Court of Truth and Shadow, you wouldn't know it from all the side-eyed glances and disapproving frowns she receives from closed-minded courtiers. No matter: with daggers in hand and a mystery afoot, Katarina has her own agenda."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "小安妮每天从学校回家<br>孤独少女没人一起玩耍<br>她的家人们都已不在啦<br>她靠提伯斯将新朋友留下！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 35
+      },
+      "Catseye": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Awful Orphan Annie comes home from school each day<br>A lonely little lady with whom no one will play<br>Now all her family's fled (or dead or gone away)<br>She can depend on Mr. Tibbers to make her new friends stay!"
+  }
 }

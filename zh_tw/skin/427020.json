@@ -147,6 +147,58 @@
     }
   ],
   "description": "埃爾文天性慈愛，為身邊的米普創造了安全的避風港。然而好景不常，齊勒斯引發一場爆炸，摧毀了他的船艦，使埃爾文漫無目的地在宇宙裡漂浮。偶然機緣下，他被飛斯的船艦迎頭撞上，成為彼此相遇的契機。獲救的埃爾文便加入飛斯的隊伍，開始尋找宇宙中需要他保護的漫遊者。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 427020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 25,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "David Lodge"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Ivern's nurturing nature created a safe haven for the meeps under his care. However, an explosion caused by Xerath destroyed his ship and left him aimlessly floating in space. After a chance encounter with Fizz, who saved him by accidentally crashing into him, Ivern joined their ranks to search for any wanderers in need of his protection."
+  }
 }

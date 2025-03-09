@@ -24,6 +24,24 @@
     }
   ],
   "description": "대륙 전역의 대격전지에서 용병으로 활약하는 공성병 누누와 윌럼프는 강철 갑옷으로 무장하고 적에게 피리 철퇴를 날립니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-08-24",
+    "set": [
+      "Rift Quest"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "Serving as soldiers of fortune in pitched battles across the land, Demolisher Nunu & Willump are metal as ferro-bonded steel, and ready to introduce a flute-mace to your face."
+  }
 }

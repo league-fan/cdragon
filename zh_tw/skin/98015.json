@@ -48,6 +48,33 @@
     }
   ],
   "description": "在過去幾千年裡，慎獲得了許多稱號：軍閥、侵略者、征服者。即使過了這麼久，他的軍隊依然仍在持續壯大。只有最聰明且強壯的人才能加入他的軍隊，他不曾顯露任何情緒，只把他的目光投射在那些富有潛力的璞玉。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-17",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Over the millennia, Shen has been called many names: warlord, trespasser, conqueror. Even so, his mission to build an army for the ages seems never-ending. Seeking only the smartest and the strongest to join his ranks, he remains untroubled by emotion, casting his timeless gaze over those with hidden potential."
+  }
 }

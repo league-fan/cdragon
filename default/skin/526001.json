@@ -143,6 +143,56 @@
     }
   ],
   "description": "A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Coronation": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 3
+      },
+      "Tanzanite": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers."
+  }
 }

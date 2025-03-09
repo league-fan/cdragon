@@ -47,6 +47,24 @@
     }
   ],
   "description": "在获得了远古玉龙之力后，悟空的战斗技巧已经达到了登峰造极的高度。虽然他的性格依然急躁莽撞，但是他的新能力是毋庸置疑的。然而这些能力也成为了师傅的心头大患，因为玉龙之力也是一种诅咒。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Meteorite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "lore": "Imbued with the power of the legendary jade dragon, Wukong has honed his abilities to a razor sharp point.Though still headstrong and brash, his newfound power is undeniable—a worrying sign to his master, as the jade dragon carries a powerful curse..."
+  }
 }

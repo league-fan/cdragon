@@ -138,6 +138,53 @@
     }
   ],
   "description": "ベイガーにはとても壮大な計画がある。まず最初に、大量のモンスターを集める。できれば、恐ろしくて不気味なへき地に生息しているモンスターが好ましい。次に、CORE(伝達および交戦用の小型オブジェクト)を使ってモンスターたちと絆を結び、その力を強化する。そして最後は、この世界を支配するのだ！！うーん…どうやら彼は、どこかで手順を間違えたようだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-11",
+    "set": [
+      "Monster Tamers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Jasper": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Rainbow": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Veigar has big plans. BIG. First, he'll amass an army of monsters, preferably from the darkest, scariest corners of the land. Then he'll use the CORE to create a bond with said monsters and amplify their power. Then he'll take over the world!! Hmm... he might have missed a step."
+  }
 }

@@ -25,6 +25,28 @@
     }
   ],
   "description": "その体に刻まれた見事な漆黒の刺青、そしてアイオニア男性の雅な伝統衣装による大胆な着こなし──ヤスオがガーラで見せたその装いは、まさにエレガンスの反乱、ファッションの革命、未だかつてないデザインの暴動と言えるだろう。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157057,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 56,
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Sporting an elevated take on traditional Ionian menswear coupled with a fearlessly bare set of stunning blackout tattoos, Yasuo's gala look celebrates elegant rebellion, sartorial subversion, and an uprising of unprecedented design."
+  }
 }

@@ -25,6 +25,26 @@
     }
   ],
   "description": "かつて星々を旅する存在であったジンはダークスターに飲み込まれ、新たな使命を持って生まれ変わった。老いることがなくなった彼は、自らが全能の存在であるという妄想に取り憑かれ、満たされることのない飢えに突き動かされている。ジンは気まぐれのように幾多の世界を荒し回り、そこで手に入れた遺物を使って、奇妙な芸術品を作り続けている。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-06-13",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art."
+  }
 }

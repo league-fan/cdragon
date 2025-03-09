@@ -131,6 +131,53 @@
     }
   ],
   "description": "50% 人類，50% 機械，懷抱 100% 獨特正義的「路西恩‧匪你剋死」警探夜以繼日地對抗蒂瑪西亞棕櫚大道上窮兇惡極的罪犯們。在一次致命的警匪槍戰後，科學家們憑藉精製鉻金屬與皮爾托福特製碳纖維，終於重構了路西恩警探的身軀。這位堪稱科學奇蹟的機器戰警，就像一座閃耀著法律與秩序光芒的霓虹燈塔，對罪犯們傾洩著蒸汽狀的復仇怒火。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-07-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-07-18",
+    "set": [
+      "Demacia Vice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Neon Noir": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order."
+  }
 }

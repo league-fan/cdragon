@@ -8,72 +8,473 @@
       "name": "破败军团 厄运小姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-22",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "filter": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 25
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Cursed": {
+            "id": 30,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          }
+        },
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Miss Fortune thought that being the Pirate Queen of Bilgewater would be enough. Even with her revenge complete, Sarah now faced a new chaos with Bilgewater's factions vying for control. Viego's arrival offered her an opportunity to seize the strength needed to crush anyone beneath her heel, even if it came at a price."
+      }
     },
     {
       "id": 41023,
       "name": "背叛之刃 普朗克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-05-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 41023,
+        "formatname": "Gangplank the Betrayer",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-05",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "Energized by a mysterious amulet containing Viego of Camavor and wielding the Blade of the Ruined King, Gangplank's personality erupted as he raged in search of the long-lost Isolde. Though ultimately freed of the King's influence by a group of heroes, he carries the experience with him... a reminder, perhaps, of true power."
+      }
     },
     {
       "id": 43027,
       "name": "破败军团 卡尔玛",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-21",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 37
+          },
+          "Cursed": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Tanzanite": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Surviving the initial ruination of Ionia, Karma is ultimately lost during a second one led by Viego himself. With the Spirit of Ionia itself removed from the continent, the Ionian people must band together to save one another, even as Karma twists the souls of millions to a new, horrific purpose."
+      }
     },
     {
       "id": 80025,
       "name": "破败军团 潘森",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 80025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-08",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 28
+          },
+          "Cursed": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 30
+          },
+          "Tanzanite": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "The Mist did not just subsume Atreus, but also resurrected the long-dead spirit of Pantheon: the old Aspect of War himself. With Atreus' stubborn defiance silenced, Pantheon can resume control and revel in battle once again. It doesn't matter to him whose banner he fights under. If that banner is the Ruined King's? So be it."
+      }
     },
     {
       "id": 80026,
       "name": "至臻 飞升战神 潘森",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 80026,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-07-08",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 25,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "Pantheon was defeated once, but with all of Runeterra on the line now Atreus must defeat it himself. Seizing back control from the Aspect of War, Atreus harnesses the celestial power of Targon itself—briefly becoming not just a vessel or an Aspect, but something new. Something immensely powerful and entirely his own."
+      }
     },
     {
       "id": 102008,
       "name": "破败军团 希瓦娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-21",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 10
+          },
+          "Cursed": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 12
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Shyvana's ruination brings a newfound darkness, as well as clarity. Turning swiftly against Demacia for its persecution of magic, and sinking into her more draconic emotions, she appears as an avenging beast of old, ready to topple Demacia for its ignorance."
+      }
     },
     {
       "id": 119020,
       "name": "破败军团 德莱文",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-21",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Citrine": {
+            "id": 22
+          },
+          "Cursed": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "A showman no matter the circumstance, Draven challenged Viego to a duel that the Glorious Executioner immediately lost, resulting in his ruination. Unlike his ruined brethren, little has changed about Draven save for a white shock hair on his head and a slightly more vicious personality than usual."
+      }
     },
     {
       "id": 157045,
       "name": "断浪之刃 亚索",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-05-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 157045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-05",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 50
+          },
+          "Aquamarine": {
+            "id": 48
+          },
+          "Catseye": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Sean 'Raiko' Tay",
+          "West Studio"
+        ],
+        "lore": "Empowered by the Buhru during his fight against Viego of Camavor, Yasuo made an unlikely champion for the children of Nagakabouros—his obsession with past events flew in the face of everything they believed in. Yet even the mangiest sea dog has his day, and Yasuo stood against the forces of darkness, emerging triumphant."
+      }
     },
     {
       "id": 412027,
       "name": "破败解封 锤石",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2021-07-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2021-07-29",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "With every soul the Ruination seized, Thresh's lantern burned brighter. He had planned for this moment, after all: the chance to scour far beyond the Shadow Isles, the Mist's reach so much greater than his own. Reaping all he had so meticulously sown, Thresh was at last unbound from the shackles of the isles. He had forgotten how good it feels to have skin..."
+      }
     }
   ]
 }

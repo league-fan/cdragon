@@ -147,6 +147,54 @@
     }
   ],
   "description": "一百年来，舞龙卫本是旸刚派洞天的看守，但在救了一位落水僧人的子弟后，师父恩准她开始修炼。 她很享受化为人形所带来的种种纠葛。与星仙子不同，舞龙卫毫不怀疑自己的身份：至尊修仙学派的保护者。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 102017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "For 100 years, the dragon Shyvana watched over the Sprouting Courage School's gardens, but after saving one of the monk's sons from drowning, she was allowed to train. Transforming into a human, she enjoyed the challenge this new form would bring. Unlike Soraka, Shyvana has no doubt about who she is: a protector of the strongest school of immortality."
+  }
 }

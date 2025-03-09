@@ -53,6 +53,33 @@
     }
   ],
   "description": "2022 World Championshipでキンドレッドを使って勝利したPyosikの活躍を称えるスキン。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 203023,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-01",
+    "set": [
+      "World Champions: 2022"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 32,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Marcella Lentz-Pope",
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Honoring Pyosik's winning performance as Kindred during the 2022 World Championship."
+  }
 }

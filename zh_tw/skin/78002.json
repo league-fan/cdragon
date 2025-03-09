@@ -25,6 +25,21 @@
     }
   ],
   "description": "對糖果王國的人民來說，「甜點精靈」波比是個有如傳奇一般的存在。每個人都會清楚記得她的長相，而且永遠都不會忘掉 …",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2010-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78002,
+    "formatname": "Lollipoppy",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-10-19",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "lore": "Lollipoppy is a legend to the people of the Candy Kingdom. Everyone remembers her face. Everyone."
+  }
 }

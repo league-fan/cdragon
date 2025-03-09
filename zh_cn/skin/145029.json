@@ -160,6 +160,59 @@
     }
   ],
   "description": "为了寻求神力净化被布兰德腐化的土地，卡莎不顾关于无尽深渊的各种恐怖传说，一头扎进了玉境之海的深处。然而，玉境灵龙认可了她面对未知事物的勇气，并将它的赐福赠与她。现在，她在世界各地冒险，净化土地并保护那些无法自保的人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 33
+      },
+      "Emberclaw": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Seeking the power to purify the land of Brand's corruption, Kai'Sa plunged into the depths of the Lagoon Dragon's waters, despite terrifying legends of the endless deep. However, the Dragon recognized her for her courage to face the unknown and blessed her with its gifts. Now, she adventures the world, cleansing the land and protecting those who cannot protect themselves."
+  }
 }

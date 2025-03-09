@@ -24,6 +24,25 @@
     }
   ],
   "description": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-05-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-05-06",
+    "earlysale": "2015-12",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones."
+  }
 }

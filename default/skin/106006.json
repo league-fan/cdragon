@@ -24,6 +24,25 @@
     }
   ],
   "description": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106006,
+    "formatname": "The Thousand-Pierced Bear",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2020-05-28",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves."
+  }
 }

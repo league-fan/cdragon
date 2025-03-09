@@ -137,6 +137,53 @@
     }
   ],
   "description": "一隻嬌小的龍，已經學會如何融入人類之中……即使融入得並不好。圖奇崇敬真正的巨龍，並希望自己中有一天能位列其中，即使他目前並不知道要如何達成。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A lesser dragon who has learned to blend in among humans… poorly. Twitch worships the true dragons and plans to one day become one himself, though he isn't sure how just yet."
+  }
 }

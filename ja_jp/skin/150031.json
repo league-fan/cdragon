@@ -160,6 +160,60 @@
     }
   ],
   "description": "街の通りに捨てられ、何年も厳しい生活を続けてきたナーは、自身の不幸を恨んだ。しかしその後、優しい孤児の少女に助けられた。最初は食べ物をもらうだけの関係だったが、やがて愛に満ちた友情が花開いた。しかし、ナーは突如として病を患い、亡くなってしまう。そして、その家族愛によってエイドラ・ヴィダとして甦ったナーはいま、自分の家族を危険から守ろうとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 38
+      },
+      "Turquoise": {
+        "id": 37
+      },
+      "Vivida": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "Abandoned to the streets, Gnar spent years scraping by, snarling at his misfortune, until he was found by a gentle orphaned girl. What started as simple gifts of food blossomed into a loving friendship, only for Gnar to suddenly fall ill and pass. Because of their familial love, Gnar now returns as an Eidola Vida, ready to protect his family from danger."
+  }
 }

@@ -57,6 +57,35 @@
     }
   ],
   "description": "作为一名在各个时空都令人畏惧的秩序执行者，凯特琳的任务是保护脆弱的谜题，任何胆敢威胁它安全的人都会发现自己已经被凯特琳的激光炮锁定。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-05-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-05-24",
+    "earlysale": "2017-11",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+  }
 }

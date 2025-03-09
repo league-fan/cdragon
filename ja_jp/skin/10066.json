@@ -177,6 +177,67 @@
     }
   ],
   "description": "妹が民のために正義と平等を追い求める一方、ケイルにとっての王家の生活は至福の無知に満ちたものだった。しかし、世界で唯一の生き残りとなったケイルは目を覚まし、自身の運命は長年に渡る無関心に対する罰だと考えた。そして今では妹のために、あらゆる世界で正義を執行している。ただし、そのやり方は… あまりにも非情なものである。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10066,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 69
+      },
+      "Emerald": {
+        "id": 70
+      },
+      "MSI 2024 Chaos": {
+        "id": 77,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "MSI Empyrean 2024 Premium Pass Bundle"
+      },
+      "Neon Facade": {
+        "id": 76,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 74
+      },
+      "Rose Quartz": {
+        "id": 72
+      },
+      "Ruby": {
+        "id": 68,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 73
+      },
+      "Tanzanite": {
+        "id": 75
+      },
+      "Turquoise": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Royal life for Kayle was one of blissful ignorance, while her sister pursued justice and equality for their subjects. After becoming the sole survivor of her realm, Kayle was awoken, and saw her fate as punishment for years of indifference. Now she doles out justice across the realms in tribute to her sister, though her methods are far more... severe."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "如風暴本身一般狂野不馴，姬亞娜無視多年來無人能倖存的忠告，勇敢接受了風雲儀式。也許是她的頑強勇氣被風暴認可，又或是其他什麼原因。總之，她現在成為了慎的學徒，下定決心要如同駕馭其他元素一樣，駕馭閃電之力。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Tempestuous as the Storm itself, Qiyana braved the Cloud Ritual despite warnings that no one had survived in years. Perhaps it was her display of stubborn courage the Storm found worthy, or something else; either way, she is now Shen's student, determined to master lightning the same way she mastered the other elements."
+  }
 }

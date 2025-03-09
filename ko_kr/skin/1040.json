@@ -160,6 +160,60 @@
     }
   ],
   "description": "여명을 찾아 떠난 세나는 영지 밖에서 소녀 애니를 만났습니다. 애니에겐 둘도 없이 소중한 친구가 있었는데, 바로 얼마 전 세상을 떠난 가문의 애완 곰이었습니다. 애니는 곰 친구를 되살려 달라고 북극성에 빌었습니다. 그러나 세나는 소원을 이뤄주기를 거부하고 대신에 장난감 곰을 건네주었습니다. ''상실도 인생의 일부란다. 이제 그 친구와의 추억은 이 선물 속에서 살아 숨 쉬게 될 거야.''",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Rainbow": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Wreathguard": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Senna set off to search for the Aurora, only to encounter the child, Annie, outside her estate. Her most cherished friend was her family's pet bear, who recently died. Annie wished for Polaris to bring him back to life, but Senna refused, and instead presented the bear in toy form. \"Loss is a part of life, but his memories will live inside this gift."
+  }
 }

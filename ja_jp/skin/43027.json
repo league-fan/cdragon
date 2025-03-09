@@ -148,6 +148,58 @@
     }
   ],
   "description": "アイオニアで起きた最初の破滅を生き延びたカルマだったが、ヴィエゴ自身が指揮を執った二度目の破滅で敗北した。アイオニアの精霊そのものが大陸から取り除かれたことで、アイオニアの人々は互いを救うために団結する必要があった──たとえカルマが数百万人の魂を新たな恐ろしい目的のために捻じ曲げようとしているとしても。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-21",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 37
+      },
+      "Cursed": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Surviving the initial ruination of Ionia, Karma is ultimately lost during a second one led by Viego himself. With the Spirit of Ionia itself removed from the continent, the Ionian people must band together to save one another, even as Karma twists the souls of millions to a new, horrific purpose."
+  }
 }

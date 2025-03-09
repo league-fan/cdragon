@@ -101,6 +101,42 @@
     }
   ],
   "description": "巨龍雖然可怕，但牠們跟其他生物相比其實並無二異，只要在對的情境之下，是可以與牠們成為朋友的。露璐用她不可思議的神奇魔法收服了她的小小朋友，成為史上第一位馴龍師。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-11-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-11-13",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Dragons, though feared, are still living things and can be befriended under the right circumstances. Lulu enthralled her small friend with whimsical magic... becoming the first ever dragon trainer."
+  }
 }

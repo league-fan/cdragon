@@ -107,6 +107,49 @@
     }
   ],
   "description": "데막시아 제국의 명예로운 오디널 케인은 소나를 다시 붙잡아 전설적인 오라 관문의 비밀을 알아내고자 끈질기게 샛별호를 뒤쫓고 있습니다. 그는 지각이 있는 외계의 낫 라아스트와 끊임없이 티격태격하지만, 라아스트는 케인이 생각하는 것보다 훨씬 더 무시무시한 욕망을 지니고 있죠…",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 141002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Merc": {
+        "id": 6,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "As an honored Ordinal of the Demaxian Empire, Kayn relentlessly hounds the crew of the Morning Star, hoping to recapture Sona and learn the secrets of the legendary Ora Gate. He bickers constantly with his sentient alien scythe, Rhaast, whose own motivations are far more dire than Kayn could ever realize…"
+  }
 }

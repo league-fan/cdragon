@@ -8,104 +8,473 @@
       "name": "冰霜烈焰 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-05-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-24",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Annie is a Winterlands prodigy—a child born with both innate magic and a spirit guardian, the first of her kind in many generations. Though still young, she has already become a joyous fixture in the halls of the Poro King."
+      }
     },
     {
       "id": 11017,
       "name": "持胡萝卜的雪人 易",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11017,
+        "formatname": "Snow Man Yi",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "A humble snowman brought to life by the magic of the Poro King, Yi strives to become the most gallant knight in all the land… and with the imminent invasion of Ice King Twitch, he might just get his chance."
+      }
     },
     {
       "id": 15006,
       "name": "冰雪风暴 希维尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 15006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-12-19",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Snowdown Showdown 2018"
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "The wild and brash Battle Mistress known as Sivir cares only for the thrill of combat and the rattle of coin. She relentlessly hunts her bounties across the ice, cutting down opponents with a massive, razor-sharp snowflake as hard and unforgiving as the cruelest snowstorm."
+      }
     },
     {
       "id": 16009,
       "name": "冬境仙灵 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16009,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A kindly duchess within the court of the Poro King, Soraka's lands are filled with beautiful animals made of pristine, enchanted ice. These menageries stretch for miles, tended by her retainers."
+      }
     },
     {
       "id": 29012,
       "name": "狂心冰王 图奇",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29012,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 14
+          },
+          "Rainbow": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse."
+      }
     },
     {
       "id": 36010,
       "name": "冰封王子 蒙多",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 36010,
+        "formatname": "Frozen Prince Mundo",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 12
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 14
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Once a handsome prince from an outlying region of the Winterlands, Mundo was touched by the curse of Ice King Twitch—corrupting him into a brutish thrall. He's still convinced he's the same statuesque royal as before, and as such… goes where he pleases."
+      }
     },
     {
       "id": 39004,
       "name": "冰霜之刃 艾瑞莉娅",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-04-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-30",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "vu": true,
+        "chromas": {
+          "Golden": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Snowdown Showdown 2018"
+          }
+        },
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "An ice sprite hailing from the mythical Winterlands, Irelia's demeanor is surprisingly stoic considering her mischievous brethren. Despite this, she aspires to one day serve in the court of the Poro King."
+      }
     },
     {
       "id": 43006,
       "name": "冬季仙境 卡尔玛",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-12-14",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "A powerful sorceress at one with the natural world, Karma spreads snow like a soft blanket across the enchanted forests of the Winterlands. A loyal friend of the Poro King—wherever Karma goes, winter follows."
+      }
     },
     {
       "id": 61005,
       "name": "冬季仙境 奥莉安娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 61005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-12-15",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Heath Pennington"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "A strange clockwork girl imbued with the magic of the Winterlands, Orianna once lived within a snowglobe created by a kindly old inventor. At the end of his life he freed her, and now she searches for greater purpose, serving in the court of the Poro King."
+      }
     },
     {
       "id": 78014,
       "name": "冰雪驯鹿 波比",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 78014,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-12-12",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kate Higgins"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "The Poro King's right hand and loyal shield, Poppy enforces her furry liege's decrees and protects him from all harm. She also enjoys Snowdown festivities, a holiday she discovered on one of her many colorful adventures."
+      }
     },
     {
       "id": 113005,
       "name": "魄罗骑士 瑟庄妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 113005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-12-15",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Tenfold Triumph": {
+            "id": 47
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home."
+      }
     },
     {
       "id": 117004,
       "name": "寒冬精灵 璐璐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 117004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-12-19",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "A kindly sorceress trailed by her poro pal Pix, Lulu's whimsical ice magic amazes and delights Snowdown revelers everywhere. She's also a skilled fighter, firing deadly glacial spikes and transforming foes into harmless snowmen."
+      }
     },
     {
       "id": 518001,
       "name": "冬境仙灵 妮蔻",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 518001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-05",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 6
+          },
+          "Catseye": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Emerald": {
+            "id": 3,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Rainbow": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Flora Paulita"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "An ancient and mysterious winter sprite, Neeko regards the world around her with an almost childlike curiosity. Having recently returned from beyond the Poro King's vast domain, she has become enamored with the civilization that has risen in her absence."
+      }
     }
   ]
 }

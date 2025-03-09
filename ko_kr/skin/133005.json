@@ -137,6 +137,55 @@
     }
   ],
   "description": "과거 수호군은 동료 간의 유대, 갑옷과의 유대, 칙령의 유대로부터 힘을 얻었습니다. 퀸은 조상의 발자취를 따라 수호군의 중심 교리를 지키기 위해 발러라고 이름을 붙인 매와 유대감을 형성했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 133005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Warden"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Lauren Mayhew"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "The Protectorate of old gained its power from bonds: bonds between comrades, bonds to armor, bonds to its edicts. Quinn follows in the footsteps of her ancestors, having forged a bond with a familiar she has named Valor, in honor of the Protectorate's central tenet."
+  }
 }

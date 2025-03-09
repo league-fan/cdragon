@@ -12,168 +12,857 @@
       "name": "离群之刺",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2010-05-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-05-11",
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master."
+      }
     },
     {
       "id": 84001,
       "name": "蜂刺 阿卡丽",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-05-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-11",
+        "retired": "2014-12-02",
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pyeongjun Park"
+        ],
+        "lore": "The Order of the Great Sparrow Bee follows a brutal, time-honored training regimen, teaching students to sting with the ferocity and ceaselessness of a hornet. Akali is their greatest champion, and she intends to take the art to even greater heights."
+      }
     },
     {
       "id": 84002,
       "name": "奈落之炎 阿卡丽",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-05-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-11",
+        "retired": "2012-03-19",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A djinn summoned from the world below, the Infernal known as Akali will burn her patron's enemies to cinders… though the cost for such service is always dire."
+      }
     },
     {
       "id": 84003,
       "name": "足球宝贝 阿卡丽",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-06-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-24",
+        "set": [
+          "Soccer Cup"
+        ],
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "A legendary all-star for Chaos FC, Akali was known for her aggressive style on the pitch. These days, she spends most of her time mentoring children and doing commercials for shoes."
+      }
     },
     {
       "id": 84004,
       "name": "实习护士 阿卡丽",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-01-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-01-04",
+        "set": [
+          "Rift Hospital"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 36,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Citrine": {
+            "id": 33,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Emerald": {
+            "id": 35,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Obsidian": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rainbow": {
+            "id": 40,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Mega Donor Bundle"
+          },
+          "Tanzanite": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Hello, nurse! Goodbye, being alive."
+      }
     },
     {
       "id": 84005,
       "name": "腥红之月 鬼武姬 阿卡丽",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-06-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-06-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "newrecall": true,
+        "newanimations": true,
+        "neweffects": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Priestesses of the Blood Moon walk their own path, traveling far from the cult to pursue the whispers of their demons. A meditative figure living deep in the snow-dusted wood, Akali was the first woman to embrace her inner darkness, and speak directly with the Blood Moon itself."
+      }
     },
     {
       "id": 84006,
       "name": "银色之牙 阿卡丽",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-11-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-29",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Former second-in-command of an honorable clan of assassins, Akali has broken from their ranks to find her own path. She plies her trade in the darkest corners of the world's largest metropolis, awaiting the day when she can establish a clan of her own."
+      }
     },
     {
       "id": 84007,
       "name": "铁血女忍 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-03-23",
+        "earlysale": "2015-12",
+        "set": [
+          "Headhunter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Pearl": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Her weapons flaring with alien energy, Akali hunts only the worthy in a dangerous game of life and death. Striking from anywhere at any moment, no living thing can escape her trophy wall."
+      }
     },
     {
       "id": 84008,
       "name": "刺身之拳 阿卡丽",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-09-07",
+        "earlysale": "2017-02",
+        "set": [
+          "Culinary Masters"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "She's the fish ninja with speed on her side, the silent slicer, the death strike of deliciousness. Drop your guard and she'll assassinate your palate. It's your favorite and mine, Akali!"
+      }
     },
     {
       "id": 84009,
       "name": "K/DA 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84009,
+        "formatname": "K/DA Akali",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Akali's street aesthetic and hard-hitting lyrics inspired a dedicated fandom. She wields a microphone or kama as a hip-hop ninja, revolutionizing the stale scene with her raw talents."
+      }
     },
     {
       "id": 84013,
       "name": "至臻 K/DA 阿卡丽",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84013,
+        "formatname": "Prestige K/DA Akali",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2018-12-06",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 9,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "K/DA Akali is on fire right now, spitting rap solos at the Pop Music Awards—and her prestigious costume is exactly what you'd expect from the new golden child of pop."
+      }
     },
     {
       "id": 84014,
       "name": "源计划：暗影 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84014,
+        "formatname": "PROJECT: Akali",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 20
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Reckoning": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Turquoise": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "A cutting-edge PROJECT subject who somehow escaped the City's boundaries, Akali brings dire warnings of an untested superweapon to those living in the wasteland beyond. With time running out and no other options, these outcasts join her in an attempt to take the mega-corporation down… suspicious that their newfound ally might in fact be a double agent."
+      }
     },
     {
       "id": 84015,
       "name": "真实伤害 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-11-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-11-10",
+        "set": [
+          "True Damage"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Freestyle": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "True Damage 2019"
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "After the worldwide success of K/DA, Akali made it her mission to recruit accomplished and up-and-coming artists to form a new supergroup: True Damage. Never before has a crew been comprised of such diverse talent, ranging from natural lyricists to renowned producers to legendary vocalists—all ready to disrupt the music industry."
+      }
     },
     {
       "id": 84032,
       "name": "K/DA ALL OUT 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84032,
+        "formatname": "K/DA ALL OUT Akali",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "BADDEST": {
+            "id": 47,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Catseye": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Peridot": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 44
+          },
+          "Tanzanite": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fresh off her success with True Damage, Akali hits the stage full-throttle with her bold edge and fresh new direction. She spits fire with a mic in hand and pushes the band to the bleeding edge, because that's what the baddest do."
+      }
     },
     {
       "id": 84050,
       "name": "地下都市 梦魇 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84050,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-08-26",
+        "set": [
+          "Crime City Nightmare"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 55
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 54
+          },
+          "Tanzanite": {
+            "id": 56
+          },
+          "Underground": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Crime City 2021"
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A loyal enforcer for the Graves family, Akali took the same deal everyone else did when the Mysterious Gentleman came calling. The power changed her, twisted her into something that hears a siren song echoing from beyond the veil of reality. Now she acts in ruthless, horrific violence, seeking an inscrutable 'balance' even she cannot name."
+      }
     },
     {
       "id": 84060,
       "name": "至臻 K/DA 阿卡丽 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84060,
+        "formatname": "Prestige K/DA Akali (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 13,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "K/DA Akali is on fire right now, spitting rap solos at the Pop Music Awards—and her prestigious costume is exactly what you'd expect from the new golden child of pop."
+      }
     },
     {
       "id": 84061,
       "name": "星之守护者 阿卡丽",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84061,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-07-28",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Brilliant": {
+            "id": 67,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Star Guardian 2022"
+          },
+          "Catseye": {
+            "id": 63
+          },
+          "Emerald": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 66
+          },
+          "Ruby": {
+            "id": 62,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 64
+          }
+        },
+        "voiceactor": [
+          "Ashly Burch"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "On-again off-again co-captain of a new generation of Star Guardians, Akali's skill in battle is shadowed by her growing realization that the Oath she swore has condemned her to die. Though she fights for the light with all her heart, she finds that darkness is just as powerful... perhaps, even more so..."
+      }
     },
     {
       "id": 84068,
       "name": "DRX 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84068,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-01",
+        "set": [
+          "World Champions: 2022"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 69,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Honoring Zeka's winning performance as Akali during the 2022 World Championship."
+      }
     },
     {
       "id": 84070,
       "name": "魔女 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84070,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-11",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 76
+          },
+          "Catseye": {
+            "id": 73
+          },
+          "Destined": {
+            "id": 80,
+            "availability": "Limited",
+            "source": "Loot",
+            "distribution": "Worlds 2023 Premium Pass Bundle"
+          },
+          "Emerald": {
+            "id": 75
+          },
+          "Profane": {
+            "id": 81,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Rose Quartz": {
+            "id": 79
+          },
+          "Ruby": {
+            "id": 72,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 74
+          },
+          "Tanzanite": {
+            "id": 77
+          },
+          "Turquoise": {
+            "id": 78
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "They came to Akali encircling from the tree canopy at an impossible speed, their taunts leading her deeper still into the Elderwood until at last she was lost. Then a voice whispered the choice right into her ear: die in these woods alone or emerge in their charge. And so she walked out of the woods... straight into the arms of the Coven."
+      }
     },
     {
       "id": 84071,
       "name": "至臻 魔女 阿卡丽",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84071,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-10-11",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 70,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Arriving clad in a bold and sporty body suit, Akali's gala attire has us all spellbound. Subversive and on the cutting edge of fashion, she's fierce and redefines how we think of the wicked witch of the woods."
+      }
     },
     {
       "id": 84082,
       "name": "至高天 阿卡丽",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84082,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 85
+          },
+          "Catseye": {
+            "id": 84
+          },
+          "Emerald": {
+            "id": 88
+          },
+          "Neon Facade": {
+            "id": 91,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 90
+          },
+          "Rose Quartz": {
+            "id": 89
+          },
+          "Ruby": {
+            "id": 83,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 86
+          },
+          "Turquoise": {
+            "id": 87
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "Pandart Studio"
+        ],
+        "lore": "Before her realm's destruction, Akali was rotting away in prison for a failed assassination attempt on a despotic warlord. Now on her own as an Empyrean, she views her newfound freedom as a sign to stop the evil she couldn't before. The realms need a defender, and Akali is determined to fight for them as long as she can."
+      }
     }
   ]
 }

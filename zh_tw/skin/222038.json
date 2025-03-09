@@ -160,6 +160,60 @@
     }
   ],
   "description": "吉茵珂絲是個一貓當關，萬夫莫敵的破壞大師。她將與生俱來的破壞衝動發揮在更有意義的地方：對抗遠古霸者。她不算是個真正的士兵，她不在乎人類的存亡，也不聽別人的指揮，但吉茵珂絲的戰果豐碩，無人能挑剔。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Nightwire": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Jinx is a one-cat demolitions squad, her natural destructive impulses turned toward more productive ends: fighting off the Primordians. She's not really a soldier, doesn't seem to care about humanity's cause, and doesn't follow orders "
+  }
 }

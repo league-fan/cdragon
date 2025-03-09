@@ -160,6 +160,59 @@
     }
   ],
   "description": "北極星令使赫威一臉消沉，一動也不動地等待著。姍娜和赫克林在凡間找到他的時候，正下著一場巨大的暴風雪。身為北極星令使，赫威的職責是用畫筆在天上畫出極光，迎接初雪的到來。赫威聽見赫克林的呼喚後，揮舞畫筆，分開天雲，不過顯露在眼前的，只是一片荒蕪的天空。極光跑哪去了？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 910001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 4
+      },
+      "Turquoise": {
+        "id": 6
+      },
+      "Wreathguard": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Stephen Fu"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "The herald of Polaris, Hwei, waited in a despondent mood. When Senna and Hecarim found him among the world of man, a violent blizzard raged overhead. As herald, he used his brush to paint the Aurora across the skies, bringing the first snow. At Hecarim's beckoning, he waved his brush, parting the clouds to reveal a barren sky. Where was the Aurora?"
+  }
 }

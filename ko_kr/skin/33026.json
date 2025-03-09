@@ -137,6 +137,55 @@
     }
   ],
   "description": "람머스는 악취를 풍기는 껍질을 두르고 다닙니다. 겉으로 보기에는 귀엽지만 '소리 없이 치명적'이라는 말의 뜻을 새롭게 정의하죠. 정체불명의 악취가 나는 갑옷에서 땀에 젖은 양말과 하수 냄새가 난다고 하는 이들도 있지만 의지가 강한 전사들은 그 냄새만 참고 견디면 람머스가 얼마나 달콤한 존재인지 알고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 33026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Food Fight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 28
+      },
+      "Jasper": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 31
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Rammus roams the land in a pungent peel, and though he may look adorable, he gives new meaning to the phrase “silent but deadly.” Some say the effluvial enigma's armor reeks of sewage and sweaty socks, but strong-willed warriors know how sweet he can really be—if you can get past the smell."
+  }
 }

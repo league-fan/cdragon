@@ -137,6 +137,55 @@
     }
   ],
   "description": "凱能中尉是一位精通米普科技的機師，負責確保船艦正常運作。雖然他常因身為飛斯的左右手而深受其擾，但他總是能設計出完美的計畫，保護所有人的安全。憑著他快如閃電的思考速度，以及無人能敵的精準操作，就足以抵擋任何侵擾米並曰星的威脅。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "A master mechanic and genius in meep technology, Lieutenant Kennen always keeps the ship balanced. Although he's perpetually bothered by being second in command to Fizz, he never fails to design a plan to protect his team. His quick thinking and deadly precision are enough to keep any threats to planet M33P at bay."
+  }
 }

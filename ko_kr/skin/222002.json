@@ -199,6 +199,54 @@
     }
   ],
   "description": "머리 속 상상을 현실로 이루어 내야 직성이 풀리는 징크스. 설맞이 축제용으로 길이가 2미터에 이르는 성난 용머리 장식의 로켓과 다른 무기들을 만들었습니다. 아마 흥을 돋워줄 폭죽이라고 우기겠지만 무슨 폭죽이 저렇게 크답니까.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-02-10",
+    "earlysale": "2015-12",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Aquamarine": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Golden Tiger": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Rose Quartz": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Never one to turn down an imaginary challenge, Jinx has constructed a number of Lunar Revel weapons, including a seven foot long rocket shaped like an angry dragon. She'll tell you it's a fun firecracker for parties. It is not."
+  }
 }

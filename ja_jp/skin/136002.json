@@ -120,6 +120,51 @@
     }
   ],
   "description": "型番ASOL-13、通称“メカリオン・ソル”は数万の搭乗員と攻撃機、対怪獣戦闘車両を搭載した巨大な機動母艦である。ASOL-13の船体内には多種多様な兵装が格納されており、超巨大怪獣を相手にしても互角以上の戦いを演じられる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-16",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Designated ASOL-13, the “Mecha Aurelion Sol” is a gigantic, mobile mothership carrying tens of thousands of personnel, attack fighters, and ground-based anti-kaiju vehicles. Buried within its hull are a vast array of weapons, making ASOL-13 more than a match for even the most gargantuan kaiju."
+  }
 }

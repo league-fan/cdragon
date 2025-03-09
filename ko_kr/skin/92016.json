@@ -66,6 +66,41 @@
     }
   ],
   "description": "휘몰아치는 창조의 여명에서 탄생한 리븐은 우주의 질서를 대표하는 산 증인입니다. 평생 어둠의 인도자와 대립할 수밖에 없는 운명을 타고났기에, 자신의 빛이 그의 어둠을 완전히 몰아내는 날만을 고대하고 있습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92016,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "cost": 1820,
+    "release": "2017-06-14",
+    "earlysale": "2017-12",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Paragon": {
+        "id": 24,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Born from swirling energies at the dawn of creation, Riven is the living embodiment of order in the cosmos. Fated to clash against the Nightbringer for all time, she awaits a day when her light will finally break his darkness."
+  }
 }

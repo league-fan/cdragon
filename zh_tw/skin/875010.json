@@ -138,6 +138,54 @@
     }
   ],
   "description": "布郎姆的熱帶風飲品是賽特的最愛—滋味越甜、花朵越大，嘗起來就越讚！有意見的人都可以直接當面來跟獸血拳皇講。他會幫你叫救生員來。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-06-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 14
+      },
+      "Aquamarine": {
+        "id": 13
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Braum's tropical drinks are a favorite of Sett's—the sweeter the taste and the bigger the flowers, the better! Anyone who has a problem with that can take it up with the Boss. He'll call the Lifeguard for you."
+  }
 }

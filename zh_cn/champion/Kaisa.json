@@ -13,112 +13,629 @@
       "name": "虚空之女",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2018-03-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2018-03-07",
+        "transforming": true,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Claimed by the Void when she was only a child, Kai’Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind."
+      }
     },
     {
       "id": 145001,
       "name": "弹幕天使 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-03-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-03-07",
+        "set": [
+          "Steel Valkyries"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newquotes": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 5
+          },
+          "Catseye": {
+            "id": 2
+          },
+          "Granite": {
+            "id": 7
+          },
+          "Maverick": {
+            "id": 47,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Steel Valkyries 2022"
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A former lieutenant in the Royal Space Military, Kai'Sa was the first sanctioned pilot of the experimental X01-Butterfly. The suit proved far too deadly, however, and after only one mission she fled with the technology—becoming one of the galaxy's deadliest guns for hire."
+      }
     },
     {
       "id": 145014,
       "name": "K/DA 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145014,
+        "formatname": "K/DA Kai'Sa",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A talent from abroad, Kai'Sa brings a unique style and sound to the industry. She learned to express herself through her craft, blossoming into one of the most talented dancers in the world—a perfect fit for the misfits of K/DA, where she takes their performances to the next level."
+      }
     },
     {
       "id": 145015,
       "name": "至臻 K/DA 卡莎",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145015,
+        "formatname": "Prestige K/DA Kai'Sa",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 14,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fresh from her appearance at the annual Pop Music Awards, K/DA Kai'Sa is now wearing a prestigious all-gold costume—catching the eye of the entire world."
+      }
     },
     {
       "id": 145016,
       "name": "iG 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-04-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145016,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-23",
+        "set": [
+          "World Champions: 2018"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Tenfold Triumph": {
+            "id": 58,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring JackeyLove's winning performance as Kai'Sa during the 2018 World Championship."
+      }
     },
     {
       "id": 145017,
       "name": "电玩女神 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-06-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-28",
+        "set": [
+          "Arcade: Heroes"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Aquamarine": {
+            "id": 24
+          },
+          "Catseye": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 25,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "K.O.": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A bounty hunter and ex-soldier hailing from the hellish multidirectional shooter “PixelVoid II,” Kai'Sa was called back to the Arcadian theater after the Battle Bosses infected her game. As she is unmatched at killing screen-covering boss monsters with massive health pools, invading “PixelVoid II” may have been a severe miscalculation."
+      }
     },
     {
       "id": 145026,
       "name": "K/DA ALL OUT 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145026,
+        "formatname": "K/DA ALL OUT Kai'Sa",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "BADDEST": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "After showcasing her flawless dance techniques world-wide, Kai'sa is ready to apply her legendary discipline and focus to all aspects of her life as a performing artist. She's still not sure who she'll be when she steps forward to shine as herself, but she's looking forward to the challenge of finding out."
+      }
     },
     {
       "id": 145027,
       "name": "至臻 K/DA ALL OUT 卡莎",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145027,
+        "formatname": "Prestige K/DA ALL OUT Kai'Sa",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 26,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "When Kai'Sa wanted a red carpet outfit to match her growing confidence in her artistry, she sought Evelynn's advice. With sharp tailoring and embellishments that match her excellence in execution, Kai'Sa's ready to shine on and off the stage."
+      }
     },
     {
       "id": 145029,
       "name": "神龙尊者 玉境灵龙 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 33
+          },
+          "Emberclaw": {
+            "id": 38,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Pearl": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Seeking the power to purify the land of Brand's corruption, Kai'Sa plunged into the depths of the Lagoon Dragon's waters, despite terrifying legends of the endless deep. However, the Dragon recognized her for her courage to face the unknown and blessed her with its gifts. Now, she adventures the world, cleansing the land and protecting those who cannot protect themselves."
+      }
     },
     {
       "id": 145039,
       "name": "至臻 K/DA 卡莎 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145039,
+        "formatname": "Prestige K/DA Kai'Sa (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fresh from her appearance at the annual Pop Music Awards, K/DA Kai'Sa is now wearing a prestigious all-gold costume—catching the eye of the entire world."
+      }
     },
     {
       "id": 145040,
       "name": "星之守护者 卡莎",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-07-14",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 43
+          },
+          "Brilliant": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Star Guardian 2022"
+          },
+          "Catseye": {
+            "id": 42
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "A born leader with a head for tactics, Kai'Sa takes her job as captain extremely seriously... perhaps too much for her own good. Still, her squad respects her command and will follow her into even the most dangerous missions, where she'll snipe priority targets and spray the rest with payloads of starlight-powered missiles."
+      }
     },
     {
       "id": 145048,
       "name": "墨之影武者 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145048,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 55
+          },
+          "Catseye": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Inked": {
+            "id": 57,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2023"
+          },
+          "Jasper": {
+            "id": 51
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 49,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A young survivor who lost her father to the Cabal, Kai'Sa fled the city and joined the Uprising. Refusing to allow others to fight a battle on her behalf, she sacrificed her independence for the chance to fight back, receiving a magical, symbiotic tattoo she needs in order to live. Kai'Sa finally has the tools to get revenge. She will see justice done."
+      }
     },
     {
       "id": 145059,
       "name": "天龙之子 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145059,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 63
+          },
+          "Catseye": {
+            "id": 61
+          },
+          "Emerald": {
+            "id": 62
+          },
+          "Granite": {
+            "id": 64
+          },
+          "Lustrous": {
+            "id": 67,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Rose Quartz": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 60,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 66
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Royal scout and friend to the prince, Kai'Sa is a tenacious dragon who has spent more time beneath the clouds than any of her peers. Though this is the first time she has interacted with humans directly, her observed knowledge and agile grace are sure to be assets while joining them in the New Year's celebration."
+      }
     },
     {
       "id": 145069,
       "name": "暗星 卡莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145069,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 78
+          },
+          "Catseye": {
+            "id": 74
+          },
+          "Emerald": {
+            "id": 75
+          },
+          "Pearl": {
+            "id": 79
+          },
+          "Quasar": {
+            "id": 80,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rose Quartz": {
+            "id": 76
+          },
+          "Ruby": {
+            "id": 72,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 73
+          },
+          "Turquoise": {
+            "id": 77
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Kai'Sa is the kind of horror that the spacefaring civilization she was born from once feared. Whatever she destroys, she absorbs, surviving the unforgiving cosmos using power siphoned from the ashes of dead galaxies."
+      }
     }
   ]
 }

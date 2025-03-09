@@ -86,6 +86,32 @@
     }
   ],
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-19",
+    "set": [
+      "Silver Age"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Navy": {
+        "id": 7
+      },
+      "Orange": {
+        "id": 9
+      },
+      "Purple": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ]
+  }
 }

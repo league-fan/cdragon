@@ -13,72 +13,314 @@
       "name": "제라스",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2011-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-10-05",
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image."
+      }
     },
     {
       "id": 101001,
       "name": "룬 제라스",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-10-05",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ]
+      }
     },
     {
       "id": 101002,
       "name": "전투 기계 제라스",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-10-05",
+        "set": [
+          "Battlecast"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "lore": "The question of the human soul has always intrigued Viktor, and so he set to work building a Battlecast machine capable of harnessing it. The resulting Xerath units are twisted, hellish monsters imprisoned in a cage of psychic energy, constantly discharging superheated plasma toward any opponent in range."
+      }
     },
     {
       "id": 101003,
       "name": "용광로 제라스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-07-13",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "lore": "A highly unstable creature born from roiling magma, Xerath possesses a keen intellect, awaiting the day he might ascend through the ranks of the Infernal war machine, and usurp the Ashen Lord himself. For now his ambitions remain secret, but… soon… soon…"
+      }
     },
     {
       "id": 101004,
       "name": "사막의 수호자 제라스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-04-26",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Xerath, the liquid light—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance."
+      }
     },
     {
       "id": 101005,
       "name": "암흑의 별 제라스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 6,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Katya Cyan",
+          "West Studio"
+        ],
+        "lore": "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation."
+      }
     },
     {
       "id": 101012,
       "name": "아르카나 제라스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-13",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 20
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him. "
+      }
     },
     {
       "id": 101021,
       "name": "우주비행사 제라스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-02-24",
+        "set": [
+          "Astronauts"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 29
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "An obsessive chemist driven by power, Xerath discovered the invader meeps and devoted his life to researching how to harness their energy. After an explosion during one of his experiments, his body was permanently mutated. Now, fully consumed by the corrupted meeps, Xerath traverses the galaxy, seeking to spread his malice across the cosmos."
+      }
     },
     {
       "id": 101030,
       "name": "야성의 수정 제라스",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-06-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101030,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2024-06-12",
+        "set": [
+          "Crystalis Indomitus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Fractured": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Zoe Zhu",
+          "West Studio"
+        ],
+        "lore": "Once a humble fisherman, Xerath returned from a voyage with a multitude of magical crystals in tow. Their power elevated him to become a leader of his people, ushering in what he hoped would be a new era of the Prismae Crystals' rule. But the cost of such power damaged his mind, leaving him suspicious that no thoughts are to be trusted… even his own."
+      }
     }
   ]
 }

@@ -157,6 +157,57 @@
     }
   ],
   "description": "易是灵能特工组织的一位传说级的灵能剑士和精英领导者。他很冷静、专业，并且总能完成任务，这使他成为了侠盗武装中的一个可怕的魔鬼，并且那些对全球战争机器怀有怨恨的人视他为眼中钉。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 34
+      },
+      "Hunter": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 37
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "A legendary psychic swordsman and elite leader of the PsyOps unit. Yi is calm, professional, and always gets the job done, making him a terrifying bogeyman among rogue militaries, and a target for those harboring resentment towards the global war machine."
+  }
 }

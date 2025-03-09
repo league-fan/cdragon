@@ -132,6 +132,45 @@
     }
   ],
   "description": "做一只小蜜蜂？还是不做一只小蜜蜂？﻿这是个问题。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17018,
+    "formatname": "Beemo",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-01",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Peridot": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "To Beemo, or not to Beemo? That is the question."
+  }
 }

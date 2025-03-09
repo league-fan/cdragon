@@ -160,6 +160,60 @@
     }
   ],
   "description": "死した天使は、ただ悲嘆に暮れるのみ…ヴァルスはモルデカイザーによって地獄の門の向こうへ連れて行かれることに抵抗しなかった。しかし、そこに寄せ集めの強盗団が現れたことで、彼は悲嘆に暮れるのをやめた。ヴァルスは再び弓を手にし、「啓示者」として馬に跨った。今こそ、「天国」で行われた虐殺の復讐を遂げる時だ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Nomad": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Ain't nothin' for a dead angel to do but resign himself to grief. Varus was content to allow Mordekaiser to take him past the infernal gates themselves… Until a ragtag gang of thieves interrupted his mourning. Varus now picks up his bow once more, riding as a Harbinger. It's high time he got revenge for the massacre of Heaven."
+  }
 }

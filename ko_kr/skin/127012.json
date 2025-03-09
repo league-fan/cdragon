@@ -149,6 +149,58 @@
     }
   ],
   "description": "한때 우주에 가해지는 위협을 미리 식별하는 임무를 수행했던 리산드라는 더 많은 지식을 갈구하며 암흑의 별과 충돌했다가 사로잡히고 말았습니다. 광기에 찬 파멸의 예언자로 변해 잿더미 속에 있는 '진정한' 우주를 보는 그녀는 한때 자신이 두려워했던 바로 그 최후가 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rainbow": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared."
+  }
 }

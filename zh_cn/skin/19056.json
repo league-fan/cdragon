@@ -58,6 +58,32 @@
     }
   ],
   "description": "即使祖安已经陷入了更深的腐败泥潭，这座底城依旧有许多人在为范德尔哀悼。没人知道他其实还残存于世，他那因微光而扭曲的身体，此刻正深藏于辛吉德的实验室之中。受尽折磨的他最终重生为怪物沃里克，彻底变成一头充满原始愤怒的野兽，即将为祸人间。但如果范德尔尚存一丝人性……那他是否还能得救？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19056,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "Many in Zaun mourned Vander, even as the undercity fell deeper into corruption. No one could have ever known that he still lived, his shimmer-twisted body hidden deep within Singed's lab. Revived as a tormented beast of primal rage, the monster Warwick was unleashed on the world. But if a fragment of his humanity still lives... can Vander be saved?"
+  }
 }

@@ -49,6 +49,35 @@
     }
   ],
   "description": "アーリは宇宙の果てからやってきたスターガーディアンチームを率いるカリスマ的なリーダーで、女王蜂のような自信とキツネのような抜け目のなさを兼ね備えている。生まれながらの人気者である彼女の魅力の前には、敵も味方も警戒を解いてしまう。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-09-06",
+    "earlysale": "2018-02",
+    "set": [
+      "Star Guardian Season 2"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 59
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores",
+      "Jean 'Curing' Go",
+      "Esben Lash Rasmussen",
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Ahri is a charismatic team captain who leads her group of Star Guardians from the outer cosmos, with the authority of a queen bee and the sly cunning of a fox. She's effortlessly popular, with an irresistible charm that disarms friends and foes alike."
+  }
 }

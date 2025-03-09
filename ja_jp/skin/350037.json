@@ -66,6 +66,35 @@
     }
   ],
   "description": "2021 World Championshipでユーミを使って勝利したMeikoの活躍を称えるスキン。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350037,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "World Champions: 2021"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tenfold Triumph": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Honoring Meiko's winning performance as Yuumi during the 2021 World Championship."
+  }
 }

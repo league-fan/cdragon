@@ -24,6 +24,26 @@
     }
   ],
   "description": "可以毫不費力地在星體間滑行的易大師帶著天界的優雅從夜空中一閃而過，他的劍刃上特殊的晶體結構使他能夠精準地在宇宙空間劃出一道完美的弧線。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-04-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-04-26",
+    "earlysale": "2017-11",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Gliding effortlessly from star to star, Yi flashes through the night sky with celestial grace, his blade arcing with crystalline precision through the fabric of the universe itself."
+  }
 }

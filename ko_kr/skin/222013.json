@@ -109,6 +109,47 @@
     }
   ],
   "description": "샛별호 승무원들을 위해 조잡하고 매우 불안정한 무기를 조립하거나 파괴하는 데 능숙한 (주로 파괴하는 쪽이지만) 징크스는 샛별호의 조종사이기도 합니다. 전직 채굴 폭파 기술자였던 그녀는 당시 엄청난 부수적 피해를 일으켜 정당한 사유로 인해 해고당했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Adept at building and/or destroying (but mostly destroying) a variety of haphazard, highly unstable weaponry for the Morning Star crew, Jinx also serves as the ship's pilot. Her previous job as a mining explosives technician resulted in a lot of collateral damage, and a thoroughly justified dismissal."
+  }
 }

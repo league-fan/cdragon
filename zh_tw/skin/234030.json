@@ -119,6 +119,51 @@
     }
   ],
   "description": "「戰魂大賽」尊貴又孤高的主持人歡迎所有人來到他的競技場！你看，他正坐在競技場高處的王座廳俯看所有參賽者！他的孤獨是不是讓人感到悲傷？希望他可以從高塔一躍而下，將這份哀傷轉化成不可遏抑的怒火！維——爾——戈！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-08-03",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Citrine": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Limitless": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Meteorite": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The gracious—if needlessly reclusive—host of the Tournament of Souls welcomes all to his arena! Look at him now, eyeing the competition from his throne room high above the ring! Doesn't his solitude just make ya sad, folks? Here's hoping he hops down from that tower and turns that sorrow into UNBRIDLED RAGE! Viiiiieeeeeeegoooooo!"
+  }
 }

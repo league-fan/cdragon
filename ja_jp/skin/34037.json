@@ -148,6 +148,55 @@
     }
   ],
   "description": "ルブラン自らの手で祝福を与えられたバットニビアは、魔女たちと共に空を飛び回り、夜空を闇と混沌で覆っている。かつてバットニビアは普通のコウモリだったが、ルブランは彼女の中に、この季節に相応しい魂を感じ取った。今では眼下の子供たちを怖がらせたり、彼女の後について空を飛ぶパーティー客たちを喜ばせたりしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34037,
+    "formatname": "Bewitching Batnivia",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 43
+      },
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 42,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "splashartist": [
+      "Huyy Nugyen",
+      "West Studio"
+    ],
+    "lore": "Enchanted by LeBlanc herself, Batnivia flies along with a coven of witches, shrouding the night sky in darkness and chaos. Though she was once an ordinary bat, Leblanc sensed the spirit of the season in her; now she helps to spread terror to the children below and glee to the partygoers who follow her flight."
+  }
 }

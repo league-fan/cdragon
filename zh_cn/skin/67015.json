@@ -58,6 +58,32 @@
     }
   ],
   "description": "以此致敬Lwx在2019全球总决赛中使用薇恩的夺胜表现，并感谢梧桐、小橘、小白、小黑对他的帮助。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67015,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 16,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring LWX's winning performance as Vayne during the 2019 World Championship with the help of Lil'Black, Lil'Orange, Firmiana and Lil'White."
+  }
 }

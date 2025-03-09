@@ -226,6 +226,52 @@
     }
   ],
   "description": "狗格魔是隻九個月大的純種哈巴狗，性情討人喜愛，不過有些唾液方面的問題。以小孩的寵物來說，是很不錯的選擇。若有食物誘因，行動會變得相當積極。已經吃掉過三個公仔和一個娃娃，要特別注意別把這些東西放在牠附近。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96009,
+    "formatname": "Pug'Maw",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Granite": {
+        "id": 18
+      },
+      "Meteorite": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sandstone": {
+        "id": 12
+      },
+      "Speckled": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Pug'Maw is a nine month old purebred pug with a sweet disposition and possibly some sort of salivary problem. Great with children and pets. Highly food motivated. Has eaten three action figures and one doll, approach with extreme caution."
+  }
 }

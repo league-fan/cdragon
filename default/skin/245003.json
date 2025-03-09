@@ -25,6 +25,27 @@
     }
   ],
   "description": "A hacker prodigy picked up from the lower sectors by Ashe, it didn't take much to convince Ekko to help her take down PROJECT. Using a powerful key decrypter and a mind tuned for disruption, Ekko can always find a way into the code.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245003,
+    "formatname": "PROJECT: Ekko",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-01",
+    "earlysale": "2017-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A hacker prodigy picked up from the lower sectors by Ashe, it didn't take much to convince Ekko to help her take down PROJECT. Using a powerful key decrypter and a mind tuned for disruption, Ekko can always find a way into the code."
+  }
 }

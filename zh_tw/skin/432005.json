@@ -48,6 +48,34 @@
     }
   ],
   "description": "巴德強大的宇宙力量與無法預測的天性是雪球大戰中極其重要的獲勝條件。他的身邊總會出現一隻隻來自凜冬之地的企鵝以及能夠自動加熱的可可亞。巴德的傳送門可以讓他通往未知之境，這也讓這名漂泊守望者有著無與倫比的優勢。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-12-10",
+    "earlysale": "2016-06",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge."
+  }
 }

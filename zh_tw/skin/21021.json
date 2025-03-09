@@ -160,6 +160,57 @@
     }
   ],
   "description": "好運姐還以為比爾吉沃特海盜女王的頭銜就已足夠。即便完成復仇、大獲全勝，但莎拉現在又面臨著比爾吉沃特各派系爭奪控制權的亂局。維爾戈的駕臨為她提供了一個能夠把任何人踩在腳底下的機會，即使這份力量是有代價的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-22",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "filter": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Cursed": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      }
+    },
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Miss Fortune thought that being the Pirate Queen of Bilgewater would be enough. Even with her revenge complete, Sarah now faced a new chaos with Bilgewater's factions vying for control. Viego's arrival offered her an opportunity to seize the strength needed to crush anyone beneath her heel, even if it came at a price."
+  }
 }

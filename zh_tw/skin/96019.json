@@ -137,6 +137,54 @@
     }
   ],
   "description": "寇格魔是一個著名術士的嬌小役獸，在他主人追求奧術之祕的漫長過程中經年累月地遭受忽視和不平待遇。多虧了一次與柔依的邂逅，他從奴役中被解放，與她一起周遊世界……並最終登記為柔依所在學校的學生。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-09",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Rainbow": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends."
+  }
 }

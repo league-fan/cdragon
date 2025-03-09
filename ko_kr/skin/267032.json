@@ -172,6 +172,53 @@
     }
   ],
   "description": "나미가 파티에 파도를 몰고 오면 물에 둥둥 떠다니는 사과를 물기 훨씬 어려워지는 것은 당연한 일입니다. 가만히 있는 사과와 달리 호박 물고기는 깨무니까요!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267032,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Bobbing for apples is certainly a lot more challenging when Nami brings the tides with her to the party. The apples don't bite back, but the pumpkin-fish do!"
+  }
 }

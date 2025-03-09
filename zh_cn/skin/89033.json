@@ -160,6 +160,59 @@
     }
   ],
   "description": "作为高档的烈阳度假村的执行者，蕾欧娜白天蛮横地将不守规矩的顾客逐出场所，晚上则与这座城市的超级富豪闲聊。即使是有钱有势的人也知道不要轻视烈阳人的神选，以免他们发现自己从顶层套房飞到了人行道上。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Cerulean Club": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "An enforcer at the exclusive Solari resort, Leona spends her days brutally ejecting unruly patrons from the premises and her evenings schmoozing up the city's ultra-wealthy. Even the rich and powerful know not to trifle with the Solari's chosen, lest they find themselves soaring out of the penthouse suite and down into the sidewalk."
+  }
 }

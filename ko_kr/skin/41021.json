@@ -49,6 +49,32 @@
     }
   ],
   "description": "2019 월드 챔피언십에서 갱플랭크를 플레이한 GimGoon의 우승 기념 스킨",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41021,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring GimGoon's winning performance as Gangplank during the 2019 World Championship."
+  }
 }

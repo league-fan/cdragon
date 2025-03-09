@@ -13,80 +13,507 @@
       "name": "腕豪",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2020-01-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-01-14",
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in."
+      }
     },
     {
       "id": 875001,
       "name": "王国机神苍狼 瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-01-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-14",
+        "set": [
+          "Mecha Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 2
+          },
+          "Peacekeeper": {
+            "id": 7,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mecha Kingdoms 2019"
+          },
+          "Pearl": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 3
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience."
+      }
     },
     {
       "id": 875008,
       "name": "神龙尊者 炎龙瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 24
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 28
+          },
+          "Citrine": {
+            "id": 25
+          },
+          "Emberclaw": {
+            "id": 20,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tenfold Triumph": {
+            "id": 55
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Once an outcast child, Sett swore he would gain power to destroy anyone who made him feel weak. The Obsidian Dragon took notice of his grit and ferocity and blessed him with obsidian-hardened skin. Sett now uses his superhuman strength to make a name for himself as a pit fighter, and every hit that bounces off his crystalline skin makes his enemies tremble."
+      }
     },
     {
       "id": 875009,
       "name": "至臻 神龙尊者 炎龙瑟提",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 8,
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "After cementing his reputation as an indomitable pit fighter, Sett used his winnings to give his mother the comfortable life of their dreams. With her happiness secured, Sett returns to the pits, determined to mentor talented young fighters and remake the fighting pits into a system that rewards not the richest or the largest, but the most determined."
+      }
     },
     {
       "id": 875010,
       "name": "泳池派对 瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-06-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-06-09",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Aquamarine": {
+            "id": 13
+          },
+          "Catseye": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Braum's tropical drinks are a favorite of Sett's—the sweeter the taste and the bigger the flowers, the better! Anyone who has a problem with that can take it up with the Boss. He'll call the Lifeguard for you."
+      }
     },
     {
       "id": 875019,
       "name": "龙腾虎跃 瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875019,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 32
+          },
+          "Catseye": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Golden Tiger": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Best known for his brawling, few realize that Sett is also an accomplished Lion Dancer. It's a surprisingly similar skillset; performing is all about good footwork, being fierce, and knowing how to wow the crowd—and who does that better than the Boss himself?"
+      }
     },
     {
       "id": 875038,
       "name": "灵魂莲华 瑟提",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Night Blossom": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Some guide the dead down the path; others tempt them from it. Another still has no allegiances, as his spirit lies in conflict with itself. Born from Kanmei and Akana, Sett lived harmoniously until, abandoned by his father, he sought retribution. Now he can only catch whispers of salvation as he spends his days challenging slain warriors, testing their worth. "
+      }
     },
     {
       "id": 875045,
       "name": "斗魂觉醒 瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 52
+          },
+          "Citrine": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 50
+          },
+          "Limitless": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Meteorite": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "This fighter is here to prove that fists CAN be the answer to everything! That is, assuming the question of everything is \"how does one person win the most local tourneys in recorded history?\" And he's not just doing it to look good—though that is a nice bonus—he's rising up the ranks to soul fightin' legend to make his momma proud. It's Sssssett!"
+      }
     },
     {
       "id": 875056,
       "name": "心之钢 瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875056,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-08",
+        "set": [
+          "HEARTSTEEL"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 63
+          },
+          "Catseye": {
+            "id": 58
+          },
+          "Citrine": {
+            "id": 64
+          },
+          "Emerald": {
+            "id": 59
+          },
+          "Pearl": {
+            "id": 62
+          },
+          "Rockstar": {
+            "id": 65,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Rose Quartz": {
+            "id": 61
+          },
+          "Ruby": {
+            "id": 57,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen",
+          "Julia Yurtsev",
+          "Jennifer Wuestling"
+        ],
+        "lore": "Don't let the chiseled abs fool you: With savvy style and a heart of gold tempered by years of hard work supporting his mom, Sett has earned his confident rapper's swagger. His last music career ended when he punched a paparazzo, but he won't be kept down. People call Sett a lot of things, but when he's on stage with HEARTSTEEL, you can call him “boss.”"
+      }
     },
     {
       "id": 875066,
       "name": "金蛇巨星 瑟提",
       "rarity": "kExalted",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875066,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+        "release": "2025-01-09",
+        "set": [
+          "Modern Mythos"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "transforming": true,
+        "forms": [
+          "Serpent",
+          "Divine"
+        ],
+        "chromas": {
+          "Serpent": {
+            "id": 66
+          },
+          "Divine": {
+            "id": 66
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "A descendant of the Ivory Serpent spirit, Sett is an action movie star who uses his ancestral gifts to wow audiences and give his Ma the good life she deserves. When his hometown is threatened by a crime syndicate, it's time for Sett to play the hero in real life, too—but will his story star a fame-seeking hotshot, or a humble protector?"
+      }
     }
   ]
 }

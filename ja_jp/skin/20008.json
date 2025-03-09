@@ -120,6 +120,51 @@
     }
   ],
   "description": "ある朝ヌヌが目を覚ますと、そこはすべてが紙でできた世界でした。辺りを探しても、お母さんの姿は見えません。ヌヌは壁の一部を四角く切り取り、それを折ってイエティのウィルンプを作りました。「さあ、母ちゃんを探しに行こう！」ヌヌの言葉を聞いたウィルンプはうなずき、ふたりは壮大な冒険の旅に出発しました。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-02-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-02-21",
+    "set": [
+      "Papercraft"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Aquamarine": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "One day, Nunu awoke to a world made entirely of paper, with his mother nowhere to be seen. He took a square off the wall, folded it into a wild Willump, and said “Now we will go find mom!” Willump agreed, and the two embarked upon a grand adventure…"
+  }
 }

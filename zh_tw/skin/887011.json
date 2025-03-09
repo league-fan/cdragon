@@ -138,6 +138,54 @@
     }
   ],
   "description": "關是友善的咖啡廳客戶接待員，總是用甜美的笑容和完美無瑕的糕點歡迎顧客。 不過別誤會了──當流氓顧客威脅她的朋友時，她可不介意用她的糖果剪刀剪點其他東西。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Gwen is the friendly face of customer service for the cafe, always there to welcome patrons with a smile and an immaculately-plated pastry. Don't be fooled, though—she isn't afraid to use her candy-cutting shears for other things when rogue customers threaten her friends."
+  }
 }

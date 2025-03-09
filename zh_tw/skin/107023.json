@@ -113,6 +113,48 @@
     }
   ],
   "description": "在一個早被遺忘的教團中，一名被人們認為死亡已久的刺客，雷葛爾，正逡巡於古墓之中，為了某個未知的目的而搜索著古老的聖遺之物。更令人感到憂慮的是，他似乎正在獵殺著守護者們，他的刀刃被施予魔法，以刺穿守護者的魔法與防禦…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "An assassin of a forgotten order long thought dead, Rengar prowls the tombs, retrieving ancient relics of power for purposes unknown. Far more alarming, he appears to be hunting guardians, his blades enchanted to pierce their ancient magic and defenses…"
+  }
 }

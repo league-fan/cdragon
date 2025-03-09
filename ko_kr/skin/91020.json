@@ -137,6 +137,55 @@
     }
   ],
   "description": "기민하고 비범한 암살자이자 그림자 도적 트위치의 의형제인 검은나무 탈론은 악명 높은 지하 세계 2인조 중 하나이며, 파티의 유일한 상급 직업입니다. 또한 그는 비극적인 배경 이야기를 가진 음울한 다크 엘프 영웅이며, 언젠가 세상을 구할 운명을 짊어졌습니다! 아마도요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91020,
+    "formatname": "Talon Blackwood",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-19",
+    "set": [
+      "Rift Quest"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Peridot": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "The sworn brother of Twitch Shadowfoot, dashing assassin extraordinaire Talon Blackwood is one half of an infamous underworld duo and the only advanced class in the entire party. He's also a brooding dark elf antihero with a tragic backstory, who is fated to one day save the world! Probably."
+  }
 }

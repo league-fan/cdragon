@@ -44,6 +44,35 @@
     }
   ],
   "description": "A brave knight of old, who legends say slew a god in battle so that all humankind might see that they were their own masters. Standing watch over the ashes of his former lands, Pantheon himself is now the only foe left to conquer, and he awaits a worthy challenger to face one final time.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80036,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-06-23",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "A brave knight of old, who legends say slew a god in battle so that all humankind might see that they were their own masters. Standing watch over the ashes of his former lands, Pantheon himself is now the only foe left to conquer, and he awaits a worthy challenger to face one final time."
+  }
 }

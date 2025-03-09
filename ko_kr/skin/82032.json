@@ -160,6 +160,59 @@
     }
   ],
   "description": "기계 악마를 만나고도 살아남은 사람은 많지 않습니다. 가까스로 살아남은 자들은 그를 괴수로 묘사합니다. 강철과 톱니바퀴로 된 전신이 지옥의 불을 연료 삼아 움직이는 모습을 보면 몸에서 혼이 빠져나갈 정도로 두렵다고 하죠. 유황 열차의 왕인 그는 훔친 금과 지옥의 철로 만든 왕좌에 앉아 지옥으로 달리는 열차를 지배합니다. 그는 공격할 수 없는 영원의 존재입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Nomad": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Few meet the Mechanical Devil and live to tell the tale. They describe a behemoth: all steel and gears, fueled by hellfire and fierce enough to scare a man's soul from his skin. He is the King of the Sulfur Rail, reigning over the train to Hell from a throne of stolen gold and infernal iron. Eternal, and unassailable."
+  }
 }

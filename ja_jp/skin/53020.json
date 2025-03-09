@@ -24,6 +24,28 @@
     }
   ],
   "description": "謎の黒い稲妻によって穢された古代のセンチネル、ダークランサー ブリッツクランクは、各地の軍隊を情け容赦なく壊滅させて、玉座の王を城もろとも葬り去る。彼が暴れ回る理由は謎のままだが、どうやら仰せつかった恐怖の任務をどこまでも忠実に遂行しているようである。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-16",
+    "earlysale": "2018-05",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "variant": 21,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "An ancient sentinel corrupted by mysterious black lightning, Rogue Lancer Blitzcrank mercilessly crushes provincial armies, destroying entire castles with kings still on their thrones. What caused its rampage is still uncertain, but for now it seems to be following its dread protocol to the letter."
+  }
 }

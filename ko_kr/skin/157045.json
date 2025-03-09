@@ -137,6 +137,55 @@
     }
   ],
   "description": "카마보르의 비에고와 싸우던 도중 부흐루의 힘을 받은 야스오는 예상외로 나가카보로스의 아이들을 위한 투사가 되었습니다. 그들이 믿는 모든 것 앞에서 과거에 대한 집착은 날아갔습니다. 하지만 몹시도 초라한 뱃사람에게도 기회는 있었고 야스오는 어둠의 세력에 맞서 승리를 거두었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-05",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 50
+      },
+      "Aquamarine": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Empowered by the Buhru during his fight against Viego of Camavor, Yasuo made an unlikely champion for the children of Nagakabouros—his obsession with past events flew in the face of everything they believed in. Yet even the mangiest sea dog has his day, and Yasuo stood against the forces of darkness, emerging triumphant."
+  }
 }

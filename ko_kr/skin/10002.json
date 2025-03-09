@@ -91,6 +91,38 @@
     }
   ],
   "description": "인간 무리에 섞여 살아가지만 인간보다 훨씬 수명이 긴 숲의 엘프들은 수 세기에 걸쳐 제국의 잃어버린 마법을, 그 잔해라도 찾으려 애를 씁니다. 케일처럼 비기를 찾아낸 이들은 자연계에 대해 엄청난 힘을 갖게 되죠.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-06-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-06-01",
+    "set": [
+      "Albion"
+    ],
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "chromas": {
+      "Aquamarine": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      }
+    },
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world."
+  }
 }

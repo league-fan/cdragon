@@ -24,6 +24,27 @@
     }
   ],
   "description": "全能のセキュリティーボットとして製造されたプログラム リサンドラは、初期コードを超えて自己生成する人工知能となった。彼女は模倣コマンドを用いて身体拡張を施した人間のテクノロジーを操作し、服従させている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-04-06",
+    "earlysale": "2016-10",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Built as an all-seeing security bot, Program Lissandra rose above her initial code to become a self-generating artificial intelligence. She manipulates the technology of augmented humans with her own mimetic commands, so that all will fall before her."
+  }
 }

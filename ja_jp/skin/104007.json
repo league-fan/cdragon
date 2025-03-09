@@ -48,6 +48,32 @@
     }
   ],
   "description": "グレイブスは強力な雪玉銃とやる気を武器に、脱獄した時と変わらない、まるで起業家のような精神であらゆる雪合戦に全力投球する。自らの安全は気にかけず、あらゆるものを吹き飛ばすのが彼のやり方だ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-12-14",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Outfitted with his mighty snowblowing gun and a can-do attitude, Graves enters every snowball fight with the same entrepreneurial spirit that got him out of prison. Which is to say, blowing a lot of things up with little to no regard for his own safety."
+  }
 }

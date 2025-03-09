@@ -128,6 +128,51 @@
     }
   ],
   "description": "光明与美丽之喜乐花仙王庭的卡尔玛女王安康！尽管她的获选和随后的登基对每个人来说都意想不到（贵族、平民、甚至是卡尔玛自己），但她是一个拥有镇定和力量的信标，负责监督四季的轮转，并维持那些争论不休的各个分庭之间的平衡。女王安康！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Winsome": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "All hail Her Majesty, Karma, Queen of the Seelie Court of Light and Beauty! Though her selection and subsequent rise to the throne was a surprise to everyone (nobles, laymen, even Karma herself), she is a beacon of poise and power, overseeing the turning of seasons and keeping the balance between the ever-bickering seasonal sub-courts. Long live the Queen!"
+  }
 }

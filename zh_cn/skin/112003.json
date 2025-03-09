@@ -24,6 +24,25 @@
     }
   ],
   "description": "作为战地机甲大军的缔造者，维克托拥有将活体改造为机械化、可量产武器的惊人技艺。虽然他的作品已经更加致命而精致，但是他的野心还远未得到满足。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-09-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-09-30",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "The creator of the Battlecast machine army, Viktor has perfected the art of transplanting living brains into low-tech, mass-produced weapons. But his work is far from complete, and even now he tinkers on newer, deadlier creations to crush all who oppose him."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "자르반에게 해변에서 시간을 보내는 것만큼 느긋한 휴식은 없습니다. 다스려야 할 왕국도 앉아 있어야 할 왕좌도 없이 그저 가장 좋아하는 해변 의자에 앉아 파도 소리를 즐길 수 있죠. 잘 집중하면 바람을 가르며 자르반 쪽으로 곧장 날아오는 공 소리가 들리기도 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Peridot": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him..."
+  }
 }

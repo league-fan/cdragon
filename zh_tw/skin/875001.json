@@ -119,6 +119,52 @@
     }
   ],
   "description": "賽特曾是一名在殘酷的郊野中生存下來的無名野蠻人，他深知自己最大的力量就是兇橫無比的雙拳。而在殘酷的鬥技場打出了名聲與財富後，他為自己建立了一個全新的形象：「兇蠻之狼」。而在聽說了深淵巨獸的入侵之後，他利用自己的名聲與財富得到了一台專屬於自己的機甲巨神兵，只為了一勞永逸地向他廣大的粉絲們展示他蠻橫無比的力量。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-14",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 2
+      },
+      "Peacekeeper": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 3
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience."
+  }
 }

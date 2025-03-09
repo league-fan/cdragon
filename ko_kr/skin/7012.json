@@ -118,6 +118,51 @@
     }
   ],
   "description": "외교 소프트웨어 아바타로 판매되는 르블랑은 사실 인간 사용자들과 원활하게 소통할 수 있는 첩보용 인공 지능입니다. 오직 속이기 위한 목적으로 제작된 르블랑은 세상에서 가장 영향력 있는 기업 여러 곳에 침투해 조용히 최종 명령을 기다립니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-15",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 18,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Rainbow": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Marketed as a diplomat-software avatar, LeBlanc is in fact a duplicitous intelligence that can interact seamlessly with human users. Created only to deceive, she has infiltrated a number of the most powerful corporations on the planet, and quietly awaits her final orders."
+  }
 }

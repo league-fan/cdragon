@@ -160,6 +160,61 @@
     }
   ],
   "description": "曙光是許多人覬覦的力量，但是劫並不喜歡因它而曝光。他是一股誕生自黑暗之中的力量，不受虎視眈眈的侵擾。也許在派克甦醒後所遺留的崩毀外殼境界，他能就地打造一個全新的黯影領域，一個不會被宇宙幻焰所顛覆的世界。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Neon Flare": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "The Foreglow is a power many desire, but Zed resents how it exposes him. His is a strength born from darkness, away from prying eyes. Perhaps in the fallen Husk realm left in Pyke's wake can he build a new domain of shadows, one that no Empyrean can topple."
+  }
 }

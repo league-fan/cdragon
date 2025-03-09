@@ -160,6 +160,60 @@
     }
   ],
   "description": "「Z01-オリオン」のエースパイロットであるルシアンは、実行部隊ハイペリオンの初任務に任命された──任務内容は、裏切り者のカイ＝サが盗んだ試作機「X01-バタフライ」を彼女から取り戻すこと。彼は指揮官カミールのやり方や倫理観に反発することもあるが、どちらも盗まれたEXOスーツが悪の手に渡れば、銀河に大惨事が起こる可能性があることは理解している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Amethyst": {
+        "id": 44
+      },
+      "Citrine": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Lucian is the ace pilot of the Z01-Orion, assigned to the inaugural mission of Strike Team Hyperion: reclaiming the experimental X01-Butterfly from its turncoat thief, Kai'Sa. He may not always agree with Commander Camille's methods, or her morality, but they both know that rogue exosuits in the wrong hands would spell disaster for the galaxy."
+  }
 }

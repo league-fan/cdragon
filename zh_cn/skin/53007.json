@@ -33,6 +33,24 @@
     }
   ],
   "description": "获取方式：在2013年与一位RIOT员工碰面，或是参加一个官方的RIOT事件。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-10-21",
+    "set": [
+      "Riot"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2013."
+  }
 }

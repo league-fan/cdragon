@@ -143,6 +143,53 @@
     }
   ],
   "description": "キヤナは近年の戴冠式に参加したイシュタルのクイーンの中では最年少だ。彼女は「紋章」とクイーンの称号を手に入れるチャンスを待ちあぐねていた。そしてついにそれらを手にした彼女は、トーナメントで手に入れることができる魔力を使い、自分の思うようにイシュタルを作り直すつもりでいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 13
+      },
+      "Coronation": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "lore": "Qiyana is the youngest in a line of sisters who have been Queens of Ixtal for most of the recent Coronations. She's been waiting impatiently for her chance at the Crest and the title. Now that she has it, she intends to use the power she gains in the tournament to remake Ixtal in her vision."
+  }
 }

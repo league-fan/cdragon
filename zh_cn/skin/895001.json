@@ -160,6 +160,59 @@
     }
   ],
   "description": "尼菈是一名强大的外侧星域守护者，在更广阔的宇宙中巡逻，她曾面对过多个足以终结现实的威胁并活着回来了……而这使她成为同龄人中的传奇人物。她被要求担任新一代的老师，并很不情愿地接受了她的新职责……但如果一个特别大的怪物出现在瓦洛兰城中时，她总会率先要求出击。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 895001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-13",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Sandra Saad"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A powerful Outer Guardian who patrols the wider universe, Nilah has faced multiple reality-ending threats and returned alive... making her a living legend among her peers. Asked to act as teacher to the new generation, she has reluctantly accepted her new responsibilities... though if a particularly big monster appears in VC, she always calls dibs."
+  }
 }

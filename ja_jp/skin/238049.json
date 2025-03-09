@@ -138,6 +138,53 @@
     }
   ],
   "description": "不滅性を手に入れ、別世界の研究を始めたゼドは、新たな望みを抱くようになった──知識がいたるところにあるのならば、自分もいたるところに存在すべきではないかと。その研究を知った「不動の先見流」はゼドを破門にしたが、彼はそんなことなど気にかけなかった。彼にはもう、いたるところに現れすべてを知ることができる、悪魔じみた新たな力があるのだから。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238049,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 55
+      },
+      "Catseye": {
+        "id": 51
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 57
+      },
+      "Rose Quartz": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 50,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Turquoise": {
+        "id": 56
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "When Zed became immortal and began studying the other realms, a new desire took hold: knowledge was everywhere, so he needed to BE everywhere. Upon discovering his explorations, the Grounded Foresight School banished him. Zed doesn't care, though, for he's found a new demonic power, allowing him to be everywhere and all-knowing."
+  }
 }

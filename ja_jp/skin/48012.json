@@ -137,6 +137,54 @@
     }
   ],
   "description": "何でもかんでも叩き壊す、恐怖の象徴トランドル<br>どんなにその場を荒らそうと、後片付けなどする気はない<br>唸って、叫んで、睨みつけ、面倒事とはおさらばだ<br>スケアボールのチームメイトが、彼の活躍待っている！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Teenage nightmare Trundle leaves everything distressed<br>But he won't lift a finger cleaning up his mess<br>Howling, growling, scowling, his chores he won't address,<br>For he has a team (or two) of Scareball players to impress!"
+  }
 }

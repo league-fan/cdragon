@@ -160,6 +160,60 @@
     }
   ],
   "description": "達瑞斯以戰士之姿陣亡沙場，回歸了塵土。但他的靈魂仍不願安息。從肉身手中遺落的戰斧，馬上又被化為靈魂的他拾起，「戰爭之靈」就此誕生。達瑞斯成為只求血光的災厄，在凡間徘徊，找尋戰爭的激情。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Night Blossom": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 49
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Darius' body fell to the dirt, yet another soldier's sacrifice. But his soul would not rest. Picking up his axe just as soon as it was knocked from his mortal hand, the Spirit of War arose. A calamity motivated only towards bloodshed, Darius stalks the mortal world, searching for the thrill of battle. "
+  }
 }

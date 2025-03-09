@@ -24,6 +24,25 @@
     }
   ],
   "description": "生命エネルギーの具現化した至高の存在であるヴェル＝コズは、伝説や神話にも登場し、崇拝の対象となっている。彼は千年に一度だけ定命の世界に降り立ち、計り知れない意思を遂行する価値のある者を選び出す。選ばれし者たちは超越的な力の持ち主、アークライトとして生まれ変わるのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-01-28",
+    "set": [
+      "Arclight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight."
+  }
 }

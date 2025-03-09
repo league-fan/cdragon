@@ -24,6 +24,23 @@
     }
   ],
   "description": "エメラルド・チャペル騎士団はエルダーウッドに身を捧げることを誓った、元人間の男女で構成されている。彼らは献身と引き換えに超人的な長命を授かった。現在はタリックという名前の男が率いており、一握りの人数がそこに暮らしている。あらゆる侵略者から森を守ること、それが彼らの役割だ。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2009-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 44001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2009-11-20",
+    "retired": "2012-03-12",
+    "set": [
+      "Elderwood"
+    ],
+    "vu": true,
+    "voiceactor": [
+      "Yuri Lowenthal"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "The Knights of the Emerald Chapel are the once-human stewards of the Elderwood—men and women who swore an oath to the land itself, and in return were granted unnaturally long life. Now led by a man named Taric, a handful reside there still, protecting the forest from all manner of invaders."
+  }
 }

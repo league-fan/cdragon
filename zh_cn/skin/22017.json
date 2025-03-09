@@ -116,6 +116,49 @@
     }
   ],
   "description": "艾希是诞生于西部拓荒年代的机械天使。在那个疯狂的圈地年代，人类摧毁了天堂，用枪炮弑杀了神明，而艾希的燃料便是那些神明的鲜血。她形成了一种冷漠的态度，不断寻找新的冒险，即便人类夺走了自己永恒的乐园，她也选择不计前嫌，保护人类。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-10-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-10-10",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 19
+      },
+      "Nomad": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2019"
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "A mechanical angel built at the dawn of the pioneer age, Ashe is fueled by the blood of deities gunned down in the infamous land rush that destroyed Heaven. She has adopted a devil-may-care attitude as she seeks adventure, choosing to forgive and protect the same mankind that forever robbed itself of eternal paradise."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "艾欧尼亚人分享了关于黑夜孪生灵——厄斐琉斯和拉露恩——的耳语故事。据说天空的黑暗来自哥哥的武器，将蓝色和白色的织物撕开，形成了一幅画有星星的黑曜石画布。妹妹的动机更……神秘。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 523020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Night Blossom": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "N/A",
+      "Tania Gunadi"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Ionians share whispered stories of the twin spirits of the night, Aphelios and Alune. It is said the darkening of the sky comes from the brother's armaments, tearing the fabric of blues and whites apart to create an obsidian canvas painted with stars. The sister's motives are more... mysterious."
+  }
 }

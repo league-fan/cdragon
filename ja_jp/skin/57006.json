@@ -162,6 +162,52 @@
     }
   ],
   "description": "マオカイは、ついに巨大な体躯を誇る恐怖の爪研ぎタワーとしての自らの役割を受け入れたのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57006,
+    "formatname": "Meowkai",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-03-31",
+    "earlysale": "2016-09",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Hearts": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Peridot": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Maokai has, at long last, embraced his role as a giant, haunted scratching post."
+  }
 }

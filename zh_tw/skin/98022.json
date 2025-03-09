@@ -143,6 +143,58 @@
     }
   ],
   "description": "慎是一名靈能士兵，也是靈戰特工中的中尉，他的能力與一位四處跟隨他的幽靈孩童有關－－他能夠藉由孩子的力量洞察到活人跟死者之間的縫隙。除了高層外，沒有人知道這個孩子的來歷，而他們也永遠不會透露給任何人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 35
+      },
+      "Hunter": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 34
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "A psychic soldier and field lieutenant within PsyOps, Shen's power is connected to a phantom child that follows him wherever he goes "
+  }
 }

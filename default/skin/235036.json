@@ -138,6 +138,54 @@
     }
   ],
   "description": "When she was just a young witch, a warlock bound Senna's soul to a tome of spells, hoping to rid himself of her rising power. But her time spent disembodied only made her stronger. While others party, the overly serious Senna searches for ghouls and ghosts, planning to send them to the grave... again.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235036,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Huyy Nugyen",
+      "West Studio"
+    ],
+    "lore": "When she was just a young witch, a warlock bound Senna's soul to a tome of spells, hoping to rid himself of her rising power. But her time spent disembodied only made her stronger. While others party, the overly serious Senna searches for ghouls and ghosts, planning to send them to the grave... again."
+  }
 }

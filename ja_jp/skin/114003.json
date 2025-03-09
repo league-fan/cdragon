@@ -226,6 +226,45 @@
     }
   ],
   "description": "全生徒に告ぐ: 最近、器物破損やその他の迷惑行為が急増していますが、これらの行為はいずれもフィオラ校長先生の関心を引くことが目的であるように思えます。ですが校長先生をこのように刺激するのは命の危険を伴います。アカデミーの行動規範をもう一度よく読むよう、学生部長として通達しておきます。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Academy"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Jasper": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      },
+      "Sapphire": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "lore": "ATTENTION ALL STUDENTS: Concerning the recent upswing in vandalism and general troublemaking, it has come to my attention these behaviors may be intended to draw the personal attention of our headmistress. The dean reminds students that such encounters can be fatal, and encourages them to re-read the Academy code of conduct. "
+  }
 }

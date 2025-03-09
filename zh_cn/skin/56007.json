@@ -141,6 +141,54 @@
     }
   ],
   "description": "古神们的庞大尸体滋养着大地，并且很快地，就连永恒之森都会在他们变质的腐体上生长——将它隐藏，也许，暂时如此。但神是不会真正死去的，并且，随着魔女会的卷土重来，其中一名已经再次兴起——永恒梦魇，魔腾。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Coven",
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare."
+  }
 }

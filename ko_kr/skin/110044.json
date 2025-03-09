@@ -137,6 +137,54 @@
     }
   ],
   "description": "바루스는 핏빛달 숭배자들 때문에 미쳐 버린 전우들의 목숨을 앗아 갈 수밖에 없었습니다. 슬픔에 잠긴 그는 서리달 교단에 고통을 무디게 해 달라고, 자신을 얼음처럼 차가운 복수의 도구로 만들어 달라고 애원했습니다. 교단이 바루스의 이단적인 감정을 정화하려고 했지만... 발마와 카이의 목소리는 그의 마음속에 남게 됐습니다. 바루스의 차가운 심장에서는 여전히 복수심이 타오릅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 47
+      },
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "Blood Moon cultists drove Varus' comrades mad, forcing him to take their lives. Awash with grief, he begged the Snow Moon Order to numb the pain, to make him an instrument of ice cold revenge. The Order attempted to purify him of these heretical emotions… but Valmar and Kai's voices linger in his mind, and vengeance still smolders in his cold heart."
+  }
 }

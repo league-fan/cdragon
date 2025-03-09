@@ -25,6 +25,25 @@
     }
   ],
   "description": "상급 지옥귀는 하급 지옥귀보다 훨씬 잔인하고 악랄합니다. 나서스도 예외는 아니죠. 저 깊은 지옥의 심연에서 온 나서스는 머리가 세 개 달린 괴물로, 손에 닿는 모든 생명을 시들게 한 후 재로 만들어 버립니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2013-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2013-11-20",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "The greater Infernals are somehow even more cruel and hateful than their lesser counterparts, and Nasus is no exception. A three-headed monstrosity raised from some far-flung, hellish abyss, he withers life with his merest touch… then burns it away."
+  }
 }

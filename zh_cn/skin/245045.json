@@ -155,6 +155,60 @@
     }
   ],
   "description": "凭借始源之星的时间转移能力，艾克得以用轻松随意的态度对待生活。如果你能无限次地重新来过的话，还有在意的理由吗？ 但在与星之守护者们一起面对怪物时，他会非常认真，用他对时间和空间的掌控来保护瓦洛兰城免受黑暗。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Given time-shifting powers by the First Star, Ekko approaches life with a relaxed and casual demeanor. Why care if you get infinite do-overs? But when it comes to facing monsters alongside the Star Guardians, he's deadly serious, using his command over time and space to keep Valoran City safe from the darkness."
+  }
 }

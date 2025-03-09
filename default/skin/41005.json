@@ -24,6 +24,22 @@
     }
   ],
   "description": "How special are the special forces? Let's put it this way: they're the only unit in the military with unlimited access to oranges.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-09-12",
+    "set": [
+      "Commando"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "vu": true,
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "lore": "How special are the special forces? Let's put it this way: they're the only unit in the military with unlimited access to oranges."
+  }
 }

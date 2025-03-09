@@ -86,6 +86,30 @@
     }
   ],
   "description": "死亡骑士内瑟斯负责看守着他主人在迷宫般的寝陵中深藏的禁忌文书。相传其中藏着死亡骑士之陨落的秘密，但目前还没有生灵能够验证这到底是真相还是无稽之谈。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-04-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-26",
+    "set": [
+      "Dreadknights"
+    ],
+    "chromas": {
+      "Blight": {
+        "id": 8
+      },
+      "Burn": {
+        "id": 7
+      },
+      "Frostbite": {
+        "id": 9
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "lore": "Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable."
+  }
 }

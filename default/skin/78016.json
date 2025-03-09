@@ -131,6 +131,55 @@
     }
   ],
   "description": "Commencing countdown, engines on. Check ignition, keep the Hammer safe with you...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-28",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Aquamarine": {
+        "id": 20
+      },
+      "Chrono": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Peridot": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Commencing countdown, engines on. Check ignition, keep the Hammer safe with you..."
+  }
 }

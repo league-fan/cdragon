@@ -12,48 +12,282 @@
       "name": "아우렐리온 솔",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2016-03-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 136000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2016-03-24",
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his star-forging ways, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom."
+      }
     },
     {
       "id": 136001,
       "name": "잿빛 군주 아우렐리온 솔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-03-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 136001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-03-24",
+        "earlysale": "2016-09",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Pyromancer cultists unwisely summoned the god of fire and ruin—the Ashen Lord—into the world hoping to control his power. Instead, he unleashed his infernal legions to remake all things in his image: cinder, ash, and death."
+      }
     },
     {
       "id": 136002,
       "name": "메카 아우렐리온 솔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-08-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 136002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-16",
+        "set": [
+          "Mecha"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Catseye": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Designated ASOL-13, the “Mecha Aurelion Sol” is a gigantic, mobile mothership carrying tens of thousands of personnel, attack fighters, and ground-based anti-kaiju vehicles. Buried within its hull are a vast array of weapons, making ASOL-13 more than a match for even the most gargantuan kaiju."
+      }
     },
     {
       "id": 136011,
       "name": "폭풍용 아우렐리온 솔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 136011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Emberclaw": {
+            "id": 20,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Jadeclaw": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "The dragon Aurelion Sol, known to seven generations of worshippers as Ao Shin, has long awaited the ascent of a warrior worthy of receiving the power of the storm. Now, with Lee Sin's transformation into the Dragonmancer, Ao Shin has directed his impossible power towards purging the world of evil."
+      }
     },
     {
       "id": 136021,
       "name": "먹그림자 아우렐리온 솔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 136021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Inked": {
+            "id": 30,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2023"
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 28
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "An ancient spirit that has been making contracts with mortals through tattoos for centuries, Aurelion Sol grants inhuman power in exchange for the life force of his pawns, letting them slowly waste away until they inevitably succumb to his appetite. There is always another conflict, another war—so he has grown powerful on their deals, ever feeding."
+      }
     },
     {
       "id": 136031,
       "name": "도자기 수호자 아우렐리온 솔",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 136031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Opulent": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "When the Zodiac forged their relics, Aurelion Sol was there. With him, eleven others: the first to be humbled with the task of guarding the artifacts, the first to be granted their powers. Centuries later, Aurelion Sol is summoned forth by his draconic descendant, desperate for his help against an ancient threat with which he is all too familiar."
+      }
     }
   ]
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "원래 폭탄 해체 로봇이었던 블리츠크랭크는 심판이 되었습니다. 재빠른 임기응변 덕분에 재능 있는 선수들에게 뒤처지지 않을 수 있었기 때문이죠. 나중에야 밝혀진 사실이지만, 블리츠크랭크의 폭탄 해체 경력은 경기 중에 종종 과열되는 언쟁을 가라앉히는 데 큰 도움이 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-09",
+    "set": [
+      "Zenith Games"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Obsidian": {
+        "id": 55
+      },
+      "Pearl": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Originally a bomb defusal robot, Blitzcrank was made a referee because of their ability to make split-second adjustments to stay ahead of the prodigious athletes. Only later did everyone realize that the bot's background made them unusually effective in defusing the intense... disagreements that often arise."
+  }
 }

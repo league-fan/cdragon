@@ -160,6 +160,61 @@
     }
   ],
   "description": "赛娜是一位源计划的支援者，她的躯体在她的意识上升期间死亡，而她的心灵则与物理世界分离，并遁入网络空间，成了一位数码幽灵。在莫德凯撒夺取了这座城市的控制权时，她栖息在自己设计的躯体里，并且她是了解他那不断扩张的指令的真正威胁的少数几个人之一。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235016,
+    "formatname": "PROJECT: Senna",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Peridot": {
+        "id": 19
+      },
+      "Reckoning": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A PROJECT volunteer who supposedly died during the elevation of her consciousness, Senna's mind was decoupled from the physical world and escaped into cyberspace, becoming a digital ghost. Inhabiting a body of her own design as Mordekaiser assumed control of the City, she is one of the few who understands the true threat of his ever-expanding directives. "
+  }
 }

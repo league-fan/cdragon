@@ -138,6 +138,54 @@
     }
   ],
   "description": "카페 주인의 딸이자 재주 많은 제빵 마법 신동인 애니는 단 걸 좋아한다고 소문이 자자합니다. 가끔 배가 고플 때는 짜증도 내지만, 그럴 때는 마법에 걸린 젤리곰이 애니에게 줄 음식을 찾아 카페 전체를 뒤지죠. 배부른 애니는 얼마나 상냥한지 몰라요!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 26
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Daughter of the cafe's owner and an accomplished pastry mage wunderkind, Annie has a sweet tooth to be reckoned with. Though her occasional hangry tantrums send her enchanted gummy bear scouring the cafe for any morsel of food fit for his master, with a full belly Annie is as sweet as sugar!"
+  }
 }

@@ -159,6 +159,61 @@
     }
   ],
   "description": "다리우스는 암흑가의 우두머리로 올라서고 싶었을 뿐이었습니다. 미스 포츈의 개인 경호원이 되는 게 그 첫 번째 단계였죠. 하지만 두 번째 단계에서는 불가사의한 신사의 힘을 받아들였습니다. 시공간 너머의 힘은 다리우스를 반갑게 맞이하며 상상도 하지 못했던 크나큰 힘을 안겨 주었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 38
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      },
+      "Tanzanite": {
+        "id": 39
+      },
+      "Underground": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "All Darius wanted was to secure a place for himself at the top of the underworld. Becoming Miss Fortune's personal bodyguard was the first step, but the second was embracing the power of the Mysterious Gentleman: welcoming forces from beyond space and time that have molded him into something far more powerful than he could ever have imagined."
+  }
 }

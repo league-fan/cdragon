@@ -160,6 +160,62 @@
     }
   ],
   "description": "행성에서 가장 강력한 부기 발산 능력을 타고난 윌럼프는 좋은 바이브를 험악한 바이브로 바꾸려는 리산드라에 의해 징집되었습니다. 그러나 보통 세계를 공격하던 중 누누를 만난 윌럼프는 전 우주를 돌며 좋은 바이브를 전파하기 위해 리산드라의 손아귀에서 벗어났죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Disco": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Yan Kyohara",
+      "West Studio"
+    ],
+    "lore": "Blessed with the strongest boogie-channeling abilities his planet had ever seen, Willump had been recruited by Lissandra to convert good vibes into harsh ones. But when he met Nunu during the siege of Normal World, Willump broke free of Lissandra's control and the two deserted to travel the galaxy, and bring good vibes back to the universe."
+  }
 }

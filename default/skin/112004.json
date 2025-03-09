@@ -24,6 +24,25 @@
     }
   ],
   "description": "On a cold, dreary night, a pioneering inventor was tried and hanged for preaching his glorious vision of the future—a world in which the living knelt before the dead. Death had to admire Viktor's conviction, and sent him back into the mortal world, blessed with powers beyond imagination.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-10-25",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "On a cold, dreary night, a pioneering inventor was tried and hanged for preaching his glorious vision of the future—a world in which the living knelt before the dead. Death had to admire Viktor's conviction, and sent him back into the mortal world, blessed with powers beyond imagination."
+  }
 }

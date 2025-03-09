@@ -160,6 +160,61 @@
     }
   ],
   "description": "奥瑞利安·索尔是一个通过墨纹与凡人缔结契约的远古灵体。数个世纪以来，他靠着赋予非人的力量来换取他的契约者们的生命力，让他们慢慢消瘦，直到他们不可避免地屈服于他的胃口。总会有另一场冲突，另一场战争——所以他在与他们的交易中变得强大起来，并在不停地摄取。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Inked": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "An ancient spirit that has been making contracts with mortals through tattoos for centuries, Aurelion Sol grants inhuman power in exchange for the life force of his pawns, letting them slowly waste away until they inevitably succumb to his appetite. There is always another conflict, another war—so he has grown powerful on their deals, ever feeding."
+  }
 }

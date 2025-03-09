@@ -147,6 +147,58 @@
     }
   ],
   "description": "世話好きな性格のアイバーンは、ミィプたちが安全に暮らせる場所を作って彼らの面倒を見ていたが、ゼラスが引き起こした爆発によって宇宙船を破壊されてしまい、行くあてもなく宇宙空間を彷徨うこととなった。しかし、その後偶然にもフィズが衝突してきたことで、彼に救出してもらうことができた。そして現在、彼らの部隊の一員となったアイバーンは、自分の保護を必要としている彷徨える者たちの捜索を行っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 427020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 25,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "David Lodge"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Ivern's nurturing nature created a safe haven for the meeps under his care. However, an explosion caused by Xerath destroyed his ship and left him aimlessly floating in space. After a chance encounter with Fizz, who saved him by accidentally crashing into him, Ivern joined their ranks to search for any wanderers in need of his protection."
+  }
 }

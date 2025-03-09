@@ -33,6 +33,18 @@
     }
   ],
   "description": "赵信，一位丛林战的专家，能刺中一百码之外的长在雨林树冠层上的果子。他只是选择不这么做，因为他的长枪上已遍布水果块。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-07-13",
+    "set": [
+      "Commando"
+    ],
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "lore": "An expert at jungle warfare, Xin Zhao can harpoon a fruit from the rainforest canopy at a hundred yards. He just chooses not to, because it gets fruit chunks all over his spear."
+  }
 }

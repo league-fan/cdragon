@@ -171,6 +171,54 @@
     }
   ],
   "description": "아무무에게, 복도에서도, 밴드 배틀에서도 너만 봤어. 부끄러워서 손잡자고는 못 하겠지만, 꼭 친해지고 싶어. 빨리 만나고 싶다! 사랑을 담아, 영원한 비밀 친구가",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 32044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-10",
+    "set": [
+      "Heartthrobs and Heartaches"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Dear Amumu, I see you around the halls, and at the battle of the bands. I'm afraid I'm just too shy to ask you to hold hands, I think you're really cool and I'd love to be your friend. I can't wait to finally meet you! Love, Your Secret Friend-mirer 'Til the End"
+  }
 }

@@ -57,6 +57,34 @@
     }
   ],
   "description": "随着世界的毁灭，这位凡人的帝王也解开了束缚。嘉文已被黑暗空间中上古久远的气息所侵袭。他的人性已经和他的人民一起消失了，现在他静静等待这死兆星的入侵，最终迎来万物的终结。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-03-01",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence."
+  }
 }

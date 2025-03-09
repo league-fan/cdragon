@@ -148,6 +148,56 @@
     }
   ],
   "description": "在神木森林的陰影樹冠深處，王子銳空跟公主剎雅共同主持著一個王國，管轄著兩個彼此敵對的精靈之國。儘管公主剎雅已經看到了彼岸世界的黑暗，但她選擇單純地讓她的王國適應那股黑暗的顏色，而非與之對抗。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emberwood": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tanzanite": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Though Princess Xayah has seen the darkness of the world beyond, she has chosen to simply adopt its colors for her court rather than confront it."
+  }
 }

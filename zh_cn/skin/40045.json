@@ -160,6 +160,60 @@
     }
   ],
   "description": "迦娜来自皇家太空军研发部门的一个实验品，也是皇家太空军历史上唯一成功驾驶战斗服的智能机人。也许是因为她看起来很像人类，以至于很容易忘记她所指挥的一阵阵的“风”实际上是一支纳米机器人舰队，它们直接连接到“X09-星环灵风”战斗服以及她的中央处理核心。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "An experiment from RSM's R&D division, Janna is the only successful use of an android to pilot an exosuit in history. Perhaps it's because she looks so human that most forget the gusts of “wind“ she commands are actually a fleet of nanobots connected directly to both the X09-Zephyr as well as her central processing core."
+  }
 }

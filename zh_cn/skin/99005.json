@@ -33,6 +33,21 @@
     }
   ],
   "description": "这位训练有素的钢铁军团专家使用光线增幅水晶权杖来释放浓缩了能量的光束。拉克丝是被认定过的，她与武器的密切关联已被组织内的若干主要科学家给静默观察过。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-02-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-02-01",
+    "set": [
+      "Steel Legion"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "lore": "This highly-trained specialist in the Steel Legion uses light-magnifying crystal rods to discharge rays of concentrated energy. Designated Lux, her affinity with the weapons has been quietly observed by several leading scientists within the organization."
+  }
 }

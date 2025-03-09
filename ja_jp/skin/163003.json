@@ -125,6 +125,51 @@
     }
   ],
   "description": "タリヤは以前、波に乗れず途方に暮れていたジャーヴァンにサーフィンをレクチャーしたことがある。「ピットに叩きつけられる」「チューブライドする」「バレルをメイク」といった専門用語を使ったのでジャーヴァンは絶対理解してないだろうな、とタリヤは確信している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Peridot": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Taliyah once attempted to describe surfboarding to a perplexed Jarvan, using such terms as “get pitted”, “tubular”, and “ride the barrel”. She's pretty sure he still has no idea what she was talking about."
+  }
 }

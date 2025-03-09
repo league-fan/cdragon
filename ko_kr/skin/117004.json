@@ -24,6 +24,24 @@
     }
   ],
   "description": "포로 친구 픽스와 늘 함께 다니는 다정한 마법사 룰루는 변덕쟁이 얼음 마법으로 여기저기서 눈맞이 축제를 즐기는 이들에게 놀라움과 즐거움을 선사합니다. 룰루는 사실 노련한 전사이기도 해서 치명적인 얼음 화살을 발사하여 적군을 눈사람으로 만들어 버리기도 하죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-12-19",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "A kindly sorceress trailed by her poro pal Pix, Lulu's whimsical ice magic amazes and delights Snowdown revelers everywhere. She's also a skilled fighter, firing deadly glacial spikes and transforming foes into harmless snowmen."
+  }
 }

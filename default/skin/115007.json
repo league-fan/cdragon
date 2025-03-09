@@ -109,6 +109,48 @@
     }
   ],
   "description": "A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "retired": "2018-09-24",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige."
+  }
 }

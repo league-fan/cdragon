@@ -48,6 +48,34 @@
     }
   ],
   "description": "雷玟平時在遊樂場打工，她總會趁店經理下班後偷玩能夠模擬舞蹈動作的遊戲機。自從透過數位傳送來到電玩世界後，雷玟憑藉著過去累積的舞蹈實力（和從她最愛的角色扮演遊戲中得到的武器）來摧毀維迦的統治。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-08-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-08-19",
+    "earlysale": "2016-02",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "K.O.": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Riven's part-time job at an arcade mostly involved playing dance simulators after her manager went home. Digitally transported to Arcade World by even scarier bosses, she's now using her moves (and some gear from her favorite RPG) to tear up Veigar's regime, one enemy at a time."
+  }
 }

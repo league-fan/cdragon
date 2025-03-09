@@ -24,6 +24,49 @@
     }
   ],
   "description": "烏迪爾在愛歐尼亞的希安那大修道院的修行時光，教會他掌管並克制內心的風暴。儘管弗雷爾卓德呼喚他返鄉，他仍選擇留下，幫助愛歐尼亞恢復精神上的平衡，回報這片土地帶給他的教誨。隨著目標逐漸達成，他領悟到自身為整片符文大地恢復平衡的志業才正要開始。",
-  "wikiPrice": "3250",
-  "wikiReleaseDate": "2013-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 77003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2013-07-16",
+    "set": [
+      "Spirit Guard"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Spirit Tiger",
+    "forms": [
+      "Base",
+      "Tiger",
+      "Turtle",
+      "Bear",
+      "Phoenix"
+    ],
+    "chromas": {
+      "Tiger": {
+        "id": 3
+      },
+      "Turtle": {
+        "id": 3
+      },
+      "Bear": {
+        "id": 3
+      },
+      "Phoenix": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Sean Rohani"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Udyr's time in Ionia, training at Hirana Monastery, taught him control and calmed the storm in his heart. Though the Freljord called him home, Udyr chose to stay and help Ionia regain spiritual harmony, as it had done for him. As he gets closer to this goal, he knows that his work to do the same for the whole of Runeterra has only just begun."
+  }
 }

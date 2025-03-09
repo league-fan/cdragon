@@ -132,6 +132,51 @@
     }
   ],
   "description": "大きな帽子をかぶった痩せた男が砂ぼこりを巻き上げながら馬にまたがってやってくるのが見えたら…逃げろ。馬を全速で駆り、決して振り返ってはいけない。さもなくば、フィドルスティックスと呼ばれる恐怖の存在に鞍から引きずり降ろされて闇へと連れて行かれる。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-08-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-08-10",
+    "set": [
+      "High Noon"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Citrine": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "If the day ever comes, riding those dusty trails, when a thin man in a wide hat appears far in the distance… run. Ride hard and fast and never look back, lest the horror known as Fiddlesticks drag you to from your saddle, and into darkness."
+  }
 }

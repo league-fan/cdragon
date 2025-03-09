@@ -137,6 +137,54 @@
     }
   ],
   "description": "자신이 최고의 제빵사임을 증명하기로 다짐한 징크스는 자신만의 방식으로 혼돈과 기술을 사용해 손님들을 감동시키고 경쟁자를 날려버립니다! 짭짤한 간식을 전문으로 만들지만 가끔 기분 좋은 달콤함에 살짝 빠지기도 하죠. 하지만... 징크스가 당을 충전해 힘이 넘칠 땐 괜히 옆에서 알짱거리지 마세요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222051,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 56
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush."
+  }
 }

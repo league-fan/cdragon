@@ -148,6 +148,57 @@
     }
   ],
   "description": "靈戰特工中傳奇的心靈劍客，也是他們的菁英領袖。易冷靜、專業，使命必達，他讓盜賊大軍聞風喪膽，同時也是那些想操控仇恨引起全球戰爭的陰謀家的眼中釘。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 34
+      },
+      "Hunter": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 37
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "A legendary psychic swordsman and elite leader of the PsyOps unit. Yi is calm, professional, and always gets the job done, making him a terrifying bogeyman among rogue militaries, and a target for those harboring resentment towards the global war machine."
+  }
 }

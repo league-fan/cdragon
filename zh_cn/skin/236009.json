@@ -131,6 +131,53 @@
     }
   ],
   "description": "一半是人，一半是机器，全身充盈着正义的警探卢锡安·菲尼克斯的作战对象是发生在德玛西亚的浅色棕榈树之下的犯罪行为。在一次致命的枪战后，他的身躯由精心打磨的铬与镀金的皮城碳化纤维所重构，这位堪称技术奇迹的警探如同法律和秩序的霓虹灯塔，分发着蒸汽波式的复仇。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-07-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-07-18",
+    "set": [
+      "Demacia Vice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Neon Noir": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order."
+  }
 }

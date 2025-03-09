@@ -137,6 +137,53 @@
     }
   ],
   "description": "トリックスターであり、魔法使いであるアーリは、不気味な笑みを浮かべる月から力を得て、絵柄を並べ替えては下層世界の知見を上層に持ち込むべく動いている。すでに運命のペアであるザヤとラカンを互いに引き合うように仕向けており、その結果として引き起こされる混沌を皮肉じみた困惑の気持ちで待っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103066,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 68
+      },
+      "Emerald": {
+        "id": 69
+      },
+      "Obsidian": {
+        "id": 74
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 67,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 72
+      },
+      "Tanzanite": {
+        "id": 71
+      },
+      "Turquoise": {
+        "id": 73
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "A trickster and magician whose power is drawn from the grinning moon, Ahri plies her trade rearranging patterns and allowing the Lower World insight into the Higher. Having already set the fated pair Xayah and Rakan careening towards each other, she awaits the resulting chaos with a cynical bemusement."
+  }
 }

@@ -160,6 +160,56 @@
     }
   ],
   "description": "아이들은 길 잃은 영혼의 구세주, 영원히 은둔하는 자유의 영혼에 대한 이야기를 듣습니다. 그중 하나는 방랑하는 영혼을 뿌리로 꽁꽁 감싼 나무 이야기입니다. 영혼은 홀로 몸부림쳤습니다. 신드라가 영혼을 꽉 잡은 속박을 뜯어낼 때까지요. 신드라는 모든 영혼을 구합니다. 그렇지 않으면 영혼을 영원히 잃게 될 테니까요. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Night Blossom": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Children hear stories of the savior of lost souls, the ever-reclusive Spirit of Freedom. One such speaks of a tree that wrapped its roots around a wandering wisp. The wisp struggled alone—until Syndra ripped off the bindings that held it tight, as she would do for all creatures, lest they be lost forever. "
+  }
 }

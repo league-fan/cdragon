@@ -172,6 +172,53 @@
     }
   ],
   "description": "ナミはパーティーに参加すると潮の流れを生み出すため、リンゴくわえゲームがもはやゲームではなくなってしまう。リンゴと違って、パンプキンフィッシュは噛みついてくるのだ！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267032,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Bobbing for apples is certainly a lot more challenging when Nami brings the tides with her to the party. The apples don't bite back, but the pumpkin-fish do!"
+  }
 }

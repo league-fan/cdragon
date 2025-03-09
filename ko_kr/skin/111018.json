@@ -137,6 +137,51 @@
     }
   ],
   "description": "기괴하고 음산한 비명이 노틸러스를 깨웠습니다.<br>밖으로 나온 노틸러스는 불쾌한 자들을 발견했습니다.<br>더럽고 쓸모없는 이웃들은 언제나 구경이나 하고 있죠!<br>\"놈들을 쫓아내지 않는다면 내가 무슨 집사겠어?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Strange and ghoulish screaming woke Nautilus into being<br>He made his way outside to find them most displeasing<br>These lousy, no good neighbors, always there sightseeing!<br>“What kind of butler would I be if I don't send them fleeing?”"
+  }
 }

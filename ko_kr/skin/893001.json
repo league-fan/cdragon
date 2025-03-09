@@ -160,6 +160,59 @@
     }
   ],
   "description": "동물특공대의 유일한 연구 전문가인 오로라는 태고족 기술을 번역하고 적용하기 위해 자신의 태고족에 대한 이해도(그리고 생명공학 박사 학위)를 사용합니다. 오로라의 작업은 동물특공대 장비의 놀라운 개선으로 이어졌지만, 오로라의 진정한 열정은 자신과 마찬가지로 세상이 태고족을 이해할 수 있도록 돕는 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 893001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 4
+      },
+      "Meteorite": {
+        "id": 8
+      },
+      "Nightwire": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Emeri Chase"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "As Anima Squad's sole research specialist, Aurora uses her understanding of the Primordians (and PhD in bioengineering) to translate and adapt Primordian technology. While her work has led to incredible advancements in Anima Squad's equipment, her true passion is helping the world understand Primordians as she does."
+  }
 }

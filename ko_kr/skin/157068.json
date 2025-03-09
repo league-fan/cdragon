@@ -137,6 +137,54 @@
     }
   ],
   "description": "야스오는 꿈속에서 천 갈래, 만 갈래로 나누어진 길을 엿보았습니다. 그리고 그중에는 오랜 세월 탈선을 거듭한 끝에 홀로 쓸쓸하게 노인이 된 모습도 있었습니다. 야망도, 가족도, 심지어 사랑마저도 내려놓고 더 이상 기억나지도 않는 죄를 참회하는 데 바친 인생이었죠. 하지만 이 환영은 경고가 아닌 경종이었습니다. 언제든 원래의 길로 돌아갈 수 있다는 걸 야스오 본인도 알고 있었으니까요. 이제 올바른 길을 찾거나... 그 길이 직접 야스오를 찾아오게 하면 될 일입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157068,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Otherroads"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 75
+      },
+      "Catseye": {
+        "id": 70
+      },
+      "Emerald": {
+        "id": 72
+      },
+      "Obsidian": {
+        "id": 74
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 76
+      },
+      "Ruby": {
+        "id": 69,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Yasuo glimpsed many paths in his dreams. One saw him as an old man, alone, having strayed far from his course. He had given up ambition, family, even love, all to atone for sins he could no longer remember. This vision was not a warning, but a reminder, for Yasuo knew he could always return to his path. He only needed to find it... or let it find him."
+  }
 }

@@ -24,6 +24,27 @@
     }
   ],
   "description": "アーケード全盛の時代から定番の人気キャラであるヘカリムだが、レトロゲーム原理主義者には特に愛されている。歴代ゲームのラスボス連合軍に立ち向かう、虹色の光を放つ1978年生まれのクロームメッキのケンタウルス以上にイカすヒーローなど存在するだろうか。いやいない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-08-21",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An unlikely favorite among retro purists, Hecarim has remained one of the most popular characters of the arcade era. Now he stands against the combined forces of gaming's greatest villains, proving there's no hero more noble than a rainbow-shooting chrome centaur from 1978."
+  }
 }

@@ -139,6 +139,47 @@
     }
   ],
   "description": "作为小时候送给春晖神女的礼物，沃里克一直陪在她身边长大，守护天界不受黑暗入侵。他比自己的同伴内瑟斯更加狂暴和野性，沃里克一直守着南方，无情猎杀所有敌人直至世界的尽头。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-02-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-02-08",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2019"
+      },
+      "Jasper": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Gifted to the Lunar Empress when she was a child, Warwick was raised alongside her to guard the immortal realm from an encroaching darkness. More beastly and feral than his companion Nasus, Warwick stands watch in the south, relentlessly pursuing foes to the ends of the world."
+  }
 }

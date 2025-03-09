@@ -143,6 +143,59 @@
     }
   ],
   "description": "いにしえの存在であるゾーイは最初にスターガーディアンとして選ばれた者の一人だった。しかし愛ではなく混沌を求めた彼女は、手に入れた力を悪意に満ちた宇宙の狂気を具現化するために利用した。それ以来、彼女は悠久の時をかけてファーストスターに選ばれし者たちを探し続け、ヴァロランシティへたどり着いた──新世代のスターガーディアンたちを壊滅させるために。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Amethyst": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Jasper": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "newquotes": true,
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos "
+  }
 }

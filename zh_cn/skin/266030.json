@@ -62,6 +62,32 @@
     }
   ],
   "description": "以此致敬Kingen在2022全球总决赛中使用亚托克斯的夺胜表现。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266030,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-01",
+    "set": [
+      "World Champions: 2022"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 32,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Honoring Kingen's winning performance as Aatrox during the 2022 World Championship."
+  }
 }

@@ -137,6 +137,56 @@
     }
   ],
   "description": "現在他就是最忙碌的小蜜蜂了吧？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74024,
+    "formatname": "Heimerstinger",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-03",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Now isn't he just the buzziest little worker bee?"
+  }
 }

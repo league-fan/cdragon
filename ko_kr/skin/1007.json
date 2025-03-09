@@ -25,6 +25,23 @@
     }
   ],
   "description": "과학과 마법이 낳은 끔찍한 괴물과 올림머리를 한 여덟 살짜리 방화광입니다. 이보다 별난 2인조가 있을까요?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-10-19",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "He's a towering abomination of science and magic. She's an eight year old with a beehive hairdo, and undiagnosed pyromania. Name a more iconic duo. I'll wait."
+  }
 }

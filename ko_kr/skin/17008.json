@@ -77,6 +77,37 @@
     }
   ],
   "description": "티모도 한때는 규칙에 따라 살았습니다. 그런데 이제는 그 규칙이 뭐였는지, 심지어는 애초에 왜 전투가 시작된 건지도 잊어버린 지 오래죠. 그렇지만 두 가지만은 기억하고 있습니다. 이 세상에 죄 없는 자는 없다는 것, 그리고 언제든 원한은 갚아야 한다는 것.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2015-04-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2015-04-08",
+    "earlysale": "Ineligible",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 16
+      }
+    },
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "lore": "Teemo once lived by a code. He's long since forgotten what it was, or even what started the fighting, but he does remember two things: nobody's innocent, and always settle your scores."
+  }
 }

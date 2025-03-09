@@ -24,6 +24,26 @@
     }
   ],
   "description": "One of the great dukes of Hell, Galio stands before his kingdom's black gates as the judge of all sinners, casting souls into their proper torments. Attempting to invoke him generally ends in tragedy, as he's several hundred feet tall and refuses to shrink in the service of mortals.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2012-04-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2012-04-23",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "One of the great dukes of Hell, Galio stands before his kingdom's black gates as the judge of all sinners, casting souls into their proper torments. Attempting to invoke him generally ends in tragedy, as he's several hundred feet tall and refuses to shrink in the service of mortals."
+  }
 }

@@ -142,6 +142,53 @@
     }
   ],
   "description": "關來自原以為已滅亡的遙遠古代女王國度卡利戈。她穿越保護卡利戈的雲層，與艾莉西亞大陸的其他王國再次聯繫。關心地善良、頭腦敏銳，前任女王伊索德相信她能展示卡利戈的強大，並與其他統治者結盟，因為黑暗即將降臨，必須團結一致才能防止悲劇發生。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Gwen of Caligo—a faraway, ancient queendom long thought lost to time—cut through the nation's protective clouds to reconnect with the rest of Elysia. Her predecessor, Queen Isolde, trusts Gwen's pure heart and sharp mind to affirm Caligo's strength and ally with fellow rulers—for dark times lie ahead, and only a steadfast pact may prevent the worst."
+  }
 }

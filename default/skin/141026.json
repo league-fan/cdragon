@@ -89,6 +89,39 @@
     }
   ],
   "description": "Co-captains of the Assassin Club, Kayn and Rhaast are an embodiment of Babylon Academy's tactics. Kayn lulls rivals into a false sense of security before Rhaast explodes with overwhelming force, pummelling opponents into submission. Rhaast's diligent work ethic is the real reason they're here at all, as Kayn's aloofness irks all of his classmates.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": null
+  "wikiSkinData": {
+    "id": 141026,
+    "availability": "Upcoming",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "N/A",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "lore": "Co-captains of the Assassin Club, Kayn and Rhaast are an embodiment of Babylon Academy's tactics. Kayn lulls rivals into a false sense of security before Rhaast explodes with overwhelming force, pummelling opponents into submission. Rhaast's diligent work ethic is the real reason they're here at all, as Kayn's aloofness irks all of his classmates."
+  }
 }

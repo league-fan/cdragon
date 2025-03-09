@@ -101,6 +101,47 @@
     }
   ],
   "description": "蒙多不是理財顧問。這不是理財上的建議。但是你應該買下這個造型。蒙多喜歡這個造型。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2010-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36003,
+    "formatname": "Corporate Mundo",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2010-09-12",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "Mundo is not financial advisor. This is not financial advice. But you should buy the skin. Mundo likes the skin."
+  }
 }

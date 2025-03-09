@@ -137,6 +137,53 @@
     }
   ],
   "description": "犽凝緊張不已。身為一名 DJ，他冷靜、專注、善於即興發揮，但「海洋之歌音樂節」是他以 DJ 兼作詞者身分的第一次演唱會。在好友奈德麗發現了他偷藏起來的歌詞創作後，犽凝回絕了自行發表的提議，她便自告奮勇擔綱演唱者。犽凝也許還沒準備好開口歌唱，但眾人仍會聽見他的心聲。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Yone is nervous. As a DJ he's calm, focused, and improvisational, but Ocean Song is his first concert as a DJ and lyricist. After finding his secret stash of lyrics, his friend Nidalee volunteered to belt them out herself when he refused. He may not be ready to sing, but they'll still hear his voice."
+  }
 }

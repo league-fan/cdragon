@@ -8,96 +8,652 @@
       "name": "蜂摩小太郎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 17018,
+        "formatname": "Beemo",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-05-01",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Peridot": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "To Beemo, or not to Beemo? That is the question."
+      }
     },
     {
       "id": 20026,
       "name": "努努和嗡朗普",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 20026,
+        "formatname": "Nunu & Beelump",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rainbow": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          },
+          "Tanzanite": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "They're like two bees in a pod. Err… in a hive?"
+      }
     },
     {
       "id": 27009,
       "name": "蜂狂巢男 辛吉德",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 27009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-10-11",
+        "earlysale": "2018-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Unknown voice actor"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "At first Singed wasn't certain he wanted to be a master beekeeper. But the moment he put on the protective suit, he knew it was destiny. Nowadays he can be found tending his hives, eating honey, or flipping any hapless wanderers that stop to gaze upon his work."
+      }
     },
     {
       "id": 45051,
       "name": "唯蜜是從 維迦",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 45051,
+        "formatname": "King Beegar",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-22",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Pearl": {
+            "id": 59
+          },
+          "Rose Quartz": {
+            "id": 54
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 55
+          }
+        },
+        "voiceactor": [
+          "Bob Beal"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Beegar's waited a whole 10 days (that's a long time in bee-years) for his moment to strike. It's finally here, and the Queen Bee's crown is in his sights. Long live the Bee-sistance!"
+      }
     },
     {
       "id": 53056,
       "name": "蜂力發電 布里茨",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 53056,
+        "formatname": "Beezcrank",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-22",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 59
+          },
+          "Obsidian": {
+            "id": 61
+          },
+          "Pearl": {
+            "id": 60
+          },
+          "Rainbow": {
+            "id": 64
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 57,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Beezcrank has a reputation for getting his bee-infantry into sticky situations. Probably because of that giant honey-comb mech-arm."
+      }
     },
     {
       "id": 61020,
       "name": "奧蜜安娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 61020,
+        "formatname": "Orbeeanna",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Tanzanite": {
+            "id": 25
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Heath Pennington"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Careful not to get honey caught in those gears!"
+      }
     },
     {
       "id": 74024,
       "name": "漢默叮格",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 74024,
+        "formatname": "Heimerstinger",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "chromas": {
+          "Emerald": {
+            "id": 28
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rainbow": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Now isn't he just the buzziest little worker bee?"
+      }
     },
     {
       "id": 90018,
       "name": "蜂起雲湧 馬爾螫哈",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 90018,
+        "formatname": "Beezahar",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 20,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Rainbow": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 25
+          },
+          "Sapphire": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "West Studio"
+        ],
+        "lore": "Open your true mind, and beelieve."
+      }
     },
     {
       "id": 96028,
       "name": "口蜜腹箭 寇格蜜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 96028,
+        "formatname": "Bee'Maw",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 30
+          },
+          "Aquamarine": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Peridot": {
+            "id": 32
+          },
+          "Rainbow": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Snowballing lane won't bring back your precious honey!"
+      }
     },
     {
       "id": 115024,
       "name": "希格蜂",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 115024,
+        "formatname": "BZZZiggs",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 28
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rainbow": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 27
+          },
+          "Tanzanite": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "According to all known laws of apiculture, bees shouldn't be given explosives. Hey! Put that bouncing bomb down, bee!"
+      }
     },
     {
       "id": 161020,
       "name": "颱蜂眼 威寇茲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 161020,
+        "formatname": "Bee'Koz",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-22",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 22,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Controllable tentacles made out of honey? That's bee-nius!"
+      }
     },
     {
       "id": 350019,
       "name": "蜜蜜花園 悠蜜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 350019,
+        "formatname": "Yuubee",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rainbow": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Hey… there's a bee on you."
+      }
     }
   ]
 }

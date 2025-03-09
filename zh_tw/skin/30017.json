@@ -137,6 +137,53 @@
     }
   ],
   "description": "向末日之聲，永動之神的選召者—卡爾瑟斯歡呼吧！他的歌曲是絕望且致命，是「萬物終有一死」的苦痛警鐘。儘管這道理似乎對他並不成立？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 30017,
+    "formatname": "Pentakill III: Lost Chapter Karthus",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "All hail, Karthus, the Voice of Doom, and Chosen of Perpetuum! His songs are bleak murder ballads, a bitter reminder that all things must die. Though, perhaps, not him?"
+  }
 }

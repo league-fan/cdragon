@@ -170,6 +170,63 @@
     }
   ],
   "description": "他稱作家鄉的樹林就在他的眼前被焚燒殆盡。樹林的另一位住民選擇從此獨居，約瑞科卻選擇讓怒火吞沒自我。「殞落之靈」行跡之後所誕生的花草樹木淒美而陰森，照顧他們的園丁則是在夜裡嚎叫的生物。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 35,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Night Blossom": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "The grove he called home burnt to ashes before his very eyes. While another retreated into solitude, Yorick allowed the rage to consume him. The flowers and trees that bloom in the Spirit of Ruin's wake are haunting, the gardeners that tend to them howling creatures of the night."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "초일류 예술 박사 문도는 추상 미술의 대가입니다. 문도는 손가락으로 거침없이 휙휙 그려낸 그림으로 명성을 얻었는데, 괴물/사람 이중인격에 대한 대중적 분석을 담아낸 작품으로 예술계에서 극찬받았습니다. (문도는 그게 무슨 뜻인지 잘 모릅니다. 사람들이 자기 작품을 좋아하니까 기분 좋을 뿐입니다!)",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 25
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An abstract genius of the highest caliber with a doctorate in fine art, Mundo's reckless and wild finger painting has earned him a lot of respect in the artistic community for its high-concept analysis of the monster/human condition. (Mundo isn't sure what that means; he's just happy that people like his work!)"
+  }
 }

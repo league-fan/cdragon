@@ -49,6 +49,34 @@
     }
   ],
   "description": "紀念Zeus在2023世界大賽中使用杰西贏得世界冠軍的精采表現。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 126034,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-14",
+    "set": [
+      "World Champions: 2023"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 37,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Trevor Devall"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "Kelvin Law",
+      "Mo Yan"
+    ],
+    "lore": "Honoring Zeus's winning performance as Jayce during the 2023 World Championship."
+  }
 }

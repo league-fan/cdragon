@@ -84,6 +84,39 @@
     }
   ],
   "description": "人間に文化が芽生えて間もない頃、ヴェル＝コズは「キーガン・ローデ」という名の男に強大な神の力を授け、初のアークライトの地位を託した。千年もの年月が流れ、ローデ当人はとうの昔に死んでしまっているにも関わらず、未だにその亡骸は神々の光により、苦しみと怒りのみに突き動かされながら生きている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-03-07",
+    "set": [
+      "Arclight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 9
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "In the early days of civilization, Vel'Koz chose a man named Kegan Rodhe to take up the mantle of the first Arclight, gifting him with vast divine powers. But millenia have passed since then, and though Rodhe is gone, his body is still animated by the light, filled with nothing but pain and rage."
+  }
 }

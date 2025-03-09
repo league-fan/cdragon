@@ -137,6 +137,55 @@
     }
   ],
   "description": "四弦の狂気、ヨリックに栄光あれ！生者の世界と死者の世界を股にかける彼は、あらゆる定命の者に訪れる運命を知っている。この誇り高き男に敬意を表しておいて、損することはない…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83021,
+    "formatname": "Pentakill III: Lost Chapter Yorick",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Tanzanite": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "All hail, Yorick, the Four-String Fanatic! He bestrides the realms of the living and the dead, and knows the fate that comes to all mortal things. It pays to beware the honorable man..."
+  }
 }

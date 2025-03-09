@@ -160,6 +160,60 @@
     }
   ],
   "description": "安靜又心思細膩的索娜，平時沒有擔任星光戰士的時候是一名作曲家；和夥伴們在一起的時候，她會化身為強大的戰士，用充滿星光力量的聲波炸向敵人。雖然她不會說話，但能利用行動來傳達自己內心的聲音……或是透過她的話匣子幻獸兼翻譯─小起司。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "Brilliant": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "West Studio"
+    ],
+    "lore": "Quiet and reflective, Sona spends her time away from the Guardians as a composer of music... and her time with them as a fighter of incredible power, blasting enemies away with sonically charged starlight. Though she cannot speak, she always makes her voice heard through deeds... or her chatterbox familiar-slash-interpreter, Chiizu."
+  }
 }

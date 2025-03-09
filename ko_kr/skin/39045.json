@@ -165,6 +165,59 @@
     }
   ],
   "description": "이렐리아는 수호자의 길을 걷기 한참 전부터 고대 유물 보존에 헌신해 왔습니다. 대학 새내기일 때는 이름 높은 고고학 협회의 인턴으로 발탁되기도 했지요. 이렐리아로서는 길지 않은 인생에서 찬란하게 빛났던 순간이었습니다. 하지만... 숫양 유물로부터 신비한 힘을 받아 수 세기 동안 이어진 전쟁에 내던져지면서 극적인 인생의 전환점을 맞이하게 되었습니다. 학교 수업 따위는 아무것도 아니게 되어버렸죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 39045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Opulent": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 49
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Alsie Lau"
+    ],
+    "lore": "Irelia was dedicated to the preservation of ancient relics long before she became a protector. Her first year at university, she interned at the renowned Archeology Institute. It was the highlight of her short life... until she was granted mythical powers by the Ram Relic and thrust into a centuries-old war. Schoolwork sort of pales in comparison."
+  }
 }

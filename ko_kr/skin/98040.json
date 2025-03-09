@@ -137,6 +137,54 @@
     }
   ],
   "description": "한때 칼날폭풍단 정예 2인조의 한 축이었던 쉔은 자신의 실수로 인해 파트너 제드가 목숨을 잃을 뻔한 사건 후로 전투에서 발을 뺐습니다. 이제 쉔은 칼날폭풍단에 들어오고자 수련하는 젊은 닌자들을 지도합니다. 하지만 쉔이 다시 한번 검을 들고 싸움에 뛰어들도록 새로운 사명이 그를 이끌지도 모릅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 45
+      },
+      "Aquamarine": {
+        "id": 44
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Once half of an elite operative duo for the Shockblade order, Shen stepped away from combat after he made a mistake that nearly cost the life of his partner, Zed. Now Shen mentors young shinobi training to join their ranks – but his new charge may inspire him to take up his sword and join the fight once more."
+  }
 }

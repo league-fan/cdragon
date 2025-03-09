@@ -13,128 +13,652 @@
       "name": "모르가나",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "585",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-02-21",
+        "chromas": {
+          "Ebony": {
+            "id": 9
+          },
+          "Pale": {
+            "id": 8
+          },
+          "Toxic": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart",
+          "Victor '3rdColossus' Maury",
+          "Jennifer Wuestling"
+        ],
+        "lore": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again."
+      }
     },
     {
       "id": 25001,
       "name": "추방당한 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-01",
+        "retired": "2014-12-02",
+        "set": [
+          "Woad"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A battle spirit exiled from her tribe in a past age, Morgana has silently plotted revenge on her betrayers and their descendants for hundreds of years. Each passing winter she comes closer to her goal—a climactic battle in which the tribe falls, and Kayle with it."
+      }
     },
     {
       "id": 25002,
       "name": "제빵여왕 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-09-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-02",
+        "retired": "2015-08-29",
+        "set": [
+          "Culinary Masters"
+        ],
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "She's the original sugary sin, the dark diva of confectionary cunning, the fallen angel of fantastic flavor. Her terrifying treats will trap you in your seat. Let's give a Culinary Masters welcome to Morgana!"
+      }
     },
     {
       "id": 25003,
       "name": "칼날천사 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-12-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-12-01",
+        "set": [
+          "Steel Valkyries"
+        ],
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Morgana is a deadly combatant and former pilot of the X09-Xibalba combat exosuit, as well as one of the last half-aliens alive in the galaxy. She has surgically hidden her suit's forbidden, lost technologies beneath her skin—her goal being to evade her sister, the mad military justicar, Kayle."
+      }
     },
     {
       "id": 25004,
       "name": "검은 가시 모르가나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-05-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-05-23",
+        "set": [
+          "Albion"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 13
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "The Dark Forest Elves are the shattered remnants of the great elven empires, jealously guarding evil power that some once considered the cornerstone of their magical supremacy. Morgana has hidden this magic deep within her body, chaining it to her soul so that only she might wield it."
+      }
     },
     {
       "id": 25005,
       "name": "유령 신부 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-06-13",
+        "set": [
+          "Fables"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Legends speak of the weeping bride who searches for her lost husband along the river bank, and takes revenge upon the living for their happiness. Parents sternly warn their children to beware this 'ghost bride,' for those who go with her are never seen again."
+      }
     },
     {
       "id": 25006,
       "name": "승리의 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2014-11-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25006,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2014-11-11",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "lore": "Victorious Morgana was awarded to players who reached Gold or higher in the 2014 season. A queen of shadows, Victorious Morgana glides through Summoner's Rift in deep blue armor, with a flashy recall."
+      }
     },
     {
       "id": 25010,
       "name": "달빛 악령 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-01-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-01-27",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "lore": "Morgana is a dark spirit who appears during Lunar Revel—a famed seducer of mortals, monsters, and gods alike. Legend says she ensnares the hearts and minds of her victims before dragging their souls away to an unspeakable purgatory, never to be heard from again."
+      }
     },
     {
       "id": 25011,
       "name": "마녀 모르가나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-10-19",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 32
+          },
+          "Meteorite": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 34
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Ultimately, trick-or-treating is less about dark magic and occult superstition, and more about finding a witch costume that actually fits. Have you seen these sizes? Who is this stuff even made for…?!"
+      }
     },
     {
       "id": 25017,
       "name": "불멸의 영웅 모르가나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 19
+          },
+          "Heavenly Crane": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Immortal Journey 2019"
+          },
+          "Meteorite": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "A feared sorceress queen from the heavenly kingdoms, Morgana looked on with disdain as Irelia sealed away the power of a dragon. Crushing her in combat, Morgana soon realized the young demigoddess had hidden that power away, and now ruthlessly searches for a way to return it to its rightful owner."
+      }
     },
     {
       "id": 25026,
       "name": "악의 여단 모르가나",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-04-16",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Dark Ritual": {
+            "id": 40,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain "
+      }
     },
     {
       "id": 25039,
       "name": "빛의 인도자 모르가나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 45
+          },
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Lifebringer": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Determined to see order triumph over chaos, Morgana has sacrificed much to tip the scales in favor of light. If dawn emerges victorious, she is certain that they can avoid the gods' destruction and usher in a new age, one free from the corruption of chaos… Perhaps then Yone will see balance for the delusion that it is."
+      }
     },
     {
       "id": 25041,
       "name": "프레스티지 마녀 모르가나",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25041,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-10-07",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 11,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Literal magic wasn't necessary for Morgana to nab top prize in the holiday costume contest. But that didn't stop her from casting a figurative spell on the judges with her enchanting ensemble. This is a party they won't soon forget!"
+      }
     },
     {
       "id": 25050,
       "name": "별의 숙적 모르가나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25050,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-07-28",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 58
+          },
+          "Catseye": {
+            "id": 52
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Peridot": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Turquoise": {
+            "id": 54
+          },
+          "Wicked": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Star Guardian 2022"
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "A villainess of mysterious origins, Morgana believes that concepts like justice and order are holding the universe back... and she's willing to do anything to return it to a state of entropy. Targeting the Star Guardians for destruction, she torments them relentlessly before dealing the final, crushing blow."
+      }
     },
     {
       "id": 25060,
       "name": "서리달 모르가나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25060,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-05-18",
+        "set": [
+          "Snow Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 66
+          },
+          "Emerald": {
+            "id": 64
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Rainbow": {
+            "id": 67
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 61,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 65
+          },
+          "Turquoise": {
+            "id": 62
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "As a priestess and chief exorcist of the Snow Moon, Morgana's magic has been used to bind and destroy corruption wherever it is found. Once disciples complete their trials and offer their memories and emotions to Ahri, it is Morgana's duty to chain their souls to the Snow Moon, completing their initiation into the Order."
+      }
     },
     {
       "id": 25070,
       "name": "도자기 모르가나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25070,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 78
+          },
+          "Emerald": {
+            "id": 72
+          },
+          "Obsidian": {
+            "id": 76
+          },
+          "Opulent": {
+            "id": 79,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 77
+          },
+          "Rose Quartz": {
+            "id": 75
+          },
+          "Ruby": {
+            "id": 71,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 74
+          },
+          "Turquoise": {
+            "id": 73
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "There is no one who comprehends the power of the sorceress Lissandra more than Morgana. The magic that bound Lissandra to her relic came at a cost: the protector who uttered the words would be trapped as well. Morgana made this sacrifice, the wings of her Rooster Relic wrapping her in a porcelain cocoon for millennia. Awake once more, she seeks revenge."
+      }
     }
   ]
 }

@@ -107,6 +107,49 @@
     }
   ],
   "description": "カ・サンテはリーダーとして逆境を克服することに誇りを持っているが、今回はそんな彼にとっても前代未聞の挑戦だった──彼のいる世界が消滅したのだ。彼に残された時間は残りわずかしかなく、他の「荘厳の天球」たちは何かが「フォアグロー」を解き放ったことを理解すらしていない。何か悪いことが起きている。この状況を正せるのは彼らしかいない。だがそのためには、彼らの目を開かせなくてはならない。彼らにはリーダーが必要だ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 897001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 4
+      },
+      "Neon Flare": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "DeObia Oparei"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "K'Sante prides himself on leading under adversity, but this is a challenge unlike any other. His realm is gone, he's living on borrowed time, and the other Empyreans don't realize that something released the Foreglow. Something bad. He knows only they can fix it, but they need their eyes opened. They need a leader."
+  }
 }

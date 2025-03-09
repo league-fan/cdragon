@@ -25,6 +25,27 @@
     }
   ],
   "description": "身体拡張手術の失敗後、ジンはブラックマーケットの身体拡張ハッカーから悪名高き機械の殺し屋へと変わり果てた。高クリアランスなアップグレードを求めるプログラムに従い犠牲者から奪ってきたテクノロジーによって、彼の人格には重度の断片化が発生してしまった。ジンはPROJECTと人類の暗い未来となったのである。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202004,
+    "formatname": "PROJECT: Jhin",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-22",
+    "earlysale": "2018-05",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity."
+  }
 }

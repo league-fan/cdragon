@@ -138,6 +138,54 @@
     }
   ],
   "description": "蕾欧娜是莱布利斯学院战斗俱乐部的一名奇怪的啦啦队员，她的黑暗一面会在战斗中展现，那时她的母性关爱的人格就会被嗜血给完全替代。这个变化是如此剧烈，以至于最粗暴的学生们都会留意让她保持善良的那一面，以期避免她发怒。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "An oddly cheery member of Labrys Academy's Battle Club, Leona's dark side comes out in combat, when her motherly, protective persona is utterly replaced by bloodlust. The change is so dramatic that even the most violent students tend to stay on her good side, hoping to avoid her wrath."
+  }
 }

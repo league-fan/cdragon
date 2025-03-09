@@ -137,6 +137,54 @@
     }
   ],
   "description": "한때 외계 에너지원에 관한 연구를 수행하는 과학자였던 베이가는 공허한 우주를 향해 너무 멀리 여행을 떠났습니다. 하지만 다시 돌아온 베이가는 표류하던 예전과는 다른 모습이었습니다. 잘 모르겠지만 뭔가 더... 사악해지고 보랏빛으로 변해버렸죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-01",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 35
+      },
+      "Citrine": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Rainbow": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A scientist conducting research on alien energy sources, Veigar ventured too far into empty space... but the Veigar that came back was different from the one that was set adrift. No one is sure why, but something about him is more… evil? And purple."
+  }
 }

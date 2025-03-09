@@ -148,6 +148,58 @@
     }
   ],
   "description": "雷歐娜自幼便是拂曉國王的掌上明珠。當深淵巨獸出現在她故鄉的海岸上時，她奉命接管了王國的武裝力量，成為她臣民的領導者。作為回報，宮廷裡心懷感激的學者們贈予她一架機甲巨神兵。這是一架龐大的人工駕駛機甲，以這些威脅她家園的怪獸們的生命精華為動力。現在，她毫無畏懼地矗立著，帶領著一望無際的海軍將士們參戰。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 14
+      },
+      "Peacekeeper": {
+        "id": 13,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Tanzanite": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Leona grew up as the favored daughter of the Dawnrise Kingdom. When the leviathans appeared on her homeland's shores, she took command of her realm's forces, becoming the matriarch of her people. In return, the grateful scholars of her court gifted her an Avalon, an immense pilotable mech powered by the life essence of the very monsters that threatened her home. Now, she stands fearless, leading vast navies into war."
+  }
 }

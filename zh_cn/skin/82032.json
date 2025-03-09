@@ -160,6 +160,59 @@
     }
   ],
   "description": "很少有人在遇到机械恶魔后能活到讲述这个故事。他们描述了一个庞然大物：全身都是钢铁和齿轮，以地狱火为燃料，凶猛到足以将一个人的灵魂吓出他的皮肤。他是硫磺铁路之王，在一个由偷来的黄金和炼狱钢铁组成的王座上统治着那辆通往地狱的列车。永无休止，并且牢不可破。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Nomad": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Few meet the Mechanical Devil and live to tell the tale. They describe a behemoth: all steel and gears, fueled by hellfire and fierce enough to scare a man's soul from his skin. He is the King of the Sulfur Rail, reigning over the train to Hell from a throne of stolen gold and infernal iron. Eternal, and unassailable."
+  }
 }

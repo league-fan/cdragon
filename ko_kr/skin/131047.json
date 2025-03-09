@@ -124,6 +124,52 @@
     }
   ],
   "description": "살아있는 여명의 화신인 북극성의 이야기에서 많은 교훈을 얻을 수 있습니다. 새로운 북극성과 여명의 축복이나 처벌을 받을 기회는 매년 찾아오죠. 이번 북극성의 화신인 다이애나는 축복을 받고자 하는 지역 지도자 세 명, 사냥꾼 스웨인, 현자 질리언, 파수꾼 조이를 만나러 도착했습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-12-08",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 51
+      },
+      "Wreathguard": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2022"
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "One can learn many lessons from the tales of Polaris, the living embodiment of the Aurora. Each year brings a new Polaris and a new chance to receive the Aurora's blessings—or its punishments. This incarnation of Polaris, Diana, arrived to find three local leaders waiting for her, eager for blessings: the Hunter Swain, Sage Zilean, and Warden Zoe."
+  }
 }

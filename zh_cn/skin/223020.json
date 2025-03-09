@@ -160,6 +160,60 @@
     }
   ],
   "description": "塔姆是一个宽宏大量的恶魔：乐于将一把神奇的剑借给一位需要帮助的女士，或者协助她突袭硫磺铁路，甚至送她踏上作为终焉先驱者的悲惨命运。他不需要任何报酬。她只会欠他一个人情……因为在终焉里，有朋友是有好处的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Nomad": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "West Studio"
+    ],
+    "lore": "Tahm Kench is a magnanimous devil: happy to lend a magical sword to a lady in need, or to assist her in robbing the Sulfur Rail, or even to deliver her to a calamitous destiny as a fellow Harbinger of the End Times. He don't need no compensation. She'll just owe him a favor… because in the End, it pays to have friends."
+  }
 }

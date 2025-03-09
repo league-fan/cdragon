@@ -113,6 +113,48 @@
     }
   ],
   "description": "雷恩加尔是某个被遗忘教团中的一名刺客，被认为死亡已久。他在坟墓里徘徊，为了某个未知的目的而搜寻着古老的权力遗物。更令人担忧的是，他似乎在狩猎守护者们，他的刀锋被施了魔法，可以穿透他们古老的魔法和防御……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "An assassin of a forgotten order long thought dead, Rengar prowls the tombs, retrieving ancient relics of power for purposes unknown. Far more alarming, he appears to be hunting guardians, his blades enchanted to pierce their ancient magic and defenses…"
+  }
 }

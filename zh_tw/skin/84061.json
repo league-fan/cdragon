@@ -124,6 +124,51 @@
     }
   ],
   "description": "阿卡莉在扛起新一代星光戰士副隊長的責任上始終斷斷續續，隨著她越發清楚地意識到當初的誓言已經註定了自己的死亡，她的戰鬥技巧也逐漸黯然失色。儘管她已傾盡全力為光明而戰，但她發現黑暗勢力也同樣……或許，更為強大……",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 67,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Ashly Burch"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "On-again off-again co-captain of a new generation of Star Guardians, Akali's skill in battle is shadowed by her growing realization that the Oath she swore has condemned her to die. Though she fights for the light with all her heart, she finds that darkness is just as powerful... perhaps, even more so..."
+  }
 }

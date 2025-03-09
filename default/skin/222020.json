@@ -148,6 +148,59 @@
     }
   ],
   "description": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222020,
+    "formatname": "PROJECT: Jinx",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Reckoning": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program."
+  }
 }

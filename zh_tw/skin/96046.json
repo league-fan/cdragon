@@ -137,6 +137,54 @@
     }
   ],
   "description": "猛獸寇格魔抵抗漩渦的力量，靠牠那幾乎堅不可摧的外殼安全地乘波逐浪。牠內心的各種欲望總是互相衝突：牠的尾巴喜歡吸收漩渦的能量，而牠的頭只想要吞下眼前所有事物。山海卷軸中到底有沒有東西可以滿足牠永不停歇的飢餓呢？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 52
+      },
+      "Catseye": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "In defiance of the maelstrom's power, the beast Kog'Maw safely rides along its currents thanks to its nigh-unbreakable shell. Perpetually at odds with itself, its tail is addicted to feeding on the maelstrom's energy, while its head simply wants to devour everything in sight. Can anything within the Scrolls sate its growing hunger?"
+  }
 }

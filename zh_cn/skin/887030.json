@@ -151,6 +151,53 @@
     }
   ],
   "description": "卡利戈，一个遥远的、古老的女帝之国，长期以来被认为已经消失在时间中。来自卡利戈的格温冲破了这个国家的保护云层，与伊莱西亚的其他国度重新建立了联系。她的前任——女帝伊苏尔德——相信格温的纯洁心灵和敏锐头脑会证实卡利戈的力量并与其他统治者们结盟——因为黑暗时代就在前方，只有一份坚定不移的盟约才能防止最坏的情况发生。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Gwen of Caligo—a faraway, ancient queendom long thought lost to time—cut through the nation's protective clouds to reconnect with the rest of Elysia. Her predecessor, Queen Isolde, trusts Gwen's pure heart and sharp mind to affirm Caligo's strength and ally with fellow rulers—for dark times lie ahead, and only a steadfast pact may prevent the worst."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "貪啃奇是隻慷慨的惡魔，他很樂意地借給某位女子一把魔法劍，又協助她搶劫硫磺列車，最終甚至引導她接受充滿苦難的命運，成為惡兆使者的一份子。他不需要任何報酬。反正她已經欠下人情了…畢竟，交朋友是需要付出代價的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Nomad": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "West Studio"
+    ],
+    "lore": "Tahm Kench is a magnanimous devil: happy to lend a magical sword to a lady in need, or to assist her in robbing the Sulfur Rail, or even to deliver her to a calamitous destiny as a fellow Harbinger of the End Times. He don't need no compensation. She'll just owe him a favor… because in the End, it pays to have friends."
+  }
 }

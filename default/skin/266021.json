@@ -137,6 +137,55 @@
     }
   ],
   "description": "One of the few who took up the mantle of the Eclipse Knights in the days of old, Aatrox hopelessly pined for Kayle's affections… but she could only ever love the blazing sun. When she devoured it, the entity's lunar corona consumed him. He exists now as Kayle's monstrous, once-noble shadow, ever at her side.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Rainbow": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 27
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "One of the few who took up the mantle of the Eclipse Knights in the days of old, Aatrox hopelessly pined for Kayle's affections… but she could only ever love the blazing sun. When she devoured it, the entity's lunar corona consumed him. He exists now as Kayle's monstrous, once-noble shadow, ever at her side."
+  }
 }

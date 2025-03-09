@@ -160,6 +160,60 @@
     }
   ],
   "description": "薇可絲不需要任何人。獨自長大的她能夠自給自足，也討厭大多數人的打擾。她對自身境界的毀滅甚至無動於衷，但新到手的宇宙幻焰之力的確令她有了主意。薇可絲強化了自己的影子，終於得到一個她能夠容忍的夥伴。薇可絲也許不需要任何人，但是話又說回來：同病相憐，禍不單行。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 711010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Neon Flare": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 16
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Jeannie Tirado"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Vex didn't need anyone. Growing up alone, she was self-sufficient and annoyed by most people. Her realm's destruction barely made her blink, but her new Empyrean powers did give her an idea. By empowering her own shadow, she finally had a companion she tolerated. Vex may not need anyone, but then again, misery loves company."
+  }
 }

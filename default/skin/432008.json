@@ -158,6 +158,61 @@
     }
   ],
   "description": "In space, no one can hear you chime.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-28",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 9
+      },
+      "Catseye": {
+        "id": 12
+      },
+      "Chrono": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 13,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "In space, no one can hear you chime."
+  }
 }

@@ -137,6 +137,55 @@
     }
   ],
   "description": "光輝聖盾塔里克很忙，這個戰鬥牧師不僅僅要當兩個笨拙流氓的前線、還要幫他們治療，他可能就是唯一能夠阻止自己隊伍被團滅的關鍵人物了吧。雖然在遊戲宇宙中他是女神巨石姬的虔誠信徒，然而在宇宙外他只希望自己進行的是別的任務。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 44009,
+    "formatname": "Taric Luminshield",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-19",
+    "set": [
+      "Rift Quest"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 10
+      },
+      "Amethyst": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Peridot": {
+        "id": 14
+      },
+      "Rainbow": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Yuri Lowenthal"
+    ],
+    "lore": "A battle cleric who has to simultaneously tank and heal for a pair of bumbling rogues, Taric Luminshield may be the only thing keeping his table from a total party wipe. In-universe he's a devout warrior of the Divine Goddess Targonius, but out of universe he'd rather be in a different campaign."
+  }
 }

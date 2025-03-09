@@ -24,6 +24,24 @@
     }
   ],
   "description": "Celebrating the RiotX Arcane event.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2021-11-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254029,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2021-11-15",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "Celebrating the RiotX Arcane event."
+  }
 }

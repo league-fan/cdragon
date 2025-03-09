@@ -24,6 +24,20 @@
     }
   ],
   "description": "도둑, 강도 취급을 받기도 하지만 그래도 애쉬는 자유인들로 이루어진 앨비언을 이끄는 리더입니다. 모든 형태의 탄압으로부터 약하고 힘없는 자들을 보호하고 있죠. 수많은 현상금 사냥꾼들이 그녀를 찾으려 숲을 뒤지지만 언제나 허탕을 치고 주머니만 털려서 돌아옵니다.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-04-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-04-08",
+    "set": [
+      "Albion"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "lore": "Condemned as a rogue and a thief, Ashe is nonetheless a leader of the free peoples of Albion, protecting the weak and the powerless from oppression in any form. Hundreds of bounty hunters have scoured the woods to find her, but they always come back with empty hands… and emptier pockets."
+  }
 }

@@ -53,6 +53,35 @@
     }
   ],
   "description": "艾希从她的北方故乡撤离并不是因为任何入侵，而是因为灵棱水晶。在如此恶劣的环境下，它们的能量难以抗拒，导致很多人都将理智和身体输给了它的魔力。艾希被迫在南方寻找庇护所。现在，她召集了一支军队，准备从霸占着家园的怪物手中夺回她的家园。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22065,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-12-06",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Ashe's retreat from her northern homeland was not due to any invasion, but the Prismae Crystals. In such a harsh environment, their power was difficult to resist, leading many to lose their minds and bodies to its magic. Forced to find shelter in the south, Ashe now gathers an army to take back her home from the monsters that overrun it."
+  }
 }

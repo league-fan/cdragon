@@ -138,6 +138,54 @@
     }
   ],
   "description": "갓난아기일 때 고아가 된 제리를 거두어들인 발명가 가족 덕택에 제리는 손재주를 기를 수 있었습니다. 가족의 사랑은 제리의 마음속 깊은 곳에서 자신보다도 타인을 돕고 싶은 열망에 불을 지폈죠. 제리의 천재성을 알아본 가족은 제리가 단련된 믿음의 학파에 들어가는 데 필요한 비용을 대주었습니다. 야망과 호기심이 넘치는 학생인 제리는 불멸을 통해 최대한 많은 사람을 도와주려 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Orphaned as a baby, Zeri was taken in by a family of inventors who cultivated her tinkering tendencies. Their love ignited a deep desire to help others over herself, and because of her prodigious talents, her family paid her admission to the Tempered Faith School. A student full of dreams and curiosity, Zeri will use immortality to help everyone she can."
+  }
 }

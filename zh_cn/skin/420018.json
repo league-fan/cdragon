@@ -147,6 +147,54 @@
     }
   ],
   "description": "俄洛伊，净雪之月的大祭司，正在想象着一个完全没有被疯狂所染指的世界。只有当每一个灵魂都被净化、每一个恶魔都被剥离出它的宿体时，她的愿景才能实现。她将不惜一切代价，以冰冷的决心维持秩序，而她自己的人性只是一段转瞬即逝的记忆。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 420018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-23",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Illaoi, the High Priestess of the Snow Moon, imagines a world free of the madness that consumes it. Her vision can only be realized when every soul is cleansed, every demon ripped from its bindings. Maintaining order with an icy resolve, she'll stop at nothing, her own humanity a fleeting memory."
+  }
 }

@@ -148,6 +148,50 @@
     }
   ],
   "description": "也许，在事后来看，循环时间以获得数量无限的有趣型巧克力棒，不是一件值得将实体界的构造打破的事情……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Golden": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Perhaps, in hindsight, looping time to get an infinite number of fun-size chocolate bars wasn't worth shattering the fabric of reality for…"
+  }
 }

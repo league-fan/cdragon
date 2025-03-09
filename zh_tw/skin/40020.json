@@ -114,6 +114,48 @@
     }
   ],
   "description": "「砂漠狂風」珍娜是上古的砂皇護衛，我們喚醒汝以抵禦我們自己所鑄成的邪惡。讓無人能踏足這片神聖的砂漠之土，否則他們將被妳的沙漠風暴徹底吞噬。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Peridot": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Janna, the desert gale—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your sandstorms consume them whole."
+  }
 }

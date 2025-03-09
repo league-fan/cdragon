@@ -53,6 +53,32 @@
     }
   ],
   "description": "Vayne has donned her finest Lunar Revel garb in her endless quest to root out evil everywhere, including citywide celebrations. One would assume it's better not to spend holidays around a grown woman shooting firecrackers out of a metal wrist-pig, but it's been that kind of year.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-28",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden Tiger": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Vayne has donned her finest Lunar Revel garb in her endless quest to root out evil everywhere, including citywide celebrations. One would assume it's better not to spend holidays around a grown woman shooting firecrackers out of a metal wrist-pig, but it's been that kind of year."
+  }
 }

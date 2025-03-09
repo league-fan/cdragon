@@ -137,6 +137,54 @@
     }
   ],
   "description": "Every day, the Sun Bird flies between two sacred trees: the western Tree of Dawn and the eastern Tree of Dusk. Lillia is a spirit of rejuvenation and the Sun Bird's caretaker. A steward of time and seasons, she uses her censer to spread a calming mist as she carries the bird home at night.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Meteorite": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Kevin Glint",
+      "West Studio"
+    ],
+    "lore": "Every day, the Sun Bird flies between two sacred trees: the western Tree of Dawn and the eastern Tree of Dusk. Lillia is a spirit of rejuvenation and the Sun Bird's caretaker. A steward of time and seasons, she uses her censer to spread a calming mist as she carries the bird home at night."
+  }
 }

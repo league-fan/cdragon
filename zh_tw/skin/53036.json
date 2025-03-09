@@ -246,6 +246,88 @@
     }
   ],
   "description": "「戰爭英雄 布里茨」是玩家在 2021 賽季裡達到金牌或更高以上的牌階所獲得的獎勵。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2021-11-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53036,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2021-11-16",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Solo/Duo Platinum": {
+        "id": 37,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Solo/Duo Diamond": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Solo/Duo Master": {
+        "id": 39,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Solo/Duo Grandmaster": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Solo/Duo Challenger": {
+        "id": 41,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Flex Platinum": {
+        "id": 42,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Flex Diamond": {
+        "id": 43,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Flex Master": {
+        "id": 44,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Flex Grandmaster": {
+        "id": 45,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      },
+      "Flex Challenger": {
+        "id": 46,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2022"
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "Victorious Blitzcrank was awarded to players who reached Gold or higher in the 2021 season. "
+  }
 }

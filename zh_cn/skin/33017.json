@@ -137,6 +137,54 @@
     }
   ],
   "description": "拉莫斯曾被认为是“太空计划”的核心资产，用于改造新行星——直到他挖出了一个没有人预料到的紫色惊喜。现在，他已经变成了完全不同的一种事物，他的能量经由邪恶侵略者——木灵们——之手被转而用于邪恶的目的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 33017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-01",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 24
+      },
+      "Catseye": {
+        "id": 19
+      },
+      "Citrine": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Rammus was supposed to be the Space Program's core asset for terraforming new planets, and he was—until his digging unearthed a purple surprise no one was ready for. Now he has become something wholly different, his power turned to nefarious ends at the hands of the evil invader-meeps."
+  }
 }

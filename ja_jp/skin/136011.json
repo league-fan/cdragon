@@ -170,6 +170,63 @@
     }
   ],
   "description": "「アオ・シン」の名で七代に渡って崇め続けられている龍、オレリオン・ソルは、豪嵐の力を授かるに値する闘士が現れるのを長い間待ち続けていた。ついにリー・シンが龍術師となったことで、アオ・シンは彼の持つ無限の力を導き、この世の悪を打ち砕かんとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Emberclaw": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Jadeclaw": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "The dragon Aurelion Sol, known to seven generations of worshippers as Ao Shin, has long awaited the ascent of a warrior worthy of receiving the power of the storm. Now, with Lee Sin's transformation into the Dragonmancer, Ao Shin has directed his impossible power towards purging the world of evil."
+  }
 }

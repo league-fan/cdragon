@@ -138,6 +138,54 @@
     }
   ],
   "description": "ヴァイはフェイバークロウのリーダーとして名を馳せており、その強さから国中で尊敬されている。その地位に嫉妬する者は多いが、競争相手たちにも怯むことなく力で凌駕し、己の怒りの拳をぶつける価値のある挑戦者をいつでも探している。ふさわしい相手が現れるその時まで、ヴァイは世界中を巡り歩く。フェイバークロウの力を恐ろしいほどの高みに昇華すると言われている、伝説のワイルドストライプを探し求めて…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Peridot": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Respected throughout the land for her strength, Vi is known to all as the leader of the Favorclaw. Although many envy her status, she stands above her competitors, unphased and eager for any challengers worthy of her furious fists. Until then, she searches the world for a mythical Wildstripe said to transcend a Favorclaw's power to unfathomable heights."
+  }
 }

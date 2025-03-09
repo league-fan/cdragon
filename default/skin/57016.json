@@ -120,6 +120,51 @@
     }
   ],
   "description": "An immense tree-like golem, Maokai grew from the very roots of the world, charred though they were by the last annihilation. Burdened to revive the world after every destructive cycle, he wanders for all eternity, reseeding the earth with his magical saplings, making way for the renewal of life…  only for it to be undone once more.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-09",
+    "set": [
+      "Worldbreaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Xuning Cui",
+      "Kudos Productions"
+    ],
+    "lore": "An immense tree-like golem, Maokai grew from the very roots of the world, charred though they were by the last annihilation. Burdened to revive the world after every destructive cycle, he wanders for all eternity, reseeding the earth with his magical saplings, making way for the renewal of life…  only for it to be undone once more."
+  }
 }

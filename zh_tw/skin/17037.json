@@ -226,6 +226,59 @@
     }
   ],
   "description": "提摩每年都會為狂歡慶典準備特製餃子，這些佳餚每年獲得爆炸性的迴響——如同字面意義上的。這些爆炸總是一鳴驚人！跟爆炸造成的財產損害求償一樣驚人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17037,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Golden Tiger": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 41
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Teemo cooks up his specialty steamed dumplings every year for the revel, and every year they're a big hit— literally. Those explosives pack a punch! Almost as much of a punch as the bill for all that property damage."
+  }
 }

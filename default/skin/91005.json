@@ -24,6 +24,25 @@
     }
   ],
   "description": "An anarchic demon summoned on the night of the Blood Moon, Talon was once a human assassin who surrendered his flesh during one of the cult's possession rituals. He now kills indiscriminately, relishing the terror in his victim's dying eyes.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-02-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-02-09",
+    "earlysale": "2017-08",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "An anarchic demon summoned on the night of the Blood Moon, Talon was once a human assassin who surrendered his flesh during one of the cult's possession rituals. He now kills indiscriminately, relishing the terror in his victim's dying eyes."
+  }
 }

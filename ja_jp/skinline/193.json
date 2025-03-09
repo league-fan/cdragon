@@ -8,184 +8,1078 @@
       "name": "混沌の闇ブラッドミア",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 8014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pariah": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The chaotic king of the night, Vladimir exists as the personification of uncertainty and revelry. He thrives in the unknown shadows, feeding on the life essence and darkness found in mortal hearts."
+      }
     },
     {
       "id": 16015,
       "name": "秩序の光ソラカ",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 16,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "A child of the gods born when chaos slew order, Soraka contains within her the powers of both Riven and Yasuo. To end the conflict of the gods, she has embraced the light to pierce the darkness, drawing on the powers of dawn to bring order to the chaotic world."
+      }
     },
     {
       "id": 16016,
       "name": "混沌の闇ソラカ",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 15,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "A child of the gods born when chaos slew order, Soraka contains within her the powers of both Riven and Yasuo. To end the conflict of the gods, she has embraced the darkness to soothe the blinding light, drawing on the powers of night to create chaos and change in a too-static world."
+      }
     },
     {
       "id": 23018,
       "name": "混沌の闇トリンダメア",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 23018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Catseye": {
+            "id": 20
+          },
+          "Deathbringer": {
+            "id": 26,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Emerald": {
+            "id": 22,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "A fiendish god of rage and battle, Tryndamere embodies the moment when war descends into bloodied frenzy. Peace is anathema, but perhaps Yone's crusade presents an opportunity… After all, to Tryndamere, chaos is best when it is born of order's decay."
+      }
     },
     {
       "id": 25039,
       "name": "秩序の光モルガナ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 45
+          },
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Lifebringer": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Determined to see order triumph over chaos, Morgana has sacrificed much to tip the scales in favor of light. If dawn emerges victorious, she is certain that they can avoid the gods' destruction and usher in a new age, one free from the corruption of chaos… Perhaps then Yone will see balance for the delusion that it is."
+      }
     },
     {
       "id": 43019,
       "name": "秩序の光カルマ",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43019,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "100 Mythic Essence",
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Catseye": {
+            "id": 21,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Paragon": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Peridot": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 25,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world."
+      }
     },
     {
       "id": 58033,
       "name": "秩序の光レネクトン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-20",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 38
+          },
+          "Turquoise": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "In the aftermath of chaos slaying order, two brothers were born: the embodiments of cause, Renekton, and effect, Nasus. As executioner for the Dawnbringers, Renekton has become more frenzied from battling his kin, but he still holds to his view that everything must have a purpose. For what function does chaos serve, if not to cause more chaos?"
+      }
     },
     {
       "id": 59035,
       "name": "混沌の闇ジャーヴァンⅣ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 59035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-20",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 38
+          },
+          "Citrine": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 41,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Jarvan is the magnetism of chaos made real. Like the eye of a hurricane, his destruction inevitably sweeps up anyone and anything in his path. To him, chaos is the forge from which true gods are made, and only those that survive the war will be worthy to live in the new age of creation that follows."
+      }
     },
     {
       "id": 64027,
       "name": "混沌の闇リー・シン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Lee Sin thrives in the heat of combat. An embodiment of passion and fury, he rules over the raw, chaotic emotions of the heart. While his siblings fight for various ideals, Lee Sin fights for the thrill of battle itself, striking with power and unpredictability."
+      }
     },
     {
       "id": 64028,
       "name": "プレステージ混沌の闇リー・シン",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64028,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 27,
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "Fully consumed by chaos and his blind devotion to the thrill of battle, Lee Sin has become night incarnate, gilded by his divinity."
+      }
     },
     {
       "id": 64039,
       "name": "プレステージ混沌の闇リー・シン(2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64039,
+        "formatname": "Prestige Nightbringer Lee Sin (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 28,
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "Fully consumed by chaos and his blind devotion to the thrill of battle, Lee Sin has become night incarnate, gilded by his divinity."
+      }
     },
     {
       "id": 67044,
       "name": "秩序の光ヴェイン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 67044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-20",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 51
+          },
+          "Rainbow": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "An overconfident god keen to show her potential to the Dawnbringers, Vayne ruthlessly hunts the Nightbringers out of her deep fear of the gods' foretold destruction. So violent are her actions that she undermines herself by leaving even more chaos in her wake. Still, she hopes killing Jarvan will be enough to cement her standing within the light."
+      }
     },
     {
       "id": 75045,
       "name": "混沌の闇ナサス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 75045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-20",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Rainbow": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 50
+          },
+          "Tanzanite": {
+            "id": 51
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "Nasus is forever linked with his causal brother, Renekton, not just through the scars left on each other from their battles, but also through the insight he's gained. Before, he was content to act without reason in pursuit of chaos, but now, he enjoys finding weaknesses and dismantling them for total havoc. Cause for maximum effect."
+      }
     },
     {
       "id": 76011,
       "name": "秩序の光ニダリー",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 76011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Paragon": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Peridot": {
+            "id": 14
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Both a celestial beast and a dawn-walking primordial, Nidalee rules over the restorative calm of the natural world. She guards the land's remaining peaceful places, bringing light and order to the mortal creatures under her care."
+      }
     },
     {
       "id": 92016,
       "name": "秩序の光リヴェン",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2017-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92016,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "cost": 1820,
+        "release": "2017-06-14",
+        "earlysale": "2017-12",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          },
+          "Paragon": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Born from swirling energies at the dawn of creation, Riven is the living embodiment of order in the cosmos. Fated to clash against the Nightbringer for all time, she awaits a day when her light will finally break his darkness."
+      }
     },
     {
       "id": 141008,
       "name": "混沌の闇ケイン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 141008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 11
+          },
+          "Deathbringer": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Robbie Daymond",
+          "Sam A. Mowry"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Rhaast was once an archon of light, a beacon of order… and now he is little more than a weapon in the hands of Kayn, an ambitious demi-god of dusk seeking true godhood. The two war within Kayn's own body, each determined to overthrow the other and lay claim to true divinity."
+      }
     },
     {
       "id": 141009,
       "name": "プレステージ混沌の闇ケイン",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 141009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 8,
+        "voiceactor": [
+          "Robbie Daymond",
+          "Sam A. Mowry"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Kayn and Rhaast are forged anew in the crucible of their clash. No longer are they a mere weapon, a mere demigod— they are forces of nature, warping each other and the raw energy around them, each hurtling towards a victory sure to shake the firmament itself."
+      }
     },
     {
       "id": 157009,
       "name": "混沌の闇ヤスオ",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2017-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 157009,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "cost": 1820,
+        "release": "2017-06-14",
+        "earlysale": "2017-12",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Pariah": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light."
+      }
     },
     {
       "id": 157087,
       "name": "創世の混沌の闇ヤスオ",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-10-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 157087,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Capsules or opening 30 Capsules",
+        "release": "2024-10-09",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 9,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light."
+      }
     },
     {
       "id": 523001,
       "name": "混沌の闇アフェリオス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-12-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 523001,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "cost": 1350,
+        "release": "2019-12-11",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Emerald": {
+            "id": 7
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pariah": {
+            "id": 3,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Turquoise": {
+            "id": 2
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Separated at primordial birth, Aphelios, a fiend of chaos, and Alune, an archoness of order, were created as enemies. Yet, drawn each night to wander by shared visions of the moon, they found each other. Abandoning their natures, they struggle to show creation that darkness can shine, even as other divinities endlessly war…"
+      }
     },
     {
       "id": 711001,
       "name": "秩序の光ヴェックス",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 711001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 4
+          },
+          "Emerald": {
+            "id": 5
+          },
+          "Lifebringer": {
+            "id": 9,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Meteorite": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 3
+          },
+          "Tanzanite": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Jeannie Tirado"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Vex finds order in the day's descent to darkness, and spends her evenings watching her shadow chase the sun below the horizon. A preternaturally sour and unenthusiastic god, she finds the whole chaos and order 'thing' very blasé."
+      }
     },
     {
       "id": 777019,
       "name": "秩序の光ヨネ",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 21
+          },
+          "Lifebringer": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Prophecy dictates that the gods will destroy each other, ushering in the end of creation itself— but Yone is determined to defy fate. A half-mortal, half-god born of the clash between chaos and order, Yone wields the power of both night and dawn. He must rally his brethren, bring peace to the gods… or they will all perish."
+      }
     },
     {
       "id": 876010,
       "name": "混沌の闇リリア",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 876010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 15
+          },
+          "Deathbringer": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Emerald": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Steward of nightmares, demon of dreams, Lillia revels in twisted fantasias that mortify mortal minds. Though she dallies in the war between order and chaos, she rarely joins the fray herself; she has a garden to tend to, after all, sowing seeds of terror and watching them bloom."
+      }
     }
   ]
 }

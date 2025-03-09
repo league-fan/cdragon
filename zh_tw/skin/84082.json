@@ -165,6 +165,61 @@
     }
   ],
   "description": "在阿卡莉出生的次元被毀滅之前，她因沒成功刺殺暴虐軍閥，而被關在牢裡。成為宇宙幻焰並重獲自由後，阿卡莉確信自己的新使命，是打敗之前無法阻止的邪惡勢力。許多次元都需要守護者，阿卡莉決意為它們戰鬥，直到倒下為止。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84082,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 85
+      },
+      "Catseye": {
+        "id": 84
+      },
+      "Emerald": {
+        "id": 88
+      },
+      "Neon Facade": {
+        "id": 91,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 90
+      },
+      "Rose Quartz": {
+        "id": 89
+      },
+      "Ruby": {
+        "id": 83,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 86
+      },
+      "Turquoise": {
+        "id": 87
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "Pandart Studio"
+    ],
+    "lore": "Before her realm's destruction, Akali was rotting away in prison for a failed assassination attempt on a despotic warlord. Now on her own as an Empyrean, she views her newfound freedom as a sign to stop the evil she couldn't before. The realms need a defender, and Akali is determined to fight for them as long as she can."
+  }
 }

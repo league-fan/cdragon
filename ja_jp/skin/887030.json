@@ -142,6 +142,53 @@
     }
   ],
   "description": "遥か昔に失われたと考えられていた遠方の古代の王国であるカリゴ出身のグウェンは、この国を保護する霧を抜けて、エリシアの他の国々と再び交流を持った。彼女の前任者である女王イゾルデは、グウェンならその純真な心と研ぎ澄まされた精神でカリゴの強さを示し、他の支配者たちと同盟を結んでくれると信じている──暗黒の時代が迫るなか、最悪の事態を回避できるものがあるなら、それは確固とした協定のみだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Gwen of Caligo—a faraway, ancient queendom long thought lost to time—cut through the nation's protective clouds to reconnect with the rest of Elysia. Her predecessor, Queen Isolde, trusts Gwen's pure heart and sharp mind to affirm Caligo's strength and ally with fellow rulers—for dark times lie ahead, and only a steadfast pact may prevent the worst."
+  }
 }

@@ -168,6 +168,64 @@
     }
   ],
   "description": "卡尔玛掌管着死亡和重生的星界轮回。她战斗的目的，是为了在灵魂们踏上轮回之旅时保护灵魂的泉源。远超其它星界存在的是，她照看着受她指引的凡间灵魂们，并且在努力创造一个更加井井有条的世界。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43019,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "100 Mythic Essence",
+    "release": "2019-12-12",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Catseye": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Peridot": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 25,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world."
+  }
 }

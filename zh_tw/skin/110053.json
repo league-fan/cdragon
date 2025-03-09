@@ -129,6 +129,52 @@
     }
   ],
   "description": "喪失家人且出生次元坍塌後，法洛士被仇恨吞噬。因夜曲的介入，他不單止存活下來，還將兩個來訪的宇宙幻焰「凱」和「菲爾瑪」吸收進自己的弓裡。曙光的煽動點燃了法洛士的怒火，他無視自己的新「朋友」的意志，發誓要消滅每一個宇宙幻焰。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110053,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 55
+      },
+      "Neon Facade": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Turquoise": {
+        "id": 56
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "Having lost his family, Varus was already consumed by vengeance when his realm collapsed. Not only did he survive, due to Nocturne's meddling, but two visiting Empyreans, Kai and Valmar, were absorbed into his bow. With the Foreglow stoking his rage, Varus vows to wipe out every last Empyrean, no matter what his new \"friends\" say."
+  }
 }

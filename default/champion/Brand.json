@@ -13,104 +13,441 @@
       "name": "Brand",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2011-04-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-04-12",
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "Once a tribesman of the icy Freljord named Kegan Rodhe, the creature known as Brand is a lesson in the temptation of greater power. Seeking one of the legendary World Runes, Kegan betrayed his companions and seized it for himself—and, in an instant, the man was no more. His soul burned away, his body a vessel of living flame, Brand now roams Valoran in search of other Runes, swearing revenge for wrongs he could not have suffered in a dozen mortal lifetimes."
+      }
     },
     {
       "id": 63001,
       "name": "Apocalyptic Brand",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-04-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-04-12",
+        "set": [
+          "Road Warrior"
+        ],
+        "lore": "Before the devastation of Runeterra, Kegan Rodhe was a search-and-rescue specialist deployed to active wildfire zones. When the bombs went off, the world vanished in the blink of an eye—and Rodhe along with it. All that was left was the empty wasteland… and a monstrous creature of living flame, calling itself Brand."
+      }
     },
     {
       "id": 63002,
       "name": "Vandal Brand",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-04-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-04-12",
+        "retired": "2014-12-02",
+        "set": [
+          "Vandal"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "The wasteland is full of problems, and there's no better problem solver than Brand. Sure, his prices are a little high for a glorified thug, but nothing sends a hard message like a fistful of supernatural fire."
+      }
     },
     {
       "id": 63003,
       "name": "Cryocore Brand",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-05",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "lore": "An elite soldier of a military wetworks unit, Kegan Rodhe was left behind enemy lines deep in the frozen arctic! But instead of dying, Rodhe found himself captured by a cabal of evil scientists, whose brutal experiments transformed him into the diabolical villain Cryocore!"
+      }
     },
     {
       "id": 63004,
       "name": "Zombie Brand",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2012-10-26",
+        "set": [
+          "Zombies VS Slayers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "lore": "Before the mutagenic outbreak, Brand was a leading military scientist, responsible for the development of a powerful virus deep within a government compound. But the same government who elevated him among his peers suddenly cut his funding, forcing Brand to test the mutagen on himself… with disastrous results."
+      }
     },
     {
       "id": 63005,
       "name": "Spirit Fire Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-10-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-10-21",
+        "earlysale": "2016-04",
+        "set": [
+          "Worldbreaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Kelly Aleshire"
+        ]
+      }
     },
     {
       "id": 63006,
       "name": "Battle Boss Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-08-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "The fire boss from a bestselling action game, Brand has no intention of returning to his original machine. He'd rather see all of Arcade World burn to the ground, to be rebuilt in the image of the villains who rule it."
+      }
     },
     {
       "id": 63007,
       "name": "Arclight Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-03-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-03-07",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 9
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "In the early days of civilization, Vel'Koz chose a man named Kegan Rodhe to take up the mantle of the first Arclight, gifting him with vast divine powers. But millenia have passed since then, and though Rodhe is gone, his body is still animated by the light, filled with nothing but pain and rage."
+      }
     },
     {
       "id": 63008,
       "name": "Eternal Dragon Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Emberclaw": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Jadeclaw": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "Intoxicated by the power over life and death he received from the Eternal Dragon, Brand now spreads death and decay across the land. Now that his dragon benefactor has retreated from the affairs of mortals, only other dragon-blessed can fight against the rot Brand leaves in his wake as he asserts his prowess."
+      }
     },
     {
       "id": 63021,
       "name": "Debonair Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 25
+          },
+          "Cerulean Club": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          },
+          "Turquoise": {
+            "id": 31
+          }
+        },
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions."
+      }
     },
     {
       "id": 63022,
       "name": "Prestige Debonair Brand",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63022,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 21,
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "With a blisteringly fashionable custom suit, the plans for which he burned, Brand stands on the precipice of something he has long thought beyond his reach: defeating his rivals and standing atop the greatest aristocrats in the world."
+      }
     },
     {
       "id": 63033,
       "name": "Street Demons Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-09-13",
+        "set": [
+          "Street Demons"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 40
+          },
+          "Catseye": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          }
+        },
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "A will-o'-wisp with bombastic style, Brand's art is all about embracing your inner power and letting it EXPLODE! (His work features lots of exclamation points.) He's famous for using destruction as an unconventional tool to create beautiful images: acid washes, cracked concrete, and, of course, burning."
+      }
     },
     {
       "id": 63042,
       "name": "Empyrean Brand",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 44
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Neon Facade": {
+            "id": 50,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Tanzanite": {
+            "id": 48
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "If the destruction of Brand's realm bent his mind, becoming an Empyrean broke it. To him, the randomness of being his realm's lone survivor and gaining the powers of a god prove that nothing truly matters. He could set fire to an entire planet or kill every version of his father. Everything is anarchy, and Brand is only too glad to spread it."
+      }
     }
   ]
 }

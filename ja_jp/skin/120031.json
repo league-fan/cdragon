@@ -170,6 +170,63 @@
     }
   ],
   "description": "「お前はポラリスだ」ヘカリムは答えた。何世紀もの隷属生活によるしわがれた声で、彼はセナがオーロラの生ける体現者であり、自分はその守護者なのだと説明した。一年が過ぎ、新たな冬の祝福が選ばれるまでの間、彼は毎年ポラリス不在の境界を守ってきた。「お前の過去など関係ない」ヘカリムがセナに告げる。「お前は奉仕者として召集された、それだけだ」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 34,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Rainbow": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 35
+      },
+      "Wreathguard": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": " \"You are Polaris,\" answered Hecarim. With a voice hardened by centuries of servitude, he explained that Senna was the living embodiment of the Aurora; he, its protector. As each year passed, he guarded the borders in Polaris' absence while the new Winterblessed was chosen. It didn't matter who she was before, he told her: she'd been called to service now."
+  }
 }

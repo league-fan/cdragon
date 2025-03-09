@@ -160,6 +160,60 @@
     }
   ],
   "description": "沃利贝尔曾是森林中最大的恐惧之物，直到附近的火山爆发为止。在逃生的狂潮中，沃利贝尔遇到了一个同样被困的孩子，并听从了一种奇怪的本能——他救了这个孩子。均衡之龙看到了这个善举并给这个强大的掠食者提供了一份邀约：赐予他打磨自身天性中的两仪——狂怒与同情——的神力。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Emberclaw": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Volibear was the greatest terror in the forest, until the nearby volcano erupted. In the frenzy of escape, Volibear came across a child who was similarly trapped, and heeded a strange instinct—he saved the child. The Duality Dragon saw and made the mighty predator an offer: the power to hone the duality of his nature, both fury and compassion."
+  }
 }

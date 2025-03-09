@@ -148,6 +148,58 @@
     }
   ],
   "description": "그 어떤 상황에서도 쇼맨십을 발휘하는 화려한 처형자 드레이븐은 비에고에게 결투를 신청했다가 곧바로 진 후 몰락하고 말았습니다. 다른 몰락한 이들과 달리 드레이븐은 변한 것이 거의 없습니다. 아무렇게나 뻗친 흰머리와 전보다 약간 더 포악해진 성격만 제외하면요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-21",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Cursed": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "A showman no matter the circumstance, Draven challenged Viego to a duel that the Glorious Executioner immediately lost, resulting in his ruination. Unlike his ruined brethren, little has changed about Draven save for a white shock hair on his head and a slightly more vicious personality than usual."
+  }
 }

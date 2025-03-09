@@ -120,6 +120,39 @@
     }
   ],
   "description": "来到下路，我们看到德莱文的表现可圈可点，已将对方两人压到了塔下。冲塔了！德莱文拿下了辅助的人头——防御塔出于尊重拒绝攻击他——双杀！除此之外，防御塔还在恐惧中自我解体！德莱文的大师级操作，让我们再看一遍。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-06-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-06-20",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again."
+  }
 }

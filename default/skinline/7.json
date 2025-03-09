@@ -8,136 +8,925 @@
       "name": "Victorious Master Yi",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11106,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2024 - Split 3.",
+        "release": "2025-01-09",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 107,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Challenger": {
+            "id": 115,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Diamond": {
+            "id": 112,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Emerald": {
+            "id": 111,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Gold": {
+            "id": 109,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Grandmaster": {
+            "id": 114,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Master": {
+            "id": 113,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Platinum": {
+            "id": 110,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Silver": {
+            "id": 108,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Victorious Master Yi was earned by players who accumulated enough split points in Ranked. Those who believe themselves worthy of learning the art of Wuju must make the pilgrimage to where its true master resides. Though many have studied under his tutelage, when put to the test, they have all been found wanting."
+      }
     },
     {
       "id": 15008,
       "name": "Victorious Sivir",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2015-11-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 15008,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2015-11-12",
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Victorious Sivir was awarded to players who reached Gold or higher in the 2015 season. As the ultimate battle mistress, Sivir wears a winged crown of victory and wields a golden weapon."
+      }
     },
     {
       "id": 23027,
       "name": "Victorious Tryndamere",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 23027,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2023 - Split 2.",
+        "release": "2024-03-20",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 28,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Challenger": {
+            "id": 36,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Diamond": {
+            "id": 33,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Emerald": {
+            "id": 32,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Gold": {
+            "id": 30,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Grandmaster": {
+            "id": 35,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Master": {
+            "id": 34,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Platinum": {
+            "id": 31,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          },
+          "Silver": {
+            "id": 29,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 2"
+          }
+        },
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Victorious Tryndamere was earned by players who accumulated enough split points in Ranked. The last thing Tryndamere's challengers would ever see was the unbridled wrath in his eyes as he decided they would be the next to meet his blade."
+      }
     },
     {
       "id": 25006,
       "name": "Victorious Morgana",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2014-11-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25006,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2014-11-11",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "lore": "Victorious Morgana was awarded to players who reached Gold or higher in the 2014 season. A queen of shadows, Victorious Morgana glides through Summoner's Rift in deep blue armor, with a flashy recall."
+      }
     },
     {
       "id": 34046,
       "name": "Victorious Anivia",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 34046,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2023 - Split 1.",
+        "release": "2023-07-17",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 47,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Challenger": {
+            "id": 54,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Diamond": {
+            "id": 51,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Gold": {
+            "id": 49,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Grandmaster": {
+            "id": 53,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Master": {
+            "id": 52,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Platinum": {
+            "id": 50,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Silver": {
+            "id": 48,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          }
+        },
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Victorious Anivia was awarded to players who earned the requisite ranked split points in Season 2023 Split 1. Rising from the ashes covered in crystalline armor, Anivia's opulent feathers reflect her heightened nature. She is perseverance personified, an undying wish granted to those that need her most. "
+      }
     },
     {
       "id": 37056,
       "name": "Victorious Sona",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-10-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 37056,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2024 - Split 2.",
+        "release": "2024-10-10",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 57,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Challenger": {
+            "id": 65,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Diamond": {
+            "id": 62,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Emerald": {
+            "id": 61,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Gold": {
+            "id": 59,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Grandmaster": {
+            "id": 64,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Master": {
+            "id": 63,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Platinum": {
+            "id": 60,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          },
+          "Silver": {
+            "id": 58,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 2"
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Santiago Parra",
+          "Pandart Studio"
+        ],
+        "lore": "Victorious Sona was earned by players who accumulated enough split points in Ranked. Luring the unsuspecting into a false sense of ease with her melodies, Sona is as quick to pluck her allies from the brink of death as she is to send her foes to their grand finale."
+      }
     },
     {
       "id": 40004,
       "name": "Victorious Janna",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2012-11-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 40004,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2012-11-06",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "lore": "Victorious Janna was awarded to players who reached Gold or higher in the 2012 season. Armed with a crystalline staff and the best Demacian armor, Victorious Janna unleashes epic gales to blow her enemies away."
+      }
     },
     {
       "id": 53036,
       "name": "Victorious Blitzcrank",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-11-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 53036,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2021-11-16",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Solo/Duo Platinum": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Diamond": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Master": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Grandmaster": {
+            "id": 40,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Challenger": {
+            "id": 41,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Platinum": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Diamond": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Master": {
+            "id": 44,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Grandmaster": {
+            "id": 45,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Challenger": {
+            "id": 46,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "Victorious Blitzcrank was awarded to players who reached Gold or higher in the 2021 season. "
+      }
     },
     {
       "id": 57007,
       "name": "Victorious Maokai",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2016-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57007,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2016-11-08",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "Victorious Maokai was awarded to players who reached Gold or higher in the 2016 season. Victorious Maokai lays down his roots fashionably with vines of golden leaves, and a rich blue and gold robe. "
+      }
     },
     {
       "id": 59004,
       "name": "Victorious Jarvan IV",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2011-09-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 59004,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2011-09-14",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "Victorious Jarvan IV was awarded to players who reached Gold or higher in the 2011 season. As the first Victorious skin ever released, Jarvan shines in silver armor with a flashy gold trim."
+      }
     },
     {
       "id": 60002,
       "name": "Victorious Elise",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2013-12-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 60002,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2013-12-20",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sydney Rainin-Smith"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "Victorious Elise was awarded to players who reached Gold or higher in the 2013 season. Spin a wicked web for your enemies in gold-trimmed armor and deep purple robes, and chuckle as they struggle."
+      }
     },
     {
       "id": 61008,
       "name": "Victorious Orianna",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 61008,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2018-11-21",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amber": {
+            "id": 9,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2018"
+          },
+          "Peridot": {
+            "id": 10,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2018"
+          }
+        },
+        "voiceactor": [
+          "Heath Pennington"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Victorious Orianna was awarded to players who reached Gold or higher in Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech."
+      }
     },
     {
       "id": 96055,
       "name": "Victorious Kog'Maw",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 96055,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2024 - Split 1.",
+        "release": "2024-05-17",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 56,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Challenger": {
+            "id": 64,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Diamond": {
+            "id": 61,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Emerald": {
+            "id": 60,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Gold": {
+            "id": 58,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Grandmaster": {
+            "id": 63,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Master": {
+            "id": 62,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Platinum": {
+            "id": 59,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Silver": {
+            "id": 57,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth."
+      }
     },
     {
       "id": 104014,
       "name": "Victorious Graves",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2017-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 104014,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2017-11-08",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "3v3": {
+            "id": 17,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2017"
+          },
+          "Solo": {
+            "id": 16,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2017"
+          },
+          "Flex": {
+            "id": 15,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2017"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy."
+      }
     },
     {
       "id": 113036,
       "name": "Victorious Sejuani",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-11-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 113036,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "release": "2022-11-15",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Flex Challenger": {
+            "id": 46,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Diamond": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Grandmaster": {
+            "id": 45,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Master": {
+            "id": 44,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Platinum": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Challenger": {
+            "id": 41,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Diamond": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Grandmaster": {
+            "id": 40,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Master": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Platinum": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Victorious Sejuani was awarded to players who reached Gold or higher in the 2022 season. After surrendering their strongest warriors and Iceborn to the Winter's Claw, all tribes of the Freljord now bend to the will of Queen Sejuani, clad in the finest gear her kingdom has to offer."
+      }
     },
     {
       "id": 236025,
       "name": "Victorious Lucian",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-11-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 236025,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2020-11-11",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2019"
+          },
+          "Aquamarine": {
+            "id": 27,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020"
+          },
+          "Emerald": {
+            "id": 26,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020"
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020"
+          },
+          "Sapphire": {
+            "id": 30,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020"
+          }
+        },
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Victorious Lucian was awarded to players who reached Gold or higher in the 2020 season. By the time Lucian was finished firing, the relic stones were fused into solid crystal by the heat of his righteousness, and the last dredge of mist was evaporating into the morning light. "
+      }
     },
     {
       "id": 266009,
       "name": "Victorious Aatrox",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 266009,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "release": "2019-11-21",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amber": {
+            "id": 10,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2019"
+          }
+        },
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "lore": "Victorious Aatrox was awarded to players who reached Gold or higher in the 2019 season. With arm and sword sculpted from crystal quartz, he stands as a monument to all who wish to achieve greatness."
+      }
     }
   ]
 }

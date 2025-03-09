@@ -137,6 +137,55 @@
     }
   ],
   "description": "自以為是，傲慢，且與世隔絕的弗拉迪米爾喝下了死亡世界的精華，為垂死之物注入生命。然而他的飢渴卻開始增長……。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 24
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Pompous, arrogant, and isolated from his cosmic brethren, Vladimir drinks the essence from dead worlds to infuse dying ones with life. Yet as of late his hunger has begun to grow…"
+  }
 }

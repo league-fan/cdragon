@@ -137,6 +137,54 @@
     }
   ],
   "description": "地獄の偉大なる女王の一人となった魔女トリスターナは、下級悪魔の大軍を率いて「破滅」と「厄災」というこの世の闇を自在に支配するようになった。彼女は自身の持つ計り知れない力を利用しようとする者に対して、ありとあらゆる魅力的な契約を持ちかける。しかし、そうした愚かな人間は知る由もないのだ。彼女の狙いがその契約者、そしてこの世界を地獄の烈火で燃やし尽くすことにあることを。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-30",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Aquamarine": {
+        "id": 32
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A witch who is now one of the great queens of Hell, Tristana commands a vast army of lesser demons and rules the twin Aspects of Ruin and Woe. Mortals attempting to invoke her will find a variety of tempting contracts, but signers beware: Tristana's ultimate goal is bathing her signatories—as well as the world—in hellfire."
+  }
 }

@@ -49,6 +49,35 @@
     }
   ],
   "description": "身為吉拉曼恩家族的繼承人，凱特琳很懂得贏得他人的尊重。她憑的不僅是乾淨俐落的外表，更是她那雙犀利的眼神。她已晉升至執法者領袖的位置，成為皮爾托福不可或缺的人才。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51051,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 50,
+    "chromas": {
+      "Stellar": {
+        "id": 53,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Arcane 2024 Premium Pass Bundle"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "As scion of the Kiramman family, Caitlyn knows how to command respect from the moment she enters a room—not only with her sharp appearance, but her even-sharper gaze as well. Having climbed the ranks to lead the city's enforcers, she makes an even stronger asset to the future of Piltover."
+  }
 }

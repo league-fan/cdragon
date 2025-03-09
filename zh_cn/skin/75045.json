@@ -137,6 +137,54 @@
     }
   ],
   "description": "内瑟斯与他的兄弟雷克顿永远联系在一起，不仅仅是因为他们在战斗中给彼此留下的伤疤，还因为他获得的洞察力。以前，他满足于无缘无故地追求混沌，但现在，他喜欢寻找弱点并对其痛击以造成彻底的破坏。大“果”之“因”。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Rainbow": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Tanzanite": {
+        "id": 51
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "Nasus is forever linked with his causal brother, Renekton, not just through the scars left on each other from their battles, but also through the insight he's gained. Before, he was content to act without reason in pursuit of chaos, but now, he enjoys finding weaknesses and dismantling them for total havoc. Cause for maximum effect."
+  }
 }

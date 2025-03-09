@@ -160,6 +160,60 @@
     }
   ],
   "description": "它們從土石而出、從亂根而揚，最終來到了枷蘿面前，那蠢蠢欲動的闇夜之鴿振翅，驚擾且扭曲了其長眠之墓。現在，枷蘿與來自土壤之下的耳語緊緊聯繫，她已經準備好撕碎人類所荼毒的一切，一磚一瓦都不會放過，而殘餘下來的遺跡，就是一步一步的帶領這個世界回到最原始自然狀態的象徵。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Dark Ritual": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "They came to Zyra from the roots and rocks "
+  }
 }

@@ -49,6 +49,34 @@
     }
   ],
   "description": "Honoring Gumayusi's winning performance as Jinx during the 2023 World Championship.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222062,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-14",
+    "set": [
+      "World Champions: 2023"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "Kelvin Law",
+      "Mo Yan"
+    ],
+    "lore": "Honoring Gumayusi's winning performance as Jinx during the 2023 World Championship."
+  }
 }

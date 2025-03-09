@@ -138,6 +138,54 @@
     }
   ],
   "description": "灼見學院教導學生熟知周遭環境所能帶來的優勢，但隨著凱爾越來越接近永生，質疑悄然而至。她的雙親意外死亡，讓她想要盡可能地掌握自己人生中的一切，但在她的老師，劫，遭到放逐之後，她所知的一切開始崩毀。她希望永生能夠帶給她真正的安寧。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10057,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Catseye": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Obsidian": {
+        "id": 64
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 60
+      },
+      "Ruby": {
+        "id": 58,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "The Grounded Foresight School teaches power in knowing one's surroundings, but as Kayle nears immortality, doubt has crept in. Her parents' random deaths fostered a desire to exert as much control as possible in her life, but with her teacher Zed's banishment, the ground is now shaky. Immortality, she hopes, will finally give her solid footing."
+  }
 }

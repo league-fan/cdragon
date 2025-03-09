@@ -198,6 +198,51 @@
     }
   ],
   "description": "「醜不拉雞 加里歐」總是有辦法做出令人垂涎欲滴的美味炸雞，他是崇高且神聖的炸雞推銷員，世界最大炸雞店的區經理（同時也是年度最佳銷售員）。他和希維爾旗鼓相當，兩人在公司從來不曾被任何人打敗過，只要翻開公司的文件就可以看到他們歷年來的精彩對決。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2018-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3006,
+    "formatname": "Birdio",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-03-29",
+    "set": [
+      "Culinary Masters"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 8
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Meteorite": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 7
+      },
+      "Worlds Early Bird": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      }
+    },
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "A proud and noble salesman of delicious fried chicken, Birdio is the regional manager (and salesman of the year) for one of the world's largest chicken restaurants. Not one to be beaten at literally anything, he and Sivir have a well documented rivalry over who is the better employee."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "故郷の王国を滅亡から守ることができなかったこの世界のジャックスは、逃亡生活を送ることに満足していた。だが、それもすべてが崩壊するまでのことだった。「荘厳の天球」となった今、彼は自分の王国がどこかにまだ完全な状態で存在していることを知った。たとえ己の身を滅ぼすことになろうと、もう一度故郷をその目で見るためなら、彼は自身のあらゆる力を使うだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 24
+      },
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Neon Flare": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Hailing from a realm where he failed to protect his kingdom from annihilation, Jax was content to live in exile, until everything collapsed. Now an Empyrean, he knows that somewhere out there his kingdom is still intact. Even if it destroys him, he'll use all of his power to see his home one more time."
+  }
 }

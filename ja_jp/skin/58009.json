@@ -173,6 +173,46 @@
     }
   ],
   "description": "1996年に発売されたレネクトイは予想を上回る人気を博し、その年の大ヒット商品となった。品切れとなっても需要は衰えず、ネットで転売する人間も続出。玩具店の棚の前では親同士の掴み合いに発展することもあり、中には後に警察が「モール荒らし」と名付けた行為に走る者もあった。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58009,
+    "formatname": "Renektoy",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Catseye": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "First produced in 1996, Renektoy quickly and unexpectedly became the must-have gift of the season. Shortages and heightened demand led to online scalping, parents fist fighting in store aisles, and a small number of what police later described as “mall stampedes.”"
+  }
 }

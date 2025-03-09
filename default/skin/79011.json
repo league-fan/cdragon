@@ -137,6 +137,55 @@
     }
   ],
   "description": "The Wardens are a sect of those who choose to don the armor of the Protectorate. Wardens hail from all corners of the world; so long as one holds fast to one's pledge, then one is a Warden. Gragas found purpose in this calling, and found camaraderie in his fellow Wardens, who welcomed him—all of him—with open arms.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Warden"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Peridot": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The Wardens are a sect of those who choose to don the armor of the Protectorate. Wardens hail from all corners of the world; so long as one holds fast to one's pledge, then one is a Warden. Gragas found purpose in this calling, and found camaraderie in his fellow Wardens, who welcomed him—all of him—with open arms."
+  }
 }

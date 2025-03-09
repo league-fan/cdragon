@@ -148,6 +148,56 @@
     }
   ],
   "description": "오래전 두 형제가 아이오니아 전역에서 치열한 전쟁을 벌였습니다. 동생 야스오는 행동거지가 무뢰한 같기로 유명했고 여러 전쟁을 이끌었지만, 반국가적 범죄를 저질렀다는 혐의를 받게 되자 자신을 지키기 위해 무기를 들었습니다. 두 사람은 최후의 결투에서 쓰러질 운명이었죠. 이는 어쩌면 자만과 오만이 불러온 결과일지도 모릅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-22",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Night Blossom": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Long ago, two brothers fought a bitter war across Ionia. Yasuo, the younger brother, was a warlord renowned for his roguish demeanor—until he was accused of crimes against the country and took up arms to defend himself. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+  }
 }

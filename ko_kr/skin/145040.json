@@ -119,6 +119,51 @@
     }
   ],
   "description": "전술에 뛰어난 선천적인 지도자인 카이사는 단장이라는 직책에 막중한 책임감을 느낍니다... 부담감을 느낄 정도로요. 하지만 아무리 위험천만한 임무라도 자신을 따르는 팀원들과 함께 최우선 목표를 저격하고 나머지 적들에게 별빛 미사일을 난사할 겁니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 43
+      },
+      "Brilliant": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "A born leader with a head for tactics, Kai'Sa takes her job as captain extremely seriously... perhaps too much for her own good. Still, her squad respects her command and will follow her into even the most dangerous missions, where she'll snipe priority targets and spray the rest with payloads of starlight-powered missiles."
+  }
 }

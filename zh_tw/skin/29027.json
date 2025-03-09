@@ -137,6 +137,56 @@
     }
   ],
   "description": "「影足神弩 圖奇｣無論是在遊戲中或是桌上都極為討厭，儘管如此，和已瘋的真實圖奇相比，這個在峽谷探索中的它已可以算是可愛版本了。而令人一點都不意外的是，這個讓人想大抱一番的鼠人盜賊幾乎每個回合都會嘗試偷走自己同伴的裝備，然後不斷抱怨著甚麼巨大的陰謀讓自己從「廁所王國」被逐出。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29027,
+    "formatname": "Twitch Shadowfoot",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-19",
+    "set": [
+      "Rift Quest"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 28
+      },
+      "Amethyst": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'."
+  }
 }

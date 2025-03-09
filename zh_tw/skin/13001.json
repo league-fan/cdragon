@@ -24,6 +24,19 @@
     }
   ],
   "description": "給予那些預購實體蒐藏者版本英雄聯盟的玩家。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2009-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 13001,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Pre-order Retail Collector's edition",
+    "cost": "Special",
+    "release": "2009-07-17",
+    "set": [
+      "Collector's Edition"
+    ],
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "lore": "Given to players who pre-ordered the Retail Collector's Edition of League of Legends."
+  }
 }

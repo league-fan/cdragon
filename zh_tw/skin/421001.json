@@ -24,6 +24,26 @@
     }
   ],
   "description": "在不知名的某處，你會從土壤之下聽到金屬的摩擦聲。突然，一聲尖嘯出現，那是象徵飢餓的聲音……接著，你便再也感知不到任何東西。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-12-11",
+    "set": [
+      "Eternum"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screech… A cry of hunger… Then, nothing."
+  }
 }

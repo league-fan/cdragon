@@ -33,6 +33,25 @@
     }
   ],
   "description": "名叫杰里柯·斯维因的海克斯科技制宝师是皮尔特沃夫不断增长的上流阶层中的一位传奇人物。尽管他声称不干涉城市事务，但他一直在悄悄地把各种海克斯科技组件整合到自己的身体中……并且凭借它们，就能出色地使用成千上万的人工生物们的眼睛和耳朵了。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50011,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2019-12-12",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "The hextech artificer known as Jericho Swain is an almost legendary figure among Piltover's growing upper crust. Though he professes not to meddle in city affairs, he has been quietly integrating various hextech components into his own body… and with them, unparalleled access to the eyes and ears of thousands of artificial creatures."
+  }
 }

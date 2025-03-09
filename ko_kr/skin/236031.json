@@ -137,6 +137,53 @@
     }
   ],
   "description": "균형을 중시하는 루시안은 하나의 원형이 세계에 지나친 영향력을 행사해서는 안 된다고 믿습니다. 패턴을 확장시키는 총과 그것을 상쇄하는 총을 하나씩 가지고 다니는 루시안은 새로운 힘의 공백 안에서 깨지기 쉬운 세계의 질서를 유지하려고 합니다. 탐 켄치 같은 이들이 그 자리를 채우려고 움직이더라도 말이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 34
+      },
+      "Citrine": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Lucian believes in balance: that no one Archetype should have excessive influence on the world. With one gun amplifying patterns and the other canceling them out, Lucian maintains the world's fragile order within the new power vacuum—even as the likes of Tahm Kench move to fill it."
+  }
 }

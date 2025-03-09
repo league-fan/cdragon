@@ -8,16 +8,46 @@
       "name": "星艦戰將 庫奇",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2010-01-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 42001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Code Redemption",
+        "cost": "Special",
+        "release": "2010-01-01",
+        "set": [
+          "Invaders"
+        ],
+        "voiceactor": [
+          "'Ralph'"
+        ],
+        "lore": "Everyone said this model wouldn't fly, but Corki's never let himself be discouraged by others being reasonable."
+      }
     },
     {
       "id": 74001,
       "name": "外星入侵者 漢默丁格",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 74001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-07-13",
+        "retired": "2012-07-16",
+        "earlysale": "2019-09-20",
+        "set": [
+          "Invaders"
+        ],
+        "neweffects": true,
+        "transforming": true,
+        "vu": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "lore": "No one believed Heimerdinger when he tried to warn them about the invaders from outer space. They believed when he took off the wig."
+      }
     }
   ]
 }

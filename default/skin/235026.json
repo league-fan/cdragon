@@ -137,6 +137,55 @@
     }
   ],
   "description": "An ancient knight long thought dead, freed from the Eclipse Cathedral's catacombs as Kayle began to stir from her ancient slumber. Senna now aids her knighthood against the new threat of the Coven, saving whoever she can from the resurrected Old Gods… though she remains ever vigilant, as the sun-eater's return is now inevitable.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An ancient knight long thought dead, freed from the Eclipse Cathedral's catacombs as Kayle began to stir from her ancient slumber. Senna now aids her knighthood against the new threat of the Coven, saving whoever she can from the resurrected Old Gods… though she remains ever vigilant, as the sun-eater's return is now inevitable."
+  }
 }

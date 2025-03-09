@@ -25,6 +25,46 @@
     }
   ],
   "description": "サラ・フォーチュンは生ける大量破壊兵器であり、星の数ほど存在する盗賊を追い求め、復讐を希求し続ける伝説の賞金稼ぎだ。銃弾に倒れ、死んだと思われていたサラ・フォーチュンであったが、この宇宙の宙域全体の中でも最もキケンな戦闘用EXOスーツを操るようになった今は、少しでも危害を加えそうな者に苛烈な裁きを下すことに全身全霊を捧げている。",
-  "wikiPrice": "2775",
-  "wikiReleaseDate": "2018-03-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 2775,
+    "release": "2018-03-22",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Gun Goddess",
+    "forms": [
+      "Scarlet Fair",
+      "Zero Hour",
+      "Royal Arms",
+      "Starswarm"
+    ],
+    "chromas": {
+      "Zero Hour": {
+        "id": 16
+      },
+      "Royal Arms": {
+        "id": 16
+      },
+      "Starswarm": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Rachel Kimsey",
+      "Joe Zieja"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sarah Fortune is a living weapon of mass destruction; a legendary bounty hunter seeking revenge among a galaxy of thieves. Shot and left for dead, she now pilots the deadliest combat exo-suit in known space—and she'll stop at nothing to bring violent justice to her would-be killers."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "저기... 벌이 한 마리 붙었는데요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350019,
+    "formatname": "Yuubee",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-04",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Rainbow": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Hey… there's a bee on you."
+  }
 }

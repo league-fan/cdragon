@@ -160,6 +160,59 @@
     }
   ],
   "description": "소라카는 아카나 숲의 외진 구석에서 자신이 잃은 이를 위해 눈물을 흘립니다. 목숨을 걸고 지키려던 생명들이 이른 죽음을 맞이했지만, 소라카를 구세주로 환영하는 이가 있는 반면 소라카의 힘을 무자비한 잔인함으로 보는 이도 있죠. 연민의 영혼에게 죽음은 절대 축복이 아닙니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 30
+      },
+      "Night Blossom": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 33
+      },
+      "Turquoise": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "In a secluded corner of the Akana forest, Soraka weeps for those she's lost. Each life cut short she longed to save, but for as many that welcome her as a savior, there are others who see her power as a merciless cruelty. To the Spirit of Pity, death is never a blessing."
+  }
 }

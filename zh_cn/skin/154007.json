@@ -108,6 +108,42 @@
     }
   ],
   "description": "维克托从不满足于他现存的造物，他的最新发明熔合了一种可以在液态和固态之间转换的实验性合金。难以置信地灵活却又几乎坚不可摧，这种新植腺强袭构装体，或称扎克(ZAC)，纵情弹跳到战场上，收割并吞噬着任何挡道的抵抗。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 154007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "lore": "Never content with his extant creations, Viktor's latest innovation has forged an experimental alloy that shifts between liquid and solid states. Incredibly flexible yet nigh-indestructible, the new zoophagus assault constructs, or ZACs, spring onto the battlefield, harvesting and consuming any resistance that stands in their way."
+  }
 }

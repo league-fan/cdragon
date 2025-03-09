@@ -24,6 +24,23 @@
     }
   ],
   "description": "莫德凯撒是一位古代地狱火将军，他的攻击不带任何感情或悔恨。他将猎物们被焚烧的尸体复生成他各路大军的士兵。它们将如一场燃烧瘟疫一样席卷世界，灭绝所有生命。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-02-24",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "An ancient, Infernal general who attacks without feeling or remorse, Mordekaiser raises the incinerated corpses of his victims as soldiers for his own vast armies. They sweep across the world like a burning plague, annihilating all life."
+  }
 }

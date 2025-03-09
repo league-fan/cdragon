@@ -160,6 +160,61 @@
     }
   ],
   "description": "레트로 퓨처 행성은 사악한 리산드라가 틀어 대는 지루한 음악에 신물이 났습니다. 그래서 럼블은 그곳 출신은 아니지만, 강력한 로켓과 그루비한 베이스 트랙을 탑재한 그루브 수트를 직접 만들었습니다. 그리고 행성을 돌며 다시 춤출 수 있는 분위기를 되찾으려고 노력하죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 68013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 20
+      },
+      "Aquamarine": {
+        "id": 19
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Disco": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Ari Rubin"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "The Retro-Futuristic Planet is tired of listening to the boring music brought by Lissandra's evil influence. Fashioning a Groove suit of his own design, Rumble now stomps across his adoptive homeworld, unleashing powerful rockets and a groovy bass track on anyone who'd keep the people from dancing."
+  }
 }

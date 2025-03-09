@@ -132,6 +132,54 @@
     }
   ],
   "description": "悪魔界と人間界の境界が急速に消滅したことで、ブラッドムーンの狂信者たちは恐ろしい異形の姿へと変貌を始めた。イーはこの新たな闇の祝福を真っ先に受け入れた者たちの一人である。その剣を握る腕の中に潜む悪魔が、さらなる暴力を世界にもたらせと彼を駆り立てる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence."
+  }
 }

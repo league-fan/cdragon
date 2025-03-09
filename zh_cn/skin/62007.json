@@ -138,6 +138,55 @@
     }
   ],
   "description": "孙悟空是一个彻头彻尾的捣蛋鬼和顽皮鬼。这一地区的每一所高中都将他开除，最终他被淘汰进了莱布利斯，作为一种“无可奈何的入学选择”。作为战斗俱乐部的一位天生的战士，他仍然没有学习任何戒律，并且只听凯特琳的话，因为她能暴打他。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Meteorite": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up."
+  }
 }

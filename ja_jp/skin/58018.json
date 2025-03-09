@@ -120,6 +120,51 @@
     }
   ],
   "description": "生前、レネクトンは「氷の魔女」の圧政に立ち向かい、避けようのない永遠の冬と命尽きるまで戦った。死後、この高潔な戦士は蘇生の呪いを受け──岩と氷に覆われた邪悪な戦争主義者として復活させられた。今では「漆黒の霧氷」の軍勢の猛攻撃を率いる将軍となり、かつて自身が打ち倒そうとしていた女王の忠実なる部下となった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "In life, Renekton stood against the tyranny of the Ice Witch, fighting an inevitable, endless winter until his last breath. In death, the virtuous warrior was cursed with resurrection—brought back to life as a vicious warmonger cased in rock and ice. Now a general leading the onslaught of the Black Frost army, Renekton loyally serves the very queen he once thought to destroy."
+  }
 }

@@ -24,6 +24,25 @@
     }
   ],
   "description": "트위스티드 페이트는 화려한 언변으로 산 자들의 지배자들을 속여 그들이 불멸의 삶을 얻는 대신 소중한 별의 아이를 제물로 바치게 했습니다. 그들은 거의 알지 못했습니다. 연민과 자비가 없는 영생은 영원한 고통을 낳을 뿐이라는 사실을 말이죠…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-11-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-11-05",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "With his silver tongue, Twisted Fate tricked the lords of the living to offer their beloved starchild to Death in exchange for their own immortality. Little did they know, eternal life without their avatar of compassion and mercy would result only in eternal suffering…"
+  }
 }

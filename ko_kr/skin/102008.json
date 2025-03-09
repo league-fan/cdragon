@@ -148,6 +148,57 @@
     }
   ],
   "description": "쉬바나의 몰락은 새로운 어둠과 함께 자각을 불러왔습니다. 마법을 박해하는 데마시아를 곧장 등지고 용의 감정에 더욱더 빠져든 쉬바나는 과거의 복수를 하는 야수의 모습으로 나타나 무지한 데마시아를 무너뜨리려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 102008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-21",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 10
+      },
+      "Cursed": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Shyvana's ruination brings a newfound darkness, as well as clarity. Turning swiftly against Demacia for its persecution of magic, and sinking into her more draconic emotions, she appears as an avenging beast of old, ready to topple Demacia for its ignorance."
+  }
 }

@@ -138,6 +138,72 @@
     }
   ],
   "description": "你好，護士姐姐！永別了，人生。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-01-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-01-04",
+    "set": [
+      "Rift Hospital"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 36,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Citrine": {
+        "id": 33,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Emerald": {
+        "id": 35,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Obsidian": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Rainbow": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 39,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Mega Donor Bundle"
+      },
+      "Tanzanite": {
+        "id": 37,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Hello, nurse! Goodbye, being alive."
+  }
 }

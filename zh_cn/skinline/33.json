@@ -8,16 +8,45 @@
       "name": "仲裁圣女 辛德拉",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-09-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 134001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-09-12",
+        "set": [
+          "Justicar"
+        ],
+        "neweffects": true,
+        "lore": "Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Syndra embodies knowledge, for what guides the world if not the wisdom of gods?"
+      }
     },
     {
       "id": 266001,
       "name": "仲裁圣骑 亚托克斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-06-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 266001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-06-12",
+        "set": [
+          "Justicar"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Aatrox embodies power, for it is his martial prowess that holds the chaos back."
+      }
     }
   ]
 }

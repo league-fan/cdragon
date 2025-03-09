@@ -115,6 +115,40 @@
     }
   ],
   "description": "雞蛋看起來很遜，不覺得嗎？它們是圓的而且容易破掉。它們需要一個大改造。現在讓我來介紹…提摩！他可愛，也很煩人。但最重要的是，他會為你在雞蛋畫上屬於你的圖案，甚至把其中一兩個（可能是七個）變成會危害生命的爆炸物。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-18",
+    "earlysale": "2016-02",
+    "set": [
+      "Cottontail"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Aquamarine": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Speckled": {
+        "id": 11
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Eggs are lame, right? They're round. They break easily. Eggs need a major facelift. Introducing… Teemo! He's cute. He's annoying. But most of all, he'll paint all your eggs for you, maybe turning one or two (or seven) into life-threatening explosives."
+  }
 }

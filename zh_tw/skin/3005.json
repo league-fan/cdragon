@@ -24,6 +24,23 @@
     }
   ],
   "description": "細細品嘗這劑靈藥吧。這身用紫色天鵝絨點綴的白色燕尾服沒有多少人撐得起。當你身為一名八十英尺高的高貴石像，你永遠會是全場的焦點。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2015-04-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-04-13",
+    "earlysale": "2015-12",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Savor that elixir. Highlight that heavenly white tux with a royal purple reserved for kings and queens who just don't deserve it. Because when you're an eighty foot tall petricite gargoyle, you're always the center of attention."
+  }
 }

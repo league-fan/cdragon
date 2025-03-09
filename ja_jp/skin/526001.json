@@ -143,6 +143,56 @@
     }
   ],
   "description": "魔法が枯渇するカラミティ女王国出身の若い女性であるレルは、貴族で構成される影の秘密結社によって複数の魔法実験を行われたあと、戴冠式に参加させられることになった。クイーンの称号と紋章のパワーを手に入れたレルだが、その力が国民から奪われたものだと知り、自分を利用している者たちに復讐を誓った。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Coronation": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 3
+      },
+      "Tanzanite": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers."
+  }
 }

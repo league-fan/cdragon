@@ -44,6 +44,32 @@
     }
   ],
   "description": "很久以前，納帝魯斯是名漁夫，跟齊勒斯是朋友。兩人發現了大量的強大水晶，而貪婪使得他的朋友將納帝魯斯推入水裡溺死，但他靠著一顆水晶活了下來，那顆水晶也在他沉睡的時候侵蝕並強化了他的身心靈。即便如此，他最強的意念也未曾動搖：復仇。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111036,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-09-11",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Long ago, Nautilus had been a fisherman by his friend Xerath's side. Together the two discovered a mass of powerful crystals, and greed drove his comrade to cast Nautilus into the water to drown. A single crystal sustained him and, as he slumbered, corrupted and empowered his body and mind. But even this could not destroy his strongest desire—revenge."
+  }
 }

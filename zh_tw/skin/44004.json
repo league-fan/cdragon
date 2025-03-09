@@ -74,6 +74,40 @@
     }
   ],
   "description": "塔里克在泳池的時候一直都是隨時待命。每當有人需要幫助時，他總會像電影那樣用極慢的速度去救人，藉此展現他陽光帥氣的外表。只不過，塔里克也總是因此沒能成功救活一些人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 44004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-07-13",
+    "earlysale": "2016-11",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Yuri Lowenthal"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Always on the alert, Taric will run in cinematic slow motion to save any swimmer in distress. Although, Taric has failed to save a distressing number of them."
+  }
 }

@@ -160,6 +160,62 @@
     }
   ],
   "description": "過去曾以狼群之父為人所知，沃維克在樹林中穿梭，享盡月光下的血腥獵殺。蝕之秩序決定在巢穴中殺了他，以終結他的殘酷行徑—但死亡對古神毫無意義，他也未因此罷手。狼群之父再次於暗夜中咆哮，現在的他渴望著人類血肉的滋味。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven",
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 42
+      },
+      "Citrine": {
+        "id": 37
+      },
+      "Dark Ritual": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Once known as Father Wolf, Warwick roamed the wood and reveled in moonlight's bloody hunt. The Eclipse Order thought to slay him in his den and end his barbarity—but death means nothing to Old Gods, and he did not stay down. Father Wolf howls into the night once more, now slavering for the taste of human flesh."
+  }
 }

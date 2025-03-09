@@ -84,6 +84,43 @@
     }
   ],
   "description": "仪式就快完成了。凯隐能感觉到腥红之月恶魔在体内扭动。就在这时，净雪之月刺客们发起了进攻。凯隐从那座神殿被带到净雪之月的神殿，并加入了净雪之月教团，他们古老的方式刺耳而陌生。只有时间才能证明他们对他灵魂的驯服是否成立。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 141015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-23",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Meteorite": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "The communion was nearly complete. Kayn could feel the Blood Moon demon writhing within. It was then that the Snow Moon assassins struck. Stolen away from that temple into theirs, Kayn was inducted into the Snow Moon Order, their ancient ways piercing and unfamiliar. Only time will tell if their taming of his spirit holds."
+  }
 }

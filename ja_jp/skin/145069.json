@@ -160,6 +160,60 @@
     }
   ],
   "description": "カイ＝サは、自身が生まれた宇宙文明がかつて恐れていた恐怖そのものだ。彼女は破壊したものすべてを吸収し、滅びた銀河の残骸から吸収した力を使って無慈悲な宇宙を生き抜いている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145069,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 78
+      },
+      "Catseye": {
+        "id": 74
+      },
+      "Emerald": {
+        "id": 75
+      },
+      "Pearl": {
+        "id": 79
+      },
+      "Quasar": {
+        "id": 80,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 76
+      },
+      "Ruby": {
+        "id": 72,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 73
+      },
+      "Turquoise": {
+        "id": 77
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Kai'Sa is the kind of horror that the spacefaring civilization she was born from once feared. Whatever she destroys, she absorbs, surviving the unforgiving cosmos using power siphoned from the ashes of dead galaxies."
+  }
 }

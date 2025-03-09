@@ -58,6 +58,32 @@
     }
   ],
   "description": "以此致敬Nuguri在2020全球总决赛中使用凯南的夺胜表现。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85023,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-29",
+    "set": [
+      "World Champions: 2020"
+    ],
+    "chromas": {
+      "Elite": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Honoring Nuguri's winning performance as Kennen during the 2020 World Championship."
+  }
 }

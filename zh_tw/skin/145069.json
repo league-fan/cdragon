@@ -160,6 +160,60 @@
     }
   ],
   "description": "凱莎出生於某個太空文明，但現在卻成為了該文明所懼怕的恐怖生物。每當她破壞任何事物，她都會將之吸收化為己用，並運用死亡星系剩下的能量，在殘酷無情的太空中生存。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145069,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 78
+      },
+      "Catseye": {
+        "id": 74
+      },
+      "Emerald": {
+        "id": 75
+      },
+      "Pearl": {
+        "id": 79
+      },
+      "Quasar": {
+        "id": 80,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 76
+      },
+      "Ruby": {
+        "id": 72,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 73
+      },
+      "Turquoise": {
+        "id": 77
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Kai'Sa is the kind of horror that the spacefaring civilization she was born from once feared. Whatever she destroys, she absorbs, surviving the unforgiving cosmos using power siphoned from the ashes of dead galaxies."
+  }
 }

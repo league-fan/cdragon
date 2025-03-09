@@ -137,6 +137,55 @@
     }
   ],
   "description": "麗珊卓是刺耳魔音的殘暴外星首領，四處征服富含律動的星球以滿足自身邪念——全面禁播迪斯可，讓全銀河系沉浸在罐頭音樂之中。她與麾下的直排輪暴徒將不惜一切代價以消滅迪斯可。但為了讓她最新的詭計奏效，她必須受邀進入迪斯可舞廳「勁歌金曲」才能終結迪斯可。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rainbow": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "Brutal alien leader of the Harsh Vibes, Lissandra subjugates planets rich in The Groove for her own nefarious purposes—banning disco and steeping the entire galaxy in Muzak. She and her army of roller-skating derby goons will stop at nothing to eliminate disco forever. But for her latest scheme to work, she's going to need an invite to the disco to end all discos: The Jam."
+  }
 }

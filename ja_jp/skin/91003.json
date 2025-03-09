@@ -169,6 +169,44 @@
     }
   ],
   "description": "伝説ではタロンの剣はシャドウドラゴンの炎で鍛えられたと言われている。堕落した支配者たちを敵に回し、一人また一人と斬り捨てて、その後夜闇に消えたとも言われている。多くの者は、強き者が弱き者を利用しようとするなら、再び彼が現れるはずだと信じている。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Meteorite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Robin Ruan"
+    ],
+    "lore": "Legend says that Talon's blades were forged in the fire of a shadow dragon, and that he turned against his corrupt masters, cutting through them one by one before vanishing into the night. Many believe he will appear again whenever the strong take advantage of the weak."
+  }
 }

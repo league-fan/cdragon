@@ -133,6 +133,48 @@
     }
   ],
   "description": "かつて王立宇宙軍の高級将官であったガングプランクによる恐怖の時代は、彼が元同胞から超兵器の試作機の設計図を盗み出し、大量生産させた時から始まった。千年もの間続いた内戦を瞬く間に終結させた彼は、大規模な武装大隊とともに姿をくらまし、ドレッドノヴァ兵団と呼ばれる惑星間犯罪ネットワークを形成した。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-01-12",
+    "earlysale": "2017-07",
+    "set": [
+      "Dreadnova"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rogue": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Once a high ranking admiral in the Royal Space Military, Gangplank's reign of terror began when he stole and proliferated blueprints for a former colleague's experimental superweapon. Ending a thousand-year civil war in an instant, he defected with a massive armed battalion and formed the interplanetary criminal network known as the Dreadnova Corps."
+  }
 }

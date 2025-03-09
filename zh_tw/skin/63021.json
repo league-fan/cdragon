@@ -160,6 +160,56 @@
     }
   ],
   "description": "布蘭德是易大師的長期競爭對手，坐擁一系列競爭激烈的高級飯店連鎖企業，在任何能容忍他們的晚會上，都能見到他與敵人爭吵不休。 他們的對決堪稱傳奇……雖然僅是他倆造成的財產損失就高達數千萬。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 25
+      },
+      "Cerulean Club": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 31
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions."
+  }
 }

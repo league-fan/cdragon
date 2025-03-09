@@ -137,6 +137,54 @@
     }
   ],
   "description": "전투 기계 군대가 부상하자 요릭은 공포에 질렸습니다. 빅토르가 기계에 살아 있는 정신을 융합하려고 희생자의 영혼을 기계 육신에 가두었기 때문이죠. 자신의 능력으로 망자를 지휘하는 요릭은 이제 이러한 영혼을 기계 감옥에서 해방하고자 파괴되거나 패배한 전투 기계 껍데기를 일으켜 세웁니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "With the rise of the Battlecast armies, Yorick found to his horror that the living minds Viktor fused to his machines bound the souls of his victims to their machine bodies. Harnessing his ability to command the dead, Yorick now raises destroyed and defeated Battlecast husks in an attempt to free all these souls from their machine prisons."
+  }
 }

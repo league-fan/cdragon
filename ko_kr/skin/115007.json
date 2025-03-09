@@ -109,6 +109,48 @@
     }
   ],
   "description": "오라 채굴 기술을 급속히 발전시킨 것으로 유명한 기술자 직스는 한 어린 신입과 그녀의 덩치 큰 관리자 친구가 '우연히' 직스의 장비를 건드렸다가 예정보다 빨리 폭발을 일으킨 바람에 모든 것을 잃었습니다. 인생의 쓴맛을 보고 분노한 직스는 이제 오라 발생지 사이를 여행하며 예전의 명성을 되찾기 위해 정신 나간 도박을 벌이고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "retired": "2018-09-24",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige."
+  }
 }

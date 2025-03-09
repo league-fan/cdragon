@@ -145,6 +145,48 @@
     }
   ],
   "description": "Chief enforcer of the human-led resistance, Illaoi was once the subject of a failed Battlecast conversion that left her with control over nearby machines. Seizing her newfound power, she has single handedly decimated Viktor's forces in countless battles, becoming a beacon of hope for rebels across the world.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 420002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-03-15",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 4
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 3
+      },
+      "Tanzanite": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Chief enforcer of the human-led resistance, Illaoi was once the subject of a failed Battlecast conversion that left her with control over nearby machines. Seizing her newfound power, she has single handedly decimated Viktor's forces in countless battles, becoming a beacon of hope for rebels across the world."
+  }
 }

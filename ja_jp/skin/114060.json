@@ -172,6 +172,53 @@
     }
   ],
   "description": "フィオラは毎年ナミにパーティーを荒らされることにうんざりしていた。今年はリンゴくわえゲームはやめにして、真のスキルが問われる試練を与えるつもりだ──たとえば、お菓子大食いコンテストとか。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114060,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 63
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Pearl": {
+        "id": 67
+      },
+      "Rose Quartz": {
+        "id": 64
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 66
+      },
+      "Turquoise": {
+        "id": 65
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Fiora is tired of Nami crashing the party every year. She's determined that apple bobbing takes a back seat to tests of true skill—like seeing who can eat the most candy."
+  }
 }

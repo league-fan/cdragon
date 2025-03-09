@@ -52,6 +52,30 @@
     }
   ],
   "description": "作为一个有拿破仑情结的小Boss，维迦闯进了街机世界并且召唤了许多来自其他游戏的Boss作为他的帮手。他们将联手达成他们的终极目标：为自己征服这个世界，并且最终为这个英雄带来一次真正的Game Over。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-08-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-08-27",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "lore": "Once merely a mini-boss with a Napoleon complex, Veigar has ripped into the code of Arcade World to summon hundreds of other bosses to his side. Together they'll stop at nothing to reach his ultimate goal: take the world for himself, and give the heroes a final Game Over."
+  }
 }

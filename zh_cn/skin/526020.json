@@ -165,6 +165,60 @@
     }
   ],
   "description": "芮尔曾在她的家园腐烂于第五先驱者手中时逃跑了，但现在，年轻的火药女巫没有逃跑。她昂首挺胸，骑上一匹由魔法、蒸汽和火焰组成的马。从它的背上，她低头看着那个魂不守舍的枪手。“来吧，老人家。我们还有第二次机会，我不会浪费它。”",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Noonday": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Rell ran as her home rotted away at the Fifth Harbinger's hands, but the young Powder Witch ain't running now. She squares her shoulders and swings into the saddle of a horse made of magic, steam, and fire. From its back, she looks down at the haunted gunslinger. “Come on, old man. We got a second chance, I ain't gonna waste it.”"
+  }
 }

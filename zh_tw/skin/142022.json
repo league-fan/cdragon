@@ -160,6 +160,56 @@
     }
   ],
   "description": "不耐煩的管理者柔依大步越過等候中的賢者，只為說出她的訴求。眾人都需仰賴她的家畜與農作物，若能得到極光的祝福，將是前所未見的大豐收。北極星考慮了三名領袖的願望，只見她巧手一揮，將極光變幻為兩個形體：一個是帶有強勁利牙與毛皮的野獸，另一個則是勤勞不懈的微笑士兵。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-12-08",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Peridot": {
+        "id": 26
+      },
+      "Rainbow": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Wreathguard": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2022"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "lore": "An impatient Warden Zoe strode past the waiting Sage to make her plea. Everyone relied on her flock and crops, and her harvest would be unequaled with the Aurora's blessings. Polaris considered the three leaders' wishes, and with a wave of her hand, conjured the Aurora into two shapes: a sinewy mass of teeth and fur, and a tireless, smiling soldier."
+  }
 }

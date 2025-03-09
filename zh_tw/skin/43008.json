@@ -137,6 +137,54 @@
     }
   ],
   "description": "卡瑪曾是一個跨越星系的文明，致力於和平主義和個人啟蒙，但現在已被毫不客氣地從實界中抹殺並重生成為了一個吞噬恆星的恐懼化身。在吞噬了整個銀河星系後，她在宇宙中強制推行了一個恐怖的秩序，來在這曾有星星的浩瀚星海中進行冥想。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-06-13",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 11
+      },
+      "Meteorite": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Peridot": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "Karma was a galaxy-spanning civilization dedicated to pacifism and personal enlightenment, unceremoniously erased from reality and reborn as a star-consuming horror. Devouring entire galactic systems, she enforces a dread order upon the cosmos, meditating in the vast oceans of emptiness where once there were stars."
+  }
 }

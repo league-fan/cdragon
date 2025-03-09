@@ -137,6 +137,53 @@
     }
   ],
   "description": "인기 의류 회사 프렐의 CEO 애쉬는 북부 본사에서 일 년 내내 햇볕도 거의 쐬지 못한 채 일에 몰두한 결과 녹초가 되고 말았습니다. 바다의 노래 축제는 몸을 풀고 군중 속으로 숨어들어 신나는 음악에 몸을 맡기기 완벽한 곳 같았죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 49
+      },
+      "Tanzanite": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "As the CEO of the hot clothing company Frel, Ashe is dead tired after spending a year heads-down in work with little sun at her Northern headquarters. The Ocean Song Festival sounds like the perfect place for her to warm up, disappear into a crowd, and lose herself to some fabulous music."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "Zyra is a devil whose work speaks for itself. Famous enough to be known by a single-name moniker, she has captivated the people of Styxbridge with her elegant style and effortless grace. In Zyra's skilled hands, paint flowers across concrete and blooms in every alley, claiming each slice of the city as Zyra's own.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 53
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Foritis Wang",
+      "Pandart Studio"
+    ],
+    "lore": "Zyra is a devil whose work speaks for itself. Famous enough to be known by a single-name moniker, she has captivated the people of Styxbridge with her elegant style and effortless grace. In Zyra's skilled hands, paint flowers across concrete and blooms in every alley, claiming each slice of the city as Zyra's own."
+  }
 }

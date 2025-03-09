@@ -138,6 +138,54 @@
     }
   ],
   "description": "많은 이가 경외하는 무자비한 암살자 탈론은 자신만이 남을 때까지 이 세상의 다른 모든 은총발톱을 없애겠다는 일념으로 세계를 배회합니다. 완고한 용병 하나가 자신보다 앞서 은총발톱의 우두머리를 처치하려고 한다는 사실을 알아낸 그는 새로운 사냥이 시작되려고 한다는 걸 깨닫고 기뻐합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91049,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 52
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Pearl": {
+        "id": 58
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "A ruthless assassin feared and respected by many, Talon roams the world with one goal: eliminate each and every other Favorclaw until only he remains. When he catches wind that a stubborn mercenary was contracted to take down the leader of the Favorclaw before he can complete his mission, he gleefully realizes that a new hunt is about to begin."
+  }
 }

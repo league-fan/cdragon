@@ -207,6 +207,51 @@
     }
   ],
   "description": "加里奥是一个高贵自豪的美味炸鸡销售员。他是某个全球最大的炸鸡店的地区经理（和年度销售奖得主）。他和希维尔是彼此的劲敌，因为他俩都想证明自己才是更好的员工。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2018-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3006,
+    "formatname": "Birdio",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-03-29",
+    "set": [
+      "Culinary Masters"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 8
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Meteorite": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 7
+      },
+      "Worlds Early Bird": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      }
+    },
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "A proud and noble salesman of delicious fried chicken, Birdio is the regional manager (and salesman of the year) for one of the world's largest chicken restaurants. Not one to be beaten at literally anything, he and Sivir have a well documented rivalry over who is the better employee."
+  }
 }

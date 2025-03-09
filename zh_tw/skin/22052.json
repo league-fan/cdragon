@@ -160,6 +160,59 @@
     }
   ],
   "description": "艾希是汪洋霸王之女，族人被屠殺殆盡的她來到了離家千里的無人小島，尋求著心靈的慰藉。她在那裡結識了一條怪異的毒蛇以及一位邪惡的準國王，她希望他們強大的力量能幫助她奪回王國。勝利得來不易，但真正的戰鬥現在才要開始：外交。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 55
+      },
+      "Obsidian": {
+        "id": 60
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Resplendent": {
+        "id": 61,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 53,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 58
+      },
+      "Turquoise": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Her people slaughtered, Ashe—daughter of the Emperor of the Great Sea—sought solace on an abandoned island far from home. There, she made alliances with a strange serpent and a sinister would-be king, in the hope that their untapped might could help seize her empire back. It was a hard-fought victory, but the true battle is far from over: diplomacy."
+  }
 }

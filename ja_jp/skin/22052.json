@@ -160,6 +160,59 @@
     }
   ],
   "description": "大海の皇帝の娘、アッシュ──民を虐殺された彼女は、故郷から遠く離れたひと気のない島に癒しを求めた。そこで彼女は奇妙な蛇と、王を名乗る不気味な者と仲間になった──彼らの未知なる力を使えば、帝国を取り戻せるかもしれないと願って。そして、過酷な戦いに勝利した彼女だったが、それは「外交」という真の戦いの始まりに過ぎなかった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 55
+      },
+      "Obsidian": {
+        "id": 60
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Resplendent": {
+        "id": 61,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 53,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 58
+      },
+      "Turquoise": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Her people slaughtered, Ashe—daughter of the Emperor of the Great Sea—sought solace on an abandoned island far from home. There, she made alliances with a strange serpent and a sinister would-be king, in the hope that their untapped might could help seize her empire back. It was a hard-fought victory, but the true battle is far from over: diplomacy."
+  }
 }

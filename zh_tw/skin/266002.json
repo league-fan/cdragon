@@ -89,6 +89,36 @@
     }
   ],
   "description": "被稱作 ATRX-1 的機甲獵人厄薩斯擁有短暫的飛行能力，它之所以被設計出來是為了對抗能在空中飛行的怪獸。此外，裝載在它手上的巨劍可以將光子轉換成熱能，斬碎阻擋在眼前的敵人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-07-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-07-23",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 4
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Designated ATRX-1, the “Mecha Aatrox” unit was developed in response to 'gliding' kaiju with the capability of limited flight. In addition, ATRX-1 wields a thermal blade that can turn residual light particles into a heated cutting edge. "
+  }
 }

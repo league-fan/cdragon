@@ -143,6 +143,59 @@
     }
   ],
   "description": "A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos -- twisting her newfound power into a malignant expression of cosmic madness. After numberless eons of hunting the First Star's chosen, she has finally come to Valoran City, hoping to destroy the latest generation of Guardians as she has countless others.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Amethyst": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Jasper": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "newquotes": true,
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos "
+  }
 }

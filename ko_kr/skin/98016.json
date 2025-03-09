@@ -101,6 +101,44 @@
     }
   ],
   "description": "타오르는 지하 세계의 밑바닥에서 부활한 지옥의 전사 쉔은 순식간에 전장에 나타나 동료 거인들을 지켜줍니다. 아무리 조직적인 저항에 맞서더라도 쉔에게는 문제가 되지 않습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-05",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Peridot": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "An Infernal warrior risen from the raging depths of the underworld, Shen appears on battlefields in the blink of an eye, shielding his fellow titans from even the most well-organized resistance."
+  }
 }

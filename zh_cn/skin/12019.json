@@ -33,6 +33,26 @@
     }
   ],
   "description": "阿利斯塔融合了奥术魔法和皮尔特沃夫的巧思，是一个先进的有机活体，由符文之地最好的匠人们打造。它的任务是守卫海克斯科技的秘密，如果有人想要滥用它所创之物的幕后理论，那么它就会将那个人碾碎。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12019,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-03-26",
+    "earlysale": "Ineligible",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "The fusion of arcane sorcery and Piltovan ingenuity, Alistar is an advanced, living golem built by the finest artificers in Runeterra. Tasked with guarding the secrets of hextech, it crushes all who would abuse the methods behind its creation."
+  }
 }

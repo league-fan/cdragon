@@ -169,6 +169,53 @@
     }
   ],
   "description": "驾驭巨猪前行，挥舞爆竹链枷，瑟庄妮牢固地承担着看护春节庆典的职责。因为如果你没有看她，她就会践踏你，而你就会挂。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113008,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-28",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 10
+      },
+      "Golden Tiger": {
+        "id": 27,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "Charging forth on her giant pig and swinging a whip made from low-grade explosives, Sejuani has firmly cemented herself as the woman to watch this Lunar Revel. Because if you're not watching her she'll trample you, and you'll die."
+  }
 }

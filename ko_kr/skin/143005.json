@@ -160,6 +160,60 @@
     }
   ],
   "description": "묻혀 있던 땅을 오염시킨 밤 비둘기의 날갯짓과 몸부림은 뿌리와 바위를 타고 자이라를 찾아왔습니다. 땅 아래 속삭임을 들은 그녀는 이제 세상을 자연으로 되돌리기 위해 인간들의 문명을 차례로 파괴하며 나아갑니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Dark Ritual": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "They came to Zyra from the roots and rocks "
+  }
 }

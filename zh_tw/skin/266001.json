@@ -24,6 +24,25 @@
     }
   ],
   "description": "矗立在弧光中心的審判者是正義與秩序的哨兵化身。厄薩斯的力量浩瀚無垠，他將號召旗下的軍隊，讓世界從混沌歸於平靜。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-06-12",
+    "set": [
+      "Justicar"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Aatrox embodies power, for it is his martial prowess that holds the chaos back."
+  }
 }

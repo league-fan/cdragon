@@ -137,6 +137,53 @@
     }
   ],
   "description": "LoL Player Days 2024を記念したもの。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-09",
+    "set": [
+      "Superfans"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Jasper": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Commemorating LoL Player Days 2024."
+  }
 }

@@ -48,6 +48,27 @@
     }
   ],
   "description": "NOTICE FROM THE DEAN: Ahri is henceforth suspended from Academy grounds for behavior including (but not limited to): use of her phone during class, use of her phone during disciplinary hearings about her phone, and escaping disciplinary hearings about her phone.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2015-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-08-26",
+    "earlysale": "2016-01",
+    "set": [
+      "Academy"
+    ],
+    "chromas": {
+      "Ahri-versary": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "NOTICE FROM THE DEAN: Ahri is henceforth suspended from Academy grounds for behavior including (but not limited to): use of her phone during class, use of her phone during disciplinary hearings about her phone, and escaping disciplinary hearings about her phone."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "這位不死殺手有未盡的遺志：在競技場上一較高下！雖然死而復生不代表「彼端之地」就存在（我的薪水沒那麼高，別叫我思考人生哲學！），但如果此事當真，這位鬥士真的是被朋友拉回現世的話……那真正的地獄擂台就要開打啦！歡迎派克入場！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555053,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 60
+      },
+      "Limitless": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "This un-alived assailer has unfinished business: duking it out in the ring! Now, I can't say if returning from the dead proves the existence of the \"Lands Beyond.\" (I don't get paid enough to PONDER MY EXISTENCE!) But if rumors are true, and this fighter's friend brought him back from the brink... then we're in for a HELL of a fight! Here's Pyke!"
+  }
 }

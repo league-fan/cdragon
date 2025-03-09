@@ -24,6 +24,24 @@
     }
   ],
   "description": "겨울왕국의 마법에 물든 기이한 시계태엽 소녀 오리아나는 한때 다정한 발명가 노인이 만든 스노우 글로브 속에서 살았습니다. 노인은 세상을 떠나며 오리아나를 풀어줬고, 이제 포로 왕의 궁전에서 일하는 그녀는 더욱 원대한 목적을 찾고 있습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "A strange clockwork girl imbued with the magic of the Winterlands, Orianna once lived within a snowglobe created by a kindly old inventor. At the end of his life he freed her, and now she searches for greater purpose, serving in the court of the Poro King."
+  }
 }

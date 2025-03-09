@@ -874,6 +874,82 @@
     }
   },
   "description": "승리의 마스터 이는 랭크에서 스플릿 포인트를 충분히 모으면 지급됩니다. 자신이 우주류를 배울 자격이 있다고 믿는 자들은 우주류의 진정한 마스터가 있는 곳으로 순례를 떠나야 합니다. 많은 이가 그의 밑에서 수련했지만 시험대에 오르면 하나같이 부족함을 드러냈습니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11106,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 3.",
+    "release": "2025-01-09",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 107,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Challenger": {
+        "id": 115,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Diamond": {
+        "id": 112,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Emerald": {
+        "id": 111,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Gold": {
+        "id": 109,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Grandmaster": {
+        "id": 114,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Master": {
+        "id": 113,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Platinum": {
+        "id": 110,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Silver": {
+        "id": 108,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Victorious Master Yi was earned by players who accumulated enough split points in Ranked. Those who believe themselves worthy of learning the art of Wuju must make the pilgrimage to where its true master resides. Though many have studied under his tutelage, when put to the test, they have all been found wanting."
+  }
 }

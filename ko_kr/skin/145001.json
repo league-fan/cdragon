@@ -184,6 +184,58 @@
     }
   ],
   "description": "왕립 우주군의 중위였던 카이사는 당시 실험 중이던 X01-버터플라이 수트를 최초로 사용한 조종사였습니다. 그러나 수트는 너무 치명적인 것으로 판명되었고, 그녀는 첫 임무 후 수트를 훔쳐 달아나 은하계에서 가장 치명적인 살인 청부업자가 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-03-07",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 2
+      },
+      "Granite": {
+        "id": 7
+      },
+      "Maverick": {
+        "id": 47,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A former lieutenant in the Royal Space Military, Kai'Sa was the first sanctioned pilot of the experimental X01-Butterfly. The suit proved far too deadly, however, and after only one mission she fled with the technology—becoming one of the galaxy's deadliest guns for hire."
+  }
 }

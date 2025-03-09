@@ -138,6 +138,55 @@
     }
   ],
   "description": "엄청난 말썽꾼이자 장난꾸러기인 오공은 지역 내 모든 고등학교에 떨어지고 최후의 방편으로 라브리스 전투사관학교에 입학했습니다. 재능을 타고난 전투 동아리의 싸움꾼으로, 여전히 규율을 따르지 않으며 자신을 때려눕힐 수 있는 케이틀린의 말만 듣습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Meteorite": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up."
+  }
 }

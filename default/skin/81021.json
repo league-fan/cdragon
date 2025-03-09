@@ -44,6 +44,34 @@
     }
   ],
   "description": "A young orphan initially thought devoid of any superhuman abilities, Ezreal had resigned himself to a normal life once he graduated middle school. But an encounter with a deadly threat awakened his slumbering potential, and now he finds himself a 1st year at the prestigious Durandal God-Weapon Academy, where he's joined the ragtag Battle Club.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-05-15",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A young orphan initially thought devoid of any superhuman abilities, Ezreal had resigned himself to a normal life once he graduated middle school. But an encounter with a deadly threat awakened his slumbering potential, and now he finds himself a 1st year at the prestigious Durandal God-Weapon Academy, where he's joined the ragtag Battle Club."
+  }
 }

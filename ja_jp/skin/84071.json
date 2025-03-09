@@ -25,6 +25,28 @@
     }
   ],
   "description": "アカリが大胆でスポーティーなボディスーツを身に纏って現れると、誰もがそのガーラの衣装に魅了された。反体制的でファッションの最先端を行く彼女は、森に棲む怪しげな魔女という概念を瞬く間に再定義するだろう。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84071,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "variant": 70,
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Arriving clad in a bold and sporty body suit, Akali's gala attire has us all spellbound. Subversive and on the cutting edge of fashion, she's fierce and redefines how we think of the wicked witch of the woods."
+  }
 }

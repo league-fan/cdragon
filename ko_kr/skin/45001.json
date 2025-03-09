@@ -24,6 +24,18 @@
     }
   ],
   "description": "치유 마법의 대가로 오래된 대성당에서 살고 있는 베이가는 자신이 악랄한 악당이라고 생각하지만 사실 독실한 성직자에 더 가깝습니다. 본인은 어떻게 생각할지 몰라도 베이가의 마법은 대륙 곳곳의 병을 치유하고 저주를 풀었죠.",
-  "wikiPrice": "390",
-  "wikiReleaseDate": "2009-12-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 390,
+    "release": "2009-12-17",
+    "set": [
+      "Medieval"
+    ],
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "lore": "A master of healing magic residing within an ancient cathedral, Veigar self-identifies as a dastardly archvillain rather than the pious cleric he clearly is. His magic has cured ailments and dispelled curses from across the land, much to his chagrin."
+  }
 }

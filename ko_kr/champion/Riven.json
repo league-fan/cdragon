@@ -13,144 +13,703 @@
       "name": "리븐",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2011-09-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-09-14",
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven’s faith in her homeland was tested and ultimately broken. Having severed all ties to the empire, she now seeks to find her place in a shattered world, even as rumors abound that Noxus itself has been reforged…"
+      }
     },
     {
       "id": 92001,
       "name": "구원받은 리븐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-09-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-09-14",
+        "set": [
+          "Otherroads"
+        ],
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
     },
     {
       "id": 92002,
       "name": "핏빛 친위대 리븐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-09-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-09-14",
+        "set": [
+          "Crimson Elite"
+        ],
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "lore": "Though officially listed as killed in action, the rogue operative with the broken blade harbors no regrets for abandoning her comrades in their most dire moment. A turncoat become mercenary, she operates in the outer limits of civil society, lending her blade to the highest bidder."
+      }
     },
     {
       "id": 92003,
       "name": "전투 토끼 리븐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-04-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-06",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Astral": {
+            "id": 11
+          },
+          "Catseye": {
+            "id": 8
+          },
+          "Emerald": {
+            "id": 10
+          },
+          "Granite": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 13
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Say “Hoppin' Mad” one more time. She dares you."
+      }
     },
     {
       "id": 92004,
       "name": "2012 월드 챔피언십 리븐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-10-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92004,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": 975,
+        "distribution": "Limited Purchase",
+        "release": "2012-10-13",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Celebrating Worlds 2012 in North America."
+      }
     },
     {
       "id": 92005,
       "name": "화룡검 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-01-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-01-28",
+        "set": [
+          "Lunar Revel: Warring Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2018"
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "One tale of the kingdoms tells of Riven, her sword forged in dragonfire, descending into an enemy enclave in the aftermath of battle. Slaying her foes and freeing their captives, she rampaged across the countryside, crushing any who would enslave the innocent."
+      }
     },
     {
       "id": 92006,
       "name": "아케이드 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-08-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-08-19",
+        "earlysale": "2016-02",
+        "set": [
+          "Arcade: Heroes"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "K.O.": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Riven's part-time job at an arcade mostly involved playing dance simulators after her manager went home. Digitally transported to Arcade World by even scarier bosses, she's now using her moves (and some gear from her favorite RPG) to tear up Veigar's regime, one enemy at a time."
+      }
     },
     {
       "id": 92007,
       "name": "재탄생한 2012 월드 챔피언십 리븐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-09-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-09-25",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "variant": 4,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Celebrating Worlds 2016 in North America."
+      }
     },
     {
       "id": 92016,
       "name": "빛의 인도자 리븐",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2017-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92016,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "cost": 1820,
+        "release": "2017-06-14",
+        "earlysale": "2017-12",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          },
+          "Paragon": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Born from swirling energies at the dawn of creation, Riven is the living embodiment of order in the cosmos. Fated to clash against the Nightbringer for all time, she awaits a day when her light will finally break his darkness."
+      }
     },
     {
       "id": 92018,
       "name": "펄스 건 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92018,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Pulsefire"
+        ],
+        "cost": 1350,
+        "release": "2018-05-17",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Chrono": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A worshipper of temporal purity, Riven knows there are many others who would rather see time manipulated in their favor. These heretics give her blade purpose—she can only find true solace in eliminating all who would disturb the natural order."
+      }
     },
     {
       "id": 92020,
       "name": "불멸의 영웅 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Riven trained with Morgana in the arts of politics and war for many years, but where Riven walked the path of justice, Morgana envisioned a world ruled by the gods alone—ultimately defeating their master and assuming the title of empress. Now tasked with bringing her friend to heel, Riven must face Morgana in combat… or join her."
+      }
     },
     {
       "id": 92022,
       "name": "프레스티지 불멸의 영웅 리븐",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92022,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 20,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "Riven's destiny is greater than she knows. One day she will determine the fate of the heavens, land, and sea, and awaken the slumbering power of the dragon within her."
+      }
     },
     {
       "id": 92023,
       "name": "영혼의 꽃 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Night Blossom": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion."
+      }
     },
     {
       "id": 92034,
       "name": "감시자 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-08",
+        "set": [
+          "Sentinels of Light"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Resolute": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 38
+          },
+          "Turquoise": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Riven joins the Sentinels hoping to atone for her role in the Noxian invasion of Ionia. After fighting her way out of a rapidly destabilizing City of Noxus, she understands that her time may be fleeting. However, she believes her life is a small price to pay to make amends."
+      }
     },
     {
       "id": 92044,
       "name": "전투 토끼 프라임 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Nightwire": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Paragon": {
+            "id": 72,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Riven volunteered for what would eventually become Anima Squad after losing many comrades in the early days of the Primordian invasion. A string of victories later, she is famous: a war hero looked up to by all. ...So why has she suddenly vanished when the world needs her most?"
+      }
     },
     {
       "id": 92045,
       "name": "프레스티지 불멸의 영웅 리븐 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92045,
+        "formatname": "Prestige Valiant Sword Riven (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 22,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "Riven's destiny is greater than she knows. One day she will determine the fate of the heavens, land, and sea, and awaken the slumbering power of the dragon within her."
+      }
     },
     {
       "id": 92055,
       "name": "깨진 언약 리븐",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 60
+          },
+          "Obsidian": {
+            "id": 61
+          },
+          "Ruby": {
+            "id": 57,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Tanzanite": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "Born an Aspirant, Riven had no doubts about the congregation's evils until she discovered Nocturne torturing and feeding Neverghaast to Cho'Gath. Despite being mortally wounded, she escaped with a prisoner, who turned her into a Neverghaast to save her life. Now an exile with an endless hunger, Riven fights to redeem herself and her corrupted family."
+      }
     },
     {
       "id": 92063,
       "name": "태고의 습격 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92063,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-24",
+        "set": [
+          "Primal Ambush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 69
+          },
+          "Citrine": {
+            "id": 65
+          },
+          "Emerald": {
+            "id": 66
+          },
+          "Obsidian": {
+            "id": 71
+          },
+          "Rose Quartz": {
+            "id": 67
+          },
+          "Ruby": {
+            "id": 64,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 68
+          },
+          "Turquoise": {
+            "id": 70
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "After a fierce bout with Vi left both her weapon and her confidence shattered, Riven was forced to return to her roots. Due to her unyielding bravery, even in the face of defeat, her community bestowed her with a powerful Wildstripe that reforges her blade in times of need. She trains tirelessly for the day that she can prove she's worthy of their gift."
+      }
     }
   ]
 }

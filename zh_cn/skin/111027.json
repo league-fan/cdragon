@@ -137,6 +137,52 @@
     }
   ],
   "description": "诺提勒斯是一个在星系之间漫无目的地游荡的生物，没有人知道诺提勒斯从哪里来，也不知道他是如何在群星之间的太空中生存的。但他对暗星熵力的天然抵抗力引起了卑尔维斯的注意。他已经找到了作为一名圣骑的意义和目标，而在此之前他不过是在宇宙中漂流而已。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-30",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 31
+      }
+    },
+    "splashartist": [
+      "Joshua Raphael",
+      "West Studio"
+    ],
+    "lore": "A creature found aimlessly wandering between galaxies, no one knows where Nautilus came from, or how he has stayed alive in the space between stars. But his natural resistance to the entropic forces of the Dark Star attracted the attention of Bel'Veth. He has found meaning and purpose as a Paladin, where before he simply drifted amongst the cosmos."
+  }
 }

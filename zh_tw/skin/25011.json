@@ -172,6 +172,53 @@
     }
   ],
   "description": "最終來說，要糖的重點不是黑魔法與迷信，而是找到一件合身的女巫裝扮。你看過這些大小了嗎？這到底是為了誰做的啊...？",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-10-19",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Meteorite": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Ultimately, trick-or-treating is less about dark magic and occult superstition, and more about finding a witch costume that actually fits. Have you seen these sizes? Who is this stuff even made for…?!"
+  }
 }

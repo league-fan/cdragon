@@ -24,6 +24,49 @@
     }
   ],
   "description": "우디르는 아이오니아의 히라나 대수도원에서 수련하며 가슴속 폭풍을 다스리고 가라앉히는 법을 배웠습니다. 프렐요드가 그를 고향으로 불렀지만, 우디르는 아이오니아에 남는 쪽을 택했습니다. 아이오니아가 그에게 해주었듯, 아이오니아의 영적 조화를 되찾아주고 싶었기 때문이죠. 이 목표는 달성을 눈앞에 두고 있지만, 우디르는 아이오니아에서 그치지 않고 룬테라 전역에서 같은 과업을 이어 갈 것입니다.",
-  "wikiPrice": "3250",
-  "wikiReleaseDate": "2013-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 77003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2013-07-16",
+    "set": [
+      "Spirit Guard"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Spirit Tiger",
+    "forms": [
+      "Base",
+      "Tiger",
+      "Turtle",
+      "Bear",
+      "Phoenix"
+    ],
+    "chromas": {
+      "Tiger": {
+        "id": 3
+      },
+      "Turtle": {
+        "id": 3
+      },
+      "Bear": {
+        "id": 3
+      },
+      "Phoenix": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Sean Rohani"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Udyr's time in Ionia, training at Hirana Monastery, taught him control and calmed the storm in his heart. Though the Freljord called him home, Udyr chose to stay and help Ionia regain spiritual harmony, as it had done for him. As he gets closer to this goal, he knows that his work to do the same for the whole of Runeterra has only just begun."
+  }
 }

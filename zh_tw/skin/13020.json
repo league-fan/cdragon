@@ -137,6 +137,54 @@
     }
   ],
   "description": "雷茲是一名守密者與好施教誨之人，力量存在於他的腦海與雙手中。他肩負重任，必須低調解決世界上的問題，無人聞問，付出也不會受到認可，他準備要修復這對命定愛侶造成的任何渾沌，接著就這樣沒沒無聞的離開——為那些空有才華卻被世人所忘者樹立榜樣。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 13020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "A secret-keeper and didact, whose power dwells in his mind and hands. Tasked with quietly solving the problems of the worlds with little fanfare or recognition, he prepares to fix whatever chaos the fated lovers cause before retreating back to obscurity—serving as a role model to the talented but forgotten."
+  }
 }

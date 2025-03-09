@@ -160,6 +160,59 @@
     }
   ],
   "description": "For those that seek glory on the battlefield, to those that look to the spirits for a bountiful harvest, Tristana greets all with a toothy grin. The Spirit of Chance has no favorites, no obligations or motives. She simply delights in the chaos, the fear in men's eyes at the roll of the dice.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18051,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 55
+      },
+      "Night Blossom": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 59
+      },
+      "Pearl": {
+        "id": 57
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "For those that seek glory on the battlefield, to those that look to the spirits for a bountiful harvest, Tristana greets all with a toothy grin. The Spirit of Chance has no favorites, no obligations or motives. She simply delights in the chaos, the fear in men's eyes at the roll of the dice."
+  }
 }

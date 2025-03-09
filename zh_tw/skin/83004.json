@@ -121,6 +121,51 @@
     }
   ],
   "description": "一位來自一間超級寵物商店中被遺忘商品區的愛貓人士，凡是只要涉及到貓或與貓相關的問題，沒有約瑞科解決不了的。約瑞科是一個極度正常的紳士，外表打扮成貓的他，總是被許多貓圍繞著。而擁有神祕的力量的他，可以召喚一隻飄浮在空中的巨貓。你懂的，ㄧ般紳士會做的ㄧ些事。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-03-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83004,
+    "formatname": "Meowrick",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-03-27",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rainbow": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 5,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A cat fancier hailing from the Forsaken Aisles of a Pets Supreme Superstore, Yorick does not have any unresolved issues involving or related to cats. Yorick is a perfectly normal gentleman dressed as a cat, surrounded by cats, who can call upon the esoteric powers of a giant, floating cat. You know, normal gentleman stuff."
+  }
 }

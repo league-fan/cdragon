@@ -252,6 +252,66 @@
     }
   ],
   "description": "왕국의 용들은 혼돈이 야기된 곳이라면 어디서든 이즈리얼의 짓궂은 웃음소리에 귀를 기울입니다. 이즈리얼의 장난은 해롭지 않지만, 그 쾌활한 성격에 속아 넘어가지 마세요. 이즈리얼은 틈틈이 장난을 치는 와중에도 카이사와 함께 수많은 모험을 헤쳐 나온 기민한 왕실 정찰병이니까요. 인간처럼 차려입고 파티에 간다고요? 이즈리얼이 좋아할 만한 일이네요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81044,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 60
+      },
+      "Auspacious": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Lunar Revel 2024 Premium Pass Bundle"
+      },
+      "Catseye": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 59
+      },
+      "Lustrous": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 64
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Tanzanite": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Joshua Raphael",
+      "West Studio"
+    ],
+    "lore": "Wherever chaos is sown, dragons across the kingdom know to listen for Ezreal's mischievous laughter. His japes are harmless, but don't let that merry spirit fool you: he is a shrewd royal scout alongside Kai'Sa who has braved many adventures between bouts of pranking. Dressing up like a human to go party? Now that sounds like his idea of a good time."
+  }
 }

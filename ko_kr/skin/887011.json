@@ -138,6 +138,54 @@
     }
   ],
   "description": "그웬은 카페의 마스코트로서 손님 응대를 담당합니다. 언제나 밝은 미소와 깔끔하게 플레이팅된 빵으로 손님을 맞이하죠. 그렇다고 속지는 마세요. 만약 진상 손님이 그웬의 친구들을 위협한다면 그 사탕 자르는 가위를 어떻게 쓸지 모르니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Gwen is the friendly face of customer service for the cafe, always there to welcome patrons with a smile and an immaculately-plated pastry. Don't be fooled, though—she isn't afraid to use her candy-cutting shears for other things when rogue customers threaten her friends."
+  }
 }

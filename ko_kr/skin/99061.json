@@ -142,6 +142,53 @@
     }
   ],
   "description": "대마법사 밀리오 밑에서 수련한 젊은 마법사 럭스는 그저 여름 왕국에서 자리를 지키기만 하는 레이디가 아니라는 걸 증명할 준비가 되어 있습니다. 햇살을 갈라 아침 이슬에 반사된 무지개를 만드는 역할을 맡은 만큼, 해가 떠오르기 전에 럭스가 해야 할 일은 산더미처럼 많습니다. 굳센 의지의 럭스가 굴할 일은 없겠지만요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 65
+      },
+      "Emerald": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 68
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 67
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 69
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "A young sorceress studying under Archmage Milio, Lux is ready to prove that she's not just an idle Lady of the Summer Court. Responsible for splitting sunbeams into rainbows through the morning dew, she has a lot of work to conquer each day before the sun rises—but she is nothing if not determined!"
+  }
 }

@@ -142,6 +142,54 @@
     }
   ],
   "description": "由於娜米意圖掌控海浪，因此與神皇嘉文四世發生毀天滅地的戰爭，引起世界大災難。不過，當史上最邪惡的人類使世界面臨更大的危機，娜米必須忍氣吞聲，與昔日宿敵合作，阻止他們的故事被重寫。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267058,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-23",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 65
+      },
+      "Pearl": {
+        "id": 66
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 62
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Nami's ambition to control the waves led to a destructive battle between her and god-emperor Jarvan IV, causing a great calamity to befall the world. But when the world faces an even greater threat—human nature at its most devious—Nami must swallow her pride and work with her former enemies to stop their story from being rewritten."
+  }
 }

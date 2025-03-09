@@ -155,6 +155,60 @@
     }
   ],
   "description": "캠프 참가자들은 자신들을 깊은 물속으로 끌고 가려는 미친 안전 요원을 피해 기슭까지 필사적으로 도망쳤습니다. 그때 혼돈과 거친 기침 소리를 뚫고 파이크의 물에 젖은 호루라기 소리가 날카롭게 울렸습니다. 공포에 질린 채 운명을 받아들일 준비를 마친 참가자들은 두 엄지를 치켜세운 어인 안전 요원을 마주했습니다. 다들 경주에서 살아남은 겁니다!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555064,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 70
+      },
+      "Catseye": {
+        "id": 66
+      },
+      "Emerald": {
+        "id": 67
+      },
+      "Ghoulish": {
+        "id": 73,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Pearl": {
+        "id": 71
+      },
+      "Ruby": {
+        "id": 65,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 69
+      },
+      "Tanzanite": {
+        "id": 72
+      },
+      "Turquoise": {
+        "id": 68
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Campers flail their way to shore, desperate to escape the deranged lifeguard dragging them to the depths. Cutting through chaos and frantic coughing, Pyke's waterlogged whistle pierces the air. Filled with dread, ready to accept their fate, the campers are met by the fishman giving them two thumbs up. They all survived the race!"
+  }
 }

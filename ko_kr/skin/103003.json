@@ -70,6 +70,34 @@
     }
   ],
   "description": "그림자 불꽃 사원의 젊고 실력 있는 화염술사인 아리는 한 과격파가 잿빛 군주의 타오르는 지옥귀들을 해방하자 조용한 삶을 포기했습니다. 비록 모든 희망이 사라진 듯하지만 아리는 화염술을 사용해 지옥귀들과 맞서 싸우고 있습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-07-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-07-11",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 75,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "A young, talented pyromancer from the Shadowfire Temple, Ahri gave up her quiet life when a faction of extremists unleashed the burning horrors of the Ashen Lord. Now she uses her fire magic to fight against them, even though all hope seems lost."
+  }
 }

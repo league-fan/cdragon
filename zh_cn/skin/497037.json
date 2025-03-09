@@ -138,6 +138,54 @@
     }
   ],
   "description": "洛希望与他心爱的霞并肩作战，并在她获得凤凰的赐福后，发誓要与她比翼齐飞。这个誓言将他带向内心世界，前往他的噩梦之境，去面对他已形成的恐惧。在精神和身体的战斗中毫不退缩，对他的心与爱的纯洁拼死捍卫，洛因而获得了比翼之龙神的恩典。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-09",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Citrine": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Rakan wished to fight by his beloved Xayah's side, vowing to be her worthy equal after she gained the fenghuang's blessing. This vow took him inward, to a landscape of his nightmares, to confront his fears given form. Unflinching in battles of the mind and body, guarding the purity of his heart and love, Rakan earned the grace of the Devotion Dragon."
+  }
 }

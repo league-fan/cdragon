@@ -24,6 +24,20 @@
     }
   ],
   "description": "你的機器人的腿部已遭到破壞，所以我們用舊式的 32 號熱管跟外接式的八缸煤機替代。我們還另外用噴漆在他的拳頭上畫了一團火焰。當然不是免費的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2011-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2011-03-07",
+    "set": [
+      "Piltover Customs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra."
+  }
 }

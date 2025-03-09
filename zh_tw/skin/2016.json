@@ -132,6 +132,51 @@
     }
   ],
   "description": "來自腹地的野蠻狂戰士歐拉夫渴望死得像個真正的戰士，於是他踏上弒龍之旅。這些可怖的巨獸一隻接一隻地被他的巨斧斬落，甚至有傳言說他會吃下那些被他斬首的巨龍之心。事實是，這個舉動只會更進一步點燃他的怒火，驅使他徹底滅絕龍族。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 20
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Meteorite": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      }
+    },
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "A savage berserker from the hinterlands, Olaf sought a warrior's death in slaying dragons. One by one, the horrid beasts fell to his axe, and rumors even tell of him consuming the heart of a dragon he beheaded. Truth is, this act has only fanned the fire of his rage, driving him to bring about the end of dragons."
+  }
 }

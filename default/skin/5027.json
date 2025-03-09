@@ -137,6 +137,55 @@
     }
   ],
   "description": "Though brutal, the Marauders still follow a martial order established during the era of the Magelords. These commanders seek only to reclaim the might with which their order once ruled. Xin Zhao is one half of the pair of current leaders. Pragmatic and measured, he has resurrected an ancient Magelord to destroy his foes once and for all.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Marauder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "Though brutal, the Marauders still follow a martial order established during the era of the Magelords. These commanders seek only to reclaim the might with which their order once ruled. Xin Zhao is one half of the pair of current leaders. Pragmatic and measured, he has resurrected an ancient Magelord to destroy his foes once and for all."
+  }
 }

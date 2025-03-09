@@ -137,6 +137,54 @@
     }
   ],
   "description": "용의 혈통을 완전히 파괴하는 데 집착하며 머나먼 산속으로 사라졌던 유명한 용 사냥꾼입니다. 수년 후 돌아온 그녀는 그동안 벌인 살육 때문에 용과 다를 바 없이 변해 버리고 말았습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "A famous dragonslayer who vanished into the distant mountains, obsessed with destroying the dragon lineage utterly. Many years later she has returned, so changed by the carnage that she has begun to resemble a dragon herself."
+  }
 }

@@ -24,6 +24,26 @@
     }
   ],
   "description": "切迫した最大の危機が訪れたとき、辺境の都市国家を守るために、もうひとつの古代の機械化ランサーユニット、ウーコンが長い眠りから目覚める。強敵を排除し終えると彼は地中へと戻っていく。有史以前から続くその行動の理由は謎に包まれている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-04-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-04-04",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Another of the ancient, mechanized Lancer units, Wukong arises from his dusty slumber in times of extreme danger, protecting the outland city-states from the most dire threats. Once these foes are eliminated he returns to the earth, an enigma older than recorded history."
+  }
 }

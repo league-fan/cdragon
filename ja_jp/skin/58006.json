@@ -24,6 +24,24 @@
     }
   ],
   "description": "ライフガード監視中！とはいえ、真面目な話、気をつけた方がいい。3メートル近い身長のワニ男から心肺蘇生措置を受けたくはないだろう。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-09-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Lifeguard on duty! Seriously though, be careful—you don't want CPR from a nine foot tall crocodile man."
+  }
 }

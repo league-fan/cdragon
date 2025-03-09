@@ -49,6 +49,35 @@
     }
   ],
   "description": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157009,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "cost": 1820,
+    "release": "2017-06-14",
+    "earlysale": "2017-12",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Pariah": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light."
+  }
 }

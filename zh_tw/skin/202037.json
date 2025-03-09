@@ -25,6 +25,29 @@
     }
   ],
   "description": "燼曾是一個星際實體，被幽冥煞星吞噬並賦予了新的目標。現在，他那永恆的意志已被無所不能的異象所感染，並被一種永不滿足的饑餓所吞噬。他似乎因一時興起就洗劫了整個太空區間，並用殘餘物來創造那奇異、沉靜的藝術品。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202037,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "1% drop rate from Cosmic 2023 Capsules or opening 30 Cosmic 2023 Capsules",
+    "release": "2023-08-30",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "variant": 5,
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art."
+  }
 }

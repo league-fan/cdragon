@@ -12,40 +12,217 @@
       "name": "Ornn",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2017-08-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 516000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-08-22",
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves."
+      }
     },
     {
       "id": 516001,
       "name": "Thunder Lord Ornn",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-08-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 516001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-22",
+        "earlysale": "2018-02",
+        "set": [
+          "Thunder Lord"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "In an age before man, King Ornn ruled the craggy southlands, and he was as rocky and lifeless as they were. It is said that he weathered an endless siege from his brother, the great King Voli, and that the blood they spilled sprouted grass and trees and animals, even as they became like beasts themselves."
+      }
     },
     {
       "id": 516002,
       "name": "Elderwood Ornn",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 516002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 4
+          },
+          "Emberwood": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "A truly ancient shaper of the Elderwood, and keeper of divine knowledge. Beings who tended the trees and directed the rivers are rare in this time of fell magic and endless twilight, yet Ornn continues on, stubbornly clinging to what remains of the old way."
+      }
     },
     {
       "id": 516011,
       "name": "Space Groove Ornn",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 516011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-17",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rainbow": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "The drop before the bass, the creator of the primordial instruments, a literal God of Groove, Ornn has been instrumental in spreading The Groove through the Galaxy. But he's not a fan of the celebrity status it's earned him, hermiting himself away on a planet of whirling pools of goo to focus on his work. If Ornn is coming to party, it better be legendary."
+      }
     },
     {
       "id": 516020,
       "name": "Choo-Choo Ornn",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 516020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-03",
+        "set": [
+          "Toy Box"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 27
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 23
+          },
+          "Citrine": {
+            "id": 25
+          },
+          "Peridot": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "With a toot of his whistle, Ornn calls forth a mighty iron beast, roaring with his forge's fury. As his hammer pounds out a rhythm like pistons on the track, a soot-soaked grin unfurls beneath his smoldering beard. One imagines he must feel the thrill of creation, the joy of a perfect machine made manifest!"
+      }
     }
   ]
 }

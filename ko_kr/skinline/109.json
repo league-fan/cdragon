@@ -8,48 +8,182 @@
       "name": "정복자 알리스타",
       "rarity": "kRare",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2019-04-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 12020,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2019-04-30",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Commemorating the 2019 Mid-Season Invitational in Asia."
+      }
     },
     {
       "id": 24020,
       "name": "정복자 잭스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 24020,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-29",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "West Studio"
+        ],
+        "lore": "Celebrating MSI 2021 in Reykjavík."
+      }
     },
     {
       "id": 24021,
       "name": "프레스티지 정복자 잭스",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 24021,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-04-29",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 20,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "West Studio"
+        ],
+        "lore": "Celebrating MSI 2021 in Reykjavík."
+      }
     },
     {
       "id": 43007,
       "name": "정복자 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2017-04-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-04-23",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Commemorating the 2017 Mid-Season Invitational in Brazil."
+      }
     },
     {
       "id": 110007,
       "name": "정복자 바루스",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2018-04-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 110007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2018-04-25",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Commemorating the 2018 Mid-Season Invitational in Europe."
+      }
     },
     {
       "id": 111006,
       "name": "정복자 노틸러스",
       "rarity": "kRare",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 111006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-07-09",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "Commemorating the 2020 Spring Split Champions."
+      }
     }
   ]
 }

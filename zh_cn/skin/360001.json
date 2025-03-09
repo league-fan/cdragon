@@ -148,6 +148,57 @@
     }
   ],
   "description": "无惧且致命的莎弥拉曾经是一位有名的雇佣兵。她是一个天生的寻求刺激的人，她战斗不是为了名利，而是为了推动她的技能的极限。通过高强度的训练，她与生俱来的精神力量被充分释放，让她把每一个任务和每一次杀戮都变成了一次对时尚天资的动人展示。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 360001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-21",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newquotes": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 4
+      },
+      "Hunter": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Peridot": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Emily O’Brien"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Fearless and deadly, Samira was once a renowned soldier of fortune. A born thrill seeker, she fights not for fame or wealth, but to push the limits of her skill. Through intense training, her innate psychic powers have been fully unleashed, allowing her to turn every mission and every kill into a thrilling display of stylish flair."
+  }
 }

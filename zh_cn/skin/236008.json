@@ -145,6 +145,54 @@
     }
   ],
   "description": "作为一名前联邦法警和雇佣枪手，卢锡安的灵魂在与某个恶魔达成协议时就已经腐化了。而签订这份协议，正是为了挽救他唯一真爱之人的生命。两种情绪交织之下，且背负着地狱力量的诅咒，现在的他在前线猎杀这个恶魔以寻求复仇。  ",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 22
+      },
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tenfold Triumph": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A former federal marshal and gunslinger for hire, Lucian's soul was corrupted when he made a deal with the devil in order to spare the life of his one true love. Double-crossed, and cursed with the powers of hell, he now hunts this devil across the high frontier, seeking revenge."
+  }
 }

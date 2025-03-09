@@ -8,24 +8,104 @@
       "name": "Crystalis Indomitus Xerath",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-06-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101030,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2024-06-12",
+        "set": [
+          "Crystalis Indomitus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Fractured": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Zoe Zhu",
+          "West Studio"
+        ],
+        "lore": "Once a humble fisherman, Xerath returned from a voyage with a multitude of magical crystals in tow. Their power elevated him to become a leader of his people, ushering in what he hoped would be a new era of the Prismae Crystals' rule. But the cost of such power damaged his mind, leaving him suspicious that no thoughts are to be trusted… even his own."
+      }
     },
     {
       "id": 111036,
       "name": "Crystalis Indomitus Nautilus",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 111036,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2024-09-11",
+        "set": [
+          "Crystalis Indomitus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Fractured": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Long ago, Nautilus had been a fisherman by his friend Xerath's side. Together the two discovered a mass of powerful crystals, and greed drove his comrade to cast Nautilus into the water to drown. A single crystal sustained him and, as he slumbered, corrupted and empowered his body and mind. But even this could not destroy his strongest desire—revenge."
+      }
     },
     {
       "id": 121079,
       "name": "Crystalis Indomitus Kha'Zix",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121079,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2024-03-20",
+        "set": [
+          "Crystalis Indomitus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Fractured": {
+            "id": 80,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "To citizens of Crystalis Motus, the being known as Kha'Zix is a purely crystalline horror whose hunger to assimilate life knows no limits. To those in the north, however, it is a marvel: a being shaped by the crystals themselves into a near perfect form, and whose zeal to spread the Prismae's power is inspirational."
+      }
     }
   ]
 }

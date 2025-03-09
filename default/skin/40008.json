@@ -94,6 +94,39 @@
     }
   ],
   "description": "Janna is the guardian of an ancient sword made of the purest jade, hidden at the bottom of a silent lake. Those who wield this weapon are granted immortality, and so she must remain steadfast in order to protect it.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-27",
+    "earlysale": "2018-03",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Peridot": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sapphire": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Janna is the guardian of an ancient sword made of the purest jade, hidden at the bottom of a silent lake. Those who wield this weapon are granted immortality, and so she must remain steadfast in order to protect it."
+  }
 }

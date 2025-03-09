@@ -8,40 +8,126 @@
       "name": "Nunu & Willump Bot",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2011-05-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 20004,
+        "formatname": "Nunu & Willump Bot",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2011-05-05",
+        "set": [
+          "Heavy Metal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Text-to-speech software"
+        ],
+        "splashartist": [
+          "X TRAIN"
+        ],
+        "lore": "In the year 20XX, RiotCorp rules the world with a cruel, robotic fist. Building his own battling best friend using code from a forgotten video game (and piles and piles of scrap!) a young mechanic competes in the company's corporate-sanctioned Rift Wars—for fame, glory, and [ERROR] [...] [TOWERDIVING!]"
+      }
     },
     {
       "id": 33006,
       "name": "Full Metal Rammus",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-08-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 33006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-08-16",
+        "set": [
+          "Heavy Metal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Those who make it to the Full Metal Robot Fighting League—the premier institution for gear-crunching, robot-on-robot violence—must often face off against the fearsome Full Metal Rammus. It is an initial rite of passage, faced by every contender-bot, that leaves entire arenas in tremors..."
+      }
     },
     {
       "id": 80004,
       "name": "Full Metal Pantheon",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 80004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-01",
+        "set": [
+          "Heavy Metal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Blake Byun"
+        ],
+        "lore": "A former Full Metal Robot Fighting League champion (2x reign, 14 title defenses), Pantheon was forced to retire in disgrace after a scandal involving Targon Fabrications. Reemerging from retirement to face the chosen champion, Jayce, Pantheon may be damaged, but has found that revenge adequately charges his weapon systems."
+      }
     },
     {
       "id": 112001,
       "name": "Full Machine Viktor",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-12-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 112001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-29",
+        "set": [
+          "Heavy Metal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "Created from the same circuitry as the Full Metal champion, Jayce, Viktor was cast into the tunnels beneath the robot fighting arenas to serve as a janitoribot—while his twin was groomed for glory, simulcast en español. Upgrading himself with the cast-offs of the destroyed, he has sworn la venganza."
+      }
     },
     {
       "id": 126001,
       "name": "Full Metal Jayce",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-07-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 126001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-07-06",
+        "filter": true,
+        "set": [
+          "Heavy Metal"
+        ],
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Backed by RiotCorp as the Full Metal Fighting League's first corporately sanctioned champion, Jayce has dethroned Pantheon and won the hearts of audiences worldwide—especially those who realize they gain 15 Riot Points every time they cheer his cyclonic blasts."
+      }
     }
   ]
 }

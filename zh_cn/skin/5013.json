@@ -137,6 +137,45 @@
     }
   ],
   "description": "这名女巫把这座山称为自己的故乡，重生的巨龙在这里遮天蔽日般飞向天空，屠龙勇士们纷纷赶来剿灭。赵信一骑当千冲进巨龙的巢穴，誓要将她的邪恶行径一举歼灭。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-03-09",
+    "earlysale": "2017-09",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 19
+      },
+      "Sandstone": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "The sorceress called a great mountain her home, and from it, reborn dragons poured endlessly into the sky. Though dragonslayers fell all around him, Xin Zhao struck into the monster's lair, determined to end her evil once and for all."
+  }
 }

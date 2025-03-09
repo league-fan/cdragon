@@ -160,6 +160,60 @@
     }
   ],
   "description": "그들은 뼛속까지 시린 추위 속에서 애쉬를 찾아왔습니다. 새까만 아이벡스의 서리가 세상을 얼음으로 뒤덮었습니다. 산에서 내려간 애쉬는 참혹한 겨울을 함께 몰고 갔죠. 하지만 애쉬를 따라 밤으로 향한 것은 그뿐만이 아니었고, 산 그 자체가 우르릉거리기 시작했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Dark Ritual": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "They came to Ashe in a bone-deep chill—the frost of the Jet-Black Ibex, entombing the world in ice. She descended the mountain and brought a harrowing winter with her… but that is not the only thing that followed Ashe into the night. The mountain itself rumbles."
+  }
 }

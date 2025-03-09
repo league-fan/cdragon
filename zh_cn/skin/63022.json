@@ -34,6 +34,23 @@
     }
   ],
   "description": "身着一套极其时尚的定制西装，心怀被他灼烧之物的各个计划，布兰德站在了他一直以为遥不可及的悬崖上：击败他的对手们，然后凌驾于世界上最伟大的贵族们之上。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63022,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 21,
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "With a blisteringly fashionable custom suit, the plans for which he burned, Brand stands on the precipice of something he has long thought beyond his reach: defeating his rivals and standing atop the greatest aristocrats in the world."
+  }
 }

@@ -115,6 +115,40 @@
     }
   ],
   "description": "달걀은 참 쓸모없어요. 둥글고 잘 깨지죠. 개조가 필요해요. 그래서... 티모를 소개합니다! 티모는 귀엽고 짜증 나죠. 무엇보다도 달걀에 알록달록 색을 칠해서 한두 개(일곱 개?)를 무시무시한 폭발물로 만들 수도 있습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-18",
+    "earlysale": "2016-02",
+    "set": [
+      "Cottontail"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Aquamarine": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Speckled": {
+        "id": 11
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Eggs are lame, right? They're round. They break easily. Eggs need a major facelift. Introducing… Teemo! He's cute. He's annoying. But most of all, he'll paint all your eggs for you, maybe turning one or two (or seven) into life-threatening explosives."
+  }
 }

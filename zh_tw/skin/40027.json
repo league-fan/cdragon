@@ -143,6 +143,56 @@
     }
   ],
   "description": "來自歐萊伊且高高在上地漂浮在比武大會之上的女皇珍娜總是俯視著整個戰局。但沒有英雄的加冕儀式只會讓賦予歐萊伊人民長壽的魔法失效，所以珍娜下凡來展現她的力量。她願意做任何事來保護自己的人民。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 32
+      },
+      "Aquamarine": {
+        "id": 31
+      },
+      "Catseye": {
+        "id": 29
+      },
+      "Coronation": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Peridot": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Hailing from Aurai, floating high above the Tournament, Queen Janna quite literally looks down on the whole affair. But without a champion in the Coronation, the magic that brings long-life to Aurai's reclusive population will fail, and so Janna descends for yet another showcase exhibition of her power. Anything to protect her people."
+  }
 }

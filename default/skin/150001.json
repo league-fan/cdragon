@@ -162,6 +162,50 @@
     }
   ],
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-08-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-08-13",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 12
+      },
+      "Aquamarine": {
+        "id": 11
+      },
+      "Astral": {
+        "id": 9
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Peridot": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Sapphire": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "Evan 'Somnicidal' Monteiro"
+    ]
+  }
 }

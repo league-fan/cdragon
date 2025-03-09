@@ -148,6 +148,56 @@
     }
   ],
   "description": "혼돈에 대한 질서의 승리를 간절히 원하는 모르가나는 힘의 균형이 빛으로 기울어지도록 많은 것을 희생했습니다. 승리와 함께 여명이 밝아오면 신들의 파괴를 막고 혼돈의 부패에서 자유로운 새 시대가 올 것이라고 확신합니다… 그때쯤이면 요네도 균형이라는 게 망상일 뿐이었음을 알게 되겠죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 45
+      },
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Lifebringer": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Determined to see order triumph over chaos, Morgana has sacrificed much to tip the scales in favor of light. If dawn emerges victorious, she is certain that they can avoid the gods' destruction and usher in a new age, one free from the corruption of chaos… Perhaps then Yone will see balance for the delusion that it is."
+  }
 }

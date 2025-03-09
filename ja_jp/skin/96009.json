@@ -226,6 +226,52 @@
     }
   ],
   "description": "パグ＝マウは生後9ヶ月の純血のパグで、人懐っこいが若干ヨダレの分泌が激しい。子供や他のペットとも仲良くできて、食べることが大好きだ。以前アクションフィギュア3体と人形1体を食べた前科があり、扱いには注意が必要である。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96009,
+    "formatname": "Pug'Maw",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Granite": {
+        "id": 18
+      },
+      "Meteorite": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sandstone": {
+        "id": 12
+      },
+      "Speckled": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Pug'Maw is a nine month old purebred pug with a sweet disposition and possibly some sort of salivary problem. Great with children and pets. Highly food motivated. Has eaten three action figures and one doll, approach with extreme caution."
+  }
 }

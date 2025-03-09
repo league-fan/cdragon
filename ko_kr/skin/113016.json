@@ -170,6 +170,65 @@
     }
   ],
   "description": "지네틱 반군 과격 분파의 대장, 세주아니는 애쉬 세력의 '저항 행동'이 충분히 폭력적이지 못하다는 것을 깨닫고 독자적으로 떨어져 나왔습니다. 프로그램이 도시를 탈취한 때를 틈타 세주아니는 붕괴 전 시대의 기술을 되살린 탈것을 타고 그녀의 맹렬한 패거리와 함께 새로운 위협이 싹트기 전에 짓밟고자 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113016,
+    "formatname": "PROJECT: Sejuani",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Reckoning": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "The leader of a more radicalized sect of the G/NETIC rebels, Sejuani broke off from Ashe's movement when their 'resistance action' failed to turn explicitly violent. Resurfacing amid Program's takeover of the City, she rides a piece of reclaimed pre-collapse technology alongside her ferocious cohort, ready to put down this new threat before it takes root."
+  }
 }

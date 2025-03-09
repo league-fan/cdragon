@@ -184,6 +184,58 @@
     }
   ],
   "description": "卡莎曾经是皇家太空军的一员，现在她是第一位驾驶实验型X01-蝴蝶号的驾驶员。通过她的首次试飞表明这套战斗机甲过于致命，然而在这一次试飞之后她就带着飞船逃跑了——成为了全宇宙最危险的杀手。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-03-07",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 2
+      },
+      "Granite": {
+        "id": 7
+      },
+      "Maverick": {
+        "id": 47,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A former lieutenant in the Royal Space Military, Kai'Sa was the first sanctioned pilot of the experimental X01-Butterfly. The suit proved far too deadly, however, and after only one mission she fled with the technology—becoming one of the galaxy's deadliest guns for hire."
+  }
 }

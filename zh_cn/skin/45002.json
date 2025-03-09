@@ -25,6 +25,18 @@
     }
   ],
   "description": "冰壶是一项用棍子推着石头在冰上走的运动，而维迦是一个想要毁灭瓦洛兰城市的邪恶约德尔人，这一切当然合情合理。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-02-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-02-12",
+    "set": [
+      "Winter Sports"
+    ],
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "lore": "Curling is a sport where players slide stones across the ice with a stick. Veigar is an evil yordle obsessed with annihilating the great cities of Valoran. It just makes sense."
+  }
 }

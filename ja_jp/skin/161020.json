@@ -147,6 +147,58 @@
     }
   ],
   "description": "ハチミツでできた操作可能な触手？それはトガッてるね！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161020,
+    "formatname": "Bee'Koz",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-22",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 22,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Controllable tentacles made out of honey? That's bee-nius!"
+  }
 }

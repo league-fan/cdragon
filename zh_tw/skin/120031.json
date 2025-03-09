@@ -170,6 +170,63 @@
     }
   ],
   "description": "「你就是北極星。」赫克林回答道。服侍了極光數百年的他，以粗啞的聲音向姍娜解釋，說她就是極光的化身，而他則是其守護者。年復一年，在北極星交接的期間，他守著邊界，等待新的凜冬碎星被選出。赫克林對姍娜說，她之前是誰一點也不重要，重要的是她已受到呼召，輪到她侍奉極光了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 34,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Rainbow": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 35
+      },
+      "Wreathguard": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": " \"You are Polaris,\" answered Hecarim. With a voice hardened by centuries of servitude, he explained that Senna was the living embodiment of the Aurora; he, its protector. As each year passed, he guarded the borders in Polaris' absence while the new Winterblessed was chosen. It didn't matter who she was before, he told her: she'd been called to service now."
+  }
 }

@@ -133,6 +133,54 @@
     }
   ],
   "description": "究極のネヴァーガーストを自称するブラッドミアは、自分の飢えとエゴを満たすことにしか興味がない。そんな彼が妥当な見返りと引き換えに、“愚か者”のラカンを助けてやったのは当然のことだった。ブラッドミアにとって、伝説のアスピラの泉を見つけられなければ、この争いに意味などないのだ。彼は自分にこそ、その力にふさわしいと何の疑いもなく信じている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "The ultimate Neverghaast, at least to himself, Vladimir cares only about feeding himself and his ego. Though he is not above helping someone for the right price, like that \"idiot\" Rakan, he has no stake in the war beyond finding the fabled well of Aspira within the congregation. Such power, he smugly reasons, would surely be better in his hands."
+  }
 }

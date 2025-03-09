@@ -160,6 +160,56 @@
     }
   ],
   "description": "장난꾸러기 정령 아리에 관한 이야기는 아주 오랜 세월 동안 인류 역사의 한 축을 이뤄 왔습니다. 빛이 나고 영원히 늙지 않는 아리는 나무정령들 중에서도 특이하고 짓궂은 모습으로 그려졌지만, 최근 조상 대대로 물려받은 고향 땅을 점차 오염시키는 악의 세력에 맞서 싸우며 냉담하게 변해갔습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Ahri-versary": {
+        "id": 61
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Peridot": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Fables of the trickster spirit Ahri have been part of mankind's history for countless generations. Radiant and eternally youthful, she is portrayed as a curious, quizzical member of the Elderwood's feyfolk… though in recent years her heart has hardened, as she fights a growing corruption within her ancestral home."
+  }
 }

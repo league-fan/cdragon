@@ -138,6 +138,54 @@
     }
   ],
   "description": "萨勒芬妮的全银河系巡回个人演唱会刚刚结束，是时候回到星之守护者的行列了。能和新的英雄组队让她超级兴奋，她也毫不掩饰地传递着自己的热情。他们在为真爱而战……还有比这更浪漫的事吗？！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rainbow": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "Seraphine has toured the entire galaxy as a solo act, but now it's time for a Star Guardian collab. She's ecstatic to team up with a new group of heroes, and she isn't afraid to share that enthusiasm. They're fighting for true love… what could be more romantic than that?!"
+  }
 }

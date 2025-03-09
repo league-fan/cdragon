@@ -160,6 +160,59 @@
     }
   ],
   "description": "為尋求力量以淨化被布蘭德所腐化的大地，凱莎一頭躍進了潟藍水龍的深淵之中，無懼其水深不見底的恐怖傳說。然而，潟藍水龍認可了她勇於面對未知的果敢，以其恩賜庇佑了她。現在，凱莎走遍世界各地，洗淨大地並保護那些難以自衛之人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 33
+      },
+      "Emberclaw": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Seeking the power to purify the land of Brand's corruption, Kai'Sa plunged into the depths of the Lagoon Dragon's waters, despite terrifying legends of the endless deep. However, the Dragon recognized her for her courage to face the unknown and blessed her with its gifts. Now, she adventures the world, cleansing the land and protecting those who cannot protect themselves."
+  }
 }

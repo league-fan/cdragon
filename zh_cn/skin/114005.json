@@ -203,6 +203,51 @@
     }
   ],
   "description": null,
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-07-13",
+    "earlysale": "2017-01",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 19
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rainbow": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Fiora can stop a pool party dead in its tracks and she knows it. What she truly longs for is a worthy opponent—but alas, some people are just too good at crushing the party scene."
+  }
 }

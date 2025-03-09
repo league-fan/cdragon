@@ -137,6 +137,53 @@
     }
   ],
   "description": "요네는 긴장했습니다. DJ로서는 차분하게 집중력을 발휘하며 즉흥적으로 무대를 끌어가지만 바다의 노래 축제는 DJ이자 작사가로서 오르는 첫 콘서트거든요. 요네가 몰래 써서 모아 둔 가사를 찾은 친구 니달리는 요네가 한사코 거절하는데도 자신이 노래를 불러 주겠다고 나섰습니다. 요네는 아직 노래를 부를 준비가 되지 않았지만 자신의 목소리를 전달할 수 있게 되었죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Yone is nervous. As a DJ he's calm, focused, and improvisational, but Ocean Song is his first concert as a DJ and lyricist. After finding his secret stash of lyrics, his friend Nidalee volunteered to belt them out herself when he refused. He may not be ready to sing, but they'll still hear his voice."
+  }
 }

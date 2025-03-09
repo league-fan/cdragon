@@ -148,6 +148,57 @@
     }
   ],
   "description": "グレイブスはデュランダルの軍隊に従軍していた元兵士で、望まないながらも教授になった。敵陣の奥深くであるものを発見したことで、彼は“神器”自身からアカデミーで教師として働くように誘われた。彼の特徴となっている葉巻を咥えたやる気のなさそうな教え方も、その数十年に渡る経験を考えれば大したマイナスではない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-15",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Formal": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience."
+  }
 }

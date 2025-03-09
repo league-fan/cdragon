@@ -165,6 +165,60 @@
     }
   ],
   "description": "Malzahar is the self-proclaimed Voice of the Foreglow. Traveling from realm to realm, he announces that the Empyreans are symptoms of a greater sickness, the fever designed to fight an infection festering across the dimensions. Whether Malzahar truly speaks for the neon flame is anyone's guess, but for now, he's only just warming up.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-01",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Neon Facade": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2024"
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Malzahar is the self-proclaimed Voice of the Foreglow. Traveling from realm to realm, he announces that the Empyreans are symptoms of a greater sickness, the fever designed to fight an infection festering across the dimensions. Whether Malzahar truly speaks for the neon flame is anyone's guess, but for now, he's only just warming up."
+  }
 }

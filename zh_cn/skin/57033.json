@@ -62,6 +62,32 @@
     }
   ],
   "description": "以此致敬Juhan在2022全球总决赛中使用茂凯的夺胜表现。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57033,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-01",
+    "set": [
+      "World Champions: 2022"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 34,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Honoring Juhan's winning performance as Maokai during the 2022 World Championship."
+  }
 }

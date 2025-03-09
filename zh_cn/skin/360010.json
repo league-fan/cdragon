@@ -160,6 +160,60 @@
     }
   ],
   "description": "莎弥拉是来自“热浴盆”星云的一名动感、追求刺激的保镖和精英战士。她直接从三派对女神那里接了个活儿，目标是将拉克丝从正常世界的一场即将到来的入侵中拯救出来。现在，在这对搭档穿梭星系解救星球的途中，莎弥拉必须尽她所能地保护拉克丝的安全——既要防备丽桑卓，又要防备拉克丝那缺乏自我保护的本能。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 360010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Disco": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rainbow": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Emily O’Brien"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "A groovy, thrill-seeking bodyguard and elite warrior from the Hot Tub Nebula, Samira took a job directly from the Three Party Goddesses to save Lux from an impending invasion of the Normal World. Now, as the pair liberate planets across the galaxy, Samira must do everything in her power to keep Lux safe—both from Lissandra and from Lux's own lack of self preservation instincts."
+  }
 }

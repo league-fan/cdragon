@@ -48,6 +48,33 @@
     }
   ],
   "description": "Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4011,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Pulsefire"
+    ],
+    "cost": 1350,
+    "release": "2018-05-17",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…"
+  }
 }

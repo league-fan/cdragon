@@ -160,6 +160,59 @@
     }
   ],
   "description": "権力の座に着くことを約束された者もいれば、栄光の残響を聞いているだけで、払うべき犠牲について何も分かっていない者もいる！帝国はすべてにおいて…臣民の命よりも優先しなければならないのだ。皇帝スレッシュは今でも民を率いており、肉体を失ったとはいえ、彼らの魂は永遠の安全を得ている。いつか、彼は失われた帝国を復興できるだろう。そのために必要なのは、女帝の手助けのみ。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Granite": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Resplendent": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Some are destined to rule. Others hear only echoes of glory, knowing nothing of the sacrifices that must be made! You must put your empire before EVERYTHING... even the lives of your subjects. The Emperor Thresh still guides his people, their souls forever safe, though their bodies were washed away. Someday, he'll heal his broken empire. All he needs is a kind empress' helping hand. "
+  }
 }

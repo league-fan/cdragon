@@ -137,6 +137,55 @@
     }
   ],
   "description": "오래전 몇 안 되는 빛을 삼킨 기사 중 한 명이었던 아트록스는 케일을 하릴없이 연모했지만... 케일이 사랑하는 것은 이글거리는 태양뿐이었습니다. 케일이 태양을 집어삼키자 달의 광채가 아트록스를 삼켰습니다. 한때 고귀한 존재였던 아트록스는 이제 케일의 무시무시한 그림자로서 케일의 곁을 영원히 지키게 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Rainbow": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 27
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "One of the few who took up the mantle of the Eclipse Knights in the days of old, Aatrox hopelessly pined for Kayle's affections… but she could only ever love the blazing sun. When she devoured it, the entity's lunar corona consumed him. He exists now as Kayle's monstrous, once-noble shadow, ever at her side."
+  }
 }

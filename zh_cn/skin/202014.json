@@ -132,6 +132,55 @@
     }
   ],
   "description": "烬是一位陷入疯狂的创世神，栖息在一幅比创世还要久远的神秘画作中。他已经厌倦了他所居住的画布，并且想要将他的艺术带给那些鲜活的观众们。他开始将画作的边缘编织进多重宇宙的构造中，希望以此逃离监禁。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "filter": false,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "A mad god who resides within a mysterious painting older than creation, Jhin has grown bored of the canvas in which he dwells and wishes to bring his art to new, fresh eyes. He has begun weaving the edges of the painting into the fabric of the multiverse, hoping to escape his confinement."
+  }
 }

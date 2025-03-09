@@ -25,6 +25,27 @@
     }
   ],
   "description": "ラックスはかつては女王アッシュの右腕だったものの、その心の中の闇を受け入れ、ダークスターの狂気の呼び声に応じた。ついに真実を知った彼女は宇宙の王宮を拒絶し、彼女自身の闇の野望を実現するために、創造というありふれた音を沈黙させた。彼女は自身の真の運命を知っている──それは闇の王宮の女王として、そしてダークスターの正当なる支配者として、この世界に君臨することだ。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "variant": 18,
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Once the right hand of Queen Ashe, Lux embraced the darkness in her heart, answering the mad call of the Dark Star. Finally seeing the truth, she rejects the Cosmic Court, instead serving her own dark ambition to quiet the banal noise of creation. For she now knows her true fate—to reign as Queen of a Dark Court, and rightful master of the Dark Star."
+  }
 }

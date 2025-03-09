@@ -148,6 +148,56 @@
     }
   ],
   "description": "ヴェックスは一日の闇の訪れに秩序を見出し、毎晩、彼女のシャドウが地平線の向こうにある太陽を追いかけるのを見ている。彼女は超自然的に不機嫌で無気力な神であり、混沌と秩序の戦いのすべてが退屈だと感じている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 711001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 4
+      },
+      "Emerald": {
+        "id": 5
+      },
+      "Lifebringer": {
+        "id": 9,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Meteorite": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 3
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Jeannie Tirado"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Vex finds order in the day's descent to darkness, and spends her evenings watching her shadow chase the sun below the horizon. A preternaturally sour and unenthusiastic god, she finds the whole chaos and order 'thing' very blasé."
+  }
 }

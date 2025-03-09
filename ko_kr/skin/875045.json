@@ -160,6 +160,60 @@
     }
   ],
   "description": "이 파이터는 주먹이 모든 것의 답이 될 수 있다는 것을 증명하기 위해 이곳에 섰습니다! 그 질문이 '어떻게 해야 한 사람이 역사상 가장 많은 지역 토너먼트에서 우승할 수 있는가?'라면 말이죠. 그는 단지 멋진 척을 하려는 게 아닙니다. 물론 그것도 좋은 이유지만, 어머니를 자랑스럽게 하기 위해 소울 파이터의 전설이 되려고 합니다. 세트입니다!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 52
+      },
+      "Citrine": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Limitless": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Meteorite": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "This fighter is here to prove that fists CAN be the answer to everything! That is, assuming the question of everything is \"how does one person win the most local tourneys in recorded history?\" And he's not just doing it to look good—though that is a nice bonus—he's rising up the ranks to soul fightin' legend to make his momma proud. It's Sssssett!"
+  }
 }

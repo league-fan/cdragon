@@ -124,6 +124,53 @@
     }
   ],
   "description": "現在遂行中のミッションに集中しなければいけないと分かってはいたものの、ナーは惑星の地表で出会った不思議な小さな生物に興味を引かれていた(怒りは何とか抑えられている…少なくとも今は)。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-28",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 19
+      },
+      "Catseye": {
+        "id": 17
+      },
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Granite": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "lore": "Gnar knew he should be focusing on the mission at hand, but the strange little creatures he encountered on the planet's surface captivated his attention (and kept his wrath at bay… for now)."
+  }
 }

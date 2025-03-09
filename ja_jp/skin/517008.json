@@ -85,6 +85,42 @@
     }
   ],
   "description": "ドレグボーンのサイラスはかつて投獄を受けた王国から自由になると、デマーシアからフレヨルドへと向かった。歩みを進めるごとに、彼は他者から押された烙印を思い出す。メイジ、裏切り者、王殺し…過酷な寒さに耐え、反逆の炎で心を暖めながら、彼はこれらの名前を大いに楽しんでいる。それはここにあるはずだ。この凍てつく北部に。彼は革命の原動力として必要な、古代の力を手に入れるのだ…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-10",
+    "set": [
+      "Freljord"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Katya Cyan",
+      "West Studio"
+    ],
+    "lore": "Free from the kingdom that once imprisoned him, Sylas of Dregbourne marches from Demacia to the Freljord. With every step he takes, he remembers what others have branded him: Mage, Traitor, Kingslayer—names he revels in as he endures the bitter cold, his heart warmed by the fires of rebellion. It will be here, in the icy north, that he will seize the ancient power needed to fuel his revolution…"
+  }
 }

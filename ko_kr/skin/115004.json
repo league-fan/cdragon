@@ -24,6 +24,24 @@
     }
   ],
   "description": "직스는 폭탄 던지기에 관해서라면 한두 가지 정도는 알고 있습니다. 또한 쉴 때는 폭탄 대신 눈덩이를 던지는 것도 좋아하죠. 물론 직스에게 ''한두 가지''는 수백 가지를 의미하고 ''눈덩이''는 폭발력이 강한 치명적인 구체라는 뜻이랍니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-12-14",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "James Strehle"
+    ],
+    "lore": "Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death."
+  }
 }

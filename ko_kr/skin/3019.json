@@ -137,6 +137,54 @@
     }
   ],
   "description": "용족 조상의 보금자리를 위협으로부터 안전하게 지키던 위대한 고대 용입니다. 그가 관리하는 알을 하나도 빠짐없이 없애려는 광기 어린 기사 케일에게 속고 만 그는 직접 복수하기 위해 케일의 뒤를 쫓아 인간 사회로 왔습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might exact his vengeance personally."
+  }
 }

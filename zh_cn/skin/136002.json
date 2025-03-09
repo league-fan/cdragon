@@ -120,6 +120,51 @@
     }
   ],
   "description": "特制型号ASOL-13，“霸天龙神 奥瑞利安·索尔”是一艘巨大的移动母舰，携带着数以万计的工作人员、战士、以及陆地反怪兽载具。在他巨大的躯壳之下还有着大量的武器。这让ASOL-13即便对付最大的怪兽都绰绰有余。  ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-16",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Designated ASOL-13, the “Mecha Aurelion Sol” is a gigantic, mobile mothership carrying tens of thousands of personnel, attack fighters, and ground-based anti-kaiju vehicles. Buried within its hull are a vast array of weapons, making ASOL-13 more than a match for even the most gargantuan kaiju."
+  }
 }

@@ -148,6 +148,56 @@
     }
   ],
   "description": "很久以前，一对兄弟打了一场遍及艾欧尼亚的苦涩战争。兄弟中的弟弟，亚索, 曾是一位大名，以放浪形骸而闻名——直到他被指控犯有叛国罪并拿起武器自卫。两人都注定要在最后的决斗中倒下……这或许就是对骄傲和狂妄的教训。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-22",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Night Blossom": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Long ago, two brothers fought a bitter war across Ionia. Yasuo, the younger brother, was a warlord renowned for his roguish demeanor—until he was accused of crimes against the country and took up arms to defend himself. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+  }
 }

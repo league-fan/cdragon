@@ -107,6 +107,49 @@
     }
   ],
   "description": "盟約の魔女の女王、そして「灰の梟」と呼ばれる守護神。モルガナは古の神々を崇拝していた。その神々が殺害されたとき──モルガナを裏切った姉が原初の太陽を殺害し、その力を魔女騎士の軍団に与えたとき、彼女は涙を流した。そして今、モルガナは人類の支配を終わらせるために戻ってきた。この世界の真の神々を、彼らに相応しき朽ちた王座へと戻すために。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Dark Ritual": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain "
+  }
 }

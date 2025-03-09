@@ -119,6 +119,52 @@
     }
   ],
   "description": "When the Primordians first attacked, humanity was unprepared—until Anima Squad formed to become its last defense. But they are safe no longer, for the Primordians evolved in turn. Their apex being is called Aatrox, whose understanding of humanity only furthers his hatred. His flesh has no limits, his sword no mercy. He is the harbinger of Anima's end.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-07-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-07-31",
+    "set": [
+      "Primordian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Abyssal": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "Pandart Studio"
+    ],
+    "lore": "When the Primordians first attacked, humanity was unprepared—until Anima Squad formed to become its last defense. But they are safe no longer, for the Primordians evolved in turn. Their apex being is called Aatrox, whose understanding of humanity only furthers his hatred. His flesh has no limits, his sword no mercy. He is the harbinger of Anima's end."
+  }
 }

@@ -107,6 +107,49 @@
     }
   ],
   "description": "개척시대 초기에 만들어진 기계 천사 애쉬는 천상을 파괴했던 끔찍한 영토 분쟁에서 쓰러진 신들의 피로 움직입니다. 그녀는 무심한 태도로 모험을 추구하며 영원의 낙원을 끊임없이 약탈했던 인간들을 용서하고 보호하는 길을 선택했습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-10-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-10-10",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 19
+      },
+      "Nomad": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2019"
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "A mechanical angel built at the dawn of the pioneer age, Ashe is fueled by the blood of deities gunned down in the infamous land rush that destroyed Heaven. She has adopted a devil-may-care attitude as she seeks adventure, choosing to forgive and protect the same mankind that forever robbed itself of eternal paradise."
+  }
 }

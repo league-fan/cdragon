@@ -148,6 +148,57 @@
     }
   ],
   "description": "カシオペアは以前は美しい王女だったと噂されており、伝説によれば、姉がクーデターを起こした際に山に入って姿を隠し、二度と戻って来なかったと言われている。とても美しく、その狡猾さで知られていたことで、この「誘惑の精霊」を称えて神殿が建てられ、彼女の物語は民謡となって広く知られるようになった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 69009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Night Blossom": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Rumored to have once been a beautiful princess, legend says Cassiopeia vanished into the mountains when her sister staged a coup, never to return. So great was her beauty, and so renowned her cunning, that a shrine was built to honor this 'spirit of temptation', until her story was accepted into popular folklore."
+  }
 }

@@ -160,6 +160,59 @@
     }
   ],
   "description": "野獣ワーウィックは生まれたばかりの兄弟である、機械人形シャコの匂いを嗅いだ。彼の創造主は指導者たちを手招きして、贈り物を受け取るように言った。狩人は贈り物としてこの獣を要求したが、それだと賢者と番人で贈り物を共有することになるため、二人は酷く憤慨し、誰が何を受け取るべきかで、たちまち騒動となった。その間、ワーウィックはポラリスをずっと見つめていた──皮肉たっぷりの笑みを浮かべるポラリスを。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-12-08",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Granite": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 52
+      },
+      "Wreathguard": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2022"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The Beast Warwick sniffed his newborn sibling, the Automaton Shaco, as his maker beckoned the leaders to accept their gifts. The Hunter claimed the Beast as his prize, but the prospect of sharing so disgusted the Sage and Warden that chaos quickly erupted over who deserved what. All the while Warwick focused on Polaris, who watched with a wry smile."
+  }
 }

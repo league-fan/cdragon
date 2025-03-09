@@ -24,6 +24,23 @@
     }
   ],
   "description": "베스트셀러 액션 게임의 첫 보스인 브랜드는 원래의 게임으로 돌아갈 생각이 전혀 없습니다. 그보다는 아케이드 세계 전체가 불타 땅으로 떨어져서 아케이드 세계를 지배하는 악당들의 형상으로 다시 건설되는 것을 보고 싶어합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-08-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-08-08",
+    "earlysale": "2018-02",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The fire boss from a bestselling action game, Brand has no intention of returning to his original machine. He'd rather see all of Arcade World burn to the ground, to be rebuilt in the image of the villains who rule it."
+  }
 }

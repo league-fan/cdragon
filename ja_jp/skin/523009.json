@@ -160,6 +160,55 @@
     }
   ],
   "description": "アフェリオスは誰とも話すことなく、他の部隊員には馴染みのない難解な“古いやり方”に従って「雄牛の神」を崇拝している。同じ部隊のメンバーたちは不思議がりながらも彼を受け入れているが、実はアフェリオスと妹のアルーンが「雄牛の神」の子孫であり、今年の月の聖獣と対峙すべく部隊に配置されていることを彼らはまだ知らない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 523009,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 14
+      },
+      "Vitality": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "N/A",
+      "Tania Gunadi"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Aphelios stays quiet, preferring to worship the Bull God according to obscure “old ways” that are unfamiliar to the rest of his squad. His teammates are welcoming, if curious, but have yet to realize that Aphelios and his sister Alune are actually the Bull God's progeny, placed among the squad to face this year's Lunar Beast."
+  }
 }

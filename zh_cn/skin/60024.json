@@ -160,6 +160,61 @@
     }
   ],
   "description": "它们很久前来到伊莉丝身边，从灌木丛中爬过，它们的许多眼睛与她的眼睛锁定，好似达成了协议。用一位古神的深不可测的力量，换取她的献祭和人性。伊莉丝以一位蜘蛛神的形象重生，在永恒之森的边缘徘徊，引诱那些愚蠢到相信她只是民间故事的人前往他们的尽头。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 60024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Profane": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Tanzanite": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Sydney Rainin-Smith"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "They came to Elise long ago, crawling through the underbrush, their many eyes locked with hers as a deal was made. The unfathomable powers of an Old God for her devotion and humanity. Reborn in the image of an arachnoid deity, Elise lingers along the edges of the Elderwood, enticing to their doom all those foolish enough to believe her a mere folktale."
+  }
 }

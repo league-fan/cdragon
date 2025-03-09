@@ -24,6 +24,25 @@
     }
   ],
   "description": "まかりいでたのはフィッシュメールと申す風来坊だ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-04-01",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Alex Konstad",
+      "Jon Neimeister",
+      "David Kegg",
+      "Dirty Iron"
+    ],
+    "lore": "Call me Fishmael."
+  }
 }

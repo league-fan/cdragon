@@ -48,6 +48,33 @@
     }
   ],
   "description": "她透過最先進的技術誕生，意識嵌入了最宏大的系統，奧莉安娜以其完美的精準度侍奉幽冥煞星。她在銀河中婆娑慢舞，令人恐懼的精湛演出留下來的是彷彿沒有盡頭的空洞與沉默。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-05-03",
+    "earlysale": "2017-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake."
+  }
 }

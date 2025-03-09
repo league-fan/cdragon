@@ -160,6 +160,59 @@
     }
   ],
   "description": "似乎同时出现在这座城市的每一场活动中的乐芙兰，是一个遍及整个商业街的无处不在的存在——她无与伦比的闲谈能力与她神秘的起源相得益彰。曾几何时，某些反对主义者们将她与地下都市联系起来，但正如他们所说……永远不要违逆乐芙兰女士。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Cerulean Club": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      },
+      "Tanzanite": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Seemingly at every event in the city at once, LeBlanc is a ubiquitous presence throughout the strip—her unparalleled ability to shmooze matched only by her mysterious origins. There was a time when certain naysayers connected her to Crime City, but as they say… never cross Lady LeBlanc."
+  }
 }

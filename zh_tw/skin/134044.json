@@ -160,6 +160,56 @@
     }
   ],
   "description": "孩童們聽聞過失落靈魂的救世主的故事，那永恆隱世的「自由之靈」。其中一個故事講述了一個被樹根盤纏緊縛的漂泊幻靈。幻靈孤獨的掙扎著，直到星朵拉扯開緊固的束縛，就像她會為所有生物伸出的援手，以避免他們永遠迷失。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Night Blossom": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Children hear stories of the savior of lost souls, the ever-reclusive Spirit of Freedom. One such speaks of a tree that wrapped its roots around a wandering wisp. The wisp struggled alone—until Syndra ripped off the bindings that held it tight, as she would do for all creatures, lest they be lost forever. "
+  }
 }

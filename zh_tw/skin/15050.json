@@ -216,6 +216,66 @@
     }
   ],
   "description": "希維爾曾是《巨獸加里歐》故事中的英雄，但當新春歌舞團的成員打斷了她的最終之戰，她的神話世界就此永遠改變，她發現自己再也不是故事的主角了。若無法拯救世界，那她還能做什麼？這個問題困擾著她，讓她必須在這個結局突然成為未知數的故事當中，找出屬於自己的角色。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 15050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Gilded": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Paragon": {
+        "id": 71,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 56
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "West Studio"
+    ],
+    "lore": "Once the hero of “The Great Beast Galio”, Sivir's myth-world is forever changed when the Lunar Players interrupt her climactic battle, and she discovers that she is no longer the protagonist. Grappling with the question of who she is if she's not saving the day, Sivir must now carve out a role for herself in a tale whose future is suddenly unwritten."
+  }
 }

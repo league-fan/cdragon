@@ -44,6 +44,34 @@
     }
   ],
   "description": "Much to the annoyance of her team, Jinx is an impulsive and sometimes cynical Star Guardian who loves a good, glittery explosion. However, when the fighting starts, Jinx will throw herself into the battle to protect others, especially her childhood friend Lux.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2016-10-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2016-10-05",
+    "earlysale": "2017-04",
+    "set": [
+      "Star Guardian Season 1"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Much to the annoyance of her team, Jinx is an impulsive and sometimes cynical Star Guardian who loves a good, glittery explosion. However, when the fighting starts, Jinx will throw herself into the battle to protect others, especially her childhood friend Lux."
+  }
 }

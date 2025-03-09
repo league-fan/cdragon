@@ -128,6 +128,51 @@
     }
   ],
   "description": "この血はワシの血、このお菓子はワシのお菓子だ。誰の命令でここに来た？オバケの真似事なんぞしおって！ワシはドラキュレッド公侯伯子男爵様だぞ、ワシの土地でお菓子だイタズラだと抜かす者どもには礼儀というものを教えてやる！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240002,
+    "formatname": "Count Kledula",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "This blood is MY blood. This candy is MY candy. Who sent you here?! You're not real ghosts! I'm Count Baron Double-Marquis Lord Duke Kledula… AND I'LL TEACH YOU NOT TO TRICK-OR-TREAT ON MY LAND!"
+  }
 }

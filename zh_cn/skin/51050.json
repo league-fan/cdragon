@@ -58,6 +58,32 @@
     }
   ],
   "description": "在复仇欲望的驱使下，凯特琳的原则已经崩塌。随着她与祖安之间的紧张关系持续升级，她的心里早已容不下希望与和平。她一心只想将金克丝绳之以法。但在悲伤与负罪感的背后，她的内心却开始涌起疑虑：为了报仇而付出的代价，真的值得吗？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Driven by a newfound desire for revenge, Caitlyn's principles have crumbled, leaving no room for hope or peace as tensions with Zaun continue to escalate. Her single-minded focus is on bringing Jinx to justice. But beneath the grief and guilt, doubt begins to creep in: is the cost of vengeance truly worth it?"
+  }
 }

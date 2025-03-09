@@ -120,6 +120,51 @@
     }
   ],
   "description": "핏빛달을 숭배하는 모든 사제가 그렇듯, 명예로운 사제 카타리나 역시 악마의 육신과 하나가 되었습니다. 그러나 핏빛달의 강림으로 악마와 인간의 본성이 변질되었으며, 카타리나는 더욱 새롭고 어두운 형상으로 초월하기 시작했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "An honored priestess of the Blood Moon cult, merged with the flesh of her demon as all priestesses are fated to be. Yet the descent of the Blood Moon has changed the nature of demons and humankind, and Katarina has begun her ascent into a newer, darker form."
+  }
 }

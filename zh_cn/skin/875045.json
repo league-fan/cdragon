@@ -169,6 +169,60 @@
     }
   ],
   "description": "这位战士来这里是为了证明拳头可以成为一切的答案！也就是说，假定一切的问题是“一个人如何赢得历史上最多的本地锦标赛？”他这样做不仅仅是为了看起来不错——尽管这也是一个不错的奖励——而是为了跻身为斗魂传奇人物，让他的妈妈感到骄傲。有请瑟——提！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 52
+      },
+      "Citrine": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Limitless": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Meteorite": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "This fighter is here to prove that fists CAN be the answer to everything! That is, assuming the question of everything is \"how does one person win the most local tourneys in recorded history?\" And he's not just doing it to look good—though that is a nice bonus—he's rising up the ranks to soul fightin' legend to make his momma proud. It's Sssssett!"
+  }
 }

@@ -160,6 +160,59 @@
     }
   ],
   "description": "来。离开你的肉身，进入灵界。只带上你的欲望，你的恶习，你的痛苦回忆。让爱之灵食用这些不想要的邪念，用来填充她的辘辘饥肠。伊芙琳最终会让你平静下来。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Night Blossom": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "Come. Leave your flesh behind and pass into the Spirit World. Bring with you only your desires, your vices, your painful memories. Let the Spirit of Love feed on these unwanted temptations, for her hunger is ravenous. Evelynn will show you peace at last."
+  }
 }

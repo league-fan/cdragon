@@ -48,6 +48,33 @@
     }
   ],
   "description": "별과 별 사이에 존재하며 수만 가지 섬뜩한 생각을 품고 있는 존재 바루스는 우주 깊숙한 곳에서 탄생해 모든 것을 삼켜버리는 무시무시한 블랙홀, 암흑의 별을 섬깁니다. 바루스가 나타나면 마치 이 땅에 아무것도 존재하지 않았던 것처럼 모든 행성계가 사라지는 격변의 소멸이 발생합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-06-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-06-15",
+    "earlysale": "2016-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "An interstellar titan containing multitudes within his eldritch mind, Varus serves the all-consuming Dark Star, a dread singularity born in the darkness of deep space. His arrival is a cataclysmic extinction event, erasing entire planetary systems as if they were never there."
+  }
 }

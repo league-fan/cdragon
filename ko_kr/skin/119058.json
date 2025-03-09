@@ -133,6 +133,56 @@
     }
   ],
   "description": "''의식의 주인, 최고의 주최자, 도끼로 검투장을 제패한 사나이... 드레이이이이이이븐!'' 관중이 드레이븐의 입장에 열광하며 우레와 같은 갈채를 보냅니다. 드레이븐에게 숭배란 질리지 않는 즐거움이며, 본인이 중심이 되는 공연은 감미로운 음악과도 같습니다. 뭐, 다리우스도 찬양을 받고 있긴 하지만요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119058,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-03-05",
+    "set": [
+      "Grand Reckoning"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Paragon": {
+        "id": 67,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 63
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "“The master of ceremonies, the host with the most, the axe-spinning icon of the arena himself... DRRRRRRRRRRRRRRRAVEN!” The crowd goes wild for his entrance, bursting into raucous applause. Adoration never gets old—and a show where he takes center stage is music to Draven's ears. Oh, and Darius is being celebrated too."
+  }
 }

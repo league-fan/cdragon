@@ -216,6 +216,68 @@
     }
   ],
   "description": "용 사냥꾼들이 오랜 숙적과 처음 맞서 싸운 건 수백 년 전이었습니다. 용과의 전쟁에서 승리한 후 오랫동안 그들의 땅에는 평화가 흘렀습니다. 용들이 다시 돌아왔을 때 예전의 용사들은 거의 다 죽고 남아있지 않았습니다. 그래서 브라움은 무고한 이들을 지키기 위해 강력한 방패 하나만 든 채 용과의 전쟁에 나서게 되었습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-05-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-05-11",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Fan Pass": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Fan Pass Missions"
+      },
+      "LCS": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LEC": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LPL": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "Obsidian": {
+        "id": 5
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent."
+  }
 }

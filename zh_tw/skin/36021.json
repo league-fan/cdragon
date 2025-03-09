@@ -137,6 +137,54 @@
     }
   ],
   "description": "蒙多是抽象藝術的天才，還取得了美術博士的學位。他粗魯狂野的手指畫讓他在藝術界頗負盛名，因為他的作品用十分深奧的手法展現了人類與怪物之間的關係。他自己不知道這是什麼意思，但大家喜歡他的作品他就很開心了！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 25
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An abstract genius of the highest caliber with a doctorate in fine art, Mundo's reckless and wild finger painting has earned him a lot of respect in the artistic community for its high-concept analysis of the monster/human condition. (Mundo isn't sure what that means; he's just happy that people like his work!)"
+  }
 }

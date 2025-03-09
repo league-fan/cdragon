@@ -148,6 +148,57 @@
     }
   ],
   "description": "傳說卡莎碧雅是一位美麗的公主，在她姊姊發動政變的時候，她便消失在群山之中，再也沒有回來。她的絕世容貌就跟她的狡猾一樣遠近馳名，人們甚至建造了一座神廟來紀念這位「誘惑之靈」，而她的故事也就這樣流傳於民間。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 69009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Night Blossom": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Rumored to have once been a beautiful princess, legend says Cassiopeia vanished into the mountains when her sister staged a coup, never to return. So great was her beauty, and so renowned her cunning, that a shrine was built to honor this 'spirit of temptation', until her story was accepted into popular folklore."
+  }
 }

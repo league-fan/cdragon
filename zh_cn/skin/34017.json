@@ -149,6 +149,55 @@
     }
   ],
   "description": "艾尼维亚是一个庄严且真正古老的存在，她扇动着的能量，给了整个宇宙以诞生。她已经开始用墙来围住她的造物们，因为她害怕一个古老的、金色的仇敌归来，而这个仇敌，早已被她的同族们遗忘……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Rainbow": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "A regal and truly ancient being, whose swirling energies give birth to entire galaxies. She has begun to wall off her creations, fearing the return of an ancient, golden foe that her kind has long sought to forget…"
+  }
 }

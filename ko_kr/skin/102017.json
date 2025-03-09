@@ -138,6 +138,54 @@
     }
   ],
   "description": "백 년 동안 샘솟는 용기의 학파 정원을 보살핀 용 쉬바나는 익사할 뻔한 문하생의 아들 중 한 명을 구한 뒤 수련을 허락받았습니다. 인간으로 변신한 쉬바나는 익숙지 않은 몸으로 지내는 불편함을 기껍게 받아들였습니다. 소라카와 달리, 쉬바나는 자기 정체성에 확신이 있습니다. 최강의 불멸 학파를 지키는 수호자라는 정체성을 말이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 102017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "For 100 years, the dragon Shyvana watched over the Sprouting Courage School's gardens, but after saving one of the monk's sons from drowning, she was allowed to train. Transforming into a human, she enjoyed the challenge this new form would bring. Unlike Soraka, Shyvana has no doubt about who she is: a protector of the strongest school of immortality."
+  }
 }

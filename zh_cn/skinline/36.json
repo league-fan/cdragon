@@ -8,104 +8,503 @@
       "name": "未来战士 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4011,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Pulsefire"
+        ],
+        "cost": 1350,
+        "release": "2018-05-17",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Chrono": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          }
+        },
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…"
+      }
     },
     {
       "id": 51011,
       "name": "未来战士 凯特琳",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2017-05-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 51011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2017-05-24",
+        "earlysale": "2017-11",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Chrono": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          }
+        },
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+      }
     },
     {
       "id": 80016,
       "name": "未来战士 潘森",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 80016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Aquamarine": {
+            "id": 19
+          },
+          "Chrono": {
+            "id": 22,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Zhong Yang",
+          "Kudos Productions"
+        ],
+        "lore": "The sole survivor from a timeline devoured by Praetorians, Pantheon refused to succumb when the marauders ran him through and left him for dead. He now dons the Pulsefire suit to hunt down those who would dare risk creating the anomalies that unleash the robotic hordes upon time and space."
+      }
     },
     {
       "id": 81005,
       "name": "未来战士 伊泽瑞尔",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "3250",
-      "wikiReleaseDate": "2012-06-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2012-06-29",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Pulsefire Ezreal",
+        "forms": [
+          "Level 01",
+          "Level 06",
+          "Level 11",
+          "Level 16"
+        ],
+        "chromas": {
+          "Level 06": {
+            "id": 5
+          },
+          "Level 11": {
+            "id": 5
+          },
+          "Level 16": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman",
+          "Christine Brynn Khalil"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly."
+      }
     },
     {
       "id": 92018,
       "name": "未来战士 锐雯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92018,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Pulsefire"
+        ],
+        "cost": 1350,
+        "release": "2018-05-17",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Chrono": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A worshipper of temporal purity, Riven knows there are many others who would rather see time manipulated in their favor. These heretics give her blade purpose—she can only find true solace in eliminating all who would disturb the natural order."
+      }
     },
     {
       "id": 98015,
       "name": "未来战士 慎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 98015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-05-17",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Chrono": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          }
+        },
+        "voiceactor": [
+          "Keith Silverstein"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Over the millennia, Shen has been called many names: warlord, trespasser, conqueror. Even so, his mission to build an army for the ages seems never-ending. Seeking only the smartest and the strongest to join his ranks, he remains untroubled by emotion, casting his timeless gaze over those with hidden potential."
+      }
     },
     {
       "id": 114041,
       "name": "未来战士 菲奥娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 114041,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 46
+          },
+          "Chrono": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          },
+          "Citrine": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Fiora joined the Chrono-Enforcers at a young age under the tutelage of her father. When a conflict with a temporal fugitive left him disgraced, her future was thrown into doubt, but Fiora endured. Now, despite having reclaimed her family's reputation, and forged herself into an utter paragon of the Chrono-Enforcers, recent revelations have cast her into doubt once more, but this time about the Remembrancer's true purpose..."
+      }
     },
     {
       "id": 236018,
       "name": "未来战士 卢锡安",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 236018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Productions"
+        ],
+        "lore": "A dedicated chrono-enforcer, Lucian joined the Remembrancers when he lost his wife, Senna, in an errant Praetorian attack. Now, he searches for her while bringing justice to the reckless time travelers who would cavalierly tear holes in space-time."
+      }
     },
     {
       "id": 236019,
       "name": "至臻 未来战士 卢锡安",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 236019,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 18,
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "Through his work in bringing their opponents to justice, Lucian earned the personal attention and gratitude of Thresh, leader of the Remembrancers. Armed with special modifications to his Pulsefire suit, Lucian embarks on his relentless pursuit across timelines. Through it all, however, he can't shake the feeling that this upgrade isn't all it seems..."
+      }
     },
     {
       "id": 245028,
       "name": "未来战士 艾克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 245028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 32
+          },
+          "Chrono": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          },
+          "Citrine": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Antony Del Rio"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A time fugitive who built his Pulsefire suit from scratch, Ekko improved on the Remembrancers' technology, crafting a modified Chronobreak device that allows him to make short temporal jumps, create time breaks within a singular timeline, and to collapse them all into a single, anomaly-free singularity."
+      }
     },
     {
       "id": 412013,
       "name": "未来战士 锤石",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-11-21",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "As head of the Remembrancers, Thresh usually remains behind the scenes pulling the chains of time rather than stepping into the stream himself. Yet recent events have caused him to leave his temporal citadel, bringing his pulsefire lantern to bear."
+      }
     },
     {
       "id": 412014,
       "name": "至臻 未来战士 锤石",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412014,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-11-21",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 13,
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Kudos Productions"
+        ],
+        "lore": "As paradoxes multiply and more rogue agents rebel against the grasp of the chrono-enforcers, Thresh, as commander of the Rembrancers, takes matters into his own hands. He must not yield control of time to these interlopers… nor to the growing Praetorian threat."
+      }
     },
     {
       "id": 412038,
       "name": "至臻 未来战士 锤石 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412038,
+        "formatname": "Prestige Pulsefire Thresh (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 14,
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Kudos Productions"
+        ],
+        "lore": "As paradoxes multiply and more rogue agents rebel against the grasp of the chrono-enforcers, Thresh, as commander of the Rembrancers, takes matters into his own hands. He must not yield control of time to these interlopers… nor to the growing Praetorian threat."
+      }
     }
   ]
 }

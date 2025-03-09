@@ -57,6 +57,33 @@
     }
   ],
   "description": "韦鲁斯是一个星际泰坦，他的古神意志内包含着大批人与物。他服侍于吞噬一切的暗星，一个诞生于深幽太空的黑暗中的恐惧奇点。他的到来既是一场天崩地裂的灭绝事件，会将整个星系都抹除得如同它们没有存在过一样。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-06-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-06-15",
+    "earlysale": "2016-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "An interstellar titan containing multitudes within his eldritch mind, Varus serves the all-consuming Dark Star, a dread singularity born in the darkness of deep space. His arrival is a cataclysmic extinction event, erasing entire planetary systems as if they were never there."
+  }
 }

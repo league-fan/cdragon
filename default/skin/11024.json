@@ -132,6 +132,54 @@
     }
   ],
   "description": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence."
+  }
 }

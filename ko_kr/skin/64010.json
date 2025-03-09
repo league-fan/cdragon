@@ -24,6 +24,26 @@
     }
   ],
   "description": "한때 지하 격투장에서 이름을 날린 무자비한 싸움꾼 'K.O. 펀치' 리 신은 더 나은 삶을 찾아 잔혹한 격투장을 떠나 현재 돈 많은 범죄 조직 두목들의 “해결사”로 활동하고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-05-31",
+    "earlysale": "2016-01",
+    "set": [
+      "Crime City"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "'Knockout' Lee Sin is a brutal pit fighter, who made his name in the underground circuit, before leaving the bloody sport for greener, more criminal pastures. He currently sells his services as a “problem-solver” to a select group of monied kingpins."
+  }
 }

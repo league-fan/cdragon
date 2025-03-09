@@ -8,144 +8,626 @@
       "name": "K/DA 이블린",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28006,
+        "formatname": "K/DA Evelynn",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "No one is as deliciously volatile as Evelynn. She's a diva who drives divisiveness in the media—they love her one day and hate her the next, her name a permanent fixture of tabloid headlines. She is a born superstar, and the foundation of K/DA's sound."
+      }
     },
     {
       "id": 28007,
       "name": "프레스티지 K/DA 이블린",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28007,
+        "formatname": "Prestige K/DA Evelynn",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-04-18",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 6,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now."
+      }
     },
     {
       "id": 28015,
       "name": "K/DA ALL OUT 이블린",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28015,
+        "formatname": "K/DA ALL OUT Evelynn",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "BADDEST": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "With a single devastating glance, Evelynn can ensure that all eyes are on her—when she wants them to be. K/DA's success has ensured that this provocative diva's name will be on everyone's lips, but Evelynn is intent that her killer fashion sense will keep it there."
+      }
     },
     {
       "id": 28031,
       "name": "프레스티지 K/DA 이블린 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28031,
+        "formatname": "Prestige K/DA Evelynn (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "With that wild in her veins, K/DA Evelynn stomps into the spotlight, shimmering in a custom golden outfit from the Pop Music Awards. Only 'winning, winning' now."
+      }
     },
     {
       "id": 84009,
       "name": "K/DA 아칼리",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84009,
+        "formatname": "K/DA Akali",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Akali's street aesthetic and hard-hitting lyrics inspired a dedicated fandom. She wields a microphone or kama as a hip-hop ninja, revolutionizing the stale scene with her raw talents."
+      }
     },
     {
       "id": 84013,
       "name": "프레스티지 K/DA 아칼리",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84013,
+        "formatname": "Prestige K/DA Akali",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2018-12-06",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 9,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "K/DA Akali is on fire right now, spitting rap solos at the Pop Music Awards—and her prestigious costume is exactly what you'd expect from the new golden child of pop."
+      }
     },
     {
       "id": 84032,
       "name": "K/DA ALL OUT 아칼리",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84032,
+        "formatname": "K/DA ALL OUT Akali",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "BADDEST": {
+            "id": 47,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Catseye": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Peridot": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 44
+          },
+          "Tanzanite": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fresh off her success with True Damage, Akali hits the stage full-throttle with her bold edge and fresh new direction. She spits fire with a mic in hand and pushes the band to the bleeding edge, because that's what the baddest do."
+      }
     },
     {
       "id": 84060,
       "name": "프레스티지 K/DA 아칼리 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84060,
+        "formatname": "Prestige K/DA Akali (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 13,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "K/DA Akali is on fire right now, spitting rap solos at the Pop Music Awards—and her prestigious costume is exactly what you'd expect from the new golden child of pop."
+      }
     },
     {
       "id": 103015,
       "name": "K/DA 아리",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103015,
+        "formatname": "K/DA Ahri",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Ahri-versary": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Setting her old bubblegum pop persona aside, Ahri was determined to shake up her image and reinvent herself as an unstoppable force within the music industry. Five years later, she has returned with a sleek new look and a killer sound—and this time she's not alone."
+      }
     },
     {
       "id": 103016,
       "name": "프레스티지 K/DA 아리",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-03-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103016,
+        "formatname": "Prestige K/DA Ahri",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-03-07",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Decked out to dazzle, K/DA Ahri charms her audience in a glittering, golden ensemble specially made for her band's 2019 Pop Shine Awards performance. Her Prestige Edition outfit celebrates the golden success of POP/STARS. Can you feel the rush now?"
+      }
     },
     {
       "id": 103028,
       "name": "K/DA ALL OUT 아리",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103028,
+        "formatname": "K/DA ALL OUT Ahri",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 40
+          },
+          "Ahri-versary": {
+            "id": 63
+          },
+          "Aquamarine": {
+            "id": 38
+          },
+          "BADDEST": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Pearl": {
+            "id": 39
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "When Ahri steps onto the stage to perform with K/DA, she knows she's surrounded by the best of the best—different women with different personalities, all at the top of their craft. As their leader and as their friend, Ahri is poised to guide these divas to even greater heights and leave their audiences breathless for more."
+      }
     },
     {
       "id": 103065,
       "name": "프레스티지 K/DA 아리 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103065,
+        "formatname": "Prestige K/DA Ahri (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 16,
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Decked out to dazzle, K/DA Ahri charms her audience in a glittering, golden ensemble specially made for her band's 2019 Pop Shine Awards performance. Her Prestige Edition outfit celebrates the golden success of POP/STARS. Can you feel the rush now?"
+      }
     },
     {
       "id": 145014,
       "name": "K/DA 카이사",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145014,
+        "formatname": "K/DA Kai'Sa",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A talent from abroad, Kai'Sa brings a unique style and sound to the industry. She learned to express herself through her craft, blossoming into one of the most talented dancers in the world—a perfect fit for the misfits of K/DA, where she takes their performances to the next level."
+      }
     },
     {
       "id": 145015,
       "name": "프레스티지 K/DA 카이사",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145015,
+        "formatname": "Prestige K/DA Kai'Sa",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2018-11-03",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 14,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fresh from her appearance at the annual Pop Music Awards, K/DA Kai'Sa is now wearing a prestigious all-gold costume—catching the eye of the entire world."
+      }
     },
     {
       "id": 145026,
       "name": "K/DA ALL OUT 카이사",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145026,
+        "formatname": "K/DA ALL OUT Kai'Sa",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "BADDEST": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "After showcasing her flawless dance techniques world-wide, Kai'sa is ready to apply her legendary discipline and focus to all aspects of her life as a performing artist. She's still not sure who she'll be when she steps forward to shine as herself, but she's looking forward to the challenge of finding out."
+      }
     },
     {
       "id": 145027,
       "name": "프레스티지 K/DA ALL OUT 카이사",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145027,
+        "formatname": "Prestige K/DA ALL OUT Kai'Sa",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 26,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "When Kai'Sa wanted a red carpet outfit to match her growing confidence in her artistry, she sought Evelynn's advice. With sharp tailoring and embellishments that match her excellence in execution, Kai'Sa's ready to shine on and off the stage."
+      }
     },
     {
       "id": 145039,
       "name": "프레스티지 K/DA 카이사 (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145039,
+        "formatname": "Prestige K/DA Kai'Sa (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fresh from her appearance at the annual Pop Music Awards, K/DA Kai'Sa is now wearing a prestigious all-gold costume—catching the eye of the entire world."
+      }
     },
     {
       "id": 147001,
       "name": "K/DA ALL OUT 세라핀 인디",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "3250",
-      "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 147001,
+        "formatname": "K/DA ALL OUT Seraphine Indie",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "With a stunning voice and a sunny disposition, Seraphine has big dreams about her music and what she can offer the world. She knows that someday, if she just keeps trying, she'll make her beloved cat Bao proud."
+      }
     }
   ]
 }

@@ -159,6 +159,61 @@
     }
   ],
   "description": "婕拉曾经是格雷福斯的一位长期同伙，也是一个技艺娴熟的诈欺师，但对低端地下生活的单调感到不满。为了找到一条出路，婕拉与来自“超界”的第四维度恐怖之物融合在一起。她现在遵从一种异界力量的法令，撕扯着大地中的灵泥脉络并将她的敌人四分五裂。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 29
+      },
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Peridot": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Underground": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Svetlana Tigai",
+      "West Studio"
+    ],
+    "lore": "Zyra was once a longtime associate of Graves and a skilled con artist, but grew dissatisfied with the monotony of a low-end criminal lifestyle. Seeing a way out, Zyra merged with the 4th-dimensional horrors from Beyond. She now follows the edicts of an alien power, ripping veins of sentient sludge from the earth and rending her enemies asunder."
+  }
 }

@@ -137,6 +137,55 @@
     }
   ],
   "description": "やさしさあふれる愛情と、刺激あふれる砂糖のスプーン<br>理想のステキな母親が、あれやこれやと子供に与える<br>そんなものはつまらんと、彼女は罪なる美徳を示す<br>闇を愛する子もいると、マザー・グラスクは助言を示す",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 888010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Debra Wilson"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Tender loving care and spoons of sugar spice<br>And all the other things that make a mommy nice<br>It choked her throat and lungs and showed her virtue's vice<br>Some chosen children love the dark, that's Mother Glasc's advice!"
+  }
 }

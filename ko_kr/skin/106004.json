@@ -24,6 +24,19 @@
     }
   ],
   "description": "수년간 경찰로 복무해 온 볼리베어는 명예로운 경위 자리에 올랐지만, 현장 임무에는 전혀 소질이 없어 앞으로 계속 사무 업무만 처리할 운명에 처했습니다. 그럼에도 불구하고 볼리베어 경위와 트런들 순경은 산더미 같은 서류를 뒤로 한 채 항상 거리를 순찰하곤 합니다.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-11-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-11-28",
+    "neweffects": true,
+    "set": [
+      "Cops and Robbers"
+    ],
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "lore": "For Volibear's years of service on the Force, he was awarded the honorary title of Captain. For his utter incompetence in the field, it was made certain he would remain on desk duty for the rest of his career. Even so, he and Constable Trundle always end up patrolling the streets with mountains of paperwork left in their wake."
+  }
 }

@@ -24,6 +24,25 @@
     }
   ],
   "description": "가끔 혼자 있는 밤이면 하이머딩거는 곰곰이 사색에 잠깁니다. '내 머리는 왜 이렇게 커다랗지? 자운의 잿빛 대기에 노출된 탓일까?' 생각이 꼬리에 꼬리를 물다 지친 하이머딩거는 결국 커다란 머릴 커다란 베개에 뉘고 잠을 청하죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-07-13",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "splashartist": [
+      "Suke 'hugehugesword' Su"
+    ],
+    "lore": "Sometimes, when he's alone at night, Heimerdinger wonders if the reason his head is so big is all that exposure to Zaun Grey. Then he gets tired, and rests his giant head against an equally giant pillow."
+  }
 }

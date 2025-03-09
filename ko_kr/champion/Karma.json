@@ -13,120 +13,618 @@
       "name": "카르마",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2011-02-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2011-02-01",
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can comprehend. She has done her best to guide her people in recent times of crisis, though she knows that peace and harmony may come only at a considerable cost—both to her, and to the land she holds most dear."
+      }
     },
     {
       "id": 43001,
       "name": "태양의 여신 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-02-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-02-01",
+        "retired": "2015-08-29",
+        "set": [
+          "Worldbreaker"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Andrew Theophilopoulos"
+        ],
+        "lore": "An ageless being in whom the sun rises and sets, Karma is the key to an ancient prophecy spelling doom for the world. When she is overtaken by the moon, four titans will rise up from the depths of the earth, annihilating all life."
+      }
     },
     {
       "id": 43002,
       "name": "사쿠라 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-02-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-01",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart",
+          "Jem Flores"
+        ]
+      }
     },
     {
       "id": 43003,
       "name": "(구) 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-03-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-29",
+        "set": [
+          "Traditional"
+        ],
+        "neweffects": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Danielle McRae"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Created to capture the original feel of Karma, one of our first fully reworked champions."
+      }
     },
     {
       "id": 43004,
       "name": "연꽃 수도회 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-10-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-01",
+        "set": [
+          "Order of the Lotus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Aleksandr Nikonov"
+        ]
+      }
     },
     {
       "id": 43005,
       "name": "심판자 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-09-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-09-30",
+        "earlysale": "2016-04",
+        "set": [
+          "Warden"
+        ],
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "The Protectorate was an order dedicated to enforcing a rigid, unforgiving system of laws, in an attempt to slow the seemingly inevitable rise of the Magelords. Though the order itself was disbanded long ago, Wardens such as Karma still uphold its tenets… and guard its many secrets."
+      }
     },
     {
       "id": 43006,
       "name": "겨울 동화 카르마",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-12-14",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "A powerful sorceress at one with the natural world, Karma spreads snow like a soft blanket across the enchanted forests of the Winterlands. A loyal friend of the Poro King—wherever Karma goes, winter follows."
+      }
     },
     {
       "id": 43007,
       "name": "정복자 카르마",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2017-04-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-04-23",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Commemorating the 2017 Mid-Season Invitational in Brazil."
+      }
     },
     {
       "id": 43008,
       "name": "암흑의 별 카르마",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 11
+          },
+          "Meteorite": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Peridot": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Karma was a galaxy-spanning civilization dedicated to pacifism and personal enlightenment, unceremoniously erased from reality and reborn as a star-consuming horror. Devouring entire galactic systems, she enforces a dread order upon the cosmos, meditating in the vast oceans of emptiness where once there were stars."
+      }
     },
     {
       "id": 43019,
       "name": "빛의 인도자 카르마",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43019,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "100 Mythic Essence",
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Catseye": {
+            "id": 21,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Paragon": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Peridot": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 25,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Dawnbringer Karma Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world."
+      }
     },
     {
       "id": 43026,
       "name": "오디세이 카르마",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-15",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 31
+          },
+          "Citrine": {
+            "id": 29
+          },
+          "Merc": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Peridot": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Productions"
+        ],
+        "lore": "A High Priestess of the Templar Order, Karma has hired a group of offworld mercenaries to free a number of captured templars from the grip of Aatrox, an infamous and powerful crime lord. She has taken a more interventionist stance towards the rest of the universe following the loss and transformation of her former lover, Zed."
+      }
     },
     {
       "id": 43027,
       "name": "몰락한 카르마",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-21",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 37
+          },
+          "Cursed": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Tanzanite": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Surviving the initial ruination of Ionia, Karma is ultimately lost during a second one led by Viego himself. With the Spirit of Ionia itself removed from the continent, the Ionian people must band together to save one another, even as Karma twists the souls of millions to a new, horrific purpose."
+      }
     },
     {
       "id": 43044,
       "name": "평온용 카르마",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 50
+          },
+          "Aquamarine": {
+            "id": 46
+          },
+          "Catseye": {
+            "id": 49
+          },
+          "Emberclaw": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 47,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Yuhong Ding",
+          "West Studio"
+        ],
+        "lore": "As Brand's corruption spread, Karma sought the power to restore peace. When her desperate search throughout the land failed, Karma was left with nowhere left to look but within. After months of quiet contemplation, the fabled Tranquility Dragon greeted her in a vision. She awoke with the dragon's gift, the power to bring tranquil peace to face Brand's raging violence."
+      }
     },
     {
       "id": 43054,
       "name": "요정 여왕 카르마",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43054,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 56
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Winsome": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Faerie Court 2023"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "All hail Her Majesty, Karma, Queen of the Seelie Court of Light and Beauty! Though her selection and subsequent rise to the throne was a surprise to everyone (nobles, laymen, even Karma herself), she is a beacon of poise and power, overseeing the turning of seasons and keeping the balance between the ever-bickering seasonal sub-courts. Long live the Queen!"
+      }
     },
     {
       "id": 43061,
       "name": "지옥의 카르마",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43061,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-30",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 68
+          },
+          "Aquamarine": {
+            "id": 64
+          },
+          "Catseye": {
+            "id": 63
+          },
+          "Pearl": {
+            "id": 69
+          },
+          "Peridot": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 66
+          },
+          "Ruby": {
+            "id": 62,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 67
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Possessed by a spirit of the Infernal flame, Karma was once a powerful pyromancer of the Shadowfire Temple. Believing it possible to control the flame spirit, she captured it hoping to put an end to the Ashen Lord's reign but succumbed to the hellfire like all the rest."
+      }
     }
   ]
 }

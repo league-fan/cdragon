@@ -49,6 +49,32 @@
     }
   ],
   "description": "지하도시는 더 깊은 타락으로 빠져들었지만 자운의 많은 이가 밴더를 애도했습니다. 밴더가 살아 있다는 것, 시머로 뒤틀린 밴더의 몸이 신지드의 연구실 깊숙한 곳에 숨겨져 있다는 것은 누구도 알지 못했죠. 원초적 분노에 고통받는 야수로 되살아난 괴물 워윅은 세상에 풀려났습니다. 하지만 아직 인간성이 조금이나마 남아 있다면... 밴더를 구할 수 있을까요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19056,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "Many in Zaun mourned Vander, even as the undercity fell deeper into corruption. No one could have ever known that he still lived, his shimmer-twisted body hidden deep within Singed's lab. Revived as a tormented beast of primal rage, the monster Warwick was unleashed on the world. But if a fragment of his humanity still lives... can Vander be saved?"
+  }
 }

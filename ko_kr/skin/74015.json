@@ -147,6 +147,57 @@
     }
   ],
   "description": "정밀한 설계와 최고급 건설 도구를 사용한 하이머딩거의 다음 모래성은 지금까지 본 적 없는 최고의 걸작이 될 것입니다! 물론 신드라가 또다시 그 위로 뛰어내리지 않는다면요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Aquamarine": {
+        "id": 19
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 20,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Rainbow": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Through the combination of precise schematics and top-of-the-line construction tools, Heimerdinger's next sand castle creation will be his grandest iteration yet! Assuming Syndra doesn't land on it again…"
+  }
 }

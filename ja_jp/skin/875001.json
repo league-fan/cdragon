@@ -119,6 +119,52 @@
     }
   ],
   "description": "外れの土地で生き延びてきた無名の未開人であるセトは、自身の拳には偉大な才能が秘められていると気付いていた。荒々しい闘技場で富と名声を築いた彼は、「残忍な狼」という称号とともに新たな人格を作り出した。リヴァイアサンの侵略を耳にしたとき、彼は名声と富を使って独自のアヴァロンを手に入れた。魅了された観衆の前で、自身の力をはっきりとに証明してみせるために。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-14",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 2
+      },
+      "Peacekeeper": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 3
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience."
+  }
 }

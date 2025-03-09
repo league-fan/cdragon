@@ -13,112 +13,526 @@
       "name": "트위치",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2009-04-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-04-30",
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he’s not rooting around in the Sump, he’s digging deep into other people’s garbage for discarded treasures… and perhaps a moldy sandwich."
+      }
     },
     {
       "id": 29001,
       "name": "형님 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2011-11-28",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ],
+        "lore": "Many in Bilgewater get called a filthy rat, but none deserve the title more than the Kingpin himself. While other crime bosses in the port city may loathe to get their hands dirty, Twitch revels in wading into the filth himself—crossbow in hand, and a finely aged egg in his pocket."
+      }
     },
     {
       "id": 29002,
       "name": "평창 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-12",
+        "set": [
+          "Winter Sports"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Max Grecke"
+        ],
+        "lore": "Whistler Village is an idyllic mountain hamlet known for spiced cocoa, competitive winter sports, and rumors of an insane man-rat living in the woods. Attempts to appease the creature with spiced cocoa and competitive winter sports have been unsuccessful."
+      }
     },
     {
       "id": 29003,
       "name": "중세 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-12-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29003,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Honor Capsule",
+        "release": "2009-12-15",
+        "set": [
+          "Medieval"
+        ],
+        "chromas": {
+          "Sapphire": {
+            "id": 21,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2019 Honor 5 Tokens"
+          },
+          "Amethyst": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020 Honor 5 Tokens"
+          },
+          "Obsidian": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2021 Honor 5 Tokens"
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "An assassin-for-hire living beneath Dread Fortress Zaun, Twitch is a disgusting malefactor who has tipped every one of his killing implements in moist, toxic garbage. He excitedly awaits each contract, eager to kill, steal, and destroy as much as he can."
+      }
     },
     {
       "id": 29004,
       "name": "범죄 도시 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-10-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-13",
+        "set": [
+          "Crime City"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ],
+        "lore": "Deeply violent and severely paranoid, Twitch runs one of the largest crime syndicates in the nation. His orders are carried out by a literal army of rat-men, the only creatures he even comes close to trusting."
+      }
     },
     {
       "id": 29005,
       "name": "파괴단 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-02-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-02-22",
+        "retired": "2014-12-02",
+        "set": [
+          "Vandal"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Kan Liu"
+        ],
+        "lore": "An irradiated humanoid rat with an appetite for wanton collateral damage, Twitch is the number one provider of putrefied nuclear slime grenades to unsuspecting settlements everywhere. Equal parts audacious and paranoid, it is nearly impossible to stop his reckless rampages."
+      }
     },
     {
       "id": 29006,
       "name": "소매치기 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-11-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "voiceactor": [
+          "Doug Boyd"
+        ]
+      }
     },
     {
       "id": 29007,
       "name": "삼성 화이트 트위치",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-05-13",
+        "set": [
+          "World Champions: 2014"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring imp's winning performance as Twitch during the 2014 World Championship."
+      }
     },
     {
       "id": 29008,
       "name": "오메가 분대 트위치",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-07-26",
+        "earlysale": "2018-01",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Sandstone": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage “do no harm.”"
+      }
     },
     {
       "id": 29012,
       "name": "빙하의 제왕 트위치",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29012,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 14
+          },
+          "Rainbow": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse."
+      }
     },
     {
       "id": 29027,
       "name": "그림자 도적 트위치",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29027,
+        "formatname": "Twitch Shadowfoot",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-19",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 28
+          },
+          "Amethyst": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'."
+      }
     },
     {
       "id": 29036,
       "name": "용 사냥꾼 트위치",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-15",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A lesser dragon who has learned to blend in among humans… poorly. Twitch worships the true dragons and plans to one day become one himself, though he isn't sure how just yet."
+      }
     },
     {
       "id": 29045,
       "name": "하이 눈 트위치",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-26",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 47
+          },
+          "Nomad": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "High Noon 2022"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 49
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Park Jun Seong",
+          "West Studio"
+        ],
+        "lore": "It starts like this: An ill wind blows across the desert, dessicated rats turn up in the streets, rotting under the hot sun. Then the traveling undertaker arrives. No one knows who (or what) he is, nor where he hails from… But it seems even Death has a bone to pick with the King of the Sulfur Rail. Another Harbinger arrives."
+      }
     },
     {
       "id": 29055,
       "name": "치즈 대장 트위치",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-03",
+        "set": [
+          "Food Fight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Berry Cake": {
+            "id": 59
+          },
+          "Bleu": {
+            "id": 57
+          },
+          "Cheddar": {
+            "id": 58
+          },
+          "Cheesecake": {
+            "id": 61
+          },
+          "Chocolate Pie": {
+            "id": 62
+          },
+          "Matcha Cake": {
+            "id": 60
+          },
+          "Rainbow Cake": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 56,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "During a daring heist at the local cheesery, Twitch dove headfirst into a wedge of aged Swiss and was trapped. He escaped, but with his head encased! Over time food and rat became one, and Twitch now revels in his role as the \"big cheese\" of the criminal underworld, proclaiming to all who question his dairy dominance: \"Brie-ware!"
+      }
     }
   ]
 }

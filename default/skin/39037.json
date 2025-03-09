@@ -147,6 +147,51 @@
     }
   ],
   "description": "Irelia was always a bystander in the story of “The Great Beast Galio”, watching from the sidelines each year as the story was told again and again… until the day that the Lunar Players crashed into their myth-world, and she found out that her story could change. Now it's time for Irelia to become the hero she wished she could be and write her own destiny. ",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 39037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 42
+      },
+      "Gilded": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Irelia was always a bystander in the story of “The Great Beast Galio”, watching from the sidelines each year as the story was told again and again… until the day that the Lunar Players crashed into their myth-world, and she found out that her story could change. Now it's time for Irelia to become the hero she wished she could be and write her own destiny. "
+  }
 }

@@ -78,6 +78,43 @@
     }
   ],
   "description": "作為生活在恐懼要塞佐恩之下的雇傭刺客，圖奇是一個令人厭惡的惡人。他在他的每一件殺人器具的頂部都焊上了濕潤、劇毒的廢料。他激動地等待著每份合約，渴望著能盡他所能地大開殺戒、偷竊和毀滅。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2009-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29003,
+    "availability": "Rare",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Honor Capsule",
+    "release": "2009-12-15",
+    "set": [
+      "Medieval"
+    ],
+    "chromas": {
+      "Sapphire": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2019 Honor 5 Tokens"
+      },
+      "Amethyst": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2020 Honor 5 Tokens"
+      },
+      "Obsidian": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2021 Honor 5 Tokens"
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "An assassin-for-hire living beneath Dread Fortress Zaun, Twitch is a disgusting malefactor who has tipped every one of his killing implements in moist, toxic garbage. He excitedly awaits each contract, eager to kill, steal, and destroy as much as he can."
+  }
 }

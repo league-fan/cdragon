@@ -137,6 +137,55 @@
     }
   ],
   "description": "誰說狗跟貓不能當好朋友？難道是幾百年來愛貓女士跟愛狗男士一直讓汪星人跟喵星人作對不成？哎，把這些刻板印象都拋諸腦後吧！犬類和貓科真的可以和平相處，你看汪靈和喵靈就是活生生的例子……雖然裁判無法判定牠們之中誰是「活著的」。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 203022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-06",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Granite": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Marcella Lentz-Pope",
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Who said dogs and cats can't be best friends? Cat ladies and golden retriever boyfriends pitting the two against each other for centuries? Eh, forget all that! Woof and Lamb are living proof that canines and felines CAN get along... though the judges are not actually sure either of them are \"alive\"."
+  }
 }

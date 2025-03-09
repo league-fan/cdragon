@@ -24,6 +24,26 @@
     }
   ],
   "description": "かつてハイエナは、群れで常軌を逸した笑い声を響かせて、残酷な接近戦を行う、機に乗じるハンターとして知られていた。現代の不毛の地でも、その習性は大して変わっていない。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-05",
+    "set": [
+      "Road Warrior"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "vu": true,
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Izzy Medrano"
+    ],
+    "lore": "In the old days, hyenas were known as opportunistic hunters famed for their violent infighting and chorus of inhuman laughter. Now, in the wasteland, not much has changed."
+  }
 }

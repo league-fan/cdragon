@@ -12,120 +12,563 @@
       "name": "Shaco",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2009-10-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-10-09",
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls he torments. He uses toys and simple tricks to deadly effect, finding the results of his bloody 'games' hilarious—and for those who hear a dark chuckle in the dead of night, the Demon Jester may have marked them as his next plaything."
+      }
     },
     {
       "id": 35001,
       "name": "Mad Hatter Shaco",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-08",
+        "set": [
+          "Storybook"
+        ],
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "lore": "“It's always tea time,” said Shaco, cleaning his knife. “You can't drink tea without a nice, clean knife.” No one else responded, of course, because they were dead—which Shaco much preferred."
+      }
     },
     {
       "id": 35002,
       "name": "Royal Shaco",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-09-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-12",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Adam Harrington"
+        ]
+      }
     },
     {
       "id": 35003,
       "name": "Nutcracko",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35003,
+        "formatname": "Nutcracko",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Wang Xun"
+        ],
+        "lore": "A terrifying, evil nutcracker from an unknown time and place, Nutcracko's nightmarish appearance and dagger-hurling boxes of death are a curse on Snowdown festivities. He wishes to eliminate all Santas, ushering in a new age of stale fruitcake and creepy wooden toys."
+      }
     },
     {
       "id": 35004,
       "name": "Workshop Shaco",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-03-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "neweffects": true,
+        "release": "2011-03-29",
+        "retired": "2012-03-19",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Wang Xun"
+        ]
+      }
     },
     {
       "id": 35005,
       "name": "Asylum Shaco",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-11-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-07",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ]
+      }
     },
     {
       "id": 35006,
       "name": "Masked Shaco",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-01-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-01-08",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A practitioner of masked dance drama, many of Shaco's performances begin as social commentary on the plight of the working class, and end with a random audience member being stabbed in the spine. It's a show worth seeing if you don't think about that last part."
+      }
     },
     {
       "id": 35007,
       "name": "Wild Card Shaco",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-05-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-05-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Highstakes"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Last is the Jester, the wiliest sort<br>Obscured and forgotten by time,<br>Yet always much nearer than one might expect,<br>Stalking, closely, behind."
+      }
     },
     {
       "id": 35008,
       "name": "Dark Star Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 10
+          },
+          "Emerald": {
+            "id": 11,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Shaco was once a region of space known for raucous celebration, wiped clean by the Dark Star and reborn into the mocking visage of a jester. His twisted cackling reaches inhabited systems long before he does, provoking visions of destruction, and societal breakdowns that will soon feed his endless hunger."
+      }
     },
     {
       "id": 35015,
       "name": "Arcanist Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-09",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 17
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Rainbow": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Vile warlock and wanted criminal, Shaco is a dangerous creature whose mind was shattered during experimental soul duplication rituals. At some point he came into possession of a rare and powerful book of spells, amplifying the threat of his monstrous arcane sorcery."
+      }
     },
     {
       "id": 35023,
       "name": "Crime City Nightmare Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-08-26",
+        "set": [
+          "Crime City Nightmare"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 27
+          },
+          "Catseye": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          },
+          "Underground": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Crime City 2021"
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Once a mere courier for the Twitch syndicate, Shaco is now barely human. The eldritch corruption has stripped him of reason and identity, turning him into a chittering horde of knife-wielding monsters that haunt the boroughs of Valoran City. None of them are sure which is the “real” Shaco anymore. None of them care."
+      }
     },
     {
       "id": 35033,
       "name": "Winterblessed Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-12-08",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 39
+          },
+          "Catseye": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 35
+          },
+          "Wreathguard": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Winterblessed 2022"
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "The Automaton Shaco felt nothing toward the quarreling leaders until Polaris snapped her fingers and ordered her “gifts” to corner the trio. “Winter is cruel,” she boomed, “and warmth is meant to be shared. Let this punishment serve as a warning.” In a flurry of snow, Polaris disappeared, leaving the Automaton and Beast to dispense her judgment."
+      }
     },
     {
       "id": 35043,
       "name": "Soul Fighter Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 51
+          },
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Limitless": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "I know very little about this fighter... and I've been told by our host to say EVEN LESS! (They've GOT to be friends... or mortal enemies?) His desires are hidden—just like his face—and his style in the ring remains to be seen! We just LOVE a mysterious and not-at-all creepy combatant, don't we, folks? Here he is... Shaaaaaaaacoooooo!"
+      }
     },
     {
       "id": 35044,
       "name": "Prestige Soul Fighter Shaco",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35044,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 43,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "Shaco is never predictable; his unique (and often terrifying) looks make him a hit with judges year after year. Now adorned in gold and ivory lace, Shaco claims to be making a statement about fast fashion and the constraints it puts on designers and models. Or maybe he just wants an excuse to show off his soul-power arms.  "
+      }
     },
     {
       "id": 35054,
       "name": "Fright Night Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35054,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-09-25",
+        "set": [
+          "Fright Night"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 56
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Ghoulish": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Obsidian": {
+            "id": 62
+          },
+          "Pearl": {
+            "id": 60
+          },
+          "Rose Quartz": {
+            "id": 58
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Tanzanite": {
+            "id": 61
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Cast beneath the floorboards with contraband and mold, confined within a simple toy, Shaco plotted worldwide doom. All he needed was a fool to spring him from his bindings and perform the ritual rites, but he should have known—never trust a Creepaway camper to get a ritual right!"
+      }
     }
   ]
 }

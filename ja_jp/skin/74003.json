@@ -24,6 +24,21 @@
     }
   ],
   "description": "ハイマーディンガーのサイドビジネス、それはこの町の悪名高きカスタムショップの共同オーナーである。たいていは金持ちやセレブの車にエンジンを追加したりファイヤーパターンのペイントを施しているが、機嫌のよい日には正真正銘のモンスターマシンを造ってくれる。もちろん有料でだが。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2010-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-11-22",
+    "set": [
+      "Piltover Customs"
+    ],
+    "neweffects": true,
+    "transforming": true,
+    "vu": true,
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "lore": "Heimerdinger moonlights as part owner of the city's most infamous customs dealer, where he generally adds an external engine and flame paint to vehicles of the rich and famous. Get him on a good day, though, and he'll build you a real monster—for a price."
+  }
 }

@@ -170,6 +170,63 @@
     }
   ],
   "description": "地獄へと続く道の多くは善意で造られたものだった。ドクター・ビクターは今でこそ「機械仕掛けの悪魔」の下で技術者として働いているが、彼の研究は元々、「死者の魂を“新たな宿り先”である機械仕掛けの体に収め、生命の限界を回避する」という善意の行いとして始まったものだった。恥ずべくも、モルデカイザーはこの良きドクターの善意につけ込み、彼には断ることのできない契約を結ばせた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 17,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Nomad": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 19
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Many a road to Hell was paved with good intent. Dr. Viktor may be the Mechanical Devil's kept engineer now, but his work began as charity: trying to “rehome” the souls of the dead in clockwork bodies, in order to circumvent mortality itself. Shame that Mordekaiser saw the good doctor's kindness and struck him a deal he could not deny."
+  }
 }

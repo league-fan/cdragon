@@ -25,6 +25,26 @@
     }
   ],
   "description": "破败之咒每捕获一个灵魂，锤石的灯笼就燃烧得更加明亮。 毕竟，他早已为这一刻制定了计划：趁机远离暗影岛去搜刮灵魂，黑雾的影响范围远比他自己的要大得多。在收获了所有精心播种的成果后， 锤石终于解除了暗影岛的封印。他已经忘了拥有皮肤的感觉有多好……",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2021-07-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2021-07-29",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "With every soul the Ruination seized, Thresh's lantern burned brighter. He had planned for this moment, after all: the chance to scour far beyond the Shadow Isles, the Mist's reach so much greater than his own. Reaping all he had so meticulously sown, Thresh was at last unbound from the shackles of the isles. He had forgotten how good it feels to have skin..."
+  }
 }

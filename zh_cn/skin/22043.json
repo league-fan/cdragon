@@ -146,6 +146,53 @@
     }
   ],
   "description": "艾希是炙手可热的服装公司“弗雷”的首席执行官。在北方总部不见天日地埋头工作一年后，她已经感到筋疲力尽。海之歌音乐节听起来是一个完美的机会，让她可以舒展筋骨，混进人潮，彻底沉醉于美妙的音乐中。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 49
+      },
+      "Tanzanite": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "As the CEO of the hot clothing company Frel, Ashe is dead tired after spending a year heads-down in work with little sun at her Northern headquarters. The Ocean Song Festival sounds like the perfect place for her to warm up, disappear into a crowd, and lose herself to some fabulous music."
+  }
 }

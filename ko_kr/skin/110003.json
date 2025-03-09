@@ -24,6 +24,23 @@
     }
   ],
   "description": "바루스는 성벽에서 뛰어내려 화살의 비를 쏟아내고, 적 아래의 땅을 얼어붙게 합니다. 진영을 가다듬으려 하는 적에게는 복잡한 전자 회로가 빛을 뿜어내는 미사일을 날려 보내죠. 바루스를 파견하기로 한 최고 사령부의 작전은 탁월했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-03-20",
+    "set": [
+      "Arctic Ops"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Varus leaps from the rampart, a hail of arrows flying from his bow and freezing the ground beneath his victims. As they struggle to regroup, he draws a missile—circuits flashing along its spine—and lets fly. Thanks for the archer, High Command!"
+  }
 }

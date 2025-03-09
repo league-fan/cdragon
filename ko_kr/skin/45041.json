@@ -138,6 +138,53 @@
     }
   ],
   "description": "베이가에게는 엄청난 계획이 있습니다. 엄청나게 큰 계획이요. 먼저 가장 어둡고 무서운 황무지에서 괴물을 찾아 군대를 결집합니다. 그리고 코어를 사용해 그 괴물과 유대감을 쌓고 그들의 힘을 증폭하죠. 그리고는 세계 정복!! 흠... 한 가지 단계가 빠진 것 같네요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-11",
+    "set": [
+      "Monster Tamers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Jasper": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Rainbow": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Veigar has big plans. BIG. First, he'll amass an army of monsters, preferably from the darkest, scariest corners of the land. Then he'll use the CORE to create a bond with said monsters and amplify their power. Then he'll take over the world!! Hmm... he might have missed a step."
+  }
 }

@@ -147,6 +147,54 @@
     }
   ],
   "description": "自我毁灭程度堪比其致命程度的地狱火奥拉夫热情十足地投身于地狱烈焰。他将自己的身体和灵魂都交给它，活着就是为了效力于灰烬领主，并将摧毁他道路上的一切。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 51
+      },
+      "Aquamarine": {
+        "id": 50
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 48,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rainbow": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 49
+      }
+    },
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "As self-destructive as he is deadly, Infernal Olaf fervidly embraced the Infernal flame. Giving himself over to it, body and soul, he lives to serve the Ashen Lord and will destroy anything and everything in his path."
+  }
 }

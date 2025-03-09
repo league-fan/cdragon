@@ -24,6 +24,22 @@
     }
   ],
   "description": "마법 모자의 힘에 의해 생명을 얻은 눈사람 하이머딩거는 눈맞이 과학 이론 연구에 열심입니다. 눈덩이 탄도학, 코코아 식는 속도, 자동 포탑 제작 등... 물론 자신을 위한 당근 코도 설계했죠!",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74004,
+    "formatname": "Snowmerdinger",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "transforming": true,
+    "vu": true,
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "lore": "Brought to life by the power of a magic hat, Snowmerdinger now pursues theoretical Snowdown sciences including snowball trajectory, cocoa cooling speeds, and automated turret construction. He engineered his own strain of carrot noses."
+  }
 }

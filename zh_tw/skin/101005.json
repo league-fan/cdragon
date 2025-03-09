@@ -124,6 +124,52 @@
     }
   ],
   "description": "幽冥煞星在宇宙間運行之時經過了一個充滿生命力，且被巨大恆星環繞的星系。它的降臨吞噬了所有的生命以及光芒，也將那顆巨大恆星扭曲腐化。就這樣，一個惡意滿滿且想要殲滅一切的黑暗生物──齊勒斯，誕生了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 6,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Katya Cyan",
+      "West Studio"
+    ],
+    "lore": "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation."
+  }
 }

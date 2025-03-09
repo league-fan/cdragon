@@ -148,6 +148,58 @@
     }
   ],
   "description": "고대 집착의 악마인 쓰레쉬는 흠이 있지만 가능성으로 꽃피는 영혼에 고통을 주는 것을 즐깁니다. 최고의 영혼 수집가로서 죽은 영혼을 괴롭히는 쓰레쉬는 죽은 이가 구원의 길에서 벗어나 각자의 기억 속에 영원히 갇히도록 유혹합니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-07-22",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Night Blossom": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "An ancient demon of obsession, Thresh delights in tormenting the spirits of those he deems as flawed, but blossoming with potential. He haunts the spiritual afterlife as a supreme collector of souls, tempting the dead away from their path to salvation until they are trapped for eternity within their own memories."
+  }
 }

@@ -160,6 +160,59 @@
     }
   ],
   "description": "반딧불이 마스코트를 데리고 다니는 왕국의 대마법사, 밀리오는 왕국에서 일어나는 모든 일을 알고 있습니다. 아이처럼 보여도 요정의 수명은 길고 밀리오는 성인이 된 다른 누구보다도 오랫동안 아이로 살았죠. 밀리오는 친근한 얼굴로 자신의 능력을 사용해 왕국을 지킵니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 902001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Peridot": {
+        "id": 5
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 8
+      },
+      "Winsome": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Giselle Fernandez"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "An archmagus of the court wreathed in firefly familiars, Milio knows just about everything that happens within the palace walls. He may seem like a child, but fae are long-lived, and Milio has been a child far longer than others have been adults. Still, he is a friendly face who uses his power to safeguard the Queendom however he can."
+  }
 }

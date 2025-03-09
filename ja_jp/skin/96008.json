@@ -24,6 +24,22 @@
     }
   ],
   "description": "死に絶えたコグ＝マウの生体組織をもとに大量生産された砲撃ユニット。ビクターの開発した独創的なこの砲弾ばら撒きシステムであるが、見学する場合は100マイルほど距離を取ったほうがよい(最新の設計の最大射程が100マイルである)。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-11-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-11-25",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "Mass-produced artillery units based on the now-extinct Kog'Maw organism, Viktor has invented an ingenious shell delivery system best appreciated from about a hundred miles away—the latest design's maximum range."
+  }
 }

@@ -131,6 +131,54 @@
     }
   ],
   "description": "赛娜曾凭借着令人称奇的音域和独树一帜的时尚感而声名鹊起，但之后一个阴险的对手用一张独占性合约夺走了她的创作自主权，因此让她从聚光灯中消失了。在阴影之中蛰伏数年后，她以“真实伤害”的主唱身份再次出现，一心想以自己的主张来定义她的传世之作。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-11-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-11-10",
+    "set": [
+      "True Damage"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Citrine": {
+        "id": 5
+      },
+      "Freestyle": {
+        "id": 2,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "True Damage 2019"
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 7,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 6
+      }
+    },
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "lore": "Senna rose to fame with her stunning vocal range and iconic sense of style, but when a shady adversary from her past imprisoned her in a restrictive record deal that took away her creative independence, she vanished from the spotlight. After years of living in the shadows, she now emerges as the lead singer of True Damage with her mind set on defining her legacy on her own terms."
+  }
 }

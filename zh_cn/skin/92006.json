@@ -57,6 +57,34 @@
     }
   ],
   "description": "锐雯在回家之后还有一份兼职工作，在世界上最先进的跳舞模拟街机中扮演动作模拟器，即使被可怕的Boss送进街机的世界，她仍可以使用她的舞步(以及一些来自她最喜爱RPG的装备)来摧毁维迦的邪恶大军，一刀一个。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-08-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-08-19",
+    "earlysale": "2016-02",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "K.O.": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Riven's part-time job at an arcade mostly involved playing dance simulators after her manager went home. Digitally transported to Arcade World by even scarier bosses, she's now using her moves (and some gear from her favorite RPG) to tear up Veigar's regime, one enemy at a time."
+  }
 }

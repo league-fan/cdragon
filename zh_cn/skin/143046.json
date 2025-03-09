@@ -137,6 +137,54 @@
     }
   ],
   "description": "婕拉是一个让她的作品自行说话的恶魔。她的名气大到仅凭一个绰号就能为人所知，而她优雅的风格和天生的风度迷住了冥河渡桥市的人们。在婕拉的娴熟双手中，画作在混凝土上开花并在每条街巷中绽放，将城市的每一小片都纳入婕拉的掌控下。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 53
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Foritis Wang",
+      "Pandart Studio"
+    ],
+    "lore": "Zyra is a devil whose work speaks for itself. Famous enough to be known by a single-name moniker, she has captivated the people of Styxbridge with her elegant style and effortless grace. In Zyra's skilled hands, paint flowers across concrete and blooms in every alley, claiming each slice of the city as Zyra's own."
+  }
 }

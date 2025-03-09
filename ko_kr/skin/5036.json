@@ -222,6 +222,60 @@
     }
   ],
   "description": "신 짜오는 새해 축제에서 인기가 많은데, 단지 사람들에게 붉은 봉투를 잔뜩 주기 때문만은 아닙니다. 어디로 튈지 모르는 신 짜오의 친구들이 위험천만한 장난을 치려 할 때마다 듬직하게 제지하거든요. 그러면서도 항상 어찌나 태연하고 여유 있는지, 그 기품으로 모두의 마음을 빼앗죠. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5036,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 38
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Golden Tiger": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Zoe Zhu",
+      "West Studio"
+    ],
+    "lore": "Xin Zhao is a popular man at the New Year's festival— and not just because he hands out lots of red envelopes. He is the reliable protector that keeps his more chaotic friends from getting into often-explosive mischief, and does it all with a cool, casual grace that leaves everyone swooning. "
+  }
 }

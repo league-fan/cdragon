@@ -138,6 +138,54 @@
     }
   ],
   "description": "瑟菈紛在銀河各處都開過個人演唱會，現在是時候與星光戰士合作了！她非常興奮能與新一代英雄合作，也很想把這份熱情分享給大家。這群戰士為了真愛而戰……天底下還有比這更浪漫的事嗎？！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rainbow": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "Seraphine has toured the entire galaxy as a solo act, but now it's time for a Star Guardian collab. She's ecstatic to team up with a new group of heroes, and she isn't afraid to share that enthusiasm. They're fighting for true love… what could be more romantic than that?!"
+  }
 }

@@ -38,6 +38,24 @@
     }
   ],
   "description": "伝説の翡翠の龍の力を授かり、ウーコンは自分の能力を剃刀のような鋭さにまで磨き上げた。頑固で性急であることに変わりはないが、新たに手に入れた力は疑いようがない。翡翠の龍は強力な呪いを持っているため、彼の師匠にとっては厄介なことである…",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Meteorite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "lore": "Imbued with the power of the legendary jade dragon, Wukong has honed his abilities to a razor sharp point.Though still headstrong and brash, his newfound power is undeniable—a worrying sign to his master, as the jade dragon carries a powerful curse..."
+  }
 }

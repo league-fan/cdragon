@@ -24,6 +24,19 @@
     }
   ],
   "description": "알리스타는 단순히 수비수라기보다는 뿔이 달린 이동식 요새에 더 가깝습니다. 상대팀이 공을 가지고 있다면 알리스타를 그쪽으로 향하게 하세요. 즉각적이고 고통스러운 결과를 가져다 줄 것입니다.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-06-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-06-18",
+    "retired": "2017-11-01",
+    "set": [
+      "Soccer Cup"
+    ],
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "lore": "They call him a sweeper, but Alistar is more of a mobile fortress with horns. If a rival player has the ball, just point Alistar in their direction for immediate and painful results."
+  }
 }

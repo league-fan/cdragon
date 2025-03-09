@@ -148,6 +148,58 @@
     }
   ],
   "description": "巴德是在一流咖啡馆之间漫游的一位无言鉴赏家。 如果他留下了一个茶杯形式的祝福？那就意味着一百年的甜蜜成效。没有人知道“茶壶游吟诗人”从哪里来，或者他是否有一个比游乐于糕点店更上一层的目的，但巴德的一次造访会让任何一家咖啡馆立刻闻名于世！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!"
+  }
 }

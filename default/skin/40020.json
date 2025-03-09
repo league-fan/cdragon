@@ -114,6 +114,48 @@
     }
   ],
   "description": "Janna, the desert gale—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your sandstorms consume them whole.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Peridot": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Janna, the desert gale—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your sandstorms consume them whole."
+  }
 }

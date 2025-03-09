@@ -142,6 +142,53 @@
     }
   ],
   "description": "大魔導師ミリオのもとで学ぶ若き魔女ラックスは、ただの怠惰な夏の王宮の令嬢ではないことを証明する時が来たようだ。朝露を通して日の光と虹を分ける責任を担う彼女には、太陽が沈む前に終えるべき仕事が山ほどある──しかし、その覚悟だけは誰にも負けない！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 65
+      },
+      "Emerald": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 68
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 67
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 69
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "A young sorceress studying under Archmage Milio, Lux is ready to prove that she's not just an idle Lady of the Summer Court. Responsible for splitting sunbeams into rainbows through the morning dew, she has a lot of work to conquer each day before the sun rises—but she is nothing if not determined!"
+  }
 }

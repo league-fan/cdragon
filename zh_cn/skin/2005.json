@@ -24,6 +24,19 @@
     }
   ],
   "description": "劫掠者是一个被称为法术领主的残酷政权的余孽，这个政权曾在文明的初期征服了一半以上的世界。尽管他们的帝国已经崩溃已久，但它残余的军队直到现在还在发动无尽的战争，寻求着能让他们找到死亡和荣耀的地方。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2015-09-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-09-30",
+    "earlysale": "2016-04",
+    "set": [
+      "Marauder"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Marauders are the remnants of a brutal regime known as the Magelords, who conquered more than half the world at the dawn of civilization. Though their empire has long since crumbled, its remaining armies now wage endless wars, seeking death and glory wherever they may find it."
+  }
 }

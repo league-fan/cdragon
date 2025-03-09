@@ -8,64 +8,406 @@
       "name": "破碎盟約 弗拉迪米爾",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 8039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 41
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 44
+          },
+          "Turquoise": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "The ultimate Neverghaast, at least to himself, Vladimir cares only about feeding himself and his ego. Though he is not above helping someone for the right price, like that \"idiot\" Rakan, he has no stake in the war beyond finding the fabled well of Aspira within the congregation. Such power, he smugly reasons, would surely be better in his hands."
+      }
     },
     {
       "id": 21040,
       "name": "破碎盟約 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 47
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 46
+          },
+          "Tanzanite": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A devout Aspirant, Miss Fortune is the public face of the congregation. She has a single-minded focus on revenge against the Neverghaast, not just for murdering her parents, but for also corrupting Riven. Sarah can't believe her best friend helped the enemy and doesn't regret shooting her, because as long as the Neverghaast live, evil will fester."
+      }
     },
     {
       "id": 21041,
       "name": "尊爵不凡 破碎盟約 好運姐",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21041,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 40,
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "Every year, thousands make the pilgrimage to the Gala, hoping to catch a glimpse of Miss Fortune's latest look. Never keen on shunning her faithful, she always treats each devotee as if they were a fellow family member. Even so, her rivals know to not cross her, lest they feel her wrath."
+      }
     },
     {
       "id": 31023,
       "name": "破碎盟約 科加斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 31023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 30
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "A living weapon of Nocturne's design, Cho'Gath is meant to cleanse the world of the Neverghaast. Empowered by sacred artifacts from the congregation's crypts, it has remained dormant while Nocturne feeds it prisoners to build its power. Despite its maker's intentions, nothing will be able to sate the monster's hunger once it fully awakens."
+      }
     },
     {
       "id": 56017,
       "name": "破碎盟約 夜曲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "As the oldest member of the Aspirants, Nocturne is content to lead from the shadows, having long ago exchanged their physical form for pure Aspira. Within the catacombs, they jealously guard the vast well of Aspira the congregation has filled over the centuries, toiling away at the unholy weapon that will destroy the Neverghaast once and for all."
+      }
     },
     {
       "id": 92055,
       "name": "破碎盟約 雷玟",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 60
+          },
+          "Obsidian": {
+            "id": 61
+          },
+          "Ruby": {
+            "id": 57,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Tanzanite": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "Born an Aspirant, Riven had no doubts about the congregation's evils until she discovered Nocturne torturing and feeding Neverghaast to Cho'Gath. Despite being mortally wounded, she escaped with a prisoner, who turned her into a Neverghaast to save her life. Now an exile with an endless hunger, Riven fights to redeem herself and her corrupted family."
+      }
     },
     {
       "id": 497027,
       "name": "破碎盟約 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Rakan's mouth always got him into trouble, and after getting caught stealing from Vladimir and nearly killed, he awoke to find himself a newly turned Neverghaast, thanks to his beloved Xayah. In the time they've been separated while she repays his debt, Rakan can feel his thirsts grow and dreads showing his partner the monster he fears he's becoming."
+      }
     },
     {
       "id": 498037,
       "name": "破碎盟約 剎雅",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 498037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 40
+          },
+          "Citrine": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 46
+          },
+          "Peridot": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Thieves until the end, Xayah and Rakan only cared about each other and shunned the war raging around them. When Rakan ran afoul of the Neverghaast and was almost killed, Xayah agreed to spy on the Aspirants if Vladimir made her partner a Neverghaast. As she reports back from within the congregation, she prays she can find a cure for her lover's curse."
+      }
     }
   ]
 }

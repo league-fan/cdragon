@@ -137,6 +137,54 @@
     }
   ],
   "description": "崔斯特可能是个无赖，但他因能够办好各种事情而闻名整个银河系。但即使是他也找不到他那位失散多年的搭档——格雷福斯——的踪迹。因此，当一些喵星人向他提供有关格雷福斯下落的情报，来换取传说中的地下迪斯科“酱酱舞会”的位置时，他高兴地答应了。不过，一些不速之客是什么意思？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Rainbow": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "He may be a scoundrel, but Twisted Fate is known the galaxy over as someone who gets things done. But even he can't find a trace of his long lost partner, Graves. So when some cats offered him intel on Graves' whereabouts in exchange for the location of the legendary underground disco, The Jam, he happily obliged. What's a few party crashers, anyway?"
+  }
 }

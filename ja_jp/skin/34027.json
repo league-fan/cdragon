@@ -198,6 +198,57 @@
     }
   ],
   "description": "この伝説の鳳凰は世界を見守り、自己を犠牲にすることもいとわない英雄が現れる日を待っている。アニビアは他者のために戦う、勇敢で優しい心を持つ者に力を授ける。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-02",
+    "set": [
+      "Phoenixmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Aquamarine": {
+        "id": 31
+      },
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Golden Tiger": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The legendary fenghuang watches over the world, awaiting the rise of selfless champions. Anivia grants power to those who fight for others with bravery and kindness in their hearts."
+  }
 }

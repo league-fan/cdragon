@@ -150,6 +150,50 @@
     }
   ],
   "description": "사랑이라는 이름의 전장에 징크스가 뛰어듭니다! 사랑하는 무기 생선대가리로 무장한 징크스는 모두의 마음과 몸을 아프게 할 준비가 됐죠. 마음에 드는 상대는 살살 상대할지도 모릅니다. 장담은 못 하지만요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222029,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-04",
+    "set": [
+      "Heartbreakers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Aquamarine": {
+        "id": 31
+      },
+      "Catseye": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Love is a battlefield, and Jinx comes prepared! Armed with her beloved companion Fishbones, she's ready to break hearts—and bones. But if she likes you enough, she's prepared to play nice. Maybe. Probably not."
+  }
 }

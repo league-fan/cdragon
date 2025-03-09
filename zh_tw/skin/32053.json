@@ -137,6 +137,53 @@
     }
   ],
   "description": "孤獨的阿姆姆四處放浪，尋找一間可以稱為家的咖啡廳。儘管他在當學徒時已盡力爭取同行的讚許，但他做的麵點總是鹹了一點。不過，他依然抱著希望，相信總有一天會交到朋友，並學到煮蝦子的完美方法。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 32053,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-05",
+    "set": [
+      "Dumpling Darlings"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 58
+      },
+      "Catseye": {
+        "id": 55
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Obsidian": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 60
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 59
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Lonely soul Amumu traveled the world to find a cafe that he could call home. Despite his best efforts to win over his fellow chefs as an apprentice dumpling maker, all of his concoctions end up just a little too salty. Yet he holds onto hope that his dreams of friendship—and the perfect prawn recipe—are within reach one day."
+  }
 }

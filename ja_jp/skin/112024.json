@@ -25,6 +25,25 @@
     }
   ],
   "description": "助手のスカイが命を落としたとき、ビクターはヘクステックにもう一切関わりたくないと考えていた。しかし、アーケインの考えは違った。彼はヘクスコアのもたらした力のおかげで、地下都市でヒーラーとして生きる新たな目標を見つけた。そして今、彼はそれを受け入れようとするすべての人々に、ヘクステックの真の力とそれが約束する未来を見せようとしている。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112024,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Viktor wanted nothing to do with hextech after the death of his assistant, Sky—but the arcane had different plans for him. In the undercity, he found a new purpose as a healer thanks to the hexcore's effect on him. Now he hopes to show everyone the true power and promise of hextech, should they choose to accept it."
+  }
 }

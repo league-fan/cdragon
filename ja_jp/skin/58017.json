@@ -24,6 +24,25 @@
     }
   ],
   "description": "ヘクステック・ルネサンスの工匠たちは自分たちの研究がもたらす結果を十分に考慮することなく、新たな科学の利用を急いで一線を越えてしまった(いつものことである)。肉と金属で造られた半狂乱の怪物、レネクトンは彼らの近視眼によって生み出された。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-12-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58017,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-12-20",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "As is so often the way, artificers of the Hextech Renaissance pushed too far and too fast into their new science, without fully considering the possible consequences. Renekton—a half-mad monster of flesh and metal—is the result of that shortsightedness."
+  }
 }

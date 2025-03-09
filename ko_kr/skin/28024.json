@@ -124,6 +124,51 @@
     }
   ],
   "description": "남쪽 악의 여단이 위대한 부활을 위해 자매들과 함께합니다. 오래된 것들이 다시 한번 요동치고, 마침내 오래된 원한을 완전히 대갚음했습니다. 위대한 고대 신 해리어의 딸 이블린은 앞으로 다가올 어둠을 위하여 기꺼이 자매들과 함께합니다. 이블린이 지나간 길에는 늘 잔인함과 죽음이 뒤따릅니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Dark Ritual": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "The covens of the south join their sisters for the great resurrection, as old things stir once more, and old grudges are at last repaid in full. Evelynn, daughter of the Great Harrier, gladly joins her sisters for the darkness to come—a trail of brutality and death always in her wake."
+  }
 }

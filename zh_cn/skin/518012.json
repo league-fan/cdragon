@@ -132,6 +132,53 @@
     }
   ],
   "description": "妮蔻是山海绘卷中的善神。她还记得她的对立神——烬——在陷入疯狂之前的样子，并且相信她能在绘卷的魔法消逝且末日降临到多重宇宙之前，使烬重归善良，但她也知道，如此浩大的能量消耗也许会在这个过程中将她毁灭。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 14
+      },
+      "Granite": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "A kindly god of the Shan Hai Scrolls who remembers her counterpart, Jhin, from before he succumbed to madness, Neeko believes she can return Jhin to the side of good before the painting's magic fades and doom befalls the multiverse, but she knows such an expenditure of power may destroy her in the process."
+  }
 }

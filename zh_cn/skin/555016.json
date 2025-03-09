@@ -157,6 +157,59 @@
     }
   ],
   "description": "派克是一个早期的源计划原型机，未经试验的诸项升级给他留下了猛烈的不稳定性——对他的操控者们而言太多了，因此他们报废了他并将他的残躯扔到了“城市”的墙壁之外。但他的神经机械大脑活下来了，用从四周其他报废机体上抢救而来的废料零件重塑了派克，并且现在他们支离破碎、层层重叠的记忆已经与他自己的记忆混合了，而他们都在大喊着要复仇。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555016,
+    "formatname": "PROJECT: Pyke",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-08-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Reckoning": {
+        "id": 24,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "An early PROJECT prototype, Pyke's untested upgrades left him violently unstable—too much so for his handlers, who junked him and threw his remains outside the walls of the City. Yet his cybernetic brain survived, rebuilding Pyke with salvaged scrap parts from all around him, and now their fragmented, overlapping memories mix with his own as they scream out for revenge."
+  }
 }

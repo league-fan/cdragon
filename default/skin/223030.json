@@ -137,6 +137,53 @@
     }
   ],
   "description": "Once a catfish, Tahm Kench dreamed of becoming a dragon. Upon Jhin's release from his waterfall prison, a magical pearl was unearthed at its base, catching both Tahm's and Kog'Maw's eyes. Snatching it first, Tahm transformed into a dragon god of currents and unleashed a maelstrom of startling ferocity, laughing at the ensuing destruction.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Once a catfish, Tahm Kench dreamed of becoming a dragon. Upon Jhin's release from his waterfall prison, a magical pearl was unearthed at its base, catching both Tahm's and Kog'Maw's eyes. Snatching it first, Tahm transformed into a dragon god of currents and unleashed a maelstrom of startling ferocity, laughing at the ensuing destruction."
+  }
 }

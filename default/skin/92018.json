@@ -48,6 +48,33 @@
     }
   ],
   "description": "A worshipper of temporal purity, Riven knows there are many others who would rather see time manipulated in their favor. These heretics give her blade purpose—she can only find true solace in eliminating all who would disturb the natural order.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92018,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Pulsefire"
+    ],
+    "cost": 1350,
+    "release": "2018-05-17",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A worshipper of temporal purity, Riven knows there are many others who would rather see time manipulated in their favor. These heretics give her blade purpose—she can only find true solace in eliminating all who would disturb the natural order."
+  }
 }

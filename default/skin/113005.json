@@ -43,6 +43,29 @@
     }
   ],
   "description": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home."
+  }
 }

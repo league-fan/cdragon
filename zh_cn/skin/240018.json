@@ -147,6 +147,56 @@
     }
   ],
   "description": "他只是一个小家伙，戴着一碗“魄罗狗粮”作为帽子，骑着最好的比格犬参加战斗。这身打扮在“比格犬之桥”为克烈和斯嘎尔赢得了一条蓝丝带，所以如果没坏，就别修了。希望在今年的“召唤师甜心宠物展”上，那些更“精致”的评委们也能同意这一点。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-06",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 24
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 22,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "He's just a lil' guy wearing a bowl of Poro-Pup Chow as a hat, riding the bestest beagle into battle. The get-up won Kled and Skaarl a blue ribbon at Beagle's Bridge, so if ain't broke, don't fix it. Here's hoping that the more \"refined\" judges at this year's Summoner Sweetie's Pet Show agree."
+  }
 }

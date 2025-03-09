@@ -137,6 +137,55 @@
     }
   ],
   "description": "拉莫斯穿着一身刺鼻的果皮在这片土地上漫游，虽然他看起来很可爱，但他给“沉默但致命”赋予了新的含义。有人说这个恶臭谜团的盔甲散发着污水和汗袜子的臭味，但意志坚强的战士知道他到底有多可爱——前提是你能克服这种气味。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 33026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Food Fight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 28
+      },
+      "Jasper": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 31
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Rammus roams the land in a pungent peel, and though he may look adorable, he gives new meaning to the phrase “silent but deadly.” Some say the effluvial enigma's armor reeks of sewage and sweaty socks, but strong-willed warriors know how sweet he can really be—if you can get past the smell."
+  }
 }

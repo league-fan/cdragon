@@ -24,6 +24,46 @@
     }
   ],
   "description": "시간의 도피자이자 시간 이동을 하는 위대한 탐험가 이즈리얼은 이세계를 넘나들며 흥미로운 기술을 찾아다닙니다. 그 과정에서 수많은 역설을 만들어 낸 탓에 반이상향 요원들이 그를 끈질기게 쫓고 있죠.",
-  "wikiPrice": "3250",
-  "wikiReleaseDate": "2012-06-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2012-06-29",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Pulsefire Ezreal",
+    "forms": [
+      "Level 01",
+      "Level 06",
+      "Level 11",
+      "Level 16"
+    ],
+    "chromas": {
+      "Level 06": {
+        "id": 5
+      },
+      "Level 11": {
+        "id": 5
+      },
+      "Level 16": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman",
+      "Christine Brynn Khalil"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly."
+  }
 }

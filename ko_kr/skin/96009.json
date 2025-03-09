@@ -226,6 +226,52 @@
     }
   ],
   "description": "코그멍은 이제 막 9개월이 된 순종 퍼그로 순하기는 하지만 침샘에 약간 문제가 있습니다. 어린아이들이나 다른 반려동물과 잘 지내며 먹는 것에 대한 엄청난 집착을 보입니다. 액션 피규어 세 개와 인형 한 개를 먹어치운 전적이 있으니 가까이 다가갈 때 조심하셔야 할 겁니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96009,
+    "formatname": "Pug'Maw",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Granite": {
+        "id": 18
+      },
+      "Meteorite": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sandstone": {
+        "id": 12
+      },
+      "Speckled": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Pug'Maw is a nine month old purebred pug with a sweet disposition and possibly some sort of salivary problem. Great with children and pets. Highly food motivated. Has eaten three action figures and one doll, approach with extreme caution."
+  }
 }

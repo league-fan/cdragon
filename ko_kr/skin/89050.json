@@ -44,6 +44,35 @@
     }
   ],
   "description": "레오나는 대숙청이 왜 일어났는지 압니다. 신성 모독 때문이죠. 마법의 소실은 인류의 오만과 마법의 악용에 대한 벌이었습니다. 레오나는 자신이 숭배하는 프리즘 수정을 수호하는 일을 신성한 사명으로 여깁니다. 하지만 동시에 북향 여정에 오른 이후 사라져버린 다이애나가 돌아올 수 있게 해달라고 비밀리에 기도합니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89050,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-06-14",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 51,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Leona knows what caused the purge: blasphemy. Magic's disappearance was retribution for humanity's arrogance and misuse of it. As a worshipper of the Prismae Crystals, she believes it's her sacred duty to protect them. But she also prays to them in secret, hoping they'll bring back her lost love, Diana, who disappeared after journeying to the north."
+  }
 }

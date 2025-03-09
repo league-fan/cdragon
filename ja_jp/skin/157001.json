@@ -119,6 +119,42 @@
     }
   ],
   "description": "通りが二本しかない街で、気乗りしない様子で保安官を務める謎めいた男ヤスオは、東部で殺人の罪に問われて自ら流刑についた身の上である。そんな彼であるが、盗賊の一団を追い払ったのをはじめ、砂漠の恐ろしい脅威の多くを街から締め出して、これまでに数百名の命を救っているのである。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-12-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-12-13",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 5
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Jasper": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Sapphire": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "The mysterious and reluctant sheriff of a two-street town, Yasuo is in self-imposed exile after being accused of murder in the eastern territories. Even so, he has driven off entire bandit gangs as well as many of the desert's deadliest threats, saving hundreds of lives along the way."
+  }
 }

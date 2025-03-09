@@ -160,6 +160,59 @@
     }
   ],
   "description": "有些人天生就是領導者。傳進他人耳裡的永遠都是榮耀，而不是背後所付出的犧牲！王國的安泰優先於一切……即便臣民性命危在旦夕也一樣。瑟雷西大帝依舊領導著他的子民，雖然肉身已逝，靈魂卻永遠安全。總有一天，他會讓潰敗的帝國東山再起——他只需要某位善良女皇的協助就能做到。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Granite": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Resplendent": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Some are destined to rule. Others hear only echoes of glory, knowing nothing of the sacrifices that must be made! You must put your empire before EVERYTHING... even the lives of your subjects. The Emperor Thresh still guides his people, their souls forever safe, though their bodies were washed away. Someday, he'll heal his broken empire. All he needs is a kind empress' helping hand. "
+  }
 }

@@ -78,6 +78,44 @@
     }
   ],
   "description": "Warwick was a man, once—a knight of great renown, pledged to serve at the side of Blade Queen Lissandra. In exchange for his loyalty she gifted him a shard of spectral moonlight, cursed to one day pierce his heart and sink him into the depths of depravity.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2010-07-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19001,
+    "availability": "Rare",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Honor Capsule",
+    "release": "2010-07-08",
+    "set": [
+      "Omen of the Dark"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Sapphire": {
+        "id": 18,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2019 Honor 5 Tokens"
+      },
+      "Rose Quartz": {
+        "id": 25,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2020 Honor 5 Tokens"
+      },
+      "Meteorite": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2021 Honor 5 Tokens"
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Mist XG"
+    ],
+    "lore": "Warwick was a man, once—a knight of great renown, pledged to serve at the side of Blade Queen Lissandra. In exchange for his loyalty she gifted him a shard of spectral moonlight, cursed to one day pierce his heart and sink him into the depths of depravity."
+  }
 }

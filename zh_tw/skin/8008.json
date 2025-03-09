@@ -111,6 +111,44 @@
     }
   ],
   "description": "在年輕時，弗拉迪米爾學習於一所擅長使用不可思議的手法來操縱病患體液的醫學院。不過在比爾吉沃特，靠殺戮所能賺進的錢要比拯救性命要多，因此他現在發現自己更擅長於那些有利可圖且毫不費力的工作了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-31",
+    "earlysale": "",
+    "set": [
+      "Bilgewater: Curse of the Drowned"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Rudy Siswanto",
+      "Kelly Aleshire"
+    ],
+    "lore": "In his younger days, Vladimir practiced at a school of medicine known for magically manipulating the humors of a patient's body. Turns out in Bilgewater there's more coin to be made killing than saving, and now he's found himself in a much more lucrative—if not messier—line of work."
+  }
 }

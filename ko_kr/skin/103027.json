@@ -133,6 +133,52 @@
     }
   ],
   "description": "구원의 영혼인 여우는 영혼 세계에 도착한 모든 필멸자들의 영혼에게 손짓합니다. 산 자의 운명을 사냥놀이처럼 생각하는 변덕스럽고 엉뚱한 영혼은 필멸자의 혼이 최후의 안식을 찾을 기회를 제공하지만… 길에서 벗어난다면 개입하지 않을 것입니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 62
+      },
+      "Aquamarine": {
+        "id": 29
+      },
+      "Night Blossom": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "The famed Spirit of Salvation, and the fox all mortals are beckoned towards when their souls arrive to the spirit realm. A capricious, whimsical spirit who sees the fate of the living as a game of chase, she offers the chance for souls to find their final rest… but will not intervene if they stray from the path."
+  }
 }

@@ -13,128 +13,571 @@
       "name": "沃維克",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "260",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. He bursts from the shadows to prey upon those criminals who terrorize the city's depths. Warwick is drawn to blood, driven mad by its scent… and none who spill it can escape him."
+      }
     },
     {
       "id": 19001,
       "name": "灰影狼人 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2010-07-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19001,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Honor Capsule",
+        "release": "2010-07-08",
+        "set": [
+          "Omen of the Dark"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Sapphire": {
+            "id": 18,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2019 Honor 5 Tokens"
+          },
+          "Rose Quartz": {
+            "id": 25,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2020 Honor 5 Tokens"
+          },
+          "Meteorite": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2021 Honor 5 Tokens"
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ],
+        "lore": "Warwick was a man, once—a knight of great renown, pledged to serve at the side of Blade Queen Lissandra. In exchange for his loyalty she gifted him a shard of spectral moonlight, cursed to one day pierce his heart and sink him into the depths of depravity."
+      }
     },
     {
       "id": 19002,
       "name": "阿福之魂 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "5000",
-      "wikiReleaseDate": "2010-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19002,
+        "formatname": "Urf the Manatee",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": 5000,
+        "distribution": "Limited Availability",
+        "release": "2010-03-31",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      }
     },
     {
       "id": 19003,
       "name": "狼外婆 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-04-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "retired": "2015-08-29",
+        "set": [
+          "Storybook"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Max Grecke"
+        ],
+        "lore": "Having recently eaten three stubborn hogs and a duck who couldn't run very fast, Warwick has pivoted into devouring kindly grandmothers and wearing their clothes. He then impersonates them to get close to their grandchildren, who he also devours. Warwick is a really bad guy."
+      }
     },
     {
       "id": 19004,
       "name": "凍原獵手 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-08-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-15",
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ]
+      }
     },
     {
       "id": 19005,
       "name": "嗜血狂暴 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-11-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-16",
+        "retired": "2012-03-19",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "Another of Singed's vile henchmen, Warwick is never far from his villainous master. Given wolf powers after being bitten by a radioactive wolf, Warwick has been further augmented by Singed's evil research! Will our brave heroes ever be able to stop him?!"
+      }
     },
     {
       "id": 19006,
       "name": "火牙戰狼 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-03-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-03-29",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ],
+        "lore": "The Ashen Lord's hounds blaze with the fires of unspeakable molten hellscapes, and at their head is Warwick, the Firefang. Scouring the earth for anything untouched by flame, he relentlessly hunts the survivors of Infernal attacks, reducing them to sputtering cinders."
+      }
     },
     {
       "id": 19007,
       "name": "豺狼精英 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-12-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-05",
+        "set": [
+          "Road Warrior"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ],
+        "lore": "In the old days, hyenas were known as opportunistic hunters famed for their violent infighting and chorus of inhuman laughter. Now, in the wasteland, not much has changed."
+      }
     },
     {
       "id": 19008,
       "name": "劫掠狂牙 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-02-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-02-17",
+        "earlysale": "2015-12",
+        "set": [
+          "Marauder"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Ancient writings concerning the rise and fall of the Magelords make curious references to “Runes”, and the cataclysmic properties they supposedly held. These mysteries are compounded by chimeric monstrosities such as Warwick, whose existence within the Marauder ranks defies any rational explanation."
+      }
     },
     {
       "id": 19009,
       "name": "新・阿福之魂 沃維克",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "150000",
-      "wikiReleaseDate": "2017-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19009,
+        "formatname": "Urfwick",
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": 150000,
+        "distribution": "Essence Emporium",
+        "release": "2017-11-08",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "variant": 2,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      }
     },
     {
       "id": 19010,
       "name": "玄天衛士 沃維克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-08",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2019"
+          },
+          "Jasper": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Gifted to the Lunar Empress when she was a child, Warwick was raised alongside her to guard the immortal realm from an encroaching darkness. More beastly and feral than his companion Nasus, Warwick stands watch in the south, relentlessly pursuing foes to the ends of the world."
+      }
     },
     {
       "id": 19016,
       "name": "菁英計畫：沃維克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19016,
+        "formatname": "PROJECT: Warwick",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Aquamarine": {
+            "id": 32
+          },
+          "Catseye": {
+            "id": 31
+          },
+          "Meteorite": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Reckoning": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Plucked from the wastelands by a PROJECT research cell, Warwick has been irrevocably transformed into a horrifying new stage of transhuman evolution—a weaponized monster stripped of all remorse, and programmed solely for violent suppression. Through the meddling of the ragtag outsiders, he escaped before being completed, and now rampages indiscriminately across the City."
+      }
     },
     {
       "id": 19035,
       "name": "古神 沃維克 ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-08-12",
+        "set": [
+          "Coven",
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 42
+          },
+          "Citrine": {
+            "id": 37
+          },
+          "Dark Ritual": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Once known as Father Wolf, Warwick roamed the wood and reveled in moonlight's bloody hunt. The Eclipse Order thought to slay him in his den and end his barbarity—but death means nothing to Old Gods, and he did not stay down. Father Wolf howls into the night once more, now slavering for the taste of human flesh."
+      }
     },
     {
       "id": 19045,
       "name": "凜冬碎星 沃維克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-12-08",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Granite": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 52
+          },
+          "Wreathguard": {
+            "id": 55,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Winterblessed 2022"
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "The Beast Warwick sniffed his newborn sibling, the Automaton Shaco, as his maker beckoned the leaders to accept their gifts. The Hunter claimed the Beast as his prize, but the prospect of sharing so disgusted the Sage and Warden that chaos quickly erupted over who deserved what. All the while Warwick focused on Polaris, who watched with a wry smile."
+      }
     },
     {
       "id": 19046,
       "name": "尊爵不凡 凜冬碎星 沃維克",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19046,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-12-08",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 45,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "It can get rough on the runway, but everybody knows better than to mess with Warwick. Between his razor sharp cuts, impeccable grooming, and wolfpack entourage, the Gala better think twice before it calls this one a beast."
+      }
     },
     {
       "id": 19056,
       "name": "奧術范德爾 沃維克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19056,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Paragon": {
+            "id": 57,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Mo Yan"
+        ],
+        "lore": "Many in Zaun mourned Vander, even as the undercity fell deeper into corruption. No one could have ever known that he still lived, his shimmer-twisted body hidden deep within Singed's lab. Revived as a tormented beast of primal rage, the monster Warwick was unleashed on the world. But if a fragment of his humanity still lives... can Vander be saved?"
+      }
     }
   ]
 }

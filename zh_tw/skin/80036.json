@@ -44,6 +44,35 @@
     }
   ],
   "description": "一名遠古時代的英勇騎士，根據傳說，他在戰爭中殺死了一個神，向全人類證明他們才是自身真正的主人。時至今日，潘森依舊堅定不移的看守著故土，但唯一能征服的敵人只剩下自己，而他依舊等待著一名值得一戰的挑戰者現身，進行最終死戰。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80036,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-06-23",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "A brave knight of old, who legends say slew a god in battle so that all humankind might see that they were their own masters. Standing watch over the ashes of his former lands, Pantheon himself is now the only foe left to conquer, and he awaits a worthy challenger to face one final time."
+  }
 }

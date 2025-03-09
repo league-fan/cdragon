@@ -49,6 +49,35 @@
     }
   ],
   "description": "路西恩在擔任指揮部的哨兵時便看清了菁英計畫背後的真相。他的雙離子芯光之獵手現在決心為了 G/NETIC 以及人類的反抗而戰，他俐落且精準的戰鬥技巧徹底壓制了試圖消滅他們的科技大軍。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236006,
+    "formatname": "PROJECT: Lucian",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-03",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reckoning": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith"
+    ],
+    "lore": "Once a sentinel within the Command Line, Lucian has seen PROJECT for what they truly are. His dual ion-core Lightcaster pistols now serve G/NETIC and the human rebellion, bringing down their technological oppressors with brutal efficiency."
+  }
 }

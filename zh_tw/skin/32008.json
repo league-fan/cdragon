@@ -162,6 +162,47 @@
     }
   ],
   "description": null,
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 32008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-03-31",
+    "earlysale": "2015-12",
+    "set": [
+      "Surprise Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rainbow": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ]
+  }
 }

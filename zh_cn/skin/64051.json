@@ -156,6 +156,52 @@
     }
   ],
   "description": "龙太子、龙之王国的继位者万岁！李青是一位高贵而公正的龙太子，对他的人民有着深厚的感情。当他听到云层下方烟花爆竹的爆裂声时，他知道是时候更多地了解他的人类子民——以及他们如何用一声巨响迎接新年了！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64051,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 58
+      },
+      "Citrine": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Lustrous": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Rose Quartz": {
+        "id": 55
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "All hail the Prince of Dragons, heir to the throne of the heavenly Kingdom of Dragons! A noble and just prince, Lee Sin is deeply devoted to his people. When he hears the telltale crackle of fireworks just below the clouds, he knows it's time to learn more about his human subjects—and how they greet the New Year with a bang!"
+  }
 }

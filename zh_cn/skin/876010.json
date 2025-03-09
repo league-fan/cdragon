@@ -148,6 +148,56 @@
     }
   ],
   "description": "莉莉娅是噩梦之管家和美梦之魔鬼，陶醉于羞辱凡人心灵的扭曲幻想中。 尽管她在秩序与混沌之间的战争中嬉闹，但她自己却很少加入其中；毕竟，她有一个花园，可以播下恐怖的种子并看着它们开花。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Deathbringer": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Steward of nightmares, demon of dreams, Lillia revels in twisted fantasias that mortify mortal minds. Though she dallies in the war between order and chaos, she rarely joins the fray herself; she has a garden to tend to, after all, sowing seeds of terror and watching them bloom."
+  }
 }

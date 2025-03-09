@@ -107,6 +107,49 @@
     }
   ],
   "description": "크산테는 역경에도 굴하지 않는 것을 자랑스럽게 여겼지만, 이번에 만난 시련은 달랐습니다. 자신의 차원은 사라졌고 새로운 삶을 살고 있으며, 다른 창공들은 무언가가 창공의 빛을 해방했다는 사실을 몰랐습니다. 좋은 일은 아니었죠. 그는 창공들만이 이 상황을 해결할 수 있다는 걸 알았지만, 모두의 눈을 뜨게 하는 게 먼저였습니다. 지도자가 필요했죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 897001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 4
+      },
+      "Neon Flare": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "DeObia Oparei"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "K'Sante prides himself on leading under adversity, but this is a challenge unlike any other. His realm is gone, he's living on borrowed time, and the other Empyreans don't realize that something released the Foreglow. Something bad. He knows only they can fix it, but they need their eyes opened. They need a leader."
+  }
 }

@@ -24,6 +24,26 @@
     }
   ],
   "description": "「戰爭英雄 伊莉絲」是玩家在 2013 賽季裡達到金牌或更高以上的牌階所獲得的獎勵。伊莉絲身著金色戰甲及深紫色長袍，用蜘蛛絲編織出的邪惡網絡困住敵人，在他們掙扎之際輕笑著。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2013-12-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 60002,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2013-12-20",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Sydney Rainin-Smith"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "Victorious Elise was awarded to players who reached Gold or higher in the 2013 season. Spin a wicked web for your enemies in gold-trimmed armor and deep purple robes, and chuckle as they struggle."
+  }
 }

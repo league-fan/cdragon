@@ -137,6 +137,55 @@
     }
   ],
   "description": "身為迦瑪沃爾的王位繼承人，王者之劍的持有者，維爾戈渴望追隨父親的腳步。但對他的顧問克黎思妲而言，他抱持的疑慮早在加冕前就顯而易見，關於「劍的束縛」的耳語也早已傳遍了裁決聖所。但維爾戈戴著「銀白王冠」，佩著他的「聖潔」寶劍，誓言將國家的仇敵斬入恐懼深淵。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-09",
+    "set": [
+      "Ruination"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Meteorite": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "The heir of Camavor, wielder of the Blade of the King, Viego longs to follow in his father's footsteps. To his advisor Kalista, his doubts were clear long before his coronation, as whispers of the sword's bond echoed throughout the Sanctum of Judgement. But he wears the Argent Crown, and with his blade, Sanctity, Viego will strike fear into the enemies of his nation."
+  }
 }

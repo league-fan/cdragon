@@ -60,6 +60,39 @@
     }
   ],
   "description": "승리의 오리아나는 2018 시즌 골드 랭크 이상을 달성한 플레이어에게 지급되었습니다. 필트오버 최고의 기능장들이 오리아나의 신체를 개조했으며, 실험 단계에 있는 마법공학으로 강화했습니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-11-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61008,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2018-11-21",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amber": {
+        "id": 9,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2018"
+      },
+      "Peridot": {
+        "id": 10,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2018"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "Victorious Orianna was awarded to players who reached Gold or higher in Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "金克丝决心证明自己是世界上最棒的糕点师。她利用她那混乱与技艺的独特调配成果，给她的主顾们留下了深刻的印象，并在竞争中脱颖而出！虽然她擅长咸味美食，但她偶尔也会享受一些甜食。不过……在她处于吃糖后的兴奋状态时，千万别去挡她的道。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222051,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 56
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush."
+  }
 }

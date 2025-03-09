@@ -24,6 +24,25 @@
     }
   ],
   "description": "盟約の魔女たちが最初に権力を握ったとき、彼らはエルダーウッドの生ける魔法を求めた。彼らはそれを、自分たちの闇の盟主の復活を助ける道具とみなしたのだ。かくして彼らは大森林を襲い、その子らを虐殺した…あるときひとりの森の者が彼らに立ち向かい、魔女たちの生命と魔力とその名前すら奪うまでは。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-03-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-03-10",
+    "earlysale": "2016-08",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "When the Coven first rose to power, they craved the living enchantments of the Elderwood—a tool, they believed, for the resurrection of their dark patrons. Thus did they fall upon the great forest, and slaughter its children… until a lone sylvan stood against them, stealing the witches' lives, their magic, and even their names."
+  }
 }

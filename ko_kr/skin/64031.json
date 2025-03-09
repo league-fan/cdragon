@@ -158,6 +158,63 @@
     }
   ],
   "description": "정의에 대한 갈망에 사로잡힌 고행자 전사 리 신은 폭풍용 아오 신의 축복을 받고자 산을 올랐습니다. 정상에서 전설적인 용술사가 되어 돌아온 리 신은 이제 곳곳에 있는 악당들에게 벼락과도 같은 벌을 내립니다. 폭풍용의 눈길이 닿는 곳이라면 리 신의 벌을 피할 수는 없습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emberclaw": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Jadeclaw": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A warrior ascetic consumed with an electric passion for justice, Lee Sin climbed the mountain of the storm dragon Ao Shin, hoping to receive his blessing. Having returned from the summit as a legendary Dragonmancer, Lee Sin now doles out thunderous punishment to villains everywhere—ever under the watchful eye of his draconic patron."
+  }
 }

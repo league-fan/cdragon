@@ -199,6 +199,54 @@
     }
   ],
   "description": "想像力への挑戦を続けるジンクスは、ルナーフェスティバル用の武器をいくつも作り出した。その中のひとつが長さ2メートルの怒った龍の形をしたロケットだ。彼女はパーティーを盛り上げる爆竹みたいなものだと言うが、それどころのものではない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-02-10",
+    "earlysale": "2015-12",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Aquamarine": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Golden Tiger": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Rose Quartz": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Never one to turn down an imaginary challenge, Jinx has constructed a number of Lunar Revel weapons, including a seven foot long rocket shaped like an angry dragon. She'll tell you it's a fun firecracker for parties. It is not."
+  }
 }

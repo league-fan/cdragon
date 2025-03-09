@@ -137,6 +137,53 @@
     }
   ],
   "description": "The Ocean Song Festival is lucky to have Nidalee as its performer stylist, with her fashion guides selling almost as much as her albums, but in reality she's here as a featured part of Yone's show. She was the first person he showed his lyrics to, and it's her honor to lend them her voice.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 76029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Roxana Ortega"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "The Ocean Song Festival is lucky to have Nidalee as its performer stylist, with her fashion guides selling almost as much as her albums, but in reality she's here as a featured part of Yone's show. She was the first person he showed his lyrics to, and it's her honor to lend them her voice."
+  }
 }

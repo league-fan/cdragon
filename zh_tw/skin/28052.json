@@ -187,6 +187,65 @@
     }
   ],
   "description": "那個可憐的傢伙一副魂不守舍的樣子，簡直完美。伊芙琳靠著吧檯，傾身向前湊近他，紅唇誘人，臉上浮現甜美的笑容，說道：「帥哥，告訴我你的煩惱吧。」他乖乖照做。他告訴她關於自己兄弟的事，說他受到不公平的待遇，他覺得他可能已經死了但不確定……惡魔盡情享受著他的痛苦。「沒關係，親愛的。」她柔聲低語道。「有我在。」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 55
+      },
+      "Noonday": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Obsidian": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Tanzanite": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 57
+      },
+      "Vendetta": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "High Noon 2024 Premium Pass Bundle"
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "The poor man looks haunted. Perfect. Evelynn leans over the bar top towards him with a sweet smile curling her red lips: “Tell me your woes, handsome.” And he does. He tells her of his brother, and a raw deal, and how he thinks he might be dead now but ain't sure... and the devil drinks deep. “It's alright, darlin',” she coos. “I've got you now.”"
+  }
 }

@@ -25,6 +25,25 @@
     }
   ],
   "description": "빅토르는 조수 스카이를 떠나보낸 뒤로 마법공학에서 완전히 손을 떼려고 했습니다. 그러나 아케인은 빅토르를 다른 운명으로 이끌었습니다. 마공학 핵의 영향을 받은 덕분에 빅토르는 지하도시에서 치유사로서 새로운 소명을 찾았습니다. 이제 빅토르는 마법공학의 진정한 힘과 가능성을 모두에게 보여주고자 합니다. 사람들에게 마법공학을 받아들일 마음이 있어야겠지만요.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112024,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Viktor wanted nothing to do with hextech after the death of his assistant, Sky—but the arcane had different plans for him. In the undercity, he found a new purpose as a healer thanks to the hexcore's effect on him. Now he hopes to show everyone the true power and promise of hextech, should they choose to accept it."
+  }
 }

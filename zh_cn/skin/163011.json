@@ -164,6 +164,59 @@
     }
   ],
   "description": "塔莉垭晚上是一个粗暴喧闹的战士，白天则是一个有点矜持的一年级学生。她与星之守护者们的各种任务对她来说，是一次发现自己想成为什么样的人的机会。在巨大的星光浪潮中冲浪并穿过城市，对她来说是个不错的消遣方式。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Brilliant": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "A rowdy, boisterous fighter by night and a somewhat reserved first year student by day, Taliyah's missions with the Star Guardians are a chance for her to discover the kind of person she wants to become. Surfing across the city on a giant wave of starlight, she's okay with taking her time."
+  }
 }

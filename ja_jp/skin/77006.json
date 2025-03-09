@@ -112,6 +112,49 @@
     }
   ],
   "description": "ウディアは、多くを犠牲にして墨影の戦士たちに刺青を施す彫師となり、彼は生まれ持った自らの透視能力を高めるため、肉体の各部位を複数の精霊に捧げ、その体を魔法の契約で覆った。彼は戦士というカンバスの奥にある魂を見抜き、支払うべき代償を把握することで、成すべきことを果たすための力を与えてくれる精霊たちと結びつけている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 77006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Inked": {
+        "id": 11,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 7,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Sean Rohani"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Udyr has given up much as tattoo artist for the Inkshadow Warriors, sacrificing pieces of himself to multiple spirits and covering his body in their arcane contracts to enhance his natural second sight. He sees the souls of his canvases, knows the price they must pay, and connects them to the spirits who will give them the power to do what must be done."
+  }
 }

@@ -142,6 +142,54 @@
     }
   ],
   "description": "Why was the spearman chosen, dear Wolf? Did his spirit catch your eye, or was it his steadfastness? Regardless, he has done what was asked of him. He was a worthy first test for the mighty Noxian general. What fate awaits him now? He will prove his worth once more, and join the hunt.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Why was the spearman chosen, dear Wolf? Did his spirit catch your eye, or was it his steadfastness? Regardless, he has done what was asked of him. He was a worthy first test for the mighty Noxian general. What fate awaits him now? He will prove his worth once more, and join the hunt."
+  }
 }

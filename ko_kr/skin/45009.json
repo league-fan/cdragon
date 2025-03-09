@@ -77,6 +77,37 @@
     }
   ],
   "description": "불평불만이 많은 포병 전문가 베이가는 정말 사소한 문제에도 우선 많은 양의 폭발물부터 꺼내고 보는 골치 아픈 버릇이 있습니다. 본인 딴에는 매력적인 개성이라 여기지만요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A heavy artillery specialist with a serious chip on his shoulder, Veigar has a troubling habit of calling down huge amounts of explosive ordnance for even the most mundane problems. He thinks of it as “a fun quirk.”"
+  }
 }

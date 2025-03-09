@@ -24,6 +24,23 @@
     }
   ],
   "description": "사탕을 받기 위해 마을 밖 숲을 지나는 위험을 무릅쓰는 주민은 거의 없습니다. 보이지 않는 누군가의 시선이 느껴지고, 심지어 나무마저 끔찍한 굶주림에 시달리는 그 음산한 숲속에서 많은 이들이 사라졌기 때문이죠…",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Volta Studio"
+    ],
+    "lore": "Few locals dare to trick-or-treat past the forest just outside of town. Too many have vanished within that dreary woodland, where one feels the weight of unseen eyes, and even the trees are driven by a terrible hunger…"
+  }
 }

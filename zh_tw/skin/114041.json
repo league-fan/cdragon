@@ -143,6 +143,56 @@
     }
   ],
   "description": "菲歐拉很小的時候就在父親的指導之下加入了時光特警。父親與時間逃亡者的衝突敗壞了他的名聲，而菲歐拉原本美好的前程也瞬間蒙上一層陰影，但她撐了過去。如今，為了重拾家族的名譽，她將自己打造成時光特警中最完美的典範。而最近爆發出的祕密又讓她再一次感到不知所措，因為這個祕密跟追憶者真正的目標有著極大的關係…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-14",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Chrono": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Citrine": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "Fiora joined the Chrono-Enforcers at a young age under the tutelage of her father. When a conflict with a temporal fugitive left him disgraced, her future was thrown into doubt, but Fiora endured. Now, despite having reclaimed her family's reputation, and forged herself into an utter paragon of the Chrono-Enforcers, recent revelations have cast her into doubt once more, but this time about the Remembrancer's true purpose..."
+  }
 }

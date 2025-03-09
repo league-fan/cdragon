@@ -132,6 +132,51 @@
     }
   ],
   "description": "전설의 산수화로 알려진 신비한 그림 속 신성한 폭포에 광신 진을 봉인한 수호자입니다. 수천 년 넘게 힘과 자유, 진정한 신성을 주겠다는 진의 속삭임을 들은 노틸러스는 결국 진을 풀어 주고 말았습니다. 이제 분노로 뒤틀린 노틸러스의 강에는 물이 아닌 용암이 흐릅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "A guardian who helped seal the mad god Jhin within a holy waterfall, as depicted within the mysterious painting known as the Shan Hai Scrolls. Over the millenia, Jhin has whispered of power, freedom, and true godhood to Nautilus, until he finally released him. Now twisted with anger, Nautilus's rivers run not with water, but molten magma."
+  }
 }

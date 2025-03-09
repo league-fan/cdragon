@@ -159,6 +159,64 @@
     }
   ],
   "description": "卡瑪掌管著死亡和重生的星界輪迴。她戰鬥的目的，是為了在靈魂們踏上輪迴之旅時保護靈魂的泉源。但遠超其它星界存在的是，她照看著受她指引的凡間靈魂們，並且努力創造一個更加井然有序的世界。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43019,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "100 Mythic Essence",
+    "release": "2019-12-12",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Catseye": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Peridot": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 25,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world."
+  }
 }

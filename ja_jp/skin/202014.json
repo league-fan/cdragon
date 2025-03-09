@@ -132,6 +132,55 @@
     }
   ],
   "description": "太古から存在する謎めいた絵巻物の中に住む狂気の神ジンは、紙面での暮らしに辟易しており、自分の芸術を新たな観衆に披露したいと願うようになった。彼はこの幽閉状態から逃れられるよう、絵巻物の隅を織って多元的宇宙の世界を作り始めたのであった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "filter": false,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "A mad god who resides within a mysterious painting older than creation, Jhin has grown bored of the canvas in which he dwells and wishes to bring his art to new, fresh eyes. He has begun weaving the edges of the painting into the fabric of the multiverse, hoping to escape his confinement."
+  }
 }

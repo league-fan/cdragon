@@ -148,6 +148,57 @@
     }
   ],
   "description": "초능력으로 타격을 강화하는 훈련을 받은 육탄전 전문가 바이는 앞으로 돌진해 주먹을 날리며 다른 대원들이 처리하기 까다로운 대상을 해치웁니다. 바이는 그 어떤 대상과도 싸울 것입니다. 40년 전 설원 특공대 사건의 오래된 이족 보행 설원 로봇도 예외는 아니죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Granite": {
+        "id": 27
+      },
+      "Hunter": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "A hand-to-hand combat specialist trained in psychically enhancing her blows with her mind, Vi takes care of “hard targets” for the rest of the PsyOps crew… generally by rushing ahead and punching them apart. She will fight anything and everything, including the old bipedal winter mechs from the Arctic Ops event 40 years prior."
+  }
 }

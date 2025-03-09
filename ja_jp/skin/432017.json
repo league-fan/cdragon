@@ -148,6 +148,58 @@
     }
   ],
   "description": "一切言葉を発することなくさまよい続けるバードは、超一流のカフェ鑑定家だ。彼がティーカップ型の恵みを置いていった店には、百年に渡る甘美な成功が待っている。このティーポットのような吟遊詩人がどこからやってきたのか、美味しいケーキを楽しむ以外にどんな目的を持っているのかは誰も知らないが、バードが訪れたカフェは瞬く間に話題になることだけは間違いない！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!"
+  }
 }

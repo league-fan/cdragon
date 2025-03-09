@@ -12,104 +12,510 @@
       "name": "銳空",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2017-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-04-18",
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro",
+          "Jason Chan",
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties, and anarchic music. Few would suspect this energetic, traveling showman is also partner to the rebel Xayah, and is dedicated to her cause."
+      }
     },
     {
       "id": 497001,
       "name": "星河黎羽 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-04-18",
+        "earlysale": "2017-11",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Dawn chases dusk beneath the sea, two lovers locked in an endless waltz across the stars. Thus Rakan is never far behind Xayah, his breaking light glowing always above her shadow."
+      }
     },
     {
       "id": 497002,
       "name": "比翼甜心 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-02-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-12",
+        "set": [
+          "Heartbreakers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Love is in the air, and this time Rakan has a plan. He swears, this time, it will definitely, almost absolutely certainly happen. He's thought about every poetic phrase, every dreamy dance move—but still, he can't decide on what the perfect gift would be: chocolates, or flowers?"
+      }
     },
     {
       "id": 497003,
       "name": "SSG 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-07-20",
+        "set": [
+          "World Champions: 2017"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Rudy Siswanto",
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring CoreJJ's winning performance as Rakan during the 2017 World Championship. "
+      }
     },
     {
       "id": 497004,
       "name": "iG 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-04-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-23",
+        "set": [
+          "World Champions: 2018"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Baolan's winning performance as Rakan during the 2018 World Championship."
+      }
     },
     {
       "id": 497005,
       "name": "星光戰士 銳空",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-09-12",
+        "set": [
+          "Star Guardian Season 3"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 6,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen",
+          "Atey Ghailan"
+        ],
+        "lore": "Many years ago, Rakan was destroyed in the fight against Zoe, alongside his lover Xayah. The pair were then resurrected and turned against their allies "
+      }
     },
     {
       "id": 497009,
       "name": "神木精靈 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497009,
+        "availability": "Available",
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 10
+          },
+          "Emberwood": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Star-crossed lovers uninterested in the affairs of mortals, their playful romance has insulated their people from the horrors befalling the outside world."
+      }
     },
     {
       "id": 497018,
       "name": "戀人 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          },
+          "Tanzanite": {
+            "id": 23
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "One half of a perpetually incomplete whole, Rakan's fated love was not in the Lower World, but among the Higher Arcana far above. As the two rush to meet betwixt the lands of their birth, fate bubbles and boils over—a roiling sea from which a new order may emerge."
+      }
     },
     {
       "id": 497027,
       "name": "破碎盟約 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Rakan's mouth always got him into trouble, and after getting caught stealing from Vladimir and nearly killed, he awoke to find himself a newly turned Neverghaast, thanks to his beloved Xayah. In the time they've been separated while she repays his debt, Rakan can feel his thirsts grow and dreads showing his partner the monster he fears he's becoming."
+      }
     },
     {
       "id": 497036,
       "name": "重生星光戰士 銳空",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-10-11",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 5,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "The darkness never suited Rakan—the First Star's light complements the glossy shine of his hair more than any chaos magic could. Plus, making evil plans is not really his style. A guardian once more, Rakan can now enjoy a welcome respite and perhaps a dance or two with Xayah."
+      }
     },
     {
       "id": 497037,
       "name": "雙相古龍 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 41
+          },
+          "Citrine": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 42
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 45
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Rakan wished to fight by his beloved Xayah's side, vowing to be her worthy equal after she gained the fenghuang's blessing. This vow took him inward, to a landscape of his nightmares, to confront his fears given form. Unflinching in battles of the mind and body, guarding the purity of his heart and love, Rakan earned the grace of the Devotion Dragon."
+      }
     },
     {
       "id": 497038,
       "name": "尊爵不凡 雙相古龍 銳空",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497038,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 37,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "The dragon-blessed Rakan sports clean-cut scale textures and sharp selections of armor to highlight his best angles. His charm shines through the elegant, organic swoops of his form-fitting wear—and his devotion to the runway is unbeatable."
+      }
     },
     {
       "id": 497047,
       "name": "戰爭學院 銳空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": null
+      "wikiSkinData": {
+        "id": 497047,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 55
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Rakan was content to coast his way through Babylon Academy. Then he saw Xayah at last year's prom—and ditched his date for her. Now in a fiery new relationship, he's managed to talk his way into becoming captain of the Luminary Club, just so he can be at the tournament and see his love at her best. If they win? Even better."
+      }
     }
   ]
 }

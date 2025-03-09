@@ -137,6 +137,53 @@
     }
   ],
   "description": "사운드 도시의 네온빛 해커인 아크샨은 지하 세계의 영웅이 되었습니다. 용기와 기지, 그리고 보안이 철저한 회사 건물에도 발각되지 않고 침투할 수 있는 불가사의한 능력 덕분이죠. 모두를 홀리는 굉장한 매력도 한몫하지만요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 166001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-22",
+    "set": [
+      "Cyber Pop"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Sunil Malhotra"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The Neon Rogue of Sound City has become the hero of the underground, largely due to his bravery, his wit, and his uncanny ability to sneak into highly-secure corporate buildings without being detected. Being charming as hell doesn't hurt, either."
+  }
 }

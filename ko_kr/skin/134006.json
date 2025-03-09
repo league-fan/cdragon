@@ -160,6 +160,61 @@
     }
   ],
   "description": "신드라는 두려움과 존경을 동시에 불러일으킬 만큼 압도적인 존재감을 풍기는 초기의 별 수호자지만 그녀의 과거는 그림자에 가려져 있습니다. 현재는 아리가 이끄는 수호단에서 조언자 역할을 하고 있으며 단장 아리의 신뢰를 받고 있지만 일부 단원들은 신드라가 개인적인 야심을 위해서라면 어떤 대가든 치를 거라는 의심을 품고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-06",
+    "earlysale": "2018-02",
+    "set": [
+      "Star Guardian Season 2"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "splashartist": [
+      "Jean 'Curing' Go",
+      "Esben Lash Rasmussen",
+      "Alex 'alexplank' Flores",
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Feared and admired, Syndra is a formidable Star Guardian from an earlier era, whose history is cloaked in shadow. She acts as an advisor on Ahri's team, but despite her captain's trust, some members suspect there is no price that Syndra won't pay to achieve her personal ambitions."
+  }
 }

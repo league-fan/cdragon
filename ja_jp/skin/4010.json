@@ -24,6 +24,26 @@
     }
   ],
   "description": "ブラッドムーン教団の真の指導者については伝聞や噂話しか届いてこない。仮面の試練を初めて通過したのは彼であり、肉体を悪魔の魂に委ねる秘法を解明したのも彼である。今でも彼は人間なのか、その問いに答えられる者はいない。しかしその存在が永続的なもので、常に監視を続けていることは確かである。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-02-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-02-09",
+    "earlysale": "2017-08",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "The Blood Moon cult's true leader is shrouded in whispers and hearsay. It is he who first passed the trial of the masks, and he who unraveled the secrets of surrendering one's flesh to the demon spirits. Whether he is still human, none can say—but he is ever present, and always watching."
+  }
 }

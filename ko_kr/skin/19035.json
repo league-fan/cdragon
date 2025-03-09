@@ -160,6 +160,62 @@
     }
   ],
   "description": "한때 아버지 늑대로 알려졌던 워윅은 숲을 배회하며 달빛 속에서 잔혹한 사냥을 즐겼습니다. 그늘 결사단은 굴에 있는 워윅을 죽여 그 만행을 끝내려고 했지만 고대 신에게 죽음은 아무것도 아니었죠. 워윅은 가만히 숨죽이고 있지 않았습니다. 아버지 늑대는 다시 한번 밤을 향해 울부짖으며 사냥의 맛을 갈망합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven",
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 42
+      },
+      "Citrine": {
+        "id": 37
+      },
+      "Dark Ritual": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Once known as Father Wolf, Warwick roamed the wood and reveled in moonlight's bloody hunt. The Eclipse Order thought to slay him in his den and end his barbarity—but death means nothing to Old Gods, and he did not stay down. Father Wolf howls into the night once more, now slavering for the taste of human flesh."
+  }
 }

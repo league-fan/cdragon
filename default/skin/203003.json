@@ -148,6 +148,57 @@
     }
   ],
   "description": "In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 203003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Night Blossom": {
+        "id": 11,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Peridot": {
+        "id": 6
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Marcella Lentz-Pope",
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…"
+  }
 }

@@ -226,6 +226,59 @@
     }
   ],
   "description": "ティーモは毎年、お祭りのために得意の餃子を調理しているが、この餃子は文字通り、毎年“大当たり”となる。彼の餃子は、爆発的にパンチが効いているのだ！その破壊力は、建物への被害に対して請求される弁償代に勝るとも劣らない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17037,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Golden Tiger": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 41
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Teemo cooks up his specialty steamed dumplings every year for the revel, and every year they're a big hit— literally. Those explosives pack a punch! Almost as much of a punch as the bill for all that property damage."
+  }
 }

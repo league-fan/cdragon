@@ -160,6 +160,66 @@
     }
   ],
   "description": "在遠古霸者入侵初期失去了許多同袍後，雷玟自願加入了最終成為百獸特攻隊的組織。在一連串的勝戰後，她早已聲名遠播：受眾人景仰的戰爭英雄。...所以，為什麼在全世界最需要她的時候，她會突然人間蒸發呢？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Nightwire": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Paragon": {
+        "id": 72,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Riven volunteered for what would eventually become Anima Squad after losing many comrades in the early days of the Primordian invasion. A string of victories later, she is famous: a war hero looked up to by all. ...So why has she suddenly vanished when the world needs her most?"
+  }
 }

@@ -136,6 +136,54 @@
     }
   ],
   "description": "路西恩前身是一位聯邦元帥以及僱傭槍手，但他為了保全自己摯愛的生命，與惡魔簽訂契約使自己的靈魂被腐化。手持雙槍、身上擁有來自地獄的詛咒力量的他在高原邊境中狩獵惡魔，希望有朝一日能夠復仇。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 22
+      },
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tenfold Triumph": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A former federal marshal and gunslinger for hire, Lucian's soul was corrupted when he made a deal with the devil in order to spare the life of his one true love. Double-crossed, and cursed with the powers of hell, he now hunts this devil across the high frontier, seeking revenge."
+  }
 }

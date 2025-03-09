@@ -137,6 +137,54 @@
     }
   ],
   "description": "트위스티드 페이트는 악당일지언정 일 하나는 확실히 끝내는 사람으로 은하계 전역에 명성이 자자합니다. 하지만 그런 그조차 오래전 잃어버린 파트너 그레이브즈를 찾지 못하고 있죠. 그래서 어떤 고양이들이 전설적인 지하 디스코 클럽 '잼'의 위치와 그레이브즈의 행방에 관한 정보를 교환하자고 했을 때 기꺼이 받아들였습니다. 클럽에 불청객 몇 명이 간다고 큰 문제가 생기겠어요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Rainbow": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "He may be a scoundrel, but Twisted Fate is known the galaxy over as someone who gets things done. But even he can't find a trace of his long lost partner, Graves. So when some cats offered him intel on Graves' whereabouts in exchange for the location of the legendary underground disco, The Jam, he happily obliged. What's a few party crashers, anyway?"
+  }
 }

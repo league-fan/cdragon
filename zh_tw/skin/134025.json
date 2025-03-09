@@ -172,6 +172,51 @@
     }
   ],
   "description": "沒有南瓜燈大軍的萬聖慶典就稱不上是慶典了！星朵拉從天空變出幾百顆大南瓜，它們歪七扭八的咧嘴笑逗樂了下面的孩子們。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134025,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "No celebration would be complete without the March of the Pumpkin Lanterns! Syndra conjures hundreds of great gourds from the sky, their crooked smiles delighting the children below."
+  }
 }

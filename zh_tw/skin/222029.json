@@ -150,6 +150,50 @@
     }
   ],
   "description": "情場如沙場，而吉茵珂絲有備而來！她裝備著她令人喜愛的惡鯊火箭，已經準備好要讓別人心碎了—或許碎一些骨頭。但如果她夠喜歡你，她或許已經準備好玩得溫柔一點。或許吧，但我猜應該不會。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222029,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-04",
+    "set": [
+      "Heartbreakers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Aquamarine": {
+        "id": 31
+      },
+      "Catseye": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Love is a battlefield, and Jinx comes prepared! Armed with her beloved companion Fishbones, she's ready to break hearts—and bones. But if she likes you enough, she's prepared to play nice. Maybe. Probably not."
+  }
 }

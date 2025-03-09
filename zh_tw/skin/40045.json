@@ -160,6 +160,60 @@
     }
   ],
   "description": "作為 RSM 研發部門的一件實驗品，珍娜是史上唯一成功使用人造人來駕駛戰鬥外套的案例。也許是她看起來太過栩栩如生，大多數人都忘了她指揮的「風勢」其實是一支奈米機器人艦隊，直接連結至 X09-Zephyr 以及她的中央處理核心。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "An experiment from RSM's R&D division, Janna is the only successful use of an android to pilot an exosuit in history. Perhaps it's because she looks so human that most forget the gusts of “wind“ she commands are actually a fleet of nanobots connected directly to both the X09-Zephyr as well as her central processing core."
+  }
 }

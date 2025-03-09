@@ -160,6 +160,60 @@
     }
   ],
   "description": "A normal girl from the Normal World, Lux picked up a groove-enhancing staff to defend her planet from the Harsh Vibes… inadvertently discovering she could channel mighty blasts of concentrated disco music. Sailing into space with her mercenary bodyguard, Samira, Lux now stands as the bubbly bastion of good against an evil alien armada and their terrible taste in music.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Citrine": {
+        "id": 23
+      },
+      "Disco": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Rainbow": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Svetlana Tigai",
+      "West Studio"
+    ],
+    "lore": "A normal girl from the Normal World, Lux picked up a groove-enhancing staff to defend her planet from the Harsh Vibes… inadvertently discovering she could channel mighty blasts of concentrated disco music. Sailing into space with her mercenary bodyguard, Samira, Lux now stands as the bubbly bastion of good against an evil alien armada and their terrible taste in music."
+  }
 }

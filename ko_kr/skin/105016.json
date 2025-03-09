@@ -137,6 +137,54 @@
     }
   ],
   "description": "바다에도 악마가 살고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105016,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-22",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "Sea's a dwelling place for demons."
+  }
 }

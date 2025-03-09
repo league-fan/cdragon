@@ -108,6 +108,48 @@
     }
   ],
   "description": "영겁의 시간을 다스리는 관리인, 사막의 수호자 라이즈여. 그대에게 요청하노니 우리가 만들어낸 악으로부터 우리를 보호해 주길. 신성한 땅에 그 누구도 발 디디지 못하게 하길. 침입자는 정의로운 마법의 힘으로 모래 언덕 속에 가두어 버리길...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 13013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Ryze, the eternal conservator—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your righteous magic entomb them beneath the dunes."
+  }
 }

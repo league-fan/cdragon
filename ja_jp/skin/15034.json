@@ -138,6 +138,54 @@
     }
   ],
   "description": "シヴィアは元々はペイストリー職人だったが、のちに「店内接客の防衛スペシャリスト」へと転身した。守る意識が強すぎるせいで粗暴な客と喧嘩になることもあるが、彼女は自分の仕事と仲間たち、そしてこのカフェを心から愛するがゆえに戦っている。店主と話をしたいなら、まずは彼女に話を通す必要がある。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 15034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Sivir began as a pastry chef, but has since transitioned to “front-of-house defense specialist”. Her protective nature has gotten her into a few scraps with unruly customers, but Sivir's love of her work, her friends, and the cafe is what she's really fighting for. If you want to talk to the manager, she's got some words for you, too."
+  }
 }

@@ -24,6 +24,22 @@
     }
   ],
   "description": "雪默丁格透過頭上帶有魔力的紳士帽獲得生命，現在他致力於追求所有關於霜降節的科學理論，包括雪球的運動軌跡、可可亞冷卻的速度以及自動化炮臺的建造，連他臉上的紅蘿蔔鼻子都是他自己製作出來的。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74004,
+    "formatname": "Snowmerdinger",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "transforming": true,
+    "vu": true,
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "lore": "Brought to life by the power of a magic hat, Snowmerdinger now pursues theoretical Snowdown sciences including snowball trajectory, cocoa cooling speeds, and automated turret construction. He engineered his own strain of carrot noses."
+  }
 }

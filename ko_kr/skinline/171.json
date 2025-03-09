@@ -8,168 +8,1150 @@
       "name": "영혼의 꽃 마스터 이",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11052,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 81
+          },
+          "Emerald": {
+            "id": 83
+          },
+          "Night Blossom": {
+            "id": 88,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 87
+          },
+          "Pearl": {
+            "id": 86
+          },
+          "Rose Quartz": {
+            "id": 84
+          },
+          "Ruby": {
+            "id": 80,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 82
+          },
+          "Turquoise": {
+            "id": 85
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "West Studio"
+        ],
+        "lore": "Legends speak of Master Yi, a swordsman who took but one student in his lifetime. After an unceremonious betrayal, Yi perished—not from a blade, but from a broken heart. Now the Spirit of Legacy roams the spirit world, searching for a pupil. He is lost, anyone that joins him destined to face the same fate."
+      }
     },
     {
       "id": 11053,
       "name": "프레스티지 영혼의 꽃 마스터 이",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11053,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 52,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Yi arrives at the Spirit Blossom Fashion Festival, donning tinted shades and the finest fabrics. While others prefer to celebrate with close family and friends, Yi revels in the attention his outfit brings, intent to cement his style \"legacy\"."
+      }
     },
     {
       "id": 16027,
       "name": "영혼의 꽃 소라카",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 30
+          },
+          "Night Blossom": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 33
+          },
+          "Turquoise": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "In a secluded corner of the Akana forest, Soraka weeps for those she's lost. Each life cut short she longed to save, but for as many that welcome her as a savior, there are others who see her power as a merciless cruelty. To the Spirit of Pity, death is never a blessing."
+      }
     },
     {
       "id": 17025,
       "name": "영혼의 꽃 티모",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 17025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "A trickster spirit and a child of the forest, Teemo is famed across Ionia as the embodiment of nature… though his more onerous accolade is the king of pranks. A consummate gadfly and lover of all things annoying, his exploits in tricking mortals have graced the pages of Ionian history for hundreds of years."
+      }
     },
     {
       "id": 17027,
       "name": "프레스티지 영혼의 꽃 티모",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 17027,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 25,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Dylan Deng"
+        ],
+        "lore": "Having abstained from pranking his “best friend forever” literally once, the Spirit of Salvation has gifted Teemo with his wildest dream—becoming shiny and gold. Never one to leave anybody alone, ever, he has promised his BFF to prank them at every opportunity, every day, until they die and join him in the spirit realm. Good luck to them."
+      }
     },
     {
       "id": 18051,
       "name": "영혼의 꽃 트리스타나",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18051,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 55
+          },
+          "Night Blossom": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 59
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 54
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "For those that seek glory on the battlefield, to those that look to the spirits for a bountiful harvest, Tristana greets all with a toothy grin. The Spirit of Chance has no favorites, no obligations or motives. She simply delights in the chaos, the fear in men's eyes at the roll of the dice."
+      }
     },
     {
       "id": 28032,
       "name": "영혼의 꽃 이블린",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28032,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 34
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Night Blossom": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 39
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 33,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 36
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "Come. Leave your flesh behind and pass into the Spirit World. Bring with you only your desires, your vices, your painful memories. Let the Spirit of Love feed on these unwanted temptations, for her hunger is ravenous. Evelynn will show you peace at last."
+      }
     },
     {
       "id": 67014,
       "name": "영혼의 꽃 베인",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 67014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19
+          },
+          "Night Blossom": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "lore": "Vayne came from a lost clan of monster hunters, annihilated to the last when the primordial demon of pain chanced upon their hidden village. Unable to let go, and doomed to her own obsessions for eternity, she hunts the creature without end, always unable to catch it."
+      }
     },
     {
       "id": 69009,
       "name": "영혼의 꽃 카시오페아",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 69009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 11
+          },
+          "Night Blossom": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Turquoise": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "Rumored to have once been a beautiful princess, legend says Cassiopeia vanished into the mountains when her sister staged a coup, never to return. So great was her beauty, and so renowned her cunning, that a shrine was built to honor this 'spirit of temptation', until her story was accepted into popular folklore."
+      }
     },
     {
       "id": 83030,
       "name": "영혼의 꽃 요릭",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 83030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 35,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Night Blossom": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "The grove he called home burnt to ashes before his very eyes. While another retreated into solitude, Yorick allowed the rage to consume him. The flowers and trees that bloom in the Spirit of Ruin's wake are haunting, the gardeners that tend to them howling creatures of the night."
+      }
     },
     {
       "id": 92023,
       "name": "영혼의 꽃 리븐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Night Blossom": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A brave warrior from an ancient land, Riven was ignobly cut down in the heat of battle thousands of years ago, her sword shattering in the process. Unable to find peace, she obsessively scours an otherworldly battlefield for pieces of her broken blade, possessed by a horrific darkness that guides her into oblivion."
+      }
     },
     {
       "id": 103027,
       "name": "영혼의 꽃 아리",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Ahri-versary": {
+            "id": 62
+          },
+          "Aquamarine": {
+            "id": 29
+          },
+          "Night Blossom": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "The famed Spirit of Salvation, and the fox all mortals are beckoned towards when their souls arrive to the spirit realm. A capricious, whimsical spirit who sees the fate of the living as a game of chase, she offers the chance for souls to find their final rest… but will not intervene if they stray from the path."
+      }
     },
     {
       "id": 122043,
       "name": "영혼의 꽃 다리우스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 122043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 46
+          },
+          "Emerald": {
+            "id": 47
+          },
+          "Night Blossom": {
+            "id": 52,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 44,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 49
+          },
+          "Turquoise": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Chuck Kourouklis"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Darius' body fell to the dirt, yet another soldier's sacrifice. But his soul would not rest. Picking up his axe just as soon as it was knocked from his mortal hand, the Spirit of War arose. A calamity motivated only towards bloodshed, Darius stalks the mortal world, searching for the thrill of battle. "
+      }
     },
     {
       "id": 134044,
       "name": "영혼의 꽃 신드라",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 134044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 47
+          },
+          "Night Blossom": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Children hear stories of the savior of lost souls, the ever-reclusive Spirit of Freedom. One such speaks of a tree that wrapped its roots around a wandering wisp. The wisp struggled alone—until Syndra ripped off the bindings that held it tight, as she would do for all creatures, lest they be lost forever. "
+      }
     },
     {
       "id": 157036,
       "name": "영혼의 꽃 야스오",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 157036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 42
+          },
+          "Night Blossom": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Long ago, two brothers fought a bitter war across Ionia. Yasuo, the younger brother, was a warlord renowned for his roguish demeanor—until he was accused of crimes against the country and took up arms to defend himself. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+      }
     },
     {
       "id": 203003,
       "name": "영혼의 꽃 킨드레드",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 203003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Catseye": {
+            "id": 5
+          },
+          "Night Blossom": {
+            "id": 11,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Peridot": {
+            "id": 6
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…"
+      }
     },
     {
       "id": 412017,
       "name": "영혼의 꽃 쓰레쉬",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Night Blossom": {
+            "id": 26,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "An ancient demon of obsession, Thresh delights in tormenting the spirits of those he deems as flawed, but blossoming with potential. He haunts the spiritual afterlife as a supreme collector of souls, tempting the dead away from their path to salvation until they are trapped for eternity within their own memories."
+      }
     },
     {
       "id": 523020,
       "name": "영혼의 꽃 아펠리오스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 523020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 23
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Night Blossom": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "Ionians share whispered stories of the twin spirits of the night, Aphelios and Alune. It is said the darkening of the sky comes from the brother's armaments, tearing the fabric of blues and whites apart to create an obsidian canvas painted with stars. The sister's motives are more... mysterious."
+      }
     },
     {
       "id": 777001,
       "name": "영혼의 꽃 요네",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 3
+          },
+          "Catseye": {
+            "id": 4
+          },
+          "Emerald": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Night Blossom": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Tanzanite": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Long ago, two brothers fought a bitter war across Ionia. Yone, the older brother, was a warlord renowned for his adherence to honor and duty. He fought to defend the country against those who would break its rites and rituals - until he was forced to confront his own brother for his crimes. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+      }
     },
     {
       "id": 875038,
       "name": "영혼의 꽃 세트",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Night Blossom": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Some guide the dead down the path; others tempt them from it. Another still has no allegiances, as his spirit lies in conflict with itself. Born from Kanmei and Akana, Sett lived harmoniously until, abandoned by his father, he sought retribution. Now he can only catch whispers of salvation as he spends his days challenging slain warriors, testing their worth. "
+      }
     },
     {
       "id": 876001,
       "name": "영혼의 꽃 릴리아",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 876001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 7
+          },
+          "Citrine": {
+            "id": 5
+          },
+          "Night Blossom": {
+            "id": 9,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 3
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 8
+          },
+          "Turquoise": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "A shy fawn spirit, Lillia once served as the guardian of a sacred Ionian forest—until her grove was destroyed and cast into flame. Consumed by loss, she now slumbers in the spirit realm, reliving the destruction in an unending nightmare—unaware of the timid hope still waiting to bloom..."
+      }
     }
   ]
 }

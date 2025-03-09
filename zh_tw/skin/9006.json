@@ -72,6 +72,40 @@
     }
   ],
   "description": "每個人都跟你說，雇用一個小丑是個好主意。「小丑對派對來說很棒」他們如此說。但現在，每個人都失蹤了，電也停了，並且有個東西正在大廳之下肆意狂笑……",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-10-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-10-27",
+    "set": [
+      "Surprise Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Peridot": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Everyone told you hiring a clown would be a good idea. “Clowns are great for parties,” they said. But now everyone's missing, and the power is out, and something's laughing just down the hall..."
+  }
 }

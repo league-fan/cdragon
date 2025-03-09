@@ -124,6 +124,51 @@
     }
   ],
   "description": "為了成為更優秀的魔物獵手，汎加入哨兵組織，主要是想提升自身的武裝，並從他們與黯霧的戰鬥中學習。當然，也能順勢保衛符文大地不受邪惡侵襲。就算被迫要與葛雷夫這般蠢貨保持友好關係，她也願意。畢竟收穫絕對值得。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-07-08",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Resolute": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Ever striving to become a better monster hunter, Vayne joins the Sentinels primarily to advance her own arsenal and learn from their battle with the Black Mist. It doesn't hurt that she is also defending Runeterra from evil, of course. If she must endure the friendship of a fool like Graves to do so, she will. The cause is worth it."
+  }
 }

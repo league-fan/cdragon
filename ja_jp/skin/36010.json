@@ -117,6 +117,45 @@
     }
   ],
   "description": "かつてはウィンターランドの辺境に住むハンサムな王子だったムンドは氷の邪王トゥイッチの呪いを受けて穢れ、野蛮な奴隷となってしまった。しかし彼は今でも自分は高貴な王族だと思い込んでおり、どこでも我が物顔で歩き回っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36010,
+    "formatname": "Frozen Prince Mundo",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Once a handsome prince from an outlying region of the Winterlands, Mundo was touched by the curse of Ice King Twitch—corrupting him into a brutish thrall. He's still convinced he's the same statuesque royal as before, and as such… goes where he pleases."
+  }
 }

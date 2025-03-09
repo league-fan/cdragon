@@ -162,6 +162,48 @@
     }
   ],
   "description": "庫奇是風靡 1980 年代的頂尖射手，他無所畏懼，是那一世代的代表人物。他奮力抵抗維迦的戰鬥魔王軍團，如同他對抗數千發光彈那樣，用迅雷般的速度搶先一步擊落那些試圖攻擊他的敵人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 42008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2016-12",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "lore": "The fearless protagonist of a 1980s top-down shooter, Corki resists Veigar's battle bosses the same way he resists being shot down by thousands of glowing bullets—move fast, and shoot everything before it shoots him."
+  }
 }

@@ -49,6 +49,36 @@
     }
   ],
   "description": "改造後提高了敏捷性的菲歐拉，用她的零脈衝劍和艾希為首的 G/NETIC 反抗軍一同並肩作戰。這把充滿能量的長劍能讓她以毫無瑕疵的精準度及最大的力量來攻擊並擊退敵人，其劍鋒上包裹的三維空間原子物質最適合用來進行一對一的單挑。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114004,
+    "formatname": "PROJECT: Fiora",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-02",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Reckoning": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Augmented for speed, Fiora uses her zero-pulse sword to fight alongside Ashe and the other members of G/NETIC. The full-length energy blade allows for flawless attack precision and maximum repel strength, while the spatially controlled atomic tip coating is most suited for single-target combat."
+  }
 }

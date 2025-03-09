@@ -143,6 +143,57 @@
     }
   ],
   "description": "潘森是一条时间线中的唯一幸存者，这条时间线已被禁卫机甲们吞噬。在劫掠者们把他放倒并让他自生自灭时，他并没有屈服。现在的他穿上了未来战士战服，追捕着那些胆敢创造异常点的人们，因为这些异常点会释放出在时间和空间上自由行动的机器人大军。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-14",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Aquamarine": {
+        "id": 19
+      },
+      "Chrono": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "The sole survivor from a timeline devoured by Praetorians, Pantheon refused to succumb when the marauders ran him through and left him for dead. He now dons the Pulsefire suit to hunt down those who would dare risk creating the anomalies that unleash the robotic hordes upon time and space."
+  }
 }

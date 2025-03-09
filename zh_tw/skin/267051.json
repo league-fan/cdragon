@@ -119,6 +119,52 @@
     }
   ],
   "description": "深淵巨獸從遙遠深處呼喚娜米，她從他們的聲音裡感覺到一股自己生平僅見的力量，而娜米的使命便是灌輸壯大這股力量。現在的她已捨棄誓言和女巫集會，花費了無數個夜晚徘徊在神木森林的幽暗水道之下，只為了尋找獻給巨獸的下一個祭品。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267051,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 56
+      },
+      "Profane": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Joshua Raphael",
+      "West Studio"
+    ],
+    "lore": "They called to Nami from the deep, their voice carrying a promise of power greater than any she had ever known. All Nami needed to do was feed it. She has now forsaken her oaths, her coven, spending endless nights lurking just below the murky waterways of the Elderwood in search of her next sacrifice to the Leviathan."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "During a daring heist at the local cheesery, Twitch dove headfirst into a wedge of aged Swiss and was trapped. He escaped, but with his head encased! Over time food and rat became one, and Twitch now revels in his role as the \"big cheese\" of the criminal underworld, proclaiming to all who question his dairy dominance: \"Brie-ware!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Food Fight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Berry Cake": {
+        "id": 59
+      },
+      "Bleu": {
+        "id": 57
+      },
+      "Cheddar": {
+        "id": 58
+      },
+      "Cheesecake": {
+        "id": 61
+      },
+      "Chocolate Pie": {
+        "id": 62
+      },
+      "Matcha Cake": {
+        "id": 60
+      },
+      "Rainbow Cake": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 56,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "During a daring heist at the local cheesery, Twitch dove headfirst into a wedge of aged Swiss and was trapped. He escaped, but with his head encased! Over time food and rat became one, and Twitch now revels in his role as the \"big cheese\" of the criminal underworld, proclaiming to all who question his dairy dominance: \"Brie-ware!"
+  }
 }

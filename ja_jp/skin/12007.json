@@ -24,6 +24,19 @@
     }
   ],
   "description": "守備の要の\"スイーパー\"とはいうものの、実際のところアリスターは\"ツノのある移動要塞\"に近い。敵チームの選手がボールを持っている場合、アリスターをその方向に向けるだけで即座に(そして苦痛を伴う)結果を出してくれる。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-06-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-06-18",
+    "retired": "2017-11-01",
+    "set": [
+      "Soccer Cup"
+    ],
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "lore": "They call him a sweeper, but Alistar is more of a mobile fortress with horns. If a rival player has the ball, just point Alistar in their direction for immediate and painful results."
+  }
 }

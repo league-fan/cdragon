@@ -137,6 +137,54 @@
     }
   ],
   "description": "ラカンは永久に完成することがない不完全な存在の片割れである。その運命の恋人は下層世界ではなく、遥か上空にある上層アルカナに存在する。出自の異なる二人が出会いを急ぐ時、運命は沸き立ち、かき乱された海からは新たな秩序が現れる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      },
+      "Tanzanite": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "One half of a perpetually incomplete whole, Rakan's fated love was not in the Lower World, but among the Higher Arcana far above. As the two rush to meet betwixt the lands of their birth, fate bubbles and boils over—a roiling sea from which a new order may emerge."
+  }
 }

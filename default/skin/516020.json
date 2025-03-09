@@ -137,6 +137,53 @@
     }
   ],
   "description": "With a toot of his whistle, Ornn calls forth a mighty iron beast, roaring with his forge's fury. As his hammer pounds out a rhythm like pistons on the track, a soot-soaked grin unfurls beneath his smoldering beard. One imagines he must feel the thrill of creation, the joy of a perfect machine made manifest!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 516020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Peridot": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Matthew Waterson"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "With a toot of his whistle, Ornn calls forth a mighty iron beast, roaring with his forge's fury. As his hammer pounds out a rhythm like pistons on the track, a soot-soaked grin unfurls beneath his smoldering beard. One imagines he must feel the thrill of creation, the joy of a perfect machine made manifest!"
+  }
 }

@@ -8,176 +8,946 @@
       "name": "ダークスター チョ＝ガス",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 31007,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-07-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "filter": true,
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses his path. These feasts swirl into the twin black holes at his heart—as endless and ageless as his hunger."
+      }
     },
     {
       "id": 35008,
       "name": "ダークスター シャコ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 10
+          },
+          "Emerald": {
+            "id": 11,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Shaco was once a region of space known for raucous celebration, wiped clean by the Dark Star and reborn into the mocking visage of a jester. His twisted cackling reaches inhabited systems long before he does, provoking visions of destruction, and societal breakdowns that will soon feed his endless hunger."
+      }
     },
     {
       "id": 43008,
       "name": "ダークスター カルマ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 43008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 11
+          },
+          "Meteorite": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Peridot": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Karma was a galaxy-spanning civilization dedicated to pacifism and personal enlightenment, unceremoniously erased from reality and reborn as a star-consuming horror. Devouring entire galactic systems, she enforces a dread order upon the cosmos, meditating in the vast oceans of emptiness where once there were stars."
+      }
     },
     {
       "id": 54023,
       "name": "ダークスター マルファイト",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 54023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path."
+      }
     },
     {
       "id": 54024,
       "name": "プレステージ ダークスター マルファイト",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 54024,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 23,
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Gilded by the Dark Star's touch and empowered through its radiance, Malphite barrels across space, demolishing entire systems and consuming the broken remnants into his immense and twisted form."
+      }
     },
     {
       "id": 59007,
       "name": "ダークスター ジャーヴァンⅣ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-03-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 59007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-03-01",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence."
+      }
     },
     {
       "id": 61007,
       "name": "ダークスター オリアナ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 61007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-05-03",
+        "earlysale": "2017-11",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          }
+        },
+        "voiceactor": [
+          "Heath Pennington"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake."
+      }
     },
     {
       "id": 82006,
       "name": "ダークスター モルデカイザー",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 82006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 7,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          },
+          "Emerald": {
+            "id": 8,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Once a member of the Cosmic Court, Mordekaiser vanished from known space for an epoch—until now. Reborn and returned from an unknown destruction, Mordekaiser seems bent on unmaking the kingdoms of stars and light he once built. Though he still bears his Cosmic armor, the mind and figure within has been twisted and reforged to know only hatred and destruction."
+      }
     },
     {
       "id": 83040,
       "name": "ダークスター ヨリック",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 83040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Pearl": {
+            "id": 46
+          },
+          "Quasar": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rose Quartz": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 44
+          },
+          "Turquoise": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "A somber titan from a long-dead galaxy, Yorick plants a garden of nothingness wherever he roams. He memorializes existence in silence, cultivating a grave in the negative space where matter once bloomed."
+      }
     },
     {
       "id": 99017,
       "name": "暗黒の宇宙ラックス",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 18,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Once the right hand of Queen Ashe, Lux embraced the darkness in her heart, answering the mad call of the Dark Star. Finally seeing the truth, she rejects the Cosmic Court, instead serving her own dark ambition to quiet the banal noise of creation. For she now knows her true fate—to reign as Queen of a Dark Court, and rightful master of the Dark Star."
+      }
     },
     {
       "id": 101005,
       "name": "ダークスター ゼラス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 6,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "Katya Cyan",
+          "West Studio"
+        ],
+        "lore": "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation."
+      }
     },
     {
       "id": 110006,
       "name": "ダークスター ヴァルス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-06-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 110006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-06-15",
+        "earlysale": "2016-11",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          }
+        },
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "An interstellar titan containing multitudes within his eldritch mind, Varus serves the all-consuming Dark Star, a dread singularity born in the darkness of deep space. His arrival is a cataclysmic extinction event, erasing entire planetary systems as if they were never there."
+      }
     },
     {
       "id": 121004,
       "name": "ダークスター カ＝ジックス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-05-03",
+        "earlysale": "2017-11",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "The hunger of the abyss, Kha'Zix is an alien horror whose ceaseless appetite feeds the Dark Star. Appearing before planets like a titanic locust, it devours all it encounters—the power of a hundred thousand stars fueling its evolution into an ever-greater threat."
+      }
     },
     {
       "id": 127012,
       "name": "暗黒の宇宙リサンドラ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 127012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rainbow": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared."
+      }
     },
     {
       "id": 131064,
       "name": "暗黒の宇宙ダイアナ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 131064,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 67
+          },
+          "Emerald": {
+            "id": 70
+          },
+          "Pearl": {
+            "id": 73
+          },
+          "Quasar": {
+            "id": 74,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rainbow": {
+            "id": 72
+          },
+          "Rose Quartz": {
+            "id": 69
+          },
+          "Ruby": {
+            "id": 66,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 68
+          },
+          "Turquoise": {
+            "id": 71
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Diana was once a favorite of Cosmic Queen Ashe, but was labeled a heretic and banished for trying to understand the Dark Star's power with a little too much interest for the Court's comfort. Left adrift in the bleak nothingness of space, she had no choice but to embrace the chaos that had fascinated her for so long."
+      }
     },
     {
       "id": 131065,
       "name": "プレステージ暗黒の宇宙ダイアナ",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 131065,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 64,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Diana has always been lightyears ahead of the fashion world, unafraid to be avant-garde when others shy away. This Gala, she was inspired by event horizons and waves of energy bending and twisting across space and time, lending darkly cosmic shapes to her striking, out-of-this-world look."
+      }
     },
     {
       "id": 142033,
       "name": "ダークスター ゾーイ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 142033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 39
+          },
+          "Pearl": {
+            "id": 38
+          },
+          "Quasar": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 36
+          },
+          "Tanzanite": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Santiago Parra",
+          "Pandart Studio"
+        ],
+        "lore": "A corruptant from a world of playful whimsy, where innocence was prized above all else. Zoe is a twisted mirror of those lost in her own creation—she is a child to whom everything in the universe is her toy, to shape and destroy as she sees fit."
+      }
     },
     {
       "id": 145069,
       "name": "ダークスター カイ＝サ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145069,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 78
+          },
+          "Catseye": {
+            "id": 74
+          },
+          "Emerald": {
+            "id": 75
+          },
+          "Pearl": {
+            "id": 79
+          },
+          "Quasar": {
+            "id": 80,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rose Quartz": {
+            "id": 76
+          },
+          "Ruby": {
+            "id": 72,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 73
+          },
+          "Turquoise": {
+            "id": 77
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Kai'Sa is the kind of horror that the spacefaring civilization she was born from once feared. Whatever she destroys, she absorbs, surviving the unforgiving cosmos using power siphoned from the ashes of dead galaxies."
+      }
     },
     {
       "id": 202005,
       "name": "暗黒の宇宙ジン",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-06-13",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art."
+      }
     },
     {
       "id": 202037,
       "name": "暗黒の宇宙 抹消者ジン",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202037,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Cosmic 2023 Capsules or opening 30 Cosmic 2023 Capsules",
+        "release": "2023-08-30",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 5,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Jhin was an interstellar entity, consumed by the Dark Star and given new purpose. Now his ageless mind is infected by visions of omnipotence, and consumed by an insatiable hunger. He scours entire regions of space seemingly on a whim, using the remnants to create bizarre, silent objets d'art."
+      }
     },
     {
       "id": 412005,
       "name": "ダークスター スレッシュ",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2016-06-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2016-06-15",
+        "earlysale": "2016-12",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          }
+        },
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "A cosmic nightmare who worships the all-consuming Dark Star, Thresh vows to feed the whole of existence to his “god” until all matter, time, and thought are erased. His work will be complete when nothing remains, freeing him to finally leap into the singularity and become one with the end of the universe."
+      }
     },
     {
       "id": 517046,
       "name": "ダークスター サイラス",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 517046,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Quasar": {
+            "id": 47,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 49,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 52
+          }
+        },
+        "voiceactor": [
+          "Fergus O'Donnell"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Sylas is a corruptant of the Dark Star, born from a civilization of shackles that was silenced in a collective cry for justice that never came. He lays low the forces of creation and destruction in an endless quest to destroy any and all structures of power. Heedless of morality, he seeks only to equalize the universe."
+      }
     }
   ]
 }

@@ -48,6 +48,30 @@
     }
   ],
   "description": "Owner of the mysterious six-million-point high score in the infamously difficult beat-em-up Demacia Vice, Ahri is a force of nature on the retro battlefields of Arcadia. Dashing between bosses before ripping them apart with her 8-bit magic, she's already earned the nickname “Queen of the Arcade.”",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2017-01",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Owner of the mysterious six-million-point high score in the infamously difficult beat-em-up Demacia Vice, Ahri is a force of nature on the retro battlefields of Arcadia. Dashing between bosses before ripping them apart with her 8-bit magic, she's already earned the nickname “Queen of the Arcade.”"
+  }
 }

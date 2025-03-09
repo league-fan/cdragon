@@ -111,6 +111,42 @@
     }
   ],
   "description": "オメガ小隊の司令官として、トリスターナは故郷に着くまでずっと砲撃を撃ち返し続けない限り、絶対に撤退はしないと決めている。彼女はこれを「後方前進」と呼んでいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Sapphire": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Commander of Omega Squad, Tristana has made it her policy never to retreat unless she's returning fire the entire way home. She calls it “advancing backwards.”"
+  }
 }

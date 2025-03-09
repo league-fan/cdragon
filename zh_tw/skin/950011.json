@@ -142,6 +142,56 @@
     }
   ],
   "description": "娜菲芮的身體機能受菁英計畫的犬科實驗影響，變得能吸收獵物的意識、與自身融為一體。魔鬥凱薩看中了這項潛力，便透過病毒感染，為她的程式指派新的任務：抹除人類的自由意志。現在她會向倖存者展示絕望的真諦，任何抵抗皆為徒勞。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 950011,
+    "formatname": "PROJECT: Naafiri",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Morla Gorrondona"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile."
+  }
 }

@@ -175,6 +175,63 @@
     }
   ],
   "description": "火薬が発明されてから間もなく、十二支の神々は辰の干支の遺物を守る新たな守護者を探していた。だが、その悠久の経験と叡智をもってしても、神々はなかなか相応しい者を見つけることができなかったため、仕方なくマルコム・グレイブスにその役割を任せることにした。過程はどうあれ、彼の銃火器に関する専門性は正しい方向に向かうこととなった──壊れやすい壺が置かれていない方向に。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 49,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Opulent": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Santiago Parra",
+      "West Studio"
+    ],
+    "lore": "Not long after gunpowder was invented, the Zodiac searched for a new protector of the Dragon Relic. Though ancient and wise, the gods struggled to find someone worthy, so they settled for Malcolm Graves. Eventually his expertise in firepower was pointed in the right direction (away from all the breakable vases)."
+  }
 }

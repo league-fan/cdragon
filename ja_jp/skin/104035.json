@@ -124,6 +124,51 @@
     }
   ],
   "description": "グレイブスは世界を救うことなどには興味がなかったが、自分が生業とする犯罪を「滅びの王」に邪魔をされることは我慢できなかった。「光の番人」に声をかけられたとき、彼は一度だけなら英雄になってやってもいいと考えた──略奪できる世界が残るのなら、それも悪くはないと。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-07-22",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Resolute": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway."
+  }
 }

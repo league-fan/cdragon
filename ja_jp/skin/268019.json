@@ -147,6 +147,57 @@
     }
   ],
   "description": "アジールの口頭弁論は頻繁に記録から抹消されている。彼はあらゆる動議に激しく反論し、裁判官のあらゆる発言に「余が命ずる！」と付け加える癖があるからだ。彼に弁護を頼みたいというなら簡単だ。街中のあらゆるバス停で、彼の事務所の電話番号が書かれた看板を見つけることができるだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 268019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-11",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 23,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Jasper": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Azir's oral arguments are frequently struck from the record due to his flagrant objecting to every motion, as well as his habit of following every statement by a judge with “the order is given!” Anyone in need of his services can find his number plastered across every bus stop in town."
+  }
 }

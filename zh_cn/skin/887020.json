@@ -160,6 +160,59 @@
     }
   ],
   "description": "她去过世界的尽头……以及彼岸……去拯救她的朋友！根据我现在看到的排名表，她必须和这个朋友一决高下才能赢得这次武道大会！噢！我发誓，这不是故意安排的，伙计们。这可是实况电视节目！一个心怀友谊的少女拿着能够起死回生的剪子：有请格温！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-03",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Limitless": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 28
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "She went to the ends of the world... and beyond... to save her friend! And according to the bracket that I'm looking at with my very eyes, she's going to have to fight him to win this tournament! OOF! I swear, this isn't scripted folks. It's LIVE TV! A girl with friendship in her heart and magical scissors that raise the dead in her hands: Gwen!"
+  }
 }

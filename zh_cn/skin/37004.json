@@ -74,6 +74,31 @@
     }
   ],
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      },
+      "Meteorite": {
+        "id": 55
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ]
+  }
 }

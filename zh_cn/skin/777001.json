@@ -148,6 +148,57 @@
     }
   ],
   "description": "很久以前，一对兄弟打了一场遍及艾欧尼亚的苦涩战争。兄弟中的哥哥，永恩，曾是一位大名，以坚守荣誉和职责而闻名。他为保卫国家和对抗那些破坏典礼和仪式的人而战——直到他被迫面对他那劣迹斑斑的亲弟弟。两人都注定要在最后的决斗中倒下……这或许就是对骄傲和狂妄的教训。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 3
+      },
+      "Catseye": {
+        "id": 4
+      },
+      "Emerald": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Night Blossom": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Long ago, two brothers fought a bitter war across Ionia. Yone, the older brother, was a warlord renowned for his adherence to honor and duty. He fought to defend the country against those who would break its rites and rituals - until he was forced to confront his own brother for his crimes. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+  }
 }

@@ -13,48 +13,272 @@
       "name": "雷珂煞",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2014-12-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2014-12-11",
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Christian Fell",
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "An apex predator, Rek’Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed caravans, will go hundreds of miles out of their way to avoid her and her offspring’s hunting grounds. All know that once Rek’Sai is seen on the horizon, death from below is all but guaranteed."
+      }
     },
     {
       "id": 421001,
       "name": "渾沌戰神 雷珂煞",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-12-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-12-11",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screech… A cry of hunger… Then, nothing."
+      }
     },
     {
       "id": 421002,
       "name": "泳池狂歡 雷珂煞",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-06-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-06-25",
+        "earlysale": "2016-01",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 4
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 3
+          },
+          "Tanzanite": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "We're gonna need a bigger inflatable raft…"
+      }
     },
     {
       "id": 421009,
       "name": "黯雪霜爪 雷珂煞",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-05",
+        "set": [
+          "Blackfrost"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 15
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 14
+          }
+        },
+        "splashartist": [
+          "West Studio"
+        ],
+        "voiceactor": [
+          "N/A"
+        ],
+        "lore": "When the Ice Witch looked to the great glaciers of True Ice towering over the far north, she saw an army in the making. Among the first to be sculpted was Rek'Sai, a vessel of chilling savagery befitting a queen's power. Now, granted sentience by the will of the Watchers, she terrorizes domains with the brutal instincts of an apex predator."
+      }
     },
     {
       "id": 421017,
       "name": "神木精靈 雷珂煞",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-01-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-06",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 20,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Spore-fiends stalk the deepest reaches of the forest, and Rek'sai is the broodmother from which all others spring. Those who see her hulking form of bloom and bark swimming through the trees rarely live long enough to tell the tale."
+      }
     },
     {
       "id": 421026,
       "name": "遠古霸者 雷珂煞",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Primordian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Abyssal": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Amethyst": {
+            "id": 29
+          },
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 31,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Rainbow": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Final City built its barricades high, protecting its citizens from countless Primordian threats. Rek'Sai laughs in the face of these obstructions—or at least mimics a laugh in the form of a loud, painful screech. Having evolved to tunnel beneath land, she is the ideal infiltrator, the first Primordian to lay eyes on Final City… but certainly not the last."
+      }
     }
   ]
 }

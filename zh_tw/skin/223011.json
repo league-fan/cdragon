@@ -137,6 +137,53 @@
     }
   ],
   "description": "身為權力與財富的象徵，貪啃奇的力量從他的舌頭緩慢流出。用那華麗炫目的圖樣把聽眾迷得神魂顛倒。他榨乾那些受害者，累積自身的力量，以確保這樣的方式永遠會成功—「矯正」那些偏離正道的臣民。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The epitome of power and opulence, Tahm Kench's power drips from his tongue. Its ornate patterns captivate and cajole his listeners. He leverages those he rules, staking his power to ensure the patterns always shift in his favor—“correcting” his subjects who have gone astray."
+  }
 }

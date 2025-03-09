@@ -114,6 +114,49 @@
     }
   ],
   "description": "용 사냥꾼들이 용과 격렬한 전쟁을 치르는 동안 트리스타나도 나름대로 정신이 없었습니다. 전장에서 멀리 떨어진 깊은 숲 속에서 어린 용 한 마리를 훈련시키느라 바빴던 거죠. 용 조련은 아주 힘들지만 평생 함께할 친구라는 보물을 얻을 수 있답니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2015-12-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2015-12-03",
+    "earlysale": "2016-05",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Rainbow": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Victor '3rdColossus' Maury"
+    ],
+    "lore": "As the dragonslayers fought a bitter war with their nemeses, Tristana was busy with a draconic matter of her own. Deep in the wooded forests, away from the battles, she busily trained a young dragon—a trying task rewarded with lifelong friendship."
+  }
 }

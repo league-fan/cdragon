@@ -165,6 +165,60 @@
     }
   ],
   "description": "렐은 다섯 번째 전령의 손에 썩어 문드러져 가던 고향에서 도망쳐 나왔습니다. 그러나 지금의 젊은 화약 마녀는 더 이상 도망치지 않습니다. 렐은 어깨를 곧게 펴고는 마법과 연기, 불로 이루어진 말의 안장에 올라탔습니다. 렐은 귀신이라도 들린 듯한 총잡이를 내려다보았습니다. ''같이 가자고, 영감. 기껏 얻은 두 번째 기회를 낭비하기엔 아깝잖아.''",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 526020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Noonday": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Laya DeLeon Hayes"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Rell ran as her home rotted away at the Fifth Harbinger's hands, but the young Powder Witch ain't running now. She squares her shoulders and swings into the saddle of a horse made of magic, steam, and fire. From its back, she looks down at the haunted gunslinger. “Come on, old man. We got a second chance, I ain't gonna waste it.”"
+  }
 }

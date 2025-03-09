@@ -143,6 +143,58 @@
     }
   ],
   "description": "在準軍事組織中被稱作「氣罐人」的劫是一個惡名昭彰的僱傭兵，他在黑玫瑰軍團中的一次祕密行動中加入了他們。他的靈能與透過自身面具攝入的一種神祕油狀物質有關，使他能夠在暗殺中複製自己並展開行動。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 18
+      },
+      "Hunter": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 20
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Known as the “Gas Can Man” in paramilitary circles, Zed is an infamous mercenary picked up by the Black Rose Group during one of their covert actions. His psionic powers are tied to a mysterious oil-like substance he ingests through his mask, allowing him to duplicate himself for assassinations and open combat."
+  }
 }

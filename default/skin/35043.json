@@ -160,6 +160,59 @@
     }
   ],
   "description": "I know very little about this fighter... and I've been told by our host to say EVEN LESS! (They've GOT to be friends... or mortal enemies?) His desires are hidden—just like his face—and his style in the ring remains to be seen! We just LOVE a mysterious and not-at-all creepy combatant, don't we, folks? Here he is... Shaaaaaaaacoooooo!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-03",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 51
+      },
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Limitless": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "I know very little about this fighter... and I've been told by our host to say EVEN LESS! (They've GOT to be friends... or mortal enemies?) His desires are hidden—just like his face—and his style in the ring remains to be seen! We just LOVE a mysterious and not-at-all creepy combatant, don't we, folks? Here he is... Shaaaaaaaacoooooo!"
+  }
 }

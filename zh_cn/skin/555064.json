@@ -155,6 +155,60 @@
     }
   ],
   "description": "露营者们拼命挣扎着回到岸边，拼命想要逃离那个将他们拖进深渊的疯狂救生员。派克浸满水的哨声穿透了空气，从一片混乱和狂乱的咳嗽声中穿过。正当露营者们心中充满恐惧，准备接受自己的命运时，他们遇到的那个鱼人对他们竖起了两个大拇指。他们都从竞速赛中活下来了！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555064,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 70
+      },
+      "Catseye": {
+        "id": 66
+      },
+      "Emerald": {
+        "id": 67
+      },
+      "Ghoulish": {
+        "id": 73,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Pearl": {
+        "id": 71
+      },
+      "Ruby": {
+        "id": 65,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 69
+      },
+      "Tanzanite": {
+        "id": 72
+      },
+      "Turquoise": {
+        "id": 68
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Campers flail their way to shore, desperate to escape the deranged lifeguard dragging them to the depths. Cutting through chaos and frantic coughing, Pyke's waterlogged whistle pierces the air. Filled with dread, ready to accept their fate, the campers are met by the fishman giving them two thumbs up. They all survived the race!"
+  }
 }

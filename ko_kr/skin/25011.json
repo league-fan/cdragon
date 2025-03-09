@@ -172,6 +172,53 @@
     }
   ],
   "description": "사실 사탕을 받으러 돌아다니는 건 흑마법과 기이한 미신보다는 어울리는 마녀 의상을 찾는 게 더 중요합니다. 이런 사이즈를 보신 적이 있나요? 이건 대체 누구를 위해 만들어진 거죠…?!",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-10-19",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Meteorite": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Ultimately, trick-or-treating is less about dark magic and occult superstition, and more about finding a witch costume that actually fits. Have you seen these sizes? Who is this stuff even made for…?!"
+  }
 }

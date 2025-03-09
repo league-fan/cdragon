@@ -33,6 +33,26 @@
     }
   ],
   "description": "胜利女神伊莉丝是给2013赛季达到黄金段位或更高的玩家的奖励。身穿黄金装饰的深紫色长袍，用狠毒的蛛网束缚敌人。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2013-12-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 60002,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2013-12-20",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Sydney Rainin-Smith"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "Victorious Elise was awarded to players who reached Gold or higher in the 2013 season. Spin a wicked web for your enemies in gold-trimmed armor and deep purple robes, and chuckle as they struggle."
+  }
 }

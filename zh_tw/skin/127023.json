@@ -160,6 +160,60 @@
     }
   ],
   "description": "很久很久以前，魔法師麗珊卓為了永生不死，從守護者手中偷走了蛇之神器。因其罪行而被貶謫並封印，麗珊卓花費數百年獨自設想詭計，意圖奪取所有十二生肖的神器，靜待絕佳時刻出擊... 現在伊澤瑞爾正好給了她一個大好機會。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Aquamarine": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Golden Tiger": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "Long ago, the sorceress Lissandra stole the Snake Relic from the ancient Protectors in a bid to gain immortality. Cast down and sealed away for her crimes, Lissandra spent centuries of solitude scheming a way to take all twelve Zodiac Relics for herself, waiting for the perfect time to strike... And now Ezreal has given her the chance."
+  }
 }

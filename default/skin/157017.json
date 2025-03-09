@@ -148,6 +148,57 @@
     }
   ],
   "description": "One-time protagonist of the 1979 cult classic “Hasagi,” Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-06-28",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Meteorite": {
+        "id": 19
+      },
+      "K.O.": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "One-time protagonist of the 1979 cult classic “Hasagi,” Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil."
+  }
 }

@@ -96,6 +96,45 @@
     }
   ],
   "description": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+  }
 }

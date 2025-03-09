@@ -121,6 +121,51 @@
     }
   ],
   "description": "고양이 애호가인 요릭은 초대형 반려동물용품점의 버려진 통로에서 왔습니다. 고양이 같은 옷차림을 하고 고양이 무리에 둘러싸여 있지만, 요릭은 아주 평범한 신사죠. 고양이와의 마찰도 전혀 없습니다. 그저 날아다니는 거대 고양이를 소환하는 비밀스러운 능력을 지니고 있을 뿐이죠. 하지만 신사라면 누구나 그 정도는 할 수 있잖아요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-03-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83004,
+    "formatname": "Meowrick",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-03-27",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rainbow": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 5,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A cat fancier hailing from the Forsaken Aisles of a Pets Supreme Superstore, Yorick does not have any unresolved issues involving or related to cats. Yorick is a perfectly normal gentleman dressed as a cat, surrounded by cats, who can call upon the esoteric powers of a giant, floating cat. You know, normal gentleman stuff."
+  }
 }

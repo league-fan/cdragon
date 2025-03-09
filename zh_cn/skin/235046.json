@@ -133,6 +133,54 @@
     }
   ],
   "description": "独自与黑暗斗争的岁月磨练了赛娜的意志，也坚定了她的决心。毕竟，星之守护者们都明白，失去所爱之人的宿命是不可避免的。但赛娜仍在继续战斗，甚至比以往更加努力。让新朋友霞和她已堕入黑暗的爱人早日重聚，是她努力战斗的强大的动力。  ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 53
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rainbow": {
+        "id": 55
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Mingchen Shen",
+      "West Studio"
+    ],
+    "lore": "Years spent battling the darkness alone has strengthened Senna's resolve, but it also hardened her heart. After all, when you're a Star Guardian, you know losing loved ones is inevitable. Still, she'll keep fighting now, harder than ever. Reuniting her new friend Xayah with her evil ex-boyfriend is a powerful motivator."
+  }
 }

@@ -136,6 +136,53 @@
     }
   ],
   "description": "佛耶戈曾是以前的一支福牛守护者小队的队长。他做出决定，他们要与年兽作战并最终击败它。他的计划以悲剧收场：他眼睁睁地看着他的队友们被吞噬——包括他的妻子。多年来，佛耶戈一直对这些损失耿耿于怀，怪罪着除他自己之外的所有人——包括今年的福牛守护者小队。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-21",
+    "set": [
+      "Lunar Beast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 3
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 6
+      },
+      "Turquoise": {
+        "id": 5
+      },
+      "Vitality": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Former leader of a past Lunar Ox Squad, Viego decided that they would fight the Lunar Beast and actually defeat it. His plan ended in tragedy as he watched the rest of his squad be devoured"
+  }
 }

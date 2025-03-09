@@ -142,6 +142,54 @@
     }
   ],
   "description": "当“梅佐拉克斯”入侵永恩和他弟弟亚索的星球时，兄弟俩发誓要予以回击。亚索率先出手，夺取了那个入侵巨头的高能伪装战斗服。但出手最凶狠的还是“梅佐拉克斯”。随着亚索的离去，永恩继承了弟弟的高能伪装并正在建造更多的高能伪装，以便同胞们可以加入这场战斗。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777065,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-20",
+    "set": [
+      "Masked Justice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Catseye": {
+        "id": 67
+      },
+      "Emerald": {
+        "id": 69
+      },
+      "Obsidian": {
+        "id": 72
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When Mezzorax invaded their planet, Yone and his brother Yasuo swore to retaliate. Yasuo struck first, seizing the invading giant's Hyperguise suits. But it was Mezzorax who struck hardest. With Yasuo now gone, Yone has taken up his brother's Hyperguise and is building more, so that fellow citizens can join the fight."
+  }
 }

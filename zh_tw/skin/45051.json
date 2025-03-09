@@ -137,6 +137,55 @@
     }
   ],
   "description": "「唯蜜是從 維迦」等了整整十天（以蜂生來說是很長的時間），靜待出擊的時機來臨。時機終於成熟了，女王蜂的寶座即將到手。蜜蜜組織萬歲！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45051,
+    "formatname": "King Beegar",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-22",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Beegar's waited a whole 10 days (that's a long time in bee-years) for his moment to strike. It's finally here, and the Queen Bee's crown is in his sights. Long live the Bee-sistance!"
+  }
 }

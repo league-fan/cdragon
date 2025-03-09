@@ -142,6 +142,53 @@
     }
   ],
   "description": "拉克絲是跟著大法師米里歐學習的年輕術士，她準備證明自己不是無所事事的夏之宮殿女神。她負責讓陽光穿過一顆顆晨露折射出彩虹，每天在太陽升起前總是忙得不可開交，但她最為人稱道的就是意志堅強！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 65
+      },
+      "Emerald": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 68
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 67
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 69
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "A young sorceress studying under Archmage Milio, Lux is ready to prove that she's not just an idle Lady of the Summer Court. Responsible for splitting sunbeams into rainbows through the morning dew, she has a lot of work to conquer each day before the sun rises—but she is nothing if not determined!"
+  }
 }

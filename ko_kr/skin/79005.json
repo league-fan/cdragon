@@ -24,6 +24,20 @@
     }
   ],
   "description": "그라가스는 벌써 스무 곳도 넘는 황야 정착지에서 문제를 일으켜 쫓겨난 바 있지만, 강력한 음료와 정제되지 않은 휘발유를 섞어 대재앙 이후 시대에 걸맞는 마실거리를 만들어 냈습니다. 그런 공을 봐서라도 조금의 난동쯤은 이해해 줘도 되지 않을까요?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-03-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-03-02",
+    "retired": "2014-12-02",
+    "set": [
+      "Vandal"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "lore": "Gragas causes enough trouble to be kicked out of every wasteland settlement twenty times over, but the man found a way to mix potent brew and unrefined gasoline into the staple beverage of the post-apocalypse. Might as well let him wreck a few bars. He's earned it."
+  }
 }

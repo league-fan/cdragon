@@ -8,32 +8,92 @@
       "name": "虚空前世 卡萨丁",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-26",
+        "set": [
+          "Curse of the Void"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ]
+      }
     },
     {
       "id": 56002,
       "name": "幻影梦魔 魔腾",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-15",
+        "retired": "2014-12-02",
+        "set": [
+          "Curse of the Void"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ]
+      }
     },
     {
       "id": 105004,
       "name": "虚空海灵 菲兹",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-04-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 105004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-04-06",
+        "set": [
+          "Curse of the Void"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "lore": "There's no disputing that Fizz is a deadly creature of the endless Void. But even in the Void, Fizz is widely considered to be extremely irritating for his love of bringing life into existence just to annoy the Watchers."
+      }
     },
     {
       "id": 420001,
       "name": "虚空使者 俄洛伊",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 420001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-11-24",
+        "earlysale": "2016-03",
+        "set": [
+          "Curse of the Void"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Rolonda Watts"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ]
+      }
     }
   ]
 }

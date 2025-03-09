@@ -226,6 +226,60 @@
     }
   ],
   "description": "Royal scout and friend to the prince, Kai'Sa is a tenacious dragon who has spent more time beneath the clouds than any of her peers. Though this is the first time she has interacted with humans directly, her observed knowledge and agile grace are sure to be assets while joining them in the New Year's celebration.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145059,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 63
+      },
+      "Catseye": {
+        "id": 61
+      },
+      "Emerald": {
+        "id": 62
+      },
+      "Granite": {
+        "id": 64
+      },
+      "Lustrous": {
+        "id": 67,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 60,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 66
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Royal scout and friend to the prince, Kai'Sa is a tenacious dragon who has spent more time beneath the clouds than any of her peers. Though this is the first time she has interacted with humans directly, her observed knowledge and agile grace are sure to be assets while joining them in the New Year's celebration."
+  }
 }

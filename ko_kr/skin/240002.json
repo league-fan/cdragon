@@ -128,6 +128,51 @@
     }
   ],
   "description": "이 피는 내 피다. 이 사탕도 내 사탕이고. 누가 너희를 여기에 보낸 거지? 진짜 유령도 아니잖아?! 난 클레듈라 공작 경 후작 남작 백작이다… 내 땅에서는 사탕을 찾으러 다니면 안 된다는 걸 똑똑히 가르쳐 주지!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240002,
+    "formatname": "Count Kledula",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "This blood is MY blood. This candy is MY candy. Who sent you here?! You're not real ghosts! I'm Count Baron Double-Marquis Lord Duke Kledula… AND I'LL TEACH YOU NOT TO TRICK-OR-TREAT ON MY LAND!"
+  }
 }

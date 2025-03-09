@@ -165,6 +165,57 @@
     }
   ],
   "description": "人類は何世紀にも渡り、龍が吐く炎の力を再現しようと試みてきた。火薬の誕生によって大砲が登場し、それがより小さく、洗練された形へと変わっていき、最終的にはサラ・フォーチュンの母親が完璧な銃を完成させた。彼女が操る二丁の龍の拳銃は、先祖の遺産を引き継ぐだけでなく、神話の生物そのものの遺産も引き継いでいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21050,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Opulent": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Pearl": {
+        "id": 57
+      },
+      "Peridot": {
+        "id": 55
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 53
+      },
+      "Turquoise": {
+        "id": 56
+      }
+    },
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Through the centuries, humans have tried to replicate the power of dragon's breath. With gunpowder came the cannon, which was finessed into smaller and more refined variants until it was ultimately perfected by Sarah Fortune's mother. Her dual dragon-pistols carry on the legacy of not only her own family, but of the creatures of myth themselves."
+  }
 }

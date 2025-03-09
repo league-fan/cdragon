@@ -152,6 +152,58 @@
     }
   ],
   "description": "공포와 혼돈의 악마 피들스틱은 아트록스에 의해 필멸의 세계로 곧장 소환됐습니다. 폭력과 피의 맛을 갈망하는 그는 순전히 본능과 충동에 따라 아이오니아를 찢어발깁니다. 다른 악마들은 피들스틱이 지나간 흔적을 따라가며 그가 일으킨 살육의 현장을 뒤적거립니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-18",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Citrine": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "A demon of fear and chaos, Fiddlesticks was summoned directly into the mortal realm by Aatrox himself. It craves violence and the taste of blood, driven purely by instinct and compulsion as it tears through Ionia. Other demons follow in its wake, scavenging what remains of its carnage."
+  }
 }

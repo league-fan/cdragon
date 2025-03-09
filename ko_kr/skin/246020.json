@@ -137,6 +137,54 @@
     }
   ],
   "description": "폭풍만큼이나 맹렬한 키아나는 구름 의식에 용감히 뛰어들었습니다. 오랫동안 구름 의식에서 살아남은 자가 없다는 경고에도 아랑곳하지 않았죠. 이렇듯 꿋꿋한 용기를 폭풍이 높이 산 것인지, 키아나는 끝내 쉔의 제자가 되었고, 다른 원소에 숙달했듯 번개에도 숙달하겠다고 다짐했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Tempestuous as the Storm itself, Qiyana braved the Cloud Ritual despite warnings that no one had survived in years. Perhaps it was her display of stubborn courage the Storm found worthy, or something else; either way, she is now Shen's student, determined to master lightning the same way she mastered the other elements."
+  }
 }

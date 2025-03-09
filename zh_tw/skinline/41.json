@@ -8,40 +8,123 @@
       "name": "紅桃傑克 逆命",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-10",
+        "set": [
+          "Highstakes"
+        ],
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Second, the Jack, with a thunderous crack<br>Trounces fate in the blink of an eye!<br>In winnings he counts all the hearts of the court<br>Who will swoon every time he walks by."
+      }
     },
     {
       "id": 35007,
       "name": "命運鬼牌 薩科",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-05-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-05-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Highstakes"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Last is the Jester, the wiliest sort<br>Obscured and forgotten by time,<br>Yet always much nearer than one might expect,<br>Stalking, closely, behind."
+      }
     },
     {
       "id": 81008,
       "name": "黑桃 Ace 伊澤瑞爾",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-05-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-05-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Highstakes"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "First is the Ace, at a hurtling pace,<br>A man of both talent and vim,<br>Who holds all the cards in the court of High Stakes<br>Because everything's about him."
+      }
     },
     {
       "id": 82005,
       "name": "梅花國王 魔鬥凱薩",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-05-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 82005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-05-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Highstakes"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Third is the King, with a barbarous swing,<br>Who crushes the villains of old.<br>Though some folk may cry “He's a villain himself!”<br>A poorly kept secret, all told."
+      }
     },
     {
       "id": 134003,
       "name": "方塊皇后 星朵拉",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-05-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 134003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-05-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Highstakes"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Fourth is the Queen, ever dark and serene,<br>Whose true power lies deeper still.<br>Alone, she could conquer the whole of the earth…<br>And perhaps, in the future, she will."
+      }
     }
   ]
 }

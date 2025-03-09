@@ -111,6 +111,39 @@
     }
   ],
   "description": "여기 하단 공격로에서는 드레이븐의 중차대한 경기가 펼쳐지고 있는데요, 벌써 상대 두 명을 괴롭혀 포탑에다 처박아 버렸죠! 이제는 다이브까지 시도하네요! 드레이븐이 적 서포터를 처치합니다! 포탑도 경의를 표하는 모양인지 드레이븐은 공격하지 않네요! 아! 더블 킬 나왔습니다! 심지어 포탑은 두려움에 그냥 스스로 무너졌어요! 세기의 플레이가 나왔어요! 그럼, 다시 보실까요?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-06-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-06-20",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again."
+  }
 }

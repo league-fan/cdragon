@@ -128,6 +128,52 @@
     }
   ],
   "description": "瑟提是一位在郊野地区求生的无名野蛮人。他知道，他最大的才能来自他的双拳。在残酷的搏击场中拼搏出了他的财富和名望后，他制造了一个全新的身份，并冠以“苍狼”的称号。在听闻利维坦的入侵后，他用他的名声与钱财搞到了一台属于他自己的阿瓦隆，只为一劳永逸地在广大着迷的观众面前证明他的力量。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-14",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 2
+      },
+      "Peacekeeper": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 3
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A nameless barbarian who survived on the outskirts, Sett knew his greatest talent came from his fists. After building his wealth and reputation in brutal fighting pits, he created a new persona, donning the title of The Savage Wolf. Upon hearing of the leviathan invasion, he used his fame and fortune to acquire an Avalon of his own in order to, once and for all, prove his might in front of a captivated audience."
+  }
 }

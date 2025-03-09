@@ -8,16 +8,78 @@
       "name": "행성 파괴자 갱플랭크",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-01-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 41008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-01-12",
+        "earlysale": "2017-07",
+        "set": [
+          "Dreadnova"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Rogue": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Steel Valkyries 2022"
+          },
+          "Ruby": {
+            "id": 9
+          },
+          "Sapphire": {
+            "id": 11
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Once a high ranking admiral in the Royal Space Military, Gangplank's reign of terror began when he stole and proliferated blueprints for a former colleague's experimental superweapon. Ending a thousand-year civil war in an instant, he defected with a massive armed battalion and formed the interplanetary criminal network known as the Dreadnova Corps."
+      }
     },
     {
       "id": 122014,
       "name": "행성 파괴자 다리우스",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2017-04-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 122014,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2017-04-12",
+        "earlysale": "Ineligible",
+        "set": [
+          "Dreadnova"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Chuck Kourouklis"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "Formerly a frontline general in the now-disbanded Confederate Alliance, Darius once scoured the surfaces of entire planets in bitter campaigns against the RSM. Left devoid of purpose at the close of the war, the Dreadnova Corps offered him a chance to lead—and fight—again."
+      }
     }
   ]
 }

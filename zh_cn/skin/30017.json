@@ -137,6 +137,53 @@
     }
   ],
   "description": "为“末日之声”和“永动天选”卡尔萨斯欢呼吧！他的歌曲是凄凉的致郁民谣，苦涩地提醒着所有事物都必将消亡。 虽然，也许，他除外？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 30017,
+    "formatname": "Pentakill III: Lost Chapter Karthus",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "All hail, Karthus, the Voice of Doom, and Chosen of Perpetuum! His songs are bleak murder ballads, a bitter reminder that all things must die. Though, perhaps, not him?"
+  }
 }

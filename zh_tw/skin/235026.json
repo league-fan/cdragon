@@ -137,6 +137,55 @@
     }
   ],
   "description": "一名被認定早已死亡多時的古老騎士，在凱爾從她的遠古沉眠甦醒之時，從蝕之大教堂被解放而出。姍娜現在協助她的騎士團對抗女巫集會帶來的全新威脅，從復活的古神手中盡其所能的拯救蒼生... 但她仍保持警惕，因為現在食日者的回歸是無可避免的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An ancient knight long thought dead, freed from the Eclipse Cathedral's catacombs as Kayle began to stir from her ancient slumber. Senna now aids her knighthood against the new threat of the Coven, saving whoever she can from the resurrected Old Gods… though she remains ever vigilant, as the sun-eater's return is now inevitable."
+  }
 }

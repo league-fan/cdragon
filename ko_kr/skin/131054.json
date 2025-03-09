@@ -226,6 +226,59 @@
     }
   ],
   "description": "용 왕국의 서고는 머나먼 과거의 지혜가 담긴 명성 높은 보관소입니다. 그 안의 기록들은 궁정 학자 다이애나가 관리하고 있죠. 날카로운 학자이자 전사인 다이애나는 용과 인간의 역사적 첫 만남을 기록하기 위해 왕세자의 여정에 동행합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131054,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 59
+      },
+      "Citrine": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 58
+      },
+      "Lustrous": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans."
+  }
 }

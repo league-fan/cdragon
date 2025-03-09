@@ -123,6 +123,48 @@
     }
   ],
   "description": "来自不羁乐仙境的提莫是如此地沉醉于律动，以至于他名副其实地成为了律动。律动守护者的领袖——提莫队长——在对整个星系进行侦察和绘制地图的工作，在他身后尾随着较小的不羁乐星人们。他的梦想是：把所有星球都连接到究极放克超音速航道上。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Peridot": {
+        "id": 51
+      },
+      "Rainbow": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Hailing from Boogiewonderland, Teemo is so absorbed in The Groove that he is The Groove, literally. Leader of the Groove Guard, Captain Teemo scouts and maps the galaxy, trailing smaller boogies in his wake. His dream: to connect all the planets he can to the Hyperfunk Supervibeway."
+  }
 }

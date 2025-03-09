@@ -160,6 +160,57 @@
     }
   ],
   "description": "After a vicious encounter on the Freljordian front, Olaf is convinced to join the Sentinels to satiate his hunger for battle. Only then would he have the power to challenge Viego, the greatest threat the world has ever known, and satisfy his urge to fearlessly face death in glorious combat.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-08",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Resolute": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      },
+      "Tanzanite": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "After a vicious encounter on the Freljordian front, Olaf is convinced to join the Sentinels to satiate his hunger for battle. Only then would he have the power to challenge Viego, the greatest threat the world has ever known, and satisfy his urge to fearlessly face death in glorious combat."
+  }
 }

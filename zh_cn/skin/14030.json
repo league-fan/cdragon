@@ -160,6 +160,60 @@
     }
   ],
   "description": "赛恩在知道何为生命后就知道了何为怒火：怒火撕裂了手术台上的束缚；怒火碾碎了那些试图玩弄造物奇迹之人的骨头；怒火提醒着他现在不是，也永远不会是他们希望构建的第二个发条天使。赛恩知道何为怒火，而世界也将知道。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 35
+      },
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Nomad": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "As soon as Sion knew life, he knew rage: rage that ripped the restraints from the operating table; rage that crushed the bones of those men who tried to play at the miracle of Creation; rage that he ain't, nor ever would be, the second clockwork angel they had hoped to construct. Sion knows rage, and so will the world."
+  }
 }

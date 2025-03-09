@@ -77,6 +77,37 @@
     }
   ],
   "description": "Squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage “do no harm.”",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage “do no harm.”"
+  }
 }

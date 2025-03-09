@@ -138,6 +138,54 @@
     }
   ],
   "description": "라칸은 사랑하는 자야가 봉황의 축복을 받은 이래로 그녀와 동등한 존재가 되어 함께 싸우겠노라고 맹세했습니다. 이 맹세는 그를 악몽의 세계인 내면으로 이끌었고, 라칸은 형태를 얻은 자신의 공포를 마주하고자 했습니다. 정신과 육체를 넘나드는 사투가 이어졌습니다. 하지만 라칸은 불굴의 의지로 순수한 마음과 사랑을 지켜냈고, 끝내 헌신의 용에게 은총을 내려받았습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-09",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Citrine": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Rakan wished to fight by his beloved Xayah's side, vowing to be her worthy equal after she gained the fenghuang's blessing. This vow took him inward, to a landscape of his nightmares, to confront his fears given form. Unflinching in battles of the mind and body, guarding the purity of his heart and love, Rakan earned the grace of the Devotion Dragon."
+  }
 }

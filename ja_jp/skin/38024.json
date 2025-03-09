@@ -138,6 +138,54 @@
     }
   ],
   "description": "カサディンは行方不明の家族を探して世界中を彷徨った。彼だけに見える星座の模様を辿りながら、星々の間に道を刻み続けた彼は、開けた場所に到達する。そこで彼は、星空龍に自らの目的を認められた。この旅は決して終わらないかもしれない──その可能性に心を曇らせながらも、今では龍の輝きを使って自身が進む道を照らしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 38024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-09",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Citrine": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Kassadin scoured the world in search of a missing loved one. He mapped out a path in the stars, following a pattern of constellations only he could read—reaching an open field where the Astral Dragon recognized his purpose. Though his spirit darkens over the possibility his journey may never end, he now harnesses the dragon's brilliance to light his way."
+  }
 }

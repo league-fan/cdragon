@@ -25,6 +25,26 @@
     }
   ],
   "description": "An early prototype that would pave the way for the Battlecast machines, Alpha Skarner is possessed of an extreme rage not seen in later models. Perhaps the brain inside it wishes to inflict as much pain as it experiences—or maybe it just likes to kill things.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-11-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 72003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-11-25",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Imari Williams"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "An early prototype that would pave the way for the Battlecast machines, Alpha Skarner is possessed of an extreme rage not seen in later models. Perhaps the brain inside it wishes to inflict as much pain as it experiences—or maybe it just likes to kill things."
+  }
 }

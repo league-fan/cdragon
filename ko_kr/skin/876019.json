@@ -137,6 +137,54 @@
     }
   ],
   "description": "태양새는 매일 서쪽에 있는 여명의 나무와 동쪽에 있는 황혼의 나무, 두 그루의 신성수 사이로 날아갑니다. 태양새를 돌보는 릴리아는 회복의 정령입니다. 시간과 계절을 다스리며 자신의 향로를 사용해 평온한 안개를 퍼뜨리면서 밤에 태양새를 둥지로 데려갑니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Meteorite": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Kevin Glint",
+      "West Studio"
+    ],
+    "lore": "Every day, the Sun Bird flies between two sacred trees: the western Tree of Dawn and the eastern Tree of Dusk. Lillia is a spirit of rejuvenation and the Sun Bird's caretaker. A steward of time and seasons, she uses her censer to spread a calming mist as she carries the bird home at night."
+  }
 }

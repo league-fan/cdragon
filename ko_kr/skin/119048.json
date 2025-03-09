@@ -160,6 +160,60 @@
     }
   ],
   "description": "드레이븐은 늘 무모히 나서며 영광스러운 죽음을 맞고자 하는 꿈이 있었지만 정작 소원이 이루어졌을 땐 그 모습을 보고 감탄할 사람이 아무도 없었습니다. 죽음의 영혼이 되어 아주 약간 겸손해진 드레이븐은 자아의 일가에서 동족을 찾았습니다. 이제 산 자 사이에서 자신처럼 영광을 좇는 자를 찾아다니는 그는 정열의 꽃이 가진 힘으로 그들에게 화려하게 최후를 선사합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119048,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 56
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 53
+      },
+      "Vivida": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Draven always dreamed of going out in a blaze of glory during his daredevil act, but when he got his wish, nobody was around to savor it. Only slightly humbler as an Eidola Muerte, Draven's found his kin within the Ego Family and spends his time spotting other glory hounds among the living, using his manipulative Ardor powers to send them off in style."
+  }
 }

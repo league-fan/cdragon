@@ -160,6 +160,62 @@
     }
   ],
   "description": "裏切り者の「アッシュ」モデルの代わりに投入された「ヴァルス」は、PROJECTコーポレーションが開発した最新の生物兵器である。だが、論争を呼ぶ実験体であり、一つの体に三つの異なる知性を共存させている。コマンドラインの防諜部に所属する工作員として、ヴァルスはPROJECTの覇権を維持するために活動しているが、現在はレジスタンスと協力して、モルデカイザーがPROJECTにもたらす損害を最小限に食い止めようとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110016,
+    "formatname": "PROJECT: Varus",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Reckoning": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Svetlana Tigai",
+      "West Studio"
+    ],
+    "lore": "A replacement for the traitorous Ashe model, Varus is the latest in PROJECT Corporation's biological weapons... and a controversial experiment, with one body inhabited by three sentient minds. A Command Line counter-espionage operative acting on behalf of the PROJECT initiative, they work alongside the resistance to mitigate the risk posed by Mordekaiser to their corporate interests."
+  }
 }

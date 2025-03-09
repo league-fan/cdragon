@@ -137,6 +137,50 @@
     }
   ],
   "description": "화려한 스타일의 도깨비불, 브랜드의 예술 테마는 내면의 힘을 받아들이고 그걸 터트리는 겁니다. 쿠콰쾅! (브랜드의 작품은 차분함과 거리가 멉니다.) 브랜드는 파괴라는 혁신적 수단을 써서 아름다운 장면을 연출하기로 유명합니다. 산성 표백, 깨진 콘크리트는 물론이고, 불길도 빼놓을 수 없죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "A will-o'-wisp with bombastic style, Brand's art is all about embracing your inner power and letting it EXPLODE! (His work features lots of exclamation points.) He's famous for using destruction as an unconventional tool to create beautiful images: acid washes, cracked concrete, and, of course, burning."
+  }
 }

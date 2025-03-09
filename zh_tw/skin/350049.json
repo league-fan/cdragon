@@ -182,6 +182,65 @@
     }
   ],
   "description": "當吉茵珂絲意外發現了一個古老遠古霸者程式，她忍不住亂搞了一番，創造出了一隻有自主意識，後來成為百獸特攻隊介面的數位靈貓：悠咪.AI現在有著亮晶晶的全息投影身體，大家最愛的線上小幫手、臭蟲打擊者兼討拍專家可以跟著隊友一起上戰場了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350049,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 55
+      },
+      "Catseye": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Meteorite": {
+        "id": 56
+      },
+      "Nightwire": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Override": {
+        "id": 60,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Anima Squad 2024 Premium Pass Bundle"
+      },
+      "Pearl": {
+        "id": 57
+      },
+      "Rose Quartz": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "When Jinx stumbled onto an old Primordian program, she couldn't help but tinker with it, creating what would become the sentient digital cat behind the Anima Squad interface: Yuum.ai! Now inhabiting a shiny new hologram body, everyone's favorite online helper, bug swatter, and demander of head pats can hop into battle alongside her allies."
+  }
 }

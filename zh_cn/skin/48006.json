@@ -96,6 +96,45 @@
     }
   ],
   "description": "特朗德尔是一个巨魔氏族的国王，也是一个可敬的屠龙勇士。他被赐予了驾驭山脉之冰这一原始力量的能力，守护着他的王国免于死亡和毁灭。经年累月，幸存的巨魔们已将他视为他们在这个被龙焰撕扯得支离破碎的世界里的威严领袖。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+  }
 }

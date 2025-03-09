@@ -160,6 +160,59 @@
     }
   ],
   "description": "Vayne is Anima Squad's premiere intel expert, infiltrating enemy strongholds to strike first, strike fast, and strike hard. She's willing to do anything it takes to ensure humanity's survival, even if sometimes that means butting heads with the leadership of Commander Fortune.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Nightwire": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 41
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Vayne is Anima Squad's premiere intel expert, infiltrating enemy strongholds to strike first, strike fast, and strike hard. She's willing to do anything it takes to ensure humanity's survival, even if sometimes that means butting heads with the leadership of Commander Fortune."
+  }
 }

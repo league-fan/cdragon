@@ -137,6 +137,54 @@
     }
   ],
   "description": "브라움의 티키 레모네이드는 브라움과 비슷한 점이 많습니다. 크고, 달콤하고, 포로에게 인기가 아주 많죠. 우두머리 세트도 한 잔 마시려고 기꺼이 차례를 기다릴 정도입니다!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-06-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 37
+      },
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Braum's tiki lemonades are a lot like him—tall, sweet, and very popular with poros. Even the Boss is willing to wait his turn to get a glass!"
+  }
 }

@@ -138,6 +138,54 @@
     }
   ],
   "description": "「巨大な樫の木を素手で真っ二つに切り裂く怪物が森に棲む」という物語は遥か昔から伝えられていたが、この巨大な生き物が珍しい石や骨を集めて樹上で騒々しい声をあげる、好奇心あふれる小さなクリーチャーであることを知る者は少ない。どちらにせよ、彼らには関わることなく、やりたいようにやらせておくのが賢明だ。それが愚かな判断かどうかは…どちらのナーに出会うかによる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-06",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Tanzanite": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Stories have long been told of a monster that stalks the wood, rending massive oak trees asunder bare-handed—but few realize this titan is also the small, curious creature that collects baubles and bones and chitters through the treetops. The wise leave both to their devices. The foolish? Well, it depends which Gnar they meet."
+  }
 }

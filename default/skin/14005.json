@@ -163,6 +163,52 @@
     }
   ],
   "description": "The ultimate ground-based mecha unit, 0-SION becomes like a freight train once given a combat directive, and will literally stop at nothing to dismantle an opponent—no matter how much damage it takes. There are lingering concerns that it could go rogue, but so far these worries have been unfounded.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2016-04-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2016-04-13",
+    "earlysale": "2016-10",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Meteorite": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 6
+      },
+      "Sapphire": {
+        "id": 8
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "The ultimate ground-based mecha unit, 0-SION becomes like a freight train once given a combat directive, and will literally stop at nothing to dismantle an opponent—no matter how much damage it takes. There are lingering concerns that it could go rogue, but so far these worries have been unfounded."
+  }
 }

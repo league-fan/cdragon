@@ -101,6 +101,45 @@
     }
   ],
   "description": "胜利枪神格雷福斯是给2017赛季达到黄金段位或以上的玩家的奖励。这位比尔吉沃特的最高通缉犯要炫耀自己多年的高超抢劫履历，所以要佩戴上标价最高的权贵标志。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2017-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104014,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2017-11-08",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "3v3": {
+        "id": 17,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      },
+      "Solo": {
+        "id": 16,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      },
+      "Flex": {
+        "id": 15,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy."
+  }
 }

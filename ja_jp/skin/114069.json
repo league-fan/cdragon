@@ -160,6 +160,60 @@
     }
   ],
   "description": "春の王宮の大使であるフィオラは、人々に対して深い愛情を持っている…ただ、その愛がゆえに、争いごとを話し合いではなく、情熱的な決闘で解決しようとすることが多い。先代の妖精の女王はフィオラの母親であり、彼女は自分の母親の不慮の死を事故などではないと考えている。真実を求めるフィオラは、その剣の切っ先で正義の裁きを下すつもりだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114069,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 71
+      },
+      "Emerald": {
+        "id": 73
+      },
+      "Obsidian": {
+        "id": 76
+      },
+      "Peridot": {
+        "id": 77
+      },
+      "Rose Quartz": {
+        "id": 75
+      },
+      "Ruby": {
+        "id": 70,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 72
+      },
+      "Turquoise": {
+        "id": 74
+      },
+      "Winsome": {
+        "id": 78,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "As ambassador of the Spring Court, Fiora has a deep love for her people… even if that love often leads her to resolve conflict via impassioned duels rather than words. The last faerie queen was Fiora's mother, and she believes her mother's untimely death was no mistake. She wants answers, and she will administer justice at the tip of her sword."
+  }
 }

@@ -146,6 +146,53 @@
     }
   ],
   "description": "纪念2024英雄联盟玩家节。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-09",
+    "set": [
+      "Superfans"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Commemorating LoL Player Days 2024."
+  }
 }

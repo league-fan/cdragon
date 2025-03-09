@@ -173,6 +173,47 @@
     }
   ],
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-01-28",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Peridot": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 4
+      },
+      "Turquoise": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ]
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "在混沌击败秩序之后，两兄弟诞生了：“因之化身”雷克顿，以及“果之化身”内瑟斯。作为黎明使者的执行人，雷克顿因为与他的同胞作战而变得更加疯狂，但他仍然坚持他的观点，即一切都必须有一个目的。如果不是为了造成更多混沌的话，那么混沌的作用是什么？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 36
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 38
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "In the aftermath of chaos slaying order, two brothers were born: the embodiments of cause, Renekton, and effect, Nasus. As executioner for the Dawnbringers, Renekton has become more frenzied from battling his kin, but he still holds to his view that everything must have a purpose. For what function does chaos serve, if not to cause more chaos?"
+  }
 }

@@ -147,6 +147,59 @@
     }
   ],
   "description": "실험 기술로 수명이 연장된 고대 전사 잭스는 한때 프로젝트의 무시무시한 통제로부터 도시 외곽을 지켰습니다. 하지만 모데카이저의 바이러스로 인해 동족들을 강제로 제거하게 되면서 미래에 대한 잭스의 희망은 산산조각나고 말았죠. 이제 복수는 잭스의 길을 밝히는 유일한 불꽃입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24033,
+    "formatname": "PROJECT: Jax",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 38
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 36,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 41
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge."
+  }
 }

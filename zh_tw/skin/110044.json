@@ -137,6 +137,54 @@
     }
   ],
   "description": "血月教派邪教徒讓法洛士的同袍一個個都陷入瘋狂，他迫於無奈只能送他們上路。悲痛欲絕的他祈求雪月教派麻痺他的痛苦，讓他成為冷血無情的復仇機器。雪月教派嘗試淨化他心裡這些邪念……但菲爾瑪及凱的聲音在他腦海裡迴盪不去，而他冰冷的心依舊燃著復仇之火。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 47
+      },
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "Blood Moon cultists drove Varus' comrades mad, forcing him to take their lives. Awash with grief, he begged the Snow Moon Order to numb the pain, to make him an instrument of ice cold revenge. The Order attempted to purify him of these heretical emotions… but Valmar and Kai's voices linger in his mind, and vengeance still smolders in his cold heart."
+  }
 }

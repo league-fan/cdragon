@@ -131,6 +131,56 @@
     }
   ],
   "description": "카타리나는 결투장에서 무자비한 전투 실력을 뽐내며 스키마 문장을 따냈습니다. 왕국이 보잘것없는 동맹에서 해방되고 지역의 패권국으로 거듭나려면 대관식에서도 압도적인 모습을 보여야 하죠. 이제 그녀는 여왕들 중의 여왕으로 등극할 준비를 단단히 마쳤습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-12-10",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Coronation": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Mingchen Shen",
+      "West Studio"
+    ],
+    "lore": "Katarina won the Schemean crest with a ruthless performance in her queendom's battle pits. For Schema to break free of its humble alliances and become the region's rightful leader, it will take a similarly commanding performance in the Coronation—and Katarina has never been more prepared to cement her fearsome status as the rightful queen of queens."
+  }
 }

@@ -33,6 +33,24 @@
     }
   ],
   "description": "获取方式：在2014年与一位RIOT员工碰面，或是参加一个官方的RIOT事件。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-08-12",
+    "set": [
+      "Riot"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "John Yucedag"
+    ],
+    "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2014."
+  }
 }

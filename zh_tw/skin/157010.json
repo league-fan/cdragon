@@ -109,6 +109,47 @@
     }
   ],
   "description": "犽宿從來不想成為一名星際海盜……直到他被誣陷殺害自己的兄長，而不得不展開流亡之路。現在他召集了來自十幾個不同軍隊的各路夥伴，打算組成一個與眾不同的艦隊來開啟他的新生活。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Yasuo never wanted to be a space pirate… until he was framed for his brother's murder, and had to flee his life of relative luxury. Now on the run from a dozen different military and paramilitary factions, he's putting together an eccentric crew to make a new life among the stars."
+  }
 }

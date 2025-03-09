@@ -160,6 +160,60 @@
     }
   ],
   "description": "奈德麗是她豹群的領袖，周圍的人類都對她敬畏三分。有一天奈德麗為了保護家人而被一群獵人殺害，家人和周圍鄰居的愛使她化身成掌生幽魂。現在能夠在人類和豹形態之間自由切換的奈德麗，總是在遠處看守著家人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 76048,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 56
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 53
+      },
+      "Vivida": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Roxana Ortega"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "A jaguar leader of her own pack, Nidalee was both feared and respected by her neighboring humans. When she fell to a group of hunters for protecting her family, the shared love not just from her pack, but from her neighbors, reincarnated Nidalee as an Eidola Vida. With the power to assume both jaguar and human form now, she watches over her kin from afar."
+  }
 }

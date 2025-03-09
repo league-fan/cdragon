@@ -160,6 +160,60 @@
     }
   ],
   "description": "ホットタブ星雲出身のサミーラは、スリルを求めてやまないグルーヴィーなボディガード兼エリート兵士であり、目前に迫ったノーマルワールドの侵略からラックスを救う仕事を「パーティーの三女神」から直接引き受けた。現在は銀河中の惑星を巡って自由をもたらしている二人だが、サミーラはラックスを守るべく日々全力尽くしている。敵であるリサンドラはもちろん、自己防衛本能に欠けたラックス自身からも目を離すことはできないのである。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 360010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Disco": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rainbow": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Emily O’Brien"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "A groovy, thrill-seeking bodyguard and elite warrior from the Hot Tub Nebula, Samira took a job directly from the Three Party Goddesses to save Lux from an impending invasion of the Normal World. Now, as the pair liberate planets across the galaxy, Samira must do everything in her power to keep Lux safe—both from Lissandra and from Lux's own lack of self preservation instincts."
+  }
 }

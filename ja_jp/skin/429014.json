@@ -160,6 +160,60 @@
     }
   ],
   "description": "女王の近衛兵隊で隊長を務めるカリスタは、女王の安全を守ることを何よりも最優先している。カリスタが現在の地位に取り立てられたのは、カルマの親友だったからに過ぎないと不平を言う者もいたが、彼女はその称号を実力で勝ち取ったのだということを、これまでに何度となく証明してきた。それでもカリスタの力を疑うなら、彼女と決闘するといい。それが間違いだったと直々に教えてくれるだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 429014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 19
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 20
+      },
+      "Winsome": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Misty Lee"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "As captain of Her Majesty's royal guard, Kalista is dedicated to keeping her queen safe above all else. Though some grumble that Kalista was only elevated to her station because she is Karma's dearest friend, she has proven time and time again that her title is well earned. Anyone who thinks otherwise is welcome to duel her and learn firsthand."
+  }
 }

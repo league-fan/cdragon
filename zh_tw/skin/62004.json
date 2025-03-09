@@ -24,6 +24,26 @@
     }
   ],
   "description": "曾身為一名武術弟子，悟空在他師傅嚴格的傳統和教義下接受訓練。之後，死神在他的身上看到了無窮的潛力，而選擇為地下社會收下他這名被忽略的學生。如今，悟空與不朽的群眾一同戰鬥著，並不再受縛於生靈的法則。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-10-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-10-28",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Once a pupil of the martial arts, Wukong trained under his masters' strict traditions and doctrines. In him, Death saw limitless potential, and chose to claim the disregarded student for the underworld instead. Now, Wukong fights alongside the undying hordes, no longer bound by the rules of the living."
+  }
 }

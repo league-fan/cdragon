@@ -113,6 +113,48 @@
     }
   ],
   "description": "レンガーは遠い昔に死んだと考えられていた、忘れられた教団の暗殺者だ。彼は墓所をうろついて力を秘めた古代の遺物を回収しているが、その目的は不明である。さらに恐ろしいことに、彼は守護者たちを狩ろうとしているようなのだ。魔力を授かった彼の刃は、守護者たちの古代魔法を使った防御も貫く…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "An assassin of a forgotten order long thought dead, Rengar prowls the tombs, retrieving ancient relics of power for purposes unknown. Far more alarming, he appears to be hunting guardians, his blades enchanted to pierce their ancient magic and defenses…"
+  }
 }

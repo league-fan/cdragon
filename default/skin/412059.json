@@ -137,6 +137,54 @@
     }
   ],
   "description": "There aren't many places, let alone stock brokerage firms, that will hire an ethically questionable, skull-faced custodian named Thresh, but Mundo wouldn't be a trillionaire if he didn't know a good bet when he saw one. Who better to clean up dirty money than a demon janitor?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412059,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-11",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 62
+      },
+      "Meteorite": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 60,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Tanzanite": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "There aren't many places, let alone stock brokerage firms, that will hire an ethically questionable, skull-faced custodian named Thresh, but Mundo wouldn't be a trillionaire if he didn't know a good bet when he saw one. Who better to clean up dirty money than a demon janitor?"
+  }
 }

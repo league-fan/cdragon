@@ -13,144 +13,600 @@
       "name": "黑暗之女",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "260",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts, though she eventually learned to control these 'playful tricks.' Her favorite includes the summoning of her beloved teddy bear, Tibbers, as a fiery protector. Lost in the perpetual innocence of childhood, Annie wanders the dark forests, always looking for someone to play with."
+      }
     },
     {
       "id": 1001,
       "name": "哥特萝莉 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-10-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1001,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Digital Collector's Pack",
+        "release": "2009-10-27",
+        "set": [
+          "Goth"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Her mother is dead. Her father is dead. But Annie remains, seeing beauty in the dark."
+      }
     },
     {
       "id": 1002,
       "name": "小红帽 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-04-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "retired": "2011-11-28",
+        "set": [
+          "Storybook"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Over the river and through the woods, to grandmother's house Annie went—not once suspecting that Warwick the Wolf was waiting for her. Of course, Warwick didn't know Annie could shoot balls of magic flame or summon a fiery bear, so really this was a larger issue with communication."
+      }
     },
     {
       "id": 1003,
       "name": "安妮梦游仙境",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-08-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1003,
+        "formatname": "Annie in Wonderland",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-08-16",
+        "retired": "2011-11-28",
+        "set": [
+          "Storybook"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Down the rabbit hole Annie went, following the White Tibbers she had spied at the riverbank, until she emerged in a world much more curious than the one she had left. “Perhaps I shall stay,” she said to herself—and so she did."
+      }
     },
     {
       "id": 1004,
       "name": "舞会公主 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-07",
+        "retired": "2015-08-29",
+        "set": [
+          "Day Job"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ]
+      }
     },
     {
       "id": 1005,
       "name": "冰霜烈焰 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-05-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-24",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Annie is a Winterlands prodigy—a child born with both innate magic and a spirit guardian, the first of her kind in many generations. Though still young, she has already become a joyous fixture in the halls of the Poro King."
+      }
     },
     {
       "id": 1006,
       "name": "安伯斯与提妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-09-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-09-06",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
     },
     {
       "id": 1007,
       "name": "科学怪熊的新娘 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "He's a towering abomination of science and magic. She's an eight year old with a beehive hairdo, and undiagnosed pyromania. Name a more iconic duo. I'll wait."
+      }
     },
     {
       "id": 1008,
       "name": "“你看见过我的熊猫吗？”安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-02-08",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Annie is a big part of Lunar Revel festivities, using her pyromancy to set off scores of high powered fireworks. Her panda bear Tibbers hauls the rockets for her, mauling anyone who tries to make off with even the smallest sparkler."
+      }
     },
     {
       "id": 1009,
       "name": "甜心宝贝 安妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-02-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1009,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-02-13",
+        "set": [
+          "Heartbreakers"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Suke 'hugehugesword' Su"
+        ],
+        "lore": "Sugar, spice, and everything nice: that's what Sweetheart Annie is made of! Tibbers is made of fire-resistant cotton blend and the insatiable hunger of a shadow bear, but he's still good for a hug or two. Probably just one, actually."
+      }
     },
     {
       "id": 1010,
       "name": "海克斯科技 安妮",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2016-03-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1010,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2016-03-15",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A scientific prodigy even among the intellectuals of the Hextech renaissance, Annie's beautiful, living warbears are among the most prized innovations of the era. Her most mysterious creation, Tibbers, is always close at hand—her confidant, friend, and monstrous bodyguard."
+      }
     },
     {
       "id": 1011,
       "name": "银河魔装机神 安妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-10-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-10-16",
+        "earlysale": "2018-04",
+        "set": [
+          "Super Galaxy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ],
+        "lore": "The youngest human ever to be named a Super Galaxy cadet, Annie proved her mettle the day she turned her teddy bear into a self-piloting mech. Despite serious concerns over her highly combustible designs and volatile programming, Annie's Mecha-Tibbers went into full production. Desperate times call for destructive measures."
+      }
     },
     {
       "id": 1012,
       "name": "十周年纪念 安妮",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-10-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1012,
+        "formatname": "Annie-Versary",
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "10th Anniversary Reward",
+        "cost": "Special",
+        "release": "2019-10-27",
+        "set": [
+          "Surprise Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Ten years of epic outplays, last second turnarounds, and brutal throws - and we couldn't have done it without each and every one of you. Annie is ready to usher in the festivities, and Teemo… has been lifting, I see. Happy 10!"
+      }
     },
     {
       "id": 1013,
       "name": "福牛守护者 安妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1013,
+        "availability": "Legacy",
+        "looteligible": true,
+        "set": [
+          "Lunar Beast"
+        ],
+        "cost": 1350,
+        "release": "2021-02-04",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Citrine": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          },
+          "Vitality": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Beast 2021"
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Everyone was shocked when Annie was chosen as Ox Clan's tech operative. A precocious prodigy, Annie serves as the team's recon strategist, making sure the parade route is clear of civilians."
+      }
     },
     {
       "id": 1022,
       "name": "咖啡甜心 安妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 26
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 29
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Daughter of the cafe's owner and an accomplished pastry mage wunderkind, Annie has a sweet tooth to be reckoned with. Though her occasional hangry tantrums send her enchanted gummy bear scouring the cafe for any morsel of food fit for his master, with a full belly Annie is as sweet as sugar!"
+      }
     },
     {
       "id": 1031,
       "name": "魔域梦魇 安妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-22",
+        "set": [
+          "Fright Night"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 35
+          },
+          "Catseye": {
+            "id": 33
+          },
+          "Emerald": {
+            "id": 34
+          },
+          "Obsidian": {
+            "id": 39
+          },
+          "Pearl": {
+            "id": 38
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Awful Orphan Annie comes home from school each day<br>A lonely little lady with whom no one will play<br>Now all her family's fled (or dead or gone away)<br>She can depend on Mr. Tibbers to make her new friends stay!"
+      }
     },
     {
       "id": 1040,
       "name": "北极星使者 安妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-12-06",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 46
+          },
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Rainbow": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Wreathguard": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Winterblessed 2023"
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Senna set off to search for the Aurora, only to encounter the child, Annie, outside her estate. Her most cherished friend was her family's pet bear, who recently died. Annie wished for Polaris to bring him back to life, but Senna refused, and instead presented the bear in toy form. \"Loss is a part of life, but his memories will live inside this gift."
+      }
     },
     {
       "id": 1050,
       "name": "战斗公主 安妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1050,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-08-28",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 52
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 54
+          },
+          "Tanzanite": {
+            "id": 55
+          },
+          "Turquoise": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Annie revealed her magical talents before Telum's royal court, transforming her dear teddy bear into a knight of steel and flame. Though a near-fatal display for many aristocrats, Queen Fiora embraced the child's potential and named her successor. Annie trains to triumph in a future Coronation… and causes a fair amount of mischief for her regal mentor."
+      }
     }
   ]
 }

@@ -130,6 +130,45 @@
     }
   ],
   "description": "易是一个被魄罗之王赋予了生命魔法的谦卑雪人，正在努力变成地表最英勇的骑士……随着冰王图奇的入侵将至，易应该会获得表现的机会。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11017,
+    "formatname": "Snow Man Yi",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "A humble snowman brought to life by the magic of the Poro King, Yi strives to become the most gallant knight in all the land… and with the imminent invasion of Ice King Twitch, he might just get his chance."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "阿璃是一隻強大的極地靈狐，自從雪月教派創立之初就已存在了。兩者之間有著共生關係：教徒會將感情和記憶獻給她以淨化自身，這同時也滿足了她的食慾。阿璃保存著信徒失去的記憶，並透過他們變得空洞冷漠的眼睛，去體驗外面的世界。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103076,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 78
+      },
+      "Emerald": {
+        "id": 82
+      },
+      "Jasper": {
+        "id": 80
+      },
+      "Rose Quartz": {
+        "id": 79
+      },
+      "Ruby": {
+        "id": 77,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 83
+      },
+      "Tanzanite": {
+        "id": 81
+      },
+      "Turquoise": {
+        "id": 84
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An ancient and powerful arctic fox spirit, Ahri has been around since the founding of the Snow Moon order. It is a symbiotic arrangement: agents purify themselves by sacrificing their emotions and memories to her appetite. Ahri is the keeper of their lost memories, experiencing the outside world through her devotees, their eyes now vacant and cold."
+  }
 }

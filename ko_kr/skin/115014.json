@@ -143,6 +143,57 @@
     }
   ],
   "description": "명성이 자자한 사탕껌 척탄병 직스가 캔디 왕국 전역에서 소란을 피우고 있습니다! 모두 직스의 화려한 설탕 폭탄을 보며 즐거워합니다만... 위험하기에 가까이 다가가지는 않습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-12-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-12-17",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 19
+      },
+      "Aquamarine": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Meteorite": {
+        "id": 22
+      },
+      "Peridot": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 20
+      },
+      "Sweet Tooth": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sugar Rush 2019"
+      }
+    },
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "The famed Gumball Grenadier, Ziggs, bursts across Candy Kingdom! Everyone knows to enjoy his colorful explosions… from a safe distance."
+  }
 }

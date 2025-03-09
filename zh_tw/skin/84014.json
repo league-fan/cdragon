@@ -160,6 +160,61 @@
     }
   ],
   "description": "阿卡莉是一個以尖端科技塑構的菁英計畫體，她以某種方式逃出了「城市」的疆界。她向那些生活在荒土彼端的人們發出了一個警告：有個未經測試的超級武器正被製造。由於時間緊迫且別無選擇，這些流亡者加入了她的行列，並試圖推翻那擁有龐大力量的超級組織 … 可疑的是，這位新發現的盟友事實上很有可能是一名雙面間諜。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84014,
+    "formatname": "PROJECT: Akali",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 20
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Reckoning": {
+        "id": 24,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Atey Ghailan"
+    ],
+    "lore": "A cutting-edge PROJECT subject who somehow escaped the City's boundaries, Akali brings dire warnings of an untested superweapon to those living in the wasteland beyond. With time running out and no other options, these outcasts join her in an attempt to take the mega-corporation down… suspicious that their newfound ally might in fact be a double agent."
+  }
 }

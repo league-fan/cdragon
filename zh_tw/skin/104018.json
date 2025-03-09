@@ -108,6 +108,47 @@
     }
   ],
   "description": "被尚未研發完成的脈衝火焰科技釋放到多重空間之中，葛雷夫只是無數肆虐的時空的禁衛軍甲中的一員。他的程式設計與現在、過去或未來都截然不同－他思考的複雜程度需要凡人 10 倍的生命才能理解。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-08",
+    "set": [
+      "Praetorian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Unleashed upon the multiverse by imperfect Pulsefire technology, Graves is but one of a numberless horde of Praetorian marauders now plaguing spacetime. Its programming is unlike anything from any known past, present, or future—each of its thoughts is so complex, it would take ten lifetimes for a human to comprehend."
+  }
 }

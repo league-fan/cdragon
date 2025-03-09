@@ -8,24 +8,183 @@
       "name": "Primordian Bel'Veth",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 200019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Primordian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Abyssal": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Citrine": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          },
+          "Tanzanite": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "The tide of war has turned, with Primordians scattered and Anima Squad idling safely in Final City. But deep below the tranquil sea, Bel'Veth plots. A creature of incredible intelligence, she grew used to living in Aatrox's shadow, her masterful tactics less bombastic than his brute strength. Now her time has come to rise above the waters and strike."
+      }
     },
     {
       "id": 266033,
       "name": "Primordian Aatrox",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2024-07-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 266033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-07-31",
+        "set": [
+          "Primordian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Abyssal": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 36
+          },
+          "Tanzanite": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "Pandart Studio"
+        ],
+        "lore": "When the Primordians first attacked, humanity was unprepared—until Anima Squad formed to become its last defense. But they are safe no longer, for the Primordians evolved in turn. Their apex being is called Aatrox, whose understanding of humanity only furthers his hatred. His flesh has no limits, his sword no mercy. He is the harbinger of Anima's end."
+      }
     },
     {
       "id": 421026,
       "name": "Primordian Rek'Sai",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 421026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Primordian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Abyssal": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Amethyst": {
+            "id": 29
+          },
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 31,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Rainbow": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Final City built its barricades high, protecting its citizens from countless Primordian threats. Rek'Sai laughs in the face of these obstructions—or at least mimics a laugh in the form of a loud, painful screech. Having evolved to tunnel beneath land, she is the ideal infiltrator, the first Primordian to lay eyes on Final City… but certainly not the last."
+      }
     }
   ]
 }

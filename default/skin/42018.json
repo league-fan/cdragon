@@ -135,6 +135,50 @@
     }
   ],
   "description": "A dog trainer with some impractical ideas about canine aerodynamics, Corki has entered the world's foremost pet show with a flight-enabled Pembroke Welsh Corgi. Why has he done this? What does he hope to gain? Is he really a Yordle, or just a very small man? These are all important questions.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-03-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 42018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-03-27",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rainbow": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "A dog trainer with some impractical ideas about canine aerodynamics, Corki has entered the world's foremost pet show with a flight-enabled Pembroke Welsh Corgi. Why has he done this? What does he hope to gain? Is he really a Yordle, or just a very small man? These are all important questions."
+  }
 }

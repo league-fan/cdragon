@@ -137,6 +137,54 @@
     }
   ],
   "description": "かつてシェンはゼドと組んで、雷刃の一団で精鋭工作員として活動していた。しかし、自らの過ちによって相棒が命を落としかけたことをきっかけに、シェンは現役から退いた。今では指導者として一団に参加する若き忍たちの訓練を行っているが、この新たな役割に刺激を受け、再び剣を取って戦いに加わる日が来るかもしれない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 45
+      },
+      "Aquamarine": {
+        "id": 44
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Once half of an elite operative duo for the Shockblade order, Shen stepped away from combat after he made a mistake that nearly cost the life of his partner, Zed. Now Shen mentors young shinobi training to join their ranks – but his new charge may inspire him to take up his sword and join the fight once more."
+  }
 }

@@ -24,6 +24,27 @@
     }
   ],
   "description": "お菓子王国のキラキラキングとして知られるアイバーンは、はるか遠方の住民にまで愛される存在だ。だが、その愛嬌たっぷりの外見の下にはモンスターが潜んでいると見て取る者もいる。事実、彼は満たされることのないキャンディへの渇望を常に抱えているのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-10-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 427001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-10-04",
+    "earlysale": "2017-02",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "David Lodge"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "The resplendent ruler of the Candy Kingdom, Ivern is beloved by subjects far and wide. Yet there are those who have seen the monster lurking beneath his jolly frame—and his gnawing hunger for candy flesh that can never be satisfied."
+  }
 }

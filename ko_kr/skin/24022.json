@@ -160,6 +160,60 @@
     }
   ],
   "description": "자신의 왕국이 멸망하는 것을 막지 못한 차원에서 온 잭스는 추방자 생활에도 만족했습니다. 모든 게 무너지기 전까지는요. 이제 창공이 된 그는 어딘가에 자신의 왕국이 아직 온전하다는 사실을 알게 되었습니다. 설사 이 일로 자신이 파괴되더라도, 자신이 가진 모든 힘을 사용해서라도 고향을 다시 한번 찾을 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 24
+      },
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Neon Flare": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Hailing from a realm where he failed to protect his kingdom from annihilation, Jax was content to live in exile, until everything collapsed. Now an Empyrean, he knows that somewhere out there his kingdom is still intact. Even if it destroys him, he'll use all of his power to see his home one more time."
+  }
 }

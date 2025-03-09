@@ -24,6 +24,24 @@
     }
   ],
   "description": "希格斯精通於投擲炸彈，他也很樂意休息一下來改丟雪球。對他來說，所謂的「數個」意味著數百個，而「球」意味著會導致冬天萬物瀕臨死亡的爆炸性球體。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-12-14",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "James Strehle"
+    ],
+    "lore": "Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death."
+  }
 }

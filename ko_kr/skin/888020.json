@@ -160,6 +160,60 @@
     }
   ],
   "description": "강요받은 관계로 가득한 삶을 살았던 레나타는 죽음으로 해방된 후 자신이 늘 원했던 가족을 만들고자 사업가 일가를 세웠습니다. 구성원 사이의 유대는 가족의 온기가 아니라 순수한 계산에서 나왔죠. 레나타는 사회를 살펴보며 일을 더 '효율적으로' 만드는 데 필요한 것이라면 어떠한 수든 거리낌 없이 씁니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 888020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 25
+      },
+      "Vivida": {
+        "id": 30,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Debra Wilson"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "In a life filled with forced relationships, death freed Renata to form the family she always wanted. As the Enterprise Family's founder, the bond between members doesn't come from any sense of familial warmth but from honest calculation. As for her work, Renata looks at society and pulls whatever deathly strings she needs to make things more “efficient.”"
+  }
 }

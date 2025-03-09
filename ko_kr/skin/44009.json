@@ -137,6 +137,55 @@
     }
   ],
   "description": "어설픈 도적 한 쌍을 위해 방어와 치유를 동시에 떠맡아야 하는 전투 성직자, 빛의 방패 타릭은 파티원들이 전멸하는 것을 막아 주는 유일한 존재일지도 모릅니다. 게임에서 그는 신성한 타고니우스 여신의 독실한 전사지만, 다른 모험을 찾아 떠나고 싶어 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 44009,
+    "formatname": "Taric Luminshield",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-19",
+    "set": [
+      "Rift Quest"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 10
+      },
+      "Amethyst": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Peridot": {
+        "id": 14
+      },
+      "Rainbow": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Yuri Lowenthal"
+    ],
+    "lore": "A battle cleric who has to simultaneously tank and heal for a pair of bumbling rogues, Taric Luminshield may be the only thing keeping his table from a total party wipe. In-universe he's a devout warrior of the Divine Goddess Targonius, but out of universe he'd rather be in a different campaign."
+  }
 }

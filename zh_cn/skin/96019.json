@@ -137,6 +137,54 @@
     }
   ],
   "description": "克格莫是一个著名魔法师的矮小佣兽，在他的主人追求奥术艺术的过程中被长年累月地虐待和忽视。多亏了与佐伊的一次邂逅，他被从奴役中解放，与她一起周游各地……最终被佐伊所在的那所学校招收为学生。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-09",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Rainbow": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends."
+  }
 }

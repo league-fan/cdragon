@@ -33,6 +33,20 @@
     }
   ],
   "description": "你的机器人腿部已经破损，因此我们将它换成了老式'32的改装版本，并配备了一款八缸外置的煤炭引擎。并且，我们还为他的拳头喷绘了火焰图案。火焰图案需要额外收费。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2011-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2011-03-07",
+    "set": [
+      "Piltover Customs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra."
+  }
 }

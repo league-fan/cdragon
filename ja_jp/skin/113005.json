@@ -43,6 +43,29 @@
     }
   ],
   "description": "ポロキングの魔法のウィンターランドで孤児となったセジュアニは、ポロたちの手でポロの一員として育てられた。現在ではポロの中で最強のチャンピオンとなり、涎を垂らしたおやつ中毒の戦ポロに乗って、彼女の第二の故郷を脅かそうとするあらゆるものに立ち向かっていく。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home."
+  }
 }

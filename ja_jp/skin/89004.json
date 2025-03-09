@@ -77,6 +77,35 @@
     }
   ],
   "description": "元サーフィンチャンピオンのレオナは、競技が開催されないときには浜辺でくつろぎながらラノベを読んで過ごしている。というか、ロマンチックな小説なら何でも大好きだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-09-09",
+    "set": [
+      "Pool Party"
+    ],
+    "newanimations": true,
+    "neweffects": true,
+    "newrecall": true,
+    "chromas": {
+      "Azure": {
+        "id": 6
+      },
+      "Lemon": {
+        "id": 7
+      },
+      "Pink": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Leona is a former champion surfer, who enjoys spending her downtime relaxing on the beach with a light romance novel. Or pretty much any romance novel, in fact."
+  }
 }

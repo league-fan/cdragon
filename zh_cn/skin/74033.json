@@ -58,6 +58,32 @@
     }
   ],
   "description": "自从黑默丁格被皮尔特沃夫议会解职后，他就一直忙着处理一件最重要的工作：研究异常点及其对祖安的影响。他和自己的两个徒弟——杰斯和艾克——联手合作，终于得以一窥魔法的全部潜力。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74033,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "After his dismissal from the Piltover Council, Heimerdinger has been busy working on what matters most: the Anomaly and its effects on Zaun. Working together with Jayce and Ekko—his two protégés—Heimerdinger may finally be starting to see the full potential of magic."
+  }
 }

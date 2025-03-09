@@ -119,6 +119,51 @@
     }
   ],
   "description": "光と美の善なる王宮の君主、カルマ女王陛下に栄光あれ！彼女が王位を継承して、女王の座に登り詰めたことには誰もが驚いたが(貴族も、民も、カルマ本人すらも)、彼女は気品と権力の手本となる存在として季節の移り変わりを見守り、言い争いが絶えない季節の副王宮の調和を維持するように務めている。女王陛下万歳！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Winsome": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "All hail Her Majesty, Karma, Queen of the Seelie Court of Light and Beauty! Though her selection and subsequent rise to the throne was a surprise to everyone (nobles, laymen, even Karma herself), she is a beacon of poise and power, overseeing the turning of seasons and keeping the balance between the ever-bickering seasonal sub-courts. Long live the Queen!"
+  }
 }

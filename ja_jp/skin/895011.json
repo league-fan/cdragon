@@ -160,6 +160,61 @@
     }
   ],
   "description": "茨を破り、骨を砕く耳障りな音を立てながら、それはニーラのもとにやって来た。忠誠と引き換えに無限の才能を提示された彼女は、棘から滴り落ちる深紅で器を満たし、その申し出に応えた。そして、神の遺物を携えるようになった彼女には、ある確信があった──自分はこの盟約の枠を超えて特別な何かを得る運命にあると。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 895011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Profane": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Sandra Saad"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "They came to Nilah in a cacophony of cracking brambles and bone, offering unbridled talents in exchange for her loyalty. She obliged by filling a vessel with the deep crimson that dripped from the thorns. She now carries with her this godly relic along with the knowledge that she is destined for more than this coven can ever give."
+  }
 }

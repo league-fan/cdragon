@@ -24,6 +24,24 @@
     }
   ],
   "description": "紀念 imp 在 2014 世界大賽中使用圖奇贏得世界冠軍的精采表現。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-05-13",
+    "set": [
+      "World Champions: 2014"
+    ],
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring imp's winning performance as Twitch during the 2014 World Championship."
+  }
 }

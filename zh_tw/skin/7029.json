@@ -91,6 +91,39 @@
     }
   ],
   "description": "慶祝 2020 年舉辦於上海的 2020 世界大賽。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7029,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-24",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Celebrating Worlds 2020 in Shanghai."
+  }
 }

@@ -25,6 +25,26 @@
     }
   ],
   "description": "馴龍，對少數了解這門學問的人來說，約德爾人似乎是唯一專精此領域的。根據漢默丁格幾個世紀的成功研究，他始終認為龍和人類可以和平共處。而他目前孵化的龍，畢達哥拉斯，也印證著這個信念。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2018-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 74006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-10-11",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Jason Palmer"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Dragon training, to the few who understand it, seems to be the sole domain of yordles. Heimerdinger has long believed that dragons and humankind can peacefully coexist, citing centuries of his own successful research. His current dragon hatchling, Pythagoras, holds no opinion on the subject."
+  }
 }

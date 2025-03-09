@@ -138,6 +138,54 @@
     }
   ],
   "description": "세라핀은 혼자서 은하계 전체로 투어를 떠났지만, 이제는 별 수호자가 되어 협력할 때입니다. 세라핀은 새로운 영웅들과 팀을 이룬다는 것에 열광하며, 자신의 열정을 나누는 것을 주저하지 않습니다. 그들은 진정한 사랑을 위해 싸웁니다... 이보다 더 낭만적인 게 있을까요?!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rainbow": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "Seraphine has toured the entire galaxy as a solo act, but now it's time for a Star Guardian collab. She's ecstatic to team up with a new group of heroes, and she isn't afraid to share that enthusiasm. They're fighting for true love… what could be more romantic than that?!"
+  }
 }

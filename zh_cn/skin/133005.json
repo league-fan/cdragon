@@ -137,6 +137,55 @@
     }
   ],
   "description": "昔日的护国军靠羁绊获得权能：伙伴之间的羁绊，与盔甲的羁绊，与法令的羁绊。奎因遵循着她先祖们的脚步，与一只名为华洛的佣兽缔交了羁绊，来致敬护国军的核心宗旨。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 133005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Warden"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Lauren Mayhew"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "The Protectorate of old gained its power from bonds: bonds between comrades, bonds to armor, bonds to its edicts. Quinn follows in the footsteps of her ancestors, having forged a bond with a familiar she has named Valor, in honor of the Protectorate's central tenet."
+  }
 }

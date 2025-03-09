@@ -95,6 +95,41 @@
     }
   ],
   "description": "黑暗森林精灵是伟大的精灵诸帝国的破碎残存，戒备地守卫着邪恶能量，皆因这股能量曾经被有些人视为他们魔法霸权的基石。莫甘娜已将这股魔力深深地隐藏在她的躯体中，将它与她的灵魂链在一起，以便让它仅供她运用。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-05-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-05-23",
+    "set": [
+      "Albion"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "The Dark Forest Elves are the shattered remnants of the great elven empires, jealously guarding evil power that some once considered the cornerstone of their magical supremacy. Morgana has hidden this magic deep within her body, chaining it to her soul so that only she might wield it."
+  }
 }

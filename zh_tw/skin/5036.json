@@ -222,6 +222,60 @@
     }
   ],
   "description": "趙信是新年慶典的人氣王——這可不只是因為他發出一堆紅包。他是最可靠的守護者，阻止他那些比較調皮衝動的朋友們搞出爆炸性的惡作劇，他在過程中也能維持從容不迫的風度，令眾人神魂傾倒。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5036,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 38
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Golden Tiger": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Zoe Zhu",
+      "West Studio"
+    ],
+    "lore": "Xin Zhao is a popular man at the New Year's festival— and not just because he hands out lots of red envelopes. He is the reliable protector that keeps his more chaotic friends from getting into often-explosive mischief, and does it all with a cool, casual grace that leaves everyone swooning. "
+  }
 }

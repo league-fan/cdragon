@@ -53,6 +53,31 @@
     }
   ],
   "description": "对于水晶圣域的居民来说，被称为卡兹克的生物是一种纯粹晶体状的惧妖，它对同化生命力的渴望是无止境的。然而，对于北方的那些人来说，这是一个奇迹：一个由水晶本身塑造成近乎完美形态的存在，并且其传播灵棱能量的狂热非常鼓舞人心。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 121079,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-03-20",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 80,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "To citizens of Crystalis Motus, the being known as Kha'Zix is a purely crystalline horror whose hunger to assimilate life knows no limits. To those in the north, however, it is a marvel: a being shaped by the crystals themselves into a near perfect form, and whose zeal to spread the Prismae's power is inspirational."
+  }
 }

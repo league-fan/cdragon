@@ -124,6 +124,48 @@
     }
   ],
   "description": "버센치아의 장군이었던 드레이븐의 앞에는 창창한 미래가 기다리고 있었습니다. 하지만 다른 사람의 영광을 위해 싸우고 싶지 않았던 그는 어느 세력에도 소속되지 않는 용병 생활을 시작했고, 곧 최고의 시기를 보내며 화려한 전투 방식으로 이름을 떨쳤습니다. 하지만 드레이븐이 어떻게 아발론 제작에 필요한 자원을 구했는지는 여전히 수수께끼로 남아 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Peacekeeper": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Once a promising general of Vercentia, Draven no longer wished to fight for someone else's glory. Now living his best life as an independent mercenary, he has made a name for himself and his showmanship in battle. To this day, how he managed to acquire the resources necessary to craft an Avalon remains a mystery…"
+  }
 }

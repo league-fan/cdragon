@@ -8,48 +8,215 @@
       "name": "Arcanist Shaco",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-09",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 17
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Rainbow": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Vile warlock and wanted criminal, Shaco is a dangerous creature whose mind was shattered during experimental soul duplication rituals. At some point he came into possession of a rare and powerful book of spells, amplifying the threat of his monstrous arcane sorcery."
+      }
     },
     {
       "id": 96019,
       "name": "Arcanist Kog'Maw",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 96019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-09",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Rainbow": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends."
+      }
     },
     {
       "id": 99002,
       "name": "Spellthief Lux",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-10-19",
+        "set": [
+          "Arcanists"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "She doesn't pull in coin like the Spellthief's Edge, and can't actually steal spells like Sylas, but technically Lux is learning and reproducing illegal magic. Sadly, “Illegal Spell Learner Lux” doesn't have quite the same ring to it."
+      }
     },
     {
       "id": 115005,
       "name": "Master Arcanist Ziggs",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-05-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 115005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-05-06",
+        "earlysale": "2015-12",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones."
+      }
     },
     {
       "id": 142018,
       "name": "Arcanist Zoe",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 142018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-09",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "A promising student of magic at the Arcanist Academy, Zoe has ignored the advice of her headmaster and embarked upon a grand adventure the likes of which she is utterly unprepared for. Considering her penchant for sewing chaos wherever she goes, the world might be more unprepared than she is."
+      }
     },
     {
       "id": 142019,
       "name": "Prestige Arcanist Zoe",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 142019,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-07-09",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 18,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "Having temporarily outsmarted the mad Arcanist Shaco and absconded with his precious tome of magic, Zoe's power has been elevated beyond even some of her instructors. Her instructors are extremely worried about this. Most people are extremely worried about this."
+      }
     }
   ]
 }

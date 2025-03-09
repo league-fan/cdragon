@@ -138,6 +138,54 @@
     }
   ],
   "description": "作为灵息教众最古老的成员，魔腾满足于从阴影中发号施令，很久以前就将它的物理形态换成了纯粹的灵息。在地下墓穴中，它小心翼翼地守卫着那口在几个世纪以来已被教众填满灵息的巨井，忙着料理那个将要把绝息者们一劳永逸地毁灭掉的邪恶武器。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "As the oldest member of the Aspirants, Nocturne is content to lead from the shadows, having long ago exchanged their physical form for pure Aspira. Within the catacombs, they jealously guard the vast well of Aspira the congregation has filled over the centuries, toiling away at the unholy weapon that will destroy the Neverghaast once and for all."
+  }
 }

@@ -138,6 +138,51 @@
     }
   ],
   "description": "チョ＝ガスは、この世界からネヴァーガーストを排除するためにノクターンが創り出した生体兵器であり、信徒団の地下墓地にあった聖なる遺物を動力としている。現在は休眠状態にあるが、そのパワーを生み出すため、ノクターンは囚人を餌として与え続けている。チョ＝ガスが完全に覚醒したとき、創造主ですら、この怪物を止めることはできない。そして、その飢えを満たせるものなど、この世界には存在しないのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 30
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "A living weapon of Nocturne's design, Cho'Gath is meant to cleanse the world of the Neverghaast. Empowered by sacred artifacts from the congregation's crypts, it has remained dormant while Nocturne feeds it prisoners to build its power. Despite its maker's intentions, nothing will be able to sate the monster's hunger once it fully awakens."
+  }
 }

@@ -75,6 +75,32 @@
     }
   ],
   "description": "以此致敬Doinb在2019全球总决赛中使用墨菲特的夺胜表现。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54025,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 26,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      },
+      "Tenfold Triumph": {
+        "id": 47
+      }
+    },
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring Doinb's winning performance as Malphite during the 2019 World Championship."
+  }
 }

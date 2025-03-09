@@ -13,64 +13,348 @@
       "name": "카밀",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-12-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-12-07",
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros—an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly runs smoothly. Adaptable and precise, she views sloppy technique as an embarrassment that must be put to order. With a mind as sharp as the blades she bears, Camille's pursuit of superiority through hextech body augmentation has left many to wonder if she is now more machine than woman."
+      }
     },
     {
       "id": 164001,
       "name": "프로그램 카밀",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-12-12",
+        "earlysale": "2017-06",
+        "set": [
+          "Program"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Weaponized to quell the G/NETIC rebellion, Program Camille is a robotic assassin who will kill any human trying to utilize unauthorized technology. A being of adaptable protocols and laser-like focus, she takes her orders directly from Program's superior artificial intelligence."
+      }
     },
     {
       "id": 164002,
       "name": "악의 여단 카밀",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-27",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 4
+          },
+          "Dark Ritual": {
+            "id": 20,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Obsidian": {
+            "id": 5
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 7,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 3
+          },
+          "Turquoise": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "They came to Camille as if in some dark slumber—whispers of the Ebony Ram, and the nameless things tumbling up from long-forgotten sepulchers. Her throat full of hearsay, she cuts down the vestiges of the new world, seeding the earth with the magics and witchery of her ancient, grinning masters."
+      }
     },
     {
       "id": 164010,
       "name": "iG 카밀",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-04-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-23",
+        "set": [
+          "World Champions: 2018"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Ning's winning performance as Camille during the 2018 World Championship."
+      }
     },
     {
       "id": 164011,
       "name": "아르카나 카밀",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-13",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          },
+          "Tanzanite": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Poised precariously above the city, on the edge of High Arcana, Camille's power comes from surprise and defying expectations. Her patterns seem confusing and alarming—even perilous—to those who cross her path, but they always resolve to her benefit. When burdened on the brink, Camille is at her strongest, but no one truly knows what she plans to use all that strength for..."
+      }
     },
     {
       "id": 164021,
       "name": "타격대 지휘관 카밀",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-08-25",
+        "set": [
+          "Steel Valkyries"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Ace": {
+            "id": 30,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Steel Valkyries 2022"
+          },
+          "Aquamarine": {
+            "id": 25
+          },
+          "Citrine": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 28
+          },
+          "Pearl": {
+            "id": 29
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "There are few truly “veteran” soldiers in the galaxy, and those who make it far enough to earn the title have done so for a reason. As commander of RSM's newly minted Strike Team Hyperion, Camille is ruthless, calculating, and fierce, bringing to bear the full power of the Y03-Principality on any target unlucky enough to end up in her sights."
+      }
     },
     {
       "id": 164031,
       "name": "겨울의 축복 카밀",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-12-06",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 34
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Obsidian": {
+            "id": 37
+          },
+          "Ornamented": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Winterblessed 2023 Premium Bundle"
+          },
+          "Pearl": {
+            "id": 38
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 33,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 39
+          },
+          "Wreathguard": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Winterblessed 2023"
+          }
+        },
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "As Senna continued her search, the bitter Camille pursued her with simmering rage. She was an elegant but ruthless dancer who ran afoul of a previous Polaris and was punished for it, enough so to lose her legs. Wielding newly empowered limbs, she ambushed Senna and summoned her compatriots, Sylas and Thresh. The Aurora thieves had arrived."
+      }
     },
     {
       "id": 164032,
       "name": "프레스티지 겨울의 축복 카밀",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164032,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-12-06",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 31,
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "No one dances between the runway and the fashion house like Camille. She relishes letting her rivals mistake her cold demeanor for disinterest, only to be stomped into dust by her cutting edge designs. For this year's Winter Gala, she aims to leave everyone with fashionable blessings, as long as they remember who they got them from."
+      }
     }
   ]
 }

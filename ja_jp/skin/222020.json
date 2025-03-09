@@ -148,6 +148,59 @@
     }
   ],
   "description": "PROJECTによる改造に自ら志願したジンクス。だが、不運なことに作業の途中で電力の供給が停止し、彼女の記憶の核が冒されることとなる。頭の中で荒ぶる狂気の声に突き動かされるサイコパスとなったジンクスは、破壊のための破壊に魅了され、「プログラム」の冷酷さや計算高さといった、記憶の混濁以上に危惧すべき兆候を示すようになったのである。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222020,
+    "formatname": "PROJECT: Jinx",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Reckoning": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program."
+  }
 }

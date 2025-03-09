@@ -53,6 +53,32 @@
     }
   ],
   "description": "很久以前，诺提勒斯曾是好友泽拉斯身边的一名渔夫。两人一起发现了一大堆强大的水晶，而贪婪驱使他的同伴将诺提勒斯扔进水中淹死。一块单晶维系着他的生命，并在他沉睡的时候，腐化并强化他的身体和心智。但即使是这样也无法摧毁他最迫切的渴望——找泽拉斯算账。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111036,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-09-11",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Long ago, Nautilus had been a fisherman by his friend Xerath's side. Together the two discovered a mass of powerful crystals, and greed drove his comrade to cast Nautilus into the water to drown. A single crystal sustained him and, as he slumbered, corrupted and empowered his body and mind. But even this could not destroy his strongest desire—revenge."
+  }
 }

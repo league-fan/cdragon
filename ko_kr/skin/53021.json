@@ -24,6 +24,28 @@
     }
   ],
   "description": "조용히 인류를 지키는 전사 블리츠크랭크는 신비로운 하얀 번개가 내리치는 순간 지면 위로 솟으며 등장했습니다. 이제 그는 진실한 마음과 치밀한 정확성으로 고결한 인간들을 수호하고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-16",
+    "earlysale": "2018-05",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "variant": 20,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A silent protector of the masses, the artificial paladin Blitzcrank was aroused from the earth by a bolt of mysterious white lighting. It now serves all honorable subjects, defending with true and calculated precision."
+  }
 }

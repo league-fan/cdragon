@@ -33,6 +33,25 @@
     }
   ],
   "description": "纳尔无法抗拒新雪的战斗召唤，但如果因此忘记纳尔的本性可就大错特错了。巨型纳尔一直都潜伏在表面之下，随时准备将打雪仗升级到下一个等级……并将人撕成两半。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-12-10",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Gnar can't resist the call of a tussle in fresh powder, but woe to those who forget what they're dealing with. Mega Gnar lurks just beneath the surface, ready to take the snowball fight to the next level... and rip someone in half."
+  }
 }

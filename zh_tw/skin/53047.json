@@ -137,6 +137,54 @@
     }
   ],
   "description": "布里茨原本是個拆彈用機器人，因為能夠搶先超乎常人的運動員們做出快速判斷，而被任命為裁判。眾人事後才理解到，拆彈機器人的性能讓他連選手不服判決時一觸即發的火藥味都能解除。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-09",
+    "set": [
+      "Zenith Games"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Obsidian": {
+        "id": 55
+      },
+      "Pearl": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Originally a bomb defusal robot, Blitzcrank was made a referee because of their ability to make split-second adjustments to stay ahead of the prodigious athletes. Only later did everyone realize that the bot's background made them unusually effective in defusing the intense... disagreements that often arise."
+  }
 }

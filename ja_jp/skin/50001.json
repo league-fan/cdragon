@@ -24,6 +24,23 @@
     }
   ],
   "description": "軍隊を送り込んでもよかったのだ。ハイパーコイルキャノンを搭載したヘリキャリア12機と、パルス跳躍機を装備した突撃兵と、分厚い氷を掘り進む機械を。だが、凍土の上を歩み進むは百戦錬磨の猛者ただ一人。元帥に任せておけばよい、ということなのだろう。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2010-10-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2010-10-05",
+    "set": [
+      "Arctic Ops"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Mike Azevedo"
+    ],
+    "lore": "They could have sent an army—twelve helicarriers boasting hypercoil cannons, pulse-jumping shocktroopers, and mechs to carve through the ice. But instead, a lone, grizzled veteran striding across the tundra. Some things are better left to the Grand General."
+  }
 }

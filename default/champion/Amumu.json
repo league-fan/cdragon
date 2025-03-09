@@ -13,120 +13,529 @@
       "name": "Amumu",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "260",
-      "wikiReleaseDate": "2009-06-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-06-25",
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction."
+      }
     },
     {
       "id": 32001,
       "name": "Pharaoh Amumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-02",
+        "retired": "2011-11-28",
+        "set": [
+          "Pharaoh"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Boy-king of the southern wastes, Amumu's mummified body still haunts the halls of his ancient tomb. His mournful sobbing can be heard over the brutal desert winds, luring in unwitting adventurers."
+      }
     },
     {
       "id": 32002,
       "name": "Vancouver Amumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-12",
+        "set": [
+          "Winter Sports"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "The Vancouver Board of Public Safety would like to assure citizens that no cursed mummies have been spotted within the city limits. Cursed mummies are not native to the Vancouver area. Please do not touch cursed mummies, spreading their mummy curse."
+      }
     },
     {
       "id": 32003,
       "name": "Emumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32003,
+        "formatname": "Emumu",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-01",
+        "set": [
+          "Goth"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "When your friends let you down, the best thing to do is start a rock band driven by hard emotions."
+      }
     },
     {
       "id": 32004,
       "name": "Re-Gifted Amumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Like decorative soaps or a fifth pair of socks, Amumu has been passed back and forth between disgruntled family members for generations. For some reason nobody seems to want the sobbing, accursed mummy boy."
+      }
     },
     {
       "id": 32005,
       "name": "Almost-Prom King Amumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-07",
+        "retired": "2014-12-02",
+        "set": [
+          "Day Job"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ]
+      }
     },
     {
       "id": 32006,
       "name": "Little Knight Amumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-07-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-07-18",
+        "set": [
+          "Medieval"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "A diminutive knight whose heart is brave and true, Sir Amumu of Shurima wants only to see peace reign the land in his lifetime. Considering that he's an undying, mummified princeling, he'll probably succeed."
+      }
     },
     {
       "id": 32007,
       "name": "Sad Robot Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-05-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-05-28",
+        "set": [
+          "Mad Scientists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Concept Art House"
+        ],
+        "lore": "What's worse than a robot without a heart? A child without a friend."
+      }
     },
     {
       "id": 32008,
       "name": "Surprise Party Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-03-31",
+        "earlysale": "2015-12",
+        "set": [
+          "Surprise Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Citrine": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Rainbow": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 16
+          },
+          "Sapphire": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ]
+      }
     },
     {
       "id": 32017,
       "name": "Infernal Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-10-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-10-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "When ancient pyromancers unleashed the malevolent Infernals upon the world, they also unintentionally summoned younger, lonelier creatures. A mere spark compared to the fiery monsters now ravaging the land, Amumu seeks only friendship… unwittingly incinerating all those he touches."
+      }
     },
     {
       "id": 32023,
       "name": "Hextech Amumu",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2019-09-26",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A mechanical boy intended as a playmate for wealthy children, Amumu has been long forgotten in the advent of newer and more advanced Hextech innovations. But a child has feelings, and within his artificial mind something has begun to awaken that will change the history of Hextech forever."
+      }
     },
     {
       "id": 32024,
       "name": "Pumpkin Prince Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32024,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-22",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A lonely lad and prince of the patch, Amumu watches year after year as his people are decimated by possums and rowdy teenagers."
+      }
     },
     {
       "id": 32034,
       "name": "Porcelain Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 39
+          },
+          "Catseye": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Golden Tiger": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Eternally young due to his bond with the Rat Relic, Amumu's innocence belies centuries of existence. He's been lonely in ages past, but no more: Lux is like his big sister, and Kindred is his… Kindred? Companionship hasn't stopped his occasional tantrums, of course, but at least now there's someone to shine his porcelain eyes after a nice cathartic cry."
+      }
     },
     {
       "id": 32044,
       "name": "Heartache Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-02-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-02-10",
+        "set": [
+          "Heartthrobs and Heartaches"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 48
+          },
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 47
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Dear Amumu, I see you around the halls, and at the battle of the bands. I'm afraid I'm just too shy to ask you to hold hands, I think you're really cool and I'd love to be your friend. I can't wait to finally meet you! Love, Your Secret Friend-mirer 'Til the End"
+      }
     },
     {
       "id": 32053,
       "name": "Dumpling Darlings Amumu",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2025-02-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32053,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-02-05",
+        "set": [
+          "Dumpling Darlings"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 58
+          },
+          "Catseye": {
+            "id": 55
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Obsidian": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 60
+          },
+          "Ruby": {
+            "id": 54,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 59
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "Lonely soul Amumu traveled the world to find a cafe that he could call home. Despite his best efforts to win over his fellow chefs as an apprentice dumpling maker, all of his concoctions end up just a little too salty. Yet he holds onto hope that his dreams of friendship—and the perfect prawn recipe—are within reach one day."
+      }
     }
   ]
 }

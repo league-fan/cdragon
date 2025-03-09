@@ -138,6 +138,54 @@
     }
   ],
   "description": "妮可從未購買服裝來參與一年一度的慶典。她身上有趣的偽裝來自於變身天賦與變形咒語。等等……派對裡怎麼同時有兩個奈德麗？不對，原來那只是妮可的經典惡作劇。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518022,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Hendry Iwanaga",
+      "Caravan Studio"
+    ],
+    "lore": "Neeko never remembers to buy a costume for the yearly festivities. Her delightful disguises come courtesy of her transfigurative talents and shapeshifting spells. Wait… are there two Nidalees at this party? Nope. That's just Neeko, pulling one of her classic pranks."
+  }
 }

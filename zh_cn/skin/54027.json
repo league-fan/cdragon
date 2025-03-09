@@ -160,6 +160,59 @@
     }
   ],
   "description": "在凡人看来是一头黑山羊的墨菲特曾是一位山之古神，被星蚀教团杀死并被扔到下面的岩石上。 死亡并没有夺走他，但这座山夺走了他——并且现在，他崛起于它庞大的泥土形态中，这片土地本身因仇恨而扭曲并被新的可怕饥饿所吞噬。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven",
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Dark Ritual": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 32
+      },
+      "Tanzanite": {
+        "id": 31
+      }
+    },
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Appearing to mortals as a Jet-Black Ibex, Malphite was an Old God of the mountain slain by the Eclipse order and cast down onto the rocks below. Death did not claim him, but the mountain did—and now he rises in its hulking earthen form, the land itself twisted with hatred and consumed by new and terrible hungers."
+  }
 }

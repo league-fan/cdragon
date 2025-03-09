@@ -124,6 +124,51 @@
     }
   ],
   "description": "南方的女巫集會加入他們姊妹的行列，參與了偉大復甦，使古代之物再次甦醒，並清算遠古恩怨。伊芙琳—巨鷂之女，欣然加入了她的姊妹們，迎接黑暗到來—凡是她所經之處，必會留下一片殘酷的死亡景象。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Dark Ritual": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "The covens of the south join their sisters for the great resurrection, as old things stir once more, and old grudges are at last repaid in full. Evelynn, daughter of the Great Harrier, gladly joins her sisters for the darkness to come—a trail of brutality and death always in her wake."
+  }
 }

@@ -25,6 +25,28 @@
     }
   ],
   "description": "God-King Garen stands as the last scion of an ancient divinity, and the final bulwark against the end of all civilization. He rules the vast kingdom of Demacia with an iron fist, jealously protecting his people as a self-styled messiah, while rooting out and destroying all who would oppose him.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86044,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "1% drop rate from Capsules or opening 30 Capsules",
+    "release": "2024-08-28",
+    "set": [
+      "Battle of the God-Kings"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "variant": 13,
+    "voiceactor": [
+      "Mick Lauer"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "God-King Garen stands as the last scion of an ancient divinity, and the final bulwark against the end of all civilization. He rules the vast kingdom of Demacia with an iron fist, jealously protecting his people as a self-styled messiah, while rooting out and destroying all who would oppose him."
+  }
 }

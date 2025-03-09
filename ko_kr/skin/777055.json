@@ -124,6 +124,52 @@
     }
   ],
   "description": "귀신 들린 사내는 달리 숨을 쉬지 않았습니다. 그저 말을 묶는 기둥에 기댄 채, 가늘게 뜬 눈으로 개척 지대의 황혼을 응시할 뿐이었습니다. 하지만 이 모습이 진짜 그는 아니었습니다. 진짜 요네는 휘도는 그림자와 연기로 이루어진 존재가 되어, 고요하게 실체 없는 형상을 이루고 있었습니다. ''형씨는 어쩌다 그렇게 몸이 나뉘었어?'' 젊은 화약 마녀가 물었습니다. 요네는 한숨으로 응수했습니다. ''말하자면 길다, 꼬맹아.''",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 60
+      },
+      "Noonday": {
+        "id": 64,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Obsidian": {
+        "id": 63
+      },
+      "Rose Quartz": {
+        "id": 62
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 61
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "The haunted man doesn't breathe, just leans against the hitching post and squints into the frontier dusk—but it ain't him. Not really. The real Yone is shadow and gunsmoke, roiling as it sinks back into the stillness of his corporeal form. “How'd you wind up split like that?” the young Powder Witch asks. Yone sighs, “It's a long story, kid.”"
+  }
 }

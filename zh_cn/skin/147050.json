@@ -146,6 +146,53 @@
     }
   ],
   "description": "萨勒芬妮是一位双栖艺人，既会唱歌又会做饭，让餐馆的客人们感到既暖心又暖胃。她说，为美食而到来，为旋律而驻足！她的梦想是成为餐馆的明星，让厨师和顾客都为之着迷。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147050,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-03-05",
+    "set": [
+      "Dumpling Darlings"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 56
+      },
+      "Catseye": {
+        "id": 52
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 57
+      },
+      "Pearl": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Seraphine's a double threat who sings and cooks, leaving the cafe's guests swooning and sated in equal measure. Come for the treats, she says, stay for the tunes! Her dream is to become the cafe's star attraction, enchanting chefs and customers alike."
+  }
 }

@@ -24,6 +24,24 @@
     }
   ],
   "description": "설맞이 축제에 애니가 빠질 수는 없죠. 애니는 불 마법을 이용해 셀 수 없이 많은 강력한 폭죽을 터뜨립니다. 그녀의 판다 티버는 애니가 쏠 폭죽을 등에 지고 다니며, 조그만 폭죽이라도 가지고 달아나려는 이들을 무참히 해치웁니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-02-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-02-08",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "Annie is a big part of Lunar Revel festivities, using her pyromancy to set off scores of high powered fireworks. Her panda bear Tibbers hauls the rockets for her, mauling anyone who tries to make off with even the smallest sparkler."
+  }
 }

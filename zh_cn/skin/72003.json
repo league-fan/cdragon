@@ -34,6 +34,26 @@
     }
   ],
   "description": "阿尔法斯卡纳作为最早期的原型机，为日后的战地机甲系列铺平了道路。在后期的几代设计中已经看不到斯卡纳充盈的怒火，也许是他的脑部希望敌人能够体会到和他同等程度的痛苦，亦或他只是以杀戮为乐。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-11-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 72003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-11-25",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Imari Williams"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "An early prototype that would pave the way for the Battlecast machines, Alpha Skarner is possessed of an extreme rage not seen in later models. Perhaps the brain inside it wishes to inflict as much pain as it experiences—or maybe it just likes to kill things."
+  }
 }

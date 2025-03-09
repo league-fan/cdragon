@@ -24,6 +24,22 @@
     }
   ],
   "description": "가끔, 발키리는 인간 세계의 달콤함에 빠져 발할라의 전당에서 추방됩니다. 당연하게도 추방된 발키리는 발할라의 방식에 분개하게 되죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-08-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-08-07",
+    "set": [
+      "Fables"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Occasionally, a valkyrie will be seduced by the comforts of mortal life, and be cast out from the halls of Valhalla. Understandably, this makes them pretty upset with Valhalla's whole management style."
+  }
 }

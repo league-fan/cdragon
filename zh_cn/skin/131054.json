@@ -235,6 +235,59 @@
     }
   ],
   "description": "龙之王国的图书馆是保存历代智慧之作的档案馆：也是由宫廷学者黛安娜保管的藏品。她是一位狂热的学者和战士，陪伴龙太子踏上旅程，记录龙与人类之间历史性的第一次相遇。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131054,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 59
+      },
+      "Citrine": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 58
+      },
+      "Lustrous": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans."
+  }
 }

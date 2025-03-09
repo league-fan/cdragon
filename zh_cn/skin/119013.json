@@ -133,6 +133,48 @@
     }
   ],
   "description": "德莱文曾是维森提亚的一名前途无量的将军，但他不再愿意为了其他人的荣耀而战斗了。他现在以独狼佣兵的身份畅享着人生，并且已经为他和他的战斗炫技打出了名声。直至今日，他获取打造阿瓦隆的必需资源的方式，仍然是一个谜……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Peacekeeper": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Once a promising general of Vercentia, Draven no longer wished to fight for someone else's glory. Now living his best life as an independent mercenary, he has made a name for himself and his showmanship in battle. To this day, how he managed to acquire the resources necessary to craft an Avalon remains a mystery…"
+  }
 }

@@ -131,6 +131,55 @@
     }
   ],
   "description": "混沌の悪魔アフェリオスと秩序の支配者アルーンは産まれたときから別々に隔てられ、敵となるように作られた。それでも二人は毎夜同じ月を見ることで惹かれあい、彷徨った先にお互いを見つけた。他の神々たちが終わりなき戦いを続ける間、二人は本来の宿命を捨てて、闇が光を与えられる創造物を作り出そうと苦闘している…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 523001,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "cost": 1350,
+    "release": "2019-12-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Emerald": {
+        "id": 7
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pariah": {
+        "id": 3,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Turquoise": {
+        "id": 2
+      }
+    },
+    "voiceactor": [
+      "N/A",
+      "Tania Gunadi"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Separated at primordial birth, Aphelios, a fiend of chaos, and Alune, an archoness of order, were created as enemies. Yet, drawn each night to wander by shared visions of the moon, they found each other. Abandoning their natures, they struggle to show creation that darkness can shine, even as other divinities endlessly war…"
+  }
 }

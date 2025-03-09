@@ -153,6 +153,60 @@
     }
   ],
   "description": "泰达米尔是一位狂暴与战斗的邪恶之神，会在战争陷入血腥狂潮的那一刻具象化。 和平虽是厌恨之物，但也许永恩的远征提供了一个机会……毕竟，对泰达米尔来说，在秩序衰败时产生的混沌，是最棒的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 23018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Deathbringer": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Emerald": {
+        "id": 22,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Brian Sommer"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "A fiendish god of rage and battle, Tryndamere embodies the moment when war descends into bloodied frenzy. Peace is anathema, but perhaps Yone's crusade presents an opportunity… After all, to Tryndamere, chaos is best when it is born of order's decay."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "ナサスは要因の化身である弟のレネクトンとは、切っても切れない関係にある。それは単に、この兄弟がこれまで互いに争い、傷を負ってきたからではない──ナサスが得たとある閃きが理由だ。かつての彼は、何の目的もなく混沌を引き起こすだけで満足していた。だが今は完全なる混沌を実現するため、脆弱性を見出し、それらを取り除くことを楽しんでいる。最大限の結果を得るには、要因が必要なのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Rainbow": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Tanzanite": {
+        "id": 51
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "Nasus is forever linked with his causal brother, Renekton, not just through the scars left on each other from their battles, but also through the insight he's gained. Before, he was content to act without reason in pursuit of chaos, but now, he enjoys finding weaknesses and dismantling them for total havoc. Cause for maximum effect."
+  }
 }

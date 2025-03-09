@@ -135,6 +135,50 @@
     }
   ],
   "description": "南海的高傲龙王，泰隆接受了半神的艾瑞莉娅的挑战，却在自己的宝座前被击败。备受屈辱的他讽刺了艾瑞莉娅.......却被她将其力量封印在了她的刀刃之中，并被命令去凡人的国度中去寻找新的目标。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-04",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A haughty dragon king of the south seas, Talon accepted a duel from the demigoddess Irelia, only to be defeated in his own throne room. Humiliated, he lashed out at her… and she sealed his power within her blade, tasking him with finding new purpose in the mortal realm."
+  }
 }

@@ -49,6 +49,32 @@
     }
   ],
   "description": "Honoring Ghost's winning performance as Jhin during the 2020 World Championship.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202023,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-29",
+    "set": [
+      "World Champions: 2020"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Honoring Ghost's winning performance as Jhin during the 2020 World Championship."
+  }
 }

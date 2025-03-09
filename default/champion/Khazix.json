@@ -12,72 +12,455 @@
       "name": "Kha'Zix",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2012-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-09-26",
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha’Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more effective ways to counter and kill its prey. Initially a mindless beast, Kha’Zix’s intelligence has developed as much as its form. Now, the creature plans out its hunts, and even utilizes the visceral terror it engenders in its victims."
+      }
     },
     {
       "id": 121001,
       "name": "Mecha Kha'Zix",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-09-26",
+        "set": [
+          "Mecha"
+        ],
+        "neweffects": true,
+        "filter": true,
+        "newquotes": true,
+        "chromas": {
+          "Catseye": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 5
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Tanzanite": {
+            "id": 9
+          }
+        },
+        "lore": "Designated K-ZX, the “Mecha Kha'Zix” unit was the first of the mecha line to be deployed against the kaiju threat. Due to its smaller size, it functions best in urban environments, adapting on the fly to threats against civilian populations."
+      }
     },
     {
       "id": 121002,
       "name": "Guardian of the Sands Kha'Zix",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-09-09",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Kha'Zix, the devouring scarab—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you consume them utterly."
+      }
     },
     {
       "id": 121003,
       "name": "Death Blossom Kha'Zix",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-03-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-03-17",
+        "earlysale": "2016-09",
+        "set": [
+          "Death Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Hidden among the great flower-fields of the north are the Death Blossoms, primeval hunters whose disarming beauty would lull even the bravest knight to tears, if but for a moment. For Kha'Zix, feeding upon these hardy souls offers yet another chance at metamorphosis… and a moment is all he needs."
+      }
     },
     {
       "id": 121004,
       "name": "Dark Star Kha'Zix",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-05-03",
+        "earlysale": "2017-11",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "The hunger of the abyss, Kha'Zix is an alien horror whose ceaseless appetite feeds the Dark Star. Appearing before planets like a titanic locust, it devours all it encounters—the power of a hundred thousand stars fueling its evolution into an ever-greater threat."
+      }
     },
     {
       "id": 121011,
       "name": "Worlds 2018 Kha'Zix",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-09-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-27",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Flash Wolves": {
+            "id": 13,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "KT Rolster": {
+            "id": 14,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Fnatic": {
+            "id": 15,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Kaos Latin Gamers": {
+            "id": 17,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "G2 Esports": {
+            "id": 18,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Team Vitality": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Ascension Gaming": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Afreeca Freecs": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Generation Gaming": {
+            "id": 25,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "KaBuM! e-Sports": {
+            "id": 28,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Gambit Esports": {
+            "id": 30,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "DetonatioN FocusMe": {
+            "id": 31,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Infinity eSports CR": {
+            "id": 35,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "G-Rex": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "MAD Team": {
+            "id": 41,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "EDward Gaming": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Invictus Gaming": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Royal Never Give Up": {
+            "id": 46,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "100 Thieves": {
+            "id": 47,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Cloud9": {
+            "id": 48,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Team Liquid": {
+            "id": 51,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Dire Wolves": {
+            "id": 53,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "SuperMassive eSports": {
+            "id": 54,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Phong Vũ Buffalo": {
+            "id": 59,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          }
+        },
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Celebrating Worlds 2018 in Korea."
+      }
     },
     {
       "id": 121060,
       "name": "Odyssey Kha'Zix",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121060,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-15",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 66,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Merc": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Pearl": {
+            "id": 67
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Rose Quartz": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 61,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 64
+          }
+        },
+        "splashartist": [
+          "Sean 'Raiko' Tay",
+          "West Studio"
+        ],
+        "lore": "A member of an elite bounty hunting organization, Kha'zix is cold, ruthless and always gets the job done. Though hired by Karma to track down the missing templars, she doesn't realize that Kha'zix is a double agent secretly working for Aatrox to bring Karma to him."
+      }
     },
     {
       "id": 121069,
       "name": "Lunar Guardian Kha'Zix",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121069,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 74
+          },
+          "Citrine": {
+            "id": 75
+          },
+          "Emerald": {
+            "id": 71
+          },
+          "Obsidian": {
+            "id": 77
+          },
+          "Pearl": {
+            "id": 76
+          },
+          "Resplendent": {
+            "id": 78,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 72
+          },
+          "Ruby": {
+            "id": 70,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 73
+          }
+        },
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Kha'Zix stalked the waters of Crescent Bay, his teeth and claws greeting anyone foolish enough to wander near. But there was something different about the Empress Ashe: she desired the same, unattainable power he craved. So he swore fealty to her—something he hadn't done in centuries—ready to fight by her side for a taste at the life he once led."
+      }
     },
     {
       "id": 121079,
       "name": "Crystalis Indomitus Kha'Zix",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121079,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2024-03-20",
+        "set": [
+          "Crystalis Indomitus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Fractured": {
+            "id": 80,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "To citizens of Crystalis Motus, the being known as Kha'Zix is a purely crystalline horror whose hunger to assimilate life knows no limits. To those in the north, however, it is a marvel: a being shaped by the crystals themselves into a near perfect form, and whose zeal to spread the Prismae's power is inspirational."
+      }
     }
   ]
 }

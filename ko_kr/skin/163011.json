@@ -155,6 +155,59 @@
     }
   ],
   "description": "밤에는 소란스럽고 활기찬 전사로, 낮에는 어딘가 과묵한 1학년으로 지내는 탈리야는 별 수호자의 임무를 통해 앞으로 어떤 사람이 되고 싶은지 발견하고 싶어합니다. 하지만 거대한 별빛 파도를 타고 도시를 가로지를 때는 한동안 이대로 머물러도 괜찮겠다는 생각을 하죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Brilliant": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "A rowdy, boisterous fighter by night and a somewhat reserved first year student by day, Taliyah's missions with the Star Guardians are a chance for her to discover the kind of person she wants to become. Surfing across the city on a giant wave of starlight, she's okay with taking her time."
+  }
 }

@@ -8,72 +8,503 @@
       "name": "アルカナ ライズ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 13020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "A secret-keeper and didact, whose power dwells in his mind and hands. Tasked with quietly solving the problems of the worlds with little fanfare or recognition, he prepares to fix whatever chaos the fated lovers cause before retreating back to obscurity—serving as a role model to the talented but forgotten."
+      }
     },
     {
       "id": 101012,
       "name": "アルカナ ゼラス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 101012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-13",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 20
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him. "
+      }
     },
     {
       "id": 103066,
       "name": "アルカナ アーリ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103066,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 68
+          },
+          "Emerald": {
+            "id": 69
+          },
+          "Obsidian": {
+            "id": 74
+          },
+          "Rose Quartz": {
+            "id": 70
+          },
+          "Ruby": {
+            "id": 67,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 72
+          },
+          "Tanzanite": {
+            "id": 71
+          },
+          "Turquoise": {
+            "id": 73
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "A trickster and magician whose power is drawn from the grinning moon, Ahri plies her trade rearranging patterns and allowing the Lower World insight into the Higher. Having already set the fated pair Xayah and Rakan careening towards each other, she awaits the resulting chaos with a cynical bemusement."
+      }
     },
     {
       "id": 120022,
       "name": "アルカナ ヘカリム",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 120022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 28,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 25
+          },
+          "Tanzanite": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Enforcer of the Higher World, his ever-forward motion crushes those before him while carving new fates for those left in his wake. He seeks to stop Rakan of the Lower World and prevent the calamitous disaster that will result from a fated love blooming betwixt the stars."
+      }
     },
     {
       "id": 164011,
       "name": "アルカナ カミール",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 164011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-13",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          },
+          "Tanzanite": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Emily O'Brien"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Poised precariously above the city, on the edge of High Arcana, Camille's power comes from surprise and defying expectations. Her patterns seem confusing and alarming—even perilous—to those who cross her path, but they always resolve to her benefit. When burdened on the brink, Camille is at her strongest, but no one truly knows what she plans to use all that strength for..."
+      }
     },
     {
       "id": 223011,
       "name": "アルカナ タム・ケンチ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 223011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-13",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Pat Duke"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The epitome of power and opulence, Tahm Kench's power drips from his tongue. Its ornate patterns captivate and cajole his listeners. He leverages those he rules, staking his power to ensure the patterns always shift in his favor—“correcting” his subjects who have gone astray."
+      }
     },
     {
       "id": 236031,
       "name": "アルカナ ルシアン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 236031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-13",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 34
+          },
+          "Citrine": {
+            "id": 33
+          },
+          "Emerald": {
+            "id": 35
+          },
+          "Obsidian": {
+            "id": 39
+          },
+          "Pearl": {
+            "id": 38
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Lucian believes in balance: that no one Archetype should have excessive influence on the world. With one gun amplifying patterns and the other canceling them out, Lucian maintains the world's fragile order within the new power vacuum—even as the likes of Tahm Kench move to fill it."
+      }
     },
     {
       "id": 497018,
       "name": "アルカナ ラカン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          },
+          "Tanzanite": {
+            "id": 23
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "One half of a perpetually incomplete whole, Rakan's fated love was not in the Lower World, but among the Higher Arcana far above. As the two rush to meet betwixt the lands of their birth, fate bubbles and boils over—a roiling sea from which a new order may emerge."
+      }
     },
     {
       "id": 498028,
       "name": "アルカナ ザヤ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 498028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Tanzanite": {
+            "id": 34
+          },
+          "Turquoise": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "One half of a perpetually incomplete whole, Xayah has found her love not in the world of the Higher Arcana, but the Lower. As she strains to meet the fated Rakan and pull him upwards towards herself, their tension frays and forms discordant knots—setting the stage for something new."
+      }
     }
   ]
 }

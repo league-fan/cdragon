@@ -137,6 +137,55 @@
     }
   ],
   "description": "귀여운 장난감일까요, 아니면 치명적인 무기일까요? 니달리의 발에 들린 특허받은 '생선 친구'는 둘 다 될 수 있습니다!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "formatname": "Kittalee",
+    "id": 76039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-06",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 45
+      },
+      "Aquamarine": {
+        "id": 42
+      },
+      "Citrine": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Peridot": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Roxana Ortega"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Adorable squeaky toy or deadly weapon? In Nidalee's claws, a Friendly Fish (TM) can be both!"
+  }
 }

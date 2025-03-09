@@ -132,6 +132,55 @@
     }
   ],
   "description": "燼是一名瘋狂的神祇，居住於創世之前便已存在的神秘畫作之中，他已經厭煩了待在同樣的畫布裡，讓他的藝術作品給更多人看到是他現在的希望。他開始將畫作的邊緣織到多重宇宙中，希望能夠擺脫這個禁錮自己已久的牢籠。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "filter": false,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "A mad god who resides within a mysterious painting older than creation, Jhin has grown bored of the canvas in which he dwells and wishes to bring his art to new, fresh eyes. He has begun weaving the edges of the painting into the fabric of the multiverse, hoping to escape his confinement."
+  }
 }

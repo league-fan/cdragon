@@ -143,6 +143,56 @@
     }
   ],
   "description": "フィオラは父の監督の下、若くして時空警察に加わった。時空の逃亡者たちとの争いで父が汚名を着せられたことでフィオラの将来は危うくなったが、彼女はそれに耐えた。今では一家の名声を取り戻し、経験を積んで時空警察の確固たる模範となったが、新事実が最近になり発覚したことによって彼女の存在が再び疑問視されるようになった。しかも、今回は債権徴収官たちの真の目的に関するものだった…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-14",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Chrono": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Citrine": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "Fiora joined the Chrono-Enforcers at a young age under the tutelage of her father. When a conflict with a temporal fugitive left him disgraced, her future was thrown into doubt, but Fiora endured. Now, despite having reclaimed her family's reputation, and forged herself into an utter paragon of the Chrono-Enforcers, recent revelations have cast her into doubt once more, but this time about the Remembrancer's true purpose..."
+  }
 }

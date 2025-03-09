@@ -107,6 +107,48 @@
     }
   ],
   "description": "라아스트는 한때 빛의 집정관이자 질서의 등대였지만... 지금은 진정한 신성을 추구하는 야망에 찬 황혼의 반신, 케인의 손에 들린 무기에 지나지 않습니다. 이 둘은 케인의 몸 안에서 다른 하나를 굴복시키고 진정한 신성을 차지하기 위해 싸웁니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 141008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 11
+      },
+      "Deathbringer": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Rhaast was once an archon of light, a beacon of order… and now he is little more than a weapon in the hands of Kayn, an ambitious demi-god of dusk seeking true godhood. The two war within Kayn's own body, each determined to overthrow the other and lay claim to true divinity."
+  }
 }

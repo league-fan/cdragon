@@ -138,6 +138,54 @@
     }
   ],
   "description": "レオナはラブリスアカデミーの「バトルクラブ」においては珍しい、陽気な人物である。だが戦闘ではその影の側面が表れ、普段の母性愛にあふれる性格から血に飢えた別人へと豹変する。その変化があまりにも極端であることから、学園一の不良生徒ですら、彼女の怒りを買わないように常に気を使っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "An oddly cheery member of Labrys Academy's Battle Club, Leona's dark side comes out in combat, when her motherly, protective persona is utterly replaced by bloodlust. The change is so dramatic that even the most violent students tend to stay on her good side, hoping to avoid her wrath."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "루시안은 Z01-오리온의 에이스 조종사로서 히페리온 타격대의 첫 임무에 배정되었습니다. 임무의 목표는 배신자 카이사가 탈취한 시제품 X01-버터플라이를 되찾는 것이죠. 루시안은 지휘관 카밀의 방식과 가치관에 전적으로 동의하지는 않지만, 배신자의 손에 들어간 엑소수트가 은하계에 커다란 위험 요소라는 점은 카밀과 의견이 같습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Amethyst": {
+        "id": 44
+      },
+      "Citrine": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Lucian is the ace pilot of the Z01-Orion, assigned to the inaugural mission of Strike Team Hyperion: reclaiming the experimental X01-Butterfly from its turncoat thief, Kai'Sa. He may not always agree with Commander Camille's methods, or her morality, but they both know that rogue exosuits in the wrong hands would spell disaster for the galaxy."
+  }
 }

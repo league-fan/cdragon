@@ -187,6 +187,39 @@
     ]
   },
   "description": "인내의 수호자로서 네 의무를 기억해라, 르블랑. 너는 전략적이고, 체계적이며 영리한 모든 것의 화신이며, 내 힘을 얻을 자격이 있다고 생각하는 이들을 현혹하는 자다. 우리의 힘. 무엇보다도, 내가 선택한 이들을 시련으로 인도하고 불사대마왕의 이름으로 세상에 영향을 미쳐라.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+    "release": "2024-06-12",
+    "set": [
+      "Risen Legends"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Mythclimber": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Hall of Legends Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Immortalized Legend Collection Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King."
+  }
 }

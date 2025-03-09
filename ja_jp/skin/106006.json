@@ -24,6 +24,25 @@
     }
   ],
   "description": "古代フレヨルドの伝説では、フレヨルド誕生以前から存在する力──無慈悲な熊の真なる精霊に破滅させれたスピリットウォーカーたちの話が伝えられている。不遜にもこの精霊と通じようとした者が、その身に降ろされる恐るべき原初の力に耐えることなどできはしないのだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106006,
+    "formatname": "The Thousand-Pierced Bear",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2020-05-28",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves."
+  }
 }

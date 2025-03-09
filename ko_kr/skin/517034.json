@@ -44,6 +44,35 @@
     }
   ],
   "description": "사일러스는 마법을 깊이 사랑하지만, 오랜 수감 생활은 그를 증오에 차게 만들었습니다. 기사인 그는 가능한 많은 힘을 받아들이고 새로운 마법의 원천이 되고자 했지만... 전부 허사였습니다. 이제는 사그라드는 마법의 그림자만을 가진 비통한 투사의 모습만 남았습니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517034,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-09-22",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Sylas deeply loved magic, but long years of imprisonment made him hateful. As a knight, he deigned to take as much power for himself as he could, and perhaps become a new wellspring of enchantment… yet, it was all for naught. Now only the dying shadow of magic remains, with he its final, bitter champion."
+  }
 }

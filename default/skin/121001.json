@@ -152,6 +152,38 @@
     }
   ],
   "description": "Designated K-ZX, the “Mecha Kha'Zix” unit was the first of the mecha line to be deployed against the kaiju threat. Due to its smaller size, it functions best in urban environments, adapting on the fly to threats against civilian populations.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-09-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 121001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-09-26",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "filter": true,
+    "newquotes": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "lore": "Designated K-ZX, the “Mecha Kha'Zix” unit was the first of the mecha line to be deployed against the kaiju threat. Due to its smaller size, it functions best in urban environments, adapting on the fly to threats against civilian populations."
+  }
 }

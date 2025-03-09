@@ -162,6 +162,46 @@
     }
   ],
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-04-17",
+    "set": [
+      "Legacy"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 11
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "Mist XG"
+    ]
+  }
 }

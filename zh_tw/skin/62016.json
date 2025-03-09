@@ -147,6 +147,57 @@
     }
   ],
   "description": "原先擔任守護者的悟空，卻失去了守護的目標，只能折磨那些膽敢踏入神木森林深處的生物。女巫為了追尋悟空持有的金箍棒中蘊藏的無盡法力，摧毀了他的村莊，從那時候起，他體悟到信任是愚者的奢侈品。棍上水晶發出的陣陣光芒，只會讓老孫一再想起那段失敗的經歷。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-28",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "A protector with no one left to protect, Wukong torments any creatures who dare traverse within the Elderwood's depths. After the Coven destroyed his village in search of his enchanted staff's limitless power, he learned that trust is a fool's luxury. The gleam from his weapon's crystals serve as a constant reminder of the ancient trickster's failure."
+  }
 }

@@ -157,6 +157,48 @@
     }
   ],
   "description": "在拥有超过一百种不同的代言合同和数千万全球粉丝后，德莱厄斯已经将自己从一个能秀的篮球奇才转型成了一个引领世界的灌篮权威。他最近已经完善了灌篮镇高速，他在那儿可以猛烈地灌篮，好让星球上的所有公共交通同时爆炸。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-10-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-10-12",
+    "set": [
+      "Dunkmaster"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Aquamarine": {
+        "id": 13
+      },
+      "Catseye": {
+        "id": 10
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Mythic": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith"
+    ],
+    "lore": "Sporting over a hundred different endorsement deals and tens of millions of fans the world over, Darius has transformed himself from a showy basketball prodigy to the world's leading authority on dunking. He has recently perfected the Dunktown Express, where he dunks so hard that all public transit on the planet simultaneously explodes."
+  }
 }

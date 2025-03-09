@@ -24,6 +24,26 @@
     }
   ],
   "description": "這個在空中用來蒐集數據的戰爭機器創建於已滅絕的威寇茲生命形式之上。這些狂派機甲怪物利用將能量聚集於一點的強大光束橫掃過人口密集的地區。來自無生命殘骸單位的調查數據將自動校準整個艦隊的戰鬥系統，使得這些戰鬥單位系統在每次小規模的戰鬥中變得更加致命。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-02-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-02-27",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An airborne data collection unit based on the now-extinct Vel'Koz lifeform, these Battlecast monstrosities sweep their concentrated energy beams over heavily populated areas. Survey data from the lifeless wreckage automatically calibrates the entire fleets' weapons systems, making the units a deadlier threat with every skirmish."
+  }
 }

@@ -138,6 +138,70 @@
     }
   ],
   "description": "Why run with scissors when you can throw scalpels?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85004,
+    "formatname": "Kennen M.D.",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-03-29",
+    "set": [
+      "Rift Hospital"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Aquamarine": {
+        "id": 11,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Citrine": {
+        "id": 12,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Obsidian": {
+        "id": 15,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Rainbow": {
+        "id": 16,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 9,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Mega Donor Bundle"
+      },
+      "Sapphire": {
+        "id": 14,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "lore": "Why run with scissors when you can throw scalpels?"
+  }
 }

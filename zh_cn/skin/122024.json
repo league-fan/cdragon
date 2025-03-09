@@ -169,6 +169,54 @@
     }
   ],
   "description": "德莱厄斯的威严气场和以身作则的决心，偶尔会导致他和阿利斯塔——福牛守护者小队真正的队长——之间的紧张关系。尽管德莱厄斯非常专横，但他对队友来说是一个强大且坚定的朋友，并且对整个福牛守护者一族来说是一根砥柱。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122024,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 27
+      },
+      "Vitality": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "Darius' imposing presence and determination to lead by example cause occasional tension between him and Alistar, the actual leader of the squad. Despite how overbearing he can be, Darius is a strong and steadfast friend to his teammates and a rock for the whole Clan."
+  }
 }

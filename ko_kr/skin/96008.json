@@ -24,6 +24,22 @@
     }
   ],
   "description": "지금은 멸종한 코그모 유기체를 기반으로 해 대량 생산된 무기로, 기발한 포탄 운송 시스템이라고도 할 수 있습니다. 빅토르의 또다른 발명품이죠. 최신 버전의 최대 사거리인 100km에서 최고의 성능을 발휘합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-11-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-11-25",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "Mass-produced artillery units based on the now-extinct Kog'Maw organism, Viktor has invented an ingenious shell delivery system best appreciated from about a hundred miles away—the latest design's maximum range."
+  }
 }

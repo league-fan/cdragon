@@ -160,6 +160,60 @@
     }
   ],
   "description": "タム・ケンチは実に寛大な悪魔だ──困っている令嬢に喜んで魔法の剣を貸しただけでなく、彼女がサルファー鉄道に乗り込む手助けをし、さらには「終焉の啓示者」のひとりとして、彼女を悲惨な運命へと案内してやった。彼は見返りなど求めていない。彼女は彼に借りができるだけだ…世界が終焉を迎えるとき、仲間がいて困ることなどない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Nomad": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "West Studio"
+    ],
+    "lore": "Tahm Kench is a magnanimous devil: happy to lend a magical sword to a lady in need, or to assist her in robbing the Sulfur Rail, or even to deliver her to a calamitous destiny as a fellow Harbinger of the End Times. He don't need no compensation. She'll just owe him a favor… because in the End, it pays to have friends."
+  }
 }

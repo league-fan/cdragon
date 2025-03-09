@@ -137,6 +137,50 @@
     }
   ],
   "description": "ブランドは爆発的なスタイルを持つウィル・オ・ウィスプであり、内に秘めたパワーを受け入れ、爆発させることこそ彼のアートの本質だ！！！作品にビックリマークを多用する彼は、破壊を取り入れた型破りな表現でも知られており、アシッド・ウォッシュやひび割れたコンクリート、そしてもちろん、燃え盛る炎などの美しいイメージを作り出している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "A will-o'-wisp with bombastic style, Brand's art is all about embracing your inner power and letting it EXPLODE! (His work features lots of exclamation points.) He's famous for using destruction as an unconventional tool to create beautiful images: acid washes, cracked concrete, and, of course, burning."
+  }
 }

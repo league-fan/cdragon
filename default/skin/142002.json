@@ -108,6 +108,47 @@
     }
   ],
   "description": "Who let this ageless, cosmic child in here unattended? This a public pool, not some sort of ageless, cosmic daycare.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 4
+      },
+      "Rainbow": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Who let this ageless, cosmic child in here unattended? This a public pool, not some sort of ageless, cosmic daycare."
+  }
 }

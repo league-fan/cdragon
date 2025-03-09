@@ -148,6 +148,57 @@
     }
   ],
   "description": "來自險惡街頭的天才少年艾克用音樂進行極致的自我展現。驚人的詞曲天賦加上高超的製作技巧，出人頭地對他來說是再簡單不過的事了，但是他卻沒有這麼做，而是選擇留下來帶動鼓舞他的社區和鄰里。如今，他奮力地阻擋名利的誘惑，更因此在年輕的懷才者們中擁有大量的名氣和支持，在他們的眼中，艾克就是將個人潛力發揮到極致的典範。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-11-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-11-10",
+    "set": [
+      "True Damage"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Freestyle": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "True Damage 2019"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Umar 'Thutmose' Ibrahim"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "A boy genius from the rough streets, Ekko turned to music as a way to express himself. His prodigious lyricism and technological savvy could have bought him a way out, but instead, he chose to stay and uplift his neighborhood. Now, he fiercely resists the temptations of fame and glory, garnering a following among the young and hopeful who see him as an avatar for their own potential."
+  }
 }

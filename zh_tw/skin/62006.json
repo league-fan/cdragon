@@ -24,6 +24,26 @@
     }
   ],
   "description": "在巨大危機發生的時代，另一位持著槍的古代機械化騎兵 － 悟空，甦醒於塵土飛揚的大地中，保護著外部城邦遠離那些深深令人畏懼的未知威脅。一旦這些敵人被殲滅，他將再度於大地中沉睡，成為一個遠比歷史記錄還要古老的謎團。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-04-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-04-04",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Another of the ancient, mechanized Lancer units, Wukong arises from his dusty slumber in times of extreme danger, protecting the outland city-states from the most dire threats. Once these foes are eliminated he returns to the earth, an enigma older than recorded history."
+  }
 }

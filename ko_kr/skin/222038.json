@@ -160,6 +160,60 @@
     }
   ],
   "description": "1인 폭파 공작대로 활약하는 징크스는 태고족과 싸우며 타고난 파괴 본능을 좀 더 생산적인 일에 쓰고 있습니다. 사실 징크스는 군인이 아니라 인류의 대의에 관심도 없고 명령을 따르지도 않지만 결과만큼은 확실히 보장합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Nightwire": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Jinx is a one-cat demolitions squad, her natural destructive impulses turned toward more productive ends: fighting off the Primordians. She's not really a soldier, doesn't seem to care about humanity's cause, and doesn't follow orders "
+  }
 }

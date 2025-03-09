@@ -13,64 +13,340 @@
       "name": "바드",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2015-03-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2015-03-12",
+        "chromas": {
+          "Ivy": {
+            "id": 3
+          },
+          "Marigold": {
+            "id": 2
+          },
+          "Sage": {
+            "id": 4
+          }
+        },
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful spirit meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good… in his own odd way."
+      }
     },
     {
       "id": 432001,
       "name": "나무정령 바드",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-03-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-03-12",
+        "earlysale": "2015-12",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "lore": "Bard is a creature of the old world, they say, older than the great forest, and older even than the seeds it sprouted from. Few records remain of the age before the gods, but it is likely Bard predates them—a truly primordial being, tending the land since time's first dawn."
+      }
     },
     {
       "id": 432005,
       "name": "눈싸움 달인 바드",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-12-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-12-10",
+        "earlysale": "2016-06",
+        "set": [
+          "Snow Day"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 7,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Snowdown Showdown 2018"
+          }
+        },
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge."
+      }
     },
     {
       "id": 432006,
       "name": "음유시인 바드",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432006,
+        "formatname": "Bard Bard",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-11-17",
+        "earlysale": "2017-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Though playing a famously unpopular Riftquest character class, Bard Bard has turned the ancient art of song into a reality-altering weapon of death. Unfortunately his turns take forever, since he has no concept of linear time and speaks in those weird “bwong” sounds."
+      }
     },
     {
       "id": 432008,
       "name": "우주비행사 바드",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-28",
+        "set": [
+          "Astronauts"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Aquamarine": {
+            "id": 9
+          },
+          "Catseye": {
+            "id": 12
+          },
+          "Chrono": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          },
+          "Citrine": {
+            "id": 11
+          },
+          "Emerald": {
+            "id": 13,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "In space, no one can hear you chime."
+      }
     },
     {
       "id": 432017,
       "name": "귀염둥이 카페 바드",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!"
+      }
     },
     {
       "id": 432026,
       "name": "전설의 산수화 바드",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-14",
+        "set": [
+          "Shan Hai Scrolls"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 31
+          },
+          "Emerald": {
+            "id": 29,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 30
+          }
+        },
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "lore": "The god of plants, Bard is constantly on the move to replenish nature. As caretaker of the sacred trees of Dusk and Dawn, he's fashioned one of their broken branches into a horn capable of letting him travel anywhere within the Scrolls. He knows the mad god Jhin would use that power for his own gain, but Bard will stake his life to prevent it."
+      }
     },
     {
       "id": 432035,
       "name": "T1 바드",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-08-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432035,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-08-14",
+        "set": [
+          "World Champions: 2023"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 36,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "Kelvin Law",
+          "Mo Yan"
+        ],
+        "lore": "Honoring Keria's winning performance as Bard during the 2023 World Championship."
+      }
     }
   ]
 }

@@ -124,6 +124,52 @@
     }
   ],
   "description": "有些人引導亡魂走向正途，也有些人引誘他們誤入歧途。還有些人因為自身靈魂的矛盾衝突，仍存在於兩者之外。賽特誕生於感銘與赤奈之間的家庭，他過著平穩的生活，直到某日被父親所遺棄，他一心想要復仇。如今的他只能日復一日向殞命的戰士們挑戰，考驗他們的價值，以藉此獲得救贖的低語。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Night Blossom": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Some guide the dead down the path; others tempt them from it. Another still has no allegiances, as his spirit lies in conflict with itself. Born from Kanmei and Akana, Sett lived harmoniously until, abandoned by his father, he sought retribution. Now he can only catch whispers of salvation as he spends his days challenging slain warriors, testing their worth. "
+  }
 }

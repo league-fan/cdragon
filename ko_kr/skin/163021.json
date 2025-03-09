@@ -44,6 +44,35 @@
     }
   ],
   "description": "프리즘 수정이 출현하기 시작했을 때, 혼돈 세계의 반응은 사람마다 달랐습니다. 섬에 갇힌 탈리야의 무리는 프리즘 수정을 위협이 아닌 자연의 연장선으로 받아들였습니다. 프리즘 수정을 신체에 지녀 조화로운 공생 관계를 이룬 탈리야의 무리는 어느 때보다 강해졌고, 탈리야는 자기 힘을 시험하고자 본토로 떠납니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163021,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-09-13",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Prismae Crystals began to appear, everyone on Motus reacted differently. Locked to their island, Taliyah's people viewed them not as a threat, but as an extension of nature. Now in symbiotic harmony with the crystals on their bodies, Taliyah's people are stronger than ever, and she ventures to the mainland to put her powers to the test."
+  }
 }

@@ -57,6 +57,27 @@
     }
   ],
   "description": "村民们讲述着一只神秘冰狐的各种故事，据说在与王国接壤的多雪森林的深处，它会在午夜月光下变成人类。他们不知道的是，这只狐狸，阿狸，曾经是一位公主。因诅咒而过着一种如她的内心那样狂野的生活，她白天在森林里奔跑，希望能找到一个人来打破她永恒的诅咒。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2011-12-14",
+    "set": [
+      "Legacy"
+    ],
+    "chromas": {
+      "Ahri-versary": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Deep in the snowy forests bordering the kingdom, villagers tell tales of a mysterious icefox who, under the light of the midnight moon, becomes human. What they don't know is that this fox, Ahri, was once a princess. Cursed to live a life as wild as her heart, she runs through the forests during the day, hoping to find someone to break her eternal curse."
+  }
 }

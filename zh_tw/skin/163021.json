@@ -44,6 +44,35 @@
     }
   ],
   "description": "當稜晶開始出現，魔地斯的居民反應各不相同。塔莉雅的人民從未踏出過自己的島嶼，他們不將水晶當成威脅，而是自然的一種延伸。塔莉雅的人民與水晶形成共生關係，身上的水晶使他們強大無比，而她打算離開家鄉來測試自己的力量。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163021,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-09-13",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Prismae Crystals began to appear, everyone on Motus reacted differently. Locked to their island, Taliyah's people viewed them not as a threat, but as an extension of nature. Now in symbiotic harmony with the crystals on their bodies, Taliyah's people are stronger than ever, and she ventures to the mainland to put her powers to the test."
+  }
 }

@@ -24,6 +24,25 @@
     }
   ],
   "description": "숭고한 생명 에너지로 이루어진 존재인 벨코즈는 전설과 신화의 주제이자 숭배의 대상입니다. 천 년에 한 번씩 필멸의 땅에 내려와 그의 불가해한 뜻을 수행할 자격이 있는 이들을 선택하고 그들을 초자연적인 힘의 생명체, 바로 빛 그 자체로 탈바꿈시킵니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-01-28",
+    "set": [
+      "Arclight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight."
+  }
 }

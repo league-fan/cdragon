@@ -13,184 +13,747 @@
       "name": "好運姐",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2010-09-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-09-08",
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts."
+      }
     },
     {
       "id": 21001,
       "name": "雙槍牛仔 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-09-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-09-08",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "No bounty hunter on the prairie is as skilled as Sarah Fortune, but she doesn't work for anything less than top dollar. Cause enough trouble on the high frontier and, sure enough, she'll come calling—with two gleaming pistols, and a bullet with your name on it."
+      }
     },
     {
       "id": 21002,
       "name": "拿破崙情婦 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-09-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-08",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "splashartist": [
+          "Jennifer Wuestling"
+        ]
+      }
     },
     {
       "id": 21003,
       "name": "特工女郎 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-11-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-16",
+        "retired": "2015-08-29",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Choe HeonHwa"
+        ]
+      }
     },
     {
       "id": 21004,
       "name": "俏麗糖果娘 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Andrew Theophilopoulos"
+        ],
+        "lore": "Miss Fortune isn't interested in who's been nice—the naughty are out in droves for Snowdown, and that means big business for bounty hunters. Packing heat, and ready to take in marks dead or alive, this is one present you really don't want to unwrap."
+      }
     },
     {
       "id": 21005,
       "name": "末世神槍 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-05-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-05-24",
+        "retired": "2014-12-02",
+        "set": [
+          "Road Warrior"
+        ],
+        "vu": true,
+        "splashartist": [
+          "Jana Schirmer"
+        ],
+        "lore": "A lone rider whose home is the open road, Miss Fortune takes the wasteland's problems into her own hands before moving on—always another job, always another town. Lately, she's been butting heads with the Vandal gang, a group of famed ruffians she's excited to finally put down."
+      }
     },
     {
       "id": 21006,
       "name": "罪惡城市 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-11-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-01",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "A former gun for hire, Miss Sarah Fortune has recently spun up her own criminal cartel, with a hand in everything from arms smuggling to protection rackets. Having destabilized the relationship between Twitch and Graves, she now seeks to cement her empire before they get wise to her ambitions."
+      }
     },
     {
       "id": 21007,
       "name": "電玩女神 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-08-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-08-12",
+        "set": [
+          "Arcade: Heroes"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Aquamarine": {
+            "id": 10
+          },
+          "Citrine": {
+            "id": 12
+          },
+          "K.O.": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Peridot": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 14
+          }
+        },
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Miss Fortune (Sarah to her friends) is better known in the real world for holding the top scores in every shoot-em-up game ever created. In Arcade World, she's famed for earning those scores through whatever means necessary, willing to bring in any target for the right amount of points."
+      }
     },
     {
       "id": 21008,
       "name": "海賊船長 好運姐",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-07-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21008,
+        "formatname": "Captain Fortune",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-07-30",
+        "earlysale": "2016-01",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "In another life, Sarah Fortune would have been a respected ship captain, supported by the love of her mother and the admiration of her city. But the things Bilgewater takes, you can't always get back, and that particular dream died a long time ago."
+      }
     },
     {
       "id": 21009,
       "name": "泳池狂歡 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-07-13",
+        "earlysale": "2016-12",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "The group's appointed selfie queen, and dual-wielding master of the water pistol, Sarah Fortune can destroy all comers in a splash fight, and look good while doing it. The photo she'll post later will look even better. It's actually kind of upsetting."
+      }
     },
     {
       "id": 21015,
       "name": "星光戰士 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-06",
+        "earlysale": "2018-02",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 17,
+        "splashartist": [
+          "Alvin Lee",
+          "Alex 'alexplank' Flores",
+          "Esben Lash Rasmussen",
+          "Pan Chengwei",
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Second in command to Ahri, Miss Fortune is a hot-headed Star Guardian gunslinger from the galactic rim. She is the first to charge into battle with her twin pistols, often ignoring her own safety as long as she can take down every enemy in sight."
+      }
     },
     {
       "id": 21016,
       "name": "重槍女武神 好運姐",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "2775",
-      "wikiReleaseDate": "2018-03-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 2775,
+        "release": "2018-03-22",
+        "set": [
+          "Steel Valkyries"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Gun Goddess",
+        "forms": [
+          "Scarlet Fair",
+          "Zero Hour",
+          "Royal Arms",
+          "Starswarm"
+        ],
+        "chromas": {
+          "Zero Hour": {
+            "id": 16
+          },
+          "Royal Arms": {
+            "id": 16
+          },
+          "Starswarm": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Rachel Kimsey",
+          "Joe Zieja"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Sarah Fortune is a living weapon of mass destruction; a legendary bounty hunter seeking revenge among a galaxy of thieves. Shot and left for dead, she now pilots the deadliest combat exo-suit in known space—and she'll stop at nothing to bring violent justice to her would-be killers."
+      }
     },
     {
       "id": 21017,
       "name": "星光睡衣趴 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-21",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Sarah Fortune does not usually attend slumber parties. Nor wear fluffy pajamas. Nor play Truth or Dare. But Lulu insisted, and Lux asked so nicely, so somehow Sarah found herself doing all three. At least her pajamas came with holsters—juuust in case some cosmic enemies show up. You never know. It could happen."
+      }
     },
     {
       "id": 21018,
       "name": "惑邪女巫 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-10-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21018,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-10-24",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "A powerful witch with a flair for the dramatic, and a soft spot for misguided monsters, Miss Fortune has resurfaced for an evening of adventure with her spooky sistren."
+      }
     },
     {
       "id": 21020,
       "name": "尊爵不凡 惑邪女巫 好運姐",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-10-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21020,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-10-24",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 18,
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief."
+      }
     },
     {
       "id": 21021,
       "name": "殞落神槍 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-22",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "filter": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 25
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Cursed": {
+            "id": 30,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          }
+        },
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Miss Fortune thought that being the Pirate Queen of Bilgewater would be enough. Even with her revenge complete, Sarah now faced a new chaos with Bilgewater's factions vying for control. Viego's arrival offered her an opportunity to seize the strength needed to crush anyone beneath her heel, even if it came at a price."
+      }
     },
     {
       "id": 21031,
       "name": "戰鬥兔女郎 好運姐",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 37
+          },
+          "Nightwire": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Peridot": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Laura Bailey"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+      }
     },
     {
       "id": 21032,
       "name": "戰隊司令 戰鬥兔女郎 好運姐",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21032,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Anima Squad 2024 Capsules or opening 30 Anima Squad 2024 Capsules",
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 31,
+        "voiceactor": [
+          "Laura Bailey"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+      }
     },
     {
       "id": 21033,
       "name": "尊爵不凡 惑邪女巫 好運姐｜2022",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21033,
+        "formatname": "Prestige Bewitching Miss Fortune (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 20,
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "Having wrestled control of the lion's share of sweets from ghastly spirits and unruly children alike, Miss Fortune now rules over the night. Her reign is one filled with revelry and mischief."
+      }
     },
     {
       "id": 21040,
       "name": "破碎盟約 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 47
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 46
+          },
+          "Tanzanite": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A devout Aspirant, Miss Fortune is the public face of the congregation. She has a single-minded focus on revenge against the Neverghaast, not just for murdering her parents, but for also corrupting Riven. Sarah can't believe her best friend helped the enemy and doesn't regret shooting her, because as long as the Neverghaast live, evil will fester."
+      }
     },
     {
       "id": 21041,
       "name": "尊爵不凡 破碎盟約 好運姐",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21041,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 40,
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "Every year, thousands make the pilgrimage to the Gala, hoping to catch a glimpse of Miss Fortune's latest look. Never keen on shunning her faithful, she always treats each devotee as if they were a fellow family member. Even so, her rivals know to not cross her, lest they feel her wrath."
+      }
     },
     {
       "id": 21050,
       "name": "青花瓷 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21050,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 58
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Opulent": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Peridot": {
+            "id": 55
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 53
+          },
+          "Turquoise": {
+            "id": 56
+          }
+        },
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Through the centuries, humans have tried to replicate the power of dragon's breath. With gunpowder came the cannon, which was finessed into smaller and more refined variants until it was ultimately perfected by Sarah Fortune's mother. Her dual dragon-pistols carry on the legacy of not only her own family, but of the creatures of myth themselves."
+      }
     },
     {
       "id": 21060,
       "name": "戰爭女皇 好運姐",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 21060,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-08-28",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 64
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Pearl": {
+            "id": 67
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 61,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 66
+          },
+          "Tanzanite": {
+            "id": 65
+          }
+        },
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Queen Katarina's decree rang throughout Elysia: the Grand Coronation ordains honorable battle among nations, army versus army. Miss Fortune of Cyrenia welcomed this change, commanding her sky-fleet in an explosive display of wealth and munitions. While allied to the secluded Aurai, Miss Fortune's crowning proves the ruthlessness of the brigades above."
+      }
     }
   ]
 }

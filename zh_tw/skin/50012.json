@@ -159,6 +159,60 @@
     }
   ],
   "description": "斯溫知道水晶薔薇祭典時形成的聯盟有多重要……，並且有多脆弱。他下定決心要將這個祭典辦的十全十美，而這也讓他與枷蘿——水晶薔薇的守護者建立起連結。在她的幫助之下，他相信這次的祭典會是最成功的——而他也會因為自己身為祭典的主辦人而受到表揚。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50012,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Crystal Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Peridot": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tiffany & Co.": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Worlds 2022 Drop Reward"
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Swain knows how important the alliances formed at the Festival of the Crystal Rose are… and how fragile. His determination to see the event go perfectly has gained him a connection with Zyra, the Rose's protector. With her help, he intends this to be the most successful festival ever—and that he will be celebrated as its architect."
+  }
 }

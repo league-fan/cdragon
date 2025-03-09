@@ -137,6 +137,51 @@
     }
   ],
   "description": "제일 좋아하는 인형 친구 초가스를 꼭 끌어안으세요! 초가스의 푹신한 배를 꽉 쥐면 초가스가 나쁜 꿈을 꾸지 못하게 막아 줘 편히 잠잘 수 있습니다. 연장할 수 있는 집게 팔이 있어 더 재미있게 놀 수 있어요! 5세 미만 어린이에게는 적합하지 않습니다. 약간의 조립이 필요합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 34
+      },
+      "Catseye": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Snuggle up with Cho'Gath, your favorite plush pal! Squeeze his soft belly and watch him scare away bad dreams for a guaranteed good night's sleep. Extendable claw arms included for double the fun! Not suitable for children under 5 years of age. Some assembly required."
+  }
 }

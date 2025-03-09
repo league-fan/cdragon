@@ -170,6 +170,63 @@
     }
   ],
   "description": "アニマ部隊の新兵は皆、イラオイの響き渡る笑い声と彼女の厳しい訓練セッションをよく知っている。未来を予見する彼女が、アニマ部隊の古の慣わしの守り手であることは奇妙に思えるかもしれない。しかし、イラオイはファイナルシティの前にも生命が存在していたことを知っており、戦争が終わった後も生命が続くことを保証しようとしているのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 420027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 32,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Nightwire": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Every Anima Squad recruit knows Illaoi's booming laugh—and her notoriously tough training sessions—all too well. As someone always looking towards the future, it may seem strange that she is also Anima Squad's keeper of the Old Ways. But Illaoi knows that there was life before Final City, and she will ensure life continues long after the war is done."
+  }
 }

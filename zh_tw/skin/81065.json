@@ -138,6 +138,54 @@
     }
   ],
   "description": "你好，杰洛．光羽。我們誠摯邀請你參加絲綢舞會。你的英勇事蹟已傳到諾克薩斯貴族的殿堂，我們渴望與你相見。我們以相同的方式行事，超越地域的界限。你對我們的了解還相當有限，而我們也需要進一步認識你，光羽……或者，我們開門見山地說吧，伊澤瑞爾？——伊莉絲女士",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81065,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-09",
+    "set": [
+      "Masque of the Black Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Citrine": {
+        "id": 71
+      },
+      "Emerald": {
+        "id": 67
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 69
+      },
+      "Turquoise": {
+        "id": 72
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Park Jun Seong",
+      "West Studio"
+    ],
+    "lore": "Greetings, Jarro Lightfeather. We cordially invite you to the Silken Danse. Word of your heroism has reached the halls of Noxian nobility, and we are keen to meet you. We operate in the same manner, working beyond regional lines. You've much to learn about us, and we've much to learn about you, Lightfeather… Or, shall we be forthright, Ezreal? –Lady Elise"
+  }
 }

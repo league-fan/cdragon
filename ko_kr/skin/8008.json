@@ -111,6 +111,44 @@
     }
   ],
   "description": "블라디미르는 한때 의학도였습니다. 마법을 사용해 환자의 몸 안에 있는 체액을 조종하는 것으로 유명한 학교를 다녔죠. 하지만 이제는 투자보다 살인으로 더 많은 돈을 벌 수 있다는 빌지워터에서 (좀 더 성가실지는 모르지만) 훨씬 수익성 높은 일을 하고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-31",
+    "earlysale": "",
+    "set": [
+      "Bilgewater: Curse of the Drowned"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Rudy Siswanto",
+      "Kelly Aleshire"
+    ],
+    "lore": "In his younger days, Vladimir practiced at a school of medicine known for magically manipulating the humors of a patient's body. Turns out in Bilgewater there's more coin to be made killing than saving, and now he's found himself in a much more lucrative—if not messier—line of work."
+  }
 }

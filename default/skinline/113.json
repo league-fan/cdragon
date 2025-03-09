@@ -8,144 +8,843 @@
       "name": "Battle Academia Caitlyn",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 51022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Viktoria Gavrilenko",
+          "West Studio"
+        ],
+        "lore": "A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy. Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off."
+      }
     },
     {
       "id": 55012,
       "name": "Battle Academia Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 18
+          },
+          "Formal": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 16
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "Katarina is a rough-edged loner who stays far away from the politics of Durandal Academy. A 2nd year student with a chip on her shoulder, she is also a top member of the Assassin Club—the only club on campus allowed to kill opponents in school-sanctioned duels. Few other students ever dare approach her."
+      }
     },
     {
       "id": 62007,
       "name": "Battle Academia Wukong",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 62007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 10
+          },
+          "Emerald": {
+            "id": 12
+          },
+          "Meteorite": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up."
+      }
     },
     {
       "id": 81021,
       "name": "Battle Academia Ezreal",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A young orphan initially thought devoid of any superhuman abilities, Ezreal had resigned himself to a normal life once he graduated middle school. But an encounter with a deadly threat awakened his slumbering potential, and now he finds himself a 1st year at the prestigious Durandal God-Weapon Academy, where he's joined the ragtag Battle Club."
+      }
     },
     {
       "id": 86024,
       "name": "Battle Academia Garen",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 86024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 32
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club."
+      }
     },
     {
       "id": 89021,
       "name": "Battle Academia Leona",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 89021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 28
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "An oddly cheery member of Labrys Academy's Battle Club, Leona's dark side comes out in combat, when her motherly, protective persona is utterly replaced by bloodlust. The change is so dramatic that even the most violent students tend to stay on her good side, hoping to avoid her wrath."
+      }
     },
     {
       "id": 89023,
       "name": "Prestige Battle Academia Leona",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 89023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 21,
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "After being selected for the yearly cross-academy tournament, Leona sharpened her combat prowess almost every free moment she had, knowing she had to beat out other top-ranking students from rival schools like Durandal, Babylon, Amrita, and Sharur. Her bloodlust now honed and her shield at the ready, she will pummel anyone who challenges her into a meaty pulp."
+      }
     },
     {
       "id": 99015,
       "name": "Battle Academia Lux",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A 1st year at the Durandal God-Weapon Academy, Lux maintains an upbeat attitude no matter the odds. Despite her freshman position in the Sorcery Club, Lux wields a tremendous amount of magical power that even the Academy's senior staff can't quite explain."
+      }
     },
     {
       "id": 99016,
       "name": "Prestige Battle Academia Lux",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99016,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president."
+      }
     },
     {
       "id": 99039,
       "name": "Prestige Battle Academia Lux (2022)",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99039,
+        "formatname": "Prestige Battle Academia Lux (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 16,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president."
+      }
     },
     {
       "id": 104025,
       "name": "Battle Professor Graves",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 104025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Formal": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 29
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience."
+      }
     },
     {
       "id": 126005,
       "name": "Battle Academia Jayce",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 126005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 13,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Formal": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 6
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 11
+          },
+          "Turquoise": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A prestigious 2nd year whose face is known throughout the wider city of Durandal, Jayce is the class president, head of the world-renowned Luminary Club, and prodigious inventor of miraculous Jayce-branded technologies. He hopes his inventions will prevent the kind of tragedy that struck him in his youth, though he refuses to speak about what that was."
+      }
     },
     {
       "id": 141026,
       "name": "Battle Academia Kayn",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": null
+      "wikiSkinData": {
+        "id": 141026,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Robbie Daymond",
+          "Sam A. Mowry"
+        ],
+        "lore": "Co-captains of the Assassin Club, Kayn and Rhaast are an embodiment of Babylon Academy's tactics. Kayn lulls rivals into a false sense of security before Rhaast explodes with overwhelming force, pummelling opponents into submission. Rhaast's diligent work ethic is the real reason they're here at all, as Kayn's aloofness irks all of his classmates."
+      }
     },
     {
       "id": 246050,
       "name": "Prestige Battle Academia Qiyana",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": null
+      "wikiSkinData": {
+        "id": 246050,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Some say class president and Sorcery Club captain Qiyana is Babylon Academy's greatest student (a rumor she gladly spread). When the God-Weapon instead chose Xayah to lead Babylon into the cross-academy tournament, Qiyana took it personally. Now she plots her revenge—to reclaim her rightful role and the prom date who spurned her: Rakan."
+      }
     },
     {
       "id": 350001,
       "name": "Battle Principal Yuumi",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 350001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-14",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 3
+          },
+          "Formal": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Granite": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Following the disappearance of two principals, Yuumi has stepped in as the acting head of Durandal Academy until either individual can be found and re-instated. As a powerful channeler of magic, she uses the academic registry book as a focus object to generate apocalyptic levels of energy… often while perched on a terrified student's head."
+      }
     },
     {
       "id": 497047,
       "name": "Battle Academia Rakan",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": null
+      "wikiSkinData": {
+        "id": 497047,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 55
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Rakan was content to coast his way through Babylon Academy. Then he saw Xayah at last year's prom—and ditched his date for her. Now in a fiery new relationship, he's managed to talk his way into becoming captain of the Luminary Club, just so he can be at the tournament and see his love at her best. If they win? Even better."
+      }
     },
     {
       "id": 498057,
       "name": "Battle Academia Xayah",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": null
+      "wikiSkinData": {
+        "id": 498057,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 59
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Pearl": {
+            "id": 63
+          },
+          "Rebelguard": {
+            "id": 62
+          },
+          "Ruby": {
+            "id": 58,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Babylon Academy's God-Weapon chose Xayah to lead the school's team in this year's cross-academy tournament, which they've never won. As captain of the Battle Club, she's happy to use her new leverage to boss around her teammates and savor the “vacation” with Rakan, though she'll never admit she enjoys being a leader."
+      }
     },
     {
       "id": 777010,
       "name": "Battle Academia Yone",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes."
+      }
     }
   ]
 }

@@ -216,6 +216,66 @@
     }
   ],
   "description": "한때 '거대한 야수 갈리오'의 영웅이었던 시비르의 신화 세계는 설맞이 플레이어가 그녀의 최종 결전을 방해하며 영원히 바뀌게 되었고, 시비르는 더 이상 자신이 주인공이 아니란 사실을 깨달았습니다. 이제 주인공이 아니라면 자신이 누구냐는 의문에 사로잡힌 시비르는 쓰이지 않은 미래의 이야기에서 자신의 역할을 찾아내야만 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 15050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 53
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Gilded": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Paragon": {
+        "id": 71,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 56
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "West Studio"
+    ],
+    "lore": "Once the hero of “The Great Beast Galio”, Sivir's myth-world is forever changed when the Lunar Players interrupt her climactic battle, and she discovers that she is no longer the protagonist. Grappling with the question of who she is if she's not saving the day, Sivir must now carve out a role for herself in a tale whose future is suddenly unwritten."
+  }
 }

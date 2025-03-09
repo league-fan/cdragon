@@ -8,24 +8,68 @@
       "name": "Silver Kayle",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-11-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Retail Purchase",
+        "cost": "Special",
+        "release": "2009-11-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends."
+      }
     },
     {
       "id": 12001,
       "name": "Black Alistar",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-06-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 12001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Digital Collector's Edition",
+        "cost": "Special",
+        "release": "2009-06-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends."
+      }
     },
     {
       "id": 13001,
       "name": "Young Ryze",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-07-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 13001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Retail Collector's edition",
+        "cost": "Special",
+        "release": "2009-07-17",
+        "set": [
+          "Collector's Edition"
+        ],
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Given to players who pre-ordered the Retail Collector's Edition of League of Legends."
+      }
     }
   ]
 }

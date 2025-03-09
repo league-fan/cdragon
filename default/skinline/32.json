@@ -8,88 +8,258 @@
       "name": "Tribal Ryze",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-03-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 13002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-04",
+        "retired": "2014-12-02",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ]
+      }
     },
     {
       "id": 15003,
       "name": "Huntress Sivir",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2011-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 15003,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Champion Bundle",
+        "release": "2011-02-07",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
     },
     {
       "id": 23008,
       "name": "Beast Hunter Tryndamere",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-02-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 23008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-02-04",
+        "earlysale": "2016-06",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Tryndamere isn't the smartest beast hunter, but he is the strongest—possessing a stubborn rage that quite literally refuses to let him die. A single swing of his blade can cleave a beast's limb from its body, and he has the hunting trophies to prove it."
+      }
     },
     {
       "id": 31006,
       "name": "Prehistoric Cho'Gath",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 31006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-14",
+        "earlysale": "2016-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A titanic beast feared for its massive size and endless appetite, no sane hunter would ever think of taking on Cho'Gath. Seeing as there are no sane hunters, Cho'Gath enjoys a steady supply of lightly armored food."
+      }
     },
     {
       "id": 34006,
       "name": "Prehistoric Anivia",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 34006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-14",
+        "earlysale": "2016-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A gargantuan beast capable of creating vast ice fields, Anivia is a nightmarish opponent for even the most seasoned hunters. She is drawn to the sound of hunts, dive bombing the area before retreating with a hunter or two to snack on."
+      }
     },
     {
       "id": 58007,
       "name": "Prehistoric Renekton",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-14",
+        "earlysale": "2016-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A rare intelligent beast, Renekton is an erudite speaker and skilled wielder of the crescent blade. He's also six stories tall and not particularly friendly. Hunters are advised to make their final arrangements before engaging."
+      }
     },
     {
       "id": 77002,
       "name": "Primal Udyr",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 77002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-12-06",
+        "retired": "2015-08-29",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Sean Rohani"
+        ],
+        "splashartist": [
+          "Rio Sabda",
+          "Caravan Studio"
+        ],
+        "lore": "Cursed to roam the land as something between man and beast, Udyr no longer distinguishes between hunters and hunted. Once he gets close enough to strike, they are all his prey."
+      }
     },
     {
       "id": 102002,
       "name": "Boneclaw Shyvana",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-11-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-11-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Feihong Chen"
+        ],
+        "lore": "Many hunters claim Shyvana holds an unfair advantage when it comes to slaying the giant beasts that roam the land. Shyvana herself cares little about their opinions, preferring instead to channel her rage into her true form—a massive, fire-breathing dragon… that proves the hunters' point."
+      }
     },
     {
       "id": 113001,
       "name": "Sabretusk Sejuani",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-01-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 113001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-17",
+        "retired": "2014-12-02",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ]
+      }
     },
     {
       "id": 113006,
       "name": "Beast Hunter Sejuani",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-02-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 113006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-02-04",
+        "earlysale": "2016-07",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "A beast tamer as well as hunter, Sejuani rides her trusty mount Bristle into the thick of combat before snaring massive creatures in the chain of her flail. An almost supernaturally strong woman, she can—temporarily—hold down beasts weighing several tons, which is exactly the window her fellow hunters need."
+      }
     },
     {
       "id": 119005,
       "name": "Beast Hunter Draven",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-02-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-02-04",
+        "earlysale": "2016-08",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "In addition to being one of the best beast hunters on the mainland, Draven is a master of the spinning blade, and also an incorrigible showboat. This quality has led to many of his hunting partners being eaten, which he likes because it causes dramatic tension."
+      }
     }
   ]
 }

@@ -48,6 +48,34 @@
     }
   ],
   "description": "ゲームセンターでバイトをしているリヴェンの楽しみは、店長が帰った後にプレイするダンスシミュレーターである。しかしある日、店長より怖いボスによってアーケードワールドにデジタル伝送されてしまう。ベイガーの帝国を崩壊させるため、リヴェンは鍛え抜いたステップ(とお気に入りのRPGの装備)で目の前の敵に挑んでいく。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-08-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-08-19",
+    "earlysale": "2016-02",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "K.O.": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Riven's part-time job at an arcade mostly involved playing dance simulators after her manager went home. Digitally transported to Arcade World by even scarier bosses, she's now using her moves (and some gear from her favorite RPG) to tear up Veigar's regime, one enemy at a time."
+  }
 }

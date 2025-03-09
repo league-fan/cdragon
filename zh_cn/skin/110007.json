@@ -58,6 +58,32 @@
     }
   ],
   "description": "以此纪念2018年于欧洲举办的季中邀请赛。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2018-04-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-04-25",
+    "set": [
+      "Conqueror"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Commemorating the 2018 Mid-Season Invitational in Europe."
+  }
 }

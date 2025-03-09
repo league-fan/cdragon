@@ -43,6 +43,30 @@
     }
   ],
   "description": "승리의 아트록스는 2019 시즌 랭크 게임에서 골드 이상을 달성한 플레이어에게 지급되었습니다. 수정석을 깎아 만든 방어구와 검을 든 아트록스는 위업을 달성하고자 하는 이들의 기념비 같은 존재입니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-11-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266009,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "release": "2019-11-21",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amber": {
+        "id": 10,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2019"
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "lore": "Victorious Aatrox was awarded to players who reached Gold or higher in the 2019 season. With arm and sword sculpted from crystal quartz, he stands as a monument to all who wish to achieve greatness."
+  }
 }

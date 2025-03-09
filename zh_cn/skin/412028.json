@@ -160,6 +160,60 @@
     }
   ],
   "description": "钢铁之龙无比快乐地蜷缩在它那由珍宝包围着的空旷档案库中。它需要一个有天赋的人来获取神秘的新珍宝——它的目光落在了锤石身上。锤石很荣幸能提供帮助，并且他对获取的无限渴望早已扭曲成了一种痴迷。现在的他在不惜一切代价地获取任何他想要的东西，以他的龙神之名来粉饰他的残忍。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 34
+      },
+      "Emberclaw": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "The Steel Dragon, happiest curled up in its cavernous archive amidst its treasures, needed someone with a talent for acquiring esoteric new treasures—and its eye fell on Thresh. Honored to assist, Thresh's limitless appetite for acquisition warped into obsession. Now he stops at nothing to acquire what he wants, justifying his cruelty in the name of his benefactor."
+  }
 }

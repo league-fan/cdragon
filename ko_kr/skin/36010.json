@@ -117,6 +117,45 @@
     }
   ],
   "description": "겨울왕국 변방의 잘생긴 왕자였던 문도는 빙하의 제왕 트위치의 저주에 걸려 야수와 같은 모습으로 변하고 말았습니다. 그는 자신이 여전히 예전처럼 조각상 같은 모습의 왕족이라고 확신하며... 가고 싶은 데로 갑니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36010,
+    "formatname": "Frozen Prince Mundo",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Once a handsome prince from an outlying region of the Winterlands, Mundo was touched by the curse of Ice King Twitch—corrupting him into a brutish thrall. He's still convinced he's the same statuesque royal as before, and as such… goes where he pleases."
+  }
 }

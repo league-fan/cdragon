@@ -137,6 +137,54 @@
     }
   ],
   "description": "杰西發明了「錘擊競技」作為展現人類全新強化能力的運動。從未有一項運動如此考驗運動員全方位的實力。由於這是「頂尖對決競技大會」的第一年，杰西下定決心讓世人見識 22 世紀代表性運動的驚奇之處。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 126025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-09",
+    "set": [
+      "Zenith Games"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Trevor Devall"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "West Studio"
+    ],
+    "lore": "Jayce invented Hammerjack as a showcase sport for humanity's new augmented abilities. Nothing else tested athletes across so many directions and terrain, and with this being its first year in the Zenith Games, he intends to show everyone what THE sport of the 22nd century looks like."
+  }
 }

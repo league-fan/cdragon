@@ -160,6 +160,60 @@
     }
   ],
   "description": "The first captain of the Wolf Squad, Yasuo fought alongside Riven in the early days of the invasion. He disappeared only to reemerge years later a battle-hardened survivalist, still wearing his original suit. He's here to warn Anima Squad that the enemy has evolved—and if they want to survive, they'll need all hands (and paws) on deck.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157077,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 83
+      },
+      "Catseye": {
+        "id": 79
+      },
+      "Nightwire": {
+        "id": 86,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Obsidian": {
+        "id": 85
+      },
+      "Pearl": {
+        "id": 84
+      },
+      "Peridot": {
+        "id": 81
+      },
+      "Rose Quartz": {
+        "id": 80
+      },
+      "Ruby": {
+        "id": 78,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 82
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "The first captain of the Wolf Squad, Yasuo fought alongside Riven in the early days of the invasion. He disappeared only to reemerge years later a battle-hardened survivalist, still wearing his original suit. He's here to warn Anima Squad that the enemy has evolved—and if they want to survive, they'll need all hands (and paws) on deck."
+  }
 }

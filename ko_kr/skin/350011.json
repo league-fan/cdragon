@@ -150,6 +150,50 @@
     }
   ],
   "description": "유미는 여느 고양이들처럼 물고기로 배를 가득 채우거나 따뜻한 무릎 위에 몸을 말고 누워 있는 것을 좋아합니다. 하지만 책조차 사로잡는 낭만적인 분위기 속에서 유미의 마음을 가르랑거리게 할 수 있는 것은 정확한 횟수로 쓰다듬는 손길뿐입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-04",
+    "set": [
+      "Heartbreakers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Granite": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Yuumi's always looking for what cats love: a belly full of fish and a warm lap to curl up on. But with the romantic mood captivating even Book, Yuumi knows the only thing to set her heart purring will be a very precise number of pets."
+  }
 }

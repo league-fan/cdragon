@@ -137,6 +137,51 @@
     }
   ],
   "description": "カーサスはかつては聡明な学者だった。だがある時、彼は疫病によって一族の大半を失ってしまう。愛する者たちを蘇生しようと、彼は盟約の魔女の禁じられた魔法を研究し…破滅的な結果を招いた。腐敗した生物となった彼はいま、エルダーウッドを放浪して森中に疫病を拡散し、そこに住まう者たちを死によって昇華させようとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 30026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-28",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Karthus was a brilliant scholar once upon a time. But when a disease nearly eradicated his people, he researched forbidden Coven magic, hoping to resurrect his loved ones... with catastrophic consequences. Now, he roams the Elderwood as a decaying creature, spreading his plague throughout the forest and inviting its inhabitants to transcend through death."
+  }
 }

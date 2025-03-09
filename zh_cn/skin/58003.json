@@ -24,6 +24,20 @@
     }
   ],
   "description": "这台因血而发狂的杀人机器在战场上四处搜寻着，来满足血石的需求。他屠戮得越多，他获得的力量就越多。这反过来又助长了他的狂暴，创造了一个永不终结的血腥循环。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-07-26",
+    "set": [
+      "Bloodstone"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "This blood-crazed killing machine scours the battlefield to sate the Bloodstone. The more he slays, the more he fuels his powers. This in turn feeds his frenzy, creating a never ending cycle of spilt viscera and gore."
+  }
 }

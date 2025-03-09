@@ -122,6 +122,49 @@
     }
   ],
   "description": "亲爱的狼，你的天选之人已至。前人前赴后继，为的正是此刻。米达尔达家族将为失去她以及她未出生的孩子而哀悼……然而，我看到还有一缕细丝，将她与尘世牵扯在一起。铁血狼母安蓓萨，她的命运是否系于狛尔拉琛？",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 799001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "transforming": true,
+    "chromas": {
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 5
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Ellen Thomas"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Your chosen has arrived, dear Wolf. Those who came before her paved the way for this moment. The Medardas will mourn the loss of her and her unborn child… and yet I see a thread that ties her still to the living. Ambessa, the Matriarch of War. Does her destiny lie in Volrachnun?"
+  }
 }

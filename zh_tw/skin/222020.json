@@ -148,6 +148,59 @@
     }
   ],
   "description": "吉茵珂絲曾自願參加菁英計畫的轉化工程，但她完全沒有想到一次致命的電力故障會擾亂並摧毀她的記憶核心，讓她成為了一個被自己腦中的狂躁聲音所驅使的心理變態。看似癡迷於毀滅和破壞的吉茵珂絲，正慢慢展現出一些遠比單純的記憶破碎更邪惡的跡象：菁英計畫的轉化讓她變得冷血卻又工於心計。吉茵珂絲將成為一個更令人聞風喪膽的罪惡化身。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222020,
+    "formatname": "PROJECT: Jinx",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Reckoning": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program."
+  }
 }

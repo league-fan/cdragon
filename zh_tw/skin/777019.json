@@ -124,6 +124,51 @@
     }
   ],
   "description": "預言斷定眾神將會互相殘殺，將創世自身帶向終結—但犽凝下定決心要違抗命運。在混沌與秩序的交鋒中，一個半人半神誕生了，犽凝雙手揮舞著闇夜與黎明之力。他必須讓兄弟們團結一致，讓眾神間恢復和平... 否則所有人都將灰飛湮滅。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 21
+      },
+      "Lifebringer": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Prophecy dictates that the gods will destroy each other, ushering in the end of creation itself— but Yone is determined to defy fate. A half-mortal, half-god born of the clash between chaos and order, Yone wields the power of both night and dawn. He must rally his brethren, bring peace to the gods… or they will all perish."
+  }
 }

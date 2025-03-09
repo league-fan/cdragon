@@ -187,6 +187,73 @@
     }
   ],
   "description": "Victorious Anivia was awarded to players who earned the requisite ranked split points in Season 2023 Split 1. Rising from the ashes covered in crystalline armor, Anivia's opulent feathers reflect her heightened nature. She is perseverance personified, an undying wish granted to those that need her most. ",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 34046,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2023 - Split 1.",
+    "release": "2023-07-17",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 47,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Challenger": {
+        "id": 54,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Diamond": {
+        "id": 51,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Gold": {
+        "id": 49,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Grandmaster": {
+        "id": 53,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Master": {
+        "id": 52,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Platinum": {
+        "id": 50,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      },
+      "Silver": {
+        "id": 48,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 1"
+      }
+    },
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Victorious Anivia was awarded to players who earned the requisite ranked split points in Season 2023 Split 1. Rising from the ashes covered in crystalline armor, Anivia's opulent feathers reflect her heightened nature. She is perseverance personified, an undying wish granted to those that need her most. "
+  }
 }

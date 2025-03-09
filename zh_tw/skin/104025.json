@@ -148,6 +148,57 @@
     }
   ],
   "description": "身為一位效力於迪朗達爾軍隊且脾氣火爆的退伍士兵，現在的葛雷夫不情願地成為了一名教授。自從他發現了敵人陣營背後的某種東西後，就立刻從這個神器組織收到了一份請他前往戰爭學院教學的職位邀請。他那標誌性的叼雪茄動作，不帶任何感情的講學禮節，是為他幾十年的經驗所支付的小小代價。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-15",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Formal": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience."
+  }
 }

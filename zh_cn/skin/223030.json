@@ -137,6 +137,53 @@
     }
   ],
   "description": "塔姆·肯奇曾经是一条鲶鱼，但他梦想化作一条龙。在烬从他的瀑布监狱中获释后，这个监狱的底部出土了一颗魔法珍珠，吸引了塔姆和克格莫的双眼。塔姆率先夺取它，化身为“水流龙神”，释放出一个凶猛惊人的漩涡，嘲笑着随之而来的毁灭。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Once a catfish, Tahm Kench dreamed of becoming a dragon. Upon Jhin's release from his waterfall prison, a magical pearl was unearthed at its base, catching both Tahm's and Kog'Maw's eyes. Snatching it first, Tahm transformed into a dragon god of currents and unleashed a maelstrom of startling ferocity, laughing at the ensuing destruction."
+  }
 }

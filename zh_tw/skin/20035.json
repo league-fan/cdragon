@@ -137,6 +137,56 @@
     }
   ],
   "description": "努努和威朗普的家鄉早已毀滅、不復存在，但他倆仍抱有純真與無邪的稀世精神。貝爾薇斯從沒想過在絕望之際還能感受如此的喜悅，便將星河之力賜予這對好搭檔。於是他們運用這股力量，讓所到之處都充滿歡愉的氣息。如果遇到幽冥煞星的重重險阻，兩人就會透過創意與無邊的想像力來戰勝一切。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-30",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 42
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination."
+  }
 }

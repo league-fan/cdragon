@@ -160,6 +160,60 @@
     }
   ],
   "description": "위험한 묘기를 부릴 때도 무모한 태도로 유명한 클럽 호스트 드레이븐은 녹스 베가스에서 사랑과 증오를 한몸에 받고 있죠. 관심 많은 구경꾼의 호기심에 그 난장판을 정리해야 하는 리조트 주인의 증오까지 유발하는 재주를 가지고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 31
+      },
+      "Cerulean Club": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "An infamous club host known for his daredevil attitude while performing envenomed party tricks, Draven is loved and hated by the Nox Vegas strip in equal measure. He possesses a talent for drawing both the curiosity of entertained onlookers and the ire of resort owners cleaning up after his messes."
+  }
 }

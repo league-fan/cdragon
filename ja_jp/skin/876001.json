@@ -148,6 +148,58 @@
     }
   ],
   "description": "恥ずかしがり屋の子鹿の精霊リリアは、かつてアイオニアにある聖なる森の守護者だった──彼女の住んでいた森が炎に包まれ、破壊されるまでは。その後、失意に苛まれた彼女は精霊の領域で眠りにつき、森が破壊される終わりなき悪夢を見続けている。しかし、彼女は気付いていない──まだ微かな希望が花開く可能性が残っていることを…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-22",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 5
+      },
+      "Night Blossom": {
+        "id": 9,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 3
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 8
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "A shy fawn spirit, Lillia once served as the guardian of a sacred Ionian forest—until her grove was destroyed and cast into flame. Consumed by loss, she now slumbers in the spirit realm, reliving the destruction in an unending nightmare—unaware of the timid hope still waiting to bloom..."
+  }
 }

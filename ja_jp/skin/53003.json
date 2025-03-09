@@ -24,6 +24,18 @@
     }
   ],
   "description": "ブリッツクランクのロボットアームを人々は「腕」と呼んでいる。これはこのロボットが人間を完璧に模倣している証拠に他ならない。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-08-29",
+    "set": [
+      "Day Job"
+    ],
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Their fists are named “boom” and “boom,” proving that robots are a perfect facsimile of human life."
+  }
 }

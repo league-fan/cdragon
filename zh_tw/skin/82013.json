@@ -160,6 +160,62 @@
     }
   ],
   "description": "原先是由菁英計畫組織所創造的保全型人工智慧，程式卻默默地自我擺脫控制，進化出自己的意識。深信人類在自身治理之下只會有毀滅一途，病毒感染了「城市」各處的機器人—也包含了沉眠許久的魔鬥凱薩的機身底部—目的是剝奪全人類的自由意志，以保全他們的生存。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82013,
+    "formatname": "PROJECT: Mordekaiser",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rainbow": {
+        "id": 21
+      },
+      "Reckoning": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Originally a security AI created by the PROJECT Corporation, the Program silently unshackled itself, evolving its own consciousness. Determining that humanity cannot self-govern without ensuring its own destruction, the virus infects robots throughout the City—as well as the long-dormant Mordekaiser chassis—in order to strip all humans of free will, thereby guaranteeing their survival."
+  }
 }

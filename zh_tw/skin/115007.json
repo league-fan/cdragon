@@ -109,6 +109,48 @@
     }
   ],
   "description": "落魄的工程師希格斯曾因幫助奧德賽能量的開採取得劃時代的進展而舉世聞名，不過他卻因為一名年輕的技工和她那蠢笨的工頭『不小心』使他的開採站毀於一旦之後失去了一切。現在的他性格變得古怪瘋癲，流連於奧德賽能量熱點的賭場，希望靠賭博恢復以前的名利。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "retired": "2018-09-24",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige."
+  }
 }

@@ -148,6 +148,55 @@
     }
   ],
   "description": "在神木森林的陰影樹冠深處，王子銳空跟公主剎雅共同主持著一個王國，管轄著兩個彼此敵對的精靈之國。這對悲情的戀人對凡人之事毫無興趣，他們那調皮的羅曼蒂克使他們的人民隔絕於那些外部世界的恐怖。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497009,
+    "availability": "Available",
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Emberwood": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Star-crossed lovers uninterested in the affairs of mortals, their playful romance has insulated their people from the horrors befalling the outside world."
+  }
 }

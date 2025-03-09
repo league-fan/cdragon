@@ -137,6 +137,54 @@
     }
   ],
   "description": "無論你看到的是她直接大膽激發觀眾原始本能的作品，還是比較輕鬆，充滿老哏笑點的作品，布蕾爾的創作都令人印象深刻。作為殭屍，她以作品產生的能量為食，所以布蕾爾的畫風其實全取決於她有多餓。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 233001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Tanzanite": {
+        "id": 5
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Julie Nathanson"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "Whether you see her violently in-your-face tags that inspire audiences to get WILD, or her more relaxed art rife with cheeky humor, Briar's work makes an impression. As a jiangshi, she feeds off of the energy her art creates, so which style she uses really just depends on how hungry Briar is."
+  }
 }

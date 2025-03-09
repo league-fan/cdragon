@@ -137,6 +137,53 @@
     }
   ],
   "description": "身為皇家護衛勇敢的軍需官以及女神克黎思妲的新任左右手，崔絲塔娜努力培養各種用魔法植物製作的武器，做為保護女皇陛下的利器！這些武器大多長得像嫩芽、花朵、藤蔓或苔蘚，但破壞力非常驚人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 65
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Pearl": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Tanzanite": {
+        "id": 69
+      },
+      "Turquoise": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "As plucky Quartermaster to the Royal Guard and Lady Kalista's new right hand fae, Tristana cultivates all sorts of magical plant-based weaponry to help protect Her Majesty the Queen! Most of them are some form of sprout, flower, vine, or moss. All of them are incredibly destructive."
+  }
 }

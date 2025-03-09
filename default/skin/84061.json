@@ -124,6 +124,51 @@
     }
   ],
   "description": "On-again off-again co-captain of a new generation of Star Guardians, Akali's skill in battle is shadowed by her growing realization that the Oath she swore has condemned her to die. Though she fights for the light with all her heart, she finds that darkness is just as powerful... perhaps, even more so...",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 67,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Ashly Burch"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "On-again off-again co-captain of a new generation of Star Guardians, Akali's skill in battle is shadowed by her growing realization that the Oath she swore has condemned her to die. Though she fights for the light with all her heart, she finds that darkness is just as powerful... perhaps, even more so..."
+  }
 }

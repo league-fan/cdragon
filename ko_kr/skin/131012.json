@@ -111,6 +111,43 @@
     }
   ],
   "description": "다이애나는 한때 여왕 바다뱀 수호단의 극단주의자였지만 이제는 어둠 속에서 고용주의 적들을 처치하며 살고 있습니다. 빌지워터에서는 누군가가 과거에 무엇을 했는지보다 지금 어떤 메시지를 보내려 하는지가 더 중요합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-31",
+    "earlysale": "",
+    "set": [
+      "Bilgewater: Curse of the Drowned"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 14
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send."
+  }
 }

@@ -113,6 +113,49 @@
     }
   ],
   "description": "늑대여, 당신이 선택한 자가 도착했습니다. 이보다 앞서 온 이들은 이 순간을 위해 길을 닦은 셈이죠. 메다르다 가문은 그녀와 태중의 아이를 잃었다며 애도하겠지만... 제 눈에는 그녀와 산 자를 잇는 실이 여전히 보이는군요. 전장의 우두머리 암베사. 그녀의 운명은 볼라크넌에 있을까요?",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 799001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "transforming": true,
+    "chromas": {
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 5
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Ellen Thomas"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Your chosen has arrived, dear Wolf. Those who came before her paved the way for this moment. The Medardas will mourn the loss of her and her unborn child… and yet I see a thread that ties her still to the living. Ambessa, the Matriarch of War. Does her destiny lie in Volrachnun?"
+  }
 }

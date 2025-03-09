@@ -73,6 +73,41 @@
     }
   ],
   "description": "許多年前，剎雅和她的愛侶銳空在對抗柔依的戰鬥中被摧毀殆盡。隨後，這對比翼愛侶的形體被重構並轉而對抗他們曾經的戰友 ─ 而剎雅似乎對這樣的轉變非常滿意。她怨忿於星光戰士在生死交關時棄她不顧，並因此轉而對付他們；縱使各種疑慮好像正在漸漸滋生…",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "newvoice": true,
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies "
+  }
 }

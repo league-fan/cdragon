@@ -160,6 +160,60 @@
     }
   ],
   "description": "璐璐来自布吉乐仙境，“纯粹律动”星系的一颗星球。她对星界迪斯科能量的共鸣有种独特的感应力。她用她的法杖变出自由和恣意的幻景，甚至可以让银河系中最笨拙的生物跟着一起打拍子。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 32
+      },
+      "Disco": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Peridot": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 33
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Hailing from Boogie Wonderland, a planet of Pure Groove, Lulu is uniquely attuned to the resonance of cosmic disco energy. Using her staff to conjure visions of freedom and abandon to the beat of the music, she can get even the most left-footed creatures in the galaxy tapping along."
+  }
 }

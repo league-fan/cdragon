@@ -138,6 +138,53 @@
     }
   ],
   "description": "维迦有很多大计划。强调一遍，很大。首先，他将集结一支由小怪物组成的大军，最好是来自这片土地最黑暗、最可怕的角落。然后他将使用“核心”与上述小怪物立羁绊并增幅他们的力量。 然后他将接管世界！ 嗯……他可能漏掉了一步。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-11",
+    "set": [
+      "Monster Tamers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Jasper": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Rainbow": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Veigar has big plans. BIG. First, he'll amass an army of monsters, preferably from the darkest, scariest corners of the land. Then he'll use the CORE to create a bond with said monsters and amplify their power. Then he'll take over the world!! Hmm... he might have missed a step."
+  }
 }

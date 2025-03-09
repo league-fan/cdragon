@@ -137,6 +137,55 @@
     }
   ],
   "description": "與迦瑪沃爾的維爾戈交戰之中，犽宿受到了布爾魯的強化，為娜葛卡布爾之子成為了出乎預料的英雄——他對過去事件的執著與他們所深信的一切都相違背。然而，就連最飽經風霜的老水手也會有走運的一天，犽宿挺身對抗黑暗之力，斬獲了勝利。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-05",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 50
+      },
+      "Aquamarine": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Empowered by the Buhru during his fight against Viego of Camavor, Yasuo made an unlikely champion for the children of Nagakabouros—his obsession with past events flew in the face of everything they believed in. Yet even the mangiest sea dog has his day, and Yasuo stood against the forces of darkness, emerging triumphant."
+  }
 }

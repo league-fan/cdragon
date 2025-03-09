@@ -148,6 +148,57 @@
     }
   ],
   "description": "이블린은 원하는 순간 한 번의 강력한 시선으로 모두의 시선을 사로잡을 수 있습니다. K/DA의 성공으로 도발적인 디바의 이름이 모두의 입에 오르내리게 되었고, 이블린은 자신의 끝내주는 패션 센스를 유지할 생각입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28015,
+    "formatname": "K/DA ALL OUT Evelynn",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-29",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "BADDEST": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "With a single devastating glance, Evelynn can ensure that all eyes are on her—when she wants them to be. K/DA's success has ensured that this provocative diva's name will be on everyone's lips, but Evelynn is intent that her killer fashion sense will keep it there."
+  }
 }

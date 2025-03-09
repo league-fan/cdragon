@@ -132,6 +132,51 @@
     }
   ],
   "description": "诺提勒斯曾是一名守护者，在把疯神烬封印到一个神圣瀑布的过程中提供过帮助，正如神秘的山海绘卷中所描绘的那样。千年以来，烬不断地对诺提勒斯低语着权力、自由和真正的神格，直到他最终将其释放。现在，诺提勒斯已被愤怒所扭曲，他的河流们流淌的不再是水，而是岩浆。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "A guardian who helped seal the mad god Jhin within a holy waterfall, as depicted within the mysterious painting known as the Shan Hai Scrolls. Over the millenia, Jhin has whispered of power, freedom, and true godhood to Nautilus, until he finally released him. Now twisted with anger, Nautilus's rivers run not with water, but molten magma."
+  }
 }

@@ -191,6 +191,66 @@
     }
   ],
   "description": "赛娜还在寻觅，火冒三丈的卡蜜尔自己找上门来。她曾是一位舞者，优雅高贵却冷酷无情。由于忤逆了上一任北极星而遭到极刑惩罚，失去了双腿。现在她获得了比血肉之躯更强大的下肢。卡蜜尔伺机设伏，偷袭了赛娜，还叫来了她的同伙——塞拉斯和锤石。北极光怪盗团登场了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 36
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Ornamented": {
+        "id": 42,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Winterblessed 2023 Premium Bundle"
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 39
+      },
+      "Wreathguard": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "As Senna continued her search, the bitter Camille pursued her with simmering rage. She was an elegant but ruthless dancer who ran afoul of a previous Polaris and was punished for it, enough so to lose her legs. Wielding newly empowered limbs, she ambushed Senna and summoned her compatriots, Sylas and Thresh. The Aurora thieves had arrived."
+  }
 }

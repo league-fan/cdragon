@@ -137,6 +137,54 @@
     }
   ],
   "description": "アッシュは呪われた弓を構え、死灰の化身の軍勢に加わろうとしないすべての者たちに狙いを定める。彼女の燃える矢に貫かれた標的は、瞬く間に地獄の業火に飲み込まれ、未来永劫、死灰の化身の手足として仕えることとなる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22067,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 72
+      },
+      "Aquamarine": {
+        "id": 70
+      },
+      "Catseye": {
+        "id": 69
+      },
+      "Emerald": {
+        "id": 71
+      },
+      "Pearl": {
+        "id": 75
+      },
+      "Rose Quartz": {
+        "id": 73
+      },
+      "Ruby": {
+        "id": 68,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 74
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Using her accursed bow, Ashe sets her sights on all who have not already willingly joined the Ashen Lord's army. Once pierced by her blazing arrows, her mark immediately becomes consumed by the Infernal flame and damned to serve within his legions forevermore."
+  }
 }

@@ -162,6 +162,51 @@
     }
   ],
   "description": "구하기 힘든 젖소 테마의 알리스타 조각상입니다. 미개봉 제품은 경매에서 수백만 원을 호가한다고 하는데요. 이 녀석은 어제 욕조에 한 번 빠지고 말았습니다. 이래서 애들한테는 좋은 거 사 줘봐야 소용없다고 하나 봅니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 17
+      },
+      "Jasper": {
+        "id": 15
+      },
+      "Peridot": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sapphire": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A rare cow-themed variant of the popular Alistar figurines, mint-in-box units have been known to go for several thousand dollars at auction. Yesterday, this one was submerged in the tub. Children don't deserve nice things."
+  }
 }

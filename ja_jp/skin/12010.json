@@ -162,6 +162,51 @@
     }
   ],
   "description": "乳牛をモチーフにしたアリスターのフィギュア。たいへんな人気で、未開封のものはオークションで数千ドルの値がつくと言われている。この一体は昨日、お風呂に沈められていた。子供にはこの逸品の価値はまだ分からない。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 17
+      },
+      "Jasper": {
+        "id": 15
+      },
+      "Peridot": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sapphire": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A rare cow-themed variant of the popular Alistar figurines, mint-in-box units have been known to go for several thousand dollars at auction. Yesterday, this one was submerged in the tub. Children don't deserve nice things."
+  }
 }

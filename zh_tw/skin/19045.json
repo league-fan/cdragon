@@ -160,6 +160,59 @@
     }
   ],
   "description": "野獸沃維克嗅了嗅他的新生手足——自動人形薩科。他的造物者指引眾領袖去領受他們的禮物。獵人要求野獸作為獎賞，但如此一來，賢者與管理者就只能共享剩餘之物，雙方憤慨難平，引發了爭奪獎賞的騷動。在此期間，沃維克專心盯著北極星，她臉上掛著嘲諷般的微笑。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-12-08",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Granite": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 52
+      },
+      "Wreathguard": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2022"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The Beast Warwick sniffed his newborn sibling, the Automaton Shaco, as his maker beckoned the leaders to accept their gifts. The Hunter claimed the Beast as his prize, but the prospect of sharing so disgusted the Sage and Warden that chaos quickly erupted over who deserved what. All the while Warwick focused on Polaris, who watched with a wry smile."
+  }
 }

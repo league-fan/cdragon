@@ -138,6 +138,54 @@
     }
   ],
   "description": "모두가 올해의 축제 주최자인 르블랑에 대한 무서운 이야기를 나눕니다. 듣기로는 호박등의 미소도 거꾸로 뒤집을 정도로 고통을 주는 걸 좋아한다고 합니다. 하지만 르블랑에게는 심지어 스스로에게도 숨기려고 하는 부드러운 면도 있답니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7045,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Turquoise": {
+        "id": 49
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Everyone shares spooky stories of LeBlanc, the host of this year's celebration! It's said she delights in causing misery; she can turn any Jack-o'-lantern's smile upside down. But there's a softer side to her as well, one she tries to keep hidden, even from herself."
+  }
 }

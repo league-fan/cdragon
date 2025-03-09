@@ -133,6 +133,54 @@
     }
   ],
   "description": "Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 14
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes."
+  }
 }

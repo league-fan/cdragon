@@ -160,6 +160,60 @@
     }
   ],
   "description": "拉克丝由于她的魔法能力而被迫生活在穷街陋巷和屈辱中，讽刺的是，当她的位面崩溃时，她却逃过了必然之死。现在，凭借盈晖的原生力量，她自由了。即使她半只脚踏进了死亡也没关系：她打算在火焰吞噬她之前尽可能多地去感受生活的美好。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99042,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 45
+      },
+      "Emerald": {
+        "id": 46
+      },
+      "Neon Flare": {
+        "id": 51,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 47
+      },
+      "Tanzanite": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Forced to live in squalor and shame for her magical abilities, Lux ironically escaped certain death when her realm collapsed. Now with the raw power of the Foreglow, she's free. It doesn't matter that she's on her last legs: she intends to live and experience as much as she can before the fire consumes her."
+  }
 }

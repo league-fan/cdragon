@@ -137,6 +137,53 @@
     }
   ],
   "description": "Known as “the art of eight limbs”, Muay Thai is a multidisciplinary fighting style practiced by boxers for centuries. Lee Sin, who has mastered many forms of hand-to-hand combat, is among its greatest champions.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-07-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-07-24",
+    "set": [
+      "Wonders of the World"
+    ],
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 61
+      },
+      "Emerald": {
+        "id": 62
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 67
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 60,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 63
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "Known as “the art of eight limbs”, Muay Thai is a multidisciplinary fighting style practiced by boxers for centuries. Lee Sin, who has mastered many forms of hand-to-hand combat, is among its greatest champions."
+  }
 }

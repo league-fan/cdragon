@@ -142,6 +142,54 @@
     }
   ],
   "description": "在代代由女皇統治的特林姆王宮，菲歐拉的勢力崛起，不擇手段的貴族卻密謀推翻她的政權，奪走了她的眼睛，聲稱她已死。沒想到在加冕儀式，她竟在花瓣和烈焰中復活，並戰勝敵人。現在，國內鋼鐵花園的兵器製作工程都由菲歐拉女皇監管。同時，她也在培育某位能操控火焰的公主，以成為她的繼承人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114089,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 91
+      },
+      "Emerald": {
+        "id": 92
+      },
+      "Obsidian": {
+        "id": 96
+      },
+      "Pearl": {
+        "id": 95
+      },
+      "Rose Quartz": {
+        "id": 94
+      },
+      "Ruby": {
+        "id": 90,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 93
+      },
+      "Tanzanite": {
+        "id": 94
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Nobles in the cutthroat queendom of Telum conspired against Fiora's rise to power, taking her eye and proclaiming her dead. Yet from flowers and flame she arose, then prevailed, in the Grand Coronation. Queen Fiora now oversees arms manufacturing in her nation's steel gardens, and secures her succession by training and tempering a certain fiery princess."
+  }
 }

@@ -25,6 +25,25 @@
     }
   ],
   "description": "Celebrating MSI 2021 in Reykjavík.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24020,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-29",
+    "set": [
+      "Conqueror"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Foritis Wang",
+      "West Studio"
+    ],
+    "lore": "Celebrating MSI 2021 in Reykjavík."
+  }
 }

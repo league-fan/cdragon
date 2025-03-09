@@ -160,6 +160,60 @@
     }
   ],
   "description": "王立宇宙軍の研究開発部門の実験で誕生したジャンナは、EXOスーツの操縦に成功した史上唯一のアンドロイドだ。彼女が非常に人間らしく見えるためか、多くの者は彼女が操る「風」が、実際には「X09-ゼファー」と彼女の中央処理コアにダイレクトに接続された、大量のナノボットであることを忘れてしまう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ace": {
+        "id": 55,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 48
+      },
+      "Catseye": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "An experiment from RSM's R&D division, Janna is the only successful use of an android to pilot an exosuit in history. Perhaps it's because she looks so human that most forget the gusts of “wind“ she commands are actually a fleet of nanobots connected directly to both the X09-Zephyr as well as her central processing core."
+  }
 }

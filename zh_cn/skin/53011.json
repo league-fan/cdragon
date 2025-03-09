@@ -162,6 +162,51 @@
     }
   ],
   "description": "作为一个来自流行科幻射击游戏的Boss，布里茨以其简单的操作、强力的攻击和超高的生命值在玩家之间有口皆碑。维迦委派它作为自己私人堡垒的看守者，因为维迦就是讨厌取乐。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-08-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-08-19",
+    "earlysale": "2016-01",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rainbow": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 16
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A boss hailing from a popular science fiction shooter, Blitzcrank is well known in the gaming community for cheap mechanics, powerful attacks, and a massive health pool. Veigar fittingly made them the gatekeeper of his personal fortress, because Veigar hates fun."
+  }
 }

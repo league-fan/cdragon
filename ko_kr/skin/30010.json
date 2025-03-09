@@ -113,6 +113,44 @@
     }
   ],
   "description": "카서스의 제자들은 부조화로 가득한 노래를 불러 자신의 몸에 불기둥을 일으키고, 지옥의 사자 카서스를 이 세계로 인도합니다. 카서스가 등장하면 죽음의 노래가 시작되고, 하늘로부터 지옥불 기둥이 내려옵니다. 불길이 온 대지를 집어삼키기 전에 들려 오는 장송곡을 듣고 살아남은 자는 많지 않습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 30010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land."
+  }
 }

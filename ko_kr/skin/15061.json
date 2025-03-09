@@ -138,6 +138,54 @@
     }
   ],
   "description": "태어날 때부터 범상치 않았던 시비르는 타고난 능력을 발휘하면 용병 일로 큰돈을 벌 수 있다는 걸 일찍이 알아차렸습니다. 본능의 주인으로서 무수히 많은 전투를 헤쳐 나가며 자신이 돈을 버는 것을 방해하는 사람이라면 누구든 쓰러뜨렸죠. 하지만 현재 수배 중인 은총발톱의 우두머리는 시비르가 다가가지도 못할 맹수일지도 모릅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 15061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Citrine": {
+        "id": 67
+      },
+      "Emerald": {
+        "id": 66
+      },
+      "Obsidian": {
+        "id": 69
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 65
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Born into greatness, Sivir quickly discovered that her enhanced capabilities were the key to earning higher mercenary payouts. As a master of instinct, she clawed her way through countless battles and struck down any target in the way of her coin. However, her current bounty, the leader of the Favorclaw, may prove to be a beast beyond even her reach."
+  }
 }

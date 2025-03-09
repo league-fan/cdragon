@@ -165,6 +165,61 @@
     }
   ],
   "description": "犽凝曾為知名DJ和製作人，但他逐漸對音樂界感到幻滅，突然就從樂壇銷聲匿跡，令眾人為之愕然，但這個舉動卻讓粉絲和樂評更加期盼他的作品。在認識其他心鋼之聲的成員後，犽凝克服了對創作的恐懼，重新點燃對音樂的熱情，並決心帶領這個樂團邁向樂壇頂峰。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-08",
+    "set": [
+      "HEARTSTEEL"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Pearl": {
+        "id": 50
+      },
+      "Rockstar": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen",
+      "Julia Yurtsev",
+      "Jennifer Wuestling"
+    ],
+    "lore": "Once a legendary DJ/producer, Yone grew disillusioned with the music industry and mysteriously dropped off the grid, leaving fans and critics alike wanting more. Meeting the other members of HEARTSTEEL pulled him out of his creative funk, and with his passion for music now reignited, Yone is determined to take this band straight to the top."
+  }
 }

@@ -24,6 +24,23 @@
     }
   ],
   "description": "マオカイは大きくて陽気な、文字どおりホリデーの精霊に憑りつかれた歩くモミの木である。毎年、自分の足元に積みあがったプレゼントの包みを開けるのが楽しくて仕方がないが、暖炉のそばでは開けないように心がけている。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Mike Azevedo"
+    ],
+    "lore": "Big, jolly, and possessed by a literal holiday spirit, the living fir tree known as Maokai loves nothing more than to unwrap the presents tucked under him every year. He would prefer to do this away from the fire."
+  }
 }

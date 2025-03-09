@@ -117,6 +117,44 @@
     }
   ],
   "description": "索拉卡是普羅王王宮裡的一位友善女公爵，她的領地裡處處充滿著由純淨、迷人的寒冰所組成的美麗動物。這些動物們的數量綿延千里，並受到她的家臣仔細照料。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16009,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A kindly duchess within the court of the Poro King, Soraka's lands are filled with beautiful animals made of pristine, enchanted ice. These menageries stretch for miles, tended by her retainers."
+  }
 }

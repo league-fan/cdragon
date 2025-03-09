@@ -49,6 +49,34 @@
     }
   ],
   "description": "경범죄로 사형을 선고받았지만 왕의 은혜로 목숨을 건지고 명예로운 기사 작위를 받은 파이크는 마법을 상대로 한 전쟁의 마지막까지 복역했으나, 끝내 황량한 잿빛 세계에 홀로 남겨져 버렸습니다. 격렬한 광기에 사로잡힌 파이크는 누군가 지나갈 때마다 자신을 버린 왕이라 착각하고 싸움을 겁니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-03-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555044,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-03-30",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Condemned to death for petty crimes, then saved by the king and uplifted to glorious knighthood, Pyke served in the war against magic until the very end, only to be left alone in an ashen world without. Gripped by violent madness, he challenges all who pass, accusing them of being the ruler who abandoned him."
+  }
 }

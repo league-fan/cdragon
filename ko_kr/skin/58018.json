@@ -120,6 +120,51 @@
     }
   ],
   "description": "레넥톤은 얼음 마녀의 폭정에 저항하며 끝없는 겨울에 맞서다가 죽음을 맞이했습니다. 하지만 부활의 저주를 받은 이 고결한 전사는 바위와 얼음으로 무장하고 포악한 전쟁광으로 되살아났습니다. 이제 어둠서리 군대의 장군으로서 전투를 지휘하는 레넥톤은 자신이 한때 죽이려고 했던 얼음 마녀의 충실한 종이 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "In life, Renekton stood against the tyranny of the Ice Witch, fighting an inevitable, endless winter until his last breath. In death, the virtuous warrior was cursed with resurrection—brought back to life as a vicious warmonger cased in rock and ice. Now a general leading the onslaught of the Black Frost army, Renekton loyally serves the very queen he once thought to destroy."
+  }
 }

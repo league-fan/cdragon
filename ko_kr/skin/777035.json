@@ -160,6 +160,60 @@
     }
   ],
   "description": "두 형제는 보금자리를 잃고 먹그림자 전사가 되었습니다. 한 명은 자유를, 한 명은 정체성을 포기했죠. 요네는 문신을 위해 커다란 대가를 치렀습니다. 그 누구도 자신의 존재를 기억할 수 없다는 대가를. 이제 '가면 쓴 남자'라는 얼굴 없는 이방인으로만 알려진 그는 난민들이 야스오의 보호를 받을 수 있을 때까지 지배층의 손아귀로부터 그들을 지킵니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Inked": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Two brothers lost their home and became Inkshadow Warriors. One gave up his freedom, and the other his identity. Yone paid a steep price for his tattoo: no one remembers that he existed. Now known only as a faceless stranger called the “Man of Masks,” he shields refugees from the Cabal until they can be delivered into Yasuo's protection."
+  }
 }

@@ -48,6 +48,33 @@
     }
   ],
   "description": "一族に公然と反抗の意思を示し、カタリナは王女としての生活を捨てて、三国で最強の英雄を狩るために故郷を離れた。夜の闇に紛れて攻撃し、彼女は一人また一人と武将を斬り捨てながら、敵のただ中を静かに進んでゆく。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-02-10",
+    "earlysale": "2015-12",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 11,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "In open defiance of her clan, Katarina has left behind the life of a princess to hunt the greatest heroes of the Warring Kingdoms. Striking under shadow of night, she is slowly cutting her way through her foes… one general at a time."
+  }
 }

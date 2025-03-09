@@ -8,24 +8,63 @@
       "name": "憂傷法老 阿姆姆",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-02",
+        "retired": "2011-11-28",
+        "set": [
+          "Pharaoh"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "Boy-king of the southern wastes, Amumu's mummified body still haunts the halls of his ancient tomb. His mournful sobbing can be heard over the brutal desert winds, luring in unwitting adventurers."
+      }
     },
     {
       "id": 75002,
       "name": "法老王朝 納瑟斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-11-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 75002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-02",
+        "vu": true,
+        "set": [
+          "Pharaoh"
+        ],
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ],
+        "lore": "Immortal beast of the northern lands, Nasus wanders the expanse of the Great Desert in search of his once-green kingdom. He conjures vast sandstorms to cover his tracks, hiding his existence from the world."
+      }
     },
     {
       "id": 76004,
       "name": "埃及豔后 奈德麗",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-01-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 76004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-01-10",
+        "set": [
+          "Pharaoh"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "lore": "Worshiped as a god-queen of the Great Desert, Nidalee is the avatar of the glorious cat-god, Sypakaa. As war tears through the land, Nidalee will do whatever it takes to protect her city and her temple from those who would dare threaten them."
+      }
     }
   ]
 }

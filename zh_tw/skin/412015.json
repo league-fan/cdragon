@@ -49,6 +49,32 @@
     }
   ],
   "description": "紀念 Crisp 在 2019 世界大賽中使用瑟雷西贏得世界冠軍的精采表現。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412015,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 18,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring Crisp's winning performance as Thresh during the 2019 World Championship."
+  }
 }

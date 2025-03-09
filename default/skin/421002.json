@@ -98,6 +98,45 @@
     }
   ],
   "description": "We're gonna need a bigger inflatable raft…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-06-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-06-25",
+    "earlysale": "2016-01",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 4
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 3
+      },
+      "Tanzanite": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "We're gonna need a bigger inflatable raft…"
+  }
 }

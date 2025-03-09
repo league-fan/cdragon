@@ -112,6 +112,48 @@
     }
   ],
   "description": "作為整片土地最具盛名的武器達人，賈克斯長久渴望著一件稱手的武器，以及一場酣暢淋漓的戰鬥。當艾斯特奎斯王國的頂尖智囊們齊聚一堂 — 使用了某種似乎是上天賜予的奇異科技 — 以建造一台百折不撓的機甲巨神兵時，賈克斯終於滿意了。他樂見深淵巨獸的入侵，並希望這些巨獸能證明牠們，正是他畢生所尋的挑戰。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Peacekeeper": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Famed as the greatest weapons master in all the land, Jax has been itching for a proper weapon, and a proper fight. When the best minds of the Estercrest Kingdom came together—using strange technology seemingly gifted to them by the heavens—to construct an indomitable Avalon, Jax was finally impressed. He welcomes the leviathan invasion, hoping these monstrous foes will prove to be the challenge he has been searching for his entire life."
+  }
 }

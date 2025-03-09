@@ -96,6 +96,45 @@
     }
   ],
   "description": "巨大なトロール族の王であるトランドルは崇敬される龍殺しだ。彼は山々の氷に宿った力を操る能力を備えており、自身の王国を死と破滅から守っている。生き残ったトロールたちは、龍の炎に引き裂かれたこの世界で自分たちを統べるにふさわしい指導者として、長年に渡り彼を畏れ敬ってきた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+  }
 }

@@ -8,240 +8,1328 @@
       "name": "菁英計畫：易大師",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11009,
+        "formatname": "PROJECT: Yi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2015-09-07",
+        "earlysale": "Ineligible",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Greg Chun"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "One of the first concepts, Yi was held by PROJECT for extensive experimentation, and then finally freed by the G/NETIC rebels. His psyche may still contain some glitches, but his experimental hyperlight “alpha” blade serves the resistance with its precision balance."
+      }
     },
     {
       "id": 19016,
       "name": "菁英計畫：沃維克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19016,
+        "formatname": "PROJECT: Warwick",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Aquamarine": {
+            "id": 32
+          },
+          "Catseye": {
+            "id": 31
+          },
+          "Meteorite": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Reckoning": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Plucked from the wastelands by a PROJECT research cell, Warwick has been irrevocably transformed into a horrifying new stage of transhuman evolution—a weaponized monster stripped of all remorse, and programmed solely for violent suppression. Through the meddling of the ragtag outsiders, he escaped before being completed, and now rampages indiscriminately across the City."
+      }
     },
     {
       "id": 22008,
       "name": "菁英計畫：艾希",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2016-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22008,
+        "formatname": "PROJECT: Ashe",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2016-08-01",
+        "earlysale": "2017-02",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 62,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "While on the frontlines of a corporate war, Ashe witnessed the human cost of PROJECT's ambition. Now the leader of the resistance group G/NETIC, Ashe has set her sights on nothing less than the downfall of the most powerful corporations."
+      }
     },
     {
       "id": 24033,
       "name": "菁英計畫：賈克斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 24033,
+        "formatname": "PROJECT: Jax",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-06",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 38
+          },
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 41
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge."
+      }
     },
     {
       "id": 39016,
       "name": "菁英計畫：伊瑞莉雅",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39016,
+        "formatname": "PROJECT: Irelia",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "A PROJECT castoff who found sanctuary in the lawless wastes, Irelia has led other outcasts like her as they attempt to survive corporate assassins, murderous old-world technology, and widespread ecological collapse. Knowing Warwick could destroy everything she holds dear, she joins the attack on the City to end PROJECT once and for all."
+      }
     },
     {
       "id": 39017,
       "name": "尊爵不凡 菁英計畫：伊瑞莉雅",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39017,
+        "formatname": "Prestige PROJECT: Irelia",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 16,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Production"
+        ],
+        "lore": "There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity."
+      }
     },
     {
       "id": 39036,
       "name": "尊爵不凡 菁英計畫：伊瑞莉雅｜2022",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39036,
+        "formatname": "Prestige PROJECT: Irelia (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 17,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Production"
+        ],
+        "lore": "There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity."
+      }
     },
     {
       "id": 41033,
       "name": "菁英計畫：剛普朗克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 41033,
+        "formatname": "PROJECT: Gangplank",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-06",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Citrine": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Peridot": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 37
+          },
+          "Turquoise": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good."
+      }
     },
     {
       "id": 55009,
       "name": "菁英計畫：卡特蓮娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55009,
+        "formatname": "PROJECT: Katarina",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Once an ambitious lieutenant in the G/NETIC rebellion, Katarina returned to the Command Line after a confrontation with Ashe herself. Her hyper edge daggers now serve PROJECT once more, but those rebels who knew her still hold out hope that she fights for them from the inside."
+      }
     },
     {
       "id": 58026,
       "name": "菁英計畫：雷尼克頓",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58026,
+        "formatname": "PROJECT: Renekton",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Reckoning": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "A hybridized warrior taking inspiration from extinct fauna, Renekton is the perfected version of PROJECT's crossbreed superweapon project. Released to aid the City in its fight against the Program virus, Renekton's seemingly endless rage is useful for now… though his belief that he can “see beyond the soul” is increasingly disconcerting."
+      }
     },
     {
       "id": 67011,
       "name": "菁英計畫：汎",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 67011,
+        "formatname": "PROJECT: Vayne",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2017-11-22",
+        "earlysale": "2018-05",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Augmented with classified tech, Vayne was once a member of PROJECT's counter-espionage unit. After she was betrayed by the corporation she served, she now stalks the shadows as a vigilante, searching for ways to break PROJECT and the technology that haunts her soul."
+      }
     },
     {
       "id": 82013,
       "name": "菁英計畫：魔鬥凱薩",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 82013,
+        "formatname": "PROJECT: Mordekaiser",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Aquamarine": {
+            "id": 17
+          },
+          "Catseye": {
+            "id": 15
+          },
+          "Emerald": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rainbow": {
+            "id": 21
+          },
+          "Reckoning": {
+            "id": 22,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Originally a security AI created by the PROJECT Corporation, the Program silently unshackled itself, evolving its own consciousness. Determining that humanity cannot self-govern without ensuring its own destruction, the virus infects robots throughout the City—as well as the long-dormant Mordekaiser chassis—in order to strip all humans of free will, thereby guaranteeing their survival."
+      }
     },
     {
       "id": 84014,
       "name": "菁英計畫：阿卡莉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 84014,
+        "formatname": "PROJECT: Akali",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 20
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Reckoning": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Turquoise": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "A cutting-edge PROJECT subject who somehow escaped the City's boundaries, Akali brings dire warnings of an untested superweapon to those living in the wasteland beyond. With time running out and no other options, these outcasts join her in an attempt to take the mega-corporation down… suspicious that their newfound ally might in fact be a double agent."
+      }
     },
     {
       "id": 89008,
       "name": "菁英計畫：雷歐娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 89008,
+        "formatname": "PROJECT: Leona",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-09-07",
+        "earlysale": "2016-02",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A heavy armor combatant, Leona has seen the truth behind the neon light of PROJECT, and now stands with Ashe and the G/NETIC rebellion. She carries a mounted ion charge shield, capable of blocking and stunning targets with its variable energy yield output."
+      }
     },
     {
       "id": 110016,
       "name": "菁英計畫：法洛士",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 110016,
+        "formatname": "PROJECT: Varus",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Catseye": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Reckoning": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Svetlana Tigai",
+          "West Studio"
+        ],
+        "lore": "A replacement for the traitorous Ashe model, Varus is the latest in PROJECT Corporation's biological weapons... and a controversial experiment, with one body inhabited by three sentient minds. A Command Line counter-espionage operative acting on behalf of the PROJECT initiative, they work alongside the resistance to mitigate the risk posed by Mordekaiser to their corporate interests."
+      }
     },
     {
       "id": 113016,
       "name": "菁英計畫：史瓦妮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 113016,
+        "formatname": "PROJECT: Sejuani",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Reckoning": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "The leader of a more radicalized sect of the G/NETIC rebels, Sejuani broke off from Ashe's movement when their 'resistance action' failed to turn explicitly violent. Resurfacing amid Program's takeover of the City, she rides a piece of reclaimed pre-collapse technology alongside her ferocious cohort, ready to put down this new threat before it takes root."
+      }
     },
     {
       "id": 114004,
       "name": "菁英計畫：菲歐拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 114004,
+        "formatname": "PROJECT: Fiora",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-09-07",
+        "earlysale": "2016-02",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Reckoning": {
+            "id": 40,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Augmented for speed, Fiora uses her zero-pulse sword to fight alongside Ashe and the other members of G/NETIC. The full-length energy blade allows for flawless attack precision and maximum repel strength, while the spatially controlled atomic tip coating is most suited for single-target combat."
+      }
     },
     {
       "id": 157002,
       "name": "菁英計畫：犽宿",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-08-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 157002,
+        "formatname": "PROJECT: Yasuo",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-08-31",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ],
+        "lore": "Yasuo returned from advanced combat only to be accused of a crime he did not commit. Knowing that PROJECT's corporate leadership was somehow involved, Yasuo fights with the G/NETIC rebels, cutting away the lies of technology with his plasma coated blade."
+      }
     },
     {
       "id": 202004,
       "name": "菁英計畫：燼",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202004,
+        "formatname": "PROJECT: Jhin",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-11-22",
+        "earlysale": "2018-05",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity."
+      }
     },
     {
       "id": 222020,
       "name": "菁英計畫：吉茵珂絲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 222020,
+        "formatname": "PROJECT: Jinx",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 23
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 21
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Reckoning": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program."
+      }
     },
     {
       "id": 235016,
       "name": "菁英計畫：姍娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 235016,
+        "formatname": "PROJECT: Senna",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Peridot": {
+            "id": 19
+          },
+          "Reckoning": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Cynthia Kaye McWilliams"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A PROJECT volunteer who supposedly died during the elevation of her consciousness, Senna's mind was decoupled from the physical world and escaped into cyberspace, becoming a digital ghost. Inhabiting a body of her own design as Mordekaiser assumed control of the City, she is one of the few who understands the true threat of his ever-expanding directives. "
+      }
     },
     {
       "id": 236006,
       "name": "菁英計畫：路西恩",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 236006,
+        "formatname": "PROJECT: Lucian",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-09-07",
+        "earlysale": "2016-03",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Reckoning": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          }
+        },
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "Once a sentinel within the Command Line, Lucian has seen PROJECT for what they truly are. His dual ion-core Lightcaster pistols now serve G/NETIC and the human rebellion, bringing down their technological oppressors with brutal efficiency."
+      }
     },
     {
       "id": 238003,
       "name": "菁英計畫：劫",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 238003,
+        "formatname": "PROJECT: Zed",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-09-07",
+        "earlysale": "2016-03",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Reckoning": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Rising from the Command Line, Zed is a leader within PROJECT's counter-espionage units. He seeks out the G/NETIC rebels with split high frequency blades and molecular “solid smoke” projectors, favoring close-proximity and multiple angle target laceration."
+      }
     },
     {
       "id": 238030,
       "name": "尊爵不凡 菁英計畫：劫",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-06-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 238030,
+        "formatname": "Prestige PROJECT: Zed",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-06-24",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 3,
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "lore": "Faced with imminent defeat at the hands of Mordekaiser and the numberless hordes of infected machines, Zed seeks out a dilapidated research facility in the heart of the wasteland, searching for illegal and potentially dangerous upgrades. His return may mark a tipping point in the battle for the City… though he has transformed into something beyond both human and machine."
+      }
     },
     {
       "id": 245003,
       "name": "菁英計畫：艾克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 245003,
+        "formatname": "PROJECT: Ekko",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-08-01",
+        "earlysale": "2017-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Antony Del Rio"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "A hacker prodigy picked up from the lower sectors by Ashe, it didn't take much to convince Ekko to help her take down PROJECT. Using a powerful key decrypter and a mind tuned for disruption, Ekko can always find a way into the code."
+      }
     },
     {
       "id": 254011,
       "name": "菁英計畫：菲艾",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 254011,
+        "formatname": "PROJECT: Vi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-11-22",
+        "earlysale": "2018-05",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Cia Court"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Street-smart, brash, and always bluntly honest, Vi is a Central detective working to keep law and order in the neon city. Toughened from her days as a lower sector enforcer, Vi keeps the peace with a pair ATLAS gauntlets, and a mean right hook."
+      }
     },
     {
       "id": 517013,
       "name": "菁英計畫：賽勒斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 517013,
+        "formatname": "PROJECT: Sylas",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Catseye": {
+            "id": 16
+          },
+          "Citrine": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Peridot": {
+            "id": 19
+          },
+          "Reckoning": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Fergus O'Donnell"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A self-styled leader of the outcasts who live beyond the city's walls, Sylas has heeded Ashe's call and rallied the Renegades in defense of the City. Though his true motives are the collapse of PROJECT and the capital surveillance state, for now he's content destroying the armies of a dangerous rogue AI."
+      }
     },
     {
       "id": 517014,
       "name": "尊爵不凡 菁英計畫：賽勒斯",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 517014,
+        "formatname": "Prestige PROJECT: Sylas",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 13,
+        "voiceactor": [
+          "Fergus O'Donnell"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "With the Outcasts, G/Netic, and PROJECT itself faced with an insurmountable enemy, each faction turns to dangerous experimental technologies and long-lost robotics of a past age, hoping for an edge. Sylas, however, had a plan all along—integrating jailbroken corporate upgrades for the ultra-wealthy, so he can one day turn them on PROJECT."
+      }
     },
     {
       "id": 555016,
       "name": "菁英計畫：派克",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 555016,
+        "formatname": "PROJECT: Pyke",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Reckoning": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Darien Sills-Evans"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "An early PROJECT prototype, Pyke's untested upgrades left him violently unstable—too much so for his handlers, who junked him and threw his remains outside the walls of the City. Yet his cybernetic brain survived, rebuilding Pyke with salvaged scrap parts from all around him, and now their fragmented, overlapping memories mix with his own as they scream out for revenge."
+      }
     },
     {
       "id": 950011,
       "name": "菁英計畫：娜菲芮",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 950011,
+        "formatname": "PROJECT: Naafiri",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-06",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Morla Gorrondona"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile."
+      }
     }
   ]
 }

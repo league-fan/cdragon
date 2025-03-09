@@ -8,16 +8,40 @@
       "name": "真紅の精鋭タロン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-08-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 91002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-08-24",
+        "set": [
+          "Crimson Elite"
+        ],
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "lore": "The Crimson Elite cannot confirm or deny the existence of the agent known as Talon. The bloody trail left behind him serves as a sinister warning to all. Perhaps more disconcerting are the hundreds of undocumented cases that remain undiscovered."
+      }
     },
     {
       "id": 92002,
       "name": "真紅の精鋭リヴェン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-09-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-09-14",
+        "set": [
+          "Crimson Elite"
+        ],
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "lore": "Though officially listed as killed in action, the rogue operative with the broken blade harbors no regrets for abandoning her comrades in their most dire moment. A turncoat become mercenary, she operates in the outer limits of civil society, lending her blade to the highest bidder."
+      }
     }
   ]
 }

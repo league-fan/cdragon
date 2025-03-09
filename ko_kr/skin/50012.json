@@ -159,6 +159,60 @@
     }
   ],
   "description": "스웨인은 수정 장미 축제에서 맺은 동맹이 얼마나 중요한지... 그리고 허술한지 알고 있습니다. 완벽한 행사 진행을 위해 장미의 수호자 자이라와 손을 잡은 스웨인은 자이라의 도움을 받아 역대 가장 성공적인 축제를 열려고 합니다. 그렇게 된다면 스웨인 역시 축제의 설계자로서 칭송받게 될 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50012,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Crystal Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Peridot": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tiffany & Co.": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Worlds 2022 Drop Reward"
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Swain knows how important the alliances formed at the Festival of the Crystal Rose are… and how fragile. His determination to see the event go perfectly has gained him a connection with Zyra, the Rose's protector. With her help, he intends this to be the most successful festival ever—and that he will be celebrated as its architect."
+  }
 }

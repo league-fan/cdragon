@@ -150,6 +150,53 @@
     }
   ],
   "description": "对安宁的渴望带来的不仅仅是一年一度的庆典。从这个普遍的愿望中诞生了精灵迦娜，她的魔力就像花环一样挂在夜空。尽管她被大多数人视为一个传奇人物，但客人们有时会说他们看到一位美丽的女士飘过。或许这就是水晶玫瑰之光的一个小把戏……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-10",
+    "set": [
+      "Crystal Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The desire for peace brought about more than just a yearly festival. Born from this universal wish was Janna, a spirit whose magic hangs like a wreath over the night. Though she's regarded by most as a legend, guests sometimes say they see a beautiful woman float by. Maybe it's a trick of the crystal rose's light..."
+  }
 }

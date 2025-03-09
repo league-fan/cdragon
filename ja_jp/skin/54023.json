@@ -25,6 +25,23 @@
     }
   ],
   "description": "かつては緑があふれていた巨大な外界惑星の残骸であり、砕けた惑星片の集合体がダークスターに吸収されて変質したことで、捻じれた意識を持つようになった。他の者を軌道上に引き寄せては、その通り道にあったものすべてに忘却を解き放っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path."
+  }
 }

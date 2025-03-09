@@ -132,6 +132,51 @@
     }
   ],
   "description": "在神祕的山海卷軸中居住著一個泰坦巨獸，牠的貪食導致了自己永恆的懲罰，科加斯最終抓住了畫軸與多元宇宙的聯繫，計畫吞噬自己的世界、還有其他所有世界。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others."
+  }
 }

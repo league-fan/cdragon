@@ -137,6 +137,54 @@
     }
   ],
   "description": "打爆一路，瘋狂滾雪球也找不回你珍貴的蜂蜜！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96028,
+    "formatname": "Bee'Maw",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-04",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Aquamarine": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Peridot": {
+        "id": 32
+      },
+      "Rainbow": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Snowballing lane won't bring back your precious honey!"
+  }
 }

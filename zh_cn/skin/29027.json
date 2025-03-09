@@ -137,6 +137,56 @@
     }
   ],
   "description": "疯狂的图奇无论在游戏中还是在桌游中都是一个令人恼火的存在，图奇 · 影足则是他在《峡谷勇者》中可爱的另一面。不出所料，这个可爱的鼠人潜行者几乎每个回合都在窃取同伴们的装备。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29027,
+    "formatname": "Twitch Shadowfoot",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-19",
+    "set": [
+      "Rift Quest"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 28
+      },
+      "Amethyst": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'."
+  }
 }

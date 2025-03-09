@@ -25,6 +25,23 @@
     }
   ],
   "description": "The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path."
+  }
 }

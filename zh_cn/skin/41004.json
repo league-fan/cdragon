@@ -33,6 +33,20 @@
     }
   ],
   "description": "普朗克是玩具大军中的模范士兵，在对抗洋娃娃和毛绒玩具的战争中功勋卓著。他希望有朝一日能够成为玩具将军，带领自己的队伍进行光荣的战斗。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "lore": "Gangplank is a model soldier in the toy army, racking up an impressive array of victories against the dolls and stuffed animals. He hopes to one day be named Toy General, leading his troops into glorious battle."
+  }
 }

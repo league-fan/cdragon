@@ -120,6 +120,50 @@
     }
   ],
   "description": "當冰霜女巫看向聳立在遙遠北境那雄偉的真霜冰川時，她看見了一支正被建造中的軍隊。其中首先被雕塑的就是雷珂煞，一具適合冷澈兇狠，正適合乘載女王之力的軀殼。如今，被守望者們的意志賦予了感知力的她，憑藉著頂級掠食者的兇蠻本能，用恐懼統治她的領土。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "voiceactor": [
+      "N/A"
+    ],
+    "lore": "When the Ice Witch looked to the great glaciers of True Ice towering over the far north, she saw an army in the making. Among the first to be sculpted was Rek'Sai, a vessel of chilling savagery befitting a queen's power. Now, granted sentience by the will of the Watchers, she terrorizes domains with the brutal instincts of an apex predator."
+  }
 }

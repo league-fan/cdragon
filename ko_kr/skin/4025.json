@@ -159,6 +159,61 @@
     }
   ],
   "description": "인간인지 다른 어떤 존재인지 알려지지 않은 불가사의한 신사는 발로란시의 모든 범죄 조직에 침투했습니다. 달콤한 말을 내뱉고 사기꾼의 웃음을 지으며 모두에게 시공간 너머의 공포를 받아들이도록 구슬렸죠. 이제 그는 편안히 앉아 서로서로 무너뜨리는 모습을 지켜보기만 할 뿐입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Underground": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "No one knows if the Mysterious Gentleman is human or something Else, but he has somehow injected himself into every crime family in Valoran City. With honeyed words and a conman's grin, he convinced them all to embrace the horrors of the Beyond... Now the only thing to do is sit back and watch them tear each other apart."
+  }
 }

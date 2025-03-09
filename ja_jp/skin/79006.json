@@ -24,6 +24,21 @@
     }
   ],
   "description": "グラガスは飲料業界屈指の権威である。この国際飲料フェスティバル兼ファンミーティングで無数のドリンクを浴びるほど飲んでいるのが、なによりの証明である。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-09-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-09-21",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "lore": "Gragas is the world's premier authority on beverages. Here, at the international beverage festival and funfair, he's drinking a lot of them."
+  }
 }

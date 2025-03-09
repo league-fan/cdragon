@@ -138,6 +138,55 @@
     }
   ],
   "description": "'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 32
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club."
+  }
 }

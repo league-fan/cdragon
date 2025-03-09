@@ -137,6 +137,53 @@
     }
   ],
   "description": "강력한 고대 북극여우의 영혼인 아리는 서리달 교단이 세워질 때부터 함께했습니다. 아리와 교단은 공생 관계를 맺었습니다. 요원들은 아리의 입맛에 맞게 자신의 감정과 기억을 희생하여 스스로를 정화합니다. 그들이 잃은 기억을 수호하는 아리는 공허하고 텅 빈 눈빛의 신도들을 통해 바깥세상을 경험합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103076,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 78
+      },
+      "Emerald": {
+        "id": 82
+      },
+      "Jasper": {
+        "id": 80
+      },
+      "Rose Quartz": {
+        "id": 79
+      },
+      "Ruby": {
+        "id": 77,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 83
+      },
+      "Tanzanite": {
+        "id": 81
+      },
+      "Turquoise": {
+        "id": 84
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An ancient and powerful arctic fox spirit, Ahri has been around since the founding of the Snow Moon order. It is a symbiotic arrangement: agents purify themselves by sacrificing their emotions and memories to her appetite. Ahri is the keeper of their lost memories, experiencing the outside world through her devotees, their eyes now vacant and cold."
+  }
 }

@@ -49,6 +49,35 @@
     }
   ],
   "description": "コマンドラインから昇格したゼドはPROJECTの対スパイ部隊のリーダーだ。彼はG/NETICの反乱者たちを探し出す。微粒子投影機「ソリッド・スモーク」を用いてターゲットに接近し、高周波スプリットブレードで様々な角度から斬り裂くのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238003,
+    "formatname": "PROJECT: Zed",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-03",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reckoning": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Rising from the Command Line, Zed is a leader within PROJECT's counter-espionage units. He seeks out the G/NETIC rebels with split high frequency blades and molecular “solid smoke” projectors, favoring close-proximity and multiple angle target laceration."
+  }
 }

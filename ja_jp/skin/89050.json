@@ -44,6 +44,35 @@
     }
   ],
   "description": "レオナは「粛清」の原因を知っていた──冒涜だ。魔法の消滅は人類の傲慢と、その乱用に対する天罰だったのだ。プリズマエ・クリスタルを信仰する彼女は、それを守ることが自分の聖なる使命だと考えている。その使命とは別に、彼女はプリズマエ・クリスタルにあることを密かに祈っていた──北方へと旅立ち、行方不明となってしまった愛する人、ダイアナを彼女のもとに取り戻してくれることを。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89050,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-06-14",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 51,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Leona knows what caused the purge: blasphemy. Magic's disappearance was retribution for humanity's arrogance and misuse of it. As a worshipper of the Prismae Crystals, she believes it's her sacred duty to protect them. But she also prays to them in secret, hoping they'll bring back her lost love, Diana, who disappeared after journeying to the north."
+  }
 }

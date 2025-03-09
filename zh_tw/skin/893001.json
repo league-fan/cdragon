@@ -160,6 +160,59 @@
     }
   ],
   "description": "做為百獸特攻隊唯一一名研究專家，歐羅拉用她對遠古霸者的理解(以及生物工程的博士學位)來轉譯並應用遠古霸者的科技。雖然她的成果大大改善了百獸特攻隊的裝備，她真正的夢想是幫助世界和她一樣了解遠古霸者。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 893001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 4
+      },
+      "Meteorite": {
+        "id": 8
+      },
+      "Nightwire": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Emeri Chase"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "As Anima Squad's sole research specialist, Aurora uses her understanding of the Primordians (and PhD in bioengineering) to translate and adapt Primordian technology. While her work has led to incredible advancements in Anima Squad's equipment, her true passion is helping the world understand Primordians as she does."
+  }
 }

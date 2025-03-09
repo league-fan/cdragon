@@ -169,6 +169,60 @@
     }
   ],
   "description": "赛娜启程去寻找北极光，但首先遇到的是一个小女孩——安妮，她正独自站在自家门前。她最珍视的童年伙伴——家中的宠物熊，不久前死掉了。安妮希望北极星能复活他，但赛娜拒绝了，只是给了她一只小熊玩偶。“生离死别在所难免，但他的记忆将寄托在这份礼物身上。”",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Rainbow": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Wreathguard": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Senna set off to search for the Aurora, only to encounter the child, Annie, outside her estate. Her most cherished friend was her family's pet bear, who recently died. Annie wished for Polaris to bring him back to life, but Senna refused, and instead presented the bear in toy form. \"Loss is a part of life, but his memories will live inside this gift."
+  }
 }

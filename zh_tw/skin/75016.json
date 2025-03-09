@@ -132,6 +132,55 @@
     }
   ],
   "description": "由維克特打造的全新怪物，狂派機甲納瑟斯部隊，專攻對高優先級目標的針對性檢索。在搜尋獵物的過程中，它們的機甲被寫入了學習和適應的程式，以提升破壞能力，並授權它們清除擋在路上的一切。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Malex Zhang",
+      "Kudos Productions"
+    ],
+    "lore": "The latest monstrosity constructed by Viktor, Battlecast Nasus units specialize in the targeted retrieval of high-priority targets. As they hunt for their quarry, their machinery is programmed to learn and adapt, increasing their destructive capacity and empowering them to obliterate all that would stand in their way."
+  }
 }

@@ -25,6 +25,27 @@
     }
   ],
   "description": "エズリアルの纏うガーラの服装は、王家に相応しい煌びやかなものだ。手作りの鱗と水晶の角を飾り付けた流行の最先端を行く彼は、ひとつの使命のもとに宴を訪れている──それは新年を賑やかに、咆哮でもって迎え入れることだ。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81054,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 44,
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Ezreal's gilded gala garb is fit for royalty. Adorned in hand-crafted scales and crystal horns, this tastemaker came to the party with a mission: ring in the New Year not just with a bang, but a roar."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "After taking a break to recharge her creative spirit, Seraphine is back! Rather than dive straight into a solo tour, she's drawing on the relaxed energy of the Ocean Song Festival to ease herself back into singing. With no setlist, she's going to listen to her audience and let the musical current take her.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "After taking a break to recharge her creative spirit, Seraphine is back! Rather than dive straight into a solo tour, she's drawing on the relaxed energy of the Ocean Song Festival to ease herself back into singing. With no setlist, she's going to listen to her audience and let the musical current take her."
+  }
 }

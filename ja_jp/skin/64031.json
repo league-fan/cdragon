@@ -158,6 +158,63 @@
     }
   ],
   "description": "正義を求める激しい情熱に心を奪われた苦行者の戦士であるリー・シンは豪嵐龍アオ・シンの祝福を受けることを望んで豪嵐龍の山を登った。その山頂から帰還したリー・シンは伝説の龍術師となり、彼を見守る龍の加護を受けながら、世界中の悪に雷鳴の如き罰を与えて回っている。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emberclaw": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Jadeclaw": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 34
+      },
+      "Tanzanite": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A warrior ascetic consumed with an electric passion for justice, Lee Sin climbed the mountain of the storm dragon Ao Shin, hoping to receive his blessing. Having returned from the summit as a legendary Dragonmancer, Lee Sin now doles out thunderous punishment to villains everywhere—ever under the watchful eye of his draconic patron."
+  }
 }

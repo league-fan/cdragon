@@ -121,6 +121,45 @@
     }
   ],
   "description": "圖奇是一個尖刻，總是讓人恨得牙癢癢的生物。他從遠古時期就開始從他的冰封地洞中嫉妒地注視著凜冬之地。終於，他那扭曲的妄想驅使他踏上地表，預謀篡奪普羅王的寶位，並用一種古老的寒冰詛咒腐蝕他的臣民們。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 14
+      },
+      "Rainbow": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Mingchen Shen",
+      "West Studio"
+    ],
+    "lore": "Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse."
+  }
 }

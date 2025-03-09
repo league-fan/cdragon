@@ -120,6 +120,50 @@
     }
   ],
   "description": "북쪽 끝에 우뚝 솟은 거대한 얼음 정수 빙하를 본 얼음 마녀는 군대가 만들어지는 광경을 목격했습니다. 가장 먼저 탄생한 존재는 여왕의 힘에 어울리는 오싹한 포악성을 지닌 렉사이였습니다. 주시자들의 의지로 각성한 렉사이는 최상위 포식자에 걸맞은 잔인한 본능으로 사방을 공포로 물들입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "voiceactor": [
+      "N/A"
+    ],
+    "lore": "When the Ice Witch looked to the great glaciers of True Ice towering over the far north, she saw an army in the making. Among the first to be sculpted was Rek'Sai, a vessel of chilling savagery befitting a queen's power. Now, granted sentience by the will of the Watchers, she terrorizes domains with the brutal instincts of an apex predator."
+  }
 }

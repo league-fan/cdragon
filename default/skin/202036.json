@@ -160,6 +160,60 @@
     }
   ],
   "description": "Don't ask him how, but this twisted mentor can unlock ANY person's soul power under the right conditions! Just be prepared, because his trials are deadly! He's ready to put his art on full display on the world's biggest stage and maybe even get some revenge on a bounty hunter along the way! Let's give it up for… Jhin!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-03",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 43
+      },
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Limitless": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Don't ask him how, but this twisted mentor can unlock ANY person's soul power under the right conditions! Just be prepared, because his trials are deadly! He's ready to put his art on full display on the world's biggest stage and maybe even get some revenge on a bounty hunter along the way! Let's give it up for… Jhin!"
+  }
 }

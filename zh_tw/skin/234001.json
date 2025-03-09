@@ -136,6 +136,53 @@
     }
   ],
   "description": "維爾戈曾是一支往昔的牛年特戰隊隊長。他做出決定，要與年獸作戰並最終擊敗牠。這個計畫以悲劇收場：他眼睜睜地看著他的隊友們被盡數吞噬 ─ 包括他的妻子。多年來，維爾戈一直對這些損失耿耿於懷，怪罪除了自己以外的所有人 ─ 包括今年的牛年特戰隊。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-21",
+    "set": [
+      "Lunar Beast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 3
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 6
+      },
+      "Turquoise": {
+        "id": 5
+      },
+      "Vitality": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Former leader of a past Lunar Ox Squad, Viego decided that they would fight the Lunar Beast and actually defeat it. His plan ended in tragedy as he watched the rest of his squad be devoured"
+  }
 }

@@ -142,6 +142,56 @@
     }
   ],
   "description": "프로젝트의 실험으로 인해 전혀 다른 존재가 되어 버린 사냥개 나피리는 대상의 의식을 자신의 의식과 동화할 수 있게 되었습니다. 이 능력의 가능성을 본 모데카이저는 나피리의 프로그래밍을 감염시켜 인류의 자유 의지를 모두 제거하라는 새로운 임무를 부여했죠. 이제 나피리는 모든 생존자에게 저항은 무의미하다는 걸 증명해 보일 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 950011,
+    "formatname": "PROJECT: Naafiri",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Morla Gorrondona"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile."
+  }
 }

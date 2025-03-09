@@ -170,6 +170,63 @@
     }
   ],
   "description": "ブランドの穢れが広がる中で、カルマは平和を取り戻すことができる力を求めた。だが数多の土地を探し回っても、カルマはその力を見つけるには至らなかった。そんな彼女にも、唯一探していない場所があった。それは自らの内面である。幾月にも渡る沈思黙考を続けた彼女は、己の精神の中に伝説の静逸龍を見た。そして、彼女は龍の恩寵と共に目覚めた──ブランドの荒れ狂う暴力に対峙し、静逸なる平和をもたらす力と共に。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 50
+      },
+      "Aquamarine": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 49
+      },
+      "Emberclaw": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 47,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Yuhong Ding",
+      "West Studio"
+    ],
+    "lore": "As Brand's corruption spread, Karma sought the power to restore peace. When her desperate search throughout the land failed, Karma was left with nowhere left to look but within. After months of quiet contemplation, the fabled Tranquility Dragon greeted her in a vision. She awoke with the dragon's gift, the power to bring tranquil peace to face Brand's raging violence."
+  }
 }

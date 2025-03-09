@@ -24,6 +24,24 @@
     }
   ],
   "description": "A contemporary wrestler beloved the world over, El Tigre's roar is the bellow of a people's champion. He is a friend to all… but can still scissor kick a two hundred pound cage fighter right out of the ring.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-01-21",
+    "set": [
+      "Luchador"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A contemporary wrestler beloved the world over, El Tigre's roar is the bellow of a people's champion. He is a friend to all… but can still scissor kick a two hundred pound cage fighter right out of the ring."
+  }
 }

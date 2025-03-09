@@ -24,6 +24,24 @@
     }
   ],
   "description": "2013년 공식 라이엇 게임즈 이벤트에 참석하거나 라이엇 게임즈 직원을 만나 획득한 라이엇 게임즈 스킨입니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-10-21",
+    "set": [
+      "Riot"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2013."
+  }
 }

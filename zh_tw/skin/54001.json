@@ -24,6 +24,17 @@
     }
   ],
   "description": "墨菲特是一位二十噸重的石頭人，曾經屬於一塊更加大型的巨岩，而這塊巨岩在被摧毀時將他如同孤兒般遺留在了一個明顯不像岩石的實體表面。我想這傢伙應該用掉了一點好運氣。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-03-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-03-16",
+    "retired": "2011-11-28",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "lore": "Malphite is a twenty-ton rock man who used to be part of an even larger rock that was destroyed, leaving him orphaned on a distinctly un-rocklike plane of existence. The guy could use a little luck."
+  }
 }

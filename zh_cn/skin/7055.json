@@ -196,6 +196,39 @@
     ]
   },
   "description": "记住，乐芙兰，你是隐忍的守护者。你代表着谋略、理性、和巧思，用诡术欺骗那些自以为是的人，守护我的力量。我们的力量。  最重要的是，引领我的天选者历经试炼，让世人永远铭记不死大魔王。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+    "release": "2024-06-12",
+    "set": [
+      "Risen Legends"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Mythclimber": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Hall of Legends Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Immortalized Legend Collection Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King."
+  }
 }

@@ -12,112 +12,562 @@
       "name": "ドレイヴン",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2012-06-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-06-05",
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "In Noxus, warriors known as reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, not to mention the spray of blood from each of his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more."
+      }
     },
     {
       "id": 119001,
       "name": "魂の死神ドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-06-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-06-05",
+        "set": [
+          "Death Sworn"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "As arrogant in undeath as he was in life, Draven torments those of the underworld with a penchant for terror and style. Though his audience may not be as lively as once was, he still enjoys a good groan from his next victim."
+      }
     },
     {
       "id": 119002,
       "name": "剣闘士ドレイヴン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-03-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-25",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ]
+      }
     },
     {
       "id": 119003,
       "name": "スーパースター ドレイヴン",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-06-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-06-20",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 8
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "lore": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again."
+      }
     },
     {
       "id": 119004,
       "name": "プールパーティ ドレイヴン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-06-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-06-25",
+        "earlysale": "2016-01",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "His sunscreen smells like a tire factory, and he keeps shouting about how good he is at everything. But the real kicker is that Draven never gets sunburned, and he is legitimately good at everything. It's a terrifying marriage of skill, unblemished skin, and… well, Draven."
+      }
     },
     {
       "id": 119005,
       "name": "野獣を狩る者ドレイヴン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-02-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-02-04",
+        "earlysale": "2016-08",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "In addition to being one of the best beast hunters on the mainland, Draven is a master of the spinning blade, and also an incorrigible showboat. This quality has led to many of his hunting partners being eaten, which he likes because it causes dramatic tension."
+      }
     },
     {
       "id": 119006,
       "name": "ドレイヴン・ドレイヴン",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "500",
-      "wikiReleaseDate": "2016-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119006,
+        "formatname": "Draven Draven",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 500,
+        "release": "2016-03-31",
+        "set": [
+          "Definitely Not"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Not Draven, Draaaaaaven."
+      }
     },
     {
       "id": 119012,
       "name": "サンタ ドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119012,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-12-12",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Draven always knew he would make the perfect Santa. He's handsome, his hair is incredible, he has a great sense of fashion, he's defeated hundreds in the Noxian fighting pits, and his flying axes are super sharp—the perfect Santa, more or less."
+      }
     },
     {
       "id": 119013,
       "name": "三国武神ドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-01-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-15",
+        "set": [
+          "Mecha Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Peacekeeper": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mecha Kingdoms 2019"
+          },
+          "Rose Quartz": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "lore": "Once a promising general of Vercentia, Draven no longer wished to fight for someone else's glory. Now living his best life as an independent mercenary, he has made a name for himself and his showmanship in battle. To this day, how he managed to acquire the resources necessary to craft an Avalon remains a mystery…"
+      }
     },
     {
       "id": 119020,
       "name": "滅びのドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-21",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Citrine": {
+            "id": 22
+          },
+          "Cursed": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "A showman no matter the circumstance, Draven challenged Viego to a duel that the Glorious Executioner immediately lost, resulting in his ruination. Unlike his ruined brethren, little has changed about Draven save for a white shock hair on his head and a slightly more vicious personality than usual."
+      }
     },
     {
       "id": 119029,
       "name": "おしゃれなドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 31
+          },
+          "Cerulean Club": {
+            "id": 38,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 34
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "An infamous club host known for his daredevil attitude while performing envenomed party tricks, Draven is loved and hated by the Nox Vegas strip in equal measure. He possesses a talent for drawing both the curiosity of entertained onlookers and the ire of resort owners cleaning up after his messes."
+      }
     },
     {
       "id": 119039,
       "name": "恐怖の夜ドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-22",
+        "set": [
+          "Fright Night"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 41
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Park Jun Seong",
+          "West Studio"
+        ],
+        "lore": "Draven's vivid violence gives everyone a fright<br>Hide 'n' seek is higher stakes these days at night<br>“There's no escape for you,” he cackles with delight<br>But say his name three times with praise, and he might forget the fight!"
+      }
     },
     {
       "id": 119048,
       "name": "ラ・イルシオン ドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119048,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-09-27",
+        "set": [
+          "La Ilusión"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 51
+          },
+          "Pearl": {
+            "id": 56
+          },
+          "Rose Quartz": {
+            "id": 54
+          },
+          "Ruby": {
+            "id": 49,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Tanzanite": {
+            "id": 52
+          },
+          "Turquoise": {
+            "id": 53
+          },
+          "Vivida": {
+            "id": 57,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "La Ilusión Megabundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Draven always dreamed of going out in a blaze of glory during his daredevil act, but when he got his wish, nobody was around to savor it. Only slightly humbler as an Eidola Muerte, Draven's found his kin within the Ego Family and spends his time spotting other glory hounds among the living, using his manipulative Ardor powers to send them off in style."
+      }
     },
     {
       "id": 119058,
       "name": "最後の清算ドレイヴン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2025-03-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119058,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-03-05",
+        "set": [
+          "Grand Reckoning"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 60
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Obsidian": {
+            "id": 66
+          },
+          "Paragon": {
+            "id": 67,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 59,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 63
+          },
+          "Tanzanite": {
+            "id": 64
+          },
+          "Turquoise": {
+            "id": 62
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "lore": "“The master of ceremonies, the host with the most, the axe-spinning icon of the arena himself... DRRRRRRRRRRRRRRRAVEN!” The crowd goes wild for his entrance, bursting into raucous applause. Adoration never gets old—and a show where he takes center stage is music to Draven's ears. Oh, and Darius is being celebrated too."
+      }
     }
   ]
 }

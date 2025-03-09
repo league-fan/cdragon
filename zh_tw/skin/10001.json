@@ -24,6 +24,23 @@
     }
   ],
   "description": "給予那些購買限時販售造型的英雄聯盟玩家。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2009-11-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10001,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Retail Purchase",
+    "cost": "Special",
+    "release": "2009-11-13",
+    "set": [
+      "Collector's Edition"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends."
+  }
 }

@@ -142,6 +142,54 @@
     }
   ],
   "description": "늑대여, 창병이 선택받은 이유는 무엇입니까? 당신의 시선을 사로잡은 것은 그 기백입니까, 굳건함입니까? 어느 쪽이든 그는 주어진 일을 해냈습니다. 녹서스 대장군의 첫 번째 시험 상대로 걸맞은 자였습니다. 이제 그에게는 어떤 운명이 기다릴까요? 창병은 다시 한번 자신의 가치를 증명하고 사냥에 합류할 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Why was the spearman chosen, dear Wolf? Did his spirit catch your eye, or was it his steadfastness? Regardless, he has done what was asked of him. He was a worthy first test for the mighty Noxian general. What fate awaits him now? He will prove his worth once more, and join the hunt."
+  }
 }

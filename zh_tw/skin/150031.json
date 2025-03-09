@@ -160,6 +160,60 @@
     }
   ],
   "description": "吶兒從小被遺棄在街頭，多年來顛沛流離辛苦度日，他詛咒自己的不幸，直到一個同為孤兒的溫柔女孩遇到他。一開始，她只是來送他食物，久而久之他們成為了好朋友。只不過天意弄人，有一天吶兒突然病倒，然後就離世了。不過，他們之間的親情，讓吶兒死後變為掌生幽魂回到人間。現在他已隨時準備好保護自己的家人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 38
+      },
+      "Turquoise": {
+        "id": 37
+      },
+      "Vivida": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "Abandoned to the streets, Gnar spent years scraping by, snarling at his misfortune, until he was found by a gentle orphaned girl. What started as simple gifts of food blossomed into a loving friendship, only for Gnar to suddenly fall ill and pass. Because of their familial love, Gnar now returns as an Eidola Vida, ready to protect his family from danger."
+  }
 }

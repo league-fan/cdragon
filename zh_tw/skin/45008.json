@@ -43,6 +43,30 @@
     }
   ],
   "description": "維迦原本僅是一個擁有拿破崙複合體的迷你魔王，但他滲透了電玩世界的程式碼，召喚了成千上萬屬於他那方的其餘魔王。在達成終極目標 ─ 佔領世界，並結束那些英雄們的遊戲 ─ 之前，他們是絕不會停下腳步的。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-08-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-08-27",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "lore": "Once merely a mini-boss with a Napoleon complex, Veigar has ripped into the code of Arcade World to summon hundreds of other bosses to his side. Together they'll stop at nothing to reach his ultimate goal: take the world for himself, and give the heroes a final Game Over."
+  }
 }

@@ -133,6 +133,56 @@
     }
   ],
   "description": "“The master of ceremonies, the host with the most, the axe-spinning icon of the arena himself... DRRRRRRRRRRRRRRRAVEN!” The crowd goes wild for his entrance, bursting into raucous applause. Adoration never gets old—and a show where he takes center stage is music to Draven's ears. Oh, and Darius is being celebrated too.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119058,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-03-05",
+    "set": [
+      "Grand Reckoning"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Paragon": {
+        "id": 67,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 63
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "“The master of ceremonies, the host with the most, the axe-spinning icon of the arena himself... DRRRRRRRRRRRRRRRAVEN!” The crowd goes wild for his entrance, bursting into raucous applause. Adoration never gets old—and a show where he takes center stage is music to Draven's ears. Oh, and Darius is being celebrated too."
+  }
 }

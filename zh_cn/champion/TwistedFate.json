@@ -13,128 +13,497 @@
       "name": "卡牌大师",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "585",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "lore": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve."
+      }
     },
     {
       "id": 4001,
       "name": "蓝色忧郁 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-09-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Code Redemption",
+        "cost": "Special",
+        "release": "2009-09-03",
+        "set": [
+          "PAX"
+        ],
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "lore": "A special event skin given away at PAX 2009."
+      }
     },
     {
       "id": 4002,
       "name": "红桃杰克 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-02-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-10",
+        "set": [
+          "Highstakes"
+        ],
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Second, the Jack, with a thunderous crack<br>Trounces fate in the blink of an eye!<br>In winnings he counts all the hearts of the court<br>Who will swoon every time he walks by."
+      }
     },
     {
       "id": 4003,
       "name": "魔幻卡牌 崔斯特",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-05-17",
+        "retired": "2012-07-16",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ]
+      }
     },
     {
       "id": 4004,
       "name": "探戈灵魂 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-10-05",
+        "set": [
+          "High Society"
+        ],
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      }
     },
     {
       "id": 4005,
       "name": "西部牛仔 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-17",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ],
+        "lore": "Resident cardsharp of every dice parlour and gambling den on the high frontier, Tobias 'Twisted Fate' Felix likes to split his time between Buzzard Gulch, and the more civilized border towns. He specializes in breaking the hearts and bank accounts—in either order—of amiably naive debutantes."
+      }
     },
     {
       "id": 4006,
       "name": "皇家火枪手 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-21",
+        "set": [
+          "Fables"
+        ],
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "lore": "Twisted Fate was never supposed to be among the Order of the Musketeers, especially coming from a lowborn family. But his charm and quick wit—along with his skill in combat—helped him save the monarchy from a dastardly plot, earning him a place among the elite. Unfortunately for them, he prefers swashbuckling adventures to his actual duty."
+      }
     },
     {
       "id": 4007,
       "name": "地底世界 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "For those dreading their inevitable meeting with Death, Twisted Fate offers another path. If they win his game of chance, a life of luxury awaits them. If they lose, he gladly adds yet another card to his ever-growing deck of doomed souls."
+      }
     },
     {
       "id": 4008,
       "name": "逆转裁判 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-06-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-06-18",
+        "retired": "2017-11-01",
+        "set": [
+          "Soccer Cup"
+        ],
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "lore": "Tobias spends much of his spare time as a sanctioned referee for Order United matches. Sure, there are card games to cheat at, and gambling parlors to swindle, but it just doesn't compare to a heated game of soccer."
+      }
     },
     {
       "id": 4009,
       "name": "逍遥赌侠 崔斯特",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-07-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-07-21",
+        "earlysale": "2016-01",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Looking to hire some muscle for an above-the-board, highly legitimate business venture? Look no further than Twisted Fate and his furry companion Graves, two men who will do anything (and we mean anything) to anybody (and we mean anybody) for the right price (any price). Inquire within!"
+      }
     },
     {
       "id": 4010,
       "name": "腥红之月 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-02-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "The Blood Moon cult's true leader is shrouded in whispers and hearsay. It is he who first passed the trial of the masks, and he who unraveled the secrets of surrendering one's flesh to the demon spirits. Whether he is still human, none can say—but he is ever present, and always watching."
+      }
     },
     {
       "id": 4011,
       "name": "未来战士 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4011,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Pulsefire"
+        ],
+        "cost": 1350,
+        "release": "2018-05-17",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Chrono": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          }
+        },
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…"
+      }
     },
     {
       "id": 4013,
       "name": "奥德赛 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-15",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 17
+          },
+          "Catseye": {
+            "id": 16
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Merc": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 18
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A space smuggler erroneously known for discretion, as well as his impractically famous ship, The Wildcard, Twisted Fate was hired by Karma to free some templars from some space pirates. He has only just begun to notice that the other mercs on the job are better known for wetwork than simple heists..."
+      }
     },
     {
       "id": 4023,
       "name": "DWG 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4023,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-29",
+        "set": [
+          "World Champions: 2020"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Honoring ShowMaker's winning performance as Twisted Fate during the 2020 World Championship."
+      }
     },
     {
       "id": 4025,
       "name": "地下都市 梦魇 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-08-26",
+        "set": [
+          "Crime City Nightmare"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Catseye": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          },
+          "Underground": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Crime City 2021"
+          }
+        },
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "No one knows if the Mysterious Gentleman is human or something Else, but he has somehow injected himself into every crime family in Valoran City. With honeyed words and a conman's grin, he convinced them all to embrace the horrors of the Beyond... Now the only thing to do is sit back and watch them tear each other apart."
+      }
     },
     {
       "id": 4036,
       "name": "太空律动 “万能舞王” 崔斯特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 4036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-17",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Obsidian": {
+            "id": 43
+          },
+          "Rainbow": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 42
+          },
+          "Turquoise": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "He may be a scoundrel, but Twisted Fate is known the galaxy over as someone who gets things done. But even he can't find a trace of his long lost partner, Graves. So when some cats offered him intel on Graves' whereabouts in exchange for the location of the legendary underground disco, The Jam, he happily obliged. What's a few party crashers, anyway?"
+      }
     }
   ]
 }

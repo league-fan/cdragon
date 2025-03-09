@@ -119,6 +119,51 @@
     }
   ],
   "description": "모두 빛과 아름다움의 축복 왕국을 통치하는 카르마 여왕 폐하를 찬양하십시오! 카르마가 선택받아 왕좌에 오른 것은 귀족, 평민, 심지어 카르마에게도 놀라운 일이었지만, 카르마는 균형과 권력의 등대이며 계절의 순환을 살피고, 끝없이 다투는 속국 간의 균형을 유지합니다. 여왕 폐하, 만수무강하소서!",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Winsome": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "All hail Her Majesty, Karma, Queen of the Seelie Court of Light and Beauty! Though her selection and subsequent rise to the throne was a surprise to everyone (nobles, laymen, even Karma herself), she is a beacon of poise and power, overseeing the turning of seasons and keeping the balance between the ever-bickering seasonal sub-courts. Long live the Queen!"
+  }
 }

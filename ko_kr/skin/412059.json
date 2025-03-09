@@ -137,6 +137,54 @@
     }
   ],
   "description": "윤리적으로 의심스러운 해골 얼굴을 한 쓰레쉬라는 이름의 관리인을 고용할 만한 곳은 많지 않습니다. 하물며 주식 중개 회사는 말할 것도 없죠. 하지만 사람을 보는 눈이 없었다면 문도는 조 단위 부자가 되지 못했을 겁니다. 더러운 돈을 악마 청소부보다 더 잘 세탁할 수 있는 사람이 어디 있겠어요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412059,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-11",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 62
+      },
+      "Meteorite": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 60,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Tanzanite": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "There aren't many places, let alone stock brokerage firms, that will hire an ethically questionable, skull-faced custodian named Thresh, but Mundo wouldn't be a trillionaire if he didn't know a good bet when he saw one. Who better to clean up dirty money than a demon janitor?"
+  }
 }

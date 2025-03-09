@@ -160,6 +160,59 @@
     }
   ],
   "description": "The Ruination of Targon and the loss of the Aspect of War devastated the Rakkor tribes. But the only way to fight an Aspect's power is with another Aspect—and so Diana takes up her blade as a member of the Sentinels, knowing that Viego would destroy everything the moonlight touches.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-08",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Resolute": {
+        "id": 36,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 32
+      },
+      "Tanzanite": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "The Ruination of Targon and the loss of the Aspect of War devastated the Rakkor tribes. But the only way to fight an Aspect's power is with another Aspect—and so Diana takes up her blade as a member of the Sentinels, knowing that Viego would destroy everything the moonlight touches."
+  }
 }

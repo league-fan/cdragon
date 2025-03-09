@@ -24,6 +24,21 @@
     }
   ],
   "description": "噢，比尔吉沃特已成为我的家园，<br>自打我上次航海时！<br>但我并未再留一天，<br>因我宁愿外出捕鲸。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2011-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2011-01-10",
+    "retired": "2013-07-18",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "lore": "O, Bilgewater has been my home,<br>Since last time I was sailing!<br>But I'll not stay another day,<br>I'd sooner be out whaling."
+  }
 }

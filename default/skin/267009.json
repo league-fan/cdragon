@@ -96,6 +96,45 @@
     }
   ],
   "description": "An aquatic search and rescue med-bot whose manufacturer was acquired in an aggressive corporate takeover, Nami has been irreversibly changed by the directives of Program. For now, she continues in her primary function… though her behavior has become increasingly erratic.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-15",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Pyeongjun Park"
+    ],
+    "lore": "An aquatic search and rescue med-bot whose manufacturer was acquired in an aggressive corporate takeover, Nami has been irreversibly changed by the directives of Program. For now, she continues in her primary function… though her behavior has become increasingly erratic."
+  }
 }

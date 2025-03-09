@@ -137,6 +137,55 @@
     }
   ],
   "description": "They're like two bees in a pod. Err… in a hive?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20026,
+    "formatname": "Nunu & Beelump",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-03",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rainbow": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Tanzanite": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "They're like two bees in a pod. Err… in a hive?"
+  }
 }

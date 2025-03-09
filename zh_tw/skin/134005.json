@@ -48,6 +48,29 @@
     }
   ],
   "description": "紀念 Faker 在 2016 世界大賽中使用星朵拉贏得世界冠軍的精采表現。這是 Faker 在 2013 及 2015 兩次贏得世界冠軍後的第三個世界冠軍造型。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-06-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-06-27",
+    "set": [
+      "World Champions: 2016"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 64,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Immortalized Legend Collection Exclusive"
+      }
+    },
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Honoring Faker's winning performance as Syndra during the 2016 World Championship. This is Faker's third World Champion skin, following his wins with SKT at the 2013 and 2015 World Championships."
+  }
 }

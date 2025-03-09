@@ -137,6 +137,54 @@
     }
   ],
   "description": "지옥 불꽃의 영혼에 사로잡힌 카르마는 한때 그림자 불꽃 사원의 강력한 화염술사였습니다. 불꽃의 영혼을 통제할 수 있다고 믿은 카르마는 잿빛 군주의 군림이 끝나길 바라며 불꽃의 영혼을 사로잡았지만 다른 이들과 마찬가지로 지옥불 앞에 무릎을 꿇고 말았습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Aquamarine": {
+        "id": 64
+      },
+      "Catseye": {
+        "id": 63
+      },
+      "Pearl": {
+        "id": 69
+      },
+      "Peridot": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Possessed by a spirit of the Infernal flame, Karma was once a powerful pyromancer of the Shadowfire Temple. Believing it possible to control the flame spirit, she captured it hoping to put an end to the Ashen Lord's reign but succumbed to the hellfire like all the rest."
+  }
 }

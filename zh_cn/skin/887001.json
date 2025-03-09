@@ -160,6 +160,59 @@
     }
   ],
   "description": "发生了一件出奇的事情，那就是格温申请担任拉克丝和莎弥拉的军需官——毕竟，没有人这么做过。她兴致勃勃地把悦耳颤音缝进漂亮的衣服里，并用她精致的丝线增幅迪斯科能量。尽管她对这场星系英雄演出来说是个新人，但有一件事情是可以确认的：格温绝不会让她的朋友们穿着未达星级的服装去解救这个星系。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 887001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Citrine": {
+        "id": 8
+      },
+      "Disco": {
+        "id": 9,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Abby Trott"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "It was pretty far out when Gwen applied to be Lux and Samira's quartermaster—after all, no one else did. Cheerfully sewing good vibes into great clothes, she amplifies disco energy through her nifty threads. Though she's new to this whole galactic hero gig, one thing's for sure: no way Gwen lets her friends liberate the galaxy in less-than-stellar outfits."
+  }
 }

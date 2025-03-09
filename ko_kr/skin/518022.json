@@ -138,6 +138,54 @@
     }
   ],
   "description": "니코는 연례 축제에서 입을 의상을 살 필요가 없습니다. 대신 모습을 바꾸는 재능과 형상변환 주문으로 멋지게 변장하죠. 잠깐... 이 파티에 니달리가 두 명이라고요? 아뇨, 그건 식상한 장난을 치는 니코랍니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518022,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Hendry Iwanaga",
+      "Caravan Studio"
+    ],
+    "lore": "Neeko never remembers to buy a costume for the yearly festivities. Her delightful disguises come courtesy of her transfigurative talents and shapeshifting spells. Wait… are there two Nidalees at this party? Nope. That's just Neeko, pulling one of her classic pranks."
+  }
 }

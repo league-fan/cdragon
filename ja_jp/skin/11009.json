@@ -25,6 +25,27 @@
     }
   ],
   "description": "初期コンセプトモデルの一人であるイーは大規模実験のためPROJECTに拘束されていたが、反乱軍であるG/NETICの手によって解放された。彼の精神にはまだ欠陥が残っているかもしれないが、試作品のハイパーライト“アルファ”ブレードの正確無比なバランスをもって反乱軍に協力する。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11009,
+    "formatname": "PROJECT: Yi",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2015-09-07",
+    "earlysale": "Ineligible",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Greg Chun"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "One of the first concepts, Yi was held by PROJECT for extensive experimentation, and then finally freed by the G/NETIC rebels. His psyche may still contain some glitches, but his experimental hyperlight “alpha” blade serves the resistance with its precision balance."
+  }
 }

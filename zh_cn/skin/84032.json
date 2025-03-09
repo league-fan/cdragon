@@ -148,6 +148,57 @@
     }
   ],
   "description": "刚刚与“真实伤害”一起大获成功后，阿卡丽与她的锋芒毕露和标新立异一起热力全开地登上了舞台。她凭借手中的麦克风引燃全场并将乐队推到风口浪尖，因为这就是至坏之人(BADDEST)会做的事。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84032,
+    "formatname": "K/DA ALL OUT Akali",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-29",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "BADDEST": {
+        "id": 47,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Peridot": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 44
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Fresh off her success with True Damage, Akali hits the stage full-throttle with her bold edge and fresh new direction. She spits fire with a mic in hand and pushes the band to the bleeding edge, because that's what the baddest do."
+  }
 }

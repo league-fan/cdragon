@@ -33,6 +33,26 @@
     }
   ],
   "description": "维克兹的战地机甲根据他死亡之前的本体设计而成，这些可怕的作战怪物肆意地向人口密集区域倾泻着自己的能量光束。他们还通过这些作战数据自动调节整支舰队的武器系统，让战地机甲的部队成为游击军更大的威胁。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-02-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-02-27",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An airborne data collection unit based on the now-extinct Vel'Koz lifeform, these Battlecast monstrosities sweep their concentrated energy beams over heavily populated areas. Survey data from the lifeless wreckage automatically calibrates the entire fleets' weapons systems, making the units a deadlier threat with every skirmish."
+  }
 }

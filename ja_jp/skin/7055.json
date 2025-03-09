@@ -187,6 +187,39 @@
     ]
   },
   "description": "ルブランよ、我が忍耐の守り手としての義務を忘れるな。お前は戦術、緻密、知恵を象徴するあらゆるものを体現し、我が力を得る価値があると考える者たちを欺くのだ。これは私とお前の力だ。そして何よりも、試練に挑む我が選ばれし者を導き、大魔王の名の下に、多くの者たちに影響を与えるのだ。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+    "release": "2024-06-12",
+    "set": [
+      "Risen Legends"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Mythclimber": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Hall of Legends Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Immortalized Legend Collection Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King."
+  }
 }

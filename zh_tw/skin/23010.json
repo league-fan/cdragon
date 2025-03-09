@@ -130,6 +130,50 @@
     }
   ],
   "description": "惡魔泰達米爾已經完全控制了他所附身的凡人之驅，用它非人的力量在人界與魔界之間的結界上砍出了多道綻開的裂縫。他毫不在乎那些對其他惡魔來說足以致命的傷口，因為這些傷口將能進一步點燃他難以抑制的狂暴怒火，盡而使得他得以最終看見世間萬物被血月所吞噬。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 23010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 13,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Brian Sommer"
+    ],
+    "lore": "The demon Tryndamere has fully assumed control over his twinned human body, using its inhuman strength to slash gaping wounds in the veil between the human and demonic realms. Shrugging off wounds considered fatal even to other demons, his is an unstoppable, unquenchable rage that would see all things consumed by the Blood Moon."
+  }
 }

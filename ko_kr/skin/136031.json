@@ -129,6 +129,52 @@
     }
   ],
   "description": "별자리가 유물을 만들었을 때, 그 자리에는 아우렐리온 솔이 있었습니다. 그와 다른 열한 명은 최초로 별자리 유물을 지키는 과업을 수행하는 영광을 얻었으며 최초로 별자리의 힘을 부여받았습니다. 수 세기 후, 고대 위협에 맞서는 데 그의 도움이 절실했던 용족 후손은 아우렐리온 솔을 불러냈습니다. 그 위협은 아우렐리온 솔이 익히 아는 것이었죠.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Opulent": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Zodiac forged their relics, Aurelion Sol was there. With him, eleven others: the first to be humbled with the task of guarding the artifacts, the first to be granted their powers. Centuries later, Aurelion Sol is summoned forth by his draconic descendant, desperate for his help against an ancient threat with which he is all too familiar."
+  }
 }

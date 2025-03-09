@@ -147,6 +147,57 @@
     }
   ],
   "description": "상위 세계의 집행자인 그는 끊임없이 앞으로 나아가며 앞에 있는 자를 짓밟는 한편 뒤에 남은 자에게 새로운 운명을 개척해 줍니다. 그는 별 사이에서 피어나는 운명의 사랑이 야기할 재앙을 막기 위해 하위 세계의 라칸을 저지하려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 28,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Enforcer of the Higher World, his ever-forward motion crushes those before him while carving new fates for those left in his wake. He seeks to stop Rakan of the Lower World and prevent the calamitous disaster that will result from a fated love blooming betwixt the stars."
+  }
 }

@@ -883,6 +883,82 @@
     }
   },
   "description": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利剑圣 易】作为奖励。那些认为自己有资格学习无极之道的人，必须前往圣地朝圣——那里居住着无极之道的真正大师。尽管许多人在他的指导下修炼过，但在经受考验时，他们都被发现有所欠缺。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11106,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 3.",
+    "release": "2025-01-09",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 107,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Challenger": {
+        "id": 115,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Diamond": {
+        "id": 112,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Emerald": {
+        "id": 111,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Gold": {
+        "id": 109,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Grandmaster": {
+        "id": 114,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Master": {
+        "id": 113,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Platinum": {
+        "id": 110,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      },
+      "Silver": {
+        "id": 108,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 3"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Victorious Master Yi was earned by players who accumulated enough split points in Ranked. Those who believe themselves worthy of learning the art of Wuju must make the pilgrimage to where its true master resides. Though many have studied under his tutelage, when put to the test, they have all been found wanting."
+  }
 }

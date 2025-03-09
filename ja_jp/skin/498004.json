@@ -73,6 +73,41 @@
     }
   ],
   "description": "数年前、ラカンは恋人のザヤとともにゾーイと戦い、そして敗れた。その後二人は蘇生され、かつての仲間たちと戦うように仕向けられた──そして、ザヤはその使命を喜んで受け入れた。彼女は自分を見捨てたスターガーディアンたちを責め、恨みと復讐心を力に変えて戦い続ける。その心の内に、僅かな疑問を抱きながら。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "newvoice": true,
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies "
+  }
 }

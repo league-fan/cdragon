@@ -96,6 +96,45 @@
     }
   ],
   "description": "Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-21",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded."
+  }
 }

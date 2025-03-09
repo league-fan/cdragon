@@ -34,6 +34,24 @@
     }
   ],
   "description": "藉由暗星之触镀金并透过暗星之辉强化，墨菲特在太空各处横冲直撞，将诸多星系整个引爆，并将破损的残存物吸入进它庞大和扭曲的形态之中。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54024,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "variant": 23,
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Gilded by the Dark Star's touch and empowered through its radiance, Malphite barrels across space, demolishing entire systems and consuming the broken remnants into his immense and twisted form."
+  }
 }

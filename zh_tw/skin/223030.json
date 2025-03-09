@@ -137,6 +137,53 @@
     }
   ],
   "description": "原本是鯰魚的貪啃奇曾經夢想過要魚躍龍門，成為一條龍。當燼從瀑布的封印中解放時，一顆魔法珍珠出現在瀑布的底下，引起了貪啃奇和寇格魔的注意。貪啃奇搶先一步搶下珍珠，變化為水流之龍神，製造了一個凶殘至極的漩渦。隨後的大規模破壞使他不由得大笑了起來。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "Once a catfish, Tahm Kench dreamed of becoming a dragon. Upon Jhin's release from his waterfall prison, a magical pearl was unearthed at its base, catching both Tahm's and Kog'Maw's eyes. Snatching it first, Tahm transformed into a dragon god of currents and unleashed a maelstrom of startling ferocity, laughing at the ensuing destruction."
+  }
 }

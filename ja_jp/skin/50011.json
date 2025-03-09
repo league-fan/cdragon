@@ -24,6 +24,25 @@
     }
   ],
   "description": "ジェリコ・スウェインとして知られるヘクステック工匠は、拡大を続けるピルトーヴァーの上流階級社会においても伝説的な存在だ。市政には口を出さないと明言してはいるものの、彼は密かに様々なヘクステック部品を自らの体に埋め込んでおり…これらを使って数千体の人工生物たちの目と耳にアクセスし、前代未聞の規模で情報を得ることができる。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50011,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2019-12-12",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "The hextech artificer known as Jericho Swain is an almost legendary figure among Piltover's growing upper crust. Though he professes not to meddle in city affairs, he has been quietly integrating various hextech components into his own body… and with them, unparalleled access to the eyes and ears of thousands of artificial creatures."
+  }
 }

@@ -113,6 +113,47 @@
     }
   ],
   "description": "장난기 많은 불의 정령 케넨은 사악한 존재가 아니지만, 빠르게 돌아다니는 동안 주체하지 못하고 주변에 불을 냅니다. 번개처럼 빠른 개구쟁이 정령 케넨의 호기심을 자극하는 비운의 마을에는 어김없이 재앙이 닥쳐옵니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Rainbow": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A playful spirit of fire, Kennen is not a malevolent being, but can't help igniting his surroundings while zipping about. His lightning quick movements wreak havoc upon any village unfortunate enough to entice the impish spirit to visit."
+  }
 }

@@ -25,6 +25,24 @@
     }
   ],
   "description": "초능력특공대 신입 요원 이즈리얼은 유능하지만 원초적인 초능력 못지않게 자의식이 지나치게 강한 청년입니다. 다른 요원들이 얼마나 질려 하는지, 반쯤은 이즈리얼이 죽었으면 하는 마음으로 이즈리얼을 상대하기 까다로운 표적에게 보낼 정도죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A young hotshot and the newest recruit in the elite PsyOps unit, Ezreal's raw psychic ability is only matched by his severely over-inflated ego. He has successfully annoyed the rest of his team to the point they just direct him towards hard targets and half-hope he winds up dead."
+  }
 }

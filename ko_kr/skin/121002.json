@@ -24,6 +24,21 @@
     }
   ],
   "description": "맹렬한 허기에 몸부림치는 풍뎅이, 사막의 수호자 카직스여. 그대에게 요청하노니 우리가 만들어낸 악으로부터 우리를 보호해 주길. 신성한 땅에 그 누구도 발 디디지 못하게 하길. 침입자는 완전히 삼켜버리길...",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 121002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-09-09",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Kha'Zix, the devouring scarab—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you consume them utterly."
+  }
 }

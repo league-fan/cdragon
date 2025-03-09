@@ -58,6 +58,32 @@
     }
   ],
   "description": "以此纪念2017年于巴西举办的季中邀请赛。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2017-04-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2017-04-23",
+    "set": [
+      "Conqueror"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Commemorating the 2017 Mid-Season Invitational in Brazil."
+  }
 }

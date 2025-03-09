@@ -171,6 +171,54 @@
     }
   ],
   "description": "An overconfident god keen to show her potential to the Dawnbringers, Vayne ruthlessly hunts the Nightbringers out of her deep fear of the gods' foretold destruction. So violent are her actions that she undermines herself by leaving even more chaos in her wake. Still, she hopes killing Jarvan will be enough to cement her standing within the light.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Rainbow": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "An overconfident god keen to show her potential to the Dawnbringers, Vayne ruthlessly hunts the Nightbringers out of her deep fear of the gods' foretold destruction. So violent are her actions that she undermines herself by leaving even more chaos in her wake. Still, she hopes killing Jarvan will be enough to cement her standing within the light."
+  }
 }

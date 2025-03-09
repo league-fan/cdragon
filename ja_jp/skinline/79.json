@@ -8,8 +8,27 @@
       "name": "なんて巨大なカニゴット",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-08-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 6001,
+        "formatname": "Giant Enemy Crabgot",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-24",
+        "set": [
+          "Kaiju"
+        ],
+        "neweffects": true,
+        "filter": true,
+        "vu": true,
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "Emerging from the deep sea as the first of the kaiju menace, Crabgot has never been completely defeated by the forces of humanity. The best result when it emerges is to temporarily halt its advance, sending the massive crustacean back into the sea... until it can rise once more."
+      }
     }
   ]
 }

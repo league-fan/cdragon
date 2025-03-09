@@ -97,6 +97,44 @@
     }
   ],
   "description": "かつてジュレマイア・ジェームズは有名な鉄道王で億万長者の実業家であったが、自らの心臓をかけた賭けに敗北した。砂漠に取り残されて死を待つのみとなった彼は、通りかかった悪魔と取り引きをし、自らの不死の魂と引き換えに、歯車と鉄でできたねじくれた怪物の体を手に入れた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 6009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tanzanite": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Mist XG"
+    ],
+    "lore": "Jeremiah James was once a famed railroad baron and millionaire industrialist, who bet his own heart on a game of chance… and lost. Left alone in the desert to die, he bargained with a passing devil, trading his immortal soul for a twisted, monstrous body of gears and iron."
+  }
 }

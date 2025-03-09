@@ -160,6 +160,57 @@
     }
   ],
   "description": "초승달 만의 물가를 돌아다니는 카직스의 이빨과 발톱은 주변을 돌아다닐 정도로 어리석은 이들을 반깁니다. 하지만 여왕 애쉬에겐 무언가 다른 점이 있었습니다. 애쉬는 카직스가 갈망하는 것과 똑같이 얻을 수 없는 힘을 원했습니다. 카직스는 수 세기 동안 해보지 않은 충성을 애쉬에게 바쳤고 한때 자신이 주도했던 삶을 맛보기 위해 애쉬와 함께 싸울 준비가 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 121069,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 74
+      },
+      "Citrine": {
+        "id": 75
+      },
+      "Emerald": {
+        "id": 71
+      },
+      "Obsidian": {
+        "id": 77
+      },
+      "Pearl": {
+        "id": 76
+      },
+      "Resplendent": {
+        "id": 78,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 72
+      },
+      "Ruby": {
+        "id": 70,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 73
+      }
+    },
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Kha'Zix stalked the waters of Crescent Bay, his teeth and claws greeting anyone foolish enough to wander near. But there was something different about the Empress Ashe: she desired the same, unattainable power he craved. So he swore fealty to her—something he hadn't done in centuries—ready to fight by her side for a taste at the life he once led."
+  }
 }

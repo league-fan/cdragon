@@ -113,6 +113,48 @@
     }
   ],
   "description": "벨코즈와 마주친 자는 대부분 그 존재만으로도 불타 사라지기 때문에, 그에 대해서는 알려진 바가 거의 없습니다. 다만, 재앙의 거인 벨코즈가 타오르는 시선으로 문명 전체를 소멸시켜 연기만이 자욱한 폐허로 만들 수 있다는 사실은 자명합니다. 그 지옥불 같은 시선이 닿으면 묻을 유해조차 남지 않지 않을 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Rainbow": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 5,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury."
+  }
 }

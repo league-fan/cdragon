@@ -137,6 +137,54 @@
     }
   ],
   "description": "ベースパート前のドロップ、始原の楽器の創作者、そして文字どおり「グルーヴの神」であるオーンは、銀河に「グルーヴ」を広めるうえで欠かすことのできない役割を担ってきた。しかし、彼は自らが獲得した名声を嫌い、ネバネバが渦巻く人里離れた惑星で隠遁生活を送りながら、自身の創作に集中している。もしオーンがパーティーに来ることがあったら、そのパーティーは伝説となるだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 516011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rainbow": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Matthew Waterson"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "The drop before the bass, the creator of the primordial instruments, a literal God of Groove, Ornn has been instrumental in spreading The Groove through the Galaxy. But he's not a fan of the celebrity status it's earned him, hermiting himself away on a planet of whirling pools of goo to focus on his work. If Ornn is coming to party, it better be legendary."
+  }
 }

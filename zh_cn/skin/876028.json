@@ -142,6 +142,54 @@
     }
   ],
   "description": "作为冬之廷女士和花仙心树的守护者，莉莉娅将各个花仙王国的历史记录在古树的年轮中，将各个事件定格成茂密的、不断成长的档案。当莉莉娅发现有人试图篡改她的工作时，她必须鼓起勇气——麻烦就要来了！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Lady of the Winter Court and Keeper of the Seelie Heart-tree, Lillia records the history of the Faerie Queendoms in the ancient tree's rings, freezing events into forested, ever-growing archives. When Lillia discovers that someone has tried to tamper with her work, however, she must rally her courage—there is trouble afoot!"
+  }
 }

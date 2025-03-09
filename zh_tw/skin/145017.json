@@ -158,6 +158,60 @@
     }
   ],
   "description": "凱莎是一名來自地獄射擊遊戲「像素虛空 2」的賞金獵人和前任士兵。在戰鬥魔王們入侵感染了她的遊戲後，她被召喚回電玩劇場。由於她在擊殺那些擁有海量生命值且霸占了整個螢幕的魔王級怪物方面有著無與倫比的實力，因此入侵「像素虛空 2」也許是魔王們一次嚴重的誤算。\t",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-06-28",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 24
+      },
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 25,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "K.O.": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A bounty hunter and ex-soldier hailing from the hellish multidirectional shooter “PixelVoid II,” Kai'Sa was called back to the Arcadian theater after the Battle Bosses infected her game. As she is unmatched at killing screen-covering boss monsters with massive health pools, invading “PixelVoid II” may have been a severe miscalculation."
+  }
 }

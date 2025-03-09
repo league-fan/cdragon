@@ -138,6 +138,54 @@
     }
   ],
   "description": "虽然璐璐还是一个新人，但她如典范一般体现了成为小怪兽训练师的意义。她从头到尾地学习了“核心”（全称：用于接替和交战的袖珍工具）手册。她甚至已经在战场上将它用过几次了！她的最新发现：电格莫，是一种有多可爱就有多危险的生物。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-11",
+    "set": [
+      "Monster Tamers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Though she's new to the scene, Lulu exemplifies what it means to be a Tamer. She's studied the CORE (Compact Object for Relay and Engagement) manual front to back. She's even used it in the field a few times! Her latest discovery: Zap'Maw, a creature as dangerous as it is adorable."
+  }
 }

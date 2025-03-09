@@ -101,6 +101,44 @@
     }
   ],
   "description": "冥界の地の底から這い出てきた地獄の業火の戦士、シェン。彼は目にもとまらぬ速さで戦場に姿を現し、厳格に組織された反乱軍の刃から仲間の巨人達を守るのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 98016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-05",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Peridot": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Keith Silverstein"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "An Infernal warrior risen from the raging depths of the underworld, Shen appears on battlefields in the blink of an eye, shielding his fellow titans from even the most well-organized resistance."
+  }
 }

@@ -25,6 +25,28 @@
     }
   ],
   "description": "A heavy armor combatant, Leona has seen the truth behind the neon light of PROJECT, and now stands with Ashe and the G/NETIC rebellion. She carries a mounted ion charge shield, capable of blocking and stunning targets with its variable energy yield output.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89008,
+    "formatname": "PROJECT: Leona",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-02",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "A heavy armor combatant, Leona has seen the truth behind the neon light of PROJECT, and now stands with Ashe and the G/NETIC rebellion. She carries a mounted ion charge shield, capable of blocking and stunning targets with its variable energy yield output."
+  }
 }

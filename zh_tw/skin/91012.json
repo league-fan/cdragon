@@ -126,6 +126,50 @@
     }
   ],
   "description": "作為一位南海的傲慢龍王，塔隆接受了來自半神伊瑞莉雅的決鬥邀約，但卻在自己的王座面前被擊敗。受盡羞辱的他猛烈地抨擊了伊瑞莉雅…卻被伊瑞莉雅將自己的力量封印在她的刀刃之內，並指派他在凡人的國度中尋找新的目標。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-04",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A haughty dragon king of the south seas, Talon accepted a duel from the demigoddess Irelia, only to be defeated in his own throne room. Humiliated, he lashed out at her… and she sealed his power within her blade, tasking him with finding new purpose in the mortal realm."
+  }
 }

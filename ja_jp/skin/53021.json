@@ -24,6 +24,28 @@
     }
   ],
   "description": "謎の白い稲妻に打たれて地中から現れた人工パラディンのブリッツクランクは、大衆の守護者であり、計算され尽くした正確さで戦いながら、寡黙に王の民を守っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-16",
+    "earlysale": "2018-05",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "variant": 20,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A silent protector of the masses, the artificial paladin Blitzcrank was aroused from the earth by a bolt of mysterious white lighting. It now serves all honorable subjects, defending with true and calculated precision."
+  }
 }

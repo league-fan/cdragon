@@ -24,6 +24,22 @@
     }
   ],
   "description": "2014シーズンにゴールド以上に到達したプレイヤーに授与された勝利の栄光モルガナ。闇の女王である勝利の栄光モルガナは濃い青色の鎧と派手なリコールを身に付けてサモナーズリフトを滑らかに進んでいく。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2014-11-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25006,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2014-11-11",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "lore": "Victorious Morgana was awarded to players who reached Gold or higher in the 2014 season. A queen of shadows, Victorious Morgana glides through Summoner's Rift in deep blue armor, with a flashy recall."
+  }
 }

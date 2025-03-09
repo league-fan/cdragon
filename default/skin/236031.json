@@ -137,6 +137,53 @@
     }
   ],
   "description": "Lucian believes in balance: that no one Archetype should have excessive influence on the world. With one gun amplifying patterns and the other canceling them out, Lucian maintains the world's fragile order within the new power vacuum—even as the likes of Tahm Kench move to fill it.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 34
+      },
+      "Citrine": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Lucian believes in balance: that no one Archetype should have excessive influence on the world. With one gun amplifying patterns and the other canceling them out, Lucian maintains the world's fragile order within the new power vacuum—even as the likes of Tahm Kench move to fill it."
+  }
 }

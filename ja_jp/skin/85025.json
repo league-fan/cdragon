@@ -137,6 +137,55 @@
     }
   ],
   "description": "ケネン大尉はミィプテクノロジーに精通した天才メカニックであり、宇宙船内の平穏を維持することに日々努めている。自分がフィズの部下であることには常々不満を抱いているものの、チームを守るための準備を怠ることは決してない。その頭の回転の速さと必殺の精度を活かして、彼は惑星M33Pをあらゆる脅威から守っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "A master mechanic and genius in meep technology, Lieutenant Kennen always keeps the ship balanced. Although he's perpetually bothered by being second in command to Fizz, he never fails to design a plan to protect his team. His quick thinking and deadly precision are enough to keep any threats to planet M33P at bay."
+  }
 }

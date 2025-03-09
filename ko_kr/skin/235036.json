@@ -138,6 +138,54 @@
     }
   ],
   "description": "세나가 어린 마녀였을 때, 마도사는 세나의 점점 성장하는 힘을 제거하기 위해 그녀의 영혼을 주문서에 봉인했습니다. 하지만 육체와 분리된 시간은 그녀를 더욱 강하게 만들었을 뿐입니다. 다른 사람들이 파티를 즐기는 동안 지나치게 진지한 세나는 망령과 유령을 찾아 다시... 무덤으로 보낼 계획을 세우고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235036,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Huyy Nugyen",
+      "West Studio"
+    ],
+    "lore": "When she was just a young witch, a warlock bound Senna's soul to a tome of spells, hoping to rid himself of her rising power. But her time spent disembodied only made her stronger. While others party, the overly serious Senna searches for ghouls and ghosts, planning to send them to the grave... again."
+  }
 }

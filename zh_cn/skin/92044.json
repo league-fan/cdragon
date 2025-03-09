@@ -160,6 +160,66 @@
     }
   ],
   "description": "在原初星人入侵的初期失去了许多同伴后，锐雯自愿加入并最终成为了幻灵小队的一员。在一连串的胜利之后，她声名鹊起：一个人人敬仰的战争英雄。……那么，为什么在这个世界最需要她的时候，她却突然消失了？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Nightwire": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 52
+      },
+      "Paragon": {
+        "id": 72,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 51
+      },
+      "Tanzanite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Riven volunteered for what would eventually become Anima Squad after losing many comrades in the early days of the Primordian invasion. A string of victories later, she is famous: a war hero looked up to by all. ...So why has she suddenly vanished when the world needs her most?"
+  }
 }

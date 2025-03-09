@@ -111,6 +111,44 @@
     }
   ],
   "description": "A titanium juggernaut used to crush pockets of particularly stubborn resistance, the Battlecast Urgot model is rarely seen but widely feared. Its extensive weapons systems are complemented by a massive, flesh-grinding spike mill, which it pulls fleeing opponents into for sheer spectacle.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 6003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-03-05",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 4
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Izzy Medrano"
+    ],
+    "lore": "A titanium juggernaut used to crush pockets of particularly stubborn resistance, the Battlecast Urgot model is rarely seen but widely feared. Its extensive weapons systems are complemented by a massive, flesh-grinding spike mill, which it pulls fleeing opponents into for sheer spectacle."
+  }
 }

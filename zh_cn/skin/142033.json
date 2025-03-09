@@ -160,6 +160,61 @@
     }
   ],
   "description": "佐伊是一个腐化者，来自一个奇思妙想的世界——在这个世界里，天真高于一切。她是一面扭曲的镜子，映射出那些迷失在她的造物中的人们——她是一个孩子，对她来说，宇宙中的一切都是她的玩具，她可以随心所欲地对其进行塑造或毁灭。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Quasar": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Santiago Parra",
+      "Pandart Studio"
+    ],
+    "lore": "A corruptant from a world of playful whimsy, where innocence was prized above all else. Zoe is a twisted mirror of those lost in her own creation—she is a child to whom everything in the universe is her toy, to shape and destroy as she sees fit."
+  }
 }

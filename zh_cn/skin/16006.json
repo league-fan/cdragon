@@ -33,6 +33,26 @@
     }
   ],
   "description": "源代码索拉卡的创造是作为支援机器人保护人类的脆弱本质，以机械天使之手带来科技的救赎。如今被损坏代码入侵的她，不知道是否还以这个仁慈的使命作为自己的首要指令。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-04-06",
+    "earlysale": "2016-08",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Program Soraka was created as a support bot to protect humanity's fragile nature, offering technological salvation at the hands of a mechanical angel. Infiltrated by corrupt code, it is unclear if this mission of mercy remains her prime directive."
+  }
 }

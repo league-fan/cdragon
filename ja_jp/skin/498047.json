@@ -160,6 +160,59 @@
     }
   ],
   "description": "バット部隊の扱いにくいエースのザヤは、自分のメッセージを伝えるためには時に強烈な先制攻撃が必要であると知っている。ファイナルシティの外での生活を試みて無残にも破壊された居留地の出身であり、彼女のプライモーディアンに対する恨みは個人的なものだ。戦闘の合間に、彼女はステルストレーニングを使って詮索好きなセラフィーンの目を盗み、恋人にメッセージを送っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 49
+      },
+      "Nightwire": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Obsidian": {
+        "id": 53
+      },
+      "Pearl": {
+        "id": 54
+      },
+      "Rainbow": {
+        "id": 55
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 51
+      },
+      "Turquoise": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Bat Squad's edgy hotshot Xayah knows that sometimes you have to strike first and hard to make a statement. Hailing from an attempted settlement outside Final City that was destroyed, Xayah's grudge against the Primordians is deeply personal. Between battles, she uses her stealth training to avoid Seraphine prying about who the guy she's always texting is."
+  }
 }

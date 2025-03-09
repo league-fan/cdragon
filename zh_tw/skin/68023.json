@@ -147,6 +147,57 @@
     }
   ],
   "description": "藍寶是咖啡店手藝精湛的咖啡師，總是會端出燒燙燙的飲料！他那套專門用來做咖啡的超讚裝束雖然不太常見，但卻能符合任何一間咖啡店的需求。只不過在喝他做的飲料之前，記得要先確認一下溫度，大家都知道他做出來的東西時不時會凸槌！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 68023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 26,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Ari Rubin"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "As the cafe's handy barista, Rumble always provides piping hot deliciousness! His trusty coffee making suit is unconventional, but effective for any cafe's needs. Just make sure to check the temperature before taking a sip of his drinks—his inventions are known for occasionally going haywire!"
+  }
 }

@@ -13,128 +13,600 @@
       "name": "麦林炮手",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "585",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism."
+      }
     },
     {
       "id": 18001,
       "name": "粉色萝莉 崔丝塔娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-12-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Facebook Distribution",
+        "cost": "Special",
+        "release": "2009-12-15",
+        "set": [
+          "Riot"
+        ],
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Despite the RPD's best efforts to curb Tristana's enthusiasm for vigilante justice, they haven't been successful. Then again, with a combination of determination, moxy, and explosives, she's more than capable of evading The Man. Whenever Tristana is \"off-duty,\" she can be found at a punk show or passing out the newest edition of her zine, \"Riot Riot!"
+      }
     },
     {
       "id": 18002,
       "name": "圣诞精灵 崔丝塔娜 ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-12-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-12-31",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "lore": "Known for her warm smile and heartfelt sincerity, Tristana's love of holiday cheer brings joy to everyone. She fiercely defends Snowdown festivities with a ferocious barrage of overstuffed presents."
+      }
     },
     {
       "id": 18003,
       "name": "烈焰雄心 崔丝塔娜",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-06-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-06-03",
+        "retired": "2012-07-16",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Shuohan Zhou"
+        ],
+        "lore": "Recently featured on this year's “most Yordle-y firefighters” calendar, Tristana will gladly leap into the flames regardless of whether anyone is supporting her. Often she'll go despite her support. Firefighter support. She fights fires."
+      }
     },
     {
       "id": 18004,
       "name": "游击队员 崔丝塔娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-08-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-08-10",
+        "retired": "2015-08-29",
+        "set": [
+          "Commando"
+        ],
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "The beauty of guerilla warfare is attacking an enemy that has their guard down, is unfamiliar with the terrain, and doesn't know who—or what—is engaging them. The beauty of being a two foot tall Yordle with a cannon the size of a mastiff hound is that no enemy would ever understand what hit them anyway."
+      }
     },
     {
       "id": 18005,
       "name": "约德尔海贼团 崔丝塔娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-06-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-06-27",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Robin Ruan"
+        ],
+        "lore": "Gunners ahoy! Tristana leaps onto the high seas, sailing for new adventures beyond the Bandle borders. The hat's borrowed (stolen) from a pirate she blasted, and the eyepatch is purely for show. But her take-no-prisoner attitude and trusty cannon gun have sunk more ships than most captains in Bilgewater."
+      }
     },
     {
       "id": 18006,
       "name": "火箭达人 崔丝塔娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-19",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Navy": {
+            "id": 7
+          },
+          "Orange": {
+            "id": 9
+          },
+          "Purple": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
     },
     {
       "id": 18010,
       "name": "驯龙炮手 崔丝塔娜",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2015-12-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2015-12-03",
+        "earlysale": "2016-05",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 19
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Rainbow": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "As the dragonslayers fought a bitter war with their nemeses, Tristana was busy with a draconic matter of her own. Deep in the wooded forests, away from the battles, she busily trained a young dragon—a trying task rewarded with lifelong friendship."
+      }
     },
     {
       "id": 18011,
       "name": "魅惑女巫 崔丝塔娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-10-19",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Well, I guess that's one way to hold a cauldron."
+      }
     },
     {
       "id": 18012,
       "name": "欧米伽小队 魔鬼伞兵",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-07-26",
+        "earlysale": "2018-01",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Sapphire": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Commander of Omega Squad, Tristana has made it her policy never to retreat unless she's returning fire the entire way home. She calls it “advancing backwards.”"
+      }
     },
     {
       "id": 18024,
       "name": "小恶魔 崔丝塔娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-30",
+        "set": [
+          "Demonic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Aquamarine": {
+            "id": 32
+          },
+          "Citrine": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A witch who is now one of the great queens of Hell, Tristana commands a vast army of lesser demons and rules the twin Aspects of Ruin and Woe. Mortals attempting to invoke her will find a variety of tempting contracts, but signers beware: Tristana's ultimate goal is bathing her signatories—as well as the world—in hellfire."
+      }
     },
     {
       "id": 18033,
       "name": "我，羽饰骑士 崔丝塔娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-01",
+        "set": [
+          "Definitely Not"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 35
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 39
+          },
+          "Peridot": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Weh!"
+      }
     },
     {
       "id": 18040,
       "name": "海克斯科技 崔丝塔娜",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18040,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2021-09-09",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Hex-powered munitions have been around since the early days of hextech innovation, but no one has perfected their use like Tristana. Decorated for her service in protecting the innocent with her Hexcrystal Cannon (Mark III), she stands at the forefront of martial hextechnology as a staunch and noble advocate."
+      }
     },
     {
       "id": 18041,
       "name": "虎头虎脑 崔丝塔娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18041,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Golden Tiger": {
+            "id": 50,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 49
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 43
+          },
+          "Tanzanite": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "As the master of fireworks for this year's revel, Tristana has worked hard to create a show the festival goers will never forget. Now that the New Year is here she's excited to sit back and enjoy the night with her friends… but she's saved some of her best explosions for last."
+      }
     },
     {
       "id": 18051,
       "name": "灵魂莲华 崔丝塔娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18051,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 55
+          },
+          "Night Blossom": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 59
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 54
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "For those that seek glory on the battlefield, to those that look to the spirits for a bountiful harvest, Tristana greets all with a toothy grin. The Spirit of Chance has no favorites, no obligations or motives. She simply delights in the chaos, the fear in men's eyes at the roll of the dice."
+      }
     },
     {
       "id": 18061,
       "name": "花仙子 崔丝塔娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18061,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-15",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 63
+          },
+          "Emerald": {
+            "id": 65
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Pearl": {
+            "id": 66
+          },
+          "Ruby": {
+            "id": 62,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 64
+          },
+          "Tanzanite": {
+            "id": 69
+          },
+          "Turquoise": {
+            "id": 67
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "As plucky Quartermaster to the Royal Guard and Lady Kalista's new right hand fae, Tristana cultivates all sorts of magical plant-based weaponry to help protect Her Majesty the Queen! Most of them are some form of sprout, flower, vine, or moss. All of them are incredibly destructive."
+      }
     }
   ]
 }

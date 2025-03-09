@@ -142,6 +142,57 @@
     }
   ],
   "description": "仿佛是在深沉的睡梦中，它们走向卡蜜尔——伴着乌黑公羊的低语，那些无名的东西从早已被遗忘的坟墓里翻滚而出。她的喉头满是谣言，砍下了来自新世界的残余，将狞笑着的远古主宰们的魔法和巫术重新播撒在大地上。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-27",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Dark Ritual": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Obsidian": {
+        "id": 5
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 7,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 3
+      },
+      "Turquoise": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "They came to Camille as if in some dark slumber—whispers of the Ebony Ram, and the nameless things tumbling up from long-forgotten sepulchers. Her throat full of hearsay, she cuts down the vestiges of the new world, seeding the earth with the magics and witchery of her ancient, grinning masters."
+  }
 }

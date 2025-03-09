@@ -138,6 +138,54 @@
     }
   ],
   "description": "身為咖啡廳老闆的女兒和一位多才多藝的魔法糕點神童，安妮理所當然熱愛甜食。 雖然她偶爾會發脾氣，讓她施了魔法的小熊軟糖在咖啡廳裡搜尋任何適合主人吃的食物，但填飽肚子的安妮就像糖一樣甜美可愛！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 26
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Daughter of the cafe's owner and an accomplished pastry mage wunderkind, Annie has a sweet tooth to be reckoned with. Though her occasional hangry tantrums send her enchanted gummy bear scouring the cafe for any morsel of food fit for his master, with a full belly Annie is as sweet as sugar!"
+  }
 }

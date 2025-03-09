@@ -137,6 +137,54 @@
     }
   ],
   "description": "무술가 리 신은 상대가 미처 반응하기도 전에 상대를 압도하는 전략으로 많은 챔피언십에서 우승을 거뒀지만, 이내 회의에 빠졌습니다. 리 신은 이 전략의 뿌리가 자신의 두려움이라는 사실을 깨닫고 신체를 기계로 강화했습니다. 근력을 키우기 위해서가 아니라 정신과 감각을 가다듬기 위해서였죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-09",
+    "set": [
+      "Zenith Games"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Martial artist Lee Sin's focus on overwhelming his opponents before they could react had won him many championships, but also burned him out. Realizing that his strategy had been rooted in fear, he augments his body not to give himself more strength, but to concentrate his mind and senses."
+  }
 }

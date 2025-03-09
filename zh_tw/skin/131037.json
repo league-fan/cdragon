@@ -226,6 +226,59 @@
     }
   ],
   "description": "市集攤販為月之女神提供免費商品，以祈求新年保佑。黛安娜欣然接受眾人好意，即便這代表她每走幾步就得停下來面對另一名信徒... 幸好，黛安娜的節慶夥伴們很有耐心。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131037,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Golden Tiger": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Market stalls offer the Lady of the Moon their wares freely, in hope of receiving a blessing for the New Year. Diana is happy to oblige, even if it means getting stopped every few feet by another well-wisher… Luckily, Diana's festival buddies are patient."
+  }
 }

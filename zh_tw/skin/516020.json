@@ -137,6 +137,53 @@
     }
   ],
   "description": "嘟嘟！鄂爾拉響汽笛、呼喚鋼鐵火車頭，引擎隆隆作響，就像工坊炙熱的鍛爐一樣。咚咚！他的鎚子節奏明快響亮，像極了整齊劃一的鐵軌，讓他悶燃的鬍子底下露出一抹微笑。可以想像，他一定感受到創造帶來的喜悅，完美的機器讓他無比開心！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 516020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-03",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Peridot": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Matthew Waterson"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "With a toot of his whistle, Ornn calls forth a mighty iron beast, roaring with his forge's fury. As his hammer pounds out a rhythm like pistons on the track, a soot-soaked grin unfurls beneath his smoldering beard. One imagines he must feel the thrill of creation, the joy of a perfect machine made manifest!"
+  }
 }

@@ -155,6 +155,61 @@
     }
   ],
   "description": "かつて「有角の王」の名で知られた古の神モルデカイザーは、命を落とした者たちをおぞましい姿へと変貌させ、己の目的を果たそうとした。モルデカイザーはその者たちを利用して王国を滅ぼし、その土地を自らのものにしようとしたのだ。だが、彼は蝕の騎士たちによって倒されてしまう。己が最期を迎えるその瞬間、彼は誓った──この世界に帰還を果たしたなら、すべての蝕の騎士を屈服させ、不死者の軍勢の最前線に立たせてやると。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 48
+      },
+      "Aquamarine": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Profane": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Once known as the Horned King, Old God Mordekaiser turned that which was once dead to his cause, using their shambling forms to topple kingdoms and claim their lands as his own. Before he was slain by the Eclipse Knights, he swore that when he returned to this world, they would all bend to his will and take to the frontlines of his undead army."
+  }
 }

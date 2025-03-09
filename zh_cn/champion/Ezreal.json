@@ -13,176 +13,800 @@
       "name": "探险家",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2010-03-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2010-03-16",
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Suke 'hugehugesword' Su"
+        ],
+        "lore": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn’t too far behind. Or ahead. Probably everywhere."
+      }
     },
     {
       "id": 81001,
       "name": "冒险精神 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-03-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "retired": "2011-11-28",
+        "set": [
+          "Albion"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "An adventuring elf from the outlying forest kingdoms, Ezreal likes to present himself as a “handsome rogue-paladin” named Jarro Lightfeather. Very few people believe his claims of knighthood, but they serve as a decent enough distraction between his disastrous misadventures."
+      }
     },
     {
       "id": 81002,
       "name": "足球先生 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-24",
+        "set": [
+          "Soccer Cup"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "A young and flashy prodigy, Ezreal is Order United's most popular player. Or at least he was, until a long series of teleportation-related fouls got him in trouble with the oversight committee."
+      }
     },
     {
       "id": 81003,
       "name": "冰川勇者 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-07-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-18",
+        "set": [
+          "Freljord"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Yan Li"
+        ],
+        "lore": "Ezreal occasionally finds himself in the Freljord, searching for such-and-such ancient artifact. But braving sub-zero temperatures, terrifying ice beasts, and angry Freljordian tribes is a tall order, even for him—that's why he goes in disguise. He's practically a different person!"
+      }
     },
     {
       "id": 81004,
       "name": "失落的世界 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-10-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-10-13",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Ezreal's almost suicidal obsession with braving tombs, ruins, forbidden temples, and abandoned cities has netted him a tidy handful of priceless relics. Most of those relics are sold off to pay exploration-related medical bills, but one of these days…"
+      }
     },
     {
       "id": 81005,
       "name": "未来战士 伊泽瑞尔",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "3250",
-      "wikiReleaseDate": "2012-06-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2012-06-29",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Pulsefire Ezreal",
+        "forms": [
+          "Level 01",
+          "Level 06",
+          "Level 11",
+          "Level 16"
+        ],
+        "chromas": {
+          "Level 06": {
+            "id": 5
+          },
+          "Level 11": {
+            "id": 5
+          },
+          "Level 16": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman",
+          "Christine Brynn Khalil"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly."
+      }
     },
     {
       "id": 81006,
       "name": "暗杀星 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2013-05-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2013-05-23",
+        "set": [
+          "World Champions: 2012"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "Honoring BeBe's winning performance as Ezreal during the 2012 World Championship."
+      }
     },
     {
       "id": 81007,
       "name": "光执事 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-08-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-08-05",
+        "set": [
+          "Debonair"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Meteorite": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 15
+          },
+          "Sandstone": {
+            "id": 12
+          },
+          "Striped": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't."
+      }
     },
     {
       "id": 81008,
       "name": "黑桃皇牌 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-05-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-05-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Highstakes"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "First is the Ace, at a hurtling pace,<br>A man of both talent and vim,<br>Who holds all the cards in the court of High Stakes<br>Because everything's about him."
+      }
     },
     {
       "id": 81009,
       "name": "电玩勇者 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-08-24",
+        "earlysale": "2017-02",
+        "set": [
+          "Arcade: Heroes"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "A skilled gamer transported to Arcade World by Veigar, Ezreal holds the world record for speedrunning the original version of Hyper Crystal Dungeon in 45 seconds, using a custom-made mobile controller. Veigar has made a terrible mistake."
+      }
     },
     {
       "id": 81018,
       "name": "星之守护者 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-06",
+        "earlysale": "2018-02",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "variant": 20,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Pan Chengwei",
+          "Alex 'alexplank' Flores",
+          "Esben Lash Rasmussen",
+          "Alvin Lee",
+          "Jean 'Curing' Go"
+        ],
+        "lore": "With a boundless curiosity about the universe, Ezreal is a born explorer, and becoming a Star Guardian only served to fuel his appetite for discovery. Though known to wander off, he always returns when most needed, especially now, as a certain pink-haired Guardian from another team has caught his attention…"
+      }
     },
     {
       "id": 81019,
       "name": "SSG 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81019,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-07-20",
+        "set": [
+          "World Champions: 2017"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Rudy Siswanto",
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Haru's winning performance as Ezreal during the 2017 World Championship. "
+      }
     },
     {
       "id": 81020,
       "name": "睡衣守护者 伊泽瑞尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-21",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "variant": 18,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "The First Star has burdened Ezreal with a lot. The responsibility. The hefty weight of destiny. The sparkly outfit (he's used to it). “Attending a slumber party” was definitely not on the list of expected cosmic duties. Not that he minds, really… as long as they don't actually try to braid his hair."
+      }
     },
     {
       "id": 81021,
       "name": "战斗学院 伊泽瑞尔",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A young orphan initially thought devoid of any superhuman abilities, Ezreal had resigned himself to a normal life once he graduated middle school. But an encounter with a deadly threat awakened his slumbering potential, and now he finds himself a 1st year at the prestigious Durandal God-Weapon Academy, where he's joined the ragtag Battle Club."
+      }
     },
     {
       "id": 81022,
       "name": "灵能特工 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-09-03",
+        "set": [
+          "PsyOps"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A young hotshot and the newest recruit in the elite PsyOps unit, Ezreal's raw psychic ability is only matched by his severely over-inflated ego. He has successfully annoyed the rest of his team to the point they just direct him towards hard targets and half-hope he winds up dead."
+      }
     },
     {
       "id": 81023,
       "name": "至臻 灵能特工 伊泽瑞尔",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-09-03",
+        "set": [
+          "PsyOps"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 22,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "Ezreal's mastery of psychic military combat has driven him to new heights, attracting the attention of his handlers in High Command. He's calmed down a bit, earning some respect from his squad mates… but not enough. He's never calmed down enough."
+      }
     },
     {
       "id": 81025,
       "name": "青花瓷 伊泽瑞尔",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 31
+          },
+          "Golden Tiger": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "After accidentally unleashing an ancient evil sorceress while doing research in the university archive, Ezreal narrowly escaped certain death when Lux and the spirit of the Tiger Relic stepped in to save him. Though he is new to the world of magic, Ezreal has joined the Protectors— determined to help solve the problem he (inadvertently) caused."
+      }
     },
     {
       "id": 81033,
       "name": "花仙贵族 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 41
+          },
+          "Winsome": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Faerie Court 2023"
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Though he is a lord of the Summer Court, Ezreal would much rather be investigating ancient magical history than putting up with all the political drama. When his research reveals something curious about the Faerie queen's line of succession, however, Ezreal discovers that someone may have placed Karma upon the throne for their own purposes…"
+      }
     },
     {
       "id": 81043,
       "name": "心之钢 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-08",
+        "set": [
+          "HEARTSTEEL"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 49
+          },
+          "Citrine": {
+            "id": 52
+          },
+          "Emerald": {
+            "id": 48
+          },
+          "Pearl": {
+            "id": 50
+          },
+          "Rockstar": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Tanzanite": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen",
+          "Julia Yurtsev",
+          "Jennifer Wuestling"
+        ],
+        "lore": "After a manufactured one-hit wonder launched Ezreal into the spotlight, only for him to fall out of it again when the album got panned, Ezreal decided it was time he took some creative control back. Now, having left his old label and lending what star power he has to HEARTSTEEL, Ezreal has found musicians and friends he's ready to make a comeback with."
+      }
     },
     {
       "id": 81044,
       "name": "天龙之子 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81044,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 60
+          },
+          "Auspacious": {
+            "id": 61,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Lunar Revel 2024 Premium Pass Bundle"
+          },
+          "Catseye": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 59
+          },
+          "Lustrous": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 64
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 58
+          },
+          "Tanzanite": {
+            "id": 62
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Joshua Raphael",
+          "West Studio"
+        ],
+        "lore": "Wherever chaos is sown, dragons across the kingdom know to listen for Ezreal's mischievous laughter. His japes are harmless, but don't let that merry spirit fool you: he is a shrewd royal scout alongside Kai'Sa who has braved many adventures between bouts of pranking. Dressing up like a human to go party? Now that sounds like his idea of a good time."
+      }
     },
     {
       "id": 81054,
       "name": "至臻 天龙之子 伊泽瑞尔",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81054,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 44,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Ezreal's gilded gala garb is fit for royalty. Adorned in hand-crafted scales and crystal horns, this tastemaker came to the party with a mission: ring in the New Year not just with a bang, but a roar."
+      }
     },
     {
       "id": 81065,
       "name": "黑色玫瑰假面舞会 伊泽瑞尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81065,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-01-09",
+        "set": [
+          "Masque of the Black Rose"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 68
+          },
+          "Citrine": {
+            "id": 71
+          },
+          "Emerald": {
+            "id": 67
+          },
+          "Pearl": {
+            "id": 73
+          },
+          "Rose Quartz": {
+            "id": 70
+          },
+          "Ruby": {
+            "id": 66,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 69
+          },
+          "Turquoise": {
+            "id": 72
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Park Jun Seong",
+          "West Studio"
+        ],
+        "lore": "Greetings, Jarro Lightfeather. We cordially invite you to the Silken Danse. Word of your heroism has reached the halls of Noxian nobility, and we are keen to meet you. We operate in the same manner, working beyond regional lines. You've much to learn about us, and we've much to learn about you, Lightfeather… Or, shall we be forthright, Ezreal? –Lady Elise"
+      }
     }
   ]
 }

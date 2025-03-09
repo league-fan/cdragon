@@ -137,6 +137,53 @@
     }
   ],
   "description": "냉철한 예리함을 갖춘 케이틀린은 서리달에서 가장 뛰어난 저격수입니다. 케이틀린이 서리달에 합류한 이유는 동정이라는 감정에서 벗어난 계산적인 천성을 갈망하기 때문입니다. 한때 그녀의 심장에도 온기가 있었습니다. 케이틀린은 꿈속에서 자신에게 어울리지 않는 거칠고 길들지 않은 모습을 바라봅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-23",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 32
+      },
+      "Tanzanite": {
+        "id": 34
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "A tool of chilling acuity, Caitlyn is the Snow Moon's most elite sniper. It was her craving for a calculating nature, stripped of the moorings of sympathy, that drew her to serve. There was once warmth in her heart; in dreams, she sees a figure, wild and untamed, in a world not meant for her."
+  }
 }

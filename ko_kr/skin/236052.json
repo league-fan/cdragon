@@ -160,6 +160,60 @@
     }
   ],
   "description": "루시안은 자신을 잊어버린 연인 세나를 찾아왔습니다. 그리고 쓰레쉬에게 몸을 던져 스스로를 희생했습니다. 그 결과 강탈자는 파멸했고 여명은 힘을 되찾았습니다. 루시안이 바닥에 누워 숨이 희미해져 가는 사이, 세나의 심상에 사랑의 추억이 밀어닥쳤습니다. 세나는 루시안이 임종하는 순간까지 곁을 지켰습니다. 그리고 세나는 영원한 인연을 잊지 않기 위해 루시안의 영혼을 남극성으로 만들었습니다. 이 사랑이 영원하길 바라면서 말이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 57
+      },
+      "Citrine": {
+        "id": 55
+      },
+      "Emerald": {
+        "id": 56
+      },
+      "Obsidian": {
+        "id": 59
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 53,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Wreathguard": {
+        "id": 61,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Lucian, Senna's forgotten love, had tracked her down. He threw himself at Thresh, sacrificing himself to destroy the usurper and return the Aurora's power. As he lay dying, memories of their love washed over Senna. She stayed with him until he passed and, to remind herself of their undying bond, turned his soul into the Southern Star. Love would endure."
+  }
 }

@@ -160,6 +160,57 @@
     }
   ],
   "description": "미스 포츈은 빌지워터의 해적 여왕이 되면 그것으로 충분하리라 생각했습니다. 하지만 그녀가 복수를 끝마친 뒤에도, 빌지워터의 세력들은 지배권을 거머쥐고자 서로 경쟁하며 새로운 혼란을 초래했죠. 비에고는 미스 포츈에게 발밑의 모두를 짓밟을 힘을 얻을 기회를 제시했지만, 그 제안에는 대가가 따랐습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-22",
+    "set": [
+      "Ruined"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "filter": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Cursed": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      }
+    },
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Miss Fortune thought that being the Pirate Queen of Bilgewater would be enough. Even with her revenge complete, Sarah now faced a new chaos with Bilgewater's factions vying for control. Viego's arrival offered her an opportunity to seize the strength needed to crush anyone beneath her heel, even if it came at a price."
+  }
 }

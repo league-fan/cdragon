@@ -111,6 +111,43 @@
     }
   ],
   "description": "자신의 삶을 바쳐 무공의 예술성과 순수성을 추구한 명문 문파의 제자인 마스터 이는 전설의 비취 검과 불사의 힘을 향한 야망을 품고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11011,
+    "formatname": "Eternal Sword Yi",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-27",
+    "earlysale": "2018-03",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "A pupil of a famous martial arts school, Yi has dedicated his life to the purity and art of combat. And yet, in his heart, he knows he is worthy of the fabled sword of jade, and a power beyond mere mortality…"
+  }
 }

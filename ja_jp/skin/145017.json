@@ -158,6 +158,60 @@
     }
   ],
   "description": "圧倒的難易度の高さで知られた全方位スクロールシューティング「ピクセルヴォイドII」に登場する賞金稼ぎで元兵士のカイ＝サ。彼女は自らの世界がバトルボスたちによって浸食されたことを期に、アルカディアシアターへと呼び戻されることとなった。画面を覆い尽くさんばかりに巨大、かつ膨大な体力を持ったボスを倒すことにかけては無類の強さを発揮する彼女が現れた今となっては、「ピクセルヴォイドII」の世界を侵略しようという計画は大間違いだったと言わざるを得ない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-06-28",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Aquamarine": {
+        "id": 24
+      },
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 25,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "K.O.": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A bounty hunter and ex-soldier hailing from the hellish multidirectional shooter “PixelVoid II,” Kai'Sa was called back to the Arcadian theater after the Battle Bosses infected her game. As she is unmatched at killing screen-covering boss monsters with massive health pools, invading “PixelVoid II” may have been a severe miscalculation."
+  }
 }

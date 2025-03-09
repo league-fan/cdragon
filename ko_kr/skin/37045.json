@@ -138,6 +138,54 @@
     }
   ],
   "description": "찬란한 열정의 학파에서 최근에 불멸자가 된 소나의 힘은 불협화음에서 조화를 끌어내는 데 있습니다. 소나에게 있어서 불멸에 다다르는 유일한 길은 자신이 주변 사람들과 이루는 조화를 깨닫는 것입니다. 소나는 제자들을 불멸의 화음으로 묶을 개성 있는 음표들로 여깁니다. 여럿이 공유하는 열정이야말로 무엇이든 가능케 하기 때문이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 51
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 50
+      },
+      "Turquoise": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "As a newly immortal member of the Radiant Passion School, Sona's power is in building harmony from dissonance. To her, immortality only comes through finding your shared harmony with your fellow people, and she sees her students as strong notes to be built into immortal chords. It is in this shared passion that makes anything possible."
+  }
 }

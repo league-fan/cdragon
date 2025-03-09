@@ -181,6 +181,51 @@
     }
   ],
   "description": "没有“南瓜灯的进军”，任何庆祝活动都是不完整的！ 辛德拉召唤出数百个巨大的瓜从天而降，它们歪歪扭扭的笑容逗乐了下方的孩子们。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134025,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "No celebration would be complete without the March of the Pumpkin Lanterns! Syndra conjures hundreds of great gourds from the sky, their crooked smiles delighting the children below."
+  }
 }

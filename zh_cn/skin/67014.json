@@ -148,6 +148,53 @@
     }
   ],
   "description": "薇恩来自一个已消亡的怪物猎人世家。当原初的痛苦恶魔不经意地发现了他们隐蔽的村庄后，她的家族就被消亡了。无法放下，并且命中注定要痴迷于永生的她无休止地狩猎着那个恶魔，但总是无法抓到它。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-22",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Night Blossom": {
+        "id": 24,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "lore": "Vayne came from a lost clan of monster hunters, annihilated to the last when the primordial demon of pain chanced upon their hidden village. Unable to let go, and doomed to her own obsessions for eternity, she hunts the creature without end, always unable to catch it."
+  }
 }

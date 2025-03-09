@@ -33,6 +33,27 @@
     }
   ],
   "description": "源代码丽桑卓的设计意图是作为目视一切的安保机器人，但她超越了自己的初始代码，成为了有自我生成力的人工智能。她通过自己的拟态指令玩弄人类增强改造技术，所有人都会在她面前崩塌。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-04-06",
+    "earlysale": "2016-10",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Built as an all-seeing security bot, Program Lissandra rose above her initial code to become a self-generating artificial intelligence. She manipulates the technology of augmented humans with her own mimetic commands, so that all will fall before her."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "유명한 DJ이자 음악의 관리자, 강아지 행성의 지도자인 나서스는 한때 리산드라의 영향력 아래 있었습니다. 행성민들의 그루비한 음반을 압수해 다시는 듣지 못하도록 하기도 했죠. 그러나 디스코의 힘에 매료된 지금은 반란군을 이끌며 강력한 블리츠와 크랭크에 맞서 싸우고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Disco": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A storied disc jockey, music librarian, and leader of the Dog Planet, Nasus was once under Lissandra's thrall—seizing all his people's grooviest records and hiding them away, never to be heard again. Yet now, with his heart opened to the power of disco, he leads his people in rebellion against the deadly shock troopers Blitz & Crank."
+  }
 }

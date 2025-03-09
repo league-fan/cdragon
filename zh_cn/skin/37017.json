@@ -152,6 +152,58 @@
     }
   ],
   "description": "娑娜是一个潜力无限的强大灵能者，在过去几年中都被锁在黑暗中，经受着各种痛苦的实验，以使黑色玫瑰集团对制造完美的人类生物武器这一目标得到进一步的发展。在一次对黑色玫瑰集团研究设施的突袭中，她重获自由并发现她的力量已增长到几乎无所不能的程度，这使她不像是人类，更像是灵能之神。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Citrine": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Hunter": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "An immensely powerful psychic, Sona has spent the past several years locked in darkness, subjected to harrowing experiments to further the Black Rose Group's aims of manufacturing the perfect human bioweapon. Freeing herself during the assault on the BRG's research facility, she discovers her power has grown to near-omnipotence, making her less a human than a psychic god."
+  }
 }

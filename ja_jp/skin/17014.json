@@ -169,6 +169,56 @@
     }
   ],
   "description": "「…すると大いなる徴(しるし)が天に現れ、世界の光は人類の記憶から消えゆくだろう。解き放たれしすべての悪が、闇の真王が座す邪悪なる玉座へと昇る。命ある者はみなその笑い声を聞き、そして罪に溺れるのだ」―ティーモの書、16章3節",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17014,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-10-19",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Aquamarine": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "“…and a great sign shall appear in the heavens, the light of the world fading from human memory, as all the evils once locked away rise again upon a wicked throne—the true lord of darkness seated thereon. Every living thing will know his laugh, and be drowned in sin.” Teemo 16:3"
+  }
 }

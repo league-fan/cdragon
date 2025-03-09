@@ -145,6 +145,48 @@
     }
   ],
   "description": "龍の炎が世界を包み込んだとき、その燃えさしの中から英雄たちが現れ、伝説の獣を滅ぼした。これらの戦士たちは時とともに歴史となり、神話として語られる存在となった…しかしながら、パンテオンだけは古代の龍殺しの最後の一人として今も生き永らえている。終わることのない、神々への復讐を誓いながら。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-05-14",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge."
+  }
 }

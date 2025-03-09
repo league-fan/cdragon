@@ -25,6 +25,27 @@
     }
   ],
   "description": "이즈리얼은 초능력 전투 기술을 활용해 한계를 돌파했고, 덕분에 최고 사령부 지휘관들의 이목을 끌었습니다. 조금 흥분이 가라앉은 지금은 동료들의 인정을 받고 있지만, 차분함과는 여전히 거리가 멉니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81023,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2020-09-03",
+    "set": [
+      "PsyOps"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 22,
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Sanhua Chen",
+      "Kudos Productions"
+    ],
+    "lore": "Ezreal's mastery of psychic military combat has driven him to new heights, attracting the attention of his handlers in High Command. He's calmed down a bit, earning some respect from his squad mates… but not enough. He's never calmed down enough."
+  }
 }

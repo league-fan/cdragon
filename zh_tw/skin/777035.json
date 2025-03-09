@@ -160,6 +160,60 @@
     }
   ],
   "description": "這對兄弟喪失家園後，成為了墨影戰士。一個放棄了自由，另一個則放棄了身份。犽凝為了得到紋身，付出了沉重的代價：被所有人遺忘。現在被稱為「面具男」的他，庇護從祕密組織逃走的人，直至將他們送到犽宿的保護之下為止。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Inked": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Two brothers lost their home and became Inkshadow Warriors. One gave up his freedom, and the other his identity. Yone paid a steep price for his tattoo: no one remembers that he existed. Now known only as a faceless stranger called the “Man of Masks,” he shields refugees from the Cabal until they can be delivered into Yasuo's protection."
+  }
 }

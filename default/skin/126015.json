@@ -147,6 +147,57 @@
     }
   ],
   "description": "While many presumed him dead, Jayce's sudden return to the Resistance has been heralded by some as a miracle and others as a curse. Burdened by guilt, he still blames himself for his failure to halt Viktor's rise. Only time will tell if Jayce can turn the tide.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 126015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 17
+      },
+      "Emerald": {
+        "id": 18,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Trevor Devall"
+    ],
+    "splashartist": [
+      "Xuning Cui",
+      "Kudos Productions"
+    ],
+    "lore": "While many presumed him dead, Jayce's sudden return to the Resistance has been heralded by some as a miracle and others as a curse. Burdened by guilt, he still blames himself for his failure to halt Viktor's rise. Only time will tell if Jayce can turn the tide."
+  }
 }

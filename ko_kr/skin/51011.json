@@ -48,6 +48,35 @@
     }
   ],
   "description": "어느 시대에서도 두려움의 대상인 전설적 시공경관 케이틀린. 그녀의 임무는 시간이라는 연약한 수수께끼를 지키는 것입니다. 그 순수함을 감히 위협하는 자는 시간 플라즈마 발사기의 조준경을 벗어날 수 없을 것입니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-05-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-05-24",
+    "earlysale": "2017-11",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+  }
 }

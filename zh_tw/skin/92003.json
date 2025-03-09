@@ -166,6 +166,48 @@
     }
   ],
   "description": "有種就再說一次「超生氣」。有種就說啊。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-04-06",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 14
+      },
+      "Astral": {
+        "id": 11
+      },
+      "Catseye": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Granite": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 13
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Say “Hoppin' Mad” one more time. She dares you."
+  }
 }

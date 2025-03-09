@@ -49,6 +49,32 @@
     }
   ],
   "description": "Commemorating the 2016 season start.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-01-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 76008,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-01-14",
+    "set": [
+      "Challenger"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      }
+    },
+    "voiceactor": [
+      "Roxana Ortega"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Commemorating the 2016 season start."
+  }
 }

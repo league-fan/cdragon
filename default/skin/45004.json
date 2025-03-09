@@ -24,6 +24,19 @@
     }
   ],
   "description": "Contrary to popular belief, Veigar won't grant three wishes, isn't a fairy, and doesn't hide gold coins at the end of a rainbow. He will, however, kill you. Which is none of the things you want out of a magic leprechaun.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-03-15",
+    "set": [
+      "Fables"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "lore": "Contrary to popular belief, Veigar won't grant three wishes, isn't a fairy, and doesn't hide gold coins at the end of a rainbow. He will, however, kill you. Which is none of the things you want out of a magic leprechaun."
+  }
 }

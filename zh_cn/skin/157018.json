@@ -131,6 +131,53 @@
     }
   ],
   "description": "亚索是一位资深制作人，技艺精湛，高深莫测，人人都会向他寻求灵感。他的音乐不拘一格，以狂放的音色描绘出多重宇宙。亚索挑剔的脾性在业内人尽皆知，但他认为“真实伤害”就是革新大众音乐体验的手段。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-11-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-11-10",
+    "set": [
+      "True Damage"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 29
+      },
+      "Freestyle": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "True Damage 2019"
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "As enigmatic as he is skilled, Yasuo is the veteran producer all others turn to for inspiration. His beats transcend genre, painting whole universes with wild textures of sound. Notoriously selective about his collaborations, Yasuo sees True Damage as his platform to revolutionize how society experiences music."
+  }
 }

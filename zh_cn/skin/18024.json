@@ -137,6 +137,54 @@
     }
   ],
   "description": "曾是女巫的崔丝塔娜现在已是地狱的大魔后之一。她指挥着一支由次级魔鬼组成的大军，并统治着毁灭与悲伤的双重魔域。试图祈求于她的凡人们将找到各式各样的诱人契约，但签名时要当心：崔丝塔娜的终极目标是将她的签约人——连同全世界——沐浴在炼狱火之中。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-30",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Aquamarine": {
+        "id": 32
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A witch who is now one of the great queens of Hell, Tristana commands a vast army of lesser demons and rules the twin Aspects of Ruin and Woe. Mortals attempting to invoke her will find a variety of tempting contracts, but signers beware: Tristana's ultimate goal is bathing her signatories—as well as the world—in hellfire."
+  }
 }

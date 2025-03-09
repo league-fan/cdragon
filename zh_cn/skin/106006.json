@@ -24,6 +24,25 @@
     }
   ],
   "description": "众多古老的弗雷尔卓德传说中都有提及兽灵行者们被一种比弗雷尔卓德本身更古老的力量所吞噬，这种力量就是不屈巨熊的真正灵体。那些胆敢念出它名字的人，完全无法探知他们自己召唤出的这股力量有多强大。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2020-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106006,
+    "formatname": "The Thousand-Pierced Bear",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2020-05-28",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves."
+  }
 }

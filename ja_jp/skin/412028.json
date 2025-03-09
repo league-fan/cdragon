@@ -160,6 +160,60 @@
     }
   ],
   "description": "鋼鉄龍は大洞窟の保管庫で宝物に囲まれ、満足気にとぐろを巻きながら、謎に満ちた新たな宝物を手に入れる才能を持った者を欲していた。そして、その目はスレッシュに向けられた。龍に仕える名誉を授かったスレッシュだったが、宝物の入手にかける彼の飽くなき貪欲さは、やがて執着へと変わった。欲しいものを手に入れるためならば、スレッシュは手段をいとわず、自らに恩寵を授けた存在の名のもとに、いかなる残虐行為をも正当化するようになった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 34
+      },
+      "Emberclaw": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "The Steel Dragon, happiest curled up in its cavernous archive amidst its treasures, needed someone with a talent for acquiring esoteric new treasures—and its eye fell on Thresh. Honored to assist, Thresh's limitless appetite for acquisition warped into obsession. Now he stops at nothing to acquire what he wants, justifying his cruelty in the name of his benefactor."
+  }
 }

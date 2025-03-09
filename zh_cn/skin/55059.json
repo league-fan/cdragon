@@ -137,6 +137,53 @@
     }
   ],
   "description": "亲爱的狼，我们的国度迎来了一名刺客。虽然她蛰伏于阴影之中，却能让敌人的心中爬满恐惧。所以你才相中了她，不是吗？她身手矫捷、杀气凛凛、信念坚定。有她的加入，这场“永恒追猎”势必会很精彩。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55059,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 62
+      },
+      "Obsidian": {
+        "id": 67
+      },
+      "Pearl": {
+        "id": 68
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Tanzanite": {
+        "id": 65
+      },
+      "Turquoise": {
+        "id": 66
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An assassin was welcomed into our realm, dear Wolf. Though she moves in shadow, she strikes fear in the hearts of her foes. That caught your attention, didn't it? Her speed. Her violence. Her conviction. A welcome addition to the Eternal Chase."
+  }
 }

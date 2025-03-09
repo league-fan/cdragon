@@ -226,6 +226,59 @@
     }
   ],
   "description": "龍の王国の書庫には過去の時代の優れた叡智が集められている──その書庫を管理しているのが宮廷専属の研究者であるダイアナだ。彼女は熱心な学者であると同時に戦士でもあり、皇子の旅に同伴して、歴史上初となる龍と人間の遭遇について記録している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131054,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 59
+      },
+      "Citrine": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 58
+      },
+      "Lustrous": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans."
+  }
 }

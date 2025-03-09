@@ -137,6 +137,54 @@
     }
   ],
   "description": "비탄에 잠긴 자만이 슬픔의 진정한 소리를 압니다. 다른 누구도 듣지 못하는, 완벽을 향한 열망이죠. 비에고는 재와 그림자의 세상에 존재합니다. 이 세상은 빛으로 채워져야 마땅하기에, 비에고는 빛을 가져올 새 소리와 광경을 찾아 회색 지평선 너머로 눈을 돌립니다...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 15
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Only the broken-hearted can know the true sound of grief, that yearning for perfection that goes unheard by all others. Viego exists in a world of ashes and shadow, when it ought to be filled with light, and now looks beyond these grey horizons for new sounds and visions to make it so..."
+  }
 }

@@ -155,6 +155,59 @@
     }
   ],
   "description": "實驗失敗的產物！滅怪司之犬！四腳鬥士！這隻……生物……的外號就跟她能召喚的分身數量一樣多耶！她想要對以前的主人復仇嗎？還是征服世界呢？我不知道！我又不是寵物溝通師！歡迎……娜菲芮！  ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 950001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 6
+      },
+      "Jasper": {
+        "id": 8
+      },
+      "Limitless": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Morla Gorrondona"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Failed experiment! DEMA DOG! The Four-legged Fighter! This... creature... has almost as many titles as it does separate entities it can summon! Does it want revenge on its former masters? To take over the world? I don't know! I'm no dog mind reader! It's.... Naafiri!  "
+  }
 }

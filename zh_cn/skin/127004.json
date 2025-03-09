@@ -142,6 +142,56 @@
     }
   ],
   "description": "它们走向丽桑卓，仿佛一些醒着的睡梦——乳白牡鹿的幻视，以及长久遗失在古老年代的陈旧魔法。即使是现在，这个永不显老的女巫仍居住在那些古老植物的扭曲阴影中，等待着她已逝诸神们从他们腐烂受诅的墓穴中溢出。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-27",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Dark Ritual": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Meteorite": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 5,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "They came to Lissandra as if in some waking dream—visions of the Ivory Stag, and the old magics long lost to antiquity. Even now, the ageless witch resides among those twisted shadows of the old growth, awaiting the day her dead gods spill forth from their rotten and accursed graves."
+  }
 }

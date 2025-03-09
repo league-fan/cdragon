@@ -137,6 +137,54 @@
     }
   ],
   "description": "犽宿在夢中瞥見多條自己可能會走上的路。在其中一條路上，犽宿看到自己變成了一位孤獨老人，並偏離了自己的理念。為了彌補自己早已遺忘的罪過，他放棄了夢想、家人，甚至是愛情。這個畫面不是個警告，而是個提醒，因為犽宿知道自己隨時都可以回到正路上，不過犽宿得找到它……或讓它找到自己。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157068,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Otherroads"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 75
+      },
+      "Catseye": {
+        "id": 70
+      },
+      "Emerald": {
+        "id": 72
+      },
+      "Obsidian": {
+        "id": 74
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 76
+      },
+      "Ruby": {
+        "id": 69,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Yasuo glimpsed many paths in his dreams. One saw him as an old man, alone, having strayed far from his course. He had given up ambition, family, even love, all to atone for sins he could no longer remember. This vision was not a warning, but a reminder, for Yasuo knew he could always return to his path. He only needed to find it... or let it find him."
+  }
 }

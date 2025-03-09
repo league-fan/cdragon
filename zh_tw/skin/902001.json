@@ -160,6 +160,59 @@
     }
   ],
   "description": "米里歐是宮殿的大賢者，周圍總是環繞著螢火蟲魔使。只要是發生在宮殿內的大小事，都逃不過他的法眼。他外表看似小孩，但妖精可是長命的種族，米里歐當小孩的時間遠超過常人的人生。不過他心地善良，會盡其所能地利用他的力量守護女王國度。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 902001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Peridot": {
+        "id": 5
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 8
+      },
+      "Winsome": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Giselle Fernandez"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "An archmagus of the court wreathed in firefly familiars, Milio knows just about everything that happens within the palace walls. He may seem like a child, but fae are long-lived, and Milio has been a child far longer than others have been adults. Still, he is a friendly face who uses his power to safeguard the Queendom however he can."
+  }
 }

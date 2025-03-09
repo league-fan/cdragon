@@ -137,6 +137,53 @@
     }
   ],
   "description": "不気味で孤児のアニーちゃん、寄り道なんてことはしない<br>ひとり孤独な少女には、遊び相手が誰もいない<br>家族はみんな逃げてった(それか死んだか、行方不明)<br>友達みんな帰っちゃう…そんな時こそティバーズだ！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 35
+      },
+      "Catseye": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Awful Orphan Annie comes home from school each day<br>A lonely little lady with whom no one will play<br>Now all her family's fled (or dead or gone away)<br>She can depend on Mr. Tibbers to make her new friends stay!"
+  }
 }

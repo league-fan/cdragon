@@ -109,6 +109,50 @@
     }
   ],
   "description": "雷玟從小就是個生命之息教徒，對生命之息教的邪惡作為毫不懷疑，直到她發現夜曲折磨不滅鬼神，並將他們餵給科加斯。她成功帶著一名囚犯逃走，但也因此受到了致命傷，而那名囚犯為了保住她的性命，便將她變成了不滅鬼神。淪落為流亡者且受無盡飢餓折騰的雷玟，現在力求拯救自己和墮落的家人。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 60
+      },
+      "Obsidian": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "Born an Aspirant, Riven had no doubts about the congregation's evils until she discovered Nocturne torturing and feeding Neverghaast to Cho'Gath. Despite being mortally wounded, she escaped with a prisoner, who turned her into a Neverghaast to save her life. Now an exile with an endless hunger, Riven fights to redeem herself and her corrupted family."
+  }
 }

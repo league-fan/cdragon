@@ -145,6 +145,48 @@
     }
   ],
   "description": "當世界遭龍焰燒毀吞沒之時，英雄從餘燼中誕生，擊敗了傳說中的巨獸。這些英勇的戰士名留青史，逐漸變成神話 … 直到潘森獨自存活，成為古老弒龍者的最後一員，對天發誓要進行永恆的復仇。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-05-14",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge."
+  }
 }

@@ -44,6 +44,35 @@
     }
   ],
   "description": "在各方組織挑起的戰爭爆發的當時，身處戰場前線的艾希目睹了在菁英計畫的野心下犧牲的人類。現在她是反抗組織 G/NETIC 的首領，而她的目標自始至終都只有一個，那就是讓那些掌握著極大權力與資源的企業垮臺。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2016-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22008,
+    "formatname": "PROJECT: Ashe",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2016-08-01",
+    "earlysale": "2017-02",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "While on the frontlines of a corporate war, Ashe witnessed the human cost of PROJECT's ambition. Now the leader of the resistance group G/NETIC, Ashe has set her sights on nothing less than the downfall of the most powerful corporations."
+  }
 }

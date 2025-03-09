@@ -97,6 +97,44 @@
     }
   ],
   "description": "한때 유명한 철도왕이자 백만장자 산업가였던 제레미아 제임스는 자신의 심장을 도박에 걸었다가... 결국 지고 말았습니다. 사막에 홀로 남겨져 죽어가던 그는 지나가던 악마와 거래해 불사의 영혼을 얻는 대신 톱니바퀴와 철로 이루어진 기괴한 존재가 되어 버렸습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 6009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tanzanite": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Mist XG"
+    ],
+    "lore": "Jeremiah James was once a famed railroad baron and millionaire industrialist, who bet his own heart on a game of chance… and lost. Left alone in the desert to die, he bargained with a passing devil, trading his immortal soul for a twisted, monstrous body of gears and iron."
+  }
 }

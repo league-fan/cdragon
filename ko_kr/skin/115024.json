@@ -137,6 +137,55 @@
     }
   ],
   "description": "벌에게는 폭탄을 주면 안 된다는 게 양봉의 기본입니다. 거기 너! 그 통통 튀는 폭탄을 내려놔!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115024,
+    "formatname": "BZZZiggs",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-03",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Tanzanite": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "According to all known laws of apiculture, bees shouldn't be given explosives. Hey! Put that bouncing bomb down, bee!"
+  }
 }

@@ -105,6 +105,45 @@
     }
   ],
   "description": "仁慈的星之统治者——艾希射出的箭矢穿过了无尽黑暗的领地，所到之处皆会创造新的星座。她的宫殿在星系间流转，让所有褪色的星光被再度点亮。  ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-21",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded."
+  }
 }

@@ -138,6 +138,54 @@
     }
   ],
   "description": "ヴァイとの激しい戦いの末に、リヴェンは武器と自信の両方を打ち砕かれ、自らの故郷に戻ることを余儀なくされた。しかし、敗北しても揺るがぬ彼女の不屈の勇気を見て、故郷の人々は彼女に強力なワイルドストライプを授けた──時が来れば、それが彼女の剣を再生してくれるだろう。それからリヴェンはひと時も休まず訓練を続けている。ワイルドストライプを受け取るにふさわしい者であると、皆に示すその時のために。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92063,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Primal Ambush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 69
+      },
+      "Citrine": {
+        "id": 65
+      },
+      "Emerald": {
+        "id": 66
+      },
+      "Obsidian": {
+        "id": 71
+      },
+      "Rose Quartz": {
+        "id": 67
+      },
+      "Ruby": {
+        "id": 64,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 68
+      },
+      "Turquoise": {
+        "id": 70
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "After a fierce bout with Vi left both her weapon and her confidence shattered, Riven was forced to return to her roots. Due to her unyielding bravery, even in the face of defeat, her community bestowed her with a powerful Wildstripe that reforges her blade in times of need. She trains tirelessly for the day that she can prove she's worthy of their gift."
+  }
 }

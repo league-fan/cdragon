@@ -24,6 +24,19 @@
     }
   ],
   "description": "巨大な氷冠の下のどこかに隠れ、彼の領域に入り込んだ愚かな者たちの恐怖を糧にする悪魔が潜んでいる。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-03-15",
+    "set": [
+      "Glacial"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "lore": "Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain."
+  }
 }

@@ -124,6 +124,49 @@
     }
   ],
   "description": "対抗試合でまだ一度も勝利したことがないバビロン・アカデミーの神器は、今年のアカデミー対抗試合に出場するチームのリーダーにザヤを選んだ。「バトルクラブ」の部長である彼女は、チームメイトに対してボスとして振る舞う権利を手にし、ラカンと“休暇”を楽しめることに満足しているが、それでも自分がリーダーでいることを楽しんでいるとは決して認めないだろう。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": null
+  "wikiSkinData": {
+    "id": 498057,
+    "availability": "Upcoming",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "N/A",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 59
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Pearl": {
+        "id": 63
+      },
+      "Rebelguard": {
+        "id": 62
+      },
+      "Ruby": {
+        "id": 58,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Babylon Academy's God-Weapon chose Xayah to lead the school's team in this year's cross-academy tournament, which they've never won. As captain of the Battle Club, she's happy to use her new leverage to boss around her teammates and savor the “vacation” with Rakan, though she'll never admit she enjoys being a leader."
+  }
 }

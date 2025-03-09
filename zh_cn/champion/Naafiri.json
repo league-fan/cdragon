@@ -13,24 +13,139 @@
       "name": "百裂冥犬",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 950000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2023-07-20",
+        "voiceactor": [
+          "Morla Gorrondona"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only by canine instincts, but by the ancient power of the Darkin."
+      }
     },
     {
       "id": 950001,
       "name": "斗魂觉醒 纳亚菲利",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 950001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 4
+          },
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 6
+          },
+          "Jasper": {
+            "id": 8
+          },
+          "Limitless": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Morla Gorrondona"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Failed experiment! DEMA DOG! The Four-legged Fighter! This... creature... has almost as many titles as it does separate entities it can summon! Does it want revenge on its former masters? To take over the world? I don't know! I'm no dog mind reader! It's.... Naafiri!  "
+      }
     },
     {
       "id": 950011,
       "name": "源计划：狂猎 纳亚菲利",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 950011,
+        "formatname": "PROJECT: Naafiri",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-06",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Morla Gorrondona"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "PROJECT's experiments permanently altered the canine Naafiri, allowing her to assimilate her targets' consciousness into her own. Sensing potential in this ability, Mordekaiser infected her programming with a new mission: erase all of humanity's free will. Now she'll prove to any survivors that resistance is futile."
+      }
     }
   ]
 }

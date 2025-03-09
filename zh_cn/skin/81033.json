@@ -160,6 +160,60 @@
     }
   ],
   "description": "虽然伊泽瑞尔是夏之庭的一名领主，但他更愿意研究古代魔法史，而不是忍受所有的尔虞我诈。然而，当他的研究揭示出关于花仙女王继承顺序的一些反常事情时，伊泽瑞尔发现有人可能出于自己的目的将卡尔玛置于王座之上......",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-23",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 41
+      },
+      "Winsome": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Faerie Court 2023"
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Though he is a lord of the Summer Court, Ezreal would much rather be investigating ancient magical history than putting up with all the political drama. When his research reveals something curious about the Faerie queen's line of succession, however, Ezreal discovers that someone may have placed Karma upon the throne for their own purposes…"
+  }
 }

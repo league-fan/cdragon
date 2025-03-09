@@ -160,6 +160,60 @@
     }
   ],
   "description": "サイオンは自らの生命を認識するのとほぼ同時に怒りに目覚めた。そして怒りのままに彼は手術台の拘束具を引きちぎり、創造の奇跡を弄ぼうとした者たちの骨を砕いた。サイオンは彼らが造ろうとしていた、二人目の機械仕掛けの天使ではなく、そうなる可能性など微塵もなかった。サイオンの心は怒りに満ちている。この世界もすぐに怒りに飲まれることになる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 35
+      },
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Nomad": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "As soon as Sion knew life, he knew rage: rage that ripped the restraints from the operating table; rage that crushed the bones of those men who tried to play at the miracle of Creation; rage that he ain't, nor ever would be, the second clockwork angel they had hoped to construct. Sion knows rage, and so will the world."
+  }
 }

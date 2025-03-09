@@ -8,96 +8,631 @@
       "name": "斗魂觉醒 伊芙琳",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 28042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Limitless": {
+            "id": 51,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Peridot": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Most awaken their souls through hard work, but this fighter... no! All it took was a stop by the Department for the Eradication of Manifested Anomalies and boom! Cobra powers. SURE, apparently the procedure involves the \"worst pain one can possibly imagine.\" But look at her now! Here to hunt down a daughter with nowhere left to run... it's Evelynn!"
+      }
     },
     {
       "id": 35043,
       "name": "斗魂觉醒 萨科",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 51
+          },
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Limitless": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "I know very little about this fighter... and I've been told by our host to say EVEN LESS! (They've GOT to be friends... or mortal enemies?) His desires are hidden—just like his face—and his style in the ring remains to be seen! We just LOVE a mysterious and not-at-all creepy combatant, don't we, folks? Here he is... Shaaaaaaaacoooooo!"
+      }
     },
     {
       "id": 35044,
       "name": "至臻 斗魂觉醒 萨科",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 35044,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 43,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "Shaco is never predictable; his unique (and often terrifying) looks make him a hit with judges year after year. Now adorned in gold and ivory lace, Shaco claims to be making a statement about fast fashion and the constraints it puts on designers and models. Or maybe he just wants an excuse to show off his soul-power arms.  "
+      }
     },
     {
       "id": 99038,
       "name": "斗魂觉醒 拉克丝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 57
+          },
+          "Aquamarine": {
+            "id": 53
+          },
+          "Citrine": {
+            "id": 59
+          },
+          "Emerald": {
+            "id": 55
+          },
+          "Limitless": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 54
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "On the run from her family, and she figured the best place to hide would be ON TV?! Seriously though, folks, this lady has some trauma... and we all know the ring is *the* place to work that out! Now, if I was a betting man—and I am—I'd say she'd use that soul's desire to make her drama disappear. It's Lux!"
+      }
     },
     {
       "id": 202036,
       "name": "斗魂觉醒 烬",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 202036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 43
+          },
+          "Catseye": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Limitless": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Don't ask him how, but this twisted mentor can unlock ANY person's soul power under the right conditions! Just be prepared, because his trials are deadly! He's ready to put his art on full display on the world's biggest stage and maybe even get some revenge on a bounty hunter along the way! Let's give it up for… Jhin!"
+      }
     },
     {
       "id": 234030,
       "name": "斗魂觉醒 佛耶戈",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 234030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Citrine": {
+            "id": 33
+          },
+          "Emerald": {
+            "id": 32
+          },
+          "Limitless": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Meteorite": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Sean Teale"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "The gracious—if needlessly reclusive—host of the Tournament of Souls welcomes all to his arena! Look at him now, eyeing the competition from his throne room high above the ring! Doesn't his solitude just make ya sad, folks? Here's hoping he hops down from that tower and turns that sorrow into UNBRIDLED RAGE! Viiiiieeeeeeegoooooo!"
+      }
     },
     {
       "id": 360030,
       "name": "斗魂觉醒 莎弥拉",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "3250",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 360030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Emily O’Brien"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A renowned bounty hunter who can't sit still cause she's ALWAYS on the hunt for her next thrill! This weapons master can use every dangerous tool in (and out!) of her arsenal to fight with STYLE in the Tournament of Souls! Our gracious host better sleep with one eye open, because rumor has it this queen wants to collect his crown! Make way for… SAMIRA!"
+      }
     },
     {
       "id": 555053,
       "name": "斗魂觉醒 派克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 555053,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 60
+          },
+          "Limitless": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 62
+          },
+          "Pearl": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 59
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Darien Sills-Evans"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "This un-alived assailer has unfinished business: duking it out in the ring! Now, I can't say if returning from the dead proves the existence of the \"Lands Beyond.\" (I don't get paid enough to PONDER MY EXISTENCE!) But if rumors are true, and this fighter's friend brought him back from the brink... then we're in for a HELL of a fight! Here's Pyke!"
+      }
     },
     {
       "id": 555054,
       "name": "至臻 斗魂觉醒 派克",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 555054,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 53,
+        "voiceactor": [
+          "Darien Sills-Evans"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Pyke's fashion-forward fit impresses not only the rich and famous at the Gala of Souls, but all those watching at home—and his fans from the Lands Beyond. The edgy aesthetics and glossy flame motifs all but guarantee him a spot on the list of any discerning judge. After all, if Pyke's not on your list, you'll end up on his..."
+      }
     },
     {
       "id": 875045,
       "name": "斗魂觉醒 瑟提",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 875045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 52
+          },
+          "Citrine": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 50
+          },
+          "Limitless": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Meteorite": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "This fighter is here to prove that fists CAN be the answer to everything! That is, assuming the question of everything is \"how does one person win the most local tourneys in recorded history?\" And he's not just doing it to look good—though that is a nice bonus—he's rising up the ranks to soul fightin' legend to make his momma proud. It's Sssssett!"
+      }
     },
     {
       "id": 887020,
       "name": "斗魂觉醒 格温",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 887020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-03",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 26
+          },
+          "Citrine": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Limitless": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 28
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Abby Trott"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "She went to the ends of the world... and beyond... to save her friend! And according to the bracket that I'm looking at with my very eyes, she's going to have to fight him to win this tournament! OOF! I swear, this isn't scripted folks. It's LIVE TV! A girl with friendship in her heart and magical scissors that raise the dead in her hands: Gwen!"
+      }
     },
     {
       "id": 950001,
       "name": "斗魂觉醒 纳亚菲利",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 950001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 4
+          },
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 6
+          },
+          "Jasper": {
+            "id": 8
+          },
+          "Limitless": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Morla Gorrondona"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Failed experiment! DEMA DOG! The Four-legged Fighter! This... creature... has almost as many titles as it does separate entities it can summon! Does it want revenge on its former masters? To take over the world? I don't know! I'm no dog mind reader! It's.... Naafiri!  "
+      }
     }
   ]
 }

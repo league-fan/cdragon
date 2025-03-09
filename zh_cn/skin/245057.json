@@ -58,6 +58,33 @@
     }
   ],
   "description": "虽然皮尔特沃夫和祖安的未来尚不明朗，但有一件事绝不会变——那就是艾克始终会为自己所爱之人以及祖安的未来付出一切。以Z型驱动为武器的他，已经准备好为未来而战，即使困难重重，他也无所畏惧。幸运的是，这位救世主还藏了几手……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245057,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 58,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "While the future of Piltover and Zaun is unclear, one thing remains constant—Ekko's dedication to those he loves, and to the future of Zaun. Armed with his Z-Drive, he is ready to fight for that future, even if the odds are stacked against him. Luckily, the boy savior still has a few tricks up his sleeve…"
+  }
 }

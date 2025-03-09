@@ -25,6 +25,24 @@
     }
   ],
   "description": "기근으로 황폐해진 항성계의 잔여물에서 나타난 초가스는 자신의 길을 지나가는 모든 천체를 먹어치웁니다. 먹힌 천체들은 초가스의 심장에 있는, 그의 굶주림처럼 끝없는 쌍 블랙홀로 빨려 들어갑니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31007,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-07-13",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses his path. These feasts swirl into the twin black holes at his heart—as endless and ageless as his hunger."
+  }
 }

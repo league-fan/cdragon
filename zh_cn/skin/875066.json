@@ -82,6 +82,40 @@
     }
   },
   "description": "瑟提是皎白蛇灵的后裔之一。他是一位动作电影明星，用先祖的神力震撼全世界的观众，并对自己的母亲尽善尽孝。当家乡受到地下集团的威胁时，瑟提是时候在现实生活中也扮演英雄的角色了——但这位巨星在他的故事中会成为一个追求名利的大人物呢，还是成为一个谦逊的捍卫者呢？",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875066,
+    "availability": "Rare",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+    "release": "2025-01-09",
+    "set": [
+      "Modern Mythos"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "transforming": true,
+    "forms": [
+      "Serpent",
+      "Divine"
+    ],
+    "chromas": {
+      "Serpent": {
+        "id": 66
+      },
+      "Divine": {
+        "id": 66
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "A descendant of the Ivory Serpent spirit, Sett is an action movie star who uses his ancestral gifts to wow audiences and give his Ma the good life she deserves. When his hometown is threatened by a crime syndicate, it's time for Sett to play the hero in real life, too—but will his story star a fame-seeking hotshot, or a humble protector?"
+  }
 }

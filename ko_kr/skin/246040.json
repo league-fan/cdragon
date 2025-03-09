@@ -160,6 +160,60 @@
     }
   ],
   "description": "유별나게 자기중심적인 운동선수였던 키아나는 챔피언십 경기에서 뜻하지 않게 죽음을 맞이한 후 그녀를 사랑하는 가족들의 슬픔 덕분에 생명의 영혼이 되었습니다. 실패가 수치스러웠던 키아나는 가족들이 자신의 성과가 어떻든 그저 있는 그대로의 자신을 사랑했다는 사실을 깨달았습니다. 가족의 사랑으로 충만해진 키아나는 끝까지 가족을 수호할 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 44
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 47
+      },
+      "Vivida": {
+        "id": 49,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Qiyana was a prodigiously self-centered athlete, but after dying during a championship match without warning, her family's love-stricken grief transformed her into an Eidola Vida. Still ashamed of her failure, Qiyana realizes her family never cared about what she did, only who she was. Filled with their love, she's ready to watch over them until the end."
+  }
 }

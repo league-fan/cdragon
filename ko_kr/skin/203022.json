@@ -137,6 +137,55 @@
     }
   ],
   "description": "개와 고양이는 최고의 친구가 될 수 없다고요? 고양이와 골든레트리버가 수 세기 동안 서로 싸우고 있다고요? 음, 이제 다 잊으세요! 멍멍양은 개와 고양이가 친구가 될 수 있다는 사실의 살아 있는 증거입니다. 심사위원들은 멍멍이나 양이 실제로 '살아있다'고 확신하진 못하지만요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 203022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-06",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Granite": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Marcella Lentz-Pope",
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Who said dogs and cats can't be best friends? Cat ladies and golden retriever boyfriends pitting the two against each other for centuries? Eh, forget all that! Woof and Lamb are living proof that canines and felines CAN get along... though the judges are not actually sure either of them are \"alive\"."
+  }
 }

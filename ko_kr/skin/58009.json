@@ -173,6 +173,46 @@
     }
   ],
   "description": "1996년 처음 생산된 레넥토이는 모두의 예상을 깨고 출시 즉시 최고 인기 아이템으로 등극했습니다. 물량 부족과 수요 증대가 맞물려 온라인에서는 되팔기가 성행하고 상점에서는 선물을 사려던 부모들끼리 주먹다짐을 벌이는 일이 빈번한가 하면 경찰이 '마트 대란'으로 이름 붙인 진풍경도 몇 번이나 나타났습니다.",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58009,
+    "formatname": "Renektoy",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2017-03-29",
+    "earlysale": "2017-10",
+    "set": [
+      "Toy Box"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Aquamarine": {
+        "id": 14
+      },
+      "Catseye": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "First produced in 1996, Renektoy quickly and unexpectedly became the must-have gift of the season. Shortages and heightened demand led to online scalping, parents fist fighting in store aisles, and a small number of what police later described as “mall stampedes.”"
+  }
 }

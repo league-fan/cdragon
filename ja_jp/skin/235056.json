@@ -124,6 +124,51 @@
     }
   ],
   "description": "セナはオーロラの夢のような抱擁の中で目を覚ました。威厳に満ちた装束を身にまとった彼女は理解に苦しんだ。彼女は自分がどうしてこうなったのか覚えておらず、他のことも思い出すことができなかったのだ。そんな彼女にも残されているものがあった。断片的な温かい記憶──影に包まれた恋人の記憶だ。「私は誰なの？」セナの口から疑問がこぼれた。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235056,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Rainbow": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Wreathguard": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Senna woke in the dreamlike embrace of the Aurora. Clad in regal dress she didn't recognize, she had no memory of how she got there, nor could she remember anything else, save for flashes of warmth: a love, lost in shadow. \"Who am I?\" she wondered."
+  }
 }

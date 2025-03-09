@@ -148,6 +148,57 @@
     }
   ],
   "description": "천상의 왕국에서 내려온 잔혹한 마법사 모르가나는 젊은 반신반인 이렐리아가 용왕의 힘을 봉인하자 이를 못마땅히 여겼습니다. 이렐리아와의 결투에서 승리한 모르가나는 그녀가 용왕의 힘을 숨겨 두었다는 사실을 곧 알아챘고, 정당한 주인에게 돌려주기 위해 용왕의 힘을 찾아 나섰습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-26",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 19
+      },
+      "Heavenly Crane": {
+        "id": 24,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Immortal Journey 2019"
+      },
+      "Meteorite": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "A feared sorceress queen from the heavenly kingdoms, Morgana looked on with disdain as Irelia sealed away the power of a dragon. Crushing her in combat, Morgana soon realized the young demigoddess had hidden that power away, and now ruthlessly searches for a way to return it to its rightful owner."
+  }
 }

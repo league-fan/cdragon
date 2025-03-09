@@ -147,6 +147,57 @@
     }
   ],
   "description": "レンガーはこの街で知らない人はいないくらい有名なアーティストだ。彼は自らの作品を風景の中に溶け込ませるスタイルを得意としており、そのアートは思いも寄らぬ所から人々の目に飛び込んでくる。タグフェストが始まると、レンガーのファンたちは通りに出て、彼の作品を探すのが恒例となっている。あっと驚くような場所で彼のアートを見つけては、写真に撮って誇らしげにソーシャルメディアに投稿しているのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 44
+      },
+      "Emerald": {
+        "id": 42,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 45
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Rengar is a famous artist throughout the city, a master of hiding his work in plain sight, only to have it leap out at viewers when they least expect it. When TagFest rolls around, it's common to see Rengar's fans scouring the streets for his pieces, discovering art in surprising and unconventional places and proudly posting photos to social media."
+  }
 }

@@ -137,6 +137,56 @@
     }
   ],
   "description": "Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-30",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 42
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination."
+  }
 }

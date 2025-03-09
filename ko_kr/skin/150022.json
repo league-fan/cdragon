@@ -138,6 +138,54 @@
     }
   ],
   "description": "숲을 활보하며 커다란 참나무를 맨손으로 잡아 뜯는 괴물에 대한 이야기가 오래전부터 전해져 옵니다. 하지만 이 괴수가... 반짝이는 물건과 뼈다귀를 모으고 나무 꼭대기에서 가냘프게 우는 작고 호기심 많은 동물이기도 하다는 사실을 아는 사람은 별로 없습니다. 현명한 사람은 양쪽 모두 건드리지 않습니다. 멍청한 사람은 어떻게 되냐고요? 그 사람이 어느 쪽 나르를 만났는지에 따라 다르겠죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-06",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Tanzanite": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Stories have long been told of a monster that stalks the wood, rending massive oak trees asunder bare-handed—but few realize this titan is also the small, curious creature that collects baubles and bones and chitters through the treetops. The wise leave both to their devices. The foolish? Well, it depends which Gnar they meet."
+  }
 }

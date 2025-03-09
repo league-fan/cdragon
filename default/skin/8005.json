@@ -24,6 +24,25 @@
     }
   ],
   "description": "Former leader of a Bloodstone cult, Vladimir took part in a ritual that sacrificed his humanity—along with the blood of several victims—to transform the once foppish noble into a terror of the night. To satiate his sanguine cravings, he stalks the urban labyrinth in search of hapless prey.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2011-11-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2011-11-21",
+    "set": [
+      "Bloodstone"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Former leader of a Bloodstone cult, Vladimir took part in a ritual that sacrificed his humanity—along with the blood of several victims—to transform the once foppish noble into a terror of the night. To satiate his sanguine cravings, he stalks the urban labyrinth in search of hapless prey."
+  }
 }

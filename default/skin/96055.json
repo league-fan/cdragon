@@ -869,6 +869,82 @@
     }
   },
   "description": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-05-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 1.",
+    "release": "2024-05-17",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Challenger": {
+        "id": 64,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Diamond": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Emerald": {
+        "id": 60,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Gold": {
+        "id": 58,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Grandmaster": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Master": {
+        "id": 62,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Platinum": {
+        "id": 59,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Silver": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth."
+  }
 }

@@ -198,6 +198,47 @@
     }
   ],
   "description": "オーダーメイドのスーツ、身体にフィットしたベスト、そして優雅なガントレット。エズリアルと一般人はどこが違うのかは一目瞭然。このスタイルを着こなせるのは彼しかいない。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-08-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-08-05",
+    "set": [
+      "Debonair"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Meteorite": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 12
+      },
+      "Striped": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't."
+  }
 }

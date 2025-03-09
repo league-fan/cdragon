@@ -129,6 +129,28 @@
     }
   },
   "description": "祝贺，阿狸，你以优雅和谦逊的姿态完成了我的试炼。成为殿堂传奇绝非易事，即使面对失败，你也证明了自己的韧性。去吧，为不死大魔王铸就一段传说。若你准备好探寻自己真正的潜力……只需听我呼唤。  ",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103085,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Purchase the Risen Legend Collection during the Hall of Legends event.",
+    "release": "2024-06-12",
+    "set": [
+      "Risen Legends"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling",
+      "Julia Yurtsev",
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "You've done well, Ahri, to complete my trials with such grace and humility. To become a Risen Legend is no easy feat, and even in the face of failure, you have proven your resilience. Go forth and leave a legacy worthy of the Unkillable Demon King. When you're ready to learn your true potential… heed my call."
+  }
 }

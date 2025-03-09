@@ -8,112 +8,680 @@
       "name": "冠军蔷薇 乐芙兰",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-09-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 7029,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-09-24",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2020 in Shanghai."
+      }
     },
     {
       "id": 13011,
       "name": "冠军之志 瑞兹",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 13011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-26",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2019"
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Celebrating Worlds 2019 in Europe."
+      }
     },
     {
       "id": 22009,
       "name": "冠军之箭 艾希",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-09-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22009,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-12",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2017: Chase Your Legend"
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Celebrating Worlds 2017 in China."
+      }
     },
     {
       "id": 58042,
       "name": "2023 全球总决赛 雷克顿",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58042,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-11",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 44
+          },
+          "Destined": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Peridot": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Unlocked": {
+            "id": 47,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds Unlocked"
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2023 in Korea."
+      }
     },
     {
       "id": 59030,
       "name": "2021 全球总决赛 嘉文四世",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 59030,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Aquamarine": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Catseye": {
+            "id": 32
+          },
+          "MAKE/BREAK": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2021 in Reykjavík."
+      }
     },
     {
       "id": 92004,
       "name": "冠军之刃 锐雯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-10-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92004,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": 975,
+        "distribution": "Limited Purchase",
+        "release": "2012-10-13",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Celebrating Worlds 2012 in North America."
+      }
     },
     {
       "id": 92007,
       "name": "冠军之刃 锐雯 2016",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-09-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-09-25",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "variant": 4,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Celebrating Worlds 2016 in North America."
+      }
     },
     {
       "id": 102005,
       "name": "冠军之血 希瓦娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-10-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 102005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-13",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 7,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Brandon 'Madspartan' Liao"
+        ],
+        "lore": "Celebrating Worlds 2014 in Korea."
+      }
     },
     {
       "id": 121011,
       "name": "冠军掠夺者 卡兹克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-09-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-27",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Flash Wolves": {
+            "id": 13,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "KT Rolster": {
+            "id": 14,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Fnatic": {
+            "id": 15,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Kaos Latin Gamers": {
+            "id": 17,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "G2 Esports": {
+            "id": 18,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Team Vitality": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Ascension Gaming": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Afreeca Freecs": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Generation Gaming": {
+            "id": 25,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "KaBuM! e-Sports": {
+            "id": 28,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Gambit Esports": {
+            "id": 30,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "DetonatioN FocusMe": {
+            "id": 31,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Infinity eSports CR": {
+            "id": 35,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "G-Rex": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "MAD Team": {
+            "id": 41,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "EDward Gaming": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Invictus Gaming": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Royal Never Give Up": {
+            "id": 46,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "100 Thieves": {
+            "id": 47,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Cloud9": {
+            "id": 48,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Team Liquid": {
+            "id": 51,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Dire Wolves": {
+            "id": 53,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "SuperMassive eSports": {
+            "id": 54,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          },
+          "Phong Vũ Buffalo": {
+            "id": 59,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds 2018 Team Bundles"
+          }
+        },
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Celebrating Worlds 2018 in Korea."
+      }
     },
     {
       "id": 234037,
       "name": "2024 全球总决赛 佛耶戈",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 234037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-09-25",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 40
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Triumphant": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Unlocked": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds Unlocked"
+          }
+        },
+        "voiceactor": [
+          "Sean Teale"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2024 in London."
+      }
     },
     {
       "id": 238010,
       "name": "冠军之隐 劫",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-09-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 238010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-09-25",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Celebrating Worlds 2016 in North America."
+      }
     },
     {
       "id": 268014,
       "name": "2022 全球总决赛 阿兹尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 268014,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-22",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 17
+          },
+          "One & Only": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Tanzanite": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2022 in North America."
+      }
     },
     {
       "id": 412002,
       "name": "冠军典狱长 锤石",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-10-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-10-03",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "Celebrating Worlds 2013 in North America."
+      }
     },
     {
       "id": 429002,
       "name": "冠军之矛 卡莉丝塔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-09-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-09-27",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 4,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Celebrating Worlds 2015 in Europe."
+      }
     }
   ]
 }

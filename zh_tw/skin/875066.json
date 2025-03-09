@@ -73,6 +73,40 @@
     }
   },
   "description": "身為霜白巨蛇之靈的後裔，賽特是一位動作片明星，他運用遺傳的天賦讓觀眾大開眼界，並為母親爭取到了理想的美好生活。當賽特的家鄉受到犯罪集團威脅，他挺身而出成為了現實生活中的英雄，但他日後究竟會墮落為追求名利的明星，還是升格為謙遜的守護者呢？",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875066,
+    "availability": "Rare",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+    "release": "2025-01-09",
+    "set": [
+      "Modern Mythos"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "transforming": true,
+    "forms": [
+      "Serpent",
+      "Divine"
+    ],
+    "chromas": {
+      "Serpent": {
+        "id": 66
+      },
+      "Divine": {
+        "id": 66
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "A descendant of the Ivory Serpent spirit, Sett is an action movie star who uses his ancestral gifts to wow audiences and give his Ma the good life she deserves. When his hometown is threatened by a crime syndicate, it's time for Sett to play the hero in real life, too—but will his story star a fame-seeking hotshot, or a humble protector?"
+  }
 }

@@ -124,6 +124,51 @@
     }
   ],
   "description": "瑟菈紛原本是百獸特攻隊的通訊官，也就是「負責坐椅子的女孩」——直到她成為第一代戰鬥鴿女，用她天生敏銳的聽力操作新的百獸科技裝，利用聲波攻擊震撼戰場！當她攔截到一個奇怪的求救信號，瑟菈紛便展開她的第一項任務：找到信號來源，並帶領小隊前往救援。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 147043,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Nightwire": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Michele Panu"
+    ],
+    "splashartist": [
+      "Alsie Lau"
+    ],
+    "lore": "Seraphine was Anima Squad's comms officer, the \"girl in the chair\"—until she became the first Battle Dove, using her naturally sensitive hearing to operate a new AnimaTech suit that weaponizes sound waves to rock the battlefield! When she intercepts a strange distress call, Seraphine gets her first mission: find the source, and lead a team to the rescue."
+  }
 }

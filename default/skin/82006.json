@@ -134,6 +134,55 @@
     }
   ],
   "description": "Once a member of the Cosmic Court, Mordekaiser vanished from known space for an epoch—until now. Reborn and returned from an unknown destruction, Mordekaiser seems bent on unmaking the kingdoms of stars and light he once built. Though he still bears his Cosmic armor, the mind and figure within has been twisted and reforged to know only hatred and destruction.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      },
+      "Emerald": {
+        "id": 8,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Once a member of the Cosmic Court, Mordekaiser vanished from known space for an epoch—until now. Reborn and returned from an unknown destruction, Mordekaiser seems bent on unmaking the kingdoms of stars and light he once built. Though he still bears his Cosmic armor, the mind and figure within has been twisted and reforged to know only hatred and destruction."
+  }
 }

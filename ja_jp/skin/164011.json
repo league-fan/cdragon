@@ -137,6 +137,53 @@
     }
   ],
   "description": "上位アルカナ界の端に位置する都市の上層──そこに暮らすカミールの力の根源にあるのは、意外性、そして予想を裏切る事実である。彼女の示す図柄は難解かつ警告的──ときに危険な印象すら与えるが、それらはみな彼女の力に還元されている。危機に瀕したときにこそ、カミールの力は最も強まるが、その力で彼女が何をしようとしているのか、真に理解している者はいない…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "Poised precariously above the city, on the edge of High Arcana, Camille's power comes from surprise and defying expectations. Her patterns seem confusing and alarming—even perilous—to those who cross her path, but they always resolve to her benefit. When burdened on the brink, Camille is at her strongest, but no one truly knows what she plans to use all that strength for..."
+  }
 }

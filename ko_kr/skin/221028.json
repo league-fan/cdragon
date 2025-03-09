@@ -177,6 +177,66 @@
     }
   ],
   "description": "크리퍼웨이 캠프의 수석 상담사이자 간호사, 강령술사인 제리는 맡은 역할이 많습니다. 언제라도 손을 이식하거나 상처를 꿰맬 준비가 된 제리는 캠프 참가자를 절대 포기하지 않습니다. 그래서 제리가 물에 빠지자 곰곰이 생각한 캠프 참가자들은 제리의 가르침대로 했습니다. 몇 바늘 꿰매고 전기를 흘리자, 짠! 제리가 되살아났어요!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 36
+      },
+      "Aquamarine": {
+        "id": 34
+      },
+      "Catseye": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Ghoulish": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Meteorite": {
+        "id": 35
+      },
+      "Nightshade": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Worlds 2024 Premium Pass Bundle"
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Yuyu Wong",
+      "Kudos Productions"
+    ],
+    "lore": "Head counselor, nurse, and necromancer at Creepaway Camp, Zeri wears many hats. Always ready to graft a hand or stitch up a mess, Zeri never leaves a camper behind. So when she drowned, campers put on their thinking caps and did as she had taught: a few stitches, a ZAP, and Zeri was back!"
+  }
 }

@@ -24,6 +24,23 @@
     }
   ],
   "description": "フルメタルのチャンピオンであるジェイスと同じ部品で作り上げられたビクター。双子のジェイスがスペイン語で同時放送されるほどの栄華を極める一方で、彼はロボット闘技場の地下トンネルの掃除ロボとして働かされていた。破壊されたフルメタルロボットのスクラップで自身をアップグレードしたビクターは、復讐を誓い立ち上がったのである。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-29",
+    "set": [
+      "Heavy Metal"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "Created from the same circuitry as the Full Metal champion, Jayce, Viktor was cast into the tunnels beneath the robot fighting arenas to serve as a janitoribot—while his twin was groomed for glory, simulcast en español. Upgrading himself with the cast-offs of the destroyed, he has sworn la venganza."
+  }
 }

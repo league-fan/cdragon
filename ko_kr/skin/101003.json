@@ -24,6 +24,19 @@
     }
   ],
   "description": "팔팔 끓는 마그마에서 태어난 제라스는 예리한 지능을 가진 매우 불안정한 생명체로, 지옥 군단의 높은 계급으로 올라가 잿빛 군주의 자리를 빼앗을 날만을 기다리고 있습니다. 지금은 이 야망을 드러내지 않고 있지만, 때는 머지않았습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-07-13",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "lore": "A highly unstable creature born from roiling magma, Xerath possesses a keen intellect, awaiting the day he might ascend through the ranks of the Infernal war machine, and usurp the Ashen Lord himself. For now his ambitions remain secret, but… soon… soon…"
+  }
 }

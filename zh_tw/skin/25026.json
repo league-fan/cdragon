@@ -107,6 +107,49 @@
     }
   ],
   "description": "領導女巫集會的巫后，也被稱作灰燼夜鴞 ─ 魔甘娜崇拜古老的舊神，在它們被殲滅時，她毫不掩飾地哭泣 ── 她的姊姊背叛了舊神們，殺死了始祖太陽且將它的力量交與了女巫騎士的軍隊。現在，魔甘娜回歸了，要來結束人類的統治，將王位交還給世界的真主，讓它們坐上應有的位置。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Dark Ritual": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain "
+  }
 }

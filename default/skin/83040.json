@@ -160,6 +160,61 @@
     }
   ],
   "description": "A somber titan from a long-dead galaxy, Yorick plants a garden of nothingness wherever he roams. He memorializes existence in silence, cultivating a grave in the negative space where matter once bloomed.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Pearl": {
+        "id": 46
+      },
+      "Quasar": {
+        "id": 49,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 44
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "A somber titan from a long-dead galaxy, Yorick plants a garden of nothingness wherever he roams. He memorializes existence in silence, cultivating a grave in the negative space where matter once bloomed."
+  }
 }

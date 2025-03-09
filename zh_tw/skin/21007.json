@@ -157,6 +157,44 @@
     }
   ],
   "description": "好運姐（她的朋友都叫她莎拉）因於現實世界裡幾乎所有射擊類型的遊戲中都留下了最高分的紀錄而出名。至於在電玩世界，她為了得分而不擇手段的行為最為人所知，只要給予足夠的分數報酬，她就能帶回任何目標。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-08-12",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Aquamarine": {
+        "id": 10
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "K.O.": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Peridot": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "Miss Fortune (Sarah to her friends) is better known in the real world for holding the top scores in every shoot-em-up game ever created. In Arcade World, she's famed for earning those scores through whatever means necessary, willing to bring in any target for the right amount of points."
+  }
 }

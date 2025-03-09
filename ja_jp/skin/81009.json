@@ -24,6 +24,26 @@
     }
   ],
   "description": "ベイガーによってアーケードワールドに飛ばされた腕利きゲーマーのエズリアル。彼はカスタムメイドのコントローラーを使って『ハイパークリスタル・ダンジョン』のオリジナル版を45秒でクリアするというスピードラン記録の持ち主でもある。ベイガーは大変なミスをしでかしたと言えるだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2017-02",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "A skilled gamer transported to Arcade World by Veigar, Ezreal holds the world record for speedrunning the original version of Hyper Crystal Dungeon in 45 seconds, using a custom-made mobile controller. Veigar has made a terrible mistake."
+  }
 }

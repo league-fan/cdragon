@@ -25,6 +25,20 @@
     }
   ],
   "description": "코그모가 특정 귀여운 생명체를 잡아먹고 빛나는 코와 사슴뿔을 훔쳐갔다는 소문이 있습니다. 소문의 진위 여부를 막론하고, 이제 코그모는 가장 유명한 순록이 되었습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2010-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "It is rumored that Kog'Maw stole his glowing nose and deer antlers from a particularly adorable creature he devoured. Whether or not the theory is true, Kog'Maw is now the most famous reindeer of all."
+  }
 }

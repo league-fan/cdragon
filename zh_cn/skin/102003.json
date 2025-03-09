@@ -33,6 +33,19 @@
     }
   ],
   "description": "当希瓦娜的人性被黯黑魔龙焚烧殆尽后，她便自此在战场上称霸了。据说，只要有人触碰到她的烈焰，其灵魂就将在黑暗魔法中灰飞烟灭。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-05-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 102003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-05-28",
+    "set": [
+      "Legacy"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "lore": "With her humanity burned away by the Darkflame, Shvyana wreaks havoc upon the battlefield. It is said that any enemy touched by her flame will have their very soul incinerated by its dark magics."
+  }
 }

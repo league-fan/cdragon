@@ -148,6 +148,55 @@
     }
   ],
   "description": "在永恒之森的阴影树冠深处，精怪王子洛和精怪公主霞共同主持着一个王庭，管辖着两个彼此敌对的仙子之国。这对时运不济的恋人对凡人的事情不感兴趣，他们顽皮的浪漫已将他们的人民从降临于外部世界的恐怖中隔绝。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497009,
+    "availability": "Available",
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 10
+      },
+      "Emberwood": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Star-crossed lovers uninterested in the affairs of mortals, their playful romance has insulated their people from the horrors befalling the outside world."
+  }
 }

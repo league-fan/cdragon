@@ -24,6 +24,24 @@
     }
   ],
   "description": "奧莉安娜是一名充滿著凜冬魔力的發條少女，鮮少有人知道她的過去。她曾經生活在一顆由一位年邁發明家製造的雪花玻璃球之中。發明家在他行將就木之時釋放了奧莉安娜，現在她不斷地在尋找著生活的目的，同時在普羅王的宮殿服務。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "A strange clockwork girl imbued with the magic of the Winterlands, Orianna once lived within a snowglobe created by a kindly old inventor. At the end of his life he freed her, and now she searches for greater purpose, serving in the court of the Poro King."
+  }
 }

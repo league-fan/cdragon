@@ -77,6 +77,34 @@
     }
   ],
   "description": "無人知曉發光面具下藏著什麼樣的臉孔。這個不知是人是妖，或是某種更可怕的生物，拿著一盞藍紫色的燈柱，投身於各地的戰場。雖然來歷不明，但它一直以來似乎都是為了善良正義而戰。浪客和夜市商人四處廣傳它的事跡，現在它已成為了傳說人物：一個對抗黑暗勢力的漆黑幻影。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-09-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-09-14",
+    "set": [
+      "Legacy"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amber": {
+        "id": 10
+      },
+      "Brick": {
+        "id": 11
+      },
+      "Cream": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "No one knows what lies beneath the glowing mask. Human, monster, or something more, it wields a violet lantern-mace and travels from conflict to conflict. Yet it always seems to fight on the side of benevolence. Through myths told by wanderers and night merchants, it has become a figure of legend: a phantasm of the dark, standing against darkness."
+  }
 }

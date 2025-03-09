@@ -128,6 +128,45 @@
     }
   ],
   "description": "마법사는 태산을 보금자리로 삼아 수많은 용을 탄생시켰습니다. 하늘을 뒤덮은 용의 수도, 주변에 쓰러진 다른 용 사냥꾼의 수도 알 수 없었지만, 신 짜오는 마법사의 사악한 계획을 끝장내고자 괴물의 둥지로 돌격했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-03-09",
+    "earlysale": "2017-09",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 19
+      },
+      "Sandstone": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "The sorceress called a great mountain her home, and from it, reborn dragons poured endlessly into the sky. Though dragonslayers fell all around him, Xin Zhao struck into the monster's lair, determined to end her evil once and for all."
+  }
 }

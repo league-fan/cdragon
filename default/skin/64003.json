@@ -222,6 +222,60 @@
     }
   ],
   "description": "A famed martial artist beloved the world over, Lee Sin prefers to train far away from the public eye, honing his craft in solitude. Rumors claim that he can punch with the fury of a dragon—but if anyone knows for sure, they're not talking.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Black": {
+        "id": 7
+      },
+      "Blue": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Jade": {
+        "id": 71
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      },
+      "Meteorite": {
+        "id": 53
+      },
+      "Royal": {
+        "id": 70
+      },
+      "Yellow": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      " Feodor Chin"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "A famed martial artist beloved the world over, Lee Sin prefers to train far away from the public eye, honing his craft in solitude. Rumors claim that he can punch with the fury of a dragon—but if anyone knows for sure, they're not talking."
+  }
 }

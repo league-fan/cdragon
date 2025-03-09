@@ -24,6 +24,22 @@
     }
   ],
   "description": "飛斯是屬於虛空的可怕生物，這是不容置疑的事。不過就算是在這樣的地方，飛斯還是被人討厭，因為他最愛復甦死者，就只為了惹怒守望者。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-04-06",
+    "set": [
+      "Curse of the Void"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "lore": "There's no disputing that Fizz is a deadly creature of the endless Void. But even in the Void, Fizz is widely considered to be extremely irritating for his love of bringing life into existence just to annoy the Watchers."
+  }
 }

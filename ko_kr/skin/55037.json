@@ -160,6 +160,60 @@
     }
   ],
   "description": "''우리 사람들은 사기를 당했어. 그 빚을 받아 내는 게 내 목표야.'' 외지인이 기계 악마의 현상수배지에 단검을 꽂습니다. 먼지를 뒤집어쓴 여행자들을 한 명씩 뚫어지게 쳐다보는 그녀의 눈이 불붙은 석탄처럼 타오릅니다. ''너희 전령들 모두 유황 열차를 습격할 계획이라고 들었어. 그 악마 자식을 해치울 생각이라면 나도 끼워 줘.'' ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Nomad": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "“My people got swindled. I aim to collect what we're owed,” the Outsider says, pinning her dagger in a wanted poster of the Mechanical Devil. Her eyes burn like stoked coal as she fixes each dusty traveler in her gaze, “And I hear y'all plan on jumpin' the Sulfur Rail, Harbingers. If you're gonna take this devil down, I want in.” "
+  }
 }

@@ -160,6 +160,59 @@
     }
   ],
   "description": "레오나는 솔라리 리조트의 경호원입니다. 낮에는 무례한 손님들을 밖으로 내쫓고, 밤에는 도시의 갑부들에게 말동무가 되어 주죠. 권력이나 재산이 얼마나 되든, 레오나는 모두에게 공포의 대상입니다. 자칫 잘못했다가는 펜트하우스 스위트에서 길바닥으로 쫓겨날 테니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Cerulean Club": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "An enforcer at the exclusive Solari resort, Leona spends her days brutally ejecting unruly patrons from the premises and her evenings schmoozing up the city's ultra-wealthy. Even the rich and powerful know not to trifle with the Solari's chosen, lest they find themselves soaring out of the penthouse suite and down into the sidewalk."
+  }
 }

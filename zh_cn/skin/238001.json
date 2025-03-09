@@ -145,6 +145,44 @@
     }
   ],
   "description": "作为一名冲击之刃教派的精英干员，劫以闪电般的杀伤力投入战斗。虽然他的前搭档慎还没有原谅自己差点害死劫，但劫仍然敦促他重回前线；然而“风暴”仍在肆虐，不管这对搭档是否重聚。如果有必要，劫会独自承受它的怒火。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-11-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-11-13",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An elite operative of the Shockblade order, Zed dives into battle with lightning-fast lethality. Though his former partner Shen hasn't forgiven himself for nearly getting Zed killed, Zed still urges him to return to the front lines; and yet the Storm rages on, whether or not the duo are reunited. Zed will bring its fury to bear alone if he must."
+  }
 }

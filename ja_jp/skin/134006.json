@@ -160,6 +160,61 @@
     }
   ],
   "description": "恐れられながらも高く評価されているシンドラは凄腕の初期スターガーディアンで、その過去は謎に包まれている。彼女はアーリのチームでアドバイザーを務めている。リーダーであるアーリには信頼されているものの、シンドラは個人的な野心のためにはどんな犠牲をも厭わないのではないかと考えるチームメンバーもいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-06",
+    "earlysale": "2018-02",
+    "set": [
+      "Star Guardian Season 2"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 43,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "splashartist": [
+      "Jean 'Curing' Go",
+      "Esben Lash Rasmussen",
+      "Alex 'alexplank' Flores",
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Feared and admired, Syndra is a formidable Star Guardian from an earlier era, whose history is cloaked in shadow. She acts as an advisor on Ahri's team, but despite her captain's trust, some members suspect there is no price that Syndra won't pay to achieve her personal ambitions."
+  }
 }

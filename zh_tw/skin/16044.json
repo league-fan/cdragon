@@ -142,6 +142,54 @@
     }
   ],
   "description": "身為宮殿御醫的索拉卡是頂尖的治療師，對於自然萬物所蘊含的力量無一不精。各種草藥在她手中總是能製造奇蹟，加上她可靠的甲蟲夥伴的協助，索拉卡簡直可以把死馬當活馬醫！唯一讓她束手無策的便是皇宮中心的惡疾……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 48
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 52
+      },
+      "Turquoise": {
+        "id": 49
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Zoe Zhu",
+      "West Studio"
+    ],
+    "lore": "Soraka, the Court's royal herbalist, is a top-notch healer and expert on the powers contained in the materials of the natural world. There's no malady she can't handle with the right selection of plants and her trusty beetle buddies at her side! Except, perhaps, the malady at the heart of the Royal Court..."
+  }
 }

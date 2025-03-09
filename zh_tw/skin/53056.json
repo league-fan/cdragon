@@ -137,6 +137,55 @@
     }
   ],
   "description": "「蜂力發電 布里茨」常常會讓他的蜜蜂兵團陷入難以脫身的險境，可能是因為那隻巨型蜂巢機械手臂太礙事了吧。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53056,
+    "formatname": "Beezcrank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-22",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 59
+      },
+      "Obsidian": {
+        "id": 61
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Rainbow": {
+        "id": 64
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Beezcrank has a reputation for getting his bee-infantry into sticky situations. Probably because of that giant honey-comb mech-arm."
+  }
 }

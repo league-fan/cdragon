@@ -24,6 +24,21 @@
     }
   ],
   "description": "Every dragon that dies leaves behind a blazing spirit. Through Udyr, a mystic who doubted the old tales, these dragon spirits have the chance to touch life once again. He believes that dragons are only as evil as those who command them and, in channeling the spirits and their flames, seeks to prove it to the slayers.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 77005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-15",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Sean Rohani"
+    ],
+    "lore": "Every dragon that dies leaves behind a blazing spirit. Through Udyr, a mystic who doubted the old tales, these dragon spirits have the chance to touch life once again. He believes that dragons are only as evil as those who command them and, in channeling the spirits and their flames, seeks to prove it to the slayers."
+  }
 }

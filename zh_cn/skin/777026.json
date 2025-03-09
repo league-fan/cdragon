@@ -146,6 +146,53 @@
     }
   ],
   "description": "永恩很紧张。作为一名DJ，他冷静、专注、即兴，但海之歌是他作为DJ和作词人的第一场音乐会。在找到他的歌词秘密藏匿处后，他的朋友奈德丽在他拒唱时自愿唱出这些歌词。他可能还没准备好唱歌，但他们仍然会听到他的声音。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Yone is nervous. As a DJ he's calm, focused, and improvisational, but Ocean Song is his first concert as a DJ and lyricist. After finding his secret stash of lyrics, his friend Nidalee volunteered to belt them out herself when he refused. He may not be ready to sing, but they'll still hear his voice."
+  }
 }

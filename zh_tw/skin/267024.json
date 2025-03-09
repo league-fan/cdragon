@@ -125,6 +125,51 @@
     }
   ],
   "description": "許多冰冷且無生命的岩石隨著新的恆星和星座誕生而不斷出現，作為生命使者的娜米則身負著播灑被稱為「生命力」的種子之重任。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The bringer of life, Nami is charged with scattering the seeds of 'Élan vital' on the newborn, cold lifeless rocks and planets that appear with the birth of new stars and constellations."
+  }
 }

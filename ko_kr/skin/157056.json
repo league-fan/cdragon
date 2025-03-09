@@ -182,6 +182,67 @@
     }
   ],
   "description": "마스터 이와 함께 보금자리에서 추방된 야스오는 이제 먹그림자 문신을 이용해 라바돈시와 그 외곽을 오가며 수수께끼의 가면 쓴 남자들의 도움을 받아 망명을 원하는 민간인들을 보호하고 있습니다. 비록 힘을 얻기 위해 자신의 자유를 포기했지만, 이것을 도움이 필요한 사람들을 돕지 못한 일에 대한 고행으로 보고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157056,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 59
+      },
+      "DEFY MSI 2023": {
+        "id": 67,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "MSI 2023 Esports Premium Bundle"
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Inked": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 58,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 60
+      },
+      "Tanzanite": {
+        "id": 62
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Displaced from his home alongside Master Yi, Yasuo now uses his Inkshadow tattoos to ride the wind between Rabadon City and the outskirts, protecting civilians seeking asylum with help from the mysterious Man of Masks. Though he gave up his freedom in exchange for power, he sees the price as penance for being unable to help those who needed it most."
+  }
 }

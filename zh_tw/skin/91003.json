@@ -169,6 +169,44 @@
     }
   ],
   "description": "傳說塔隆的刀刃是由影龍的熾焰所鑄，他以此刃對付墮落腐敗的統治者們，取下他們性命後便消失在夜色中。許多人相信只要有強權霸凌弱者之事發生，塔隆就必定會現身。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Meteorite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Robin Ruan"
+    ],
+    "lore": "Legend says that Talon's blades were forged in the fire of a shadow dragon, and that he turned against his corrupt masters, cutting through them one by one before vanishing into the night. Many believe he will appear again whenever the strong take advantage of the weak."
+  }
 }

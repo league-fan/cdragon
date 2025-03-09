@@ -148,6 +148,57 @@
     }
   ],
   "description": "True Damage로 성공을 거둔 아칼리는 대담한 열정과 신선한 방향성으로 무대를 휩씁니다. 아칼리는 마이크를 들고 폭발적인 랩을 내뱉으며 멤버들을 절정으로 몰아붙입니다. 그것이 바로 BADDEST의 일이니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84032,
+    "formatname": "K/DA ALL OUT Akali",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-29",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "BADDEST": {
+        "id": 47,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Peridot": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 44
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Fresh off her success with True Damage, Akali hits the stage full-throttle with her bold edge and fresh new direction. She spits fire with a mic in hand and pushes the band to the bleeding edge, because that's what the baddest do."
+  }
 }

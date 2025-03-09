@@ -209,6 +209,81 @@
     }
   ],
   "description": "勝利の栄光トリンダメアは、ランク戦で一定のスプリットポイントを獲得したプレイヤーに授けられた。トリンダメアに挑戦した者が最後に目にするのは、彼の目に宿る制止不能な怒りであり、彼はその目を見た者には必ず刃を味わわせる。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 23027,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2023 - Split 2.",
+    "release": "2024-03-20",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 28,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Challenger": {
+        "id": 36,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Diamond": {
+        "id": 33,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Emerald": {
+        "id": 32,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Gold": {
+        "id": 30,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Grandmaster": {
+        "id": 35,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Master": {
+        "id": 34,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Platinum": {
+        "id": 31,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      },
+      "Silver": {
+        "id": 29,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023 - Split 2"
+      }
+    },
+    "voiceactor": [
+      "Brian Sommer"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Victorious Tryndamere was earned by players who accumulated enough split points in Ranked. The last thing Tryndamere's challengers would ever see was the unbridled wrath in his eyes as he decided they would be the next to meet his blade."
+  }
 }

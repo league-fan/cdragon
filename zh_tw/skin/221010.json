@@ -137,6 +137,53 @@
     }
   ],
   "description": "婕莉是來自西南方的新銳馴水師，興沖沖地降臨「海洋之歌音樂節」。這是她第一次在舞台上獨挑大樑，為了闖出名號，她對表演也許有點過度投入了。不過刺激一點大家才會更嗨，對吧？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An up and coming Water Tamer from the Southwest, Zeri is diving into the Ocean Song Festival headfirst. This is her first time handling a stage on her own, and she may have gone a little overboard with her showstopper plans in order to give herself a calling card. Everybody loves a little overstimulation, right?"
+  }
 }

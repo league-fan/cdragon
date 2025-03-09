@@ -148,6 +148,38 @@
     }
   ],
   "description": "마술사 르블랑은 승객으로 가득 찬 여객기를 사라지게 한 후로 국제적인 지명수배자가 되었습니다. 승객들이 어디로 갔는지, 어떻게 다시 돌아오게 만들지는 르블랑도 모르죠.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-11-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-11-02",
+    "set": [
+      "Day Job"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Tanzanite": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "lore": "LeBlanc is currently evading an international manhunt after making a jet liner filled with passengers disappear, then realizing she had no idea where they went or how to bring them back."
+  }
 }

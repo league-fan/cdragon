@@ -137,6 +137,54 @@
     }
   ],
   "description": "他也許是個惡徒，但逆命的優秀辦事能力在全銀河眾所皆知。但是就算他這般高手，也找不到失蹤已久的夥伴葛雷夫的蹤跡。因此，當有貓提供了葛雷夫下落的情報，想用來交換傳說地下舞廳「勁歌金曲」的地點，逆命便欣然答應了。送幾個人去砸場子，又沒什麼大不了的，對吧？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Rainbow": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "He may be a scoundrel, but Twisted Fate is known the galaxy over as someone who gets things done. But even he can't find a trace of his long lost partner, Graves. So when some cats offered him intel on Graves' whereabouts in exchange for the location of the legendary underground disco, The Jam, he happily obliged. What's a few party crashers, anyway?"
+  }
 }

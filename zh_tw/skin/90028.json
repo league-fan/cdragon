@@ -160,6 +160,59 @@
     }
   ],
   "description": "他是勒布朗的在罪惡城市的昔日同夥，如今已憑著一己之力成了舉足輕重的人物。雖然這兩位時有交逢，但馬爾扎哈有些……外部利益需要考量，而那些商業夥伴對他的承諾可是任何凡人都無法想像的。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Cerulean Club": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Citrine": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 34
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "An associate of LeBlanc's from her days in Crime City, now established as a mover and shaker in his own right. While the two cross paths on occasion, Malzahar has certain... outside interests to consider, and those business partners have promised him more than any mortal could ever dream of."
+  }
 }

@@ -73,6 +73,30 @@
   "rarityGemPath": null,
   "skinLines": null,
   "description": null,
-  "wikiPrice": "880",
-  "wikiReleaseDate": "2015-03-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432000,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 880,
+    "release": "2015-03-12",
+    "chromas": {
+      "Ivy": {
+        "id": 3
+      },
+      "Marigold": {
+        "id": 2
+      },
+      "Sage": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Evan 'Somnicidal' Monteiro"
+    ],
+    "lore": "A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful spirit meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good… in his own odd way."
+  }
 }

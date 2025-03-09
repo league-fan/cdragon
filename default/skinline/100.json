@@ -8,208 +8,774 @@
       "name": "Prom Queen Annie",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 1004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-07",
+        "retired": "2015-08-29",
+        "set": [
+          "Day Job"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ]
+      }
     },
     {
       "id": 2003,
       "name": "Brolaf",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-12-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 2003,
+        "formatname": "Brolaf",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-12-01",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newvoice": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Citrine": {
+            "id": 8
+          },
+          "Granite": {
+            "id": 12
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 10
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Logan 'Lomar' Margulies"
+        ],
+        "lore": "Bro. You think like, there's another version of me somewhere else not having a cold Graggy? Haha nah me neither."
+      }
     },
     {
       "id": 7002,
       "name": "Prestigious LeBlanc",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-11-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 7002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-02",
+        "set": [
+          "Day Job"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 6
+          },
+          "Catseye": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Tanzanite": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "LeBlanc is currently evading an international manhunt after making a jet liner filled with passengers disappear, then realizing she had no idea where they went or how to bring them back."
+      }
     },
     {
       "id": 12003,
       "name": "Matador Alistar",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-05-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 12003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-05-11",
+        "retired": "2012-03-19",
+        "set": [
+          "Day Job"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Man's greatest battle is the one he must fight within himself, unless he's a matador who is also a giant bull. Then the battle is more literal."
+      }
     },
     {
       "id": 14003,
       "name": "Lumberjack Sion",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-01-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 14003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-01-24",
+        "set": [
+          "Day Job"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "He's a lumberjack, and he's okay."
+      }
     },
     {
       "id": 18003,
       "name": "Firefighter Tristana",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-06-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-06-03",
+        "retired": "2012-07-16",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Shuohan Zhou"
+        ],
+        "lore": "Recently featured on this year's “most Yordle-y firefighters” calendar, Tristana will gladly leap into the flames regardless of whether anyone is supporting her. Often she'll go despite her support. Firefighter support. She fights fires."
+      }
     },
     {
       "id": 24003,
       "name": "Angler Jax",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-06-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 24003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-08",
+        "retired": "2012-03-19",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "lore": "Nothing quite like the peace of the great outdoors, waiting for that perfect bite—and then violently ripping a fish out of the water before hitting it with his fishing rod."
+      }
     },
     {
       "id": 26002,
       "name": "Groovy Zilean",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-07-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 26002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-27",
+        "set": [
+          "Day Job"
+        ],
+        "lore": "Consistently in a near-comatose state from peering across the space-time continuum, Zilean's more recent hobbies include being terrible at hacky-sack, paying way too much for a ticket for awful music festivals, and ordering too many pizzas. He also owns New Age bookstore, which is closed most days."
+      }
     },
     {
       "id": 31004,
       "name": "Jurassic Cho'Gath",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-11-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 31004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-01",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true
+      }
     },
     {
       "id": 32005,
       "name": "Almost-Prom King Amumu",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 32005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-07",
+        "retired": "2014-12-02",
+        "set": [
+          "Day Job"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ]
+      }
     },
     {
       "id": 36003,
       "name": "Corporate Mundo",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2010-09-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 36003,
+        "formatname": "Corporate Mundo",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-09-12",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 20
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "Mundo is not financial advisor. This is not financial advice. But you should buy the skin. Mundo likes the skin."
+      }
     },
     {
       "id": 39002,
       "name": "Aviator Irelia",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-11-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-16",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "vu": true,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Jana Schirmer"
+        ],
+        "lore": "Few war pilots were as skilled as Irelia, whose flashy dogfighting earned her a place among the greatest soldiers in history. After the war she continued to fly fighter planes, never once losing her spark."
+      }
     },
     {
       "id": 40005,
       "name": "Forecast Janna",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2013-09-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 40005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2013-09-04",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "Janna has survived the market downswing in televised news for at least the last decade, but even in her relatively cushy position, the viewers are getting older and the weather is getting freakier. Might be time to put her meteorology degree to good use, and… fight the sky!"
+      }
     },
     {
       "id": 41003,
       "name": "Sailor Gangplank",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-01-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 41003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-01-10",
+        "retired": "2013-07-18",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "lore": "O, Bilgewater has been my home,<br>Since last time I was sailing!<br>But I'll not stay another day,<br>I'd sooner be out whaling."
+      }
     },
     {
       "id": 48001,
       "name": "Lil' Slugger Trundle",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-12-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 48001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-12-01",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Joshua Tomar"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Unable to let go of being rejected from the major and minor leagues, Trundle has joined a little league team after saying he was thirteen years old on an admission form. Trundle is an eleven-foot-tall ice troll who enjoys allying with evil wizards and biting people to death. Practice has been… interesting."
+      }
     },
     {
       "id": 53003,
       "name": "Boom Boom Blitzcrank",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-08-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 53003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-29",
+        "set": [
+          "Day Job"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "Their fists are named “boom” and “boom,” proving that robots are a perfect facsimile of human life."
+      }
     },
     {
       "id": 74005,
       "name": "Hazmat Heimerdinger",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 74005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-07-13",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Suke 'hugehugesword' Su"
+        ],
+        "lore": "Sometimes, when he's alone at night, Heimerdinger wonders if the reason his head is so big is all that exposure to Zaun Grey. Then he gets tired, and rests his giant head against an equally giant pillow."
+      }
     },
     {
       "id": 76003,
       "name": "French Maid Nidalee",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 76003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-24",
+        "set": [
+          "Day Job"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "splashartist": [
+          "Even Mehl Amundsen"
+        ],
+        "lore": "Armed with a diverting maid outfit, a sunny disposition, and a vast knowledge of cleaning techniques, Nidalee catburgles her wealthy customers without them being any the wiser. She does it all for her kitties, who have grown used to some very high quality scratching posts."
+      }
     },
     {
       "id": 77001,
       "name": "Black Belt Udyr",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-07-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 77001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-18",
+        "set": [
+          "Day Job"
+        ],
+        "voiceactor": [
+          "Sean Rohani"
+        ],
+        "splashartist": [
+          "Silvia Meiliani",
+          "Caravan Studio"
+        ],
+        "lore": "Students of the Hiraclaw Dojo know that the best way to tell people you're good at punching is to have a giant screen-printed fist on your clothes. That's a karate fact, according to sensei Udyr. Which is why their parents all buy them the special Hiraclaw gi (only $89.95)."
+      }
     },
     {
       "id": 79001,
       "name": "Scuba Gragas",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 79001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-05-03",
+        "retired": "2011-11-28",
+        "set": [
+          "Day Job"
+        ],
+        "voiceactor": [
+          "J.S. Gilbert"
+        ]
+      }
     },
     {
       "id": 92003,
       "name": "Battle Bunny Riven",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-04-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 92003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-06",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Astral": {
+            "id": 11
+          },
+          "Catseye": {
+            "id": 8
+          },
+          "Emerald": {
+            "id": 10
+          },
+          "Granite": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 13
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Say “Hoppin' Mad” one more time. She dares you."
+      }
     },
     {
       "id": 96007,
       "name": "Jurassic Kog'Maw",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 96007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-03-23",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ]
+      }
     },
     {
       "id": 105003,
       "name": "Fisherman Fizz",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-04-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 105003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-01",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Alex Konstad",
+          "Jon Neimeister",
+          "David Kegg",
+          "Dirty Iron"
+        ],
+        "lore": "Call me Fishmael."
+      }
     },
     {
       "id": 119003,
       "name": "Primetime Draven",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-06-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 119003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-06-20",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 8
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "lore": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again."
+      }
     },
     {
       "id": 268019,
       "name": "Attorney Azir",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 268019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-09-11",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 23,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Jasper": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Azir's oral arguments are frequently struck from the record due to his flagrant objecting to every motion, as well as his habit of following every statement by a judge with “the order is given!” Anyone in need of his services can find his number plastered across every bus stop in town."
+      }
     },
     {
       "id": 412059,
       "name": "Janitor Thresh",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412059,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-09-11",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 63
+          },
+          "Emerald": {
+            "id": 62
+          },
+          "Meteorite": {
+            "id": 66
+          },
+          "Pearl": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 61
+          },
+          "Ruby": {
+            "id": 60,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 64
+          },
+          "Tanzanite": {
+            "id": 67
+          }
+        },
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "There aren't many places, let alone stock brokerage firms, that will hire an ethically questionable, skull-faced custodian named Thresh, but Mundo wouldn't be a trillionaire if he didn't know a good bet when he saw one. Who better to clean up dirty money than a demon janitor?"
+      }
     }
   ]
 }

@@ -207,6 +207,59 @@
     }
   ],
   "description": "作为王族中最年轻的成员和龙太子的族弟，斯莫德最喜欢的就是跟随李青去进行各种冒险。他可能错过了计划中将自己假扮成人类的部分，不过嘛——他会向他们展示，龙族不需要盛装打扮也能成为派对的主角！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 901001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-31",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Lustrous": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Peridot": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Georgie Cordova Kidder"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "The youngest member of the royal family and cousin to the prince, Smolder likes nothing more than to tag along on any adventures Lee Sin gets up to. He may have missed the part of the plan that involves disguising himself as a human, but hey—he will show them that dragons don't need to dress up to be the life of the party!"
+  }
 }

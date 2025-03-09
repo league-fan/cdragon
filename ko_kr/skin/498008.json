@@ -148,6 +148,56 @@
     }
   ],
   "description": "어두운 고대 숲 깊은 곳, 라칸 왕자와 자야 공주는 서로 적대하는 요정 집단의 지도자입니다. 비록 자야 공주는 외부 세계의 어둠을 목격했지만, 그에 맞서지 않고 그저 받아들이기로 했죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-12-10",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emberwood": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tanzanite": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Though Princess Xayah has seen the darkness of the world beyond, she has chosen to simply adopt its colors for her court rather than confront it."
+  }
 }

@@ -124,6 +124,52 @@
     }
   ],
   "description": "솔라리 가문의 여인이 맹렬한 바람을 맞으며 턱을 치켜듭니다. 앞에 가문을 구원할 유황 열차가 도둑맞은 가산을 싣고 사막을 휘젓는 모습이 보입니다. 앞을 가로막는 것은 기계 악마뿐입니다. 그녀의 검이 동틀 무렵의 매미처럼 윙윙거립니다. 나비가 모여듭니다. 전령들이 달릴 시간입니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 89034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Nomad": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 44,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 49
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "The Lady of House Solari lifts her chin against the scorching wind. Ahead lies her family's salvation: the Sulfur Rail, carrying the stolen family fortune, churning across the desert. The only thing that stands in her way is the Mechanical Devil himself. Her sword hums like cicadas in the gloaming. The butterflies gather. Time for the Harbingers to ride."
+  }
 }

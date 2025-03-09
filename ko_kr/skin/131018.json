@@ -108,6 +108,48 @@
     }
   ],
   "description": "교외를 쑥대밭으로 만들며 밤그림자의 장막 아래에 숨을 수 있다는 특별한 용 종족에 관한 이야기는 전설처럼 전해집니다. 이렇게 위험한 적에게 도전하는 것을 망설이는 다른 용 사냥꾼과 달리 무시무시한 용의 유해로 만든 검과 갑옷으로 무장한 다이애나는 그 누구보다 먼저 앞장섭니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts."
+  }
 }

@@ -124,6 +124,51 @@
     }
   ],
   "description": "예언에 따르면 신들이 서로를 파괴해 창조의 종말을 맞이하게 될 것이라고 합니다. 하지만 요네는 굳은 결의로 운명을 거부합니다. 혼돈과 질서의 격전 속에서 태어난 반인반신 요네는 어둠과 빛의 힘을 모두 부립니다. 신도들을 집결시키고 신들 사이에 평화를 가져오지 않으면... 모두 멸망하고 말 것입니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 21
+      },
+      "Lifebringer": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Prophecy dictates that the gods will destroy each other, ushering in the end of creation itself— but Yone is determined to defy fate. A half-mortal, half-god born of the clash between chaos and order, Yone wields the power of both night and dawn. He must rally his brethren, bring peace to the gods… or they will all perish."
+  }
 }

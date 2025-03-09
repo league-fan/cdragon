@@ -170,6 +170,60 @@
     }
   ],
   "description": "현자 질리언은 사냥꾼의 자리로 가 여명의 심판을 기다리며 간청하듯 머리를 숙였습니다. 그의 요청은 추종자들의 영혼을 진정시킬 힘을 얻는 것이었죠. 현자는 얘기하면서 북극성의 여명빛 머리카락이 붉게 깜박이는 것도 알아차리지 못했습니다. 북극성의 마음속에서는 휘몰아치는 겨울 폭풍이 생겨나고 있었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 26014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-12-08",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 18,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 21
+      },
+      "Wreathguard": {
+        "id": 23,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2022"
+      }
+    },
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Sage Zilean bowed his head in supplication as he took the Hunter's place before the Aurora's judge. His request was for more power to help calm the spirits of his followers. As he talked, he was oblivious to the Aurora sheen of Polaris' hair flickering red as she watched his pronounced humility. Something was stirring inside her, a roiling winter storm."
+  }
 }

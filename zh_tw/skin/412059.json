@@ -137,6 +137,54 @@
     }
   ],
   "description": "沒有什麼地方敢雇用這位道德有問題的骷髏臉看守者瑟雷西，更別說是證券交易公司了。但蒙多一看就知道怎樣投資會賺，不然他就不會是億萬富翁了。沒有什麼人比惡魔工友更適合清理髒錢了！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412059,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-11",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 62
+      },
+      "Meteorite": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 60,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Tanzanite": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "There aren't many places, let alone stock brokerage firms, that will hire an ethically questionable, skull-faced custodian named Thresh, but Mundo wouldn't be a trillionaire if he didn't know a good bet when he saw one. Who better to clean up dirty money than a demon janitor?"
+  }
 }

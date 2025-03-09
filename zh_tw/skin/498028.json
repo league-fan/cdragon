@@ -137,6 +137,54 @@
     }
   ],
   "description": "身為永無圓滿的其中一半，剎雅發現她的命定愛侶並不在高階祕儀，而是低階世界。當她奮力見到命定愛人銳空，並將它往上拉向自己，緊緊拉住兩人的繩索隨之斷裂，形成了不和諧的繩結——為某種嶄新開端設下了舞台。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 34
+      },
+      "Turquoise": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "One half of a perpetually incomplete whole, Xayah has found her love not in the world of the Higher Arcana, but the Lower. As she strains to meet the fated Rakan and pull him upwards towards herself, their tension frays and forms discordant knots—setting the stage for something new."
+  }
 }

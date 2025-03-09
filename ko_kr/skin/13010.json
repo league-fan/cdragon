@@ -48,6 +48,32 @@
     }
   ],
   "description": "2015 월드 챔피언십에서 라이즈를 플레이한 Faker의 우승 기념 스킨. SKT 소속으로 2013 월드 챔피언십에서 우승한 데 이어 두 번째로 제작된 Faker의 월드 챔피언십 우승 기념 스킨입니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-08-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 13010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-08-17",
+    "set": [
+      "World Champions: 2015"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 30,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Immortalized Legend Collection Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Victor '3rdColossus' Maury"
+    ],
+    "lore": "Honoring Faker's winning performance as Ryze during the 2015 World Championship. This is Faker's second World Champion skin, following his win with SKT at the 2013 World Championship."
+  }
 }

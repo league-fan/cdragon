@@ -182,6 +182,67 @@
     }
   ],
   "description": "They came to Akali encircling from the tree canopy at an impossible speed, their taunts leading her deeper still into the Elderwood until at last she was lost. Then a voice whispered the choice right into her ear: die in these woods alone or emerge in their charge. And so she walked out of the woods... straight into the arms of the Coven.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84070,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 76
+      },
+      "Catseye": {
+        "id": 73
+      },
+      "Destined": {
+        "id": 80,
+        "availability": "Limited",
+        "source": "Loot",
+        "distribution": "Worlds 2023 Premium Pass Bundle"
+      },
+      "Emerald": {
+        "id": 75
+      },
+      "Profane": {
+        "id": 81,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 79
+      },
+      "Ruby": {
+        "id": 72,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 74
+      },
+      "Tanzanite": {
+        "id": 77
+      },
+      "Turquoise": {
+        "id": 78
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "They came to Akali encircling from the tree canopy at an impossible speed, their taunts leading her deeper still into the Elderwood until at last she was lost. Then a voice whispered the choice right into her ear: die in these woods alone or emerge in their charge. And so she walked out of the woods... straight into the arms of the Coven."
+  }
 }

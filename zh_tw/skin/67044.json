@@ -171,6 +171,54 @@
     }
   ],
   "description": "汎是個過於自信的神明，渴望向黎明使者展示自己的潛能。預言說到神明會被滅絕，出於恐懼，汎便無情獵殺闇夜使者。她的行為兇狠殘暴，結果造成更多混亂，甚至逐漸吞噬自己的本質。儘管如此，她希望成功殺死嘉文後，能在光明中得到一席之地。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Rainbow": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "An overconfident god keen to show her potential to the Dawnbringers, Vayne ruthlessly hunts the Nightbringers out of her deep fear of the gods' foretold destruction. So violent are her actions that she undermines herself by leaving even more chaos in her wake. Still, she hopes killing Jarvan will be enough to cement her standing within the light."
+  }
 }

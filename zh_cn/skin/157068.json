@@ -137,6 +137,54 @@
     }
   ],
   "description": "亚索在梦中瞥见了许多道路。其中一条道路中，看到他是一个老人，独自一人，远远偏离了他的路线。他已放弃了雄心、家庭、甚至爱情，一切都是为了弥补他再也记不起来的那些罪。这个幻象不是警告，而是提醒，因为亚索知道他总能回到自己的道路上。他只需要找到它……或者让它找到他。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157068,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-24",
+    "set": [
+      "Otherroads"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 75
+      },
+      "Catseye": {
+        "id": 70
+      },
+      "Emerald": {
+        "id": 72
+      },
+      "Obsidian": {
+        "id": 74
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 76
+      },
+      "Ruby": {
+        "id": 69,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Yasuo glimpsed many paths in his dreams. One saw him as an old man, alone, having strayed far from his course. He had given up ambition, family, even love, all to atone for sins he could no longer remember. This vision was not a warning, but a reminder, for Yasuo knew he could always return to his path. He only needed to find it... or let it find him."
+  }
 }

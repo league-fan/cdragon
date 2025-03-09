@@ -24,6 +24,24 @@
     }
   ],
   "description": "ポロをお供に従えた優しい魔女、ルルの陽気な氷の魔法はあちこちでスノーダウンの参加者を楽しませている。彼女の腕前は一流で、恐ろしい氷のかけらを飛ばしながら、敵を無害な雪だるまに変身させる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-12-19",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "A kindly sorceress trailed by her poro pal Pix, Lulu's whimsical ice magic amazes and delights Snowdown revelers everywhere. She's also a skilled fighter, firing deadly glacial spikes and transforming foes into harmless snowmen."
+  }
 }

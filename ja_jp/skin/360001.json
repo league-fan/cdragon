@@ -148,6 +148,57 @@
     }
   ],
   "description": "恐れ知らずで必殺の戦闘能力を持つサミーラは、かつては名高い傭兵だった。スリルをこよなく愛し、金のためでも名声のためでもなく、自身の能力の限界に挑むために戦っている。厳しいトレーニングを積んだことにより、生来のサイキックパワーを最大限まで引き出すことが可能で、彼女にとっては任務も戦闘もスタイリッシュにスリルを楽しむ舞台でしかない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 360001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-21",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newquotes": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 4
+      },
+      "Hunter": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Peridot": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 3
+      }
+    },
+    "voiceactor": [
+      "Emily O’Brien"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Fearless and deadly, Samira was once a renowned soldier of fortune. A born thrill seeker, she fights not for fame or wealth, but to push the limits of her skill. Through intense training, her innate psychic powers have been fully unleashed, allowing her to turn every mission and every kill into a thrilling display of stylish flair."
+  }
 }

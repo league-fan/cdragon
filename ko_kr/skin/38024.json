@@ -138,6 +138,54 @@
     }
   ],
   "description": "카사딘은 실종된 연인을 찾아 세상을 이 잡듯이 뒤졌습니다. 하늘을 수놓는 무수한 별들 사이에서 길을 찾았고, 오직 자신만 읽을 수 있는 별자리를 따라 거닐었습니다. 그리고 별의 용이 기거하는 평원에 이르렀죠. 용은 카사딘의 목적을 인정했습니다. 이 기약 없는 여정이 영영 끝나지 않을지도 모른다는 생각에 영혼이 어둠에 물들어 가고 있지만, 그럼에도 카사딘은 용의 광휘를 품고 길을 밝히고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 38024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-09",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Citrine": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Kassadin scoured the world in search of a missing loved one. He mapped out a path in the stars, following a pattern of constellations only he could read—reaching an open field where the Astral Dragon recognized his purpose. Though his spirit darkens over the possibility his journey may never end, he now harnesses the dragon's brilliance to light his way."
+  }
 }

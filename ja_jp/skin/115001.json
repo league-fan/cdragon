@@ -24,6 +24,21 @@
     }
   ],
   "description": "ジグスは以前、自分の脳に電極を2本接続して電磁ショックを与えたことがある。その時は危うく脳が爆発するところだったが、電極を3本にすればうまくいくはずだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-02-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-02-01",
+    "set": [
+      "Mad Scientists"
+    ],
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Alex Konstad"
+    ],
+    "lore": "The last time Ziggs plugged two electromagnetic charges into his brain, he almost exploded. Maybe, three will do the trick."
+  }
 }

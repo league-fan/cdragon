@@ -13,88 +13,536 @@
       "name": "犽凝",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-08-06",
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become."
+      }
     },
     {
       "id": 777001,
       "name": "靈花祭 犽凝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 3
+          },
+          "Catseye": {
+            "id": 4
+          },
+          "Emerald": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Night Blossom": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Tanzanite": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Long ago, two brothers fought a bitter war across Ionia. Yone, the older brother, was a warlord renowned for his adherence to honor and duty. He fought to defend the country against those who would break its rites and rituals - until he was forced to confront his own brother for his crimes. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+      }
     },
     {
       "id": 777010,
       "name": "戰爭學院 犽凝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes."
+      }
     },
     {
       "id": 777019,
       "name": "黎明使者 犽凝",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 21
+          },
+          "Lifebringer": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Prophecy dictates that the gods will destroy each other, ushering in the end of creation itself— but Yone is determined to defy fate. A half-mortal, half-god born of the clash between chaos and order, Yone wields the power of both night and dawn. He must rally his brethren, bring peace to the gods… or they will all perish."
+      }
     },
     {
       "id": 777026,
       "name": "海洋之歌 犽凝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-06-09",
+        "set": [
+          "Ocean Song"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 31
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Yone is nervous. As a DJ he's calm, focused, and improvisational, but Ocean Song is his first concert as a DJ and lyricist. After finding his secret stash of lyrics, his friend Nidalee volunteered to belt them out herself when he refused. He may not be ready to sing, but they'll still hear his voice."
+      }
     },
     {
       "id": 777035,
       "name": "墨影戰士 犽凝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 39
+          },
+          "Inked": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2023"
+          },
+          "Obsidian": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 38
+          },
+          "Tanzanite": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Two brothers lost their home and became Inkshadow Warriors. One gave up his freedom, and the other his identity. Yone paid a steep price for his tattoo: no one remembers that he existed. Now known only as a faceless stranger called the “Man of Masks,” he shields refugees from the Cabal until they can be delivered into Yasuo's protection."
+      }
     },
     {
       "id": 777045,
       "name": "心鋼之聲 犽凝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-08",
+        "set": [
+          "HEARTSTEEL"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Pearl": {
+            "id": 50
+          },
+          "Rockstar": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen",
+          "Julia Yurtsev",
+          "Jennifer Wuestling"
+        ],
+        "lore": "Once a legendary DJ/producer, Yone grew disillusioned with the music industry and mysteriously dropped off the grid, leaving fans and critics alike wanting more. Meeting the other members of HEARTSTEEL pulled him out of his creative funk, and with his passion for music now reignited, Yone is determined to take this band straight to the top."
+      }
     },
     {
       "id": 777046,
       "name": "尊爵不凡 心鋼之聲 犽凝",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777046,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-11-08",
+        "set": [
+          "HEARTSTEEL"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 45,
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "As an enigmatic music producer, Yone may say he doesn't enjoy the limelight, but he couldn't help but dress to impress for the band's chart-topping debut in a smart, sleek fit worthy of his sharp swordsmanship and even sharper style. It'd be a shame to hide behind a computer when you look this cool."
+      }
     },
     {
       "id": 777055,
       "name": "西域牛仔 犽凝",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-03-20",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 60
+          },
+          "Noonday": {
+            "id": 64,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "High Noon 2024"
+          },
+          "Obsidian": {
+            "id": 63
+          },
+          "Rose Quartz": {
+            "id": 62
+          },
+          "Ruby": {
+            "id": 59,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 61
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "The haunted man doesn't breathe, just leans against the hitching post and squints into the frontier dusk—but it ain't him. Not really. The real Yone is shadow and gunsmoke, roiling as it sinks back into the stillness of his corporeal form. “How'd you wind up split like that?” the young Powder Witch asks. Yone sighs, “It's a long story, kid.”"
+      }
     },
     {
       "id": 777058,
       "name": "仲裁者 西域牛仔 犽凝",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777058,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "1% drop rate from High Noon 2024 Capsules or opening 30 High Noon 2024 Capsules",
+        "release": "2024-03-20",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 52,
+        "newvoice": true,
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "The haunted man doesn't breathe, just leans against the hitching post and squints into the frontier dusk—but it ain't him. Not really. The real Yone is shadow and gunsmoke, roiling as it sinks back into the stillness of his corporeal form. “How'd you wind up split like that?” the young Powder Witch asks. Yone sighs, “It's a long story, kid.”"
+      }
     },
     {
       "id": 777065,
       "name": "假面正義 犽凝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 777065,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-02-20",
+        "set": [
+          "Masked Justice"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 68
+          },
+          "Catseye": {
+            "id": 67
+          },
+          "Emerald": {
+            "id": 69
+          },
+          "Obsidian": {
+            "id": 72
+          },
+          "Pearl": {
+            "id": 73
+          },
+          "Rose Quartz": {
+            "id": 70
+          },
+          "Ruby": {
+            "id": 66,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 71
+          }
+        },
+        "voiceactor": [
+          "Noshir Dalal"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "When Mezzorax invaded their planet, Yone and his brother Yasuo swore to retaliate. Yasuo struck first, seizing the invading giant's Hyperguise suits. But it was Mezzorax who struck hardest. With Yasuo now gone, Yone has taken up his brother's Hyperguise and is building more, so that fellow citizens can join the fight."
+      }
     }
   ]
 }

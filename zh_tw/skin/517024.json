@@ -170,6 +170,62 @@
     }
   ],
   "description": "賽勒斯是戰狼小隊的領導者，這支勇敢又無情的快打部隊隸屬於百獸特攻隊旗下。雖然他拒絕接受他人指揮（連指揮官好運姐也包含在內），賽勒斯仍明白如果人類戰敗，將不再有任何事物留下來給他捍衛。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 30,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Nightwire": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Sylas is the leader of Wolf Team: a daring, ruthless strike force under the banner of Anima Squad. Though he rejects anyone claiming authority over him (Commander Fortune included), Sylas knows that if humanity falls, there will be nothing left to fight for."
+  }
 }

@@ -132,6 +132,52 @@
     }
   ],
   "description": "恐ろしく陰鬱な森の中、キャンパーたちは歓喜の声を上げながら走り回り、捻じ曲がり呪われた木々から落ちた枝を集めた。彼らは間に合わせの薪の山に枝を放り込み、呪文を読み上げた。炎の中からベイガーが敵を打ち負かさんと、噴き出るように現れた。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Ghoulish": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 63
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "In the dreadful, dreary wood, campers scampered about with glee, gathering fallen branches from the gnarled, cursed trees. They tossed them onto a makeshift pyre and read the incantations. From the flames, Veigar erupted, ready to vanquish his competition."
+  }
 }

@@ -137,6 +137,55 @@
     }
   ],
   "description": "ブラッドムーンの巫女たちの多くは、それぞれの悪魔の囁きを追っているが、ザイラの悪魔はサディスティックな歓喜の咆哮をあげ、ザイラはそれに同じように応えている。穢れへの飢えによって結ばれたザイラと悪魔は、すべての巫女をひとつに統一するため、他の巫女たちを探している。その時こそ、二人はアイオニアの国境を越えて、世界中に破壊を拡散することができる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-17",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Pearl": {
+        "id": 63
+      },
+      "Rose Quartz": {
+        "id": 60
+      },
+      "Ruby": {
+        "id": 56,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "While many Blood Moon priestesses follow the whispers of their demons, Zyra's demon howls with sadistic glee—and Zyra responds in kind. United in their thirst for corruption, Zyra and her demon seek out her fellow priestesses in order to unite them all as one. Only then can they spread their destruction to the world beyond Ionia's borders."
+  }
 }

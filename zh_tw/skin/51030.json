@@ -137,6 +137,53 @@
     }
   ],
   "description": "身為雪月教派的頂尖狙擊手，凱特琳擁有令人不寒而慄的敏銳視力。她工於心計的天性，解除了同情心的束縛，令她投身於職責之中。她心中曾有過一絲溫暖，在夢中，她見到一個身影，狂野而桀敖不馴，那是個不屬於她的世界。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-23",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 33
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 32
+      },
+      "Tanzanite": {
+        "id": 34
+      },
+      "Turquoise": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "A tool of chilling acuity, Caitlyn is the Snow Moon's most elite sniper. It was her craving for a calculating nature, stripped of the moorings of sympathy, that drew her to serve. There was once warmth in her heart; in dreams, she sees a figure, wild and untamed, in a world not meant for her."
+  }
 }

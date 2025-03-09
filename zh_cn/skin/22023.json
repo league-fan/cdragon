@@ -170,6 +170,62 @@
     }
   ],
   "description": "艾希将她的部族带到了一个神秘的森林，以保护他们免遭布兰德的摧毁。在那里，她偶遇了苍龙，而苍龙感知到了她无穷的力量以及对族人们的奉献，因此用它的奥术魔法赐福了她。现在，艾希在编织法术保护族人的同时，也在等待着复仇之时的到来。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emberclaw": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Jadeclaw": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rainbow": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Ashe led her tribe into a mysterious forest to protect them from Brand's destruction. There, she happened upon the Fae Dragon, who sensed her immense power and devotion to her people and blessed her with its arcane magic. Now, Ashe weaves spells to keep them safe while biding her time for her revenge. "
+  }
 }

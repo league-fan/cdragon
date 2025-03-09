@@ -24,6 +24,25 @@
     }
   ],
   "description": "지옥에서 소환된 정령이자 악마인 아칼리는 자신을 불러낸 주인의 적을 불지옥으로 보내 버립니다. 그 소원의 대가는 절대 만만치 않지만요.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-05-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-05-11",
+    "retired": "2012-03-19",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A djinn summoned from the world below, the Infernal known as Akali will burn her patron's enemies to cinders… though the cost for such service is always dire."
+  }
 }

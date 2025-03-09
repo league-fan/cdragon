@@ -137,6 +137,55 @@
     }
   ],
   "description": "All hail, Mordekaiser, the Master of Metal, and Chosen of Cacophoni! The brazen giant boasts of his legendary skill with the axe, for none who face its edge live to tell of it…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82023,
+    "formatname": "Pentakill III: Lost Chapter Mordekaiser",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-09-09",
+    "set": [
+      "Pentakill III: The Lost Chapter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 27
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Peridot": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 30
+      },
+      "Tanzanite": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "All hail, Mordekaiser, the Master of Metal, and Chosen of Cacophoni! The brazen giant boasts of his legendary skill with the axe, for none who face its edge live to tell of it…"
+  }
 }

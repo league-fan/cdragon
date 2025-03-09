@@ -24,6 +24,26 @@
     }
   ],
   "description": "A newer Hextech innovation, Kog'Maw constructs are available as pets for wealthy families, delighting Piltover's upper crust with their friendly demeanor and intricately complex design. Though living things, they are viewed among the well-to-do as little more than status symbols.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2017-12-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96010,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2017-12-07",
+    "earlysale": "Ineligible",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A newer Hextech innovation, Kog'Maw constructs are available as pets for wealthy families, delighting Piltover's upper crust with their friendly demeanor and intricately complex design. Though living things, they are viewed among the well-to-do as little more than status symbols."
+  }
 }

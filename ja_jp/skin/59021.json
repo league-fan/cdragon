@@ -160,6 +160,54 @@
     }
   ],
   "description": "ジャーヴァンⅣは雄牛の一門への参加を頑なに拒んでいたが、最後は父親の強情な姿勢に折れて入門を受け入れることとなった。その役割ゆえに有名人扱いされることを嫌がり目立たないようにしているが、先祖代々続く慈善家の家系出身である彼は、この地域に伝わる一年で最大の催しを手際よく進行させることに喜びを見出している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59021,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      },
+      "Vitality": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Jarvan IV's stubborn refusal to join Ox Clan only relented to his father's stubborn insistence. Though he tries his best to shirk the celebrity status that comes with the role, Jarvan comes from a long line of philanthropists, and has found himself caught up in the thrill of bringing businesslike efficiency to the biggest community event of the year."
+  }
 }

@@ -49,6 +49,32 @@
     }
   ],
   "description": "即便佐恩腐敗的狀況越來越嚴重，許多底城居民仍哀悼范德爾的死訊。沒人知道他其實還活著，他那受到微光改造的肉身就藏在辛吉德的實驗室中。怪物沃維克以帶有原始憤怒的受苦野獸之姿重生，即將肆虐這個世界。不過，若范德爾身上仍有一絲人性……他還能獲救嗎？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19056,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "Many in Zaun mourned Vander, even as the undercity fell deeper into corruption. No one could have ever known that he still lived, his shimmer-twisted body hidden deep within Singed's lab. Revived as a tormented beast of primal rage, the monster Warwick was unleashed on the world. But if a fragment of his humanity still lives... can Vander be saved?"
+  }
 }

@@ -169,6 +169,44 @@
     }
   ],
   "description": "전설에 의하면 탈론의 칼날은 그림자 용의 화염 속에서 벼렸으며, 그가 부패한 스승들에게 등을 돌리고 한 명씩 한 명씩 베어낸 뒤 어둠 속으로 사라졌다고 전해집니다. 많은 이들은 강자가 약자를 착취할 때 탈론이 다시 돌아올 것이라 믿습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Meteorite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Robin Ruan"
+    ],
+    "lore": "Legend says that Talon's blades were forged in the fire of a shadow dragon, and that he turned against his corrupt masters, cutting through them one by one before vanishing into the night. Many believe he will appear again whenever the strong take advantage of the weak."
+  }
 }

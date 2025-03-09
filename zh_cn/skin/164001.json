@@ -33,6 +33,27 @@
     }
   ],
   "description": "源代码卡蜜尔是为了镇压基因动力反叛而生的人形兵器，任何试图使用未授权技术的人类都会成为她的暗杀目标。她拥有高度适应性的执行规程和激光般的集中，直接听命于源代码的顶层人工智能。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 164001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-12-12",
+    "earlysale": "2017-06",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Emily O'Brien"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Weaponized to quell the G/NETIC rebellion, Program Camille is a robotic assassin who will kill any human trying to utilize unauthorized technology. A being of adaptable protocols and laser-like focus, she takes her orders directly from Program's superior artificial intelligence."
+  }
 }

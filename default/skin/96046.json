@@ -137,6 +137,54 @@
     }
   ],
   "description": "In defiance of the maelstrom's power, the beast Kog'Maw safely rides along its currents thanks to its nigh-unbreakable shell. Perpetually at odds with itself, its tail is addicted to feeding on the maelstrom's energy, while its head simply wants to devour everything in sight. Can anything within the Scrolls sate its growing hunger?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 96046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 52
+      },
+      "Catseye": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 54
+      },
+      "Pearl": {
+        "id": 53
+      },
+      "Peridot": {
+        "id": 51
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "In defiance of the maelstrom's power, the beast Kog'Maw safely rides along its currents thanks to its nigh-unbreakable shell. Perpetually at odds with itself, its tail is addicted to feeding on the maelstrom's energy, while its head simply wants to devour everything in sight. Can anything within the Scrolls sate its growing hunger?"
+  }
 }

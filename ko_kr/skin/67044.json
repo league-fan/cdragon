@@ -171,6 +171,54 @@
     }
   ],
   "description": "자신의 잠재력을 빛의 인도자들에게 보여주고 싶어 안달이 난 베인은 신들이 예언한 멸망을 너무 두려워한 나머지 어둠의 인도자들을 무자비하게 사냥합니다. 그 행동은 어찌나 폭력적인지 혼란만 키우고 자신의 입지를 약화시킬 뿐입니다. 그럼에도 베인은 자르반을 죽여 빛 속에서 자신의 입지를 다지고자 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Rainbow": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "An overconfident god keen to show her potential to the Dawnbringers, Vayne ruthlessly hunts the Nightbringers out of her deep fear of the gods' foretold destruction. So violent are her actions that she undermines herself by leaving even more chaos in her wake. Still, she hopes killing Jarvan will be enough to cement her standing within the light."
+  }
 }

@@ -216,6 +216,67 @@
     }
   ],
   "description": "거대한 야수 갈리오는 자부심 있고 강력하며 자신의 이름을 딴 신화에 걸맞은 무시무시한 존재입니다. 하지만 이야기가 진행되는 매년 그는 최고였고, 이렐리아가 찾아와 그들의 운명은 정해지지 않았다고 했을 때 갈리오는 경청했습니다. 이렐리아를 도와 새로운 미래를 만들 수 있다면 갈리오는 자신의 모든 힘을 빌려줄 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3028,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 34
+      },
+      "Emerald": {
+        "id": 36
+      },
+      "Gilded": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Paragon": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 33
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 31
+      }
+    },
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Rio Sabda",
+      "Caravan Studio"
+    ],
+    "lore": "The Great Beast Galio is a fearsome creature: proud, powerful, and worthy of the myth that bears his name. Yet each year he is bested, as the story goes, so when Irelia comes to him and tells him that their fates are not writ in stone, Galio listens. If helping her means crafting a new future, he will lend her all his beastly strength."
+  }
 }

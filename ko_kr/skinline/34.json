@@ -8,32 +8,104 @@
       "name": "프로레슬러 문도",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 36009,
+        "formatname": "El Macho Mundo",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-06-01",
+        "earlysale": "2016-12",
+        "set": [
+          "Luchador"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Probably in a position he'd rather not be in, El Macho will be facing down three of the greatest fighters in modern history for Sunday's no-holds-barred money match. Luckily for him, Mundo has more madness to offer than the federation thinks he's got, and the cream always rises to the top."
+      }
     },
     {
       "id": 106005,
       "name": "프로레슬러 볼리베어",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 106005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-06-01",
+        "earlysale": "2016-10",
+        "set": [
+          "Luchador"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "lore": "The Wrestling Federation of Valoran would like to put these terrible rumors about our beloved El Rayo to bed once and for all. One: he is definitely a bear, and not a man dressed as a bear, as some might claim. Two: bears make amazing wrestlers."
+      }
     },
     {
       "id": 150004,
       "name": "프로레슬러 나르",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 150004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-06-01",
+        "earlysale": "2016-11",
+        "set": [
+          "Luchador"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Dorothy Fahn",
+          "Lucien Dodge"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "He's big. He's small. He's throwing pieces of the ring around like it's made of pixie dust and unicorn whispers. He's El León, the eighth wonder of the world, and he's here to say to his opponents: “Gnar!”"
+      }
     },
     {
       "id": 201002,
       "name": "프로레슬러 브라움",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-01-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 201002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-01-21",
+        "set": [
+          "Luchador"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A contemporary wrestler beloved the world over, El Tigre's roar is the bellow of a people's champion. He is a friend to all… but can still scissor kick a two hundred pound cage fighter right out of the ring."
+      }
     }
   ]
 }

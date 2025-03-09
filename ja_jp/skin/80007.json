@@ -24,6 +24,24 @@
     }
   ],
   "description": "ジンクスが働いていた自動車整備工場のメカニックだったパンテオン。彼は別の仕事に就くことを夢見ていたが、あるとき変異原性ウィルスによって彼以外の全員がゾンビになってしまった。チェーンソーで作った槍で怪物どもを真っ二つに斬り裂くほうが、車のワイパー交換より楽しいのは間違いない。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-11-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 80007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-11-05",
+    "set": [
+      "Zombies VS Slayers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "A former mechanic at the same auto body shop Jinx once worked at, Pantheon dreamed of switching careers… until a mutagenic virus turned everyone else into zombies. Slicing monsters in half with a chainsaw-spear is way more fun than replacing windshield wipers, anyway."
+  }
 }

@@ -148,6 +148,57 @@
     }
   ],
   "description": "그레이브즈는 마지못해 교수로 부임하기 전 듀란달 군대에서 복무하던 노련한 군인이었습니다. 적진 배후 깊숙한 곳에서 무엇인가를 발견한 이후 신성무기의 부름을 받아 전투사관학교의 수업을 맡게 되었죠. 그레이브즈의 냉철한 수업 방식은 그가 오랜 세월 동안 축적한 경험을 배우려면 감수해야 하는 작은 대가입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-15",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Formal": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience."
+  }
 }

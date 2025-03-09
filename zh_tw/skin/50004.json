@@ -128,6 +128,46 @@
     }
   ],
   "description": "偉大的弒龍者斯溫為了取得龍的力量，深入地底試圖奪取遠古巨龍的靈魂碎片。然而一向無往不利的斯溫最後卻敗在自己的狂妄自大，反被龍的力量吞噬，最後成為昔日仇敵的奴僕。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-02-22",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Ruby": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 9
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Seeking to turn the very essence of dragons against them, the great Dragonslayer Swain battled beneath the earth for the souls of ancient, long-dead wyrms. In his hubris, he was consumed by their power, emerging a corrupted thrall of the monsters he once swore to destroy."
+  }
 }

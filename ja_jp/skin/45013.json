@@ -150,6 +150,56 @@
     }
   ],
   "description": "ごく少数ではあるが、広がりゆく盟約の魔女の影響を受けずに済んだ古の賢樹の子供達も存在した。これには知恵者も語り部も、胸をなで下ろしたものだ。だが残念なことに、難を免れた子供達は、極めて気まぐれで危険な者達であった。その中には、幻覚症状を引き起こす呪いの毒キノコを携えた狂気のゴブリン、ベイガーも含まれていた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rainbow": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "A small number of the Elderwood's children remain largely unaffected by the growing influence of the Coven, to the relief of scholars and storytellers alike. Unfortunately, those particular children are some of the most whimsical and dangerous, including among their number the insane goblin Veigar and his cursed, hallucinogenic toadstools."
+  }
 }

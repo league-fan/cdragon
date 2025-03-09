@@ -108,6 +108,48 @@
     }
   ],
   "description": "派克是潛伏在血月鏡像世界之中的惡魔串叉手，他的串叉穿透液態的夜色，將底部的惡魔拖曳到上層，然後讓他們進入到人類宿主的體內。有鑑於他與血月之間的密切關聯，許多人都認為他突然出現在愛歐尼亞這件事是個不祥的預兆。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-10",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "A demonic spearfisher lurking within the darkness of the Blood Moon's mirror dimension, Pyke casts his hooked blade across an endless, liquid night, dragging demons up from the bottom of the world and into their human hosts. Inexorably tied to the Blood Moon, Pyke's sudden appearance in Ionia is a dire omen indeed…"
+  }
 }

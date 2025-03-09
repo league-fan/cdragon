@@ -216,6 +216,66 @@
     }
   ],
   "description": "'거대한 야수 갈리오'에서 마을의 지도자인 가렌의 주된 걱정은 사나운 적들에 맞서는 백성들의 안전입니다. 하지만 이야기가 어긋나기 시작하고, 이렐리아는 가렌에게 도움을 요청합니다. 적을 친구로 만든다면 갈리오를 설득할 수 있으며, 막을 수도 있다는 사실을 보여주면서 말입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86033,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 37
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 36
+      },
+      "Gilded": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Paragon": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Silvia Meiliani",
+      "Caravan Studio"
+    ],
+    "lore": "As the town's leader in “The Great Beast Galio”, Garen's chief concern is the safety of his people in the face of a fierce enemy. When the story is thrown off, however, Irelia convinces him to help by showing Garen that Galio can be reasoned with, perhaps even stopped entirely if they make a friend out of a foe."
+  }
 }

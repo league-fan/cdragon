@@ -73,6 +73,41 @@
     }
   ],
   "description": "오래전, 자야는 연인 라칸과 함께 조이에게 맞서 싸우다 패배했습니다. 이후 두 사람은 부활하여 동료들에게서 등을 돌리게 되었고, 자야는 이 사실에 내심 기뻐하고 있습니다. 복수심에 불타는 자야는 자신을 죽게 내버려 둔 별 수호자들을 응징하기 위해 나섰지만, 그것이 과연 옳은 길인지 의구심이 들기 시작했습니다...",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "newvoice": true,
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies "
+  }
 }

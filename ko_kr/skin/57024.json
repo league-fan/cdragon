@@ -137,6 +137,55 @@
     }
   ],
   "description": "M33P 행성에서 자란 첫 번째 나무인 마오카이는 그의 몸통에 살았던 정령들의 잠재적인 힘으로 인해 지각을 얻게 되었습니다. 그는 이제 손, 아니 나뭇가지를 이용하여 어린 정령들에게 도움의 손길을 내밀고 그들을 돌보며 이 새로운 터전에서 생명을 유지하고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-01",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "The first tree to grow on planet M33P, Maokai gained sentience due to the latent power of the meeps that took up residence in his trunk. He now fosters life on this new home of his, collecting and caring for young meeps that could use a helping hand (or branch)."
+  }
 }

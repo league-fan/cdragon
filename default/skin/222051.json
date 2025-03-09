@@ -137,6 +137,54 @@
     }
   ],
   "description": "Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222051,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 56
+      },
+      "Pearl": {
+        "id": 59
+      },
+      "Rose Quartz": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush."
+  }
 }

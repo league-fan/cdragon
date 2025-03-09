@@ -137,6 +137,55 @@
     }
   ],
   "description": "凯尔就是那个可恨的食日天使。她希望与她所爱的神合为一体，因而妄图吞噬掉原初太阳并让大地沉浸在永恒日蚀中。被光明逼疯并且无法遏制自己力量的她将碎片传递给了一支由女巫骑士组成的军队——这支军队曾经以一种不可原谅的亵渎行为诛灭了其他的众多神灵。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10042,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 44
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Rainbow": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 46
+      },
+      "Turquoise": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "The hated sun-eater, Kayle wished to be one with the divine she loved, devouring the primordial sun and steeping the land in an eternal eclipse. Driven mad with light and unable to contain her power, she passed fragments down to an army of witch-knights, who slew the other gods in an act of unforgivable blasphemy."
+  }
 }

@@ -142,6 +142,51 @@
     }
   ],
   "description": "A gifted culinary mage with limitless potential, Syndra's ambition always gives rise to decadent treats—and stirs feuds with her fellow chefs when their creations fall short of her standards. Still, what customer can complain when everything tastes so sensational?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134065,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-05",
+    "set": [
+      "Dumpling Darlings"
+    ],
+    "chromas": {
+      "Catseye": {
+        "id": 68
+      },
+      "Emerald": {
+        "id": 70
+      },
+      "Obsidian": {
+        "id": 72
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 71
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 67
+      },
+      "Tanzanite": {
+        "id": 69
+      }
+    },
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "splashartist": [
+      "Augusto Qurino",
+      "Pandart Studio"
+    ],
+    "lore": "A gifted culinary mage with limitless potential, Syndra's ambition always gives rise to decadent treats—and stirs feuds with her fellow chefs when their creations fall short of her standards. Still, what customer can complain when everything tastes so sensational?"
+  }
 }

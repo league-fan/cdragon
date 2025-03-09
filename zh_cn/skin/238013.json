@@ -150,6 +150,58 @@
     }
   ],
   "description": "劫曾是一位有前途的圣堂武者，然后他变成了奥能巢群意志的宿主并被灌注了它的异星精华。他现在具备将躯体变形为活体武器的能力，将自身视作完美的生命形式，应该得到所有奥能并且命中注定要清理由弱者组成的银河。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-04-18",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 26
+      },
+      "Merc": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Mythic": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Zed was a promising Templar before he became host to the hivemind of ora and imbued with its alien essence. Able to morph his body into living weapons, he now sees himself as the perfect life form, deserving of all ora and destined to cleanse the galaxy of the weak."
+  }
 }

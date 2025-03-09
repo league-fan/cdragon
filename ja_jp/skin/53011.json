@@ -162,6 +162,51 @@
     }
   ],
   "description": "人気SFシューティングゲームのボスキャラだったブリッツクランク。ゲームコミュニティー界隈ではその安っぽいメカと強力な攻撃、そして圧倒的な体力で知られている。ベイガーはブリッツクランクを自分の要塞の門番として配置した。適材適所とはいえ、ベイガーらしい、遊び心のない采配である。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-08-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-08-19",
+    "earlysale": "2016-01",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rainbow": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 16
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "A boss hailing from a popular science fiction shooter, Blitzcrank is well known in the gaming community for cheap mechanics, powerful attacks, and a massive health pool. Veigar fittingly made them the gatekeeper of his personal fortress, because Veigar hates fun."
+  }
 }

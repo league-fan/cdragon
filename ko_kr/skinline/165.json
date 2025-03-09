@@ -8,24 +8,168 @@
       "name": "한계 돌파 블리츠크랭크",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 53047,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-09",
+        "set": [
+          "Zenith Games"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Obsidian": {
+            "id": 55
+          },
+          "Pearl": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Originally a bomb defusal robot, Blitzcrank was made a referee because of their ability to make split-second adjustments to stay ahead of the prodigious athletes. Only later did everyone realize that the bot's background made them unusually effective in defusing the intense... disagreements that often arise."
+      }
     },
     {
       "id": 64041,
       "name": "한계 돌파 리 신",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64041,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-09",
+        "set": [
+          "Zenith Games"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 44
+          },
+          "Obsidian": {
+            "id": 49
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Martial artist Lee Sin's focus on overwhelming his opponents before they could react had won him many championships, but also burned him out. Realizing that his strategy had been rooted in fear, he augments his body not to give himself more strength, but to concentrate his mind and senses."
+      }
     },
     {
       "id": 126025,
       "name": "한계 돌파 제이스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 126025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-09",
+        "set": [
+          "Zenith Games"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "West Studio"
+        ],
+        "lore": "Jayce invented Hammerjack as a showcase sport for humanity's new augmented abilities. Nothing else tested athletes across so many directions and terrain, and with this being its first year in the Zenith Games, he intends to show everyone what THE sport of the 22nd century looks like."
+      }
     }
   ]
 }

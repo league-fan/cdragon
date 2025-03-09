@@ -159,6 +159,61 @@
     }
   ],
   "description": "No one knows if the Mysterious Gentleman is human or something Else, but he has somehow injected himself into every crime family in Valoran City. With honeyed words and a conman's grin, he convinced them all to embrace the horrors of the Beyond... Now the only thing to do is sit back and watch them tear each other apart.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Catseye": {
+        "id": 30
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Underground": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "No one knows if the Mysterious Gentleman is human or something Else, but he has somehow injected himself into every crime family in Valoran City. With honeyed words and a conman's grin, he convinced them all to embrace the horrors of the Beyond... Now the only thing to do is sit back and watch them tear each other apart."
+  }
 }

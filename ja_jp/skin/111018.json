@@ -137,6 +137,51 @@
     }
   ],
   "description": "奇妙で不気味な叫びの声に、ノーチラスが目を覚ます<br>外に出てきた彼を見て、誰もが恐怖で叫び出す<br>うるさい困った隣人たち、観光気分でやってくる！<br>「一人残らず追い払う、執事の勤めを果たすのだ！」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-09-22",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Strange and ghoulish screaming woke Nautilus into being<br>He made his way outside to find them most displeasing<br>These lousy, no good neighbors, always there sightseeing!<br>“What kind of butler would I be if I don't send them fleeing?”"
+  }
 }

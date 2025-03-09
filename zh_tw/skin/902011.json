@@ -137,6 +137,53 @@
     }
   ],
   "description": "米里歐一直都很喜歡水，他從小在擅長唱歌的青蛙家族中長大，所以從來不會有乾旱的問題。但在他們失去唱歌的能力後，大地乾涸，他便承擔起新的責任。他把青蛙家人裝進背包裡，出發尋找恢復他們歌聲的方法，並擔任新的牧雨歌僮，學習他們的歌。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-06-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 902011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-06-26",
+    "set": [
+      "Rain Shepherd"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Giselle Fernandez"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Milio always loved water, and growing up with his frog family of lyrical croakers meant there was never any shortage of rain. But once they lost their ability to sing and the lands dried up, he took on new responsibilities. Gathering up his family in his backpack, he set out to restore their singing voices and learn their songs as a new Rain Shepherd."
+  }
 }

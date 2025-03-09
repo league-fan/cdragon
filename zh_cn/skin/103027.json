@@ -142,6 +142,52 @@
     }
   ],
   "description": "阿狸是著名的救赎之灵，也是在所有凡人的灵魂到达灵界时的引路狐。她是一个变化无常、异想天开的灵体，把生者的命运视为一场追逐游戏。她为灵魂们提供了找到最后安息的机会……但如果他们偏离了道路，她将不会干预。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2020-08-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-08-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 62
+      },
+      "Aquamarine": {
+        "id": 29
+      },
+      "Night Blossom": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "The famed Spirit of Salvation, and the fox all mortals are beckoned towards when their souls arrive to the spirit realm. A capricious, whimsical spirit who sees the fate of the living as a game of chase, she offers the chance for souls to find their final rest… but will not intervene if they stray from the path."
+  }
 }

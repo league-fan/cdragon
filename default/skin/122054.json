@@ -165,6 +165,60 @@
     }
   ],
   "description": "Darius has watched the modern-day protector of the Tiger Relic from afar, silently judging his descendant. Back when he was protector, the Tiger was a symbol of pride... Now it seems the Zodiac will hand off the duty to anyone with a minor in archeology. Returned to physical form, Darius believes he can show this kid a thing or two.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 56
+      },
+      "Obsidian": {
+        "id": 60
+      },
+      "Opulent": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Pearl": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 58
+      },
+      "Turquoise": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Darius has watched the modern-day protector of the Tiger Relic from afar, silently judging his descendant. Back when he was protector, the Tiger was a symbol of pride... Now it seems the Zodiac will hand off the duty to anyone with a minor in archeology. Returned to physical form, Darius believes he can show this kid a thing or two."
+  }
 }

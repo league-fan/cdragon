@@ -24,6 +24,24 @@
     }
   ],
   "description": "ピルトーヴァーの製造業で財を成した資産家の一部はヘクステック製品の市場価値の移り変わりを敏感に察知し、共同で資本を蓄えて巨大ゴーレムのガリオを製造すると、それを町とその住民に寄付した。要は歩く広告塔になったわけだが、この町の守護者自身、世界に関心を示し、また自らの務めに誇りを感じてもいる。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-08-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 3002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-08-10",
+    "retired": "2013-07-18",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Sensing a shift in the marketability of Hextech items, several of Piltover's largest industrial families pooled resources to create Galio, a massive golem donated to the city and her people. While he is ostensibly a walking advertisement, the protective creature is both curious about the world, and proud of his responsibility."
+  }
 }

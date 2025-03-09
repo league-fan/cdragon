@@ -25,6 +25,22 @@
     }
   ],
   "description": "惠斯勒村是一个世外桃源一般的美丽村庄，这里以特产香料可可、冬季运动会以及一只住在森林里的人形老鼠而闻名。利用香料可可引出这只老鼠参加冬季运动会的话，一切就都完美了。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-02-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 29002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-02-12",
+    "set": [
+      "Winter Sports"
+    ],
+    "vu": true,
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Max Grecke"
+    ],
+    "lore": "Whistler Village is an idyllic mountain hamlet known for spiced cocoa, competitive winter sports, and rumors of an insane man-rat living in the woods. Attempts to appease the creature with spiced cocoa and competitive winter sports have been unsuccessful."
+  }
 }

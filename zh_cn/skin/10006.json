@@ -132,6 +132,51 @@
     }
   ],
   "description": "凯尔是'X07-天界'战斗机甲的获授权驾驶员，也是运作于法外空间中央地带的皇家太空军的一位审判官。尽管她的任务是去支撑脆弱的战后和平，但数年的暴力冲突已经使她变得偏激——现在，对于任何落入她凝视的人或物来说，她都扮演着无情的法官、陪审团和刽子手的角色。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2013-01-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2013-01-18",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Ace": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Amethyst": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Authorized pilot of the X07-Gevurah combat exosuit, Kayle is a justicar of the Royal Space Military operating deep in the heart of lawless space. Though her mission is to uphold the fragile postwar peace, years of violent conflict have radicalized her—now she acts as heartless judge, jury, and executioner for anyone or anything that falls beneath her gaze."
+  }
 }

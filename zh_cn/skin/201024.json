@@ -148,6 +148,57 @@
     }
   ],
   "description": "没人知道布隆是如何做到不让糖果黏在他庄严的小胡子上的。每个人都知道这个伟大的防御者是如何坚定地为大家一盾当先的，从最小的橡皮软糖到最强的糖果之王。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-12-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-12-17",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 28
+      },
+      "Citrine": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Peridot": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sweet Tooth": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sugar Rush 2019"
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "No one knows how Braum manages to never get candy stuck in his majestic mustache. Everyone knows how the great defender stands stalwart for everyone, from the smallest gumdrop to the strongest candy king."
+  }
 }

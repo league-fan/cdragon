@@ -24,6 +24,24 @@
     }
   ],
   "description": "ブラッドムーンの軌道を記録した古の書物には、それは単なる天象ではなく、宇宙に浮かぶ胎であると記されている。日が短くなるにつれ教団の活動は活発になっており、新たな悪魔の誕生を危惧する者もいた。闇の超越者にならんと目論む怪物の誕生を…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-10",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Ancient manuscripts tracking the orbit of the Blood Moon describe it not as celestial phenomenon, but as a cosmic womb. As the seasons grow shorter and the cult's activity continues to increase, some worry it will give birth to a new kind of demon—a creature helping to bring about its own dark ascendance."
+  }
 }

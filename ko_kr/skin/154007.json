@@ -108,6 +108,42 @@
     }
   ],
   "description": "기존 창조물에 만족하는 법이 없었던 빅토르는 최신 기술로 액체와 고체 상태를 왔다 갔다 하는 실험적인 합금을 만들어 냈습니다. 놀라울 정도로 유연하면서 파괴는 불가능에 가까운 이 새로운 육식형 전투 기계 자크는 전장에 뛰쳐나가 앞길을 가로막는 것은 무엇이든 파괴합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 154007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "lore": "Never content with his extant creations, Viktor's latest innovation has forged an experimental alloy that shifts between liquid and solid states. Incredibly flexible yet nigh-indestructible, the new zoophagus assault constructs, or ZACs, spring onto the battlefield, harvesting and consuming any resistance that stands in their way."
+  }
 }

@@ -108,6 +108,48 @@
     }
   ],
   "description": "传说有一种特殊的龙会在乡村肆虐，它们能够隐藏在龙葵的面纱下。其他屠龙勇士们在挑战如此危险的对手时也许会顾虑重重，但黛安娜则会当机立断——她的剑刃和护甲都由这些可怕龙兽的残骸所铸。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts."
+  }
 }

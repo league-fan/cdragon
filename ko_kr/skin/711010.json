@@ -160,6 +160,60 @@
     }
   ],
   "description": "벡스는 그 누구도 필요하지 않았습니다. 혼자 자란 덕분에 자급자족이 가능했고 대부분 사람을 만나면 짜증만 났죠. 자신의 차원이 파괴되었을 때도 눈 하나 깜빡하지 않았지만, 새로운 창공의 힘을 얻고 기발한 생각을 해냈습니다. 자신의 그림자에게 힘을 불어넣자 마침내 그나마 견딜 만한 동료가 생겼죠. 벡스에게 다른 사람은 필요 없었을지 몰라도, 고통은 동료를 좋아하는 법이니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 711010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Neon Flare": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 16
+      },
+      "Turquoise": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Jeannie Tirado"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Vex didn't need anyone. Growing up alone, she was self-sufficient and annoyed by most people. Her realm's destruction barely made her blink, but her new Empyrean powers did give her an idea. By empowering her own shadow, she finally had a companion she tolerated. Vex may not need anyone, but then again, misery loves company."
+  }
 }

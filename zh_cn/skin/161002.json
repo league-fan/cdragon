@@ -33,6 +33,25 @@
     }
   ],
   "description": "作为一个崇高的活体能量，维克兹本身就是象征着传奇、秘密与崇拜的符号。每隔一个千年他会失去神格，选择一名继任者接受他难以想象的强大意志，并将他晋升为拥有超凡力量的个体——苍穹之光。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-01-28",
+    "set": [
+      "Arclight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight."
+  }
 }

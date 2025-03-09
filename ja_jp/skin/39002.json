@@ -24,6 +24,24 @@
     }
   ],
   "description": "戦闘機のパイロットのなかでも、イレリアほどの腕を持つ者は数少ない。派手なドッグファイトで知られた彼女は、史上最高の兵士の一人として名を連ねることとなった。そして戦争が終わっても彼女は情熱を失わず、戦闘機を飛ばし続けたのである。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-11-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 39002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-11-16",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "vu": true,
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Jana Schirmer"
+    ],
+    "lore": "Few war pilots were as skilled as Irelia, whose flashy dogfighting earned her a place among the greatest soldiers in history. After the war she continued to fly fighter planes, never once losing her spark."
+  }
 }

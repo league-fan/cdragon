@@ -177,6 +177,56 @@
     }
   ],
   "description": "妮蔻是一个古老且神秘的冬季精怪，以一种近似于孩童般的好奇看待着她周围的世界。她最近刚从魄罗之王的广袤领土上回来，并且变得沉迷于这个在她不在时崛起的文明。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-05",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 3,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rainbow": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Atey Ghailan"
+    ],
+    "lore": "An ancient and mysterious winter sprite, Neeko regards the world around her with an almost childlike curiosity. Having recently returned from beyond the Poro King's vast domain, she has become enamored with the civilization that has risen in her absence."
+  }
 }

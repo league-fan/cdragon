@@ -24,6 +24,23 @@
     }
   ],
   "description": "艾希是傳奇般的荒野弓箭手，她是來到此地的旅行者唯一會遇見的沃德族人。人們只知道她會收集散落在北境小道的冰凍屍體，除此之外有關她的一切全是謎。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-07-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-07-18",
+    "set": [
+      "Woad"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Concept Art House"
+    ],
+    "lore": "A legendary wilderness archer, Ashe is the first and last member of the Woad Tribe many a wayward traveler will ever meet. Nothing is known of her past, save for frozen corpses littering the northern trails."
+  }
 }

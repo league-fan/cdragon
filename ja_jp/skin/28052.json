@@ -187,6 +187,65 @@
     }
   ],
   "description": "哀れな男は何かに苛まれているように見えた。完璧ね。イブリンはバーのカウンターにもたれかかって男に向かって身を寄せると、赤い唇に甘い笑顔を浮かべながら、「ねえ、色男さん。悩みがあるなら話してごらんなさい」と声をかけた。男はそれに応じ、弟についてや、自分が受けた不当な仕打ち、自分はすでに死んでいるような気がするが、確証が持てないでいることなどを打ち明けると、悪魔は一口に酒を飲み干した。「もう大丈夫よ」と、彼女は優しく言った。「私がついているから」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 55
+      },
+      "Noonday": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Obsidian": {
+        "id": 61
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 54,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Tanzanite": {
+        "id": 56
+      },
+      "Turquoise": {
+        "id": 57
+      },
+      "Vendetta": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "High Noon 2024 Premium Pass Bundle"
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "The poor man looks haunted. Perfect. Evelynn leans over the bar top towards him with a sweet smile curling her red lips: “Tell me your woes, handsome.” And he does. He tells her of his brother, and a raw deal, and how he thinks he might be dead now but ain't sure... and the devil drinks deep. “It's alright, darlin',” she coos. “I've got you now.”"
+  }
 }

@@ -48,6 +48,32 @@
     }
   ],
   "description": "ビデオゲームの悪のボスと戦うべく現実世界から強制的に送られてきても、ソナは決して取り乱さない。何しろ彼女は『キーボード・ソロ4』のウルトラソロ・モードを難易度ナイトメアで初めてクリアしたプレイヤーなのだ。ちなみに製作者によると、「あれはクリアできない設計になっている」らしい。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-08-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-08-31",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newquotes": true,
+    "chromas": {
+      "K.O.": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Katie 'TeaTime' De Sousa"
+    ],
+    "lore": "Being forcefully transported from the real world to fight an army of evil video game bosses is no sweat for Sona. She was the first person to beat Keyboard Solo 4's ultra solo mode on nightmare difficulty—a feat that, by the developers' own admission, should not have been possible."
+  }
 }

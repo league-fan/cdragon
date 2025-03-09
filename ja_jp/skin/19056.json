@@ -49,6 +49,32 @@
     }
   ],
   "description": "たとえ地下都市の腐敗が進んだとしても、ゾウンの多くの人々がヴァンダーを悼んだ。誰も彼がまだ生きているなどとは考えもしなかったが、彼のシマーによって捻じれた肉体はシンジドの研究室の奥深くに隠されていた。そして根源的な怒りに満たされた苦悶の獣として復活させられ、怪物ワーウィックは世に解き放たれた。しかし、彼の人間性がまだ少しでも残されているとしたら… ヴァンダーを救うことはできるのか？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19056,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 57,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "Many in Zaun mourned Vander, even as the undercity fell deeper into corruption. No one could have ever known that he still lived, his shimmer-twisted body hidden deep within Singed's lab. Revived as a tormented beast of primal rage, the monster Warwick was unleashed on the world. But if a fragment of his humanity still lives... can Vander be saved?"
+  }
 }

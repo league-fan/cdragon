@@ -33,6 +33,25 @@
     }
   ],
   "description": "在血月之夜被召唤出的上古恶魔，凯南的目标是消灭所有强大的个体及其传人。他在执行任务的时候冷酷无情，在一瞬之间就可以击溃所有身着重甲敌人。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-02-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 85006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-02-25",
+    "earlysale": "2016-07",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "A kingslaying demon summoned on the night of the Blood Moon, Kennen's purpose is to depose those in power and eliminate every member of their line. He is ruthless in this task, tearing across heavily armed fortress cities in the blink of an eye."
+  }
 }

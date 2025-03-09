@@ -141,6 +141,53 @@
     }
   ],
   "description": "평화를 향한 바람이 불러온 것은 새해 축제뿐만이 아닙니다. 사람들의 공통된 바람으로부터 잔나라는 정령이 태어났고, 그녀의 마법은 소용돌이처럼 밤 풍경을 휘감습니다. 대부분의 사람은 잔나 이야기를 전설로 치부하지만, 아름다운 여성이 떠다니는 걸 봤다는 관람객도 가끔 있죠. 수정 장미의 불빛이 일으키는 착시 현상일까요...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-10",
+    "set": [
+      "Crystal Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 44
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 38
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The desire for peace brought about more than just a yearly festival. Born from this universal wish was Janna, a spirit whose magic hangs like a wreath over the night. Though she's regarded by most as a legend, guests sometimes say they see a beautiful woman float by. Maybe it's a trick of the crystal rose's light..."
+  }
 }

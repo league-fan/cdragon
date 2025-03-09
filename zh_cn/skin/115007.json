@@ -118,6 +118,48 @@
     }
   ],
   "description": "作为一名因急速推进了奥拉的采矿技术而闻名但已经失宠的工程师，吉格斯因为一次事故而倾家荡产。然而那次事故却是因为一个年轻技师及她笨拙的领导为了赶工期，“意外地”非法操控了吉格斯的一台设备而导致的。﻿伴随着这份痛苦与狂躁，现在的他游走在奥拉与赌场之间以期望重获他之前所有的声誉。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "retired": "2018-09-24",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige."
+  }
 }

@@ -8,40 +8,99 @@
       "name": "Fnatic 카서스",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-09-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 30005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-09-24",
+        "set": [
+          "World Champions: 2011"
+        ],
+        "lore": "Honoring xPeke's winning performance as Karthus during the 2011 World Championship."
+      }
     },
     {
       "id": 40006,
       "name": "Fnatic 잔나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-09-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 40006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-09-24",
+        "set": [
+          "World Champions: 2011"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "lore": "Honoring Mellisan's winning performance as Janna during the 2011 World Championship."
+      }
     },
     {
       "id": 42007,
       "name": "Fnatic 코르키",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-09-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 42007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-09-24",
+        "set": [
+          "World Champions: 2011"
+        ],
+        "voiceactor": [
+          "'Ralph'"
+        ],
+        "lore": "Honoring LaMiaZeaLoT's winning performance as Corki during the 2011 World Championship."
+      }
     },
     {
       "id": 59006,
       "name": "Fnatic 자르반 4세",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-09-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 59006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-09-24",
+        "set": [
+          "World Champions: 2011"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "lore": "Honoring Cyanide's winning performance as Jarvan IV during the 2011 World Championship."
+      }
     },
     {
       "id": 79008,
       "name": "Fnatic 그라가스",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-09-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 79008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-09-24",
+        "set": [
+          "World Champions: 2011"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "J.S. Gilbert"
+        ],
+        "lore": "Honoring Shushei's winning performance as Gragas during the 2011 World Championship."
+      }
     }
   ]
 }

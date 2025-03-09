@@ -159,6 +159,61 @@
     }
   ],
   "description": "達瑞斯一心只求要在地下世界的頂端爭得一席之地。成為好運姐的貼身保鑣只是第一步，但第二步是接受神祕紳士的力量：接納超乎時空之外的強大力量，將他形塑為遠超乎自身想像的某種強大存在。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 38
+      },
+      "Emerald": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      },
+      "Tanzanite": {
+        "id": 39
+      },
+      "Underground": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "All Darius wanted was to secure a place for himself at the top of the underworld. Becoming Miss Fortune's personal bodyguard was the first step, but the second was embracing the power of the Mysterious Gentleman: welcoming forces from beyond space and time that have molded him into something far more powerful than he could ever have imagined."
+  }
 }

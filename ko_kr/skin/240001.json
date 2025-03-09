@@ -24,6 +24,24 @@
     }
   ],
   "description": "클레드 남작 자작 백작 대공 경(줄여서 클레드 경)은 정신이 반쯤 나간 기사로 클레드 왕국이란 곳에서 왔습니다. 그곳 백성은 클레드와 클레드가 타고 다니는 겁쟁이 새, 스칼뿐이죠. 둘은 함께 클레드의 '땅'을 '되찾기' 위해 시골 지방을 쑥대밭으로 만들고 있습니다. 그곳에는 사방이 땅뿐이지만요.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2016-08-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-08-09",
+    "earlysale": "2016-12",
+    "set": [
+      "Medieval"
+    ],
+    "newrecall": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sir Prince Chevalier Archduke Lord Double-Earl Kled (or Sir Kled, for short) is a half-mad knight from the aptly named Kingdom of Kled, which contains exactly two subjects: Kled, and his cowardly avian mount, Skarl. Together, the pair ravage the countryside to 'reclaim' Kled's 'land', which apparently is… all land, everywhere."
+  }
 }

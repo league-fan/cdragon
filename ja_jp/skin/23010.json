@@ -130,6 +130,50 @@
     }
   ],
   "description": "悪魔のトリンダメアは自らと対になった人間の体を完全に取り込んで支配すると、その人間離れした怪力を使って人間界と悪魔界を隔てるベールを大きく引き裂いた。他の悪魔なら致命傷と思われる傷を負ってすら平然と戦い続ける彼はまさに制止不能であり、その鎮まることを知らない怒りは、万物がブラッドムーンに吸収されることを求めている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 23010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-20",
+    "set": [
+      "Blood Moon"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 12
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 13,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Brian Sommer"
+    ],
+    "lore": "The demon Tryndamere has fully assumed control over his twinned human body, using its inhuman strength to slash gaping wounds in the veil between the human and demonic realms. Shrugging off wounds considered fatal even to other demons, his is an unstoppable, unquenchable rage that would see all things consumed by the Blood Moon."
+  }
 }

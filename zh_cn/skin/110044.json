@@ -137,6 +137,54 @@
     }
   ],
   "description": "腥红之月的教徒们逼疯了韦鲁斯的战友们，迫使他不得不取走他们的性命。悲痛欲绝的他恳求净雪之月教团麻痹这种痛苦，来让他成为一件由冰冷复仇组成的器具。教团尝试过净化他的这些异端情感……但瓦尔茂和凯伊的声音仍在他的脑海中萦绕，复仇之火仍在他冰冷的心中燃烧。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 47
+      },
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "Blood Moon cultists drove Varus' comrades mad, forcing him to take their lives. Awash with grief, he begged the Snow Moon Order to numb the pain, to make him an instrument of ice cold revenge. The Order attempted to purify him of these heretical emotions… but Valmar and Kai's voices linger in his mind, and vengeance still smolders in his cold heart."
+  }
 }

@@ -142,6 +142,56 @@
     }
   ],
   "description": "身为体系的领袖，普朗克以冷血无情闻名于世。他能够接触到危险的源计划科技，进而用机械铁拳统治这座城市。然而，叛变程序陡然现世，对他的领地大肆破坏。为了保护这座城市、将病毒彻底消灭，他只得开始操纵曾经的遗弃者。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41033,
+    "formatname": "PROJECT: Gangplank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-06",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Peridot": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good."
+  }
 }

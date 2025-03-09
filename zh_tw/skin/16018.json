@@ -133,6 +133,54 @@
     }
   ],
   "description": "可口的美食能治療人心，索拉卡努力地將她做的每一個糕點都灌注了美味的魔法，讓顧客們吃了變得更有精神。不過整間咖啡廳都同意，她的背景相當神祕：索拉卡的技術已經超越人類了！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Peridot": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Good food can be healing, and Soraka works hard to imbue every single pastry she makes with delicious magic that leaves her customers feeling more spritely than when they first walked in. Though her origins are mysterious, the whole cafe agrees: Soraka's work is out of this world!"
+  }
 }

@@ -160,6 +160,57 @@
     }
   ],
   "description": "Malphite was one of three guardians of the Yun Tal Empire, a demi-god of crag and magma, his brothers-in-arms a serpent of water and a spirit of nature. Their friendship ended in an instant, when one guardian's infinitesimal betrayal led to the death of another. Now, Malphite stands alone with unwavering loyalty, desperate to restore his nation's former glory, no matter the cost of lives. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Resplendent": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "Malphite was one of three guardians of the Yun Tal Empire, a demi-god of crag and magma, his brothers-in-arms a serpent of water and a spirit of nature. Their friendship ended in an instant, when one guardian's infinitesimal betrayal led to the death of another. Now, Malphite stands alone with unwavering loyalty, desperate to restore his nation's former glory, no matter the cost of lives. "
+  }
 }

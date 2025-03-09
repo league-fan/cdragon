@@ -137,6 +137,55 @@
     }
   ],
   "description": "儘管鋼鐵叛軍中的許多人都對辛吉德有所保留，沒有人能夠全盤否定辛吉德對抗機甲威脅的效率。對辛吉德來說，唯一重要的事情就是擊退維克特的創作，無論要用上甚麼手段。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 27010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "voiceactor": [
+      "Unknown voice actor"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "Though many in the Resistance find Singed unsettling, few can deny his efficacy in pushing back the machine threat. For Singed, the only thing that matters is driving back Viktor's creations, whatever the means."
+  }
 }

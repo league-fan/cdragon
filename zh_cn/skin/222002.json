@@ -208,6 +208,54 @@
     }
   ],
   "description": "从没有人能拒绝这奇幻的冒险，金克丝建造了许多具有春节气氛的武器，包括一个七英尺高的巨龙火箭。她要证明给所有人，过节的时候有烟花才有趣。但实际上不是。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-02-10",
+    "earlysale": "2015-12",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Aquamarine": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Golden Tiger": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Rose Quartz": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Never one to turn down an imaginary challenge, Jinx has constructed a number of Lunar Revel weapons, including a seven foot long rocket shaped like an angry dragon. She'll tell you it's a fun firecracker for parties. It is not."
+  }
 }

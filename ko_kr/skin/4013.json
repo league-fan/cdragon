@@ -160,6 +160,60 @@
     }
   ],
   "description": "신중함과 터무니없이 유명한 우주선으로 알려진 우주 밀수업자이자 악동 트위스티드 페이트는 카르마로부터 우주 해적의 손에서 기사단을 구출하는 일을 의뢰받았습니다. 하지만 그는 그 일을 맡은 다른 용병들이 단순한 도둑질보다는 살인으로 더 유명하다는 것을 알아차리게 되죠...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-15",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Merc": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "A space smuggler erroneously known for discretion, as well as his impractically famous ship, The Wildcard, Twisted Fate was hired by Karma to free some templars from some space pirates. He has only just begun to notice that the other mercs on the job are better known for wetwork than simple heists..."
+  }
 }

@@ -113,6 +113,48 @@
     }
   ],
   "description": "ヴェル＝コズについて、詳しいことはほとんど分かっていない。なぜなら、目撃した者のほとんどは、その場で焼き殺されてしまうからだ。分かっているのは、この恐ろしい巨大生物は目から発射する破壊光線で国家ひとつを破壊し尽してしまうことが可能で、そのあとには炎がくすぶる瓦礫しか残らないということだ。ひとたびその巨体が放つ地獄の眼差しに睨まれれば、あとには死体すら残らない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Rainbow": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 5,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury."
+  }
 }

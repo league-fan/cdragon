@@ -24,6 +24,24 @@
     }
   ],
   "description": "Annie is a big part of Lunar Revel festivities, using her pyromancy to set off scores of high powered fireworks. Her panda bear Tibbers hauls the rockets for her, mauling anyone who tries to make off with even the smallest sparkler.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-02-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-02-08",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "Annie is a big part of Lunar Revel festivities, using her pyromancy to set off scores of high powered fireworks. Her panda bear Tibbers hauls the rockets for her, mauling anyone who tries to make off with even the smallest sparkler."
+  }
 }

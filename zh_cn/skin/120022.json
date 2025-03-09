@@ -147,6 +147,57 @@
     }
   ],
   "description": "他是高位世界的执法者，他不断向前的移动粉碎着他前面的人，同时为他身后的人雕刻着新的命运。他在设法阻拦低位世界的洛并防止那个不幸灾难的发生，这个灾难的原因是：将有一段命定的爱情在星空间绽放。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 120022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-14",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 28,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Enforcer of the Higher World, his ever-forward motion crushes those before him while carving new fates for those left in his wake. He seeks to stop Rakan of the Lower World and prevent the calamitous disaster that will result from a fated love blooming betwixt the stars."
+  }
 }

@@ -24,6 +24,21 @@
     }
   ],
   "description": "네, 자르반의 팔과 다리에 감겨있는 것 총 맞습니다. 하지만 발사는 못 하죠. 그냥 위협용이에요.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-03-01",
+    "set": [
+      "Commando"
+    ],
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Zhang Ji"
+    ],
+    "lore": "Yes, those are guns strapped to Jarvan's arms and legs. No, he can't shoot them."
+  }
 }

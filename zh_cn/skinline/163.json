@@ -8,8 +8,51 @@
       "name": "灵魂守卫 乌迪尔",
       "rarity": "kUltimate",
       "isBase": false,
-      "wikiPrice": "3250",
-      "wikiReleaseDate": "2013-07-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 77003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2013-07-16",
+        "set": [
+          "Spirit Guard"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Spirit Tiger",
+        "forms": [
+          "Base",
+          "Tiger",
+          "Turtle",
+          "Bear",
+          "Phoenix"
+        ],
+        "chromas": {
+          "Tiger": {
+            "id": 3
+          },
+          "Turtle": {
+            "id": 3
+          },
+          "Bear": {
+            "id": 3
+          },
+          "Phoenix": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Sean Rohani"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Udyr's time in Ionia, training at Hirana Monastery, taught him control and calmed the storm in his heart. Though the Freljord called him home, Udyr chose to stay and help Ionia regain spiritual harmony, as it had done for him. As he gets closer to this goal, he knows that his work to do the same for the whole of Runeterra has only just begun."
+      }
     }
   ]
 }

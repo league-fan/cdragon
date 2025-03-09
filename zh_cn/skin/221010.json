@@ -146,6 +146,53 @@
     }
   ],
   "description": "泽丽是来自西南地区的一位崭露头角的驯水师，一头扎进了海之歌音乐节。这是她第一次独自掌控舞台，并且为了给自己留个好印象，她可能在表演计划上做得有点过头了。人人都爱过度刺激，对吧？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-06-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 221010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-06-09",
+    "set": [
+      "Ocean Song"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Vanille Velasquez"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "An up and coming Water Tamer from the Southwest, Zeri is diving into the Ocean Song Festival headfirst. This is her first time handling a stage on her own, and she may have gone a little overboard with her showstopper plans in order to give herself a calling card. Everybody loves a little overstimulation, right?"
+  }
 }

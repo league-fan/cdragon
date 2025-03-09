@@ -138,6 +138,54 @@
     }
   ],
   "description": "弗拉基米尔花了数年时间寻找长生不老药——结果发现它，实际上是，茶。从那时起，他就沉浸在完美一杯的艺术中。 虽然他假装光顾这家咖啡馆只是为了提升他的茶叶占卜术，但弗拉基米尔已经开始喜欢起那些让他在其行列中定居的平凡之辈了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 8030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 32
+      },
+      "Tanzanite": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Kevin M. Connolly"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Vladimir spent years searching for the elixir of life—only to discover that it is, in fact, tea. Since then he has steeped himself in the art of the perfect cup. Though he pretends to frequent the cafe solely to advance his Tasseomancy, Vladimir has grown fond of the ragtag group that allowed him to take up residence among their ranks."
+  }
 }

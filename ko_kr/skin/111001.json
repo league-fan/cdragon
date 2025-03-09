@@ -24,6 +24,19 @@
     }
   ],
   "description": "''나는 실종된 잠수부들을 찾으러 배를 몰고 나온 적이 한 번도 없어. 이 물속 깊은 곳에는 기이한 존재가 살고 있는데, 길잃은 영혼들이 그 존재에게 어떤 끔찍한 일을 당하고 있을지 두렵기 때문이지.''",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-02-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-02-14",
+    "set": [
+      "Forgotten Depths"
+    ],
+    "neweffects": true,
+    "splashartist": [
+      "Alex Konstad"
+    ],
+    "lore": "“Never once have I sailed these waves looking for missing divers. Something unnatural lives in the depths, and I fear what it does to these lost souls.”"
+  }
 }

@@ -109,6 +109,46 @@
     }
   ],
   "description": "墨菲特曾是太空開採站的工頭，直到吉茵珂絲把這顆小行星炸成碎片。他們兩人雙雙被解僱，而墨菲特對於這個明顯患有精神病的人的忠誠使整個星系陷入了危機，但他似乎完全不這麼覺得。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Malphite was once the pit boss of a deep space mining operation, until Jinx cracked the asteroid in half and got them both fired. His enduring loyalty to someone who is very obviously a psychopath has landed him in all kinds of danger across the galaxy, but he honestly doesn't seem to mind."
+  }
 }

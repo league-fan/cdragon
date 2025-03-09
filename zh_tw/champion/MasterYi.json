@@ -13,144 +13,751 @@
       "name": "易大師",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "260",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people—scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them."
+      }
     },
     {
       "id": 11001,
       "name": "復仇刺客 易大師",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "390",
-      "wikiReleaseDate": "2009-12-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 390,
+        "release": "2009-12-17",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Ever since Yi gave up the ideals of Wuju style, he's been a terror to Noxian forces. A blade in the night, he strikes at the foes of Ionia with deadly precision. With every whisper of the leaves they shudder, expecting the next moment to be their last."
+      }
     },
     {
       "id": 11002,
       "name": "天選者 易大師",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-03",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ]
+      }
     },
     {
       "id": 11003,
       "name": "愛歐尼亞 易大師",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-09-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-12",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ]
+      }
     },
     {
       "id": 11004,
       "name": "武士精神 易大師",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-03-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11004,
+        "formatname": "Samurai Yi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-07",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ]
+      }
     },
     {
       "id": 11005,
       "name": "終極戰士 易大師",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-08",
+        "set": [
+          "Headhunter"
+        ],
+        "chromas": {
+          "Aqua": {
+            "id": 7
+          },
+          "Crimson": {
+            "id": 8
+          },
+          "Gold": {
+            "id": 6
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "lore": "Hunters use many tools: the bowgun, the rifle, the knife, the mind. Master Yi's tool of choice is a five foot long serrated blade forged from meteoric alloy. "
+      }
     },
     {
       "id": 11009,
       "name": "菁英計畫：易大師",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11009,
+        "formatname": "PROJECT: Yi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2015-09-07",
+        "earlysale": "Ineligible",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Greg Chun"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "One of the first concepts, Yi was held by PROJECT for extensive experimentation, and then finally freed by the G/NETIC rebels. His psyche may still contain some glitches, but his experimental hyperlight “alpha” blade serves the resistance with its precision balance."
+      }
     },
     {
       "id": 11010,
       "name": "銀河劍尊 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-04-26",
+        "earlysale": "2017-11",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Gliding effortlessly from star to star, Yi flashes through the night sky with celestial grace, his blade arcing with crystalline precision through the fabric of the universe itself."
+      }
     },
     {
       "id": 11011,
       "name": "劍仙：辟邪 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-09-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11011,
+        "formatname": "Eternal Sword Yi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-27",
+        "earlysale": "2018-03",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 14
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "A pupil of a famous martial arts school, Yi has dedicated his life to the purity and art of combat. And yet, in his heart, he knows he is worthy of the fabled sword of jade, and a power beyond mere mortality…"
+      }
     },
     {
       "id": 11017,
       "name": "聖誕雪人 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11017,
+        "formatname": "Snow Man Yi",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "A humble snowman brought to life by the magic of the Poro King, Yi strives to become the most gallant knight in all the land… and with the imminent invasion of Ice King Twitch, he might just get his chance."
+      }
     },
     {
       "id": 11024,
       "name": "血月劍痴 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence."
+      }
     },
     {
       "id": 11033,
       "name": "靈戰特工 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-09-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-09-03",
+        "set": [
+          "PsyOps"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 34
+          },
+          "Hunter": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PsyOps 2020"
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 37
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "A legendary psychic swordsman and elite leader of the PsyOps unit. Yi is calm, professional, and always gets the job done, making him a terrifying bogeyman among rogue militaries, and a target for those harboring resentment towards the global war machine."
+      }
     },
     {
       "id": 11042,
       "name": "決勝賭豪 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 49
+          },
+          "Catseye": {
+            "id": 44
+          },
+          "Cerulean Club": {
+            "id": 51,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A powerful businessman of few words, often seen staring down on “his” strip from the comfort of his posh presidential suite. Despite his cold demeanor, Yi enjoys the finer things in life, and demands only the finest fits for his world-famous evening attire."
+      }
     },
     {
       "id": 11052,
       "name": "靈花祭 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11052,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 81
+          },
+          "Emerald": {
+            "id": 83
+          },
+          "Night Blossom": {
+            "id": 88,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 87
+          },
+          "Pearl": {
+            "id": 86
+          },
+          "Rose Quartz": {
+            "id": 84
+          },
+          "Ruby": {
+            "id": 80,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 82
+          },
+          "Turquoise": {
+            "id": 85
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "West Studio"
+        ],
+        "lore": "Legends speak of Master Yi, a swordsman who took but one student in his lifetime. After an unceremonious betrayal, Yi perished—not from a blade, but from a broken heart. Now the Spirit of Legacy roams the spirit world, searching for a pupil. He is lost, anyone that joins him destined to face the same fate."
+      }
     },
     {
       "id": 11053,
       "name": "尊爵不凡 靈花祭 易大師",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11053,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 52,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Yi arrives at the Spirit Blossom Fashion Festival, donning tinted shades and the finest fabrics. While others prefer to celebrate with close family and friends, Yi revels in the attention his outfit brings, intent to cement his style \"legacy\"."
+      }
     },
     {
       "id": 11089,
       "name": "墨影戰士 易大師",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11089,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "newvoice": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 91
+          },
+          "Inked": {
+            "id": 95,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2023"
+          },
+          "Rose Quartz": {
+            "id": 93
+          },
+          "Ruby": {
+            "id": 90,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 94
+          },
+          "Turquoise": {
+            "id": 92
+          }
+        },
+        "voiceactor": [
+          "Greg Chun"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Master Yi's family refused Cabal control, fleeing Rabadon City—only to be snuffed out. To fight back, he became one of the first Inkshadow Warriors, sacrificing his lifespan for a magical tattoo that grants him the power to raise his sword against the Cabal. He doesn't know how long he has left to live; still, he will save his city… and get his revenge."
+      }
     },
     {
       "id": 11096,
       "name": "聖鱗天尊 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11096,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 101
+          },
+          "Citrine": {
+            "id": 98
+          },
+          "Emerald": {
+            "id": 99
+          },
+          "Lustrous": {
+            "id": 104,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Meteorite": {
+            "id": 103
+          },
+          "Obsidian": {
+            "id": 105
+          },
+          "Rose Quartz": {
+            "id": 100
+          },
+          "Ruby": {
+            "id": 97,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 102
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "A prince requires a master of the highest caliber to teach him martial arts, and there is no dragon of greater skill than Master Yi. A true master must be both warrior and poet, champion and artist—and in the spirit of learning, must always be ready for anything."
+      }
     },
     {
       "id": 11106,
       "name": "戰爭英雄 易大師",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11106,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2024 - Split 3.",
+        "release": "2025-01-09",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 107,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Challenger": {
+            "id": 115,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Diamond": {
+            "id": 112,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Emerald": {
+            "id": 111,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Gold": {
+            "id": 109,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Grandmaster": {
+            "id": 114,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Master": {
+            "id": 113,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Platinum": {
+            "id": 110,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          },
+          "Silver": {
+            "id": 108,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 3"
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Victorious Master Yi was earned by players who accumulated enough split points in Ranked. Those who believe themselves worthy of learning the art of Wuju must make the pilgrimage to where its true master resides. Though many have studied under his tutelage, when put to the test, they have all been found wanting."
+      }
     }
   ]
 }

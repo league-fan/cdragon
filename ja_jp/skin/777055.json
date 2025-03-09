@@ -124,6 +124,52 @@
     }
   ],
   "description": "物憂げな男は息をせず、何をするでもなく繋ぎ柱にもたれかかり、辺境の夕暮れに目を細めた──いや、それは彼ではなかった。正確に言えば違う。本当のヨネは影と硝煙であり、それが彼の微動だにしない肉体へと、転がるように戻って入り込んだ。「あんた、どうしてそんな風になっちまったのさ？」と若き火薬の魔女は尋ねた。ヨネはため息をつき、「話せば長くなる」と答えた。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 60
+      },
+      "Noonday": {
+        "id": 64,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Obsidian": {
+        "id": 63
+      },
+      "Rose Quartz": {
+        "id": 62
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 61
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "The haunted man doesn't breathe, just leans against the hitching post and squints into the frontier dusk—but it ain't him. Not really. The real Yone is shadow and gunsmoke, roiling as it sinks back into the stillness of his corporeal form. “How'd you wind up split like that?” the young Powder Witch asks. Yone sighs, “It's a long story, kid.”"
+  }
 }

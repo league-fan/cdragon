@@ -24,6 +24,22 @@
     }
   ],
   "description": "果てなく広がるヴォイドのなかでも、フィズが特に危険な生物であることに議論の余地はない。同時に、フィズほど周囲を苛立たせる存在は他にないというのも、周知の事実である。ウォッチャーに嫌がらせをするためだけに生命を芽生えさせてしまうほどのイタズラ者には、相応しい評判と言えるだろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-04-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-04-06",
+    "set": [
+      "Curse of the Void"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "lore": "There's no disputing that Fizz is a deadly creature of the endless Void. But even in the Void, Fizz is widely considered to be extremely irritating for his love of bringing life into existence just to annoy the Watchers."
+  }
 }

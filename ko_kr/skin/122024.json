@@ -160,6 +160,54 @@
     }
   ],
   "description": "눈에 띄는 존재감과 모두에게 모범을 보이려는 의지를 지닌 다리우스와 새해 수호단의 실제 단장 알리스타 사이에서는 묘한 긴장감이 흐르기도 합니다. 다리우스는 고압적이지만 단원들에게 늘 강하고 한결같은 친구이며 새해 수호단에서 바위처럼 든든한 존재입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122024,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 27
+      },
+      "Vitality": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Forrest Imel",
+      "West Studio"
+    ],
+    "lore": "Darius' imposing presence and determination to lead by example cause occasional tension between him and Alistar, the actual leader of the squad. Despite how overbearing he can be, Darius is a strong and steadfast friend to his teammates and a rock for the whole Clan."
+  }
 }

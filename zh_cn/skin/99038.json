@@ -160,6 +160,60 @@
     }
   ],
   "description": "在离家出走时，她认为最好的藏身之处是在电视上？！不过说实话，各位，这位女士有一些痛苦经历……我们都知道擂台是解决那个问题的*地方*！现在，如果让我猜的话——我确实要猜——我敢说她会用那个灵魂的愿望来让她的抓马人生消失不见。有请拉克丝！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 57
+      },
+      "Aquamarine": {
+        "id": 53
+      },
+      "Citrine": {
+        "id": 59
+      },
+      "Emerald": {
+        "id": 55
+      },
+      "Limitless": {
+        "id": 60,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "On the run from her family, and she figured the best place to hide would be ON TV?! Seriously though, folks, this lady has some trauma... and we all know the ring is *the* place to work that out! Now, if I was a betting man—and I am—I'd say she'd use that soul's desire to make her drama disappear. It's Lux!"
+  }
 }

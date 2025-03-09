@@ -148,6 +148,57 @@
     }
   ],
   "description": "格雷福斯是一位曾效力于杜朗德尔军队的易激动的退伍士兵，然后他不情愿地成为了一名教授。他之前在敌人大后方发现了某种东西，紧接着就从这个神之武器处收到了一份职位邀请，请他前往战斗学院当教授。他那标志性的叼雪茄动作，不带感情的讲堂礼节，是为他几十年的经验所支付的小小代价。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-15",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Formal": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience."
+  }
 }

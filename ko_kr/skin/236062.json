@@ -142,6 +142,53 @@
     }
   ],
   "description": "루시안은 외계인 메조락스가 오코노를 침공했을 때 아내가 죽는 모습을 봤습니다. 루시안이 살아남은 것은 순전히 그의 마음속에서 타오르는 익숙한 분노와 상실을 알아본 요네 덕분이었습니다. 구원자가 내민 하이퍼가이즈 슈트를 받아들인 루시안은 자신의 행성을 지키기로 맹세했습니다. 사랑하는 사람의 복수를 한 다음에 말이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236062,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-20",
+    "set": [
+      "Masked Justice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 68
+      },
+      "Emerald": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 69
+      },
+      "Pearl": {
+        "id": 70
+      },
+      "Rose Quartz": {
+        "id": 67
+      },
+      "Ruby": {
+        "id": 63,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 66
+      },
+      "Tanzanite": {
+        "id": 65
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Lucian saw his wife perish during the alien Mezzorax's invasion of Ocono. He only survived thanks to Yone, who recognized a rage and loss burning in Lucian's heart much like his own. Lucian accepted a Hyperguise suit from his savior, and vowed to protect his planet—once he avenges his beloved."
+  }
 }

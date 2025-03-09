@@ -132,6 +132,52 @@
     }
   ],
   "description": "음산하고 을씨년스러운 숲속에서 캠프 참가자들은 신나게 뛰어다니며, 뒤틀리고 저주받은 나무에서 떨어진 가지를 모았습니다. 모은 가지를 대충 만든 장작더미에 던지고 주문을 외자, 불꽃에서 베이가가 튀어나왔죠. 경쟁자를 쓸어 버릴 준비를 마친 상태로요.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Ghoulish": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 63
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "In the dreadful, dreary wood, campers scampered about with glee, gathering fallen branches from the gnarled, cursed trees. They tossed them onto a makeshift pyre and read the incantations. From the flames, Veigar erupted, ready to vanquish his competition."
+  }
 }

@@ -155,6 +155,61 @@
     }
   ],
   "description": "曾被称为“长角王”的古神莫德凯撒让亡者们为自己的事业效力，用它们步履蹒跚之躯倾覆了各个王国，并将这些王国的土地据为己有。在被日月之蚀骑士们击杀之前，他发誓，在他回到这个世界时，他们都将屈服于他的意志并前往他亡者大军的前线。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-11",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 48
+      },
+      "Aquamarine": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Obsidian": {
+        "id": 51
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Profane": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Once known as the Horned King, Old God Mordekaiser turned that which was once dead to his cause, using their shambling forms to topple kingdoms and claim their lands as his own. Before he was slain by the Eclipse Knights, he swore that when he returned to this world, they would all bend to his will and take to the frontlines of his undead army."
+  }
 }

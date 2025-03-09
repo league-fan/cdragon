@@ -169,6 +169,56 @@
     }
   ],
   "description": "''…그리고 하늘에 거대한 징조가 나타나 한때 갇혀 있던 모든 악이 사악한 왕좌와 함께 부활하고, 그 자리에는 진정한 어둠의 군주가 앉아 인간의 기억에서 세상의 빛이 점차 사라지리라. 살아 있는 모든 것은 그의 웃음소리를 알고 죄악에 빠지리라.'' 티모 16장 3절",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17014,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-10-19",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Aquamarine": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "“…and a great sign shall appear in the heavens, the light of the world fading from human memory, as all the evils once locked away rise again upon a wicked throne—the true lord of darkness seated thereon. Every living thing will know his laugh, and be drowned in sin.” Teemo 16:3"
+  }
 }

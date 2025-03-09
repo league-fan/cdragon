@@ -134,6 +134,47 @@
     }
   ],
   "description": "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-28",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 4
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy."
+  }
 }

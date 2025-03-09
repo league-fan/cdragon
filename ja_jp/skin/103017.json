@@ -160,6 +160,56 @@
     }
   ],
   "description": "悪戯好きな精霊アーリの物語は、何世代にもわたり人類の歴史の一部であり続けてきた。喜びに満ちあふれ、老いることのない彼女は、古の賢樹の妖精の中でも好奇心旺盛な変わり者として描かれている。しかしながら、先祖代々の土地に浸食を続けている腐敗と戦うようになったここ数年で、彼女の心からは無邪気さが失われ、大人になりつつある。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Ahri-versary": {
+        "id": 61
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Peridot": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Fables of the trickster spirit Ahri have been part of mankind's history for countless generations. Radiant and eternally youthful, she is portrayed as a curious, quizzical member of the Elderwood's feyfolk… though in recent years her heart has hardened, as she fights a growing corruption within her ancestral home."
+  }
 }

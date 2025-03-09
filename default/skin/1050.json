@@ -142,6 +142,54 @@
     }
   ],
   "description": "Annie revealed her magical talents before Telum's royal court, transforming her dear teddy bear into a knight of steel and flame. Though a near-fatal display for many aristocrats, Queen Fiora embraced the child's potential and named her successor. Annie trains to triumph in a future Coronation… and causes a fair amount of mischief for her regal mentor.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1050,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 52
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Pearl": {
+        "id": 57
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 55
+      },
+      "Turquoise": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Annie revealed her magical talents before Telum's royal court, transforming her dear teddy bear into a knight of steel and flame. Though a near-fatal display for many aristocrats, Queen Fiora embraced the child's potential and named her successor. Annie trains to triumph in a future Coronation… and causes a fair amount of mischief for her regal mentor."
+  }
 }

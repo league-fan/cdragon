@@ -160,6 +160,60 @@
     }
   ],
   "description": "근처 화산이 폭발하기 전까지, 볼리베어는 숲에서 가장 무시무시한 야수였습니다. 하지만 볼리베어는 정신없이 탈출하던 중 자신과 비슷한 처지의 아이와 마주쳤고, 기묘한 본능에 따라 아이를 구했습니다. 이 모습을 본 이중용은 이 힘센 포식자에게 선물을 주었습니다. 그의 본성에 내재한 이중성, 즉 분노와 연민을 둘 다 갈고닦을 힘이었죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Emberclaw": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Volibear was the greatest terror in the forest, until the nearby volcano erupted. In the frenzy of escape, Volibear came across a child who was similarly trapped, and heeded a strange instinct—he saved the child. The Duality Dragon saw and made the mighty predator an offer: the power to hone the duality of his nature, both fury and compassion."
+  }
 }

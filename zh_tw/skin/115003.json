@@ -24,6 +24,24 @@
     }
   ],
   "description": "希格斯執念於製造泳池派對歷史中最大的水球，為了一些他人完全無法理解的理由。他常堅稱自己是一名「水球學家」，但其實根本沒有這個稱謂。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-09-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-09-04",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Ziggs is obsessed with creating the biggest water balloon in the history of poolside festivities, for reasons lost on everyone he's ever met. He keeps insisting he's a 'waterologist,' which isn't a real thing."
+  }
 }

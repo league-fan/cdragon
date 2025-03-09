@@ -178,6 +178,56 @@
     }
   ],
   "description": "“……一个大大的标志应该出现在天堂，世界的光亮从人们的记忆中慢慢褪色，当邪恶的人们被锁住了，他们随着一个邪恶的君主而重新崛起-黑暗后立即落座的真主。﻿每一个呼吸的生物将会熟知他的笑声，并且被罪孽所淹没。”提莫16:3",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17014,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-10-19",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Aquamarine": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 36
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "“…and a great sign shall appear in the heavens, the light of the world fading from human memory, as all the evils once locked away rise again upon a wicked throne—the true lord of darkness seated thereon. Every living thing will know his laugh, and be drowned in sin.” Teemo 16:3"
+  }
 }

@@ -24,6 +24,22 @@
     }
   ],
   "description": "아무리 유명한 마법공학 기능장들도 자연의 창조력과 완전함 앞에 고개를 숙입니다. 황금 나선을 본떠 만든 람머스의 형체는 구르기에 아주 적합합니다. 하지만 람머스를 만들던 기술자가 렌치를 놓는 순간, 람머스는 그대로 도망가 버렸죠.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-08-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 33016,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2019-08-15",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Even the most renowned Hextech artificer must bow to the creativity and perfection of nature. After crafting each of Rammus's arcs to mimic the golden spiral, the creature proved so efficient at rolling... it escaped the moment its creator put down her wrench."
+  }
 }

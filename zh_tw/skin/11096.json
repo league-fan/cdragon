@@ -226,6 +226,59 @@
     }
   ],
   "description": "只有最資深的老師才有資格傳授武功給王子，而最佳的「龍」選非易大師莫屬。真正的大師，必須能文能武、多才多藝，且好學不倦、胸有成竹。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11096,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 101
+      },
+      "Citrine": {
+        "id": 98
+      },
+      "Emerald": {
+        "id": 99
+      },
+      "Lustrous": {
+        "id": 104,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Meteorite": {
+        "id": 103
+      },
+      "Obsidian": {
+        "id": 105
+      },
+      "Rose Quartz": {
+        "id": 100
+      },
+      "Ruby": {
+        "id": 97,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 102
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "A prince requires a master of the highest caliber to teach him martial arts, and there is no dragon of greater skill than Master Yi. A true master must be both warrior and poet, champion and artist—and in the spirit of learning, must always be ready for anything."
+  }
 }

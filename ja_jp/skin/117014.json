@@ -96,6 +96,45 @@
     }
   ],
   "description": "宇宙の星図を作製する任務を与えられたルルは、陽気な魔法をまき散らして宙に新たな星を創り出す。彼女はその一つひとつに名前をつけて記録しており、それらの星々が最期を迎えるたびに悲しんでいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-21",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 18
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Tasked with charting the heavens, Lulu's whimsical splashes of magic dot the sky with newborn stars. She keeps meticulous records of their names, mourning each of them when they finally pass."
+  }
 }

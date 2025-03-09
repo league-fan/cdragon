@@ -24,6 +24,26 @@
     }
   ],
   "description": "밀폐된 극지 전투복을 입기 전부터 거대했던 그라가스는 최고 사령부의 극비 연구소를 제외하면 누구도 정체를 알지 못합니다. 절대 벗지 않는 가면과 그의 커다란 몸체에 동력을 제공하는 차갑고 으스스한 화학 혼합물을 제쳐두면 인간처럼 보이긴 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-01-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-01-25",
+    "earlysale": "Jun 2018",
+    "set": [
+      "Arctic Ops"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "A large man even before donning his hermetically sealed arctic combat suit, Gragas is a mystery to all save for High Command's secretive R&D labs. He appears human by all measures, save for the mask he never removes, and the eerily cold mixture of chemicals powering his massive frame."
+  }
 }

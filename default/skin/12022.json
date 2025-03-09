@@ -108,6 +108,48 @@
     }
   ],
   "description": "The mightiest of all minotaurs, Alistar once roamed the northern mountains freely… but when the endless winter came and blanketed his home in frost as dark as the heart of the Ice Witch herself, the fearsome behemoth fell prey to an eerie corruption—as his fur and bone twisted into pure, frozen malice.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The mightiest of all minotaurs, Alistar once roamed the northern mountains freely… but when the endless winter came and blanketed his home in frost as dark as the heart of the Ice Witch herself, the fearsome behemoth fell prey to an eerie corruption—as his fur and bone twisted into pure, frozen malice."
+  }
 }

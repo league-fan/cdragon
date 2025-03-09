@@ -132,6 +132,54 @@
     }
   ],
   "description": "他们在冰下蛰伏，动弹不得，如同被两个世界忽视。守望，等待，有朝一日他们将再次崛起，然后所有一切都将被冰埋葬。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-15",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Gabriela Dea Julia",
+      "West Studio"
+    ],
+    "lore": "Beneath the ice they slumber, trapped as two worlds pass them by. Watching, waiting, for the day they will rise again, and all will be buried in ice."
+  }
 }

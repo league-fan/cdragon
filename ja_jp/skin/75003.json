@@ -77,6 +77,30 @@
     }
   ],
   "description": "恐怖の騎士ナサスは主人が有する入り組んだ書庫の地下墓地内の奥深くにある、忘れられた文献の番人を務めている。その中には恐怖の騎士を破滅させる秘密が記されていると言われているが、これが真実なのか寓話なのかを確かめられた者は一人もいない。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-04-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-26",
+    "set": [
+      "Dreadknights"
+    ],
+    "chromas": {
+      "Blight": {
+        "id": 8
+      },
+      "Burn": {
+        "id": 7
+      },
+      "Frostbite": {
+        "id": 9
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "lore": "Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable."
+  }
 }

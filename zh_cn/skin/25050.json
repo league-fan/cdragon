@@ -160,6 +160,60 @@
     }
   ],
   "description": "莫甘娜是一个出身神秘的反派，她相信正义和秩序等概念正在阻碍着宇宙……她愿意做任何事情来让它回到一种熵增状态。她将星之守护者作为毁灭的目标，在对他们进行一番无情的折磨后，赐予他们最终的夺命一击。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25050,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-28",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 58
+      },
+      "Catseye": {
+        "id": 52
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Peridot": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Turquoise": {
+        "id": 54
+      },
+      "Wicked": {
+        "id": 59,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "A villainess of mysterious origins, Morgana believes that concepts like justice and order are holding the universe back... and she's willing to do anything to return it to a state of entropy. Targeting the Star Guardians for destruction, she torments them relentlessly before dealing the final, crushing blow."
+  }
 }

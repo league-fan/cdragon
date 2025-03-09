@@ -117,6 +117,45 @@
     }
   ],
   "description": "曾經是來自凜冬之地遙遠國度的英俊王子，蒙多被冰霜之王圖奇的詛咒侵蝕 － 將他腐蝕成為粗鄙的奴隸。但他仍相信自己還是以前那個仿若雕像一般有氣質的皇室成員，因此他...想去哪就去哪。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 36010,
+    "formatname": "Frozen Prince Mundo",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Once a handsome prince from an outlying region of the Winterlands, Mundo was touched by the curse of Ice King Twitch—corrupting him into a brutish thrall. He's still convinced he's the same statuesque royal as before, and as such… goes where he pleases."
+  }
 }

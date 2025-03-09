@@ -8,72 +8,486 @@
       "name": "聖鱗天尊 易大師",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11096,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 101
+          },
+          "Citrine": {
+            "id": 98
+          },
+          "Emerald": {
+            "id": 99
+          },
+          "Lustrous": {
+            "id": 104,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Meteorite": {
+            "id": 103
+          },
+          "Obsidian": {
+            "id": 105
+          },
+          "Rose Quartz": {
+            "id": 100
+          },
+          "Ruby": {
+            "id": 97,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 102
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "A prince requires a master of the highest caliber to teach him martial arts, and there is no dragon of greater skill than Master Yi. A true master must be both warrior and poet, champion and artist—and in the spirit of learning, must always be ready for anything."
+      }
     },
     {
       "id": 40056,
       "name": "聖鱗天尊 珍娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 40056,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 59
+          },
+          "Catseye": {
+            "id": 60
+          },
+          "Emerald": {
+            "id": 62
+          },
+          "Lustrous": {
+            "id": 65,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 64
+          },
+          "Rose Quartz": {
+            "id": 61
+          },
+          "Ruby": {
+            "id": 57,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 63
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Janna is the most skilled dragon in the kingdom at sorcery (save for the king himself, perhaps), whipping up winds and steering the clouds. The prince asked if she might take him on as a pupil, and Janna happily accepted; but she is looking forward to showing him more whimsical uses of their power. After all, they have a festival to attend."
+      }
     },
     {
       "id": 64051,
       "name": "聖鱗天尊 李星",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64051,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 58
+          },
+          "Citrine": {
+            "id": 56
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Lustrous": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Rose Quartz": {
+            "id": 55
+          },
+          "Ruby": {
+            "id": 54,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "All hail the Prince of Dragons, heir to the throne of the heavenly Kingdom of Dragons! A noble and just prince, Lee Sin is deeply devoted to his people. When he hears the telltale crackle of fireworks just below the clouds, he knows it's time to learn more about his human subjects—and how they greet the New Year with a bang!"
+      }
     },
     {
       "id": 64052,
       "name": "超凡入聖 聖鱗天尊 李星",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64052,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "1% drop rate from Divine 2024 Capsules or opening 30 Divine 2024 Capsules",
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 51,
+        "newvoice": true,
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "All hail the Prince of Dragons, heir to the throne of the heavenly Kingdom of Dragons! A noble and just prince, Lee Sin is deeply devoted to his people. When he hears the telltale crackle of fireworks just below the clouds, he knows it's time to learn more about his human subjects—and how they greet the New Year with a bang!"
+      }
     },
     {
       "id": 81044,
       "name": "聖鱗天尊 伊澤瑞爾",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81044,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 60
+          },
+          "Auspacious": {
+            "id": 61,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Lunar Revel 2024 Premium Pass Bundle"
+          },
+          "Catseye": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 59
+          },
+          "Lustrous": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 64
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 58
+          },
+          "Tanzanite": {
+            "id": 62
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Joshua Raphael",
+          "West Studio"
+        ],
+        "lore": "Wherever chaos is sown, dragons across the kingdom know to listen for Ezreal's mischievous laughter. His japes are harmless, but don't let that merry spirit fool you: he is a shrewd royal scout alongside Kai'Sa who has braved many adventures between bouts of pranking. Dressing up like a human to go party? Now that sounds like his idea of a good time."
+      }
     },
     {
       "id": 81054,
       "name": "尊爵不凡 聖鱗天尊 伊澤瑞爾",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81054,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 44,
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Ezreal's gilded gala garb is fit for royalty. Adorned in hand-crafted scales and crystal horns, this tastemaker came to the party with a mission: ring in the New Year not just with a bang, but a roar."
+      }
     },
     {
       "id": 131054,
       "name": "聖鱗天尊 黛安娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 131054,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 59
+          },
+          "Citrine": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 58
+          },
+          "Lustrous": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 62
+          },
+          "Pearl": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans."
+      }
     },
     {
       "id": 145059,
       "name": "聖鱗天尊 凱莎",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 145059,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 63
+          },
+          "Catseye": {
+            "id": 61
+          },
+          "Emerald": {
+            "id": 62
+          },
+          "Granite": {
+            "id": 64
+          },
+          "Lustrous": {
+            "id": 67,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Rose Quartz": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 60,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 66
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Royal scout and friend to the prince, Kai'Sa is a tenacious dragon who has spent more time beneath the clouds than any of her peers. Though this is the first time she has interacted with humans directly, her observed knowledge and agile grace are sure to be assets while joining them in the New Year's celebration."
+      }
     },
     {
       "id": 901001,
       "name": "聖鱗天尊 史矛德",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-01-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 901001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-31",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 5
+          },
+          "Catseye": {
+            "id": 3
+          },
+          "Lustrous": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Peridot": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Georgie Cordova Kidder"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "The youngest member of the royal family and cousin to the prince, Smolder likes nothing more than to tag along on any adventures Lee Sin gets up to. He may have missed the part of the plan that involves disguising himself as a human, but hey—he will show them that dragons don't need to dress up to be the life of the party!"
+      }
     }
   ]
 }

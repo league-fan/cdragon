@@ -160,6 +160,60 @@
     }
   ],
   "description": "セナの忘れられし恋人であるルシアンは、彼女を探し出すことに成功した。そして彼は、その命と引き換えに簒奪者を滅ぼし、オーロラの力を取り戻すため、スレッシュに身を投げ出した。ルシアンが死にゆく中、二人の愛の記憶がセナの中に溢れる。ルシアンが息絶えるまで側に留まったセナは、その不滅の絆を忘れぬよう、彼の魂を南の空に輝く星へと変えた。愛が消えることはない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 57
+      },
+      "Citrine": {
+        "id": 55
+      },
+      "Emerald": {
+        "id": 56
+      },
+      "Obsidian": {
+        "id": 59
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 54
+      },
+      "Ruby": {
+        "id": 53,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Wreathguard": {
+        "id": 61,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Lucian, Senna's forgotten love, had tracked her down. He threw himself at Thresh, sacrificing himself to destroy the usurper and return the Aurora's power. As he lay dying, memories of their love washed over Senna. She stayed with him until he passed and, to remind herself of their undying bond, turned his soul into the Southern Star. Love would endure."
+  }
 }

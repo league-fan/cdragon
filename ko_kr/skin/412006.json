@@ -97,6 +97,44 @@
     }
   ],
   "description": "광활한 서부를 떠도는 고대 악마 쓰레쉬는 모든 생명체의 마음속에 끔찍한 존재로 각인되어 있으며, 그들은 그가 찾아와 영혼을 앗아갈 날을 두려워하고 있습니다. 쓰레쉬가 가는 마을마다 파멸의 재앙이 일어나며, 그곳 주민들은 뜨거운 태양 아래에 남겨져 생을 마감합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-30",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 7,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 9
+      },
+      "Tanzanite": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "An ancient devil who stalks the great expanses of the Old West, Thresh's cruel visage is burned into the minds of all living things who fear the day he will come to claim their souls. His arrival spells doom for any settlement, its residents flayed and left to rot in the sun."
+  }
 }

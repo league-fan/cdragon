@@ -125,6 +125,51 @@
     }
   ],
   "description": "有一次，塔莉雅試圖向嘉文解釋甚麼是衝浪，她說出了一些專業術語：捲入浪中、管浪、操乘浪桶。她很肯定他還是不知道她在說啥。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 163003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Peridot": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 4,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "Taliyah once attempted to describe surfboarding to a perplexed Jarvan, using such terms as “get pitted”, “tubular”, and “ride the barrel”. She's pretty sure he still has no idea what she was talking about."
+  }
 }

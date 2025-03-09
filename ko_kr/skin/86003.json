@@ -24,6 +24,22 @@
     }
   ],
   "description": "대부분의 특공대원은 상륙 공격과 군사 패러글라이딩에 능합니다. 하지만 이 대원은 엄청나게 큰 검을 들고 빠르게 빙글빙글 돌며 진격합니다. 뭐 원리상 비슷하지 않을까요?",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-09-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-09-08",
+    "set": [
+      "Commando"
+    ],
+    "vu": true,
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Zhang Ji"
+    ],
+    "lore": "Most commandos excel at amphibious attacks and military paragliding. This one spins very fast toward things while holding a giant sword. It's basically the same."
+  }
 }

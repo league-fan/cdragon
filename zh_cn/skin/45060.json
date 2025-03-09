@@ -141,6 +141,52 @@
     }
   ],
   "description": "在这片可怕而阴沉的森林里，露营者们兴高采烈地四处奔跑，收集那些从奇形怪状的、被诅咒的树木上掉下来的树枝。他们把它们扔到一个临时搭建的柴堆上，然后念起了咒语。维迦从烈焰中迸发而出，准备击败他的竞争对手。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Ghoulish": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 63
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "In the dreadful, dreary wood, campers scampered about with glee, gathering fallen branches from the gnarled, cursed trees. They tossed them onto a makeshift pyre and read the incantations. From the flames, Veigar erupted, ready to vanquish his competition."
+  }
 }

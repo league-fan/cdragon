@@ -137,6 +137,55 @@
     }
   ],
   "description": "丽桑卓是“刺耳颤音”的残酷外星人领袖，为了她自己的邪恶目的——禁止迪斯科音乐并将整个银河系浸泡在电梯音乐中——征服了富含律动能量的行星。她和她的轮滑恶棍们将不惜一切代价永远消灭迪斯科音乐。但要让她的最新计划奏效，她需要获得一次“酱酱舞会”的邀请才能前往那个迪斯科舞厅并终结所有迪斯科音乐。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127034,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 36
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rainbow": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 35,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "Brutal alien leader of the Harsh Vibes, Lissandra subjugates planets rich in The Groove for her own nefarious purposes—banning disco and steeping the entire galaxy in Muzak. She and her army of roller-skating derby goons will stop at nothing to eliminate disco forever. But for her latest scheme to work, she's going to need an invite to the disco to end all discos: The Jam."
+  }
 }

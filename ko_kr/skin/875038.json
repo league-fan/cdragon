@@ -124,6 +124,52 @@
     }
   ],
   "description": "어떤 이는 죽은 자를 길로 인도하고 어떤 이는 죽은 자를 길 밖으로 이끕니다. 한편 둘 중 어느 쪽도 아닌 이도 있습니다. 그 영혼이 자기 자신과 갈등을 겪고 있기 때문이죠. 칸메이와 아카나에게서 태어난 세트는 평화롭게 살던 중 아버지에게 버림을 받고 복수를 계획했습니다. 이제 죽임을 당한 전사들에게 도전해 그들의 실력을 시험하며 시간을 보내는 세트는 구원의 속삭임만을 붙잡을 뿐입니다. ",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 41
+      },
+      "Night Blossom": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Some guide the dead down the path; others tempt them from it. Another still has no allegiances, as his spirit lies in conflict with itself. Born from Kanmei and Akana, Sett lived harmoniously until, abandoned by his father, he sought retribution. Now he can only catch whispers of salvation as he spends his days challenging slain warriors, testing their worth. "
+  }
 }

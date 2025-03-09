@@ -160,6 +160,60 @@
     }
   ],
   "description": "자신의 동굴에 쌓인 보물 사이에서 몸을 웅크리고 있을 때 가장 행복한 강철용은 진기한 새 보물을 찾는 데 재능이 있는 인물이 필요했습니다. 그때 쓰레쉬가 눈에 들어왔죠. 쓰레쉬는 기꺼이 강철용을 돕기로 했으며, 그의 한없는 소유욕은 곧 집착으로 변했습니다. 이제 쓰레쉬는 원하는 것을 얻기 위해서라면 무엇도 불사하지 않으며, 강철용의 이름 아래 그의 잔인성을 정당화합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412028,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 31
+      },
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 34
+      },
+      "Emberclaw": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 32
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "The Steel Dragon, happiest curled up in its cavernous archive amidst its treasures, needed someone with a talent for acquiring esoteric new treasures—and its eye fell on Thresh. Honored to assist, Thresh's limitless appetite for acquisition warped into obsession. Now he stops at nothing to acquire what he wants, justifying his cruelty in the name of his benefactor."
+  }
 }

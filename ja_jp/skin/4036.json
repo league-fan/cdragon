@@ -137,6 +137,54 @@
     }
   ],
   "description": "ツイステッド・フェイトは悪党だが、「必ず仕事をやり遂げる男」として銀河中でその名を知られた存在だ。しかしそんな彼ですら、長年のパートナーであり、現在は行方知れずとなっているグレイブスの手掛かりは掴めずにいた。そのため、とあるネコたちからグレイブスの居場所に関する情報を渡す代わりに、伝説の地下ディスコ「ザ・ジャム」の場所を教えろと持ちかけられたとき、彼は喜んで同意した。パーティーに少し人が増えたくらいで、どうということはないだろう？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 4036,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 40
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Rainbow": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "He may be a scoundrel, but Twisted Fate is known the galaxy over as someone who gets things done. But even he can't find a trace of his long lost partner, Graves. So when some cats offered him intel on Graves' whereabouts in exchange for the location of the legendary underground disco, The Jam, he happily obliged. What's a few party crashers, anyway?"
+  }
 }

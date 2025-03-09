@@ -86,6 +86,41 @@
     }
   ],
   "description": "暗き森のエルフは今や散り散りになってしまった強大な帝国の生き残りであり、彼女たちが頑なに守る邪悪な力は、その魔力の礎と考えられている。モルガナはこの魔力を自身の魂と結びつけ、他の誰にも奪われないよう体の内深くに隠している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-05-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-05-23",
+    "set": [
+      "Albion"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 13
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "The Dark Forest Elves are the shattered remnants of the great elven empires, jealously guarding evil power that some once considered the cornerstone of their magical supremacy. Morgana has hidden this magic deep within her body, chaining it to her soul so that only she might wield it."
+  }
 }

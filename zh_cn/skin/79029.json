@@ -165,6 +165,60 @@
     }
   ],
   "description": "“这家伙不归你，伊芙，” 酒保说道，将一只大手放在那个魂不守舍的人身上，把他拉开了。古拉加斯被称为“绅士巨人”。“老碎桶者”。既非天使也非恶魔，而是别的东西。“这可不容易，朋友。见鬼，你甚至可能不会全身而退。但仔细听，你可能会重获新生。”",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 79029,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-03-20",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Noonday": {
+        "id": 38,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2024"
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 31
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "“This one ain't for you, Eve,” says the bartender, laying one huge hand on the haunted man and pulling him away. Gragas has been called the Gentleman Giant. Ol' Caskbreaker. No angel nor devil, but something else. “Won't be easy, friend. Hell, you may not even stay in one piece. But listen close, and you just might make it back to the living.”"
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "''운명이 자네를 따라잡고 있군, 친구.'' 의자에 앉은 탈론이 몸을 뒤로 젖히며 모자로 그늘진 눈을 포식자처럼 번득입니다. 천사의 피로 뒤틀리고 타락한 그의 움직임은 여전히 악마와도 같습니다. 그가 빼곡한 이를 드러내며 다 안다는 듯 씁쓸하게 웃습니다. ''우리 모두 끝이 머지않았어.''",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Nomad": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Tanzanite": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "“Fate is catchin' up to you, old friend,” Talon says, leaning back in his chair, predator's eyes gleaming under the shadows of his hat. He still moves like a demon, even warped and corrupted by angel blood as he is. His smile, rueful and knowing, has too many teeth: “The end is comin' for us all.”"
+  }
 }

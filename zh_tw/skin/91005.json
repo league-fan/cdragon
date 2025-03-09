@@ -24,6 +24,25 @@
     }
   ],
   "description": "一個在血月之夜被召喚出來無法無天的惡魔，塔隆曾是個人類刺客，在某個邪教儀式中捨棄了自己的肉體。如今他殺人不眨眼，享受著由受害者垂死的眼神中所透露的絕望恐懼。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-02-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-02-09",
+    "earlysale": "2017-08",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "An anarchic demon summoned on the night of the Blood Moon, Talon was once a human assassin who surrendered his flesh during one of the cult's possession rituals. He now kills indiscriminately, relishing the terror in his victim's dying eyes."
+  }
 }

@@ -132,6 +132,52 @@
     }
   ],
   "description": "在陰森恐怖的森林裡，露營客臉帶笑容四處奔跑，在被詛咒的扭曲大樹下收集掉落的樹枝，將它們丟進臨時弄出來的營火，然後念起咒語。不久之後，維迦從火中赫然現身，等不及要消滅對手。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Ghoulish": {
+        "id": 66,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 63
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "In the dreadful, dreary wood, campers scampered about with glee, gathering fallen branches from the gnarled, cursed trees. They tossed them onto a makeshift pyre and read the incantations. From the flames, Veigar erupted, ready to vanquish his competition."
+  }
 }

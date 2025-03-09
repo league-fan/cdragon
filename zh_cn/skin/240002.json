@@ -137,6 +137,51 @@
     }
   ],
   "description": "这血是我的血。这糖是我的糖。谁派遣你来此？你不是真幽灵！我是克烈古拉伯爵、男爵、双侯爵、领主、公爵……并且，我将教会你，不要在我的地盘里“不给糖就捣蛋”！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-10-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240002,
+    "formatname": "Count Kledula",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "This blood is MY blood. This candy is MY candy. Who sent you here?! You're not real ghosts! I'm Count Baron Double-Marquis Lord Duke Kledula… AND I'LL TEACH YOU NOT TO TRICK-OR-TREAT ON MY LAND!"
+  }
 }

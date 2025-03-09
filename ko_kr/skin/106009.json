@@ -25,6 +25,27 @@
     }
   ],
   "description": "볼리베어는 마음속 깊은 곳에 자리한 두 충동 사이에서 평형을 유지합니다. 분노와 자애, 욕망과 절제가 공존하며 서로를 압도하지 않죠. 균형을 잡으려면 매 순간 애써야 합니다. 포식자와 수호자가 매일같이 격돌하며, 볼리베어의 의지는 용의 자비로운 선물 덕에 나날이 강해집니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106009,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 7,
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "Volibear stands poised between the two drives of his core self—rage and mercy, impulse and restraint, neither overwhelming the other. Balance is an active struggle; each day the predator and protector clash, and each day Volibear's will grows stronger by the grace of the dragon's gift."
+  }
 }

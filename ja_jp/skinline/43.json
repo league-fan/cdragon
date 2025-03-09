@@ -8,160 +8,947 @@
       "name": "宇宙の守護者シン・ジャオ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 5020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-21",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Richard Epcar"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Great horrors are attracted to the light of newborn stars—from the corruptants of the Dark Star, to squirming, ancient things yet unknown. Xin Zhao is the steadfast protector of these cosmic cradles, driving off any that would devour them."
+      }
     },
     {
       "id": 8021,
       "name": "宇宙の死神ブラッドミア",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 8021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 24
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Pompous, arrogant, and isolated from his cosmic brethren, Vladimir drinks the essence from dead worlds to infuse dying ones with life. Yet as of late his hunger has begun to grow…"
+      }
     },
     {
       "id": 11010,
       "name": "宇宙の剣客マスター・イー",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-04-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 11010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-04-26",
+        "earlysale": "2017-11",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Gliding effortlessly from star to star, Yi flashes through the night sky with celestial grace, his blade arcing with crystalline precision through the fabric of the universe itself."
+      }
     },
     {
       "id": 14040,
       "name": "宇宙の勇士サイオン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 14040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-30",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 48
+          },
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 45,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Sion was a warrior who found a way to fight his planet's destruction at the hands of the Dark Star to his dying breath. Bel'Veth, fascinated by his stubborn tenacity, raised him from that dying world. Now he fights by her side, a battering ram of force and violence turned towards a singular purpose: eliminating the Dark Star."
+      }
     },
     {
       "id": 20035,
       "name": "宇宙の勇士ヌヌ＆ウィルンプ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 20035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-30",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 42
+          },
+          "Catseye": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination."
+      }
     },
     {
       "id": 22011,
       "name": "宇宙の女王アッシュ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-21",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded."
+      }
     },
     {
       "id": 34017,
       "name": "宇宙の飛翔アニビア",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 34017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rainbow": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "A regal and truly ancient being, whose swirling energies give birth to entire galaxies. She has begun to wall off her creations, fearing the return of an ancient, golden foe that her kind has long sought to forget…"
+      }
     },
     {
       "id": 38005,
       "name": "宇宙の略奪者カサディン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2015-10-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 38005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-10-14",
+        "earlysale": "2016-04",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "lore": "Born before the kindling of the stars, Kassadin stands alone in space's vast void. He watches over all things, a sentinel awaiting the end of this universe… and the beginning of the next."
+      }
     },
     {
       "id": 72005,
       "name": "宇宙の尖針スカーナー",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 72005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Citrine": {
+            "id": 11
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Ruby": {
+            "id": 6,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 9
+          },
+          "Turquoise": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Imari Williams"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "An ancient creature of deep, primal wisdoms from before the forming of the first galaxies, Skarner is composed of the very elements that are the building blocks of all the cosmos. His kind are the radiant antithesis of the ancient, squirming things that lurk in the deep darkness of space, and beyond it."
+      }
     },
     {
       "id": 76018,
       "name": "宇宙の女狩人ニダリー",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 76018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "A cosmic tracker and ferocious hunter, Nidalee travels the galaxy in an eternal hunt, shifting her shape to hide among the sky's wandering stars. Tasked with finding and caring for newborn stars, she is dedicated to defending them from the ever hungry Dark Star corruptants."
+      }
     },
     {
       "id": 99018,
       "name": "宇宙のラックス",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-03-26",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 17,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "The right hand of Queen Ashe, Lux weaves celestial constellations, bringing order to a universe drifting towards entropy. When the Dark Star began corrupting members of the Cosmic Court, Lux stepped forward to confront Thresh. Yet she harbors a terrible secret—a shard of darkness that has always lived within her heart, whispering temptations…"
+      }
     },
     {
       "id": 110017,
       "name": "宇宙の狩人ヴァルス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 110017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A young member of the cosmic court, minted in the image of the Dark Star corruptant Varus. Tasked with destroying his monstrous doppelganger, this new Varus seeks his place among the stars after his task is finally complete."
+      }
     },
     {
       "id": 111027,
       "name": "宇宙の勇士ノーチラス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 111027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-30",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 31
+          }
+        },
+        "splashartist": [
+          "Joshua Raphael",
+          "West Studio"
+        ],
+        "lore": "A creature found aimlessly wandering between galaxies, no one knows where Nautilus came from, or how he has stayed alive in the space between stars. But his natural resistance to the entropic forces of the Dark Star attracted the attention of Bel'Veth. He has found meaning and purpose as a Paladin, where before he simply drifted amongst the cosmos."
+      }
     },
     {
       "id": 117014,
       "name": "宇宙の魔女ルル",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 117014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-21",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Tasked with charting the heavens, Lulu's whimsical splashes of magic dot the sky with newborn stars. She keeps meticulous records of their names, mourning each of them when they finally pass."
+      }
     },
     {
       "id": 120014,
       "name": "宇宙の騎兵ヘカリム",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 120014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 21
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 18
+          },
+          "Turquoise": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "A knight in the Queen's court, he leads his calvary across the sky, forever expanding the outer edge of creation—bringing new life wherever his hooves fall."
+      }
     },
     {
       "id": 200010,
       "name": "宇宙の女傑ベル＝ヴェス",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 200010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-30",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "A lonely cradle of life amongst the stars, Bel'Veth wanders ruined space in the aftermath of the Cosmic Court's destruction. She refuses to allow the Dark Star's entropy to spread any further, and so has begun plucking chosen creatures from dying worlds, imbuing them with the power to fight by her side and contain the corruption before it is too late."
+      }
     },
     {
       "id": 267024,
       "name": "宇宙の運命ナミ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 267024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rainbow": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The bringer of life, Nami is charged with scattering the seeds of 'Élan vital' on the newborn, cold lifeless rocks and planets that appear with the birth of new stars and constellations."
+      }
     },
     {
       "id": 420010,
       "name": "宇宙の司祭イラオイ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 420010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Rolonda Watts"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "An entity who carries the raw power of cosmic creation in her hands, Illaoi can slam the orb she holds into the very fabric of reality, allowing time to flow forward even in places where life has been eradicated."
+      }
     },
     {
       "id": 497001,
       "name": "宇宙の暁ラカン",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 497001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-04-18",
+        "earlysale": "2017-11",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Dawn chases dusk beneath the sea, two lovers locked in an endless waltz across the stars. Thus Rakan is never far behind Xayah, his breaking light glowing always above her shadow."
+      }
     },
     {
       "id": 498001,
       "name": "宇宙の黄昏ザヤ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 498001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-04-18",
+        "earlysale": "2017-11",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Dusk beckons the dawn to its embrace, two lovers locked in an endless waltz across the stars. Thus Xayah is always a step ahead of Rakan, leading him forever into her arms."
+      }
     }
   ]
 }

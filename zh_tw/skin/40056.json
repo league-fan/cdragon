@@ -226,6 +226,59 @@
     }
   ],
   "description": "單論魔法技術來說，珍娜是天龍國首屈一指的佼佼者（龍王則另當別論），擁有呼風喚雨之能。王子向珍娜拜師，而她也樂意收了這個徒弟。不過，現在她最想做的事，是教王子如何以更異想天開的方式運用魔法。畢竟，他們得參加一場慶典。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40056,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 59
+      },
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 62
+      },
+      "Lustrous": {
+        "id": 65,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 64
+      },
+      "Rose Quartz": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 63
+      },
+      "Turquoise": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Janna is the most skilled dragon in the kingdom at sorcery (save for the king himself, perhaps), whipping up winds and steering the clouds. The prince asked if she might take him on as a pupil, and Janna happily accepted; but she is looking forward to showing him more whimsical uses of their power. After all, they have a festival to attend."
+  }
 }

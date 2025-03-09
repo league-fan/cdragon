@@ -138,6 +138,54 @@
     }
   ],
   "description": "자로 라이트페더 씨, 당신을 실크 무도회에 초대합니다. 당신의 영웅담은 녹서스 귀족 사회에도 전해졌답니다. 꼭 한번 만나 뵙고 싶군요. 우리는 당신과 같은 방식으로 지역의 경계를 넘나들며 일하고 있습니다. 서로에 대해 알아볼 좋은 기회가 될 겁니다, 라이트페더 씨... 아니, 이즈리얼이라고 해야 하나요? –레이디 엘리스",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81065,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-09",
+    "set": [
+      "Masque of the Black Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Citrine": {
+        "id": 71
+      },
+      "Emerald": {
+        "id": 67
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 69
+      },
+      "Turquoise": {
+        "id": 72
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Park Jun Seong",
+      "West Studio"
+    ],
+    "lore": "Greetings, Jarro Lightfeather. We cordially invite you to the Silken Danse. Word of your heroism has reached the halls of Noxian nobility, and we are keen to meet you. We operate in the same manner, working beyond regional lines. You've much to learn about us, and we've much to learn about you, Lightfeather… Or, shall we be forthright, Ezreal? –Lady Elise"
+  }
 }

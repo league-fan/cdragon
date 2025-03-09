@@ -128,6 +128,45 @@
     }
   ],
   "description": "龍后將整座山據為己有，而重生的飛龍不斷地從中湧出，幾乎遮蔽了整片天空。雖然無數弒龍者的同胞都已在他身邊倒下，趙信依舊突入猛獸的巢穴，決心終止她邪惡的意圖。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-03-09",
+    "earlysale": "2017-09",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 19
+      },
+      "Sandstone": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "The sorceress called a great mountain her home, and from it, reborn dragons poured endlessly into the sky. Though dragonslayers fell all around him, Xin Zhao struck into the monster's lair, determined to end her evil once and for all."
+  }
 }

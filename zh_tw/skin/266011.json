@@ -148,6 +148,58 @@
     }
   ],
   "description": "厄薩斯是惡名昭彰且殘暴的罪犯首領，他的名字令所有地下罪犯們聞風喪膽。由於濫用奧德賽能量的關係，他的臉慘遭毀容。為了清除身體內殘餘的物質，他綁架聖殿騎士來提取奧德賽能量，榨乾他們的利用價值後便殺了他們。他抓住了一些聖殿騎士團的高級牧師，只為了引出卡瑪，那名他相信能夠治療自己的人。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-15",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Merc": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Rainbow": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "Aatrox is a violent and notorious crime lord whose name is feared throughout the criminal underworld. He is also disfigured by Ora abuse. Seeking to purge the substance from his body, he abducts Templars to extract it—and kills them when they are unable to do so. He has seized a number of high ranking Templar priests in order to draw out Karma, who he believes will finally heal him."
+  }
 }

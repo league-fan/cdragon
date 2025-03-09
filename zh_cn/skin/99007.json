@@ -34,6 +34,68 @@
     }
   ],
   "description": null,
-  "wikiPrice": "3250",
-  "wikiReleaseDate": "2016-11-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2016-11-28",
+    "earlysale": "2017-05",
+    "set": [
+      "Elementalist"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Elementalist",
+    "forms": [
+      "Air",
+      "Fire",
+      "Water",
+      "Ice",
+      "Magma",
+      "Mystic",
+      "Nature",
+      "Storm",
+      "Dark"
+    ],
+    "chromas": {
+      "Air": {
+        "id": 7
+      },
+      "Fire": {
+        "id": 7
+      },
+      "Water": {
+        "id": 7
+      },
+      "Ice": {
+        "id": 7
+      },
+      "Magma": {
+        "id": 7
+      },
+      "Mystic": {
+        "id": 7
+      },
+      "Nature": {
+        "id": 7
+      },
+      "Storm": {
+        "id": 7
+      },
+      "Dark": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ]
+  }
 }

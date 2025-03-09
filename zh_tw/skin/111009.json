@@ -132,6 +132,51 @@
     }
   ],
   "description": "按照《山海卷軸》的神祕畫卷所描述，他是一位守護者，將瘋神燼封印在神聖的瀑布中。好幾千年來，燼不停在納帝魯斯的耳邊低語著何謂力量、自由以及真正的神性，直到他將燼釋放。現在，納帝魯斯被憤怒所扭曲，在他的河流中流淌的不是水，而是滾燙的岩漿。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "A guardian who helped seal the mad god Jhin within a holy waterfall, as depicted within the mysterious painting known as the Shan Hai Scrolls. Over the millenia, Jhin has whispered of power, freedom, and true godhood to Nautilus, until he finally released him. Now twisted with anger, Nautilus's rivers run not with water, but molten magma."
+  }
 }

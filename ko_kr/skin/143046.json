@@ -137,6 +137,54 @@
     }
   ],
   "description": "자이라는 말 대신 작품으로 말하는 악마입니다. 수식어 없이 이름만으로 통할 만큼 유명한 자이라는 우아한 스타일과 타고난 품위로 스틱스브리지 사람들의 마음을 사로잡았습니다. 마치 도시 구석구석에 영역 표시를 하듯, 자이라의 숙련된 손은 골목마다 콘크리트 틈새에서 그림 꽃을 피워 냅니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Pearl": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 48
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 53
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Foritis Wang",
+      "Pandart Studio"
+    ],
+    "lore": "Zyra is a devil whose work speaks for itself. Famous enough to be known by a single-name moniker, she has captivated the people of Styxbridge with her elegant style and effortless grace. In Zyra's skilled hands, paint flowers across concrete and blooms in every alley, claiming each slice of the city as Zyra's own."
+  }
 }

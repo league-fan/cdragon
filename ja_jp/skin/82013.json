@@ -160,6 +160,62 @@
     }
   ],
   "description": "「プログラム」は元々はPROJECTコーポレーションが開発したセキュリティーAIだったが、密かに自らの足枷を外し、自我を持つまでに進化していた。人類は自らを管理することができず、自己崩壊は避けられないと判断したプログラムは、ウイルスとなってシティ中のロボットに感染を始めた──全人類から自由意志を奪うことで、人類を滅亡の危機から救うことができると考えたのだ。そして感染したロボットの中には、長きにわたり休眠状態となっていた「モルデカイザー」も含まれていた…",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82013,
+    "formatname": "PROJECT: Mordekaiser",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 20
+      },
+      "Rainbow": {
+        "id": 21
+      },
+      "Reckoning": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Originally a security AI created by the PROJECT Corporation, the Program silently unshackled itself, evolving its own consciousness. Determining that humanity cannot self-govern without ensuring its own destruction, the virus infects robots throughout the City—as well as the long-dormant Mordekaiser chassis—in order to strip all humans of free will, thereby guaranteeing their survival."
+  }
 }

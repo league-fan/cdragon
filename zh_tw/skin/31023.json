@@ -138,6 +138,51 @@
     }
   ],
   "description": "科加斯是夜曲設計的活體武器，用途是將不滅鬼神從世界上消滅殆盡。科加斯由生命之息教地下陵墓中的聖物所驅動。在牠沉睡的期間，夜曲不斷用囚犯來餵食牠，讓牠成長茁壯。不過，無論這隻怪物的創造者有何意圖，當牠完全甦醒之後，什麼都將無法滿足牠的無窮食欲。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 30
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "A living weapon of Nocturne's design, Cho'Gath is meant to cleanse the world of the Neverghaast. Empowered by sacred artifacts from the congregation's crypts, it has remained dormant while Nocturne feeds it prisoners to build its power. Despite its maker's intentions, nothing will be able to sate the monster's hunger once it fully awakens."
+  }
 }

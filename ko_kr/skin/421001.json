@@ -24,6 +24,26 @@
     }
   ],
   "description": "땅속 어딘가에서 쇠 긁히는 소리가 들려옵니다. 그리고 갑자기 날카로운 소리, 굶주림에 울부짖는 비명이 들린 후 정적이 찾아오죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-12-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-12-11",
+    "set": [
+      "Eternum"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screech… A cry of hunger… Then, nothing."
+  }
 }

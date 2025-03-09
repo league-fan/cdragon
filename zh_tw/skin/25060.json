@@ -137,6 +137,54 @@
     }
   ],
   "description": "魔甘娜是雪月教派的祭司和首席驅魔師，她的魔法能夠束縛並消滅四處出現的墮落勢力。門徒完成試煉並將記憶和感情獻給阿璃後，魔甘娜便會將他們的靈魂與雪月連結，入教儀式也就此完成。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25060,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-18",
+    "set": [
+      "Snow Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 66
+      },
+      "Emerald": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Rainbow": {
+        "id": 67
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 61,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 65
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "As a priestess and chief exorcist of the Snow Moon, Morgana's magic has been used to bind and destroy corruption wherever it is found. Once disciples complete their trials and offer their memories and emotions to Ahri, it is Morgana's duty to chain their souls to the Snow Moon, completing their initiation into the Order."
+  }
 }

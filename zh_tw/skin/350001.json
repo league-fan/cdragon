@@ -160,6 +160,59 @@
     }
   ],
   "description": "隨著兩位校長的失蹤，悠咪已經介入並成為了迪朗達爾學院的暫時代理人，直到其中一位校長被找到並復職為止。作為一個強大魔法的引導者，她將學院的分類之書作為魔法能量的聚焦物件來使用，以產生啟示錄等級的能量……不過往往釋放在一名名倒楣的學生頭上就是了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-05-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-05-14",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 3
+      },
+      "Formal": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      },
+      "Granite": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Following the disappearance of two principals, Yuumi has stepped in as the acting head of Durandal Academy until either individual can be found and re-instated. As a powerful channeler of magic, she uses the academic registry book as a focus object to generate apocalyptic levels of energy… often while perched on a terrified student's head."
+  }
 }

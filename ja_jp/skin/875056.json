@@ -165,6 +165,61 @@
     }
   ],
   "description": "彼の締まった腹筋に見とれてはならない──セトはクールなファッションセンスと、母親を支えるための長年の苦労で培った優しき心を持っている。そして、そのラッパーとしての自信と評価は、自らの努力で勝ち取ったものだ。パパラッチを殴ってしまったことで、彼の音楽業界でのキャリアは一度は終わりを迎えたが、この男をいつまでも黙らせておくことなど誰にもできない。様々な評価はあるものの、HEARTSTEELと一緒にステージに上がれば、彼が「ボス」であることは一目瞭然だろう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-11-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875056,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-11-08",
+    "set": [
+      "HEARTSTEEL"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 63
+      },
+      "Catseye": {
+        "id": 58
+      },
+      "Citrine": {
+        "id": 64
+      },
+      "Emerald": {
+        "id": 59
+      },
+      "Pearl": {
+        "id": 62
+      },
+      "Rockstar": {
+        "id": 65,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen",
+      "Julia Yurtsev",
+      "Jennifer Wuestling"
+    ],
+    "lore": "Don't let the chiseled abs fool you: With savvy style and a heart of gold tempered by years of hard work supporting his mom, Sett has earned his confident rapper's swagger. His last music career ended when he punched a paparazzo, but he won't be kept down. People call Sett a lot of things, but when he's on stage with HEARTSTEEL, you can call him “boss.”"
+  }
 }

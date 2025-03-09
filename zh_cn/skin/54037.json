@@ -160,6 +160,57 @@
     }
   ],
   "description": "墨菲特曾是育恩塔尔帝国的三位守护神之一，一位岩浆与峭壁的半神，他的战友是一位水之蛟龙和一位自然之灵。在一位守护神微不足道的背叛导致了另一位守护神的死亡时，他们的友谊瞬间就结束了。现在，墨菲特以不可动摇的忠诚孤军奋战，不顾一切地要恢复他的国家昔日的荣耀，不惜付出众多生命的代价。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Resplendent": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Tanzanite": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "Malphite was one of three guardians of the Yun Tal Empire, a demi-god of crag and magma, his brothers-in-arms a serpent of water and a spirit of nature. Their friendship ended in an instant, when one guardian's infinitesimal betrayal led to the death of another. Now, Malphite stands alone with unwavering loyalty, desperate to restore his nation's former glory, no matter the cost of lives. "
+  }
 }

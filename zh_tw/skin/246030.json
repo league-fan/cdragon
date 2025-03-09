@@ -160,6 +160,60 @@
     }
   ],
   "description": "對於某些人來說，原諒是一種祝福，但對姬亞娜女皇來說，這是必要之事。雖然她的王國與汪洋之國之間的爭鬥是她的姊妹一手造成，她還是想在新年的饗宴之中尋求彌補之道。然而，她和艾希女皇和解的唯二障礙在於……她自己的自尊，還有身邊衛士墨菲特與最近重新出沒的巨大毒蛇之間纏結幾世紀的宿怨。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Resplendent": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "For some, forgiveness is a blessing; for Empress Qiyana, it is a necessity. Though the hostility between her empire and the Empire of the Great Sea is the fault of her sisters, she seeks atonement at this year's banquet. The only barrier to a reconciliation with Empress Ashe is her pride... and a centuries-old grudge between her guardian Malphite and a newly resurfaced giant serpent."
+  }
 }

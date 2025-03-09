@@ -142,6 +142,54 @@
     }
   ],
   "description": "メゾラックスが惑星を侵略したとき、ヨネと弟のヤスオは復讐を誓った。ヤスオが最初に攻撃を仕掛け、侵略する巨人のハイパーガイズスーツを奪った。しかし、攻撃の激しさで遥かに上回ったのはメゾラックスだった。ヤスオが去った今、ヨネは弟のハイパーガイズを手にして、他の市民が戦いに加われるように、その製造を開始した。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777065,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-20",
+    "set": [
+      "Masked Justice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Catseye": {
+        "id": 67
+      },
+      "Emerald": {
+        "id": 69
+      },
+      "Obsidian": {
+        "id": 72
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Rose Quartz": {
+        "id": 70
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When Mezzorax invaded their planet, Yone and his brother Yasuo swore to retaliate. Yasuo struck first, seizing the invading giant's Hyperguise suits. But it was Mezzorax who struck hardest. With Yasuo now gone, Yone has taken up his brother's Hyperguise and is building more, so that fellow citizens can join the fight."
+  }
 }

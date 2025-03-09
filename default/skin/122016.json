@@ -146,6 +146,57 @@
     }
   ],
   "description": "The once-human Darius was a terrifying manhunter, feared throughout the West for his cunning and brutality. Famously defeated by his brother in a widely publicized duel, his wounded pride eventually twisted into obsession, leading him to strike a deal with the devil Hecarim...",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-10-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-10-10",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 22,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Nomad": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2019"
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 19
+      }
+    },
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Ayran Oberto",
+      "West Studio"
+    ],
+    "lore": "The once-human Darius was a terrifying manhunter, feared throughout the West for his cunning and brutality. Famously defeated by his brother in a widely publicized duel, his wounded pride eventually twisted into obsession, leading him to strike a deal with the devil Hecarim..."
+  }
 }

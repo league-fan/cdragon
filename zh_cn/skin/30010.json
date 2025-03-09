@@ -113,6 +113,44 @@
     }
   ],
   "description": "卡尔萨斯的门徒们通过吟颂他那不和谐的合唱——一种会将烈焰之柱召唤到他们身上的誓言——来将这个炼狱使者引导到这个世界中。在他抵达时，死亡颂唱者的圣歌会召唤无数道从天而降的地狱之火。很少有人能活着讲述他们在烈焰席卷大地之前听到的哀歌。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 30010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land."
+  }
 }

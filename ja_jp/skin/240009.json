@@ -132,6 +132,54 @@
     }
   ],
   "description": "略奪者たちは長年に渡って、残酷さと狡猾さの間で危うい綱渡りを繰り返してきた。クレッド将軍は現体制を治める二人の指導者の一人であり、略奪者たちの歴史的な残酷さ…むしろ、それを上回るともいえる残虐性を体現する存在である。シン・ジャオがいなければ、クレッドは犠牲をいとわず、全勢力を投じて残酷な最終決戦を挑んでいたに違いない。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 240009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-07",
+    "set": [
+      "Marauder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 11
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 14
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Throughout history, the Marauders have balanced on the knife's edge between brutality and cunning. General Kled, one half of the pair that currently leads the regime, is truly the incarnation of their historic brutality… and little more. If it weren't for Xin Zhao, Kled would bet everything on a final, bloody, battle."
+  }
 }

@@ -216,6 +216,68 @@
     }
   ],
   "description": "弒龍守護者最早是於數百年前的時間和他們的敵人奮鬥著，在他們獲勝之後，土地長久充斥著容易使人放鬆大意的安祥之氣。直到巨龍再度回來的那一天，大部分的古代勇士都已經過世了，只剩下布郎姆背負著他們遺留下來的任務，舉起他的巨大盾牌來保護那些無辜者。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-05-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-05-11",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Fan Pass": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Fan Pass Missions"
+      },
+      "LCS": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LEC": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LPL": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "Obsidian": {
+        "id": 5
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent."
+  }
 }

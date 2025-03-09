@@ -216,6 +216,66 @@
     }
   ],
   "description": "身為「巨獸加里歐」故事中的村長，蓋倫最在意的就是大敵當前村民的安全。不過當原本的故事被推翻之後，伊瑞莉雅讓他看到加里歐其實並非毫無人性的野獸，說不定還能與他化敵為友，以此說服他來幫忙。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86033,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 37
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 36
+      },
+      "Gilded": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Paragon": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Silvia Meiliani",
+      "Caravan Studio"
+    ],
+    "lore": "As the town's leader in “The Great Beast Galio”, Garen's chief concern is the safety of his people in the face of a fierce enemy. When the story is thrown off, however, Irelia convinces him to help by showing Garen that Galio can be reasoned with, perhaps even stopped entirely if they make a friend out of a foe."
+  }
 }

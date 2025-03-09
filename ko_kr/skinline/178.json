@@ -8,16 +8,38 @@
       "name": "해방된 알리스타",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2011-09-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 12005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Youtube Distribution",
+        "cost": "Special",
+        "release": "2011-09-22",
+        "set": [
+          "Chronicle"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ]
+      }
     },
     {
       "id": 26003,
       "name": "슈리마 사막의 질리언",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-09-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 26003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-08",
+        "set": [
+          "Chronicle"
+        ],
+        "neweffects": true
+      }
     }
   ]
 }

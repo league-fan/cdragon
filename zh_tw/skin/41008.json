@@ -133,6 +133,48 @@
     }
   ],
   "description": "剛普朗克曾經是皇家太空陸軍的高級上將，但他最後選擇背叛軍方，竊取並散播超級武器的設計藍圖。長達數千年的星際內戰因此結束，而他也藉此展開恐怖統治，組成一個名為「超死星」的星際犯罪組織。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-01-12",
+    "earlysale": "2017-07",
+    "set": [
+      "Dreadnova"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 10
+      },
+      "Rogue": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Ruby": {
+        "id": 9
+      },
+      "Sapphire": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Once a high ranking admiral in the Royal Space Military, Gangplank's reign of terror began when he stole and proliferated blueprints for a former colleague's experimental superweapon. Ending a thousand-year civil war in an instant, he defected with a massive armed battalion and formed the interplanetary criminal network known as the Dreadnova Corps."
+  }
 }

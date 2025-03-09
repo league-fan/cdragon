@@ -77,6 +77,30 @@
     }
   ],
   "description": "Many heeded the call of the dragonslayers as they mustered their forces, from common cutpurses to fabled monster hunters. Vayne was one such legendary recruit—for what is a dragon, if not the deadliest beast of all?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-08-24",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Green": {
+        "id": 7
+      },
+      "Red": {
+        "id": 8
+      },
+      "Silver": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "lore": "Many heeded the call of the dragonslayers as they mustered their forces, from common cutpurses to fabled monster hunters. Vayne was one such legendary recruit—for what is a dragon, if not the deadliest beast of all?"
+  }
 }

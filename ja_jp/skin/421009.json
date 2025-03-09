@@ -120,6 +120,50 @@
     }
   ],
   "description": "「氷の魔女」が遥か北方にそびえ立つ真なる氷の大氷河に目を向けると、そこで軍隊が作られようとしていた。その中で最初に彫り出されたのが、女王の力に相応しい凍りつくような残虐性を宿す器、レク＝サイだった。「ウォッチャー」の意志によって知能を与えられた彼女は、捕食者の頂点として残忍な本能に従いこの世界を脅かしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "voiceactor": [
+      "N/A"
+    ],
+    "lore": "When the Ice Witch looked to the great glaciers of True Ice towering over the far north, she saw an army in the making. Among the first to be sculpted was Rek'Sai, a vessel of chilling savagery befitting a queen's power. Now, granted sentience by the will of the Watchers, she terrorizes domains with the brutal instincts of an apex predator."
+  }
 }

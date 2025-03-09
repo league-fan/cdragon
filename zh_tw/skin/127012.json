@@ -149,6 +149,58 @@
     }
   ],
   "description": "她曾是星河間的存在，負責識別並預知未來會對宇宙造成威脅的事物。然而，她對更遠大知識的渴望吸引幽冥煞星的連結，而她就這樣被吞噬了。她變成了一名瘋狂的末日使者，在宇宙間的灰燼中看到了一個「真正」的宇宙。現今的她已經成為她曾經所害怕的結局。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 127012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rainbow": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared."
+  }
 }

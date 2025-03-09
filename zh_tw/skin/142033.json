@@ -160,6 +160,61 @@
     }
   ],
   "description": "柔依來自一個以純真為上的歡樂世界，成為幽冥煞星的使者後，思想受到扭曲——她就像一個小孩，把宇宙的一切事物視為自己的玩具，愛怎樣改變或破壞，都是她的自由。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 38
+      },
+      "Quasar": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 40
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Santiago Parra",
+      "Pandart Studio"
+    ],
+    "lore": "A corruptant from a world of playful whimsy, where innocence was prized above all else. Zoe is a twisted mirror of those lost in her own creation—she is a child to whom everything in the universe is her toy, to shape and destroy as she sees fit."
+  }
 }

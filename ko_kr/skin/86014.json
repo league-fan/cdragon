@@ -131,6 +131,53 @@
     }
   ],
   "description": "매일 밤 크롬 독수리가 울고 강철 표범이 으르렁거리면 네온 불빛이 가득한 거리에서 가렌 스트라이커 형사가 뜨겁게 빛나는 정의를 실현합니다. 아이오니아 무술 검은 띠 보유자로 대검을 휘두르고 다니는 가렌 형사는 데마시아를 위하여 모든 사건을 끝까지 추적합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-07-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 86014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-07-18",
+    "set": [
+      "Demacia Vice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 20
+      },
+      "Catseye": {
+        "id": 19
+      },
+      "Neon Noir": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "As chrome eagles cry and steel panthers growl, lightning hot justice is delivered nightly by Detective Garen Stryker on the neon-drenched streets. A black belt in Ionian martial arts, this katana wielding cop pushes it to the limit with every case... for Demacia!"
+  }
 }

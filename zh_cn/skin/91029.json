@@ -146,6 +146,53 @@
     }
   ],
   "description": "在卡特琳娜——泰隆被领养的妹妹——于上次节庆中建立的联盟破裂后，他发誓要复仇。为了重振他们家族的荣光，他想要揭露并粉碎这个由华丽服饰和神圣誓言组成的盛会。今年的节庆上，没有任何事、任何人能逃脱他的怒火。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91029,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Withered Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 37
+      },
+      "Rose Quartz": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "After the alliance his adopted sister Katarina formed at the last festival was broken, Talon swore revenge. He intends to restore their family's honor by exposing and shattering the entire concept of this celebration of glittering finery and sacred vows. Nothing and no one at this year's festival will escape his wrath."
+  }
 }

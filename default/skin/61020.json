@@ -137,6 +137,55 @@
     }
   ],
   "description": "Careful not to get honey caught in those gears!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-03-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61020,
+    "formatname": "Orbeeanna",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-03",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 25
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Mingchen Shen",
+      "West Studio"
+    ],
+    "lore": "Careful not to get honey caught in those gears!"
+  }
 }

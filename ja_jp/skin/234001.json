@@ -136,6 +136,53 @@
     }
   ],
   "description": "かつて月の雄牛部隊のリーダーを務めていたヴィエゴは、月の聖獣を討伐可能と判断し、戦闘を決行した。だがその計画は悲惨な事態を招き、ヴィエゴの目の前で彼の部隊は貪り食われた…そこには彼の妻も含まれていた。この喪失に何年も苦しんだヴィエゴは、やがて自分以外のあらゆる者が悪かったのだと考えるようになる…そしてその矛先は、今年の月の雄牛部隊にも向けられた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 234001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-21",
+    "set": [
+      "Lunar Beast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 4
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 3
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 6
+      },
+      "Turquoise": {
+        "id": 5
+      },
+      "Vitality": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Former leader of a past Lunar Ox Squad, Viego decided that they would fight the Lunar Beast and actually defeat it. His plan ended in tragedy as he watched the rest of his squad be devoured"
+  }
 }

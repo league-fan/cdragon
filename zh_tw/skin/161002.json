@@ -24,6 +24,25 @@
     }
   ],
   "description": "身為生命能量的崇高存在，威寇茲便是傳奇、神話以及敬仰的代表。每過千年，他就會親臨凡人的星球，挑選出值得的人才，以實現他高深莫測的意志，而這些人將會蛻變為擁有超然力量的生物 － 弧光。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 161002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-01-28",
+    "set": [
+      "Arclight"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight."
+  }
 }

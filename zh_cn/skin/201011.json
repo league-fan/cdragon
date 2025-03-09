@@ -132,6 +132,53 @@
     }
   ],
   "description": "厄运小姐的贴身保镖是一位让人紧张的友好绅士-“银行金库”布隆，其称号缘于他撕开了一堵最高安全系数的金库保险墙。他的身边围绕着一小群持枪魄罗，他们钟爱于开膛破肚和谋杀。  ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-23",
+    "set": [
+      "Crime City"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder."
+  }
 }

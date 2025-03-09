@@ -137,6 +137,52 @@
     }
   ],
   "description": "No space adventure would be complete without a navigator. When Singed isn't creating special concoctions to keep his team safe, he's steering the crew's ship through the galaxy, masterfully guiding them to wherever his captain's whimsical orders lead them (and collecting any adorable meeps along the way).",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 27019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "splashartist": [
+      "Rio Sabda",
+      "Caravan Studio"
+    ],
+    "lore": "No space adventure would be complete without a navigator. When Singed isn't creating special concoctions to keep his team safe, he's steering the crew's ship through the galaxy, masterfully guiding them to wherever his captain's whimsical orders lead them (and collecting any adorable meeps along the way)."
+  }
 }

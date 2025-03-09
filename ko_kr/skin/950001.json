@@ -155,6 +155,59 @@
     }
   ],
   "description": "실패한 실험체! DEMA DOG! 네발의 파이터! 이... 생물은... 자신이 소환할 수 있는 존재의 수만큼이나 많은 칭호를 가지고 있습니다! 예전 주인에게 복수를 하려는 것일까요? 세계를 지배하려는 것일까요? 저도 모르겠네요! 개의 마음을 어떻게 알겠어요! 여러분... 나피리를 소개합니다!  ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 950001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Emerald": {
+        "id": 6
+      },
+      "Jasper": {
+        "id": 8
+      },
+      "Limitless": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Morla Gorrondona"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "Failed experiment! DEMA DOG! The Four-legged Fighter! This... creature... has almost as many titles as it does separate entities it can summon! Does it want revenge on its former masters? To take over the world? I don't know! I'm no dog mind reader! It's.... Naafiri!  "
+  }
 }

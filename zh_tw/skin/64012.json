@@ -194,6 +194,50 @@
     }
   ],
   "description": "憑藉著能夠在任何情況下開啟的第六感，李星可以讓敵隊草率的進攻球轉變成自身百年才有一次的精采操作。儘管這是他第一年參與這項主要賽事，許多人已認為他是不可多得的瑰寶。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2018-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-06-14",
+    "set": [
+      "Soccer Cup"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Sapphire": {
+        "id": 16
+      },
+      "Tanzanite": {
+        "id": 18
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "With a sixth sense for openings in any and all situations, Lee Sin can turn the opposing team's sloppy free kick into a once-in-a-lifetime play talked about for generations to come. Though it's his first year in the majors, some are saying there may never be another player like him."
+  }
 }

@@ -24,6 +24,28 @@
     }
   ],
   "description": "기이한 검은 번개로 인해 타락한 고대의 수호자, 악의 창기병 블리츠크랭크는 무자비하게 지역 군부대를 몰살하는 것은 물론 왕이 머무르고 있는 성을 통째로 무너뜨립니다. 이 무시무시한 파괴 본능의 원인은 아직 밝혀지지 않았지만 어떤 끔찍한 프로토콜을 그대로 따르고 있는 것만은 확실해 보입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-16",
+    "earlysale": "2018-05",
+    "set": [
+      "Lancer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "variant": 21,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "An ancient sentinel corrupted by mysterious black lightning, Rogue Lancer Blitzcrank mercilessly crushes provincial armies, destroying entire castles with kings still on their thrones. What caused its rampage is still uncertain, but for now it seems to be following its dread protocol to the letter."
+  }
 }

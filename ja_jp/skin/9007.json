@@ -24,6 +24,24 @@
     }
   ],
   "description": "スノーダウンのシーズンに備えてウィンターランド中の灯りが消えたとき、ポロキングの国の暗い片隅で、いにしえの恐怖が目を覚ました。それには思考も目的もなく、憑りつかれたようにホリデーを楽しむ人々を追いかけて襲い、目にしたものすべてを切り裂いていく。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-12-14",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "As lights go out across the Winterlands in preparation for Snowdown season, something ancient and terrible rises from the darkest corners of the Poro King's lands. Devoid of thought or purpose, it hunts for holiday revelers as if possessed, cutting down anything that crosses its path."
+  }
 }

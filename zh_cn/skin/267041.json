@@ -137,6 +137,55 @@
     }
   ],
   "description": "娜美将自己塑造成了宇宙热浴盆的塞壬海妖。她的歌曲已经吸引了来自银河系的人群涌向她，只为一睹她的其中一场舞台表演。因此，当“酱酱舞会”的组织者请她在最顶级的星际迪斯科表演她的歌曲时，她的那句充满热情的“好！”脱口而出。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267041,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 44
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rainbow": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 47
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Fashioning herself as the Siren of the Cosmic Hot Tub, Nami's songs have crowds from across the galaxy flocking to catch one of her sets. So when the organizers of The Jam asked her to perform her songs at the most stellar of interstellar discos, her enthusiastic “Yes!” was a no-brainer."
+  }
 }

@@ -148,6 +148,56 @@
     }
   ],
   "description": "在舞剑仙被仙宫之主击败的同时，封印着无影那股龙力的力量也被削弱了……这使得他的一些法力泄露到了凡间。寒潭夭夭曾是一条平平无奇的鱼，梦想着成为龙。而她得到了这股法力的一部分，并且发现了她真正的形态已经开始觉醒。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-26",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 18
+      },
+      "Citrine": {
+        "id": 19
+      },
+      "Heavenly Crane": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Immortal Journey 2019"
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Peridot": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Jessica 'OwleyCat' Oyhenart"
+    ],
+    "lore": "When the demigoddess Irelia was bested by a heavenly empress, the seal over Talon's draconic power began to weaken… allowing some of his magic to leak into the world. Once a mere fish who dreamed of being a dragon, Nami has received some of this power, and has found her true form beginning to awaken."
+  }
 }

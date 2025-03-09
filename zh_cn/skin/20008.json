@@ -120,6 +120,51 @@
     }
   ],
   "description": "一天，努努在一个全由纸做成的世界中醒过来，而他的妈妈则无处可寻。他从墙上取下了一方块纸，然后将它折成了狂野的威朗普，然后说“现在我们要去找妈妈了！”威朗普同意了，然后这两位就开始了一场伟大的冒险……",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-02-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-02-21",
+    "set": [
+      "Papercraft"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Aquamarine": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "One day, Nunu awoke to a world made entirely of paper, with his mother nowhere to be seen. He took a square off the wall, folded it into a wild Willump, and said “Now we will go find mom!” Willump agreed, and the two embarked upon a grand adventure…"
+  }
 }

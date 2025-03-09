@@ -44,6 +44,35 @@
     }
   ],
   "description": "賽勒斯曾深愛著魔法，但是長年的監禁令他由愛生恨。身為一名騎士，他屈就自己盡可能的獲取魔力，或許能成為全新的魔法源頭……然而，一切都是徒勞無功。如今僅剩魔法垂死的暗影留存，而他就是充滿怨恨的末代勇士。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-09-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517034,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-09-22",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Sylas deeply loved magic, but long years of imprisonment made him hateful. As a knight, he deigned to take as much power for himself as he could, and perhaps become a new wellspring of enchantment… yet, it was all for naught. Now only the dying shadow of magic remains, with he its final, bitter champion."
+  }
 }

@@ -24,6 +24,24 @@
     }
   ],
   "description": "Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 115004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-12-14",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "James Strehle"
+    ],
+    "lore": "Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death."
+  }
 }

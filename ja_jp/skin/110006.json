@@ -48,6 +48,33 @@
     }
   ],
   "description": "宇宙の遥か彼方、闇の中に生じたすべてを貪り尽すダークスターに仕えるヴァルス。その不気味な心奥へと呑み込まれた星辰は数知れない。彼の到来は絶滅をもたらす天変地異を呼び、惑星系が丸ごと、あたかも存在しなかったかのように消滅してしまう。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-06-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-06-15",
+    "earlysale": "2016-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "An interstellar titan containing multitudes within his eldritch mind, Varus serves the all-consuming Dark Star, a dread singularity born in the darkness of deep space. His arrival is a cataclysmic extinction event, erasing entire planetary systems as if they were never there."
+  }
 }

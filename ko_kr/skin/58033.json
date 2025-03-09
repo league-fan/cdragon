@@ -137,6 +137,54 @@
     }
   ],
   "description": "혼돈이 질서를 무너뜨린 후, 원인의 화신 레넥톤과 결과의 화신 나서스 형제가 탄생했습니다. 빛의 인도자의 처형자 레넥톤은 동족과의 전투로 더욱 광기에 휩싸였으나, 모든 것에는 목적이 있다는 신념만은 여전히 가지고 있습니다. 혼돈을 더 일으키는 것 외에 혼돈에 어떤 목적이 있을까요?",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 36
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 38
+      },
+      "Turquoise": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "In the aftermath of chaos slaying order, two brothers were born: the embodiments of cause, Renekton, and effect, Nasus. As executioner for the Dawnbringers, Renekton has become more frenzied from battling his kin, but he still holds to his view that everything must have a purpose. For what function does chaos serve, if not to cause more chaos?"
+  }
 }

@@ -150,6 +150,50 @@
     }
   ],
   "description": "お腹いっぱいのお魚と、うたた寝できる暖かいお膝──ユーミはいつだってネコが大好きなものを探している。しかし、ブックすら夢中になるほどロマンチックなムードの中でも、本当に心を許せる場所はひとつしかないことを知っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-02-04",
+    "set": [
+      "Heartbreakers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Granite": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Yuumi's always looking for what cats love: a belly full of fish and a warm lap to curl up on. But with the romantic mood captivating even Book, Yuumi knows the only thing to set her heart purring will be a very precise number of pets."
+  }
 }

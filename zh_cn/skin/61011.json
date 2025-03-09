@@ -134,6 +134,51 @@
     }
   ],
   "description": "有了最新的装备，奥莉安娜终于能够完全潜进水中生物群落了。这给她带来了巨大的快乐，因为以前在海滩上玩一天后，需要连续几周擦洗盐、沙子，有时还会有一只生气的螃蟹爬出她的齿轮。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 61011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Sean 'Raiko' Tay",
+      "West Studio"
+    ],
+    "lore": "With her latest outfit, Orianna is finally able to submerge completely in aquatic biomes. This brings her great joy, as a day at the beach previously required subsequent weeks of scrubbing salt, sand, and sometimes an angry crab out of her gears."
+  }
 }

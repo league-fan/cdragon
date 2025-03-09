@@ -137,6 +137,55 @@
     }
   ],
   "description": "パワーに憑りつかれた偏執的な化学者のゼラスは、宇宙からの侵略者であるミィプと出会い、そのエネルギーの制御方法を発見するため、全人生を研究に捧げた。しかし、ある日の実験中に爆発が起こり、彼の体は変異して元に戻らなくなってしまった。そして現在、穢れたミィプに完全に取り込まれたゼラスは、その悪意を宇宙全体に振りまくべく、銀河を渡り歩いている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 29
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "An obsessive chemist driven by power, Xerath discovered the invader meeps and devoted his life to researching how to harness their energy. After an explosion during one of his experiments, his body was permanently mutated. Now, fully consumed by the corrupted meeps, Xerath traverses the galaxy, seeking to spread his malice across the cosmos."
+  }
 }

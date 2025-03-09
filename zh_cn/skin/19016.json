@@ -160,6 +160,58 @@
     }
   ],
   "description": "被一个源计划研究组织从荒土中夺来的沃里克已经被不可挽回地转变成了超越人类进化的一个可怖的全新阶段——一只被武器化的怪兽，被剥离了所有情感，并且被植入了只用于暴力镇压的程序。通过由乌合之众组成的外来者们的干预，他在被完成之前逃离，并且现在肆虐于“城市”之中。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 19016,
+    "formatname": "PROJECT: Warwick",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-01",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Aquamarine": {
+        "id": 32
+      },
+      "Catseye": {
+        "id": 31
+      },
+      "Meteorite": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Reckoning": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "lore": "Plucked from the wastelands by a PROJECT research cell, Warwick has been irrevocably transformed into a horrifying new stage of transhuman evolution—a weaponized monster stripped of all remorse, and programmed solely for violent suppression. Through the meddling of the ragtag outsiders, he escaped before being completed, and now rampages indiscriminately across the City."
+  }
 }

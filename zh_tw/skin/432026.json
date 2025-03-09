@@ -147,6 +147,58 @@
     }
   ],
   "description": "巴德是植物之神，總是在努力幫助大自然重回生機。身為暮夜神樹與黎明神樹的守望者，他將一根斷枝做成了可以讓他在山海卷軸內來去自如的號角。他知道瘋神燼會為了一己之利濫用這份力量，但巴德不惜犧牲生命也會保護號角。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-14",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 31
+      },
+      "Emerald": {
+        "id": 29,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 30
+      }
+    },
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "lore": "The god of plants, Bard is constantly on the move to replenish nature. As caretaker of the sacred trees of Dusk and Dawn, he's fashioned one of their broken branches into a horn capable of letting him travel anywhere within the Scrolls. He knows the mad god Jhin would use that power for his own gain, but Bard will stake his life to prevent it."
+  }
 }

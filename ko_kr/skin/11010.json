@@ -24,6 +24,26 @@
     }
   ],
   "description": "마스터 이가 별과 별 사이를 미끄러지듯 활공하며 고귀하게 밤 하늘을 스쳐 지나가고, 그의 검은 날카로운 수정과도 같은 정교함으로 우주 구석구석을 누빕니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-04-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-04-26",
+    "earlysale": "2017-11",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Gliding effortlessly from star to star, Yi flashes through the night sky with celestial grace, his blade arcing with crystalline precision through the fabric of the universe itself."
+  }
 }

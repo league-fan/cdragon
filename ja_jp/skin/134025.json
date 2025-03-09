@@ -172,6 +172,51 @@
     }
   ],
   "description": "フェスティバルにはカボチャランタンの行進が欠かせない！シンドラは魔法を使って空から大きなカボチャを無数に出現させ、カボチャの滑稽な笑顔で、地上にいる子供たちを楽しませている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134025,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 27
+      },
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 33
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "No celebration would be complete without the March of the Pumpkin Lanterns! Syndra conjures hundreds of great gourds from the sky, their crooked smiles delighting the children below."
+  }
 }

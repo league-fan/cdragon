@@ -160,6 +160,56 @@
     }
   ],
   "description": "善骗妖精阿狸的寓言已成为人类历史的一部分长达无数个世代之久。容光焕发和永恒青春的她被描绘成了永恒之森的林精中的一位好奇、爱戏弄人的成员……尽管在近些年里，她的内心已变得坚韧，皆因她与故土之内的一股不断增长的腐败不停战斗着。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 25
+      },
+      "Ahri-versary": {
+        "id": 61
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 23
+      },
+      "Citrine": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 26
+      },
+      "Peridot": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Fables of the trickster spirit Ahri have been part of mankind's history for countless generations. Radiant and eternally youthful, she is portrayed as a curious, quizzical member of the Elderwood's feyfolk… though in recent years her heart has hardened, as she fights a growing corruption within her ancestral home."
+  }
 }

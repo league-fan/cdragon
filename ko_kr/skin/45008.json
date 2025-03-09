@@ -43,6 +43,30 @@
     }
   ],
   "description": "나폴레옹 콤플렉스를 지닌 중간 보스에 불과했던 베이가는 아케이드 세계로 거칠게 난입해 수백 명의 보스들을 그의 편으로 소환했습니다. 하나로 뭉친 그들은 베이가의 최종 목적을 이루기 위해 그 어떤 것에도 멈추지 않을 겁니다. 세계를 손아귀에 넣고 영웅들에게 게임 오버를 선사할 때까지…",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-08-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-08-27",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "lore": "Once merely a mini-boss with a Napoleon complex, Veigar has ripped into the code of Arcade World to summon hundreds of other bosses to his side. Together they'll stop at nothing to reach his ultimate goal: take the world for himself, and give the heroes a final Game Over."
+  }
 }

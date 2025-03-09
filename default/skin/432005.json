@@ -48,6 +48,34 @@
     }
   ],
   "description": "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-12-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 432005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-12-10",
+    "earlysale": "2016-06",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge."
+  }
 }

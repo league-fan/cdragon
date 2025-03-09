@@ -170,6 +170,62 @@
     }
   ],
   "description": "“王”以上に優れた獲物など存在しない──根っからの狩人であるレンガーは、これ以上にない究極の獲物、究極のトロフィーに挑めるチャンスを見逃す訳にはいかなかった。「光の番人」の武器だけでは、ヴィエゴを打ち倒すことはできない。生態系の頂点に君臨する、真の捕食者の力が必要なのだ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107030,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-22",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 38
+      },
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 37,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 36
+      },
+      "Resolute": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 31,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Tanzanite": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "What game is bigger than a King? As a hunter, Rengar could not pass up the opportunity to take on what would be his ultimate prey, and the ultimate trophy. Even with Sentinel weapons in hand, they will need the skills of a true apex predator to take Viego down."
+  }
 }

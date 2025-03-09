@@ -143,6 +143,58 @@
     }
   ],
   "description": "サイキックテクノマンサーであるビクターは、ブラックローズグループとして知られる反乱軍のリーダーだ。かつてはユートピアの世界を夢見ていたが、数十年前に突然、最高司令部を去った。彼は極寒の工作員事件で発見された宇宙人の「ゲート」に取り付かれており、彼の実験が生み出した人間生体兵器ならゲートをこじ開け、世界秩序を覆すことができると考えている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Hunter": {
+        "id": 13,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Peridot": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 8
+      },
+      "Turquoise": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Leader of the rogue military known as the Black Rose Group, Viktor is a psychic technomancer whose vision for a utopian world was abandoned when he suddenly departed High Command decades prior. Obsessed with an alien 'gate' uncovered during the Arctic Ops event, his experiments into human bioweapons would allow him to breach it and upend the global order."
+  }
 }

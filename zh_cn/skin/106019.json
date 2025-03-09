@@ -160,6 +160,61 @@
     }
   ],
   "description": "沃利贝尔是一个愤怒与战争之灵，许多充满复仇欲的灵魂都与他签订了契约，并且其中只有乌迪尔存活超过一年。无论他的契约者们是成功报复还是遭遇暴力结局，每死一个都会赋予他更多的能量。更多的能量意味着会有更多任性的凡人向他寻求契约——因此这头熊永远不会挨饿。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "filter": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emerald": {
+        "id": 24
+      },
+      "Inked": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 26
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Jack Hsu",
+      "West Studio"
+    ],
+    "lore": "A spirit of fury and war, many vengeful souls have made contracts with the Volibear, and only Udyr has survived for longer than a year. Whether his charges succeed in taking revenge or meet violent ends, each one who dies gives him more power. More power means more wayward mortals seek him out for contracts—and thus the bear will never go hungry."
+  }
 }

@@ -8,8 +8,23 @@
       "name": "총사령관 카타리나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-02-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-02-22",
+        "set": [
+          "Bilgewater: Mercs"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ]
+      }
     }
   ]
 }

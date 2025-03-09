@@ -44,6 +44,34 @@
     }
   ],
   "description": "다른 별 수호자들에게는 골칫거리인 징크스. 번쩍이며 펑펑 터지는 폭발을 사랑하고 충동적인 성격에 가끔 냉소적일 때도 있죠. 하지만 일단 싸움이 시작되면 동료들을 보호하기 위해, 특히 어린 시절 친구인 럭스를 위해서는 앞뒤 안 가리고 전투에 온몸을 내던집니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2016-10-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 222004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2016-10-05",
+    "earlysale": "2017-04",
+    "set": [
+      "Star Guardian Season 1"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Much to the annoyance of her team, Jinx is an impulsive and sometimes cynical Star Guardian who loves a good, glittery explosion. However, when the fighting starts, Jinx will throw herself into the battle to protect others, especially her childhood friend Lux."
+  }
 }

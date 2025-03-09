@@ -133,6 +133,54 @@
     }
   ],
   "description": "요네는 음침하고 조용한 암살 동아리의 회원으로, 음울하고 진지한 태도와는 달리 몹시 호전적인 성향을 지녔습니다. 동생과의 불화가 유명한데, 누가 우연히 그 이야기를 꺼내기만 해도 불같이 화낸다고 합니다. 케이틀린이 모종의 목적으로 알아낸 사실이라죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 14
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Yone is a brooding, quiet member of the Assassin Club, one whose morose and serious attitude belies the colossal chip on his shoulder. The bad blood between him and his brother is well known, and even speaking about it casually has been known to invoke Yone's fury—something Caitlyn has picked up on for her own purposes."
+  }
 }

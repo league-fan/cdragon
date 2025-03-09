@@ -128,6 +128,51 @@
     }
   ],
   "description": "作为一个天生的领袖，卡莎非常重视自己作为队长的工作……也许这对她来说有点过头了。尽管如此，她的小队仍然尊重她的指挥，甚至会跟随她执行哪怕是最危险的任务。而在执行任务时，她将狙击高优先级的目标，然后用星光动力导弹轰炸剩余敌人。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 43
+      },
+      "Brilliant": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "A born leader with a head for tactics, Kai'Sa takes her job as captain extremely seriously... perhaps too much for her own good. Still, her squad respects her command and will follow her into even the most dangerous missions, where she'll snipe priority targets and spray the rest with payloads of starlight-powered missiles."
+  }
 }

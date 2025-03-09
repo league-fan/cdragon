@@ -58,6 +58,32 @@
     }
   ],
   "description": "以此庆祝2013年在北美举办的全球总决赛。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-10-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-10-03",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "Celebrating Worlds 2013 in North America."
+  }
 }

@@ -8,16 +8,72 @@
       "name": "Challenger Nidalee",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-01-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 76008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-01-14",
+        "set": [
+          "Challenger"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Commemorating the 2016 season start."
+      }
     },
     {
       "id": 103005,
       "name": "Challenger Ahri",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-01-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 103005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-01-15",
+        "set": [
+          "Challenger"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Ahri-versary": {
+            "id": 56
+          },
+          "Golden": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Commemorating the 2015 Season 5 start."
+      }
     }
   ]
 }

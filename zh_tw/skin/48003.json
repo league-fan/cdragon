@@ -24,6 +24,23 @@
     }
   ],
   "description": "作為第一批重製的英雄，我們創造這個特朗德來重溫那最初的感動。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 48003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-04-30",
+    "set": [
+      "Traditional"
+    ],
+    "neweffects": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Mitchell Malloy"
+    ],
+    "lore": "Created to capture the original feel of Trundle, one of our first fully reworked champions."
+  }
 }

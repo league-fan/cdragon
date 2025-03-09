@@ -145,6 +145,47 @@
     }
   ],
   "description": null,
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 245001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-05-27",
+    "earlysale": "2015-12",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 6
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Peridot": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Sandstone": {
+        "id": 7
+      },
+      "Tanzanite": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith"
+    ]
+  }
 }

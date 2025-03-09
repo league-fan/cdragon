@@ -160,6 +160,59 @@
     }
   ],
   "description": "어떤 자들은 지배할 운명을 타고났습니다. 다른 자들은 오직 영광의 메아리만 들으며 반드시 치러야 할 희생은 전혀 모르죠! 무엇보다도... 심지어 백성의 목숨보다도 제국을 우선해야 합니다. 황제 쓰레쉬는 여전히 백성들을 이끌며 그들의 영혼은 영원히 안전하지만, 육신은 씻겨 내려갔습니다. 언젠가 그는 자신의 망가진 제국을 치유할 것입니다. 그에게 필요한 것은 친절한 여왕이 내미는 도움의 손길입니다. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 412039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-26",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 46
+      },
+      "Emerald": {
+        "id": 42
+      },
+      "Granite": {
+        "id": 41
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Resplendent": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Some are destined to rule. Others hear only echoes of glory, knowing nothing of the sacrifices that must be made! You must put your empire before EVERYTHING... even the lives of your subjects. The Emperor Thresh still guides his people, their souls forever safe, though their bodies were washed away. Someday, he'll heal his broken empire. All he needs is a kind empress' helping hand. "
+  }
 }

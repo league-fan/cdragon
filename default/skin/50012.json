@@ -159,6 +159,60 @@
     }
   ],
   "description": "Swain knows how important the alliances formed at the Festival of the Crystal Rose are… and how fragile. His determination to see the event go perfectly has gained him a connection with Zyra, the Rose's protector. With her help, he intends this to be the most successful festival ever—and that he will be celebrated as its architect.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50012,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Crystal Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Peridot": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 14
+      },
+      "Tiffany & Co.": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Worlds 2022 Drop Reward"
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Swain knows how important the alliances formed at the Festival of the Crystal Rose are… and how fragile. His determination to see the event go perfectly has gained him a connection with Zyra, the Rose's protector. With her help, he intends this to be the most successful festival ever—and that he will be celebrated as its architect."
+  }
 }

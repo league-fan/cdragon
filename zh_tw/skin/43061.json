@@ -137,6 +137,54 @@
     }
   ],
   "description": "在被地獄火之靈附身前，卡瑪曾是影焰神廟一名強大的火占師。她本以為自己可以控制火焰之靈，因此捕獲了它，希望可以終結蒼火天尊的統治，但最終還是跟其他人一樣屈服於地獄火。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 68
+      },
+      "Aquamarine": {
+        "id": 64
+      },
+      "Catseye": {
+        "id": 63
+      },
+      "Pearl": {
+        "id": 69
+      },
+      "Peridot": {
+        "id": 65
+      },
+      "Rose Quartz": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Possessed by a spirit of the Infernal flame, Karma was once a powerful pyromancer of the Shadowfire Temple. Believing it possible to control the flame spirit, she captured it hoping to put an end to the Ashen Lord's reign but succumbed to the hellfire like all the rest."
+  }
 }

@@ -132,6 +132,53 @@
     }
   ],
   "description": "好運姐的保鑣是一名友善、卻又同時沉默寡言得令人發慌的紳士。他有一個外號叫作「金庫」布郎姆，這個名稱是因為他曾徒手扯下號稱最安全金庫的大門。他的身邊伴隨著一群持槍的普羅，這些普羅最喜歡做的事除了被布郎姆摸肚子外，就是殺人了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-23",
+    "set": [
+      "Crime City"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder."
+  }
 }

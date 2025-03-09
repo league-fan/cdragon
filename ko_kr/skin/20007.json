@@ -24,6 +24,22 @@
     }
   ],
   "description": "한때 단짝 친구였던 이들은 세상에 풀린 바이러스로 인해 일그러졌습니다. 침을 질질 흘리며 모든 생존자를 5번 이상 감염시킬 수 있을 정도로 많은 돌연변이체를 퍼뜨리고 다니는 시한폭탄이 되어버렸죠. 과거에 그들이 누구였는지는 이제 의미가 없습니다. 그저 광기로 가득 찬 세상의 희생자일 뿐입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-11-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-11-05",
+    "set": [
+      "Zombies VS Slayers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "What was once a pair of young friends has been twisted by a virus unwittingly loosed upon the world, transforming them into a slavering, parasitic time bomb packed with enough raw mutagen to infect every survivor five times over. Whoever they were before is lost now—another casualty of a world gone mad."
+  }
 }

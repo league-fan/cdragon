@@ -142,6 +142,54 @@
     }
   ],
   "description": "파도를 통제하려는 나미의 야망은 신성 황제 자르반 4세와의 파괴적인 전투로 이어지며 세상에 큰 재앙을 불러왔습니다. 하지만 세상이 그보다 더 큰 위협, 즉 가장 교활한 인간 본성에 직면하자 자존심을 접고 과거의 적들과 손을 잡을 수밖에 없었습니다. 그들의 이야기가 다시 쓰이는 것을 막기 위해서였죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-01-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267058,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-23",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 65
+      },
+      "Pearl": {
+        "id": 66
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 62
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Nami's ambition to control the waves led to a destructive battle between her and god-emperor Jarvan IV, causing a great calamity to befall the world. But when the world faces an even greater threat—human nature at its most devious—Nami must swallow her pride and work with her former enemies to stop their story from being rewritten."
+  }
 }

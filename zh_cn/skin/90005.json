@@ -57,6 +57,29 @@
     }
   ],
   "description": "末日的先知和其他人一样喜欢下雪——或许更加喜欢，因为玛尔扎哈知道有一天一切都会被虚空吞噬。穿着时髦冬装的他身旁跟着虚灵魄罗大军，他已准备好引来冰雪的灾难末日。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "lore": "Prophets of doom love a snow day as much as anybody—perhaps even more, since Malzahar knows everything will one day be swallowed by the Void. Clad in fashionable winter gear and flanked by an army of voidling poros, he's ready to usher in the snowball apocalypse."
+  }
 }

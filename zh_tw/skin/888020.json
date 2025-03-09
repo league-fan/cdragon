@@ -160,6 +160,60 @@
     }
   ],
   "description": "睿娜妲一生充滿著受人擺佈的人際關係，死亡讓她獲得解脫，使她終於能打造自己夢寐以求的家庭。身為企業家族的奠基者，這一家人的羈絆並不來自親情溫暖，而是不近人情的計算。睿娜妲的工作是觀察社會，並在有需要時操縱生死，使事情變得更有「效率」。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 888020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Turquoise": {
+        "id": 25
+      },
+      "Vivida": {
+        "id": 30,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Debra Wilson"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "In a life filled with forced relationships, death freed Renata to form the family she always wanted. As the Enterprise Family's founder, the bond between members doesn't come from any sense of familial warmth but from honest calculation. As for her work, Renata looks at society and pulls whatever deathly strings she needs to make things more “efficient.”"
+  }
 }

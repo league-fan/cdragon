@@ -8,40 +8,200 @@
       "name": "オメガ小隊ティーモ",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2015-04-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 17008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2015-04-08",
+        "earlysale": "Ineligible",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Sandstone": {
+            "id": 16
+          }
+        },
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "lore": "Teemo once lived by a code. He's long since forgotten what it was, or even what started the fighting, but he does remember two things: nobody's innocent, and always settle your scores."
+      }
     },
     {
       "id": 18012,
       "name": "オメガ小隊トリスターナ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-07-26",
+        "earlysale": "2018-01",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Sapphire": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Commander of Omega Squad, Tristana has made it her policy never to retreat unless she's returning fire the entire way home. She calls it “advancing backwards.”"
+      }
     },
     {
       "id": 29008,
       "name": "オメガ小隊トゥイッチ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-07-26",
+        "earlysale": "2018-01",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Sandstone": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage “do no harm.”"
+      }
     },
     {
       "id": 45009,
       "name": "オメガ小隊ベイガー",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 45009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-07-26",
+        "earlysale": "2018-01",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 12
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Bob Beal"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "A heavy artillery specialist with a serious chip on his shoulder, Veigar has a troubling habit of calling down huge amounts of explosive ordnance for even the most mundane problems. He thinks of it as “a fun quirk.”"
+      }
     },
     {
       "id": 105010,
       "name": "オメガ小隊フィズ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 105010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-07-26",
+        "earlysale": "2018-01",
+        "set": [
+          "Omega Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Omega Squad's saboteur, Fizz is skilled in underwater combat. It is unclear what kind of action he saw before joining up, however, as he only ever refers to the sea as “a big bucket of chum.”"
+      }
     }
   ]
 }

@@ -138,6 +138,50 @@
     }
   ],
   "description": "독실한 미스 포츈은 생명의 숨결 교단의 얼굴이나 다름없습니다. 미스 포츈은 불사의 영혼 종파에게 복수하는 데만 온 힘을 쏟습니다. 그들이 미스 포츈의 부모님을 살해했을뿐더러 리븐을 타락시켰기 때문이죠. 미스 포츈은 절친한 친구가 적을 도왔다는 사실을 받아들이지 못하며, 그녀를 쏜 것을 후회하지 않습니다. 불사의 영혼이 존재하는 한 악은 영원할 테니까요.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 46
+      },
+      "Tanzanite": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A devout Aspirant, Miss Fortune is the public face of the congregation. She has a single-minded focus on revenge against the Neverghaast, not just for murdering her parents, but for also corrupting Riven. Sarah can't believe her best friend helped the enemy and doesn't regret shooting her, because as long as the Neverghaast live, evil will fester."
+  }
 }

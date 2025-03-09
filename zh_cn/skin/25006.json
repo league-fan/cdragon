@@ -33,6 +33,22 @@
     }
   ],
   "description": "胜利女神莫甘娜是给2014赛季达到黄金段位或以上的玩家的奖励。作为暗影的女王，胜利女神莫甘娜身穿深蓝色铠甲飘过召唤师峡谷，还有华丽的回城动作。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2014-11-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 25006,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2014-11-11",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "lore": "Victorious Morgana was awarded to players who reached Gold or higher in the 2014 season. A queen of shadows, Victorious Morgana glides through Summoner's Rift in deep blue armor, with a flashy recall."
+  }
 }

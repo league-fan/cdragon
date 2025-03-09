@@ -25,6 +25,23 @@
     }
   ],
   "description": "一颗一度繁茂而巨大的外部行星的残余物，暗星吞噬并重塑了行星碎片破碎集群，使其成为一个扭曲的神志，不断将其它天体拉入其轨道，然后对它途径的一切释放湮灭。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The remnants of a once lush and enormous exo-planet, the Dark Star consumed and reformed the broken cluster of planetary debris into a twisted consciousness, ever pulling others into its orbit, and unleashing oblivion upon all who cross its path."
+  }
 }

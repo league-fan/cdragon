@@ -62,6 +62,36 @@
     }
   ],
   "description": "Her weapons flaring with alien energy, Akali hunts only the worthy in a dangerous game of life and death. Striking from anywhere at any moment, no living thing can escape her trophy wall.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-03-23",
+    "earlysale": "2015-12",
+    "set": [
+      "Headhunter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Her weapons flaring with alien energy, Akali hunts only the worthy in a dangerous game of life and death. Striking from anywhere at any moment, no living thing can escape her trophy wall."
+  }
 }

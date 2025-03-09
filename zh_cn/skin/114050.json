@@ -169,6 +169,53 @@
     }
   ],
   "description": "菲奥娜大部分时间都是独自一人，决心从她父亲——上一支福牛守护者小队的一员——的失败中重振家族荣光。她认为队里的其他成员都没有足够认真地对待自己的职责，而她则一心想要避免又一个糟糕新年的出现，而这让她在队友们眼中显得孤高和冷淡。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 114050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-02-04",
+    "set": [
+      "Lunar Beast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Rose Quartz": {
+        "id": 57
+      },
+      "Ruby": {
+        "id": 52,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 55
+      },
+      "Tanzanite": {
+        "id": 54
+      },
+      "Vitality": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Fiora keeps mostly to herself, determined to reclaim her family's honor from her father's failure as a member of the last Ox Squad. She thinks the rest of the squad doesn't take their duties seriously enough, and her determination to avoid another disastrous New Year makes her seem standoffish and cold to her teammates."
+  }
 }

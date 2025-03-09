@@ -24,6 +24,25 @@
     }
   ],
   "description": "빛의 사도 최고의 자리에는 정의와 질서의 살아있는 화신으로서 감시자의 역할을 하는 정의의 사도들이 있습니다. 아트록스는 힘을 구현합니다. 혼란을 막는 것은 바로 그의 뛰어난 무력이기 때문이죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-06-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-06-12",
+    "set": [
+      "Justicar"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Aatrox embodies power, for it is his martial prowess that holds the chaos back."
+  }
 }

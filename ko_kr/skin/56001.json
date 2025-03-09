@@ -24,6 +24,19 @@
     }
   ],
   "description": "거대한 빙원 아래 어딘가에는 악마가 도사리고 있습니다. 그 악마는 자신의 영역에 들어오는 어리석은 자들의 공포를 먹고 자라죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-03-15",
+    "set": [
+      "Glacial"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "lore": "Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain."
+  }
 }

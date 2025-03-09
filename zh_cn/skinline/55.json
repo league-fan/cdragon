@@ -8,144 +8,818 @@
       "name": "南天之怒 沃里克 ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-08",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2019"
+          },
+          "Jasper": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Gifted to the Lunar Empress when she was a child, Warwick was raised alongside her to guard the immortal realm from an encroaching darkness. More beastly and feral than his companion Nasus, Warwick stands watch in the south, relentlessly pursuing foes to the ends of the world."
+      }
     },
     {
       "id": 22052,
       "name": "春晖神女 艾希",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22052,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 55
+          },
+          "Obsidian": {
+            "id": 60
+          },
+          "Pearl": {
+            "id": 59
+          },
+          "Resplendent": {
+            "id": 61,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 53,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 54
+          },
+          "Tanzanite": {
+            "id": 58
+          },
+          "Turquoise": {
+            "id": 57
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Her people slaughtered, Ashe—daughter of the Emperor of the Great Sea—sought solace on an abandoned island far from home. There, she made alliances with a strange serpent and a sinister would-be king, in the hope that their untapped might could help seize her empire back. It was a hard-fought victory, but the true battle is far from over: diplomacy."
+      }
     },
     {
       "id": 25010,
       "name": "紫金罗刹 莫甘娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-01-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 25010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-01-27",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "lore": "Morgana is a dark spirit who appears during Lunar Revel—a famed seducer of mortals, monsters, and gods alike. Legend says she ensnares the hearts and minds of her victims before dragging their souls away to an unspeakable purgatory, never to be heard from again."
+      }
     },
     {
       "id": 37004,
       "name": "古琴余韵 娑娜",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 37004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-10",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "chromas": {
+          "Golden": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2018"
+          },
+          "Meteorite": {
+            "id": 55
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ]
+      }
     },
     {
       "id": 51010,
       "name": "玉净夜叉 凯特琳",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-01-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 51010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-01-27",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2018"
+          }
+        },
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "lore": "A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen."
+      }
     },
     {
       "id": 54037,
       "name": "春晖山神 墨菲特",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 54037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Resplendent": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Tanzanite": {
+            "id": 43
+          },
+          "Turquoise": {
+            "id": 41
+          }
+        },
+        "splashartist": [
+          "Jack Hsu",
+          "West Studio"
+        ],
+        "lore": "Malphite was one of three guardians of the Yun Tal Empire, a demi-god of crag and magma, his brothers-in-arms a serpent of water and a spirit of nature. Their friendship ended in an instant, when one guardian's infinitesimal betrayal led to the death of another. Now, Malphite stands alone with unwavering loyalty, desperate to restore his nation's former glory, no matter the cost of lives. "
+      }
     },
     {
       "id": 62003,
       "name": "定海神珍 孙悟空",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 62003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-10",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Meteorite": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "lore": "Imbued with the power of the legendary jade dragon, Wukong has honed his abilities to a razor sharp point.Though still headstrong and brash, his newfound power is undeniable—a worrying sign to his master, as the jade dragon carries a powerful curse..."
+      }
     },
     {
       "id": 62005,
       "name": "美猴王 孙悟空",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-01-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 62005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-01-27",
+        "earlysale": "2016-07",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "An ascendant being of nearly limitless power, Radiant Wukong has undertaken a great journey to test his skills against history's greatest warriors. However, overcoming his quick temper and impulsive nature might be his greatest challenge yet."
+      }
     },
     {
       "id": 64003,
       "name": "龙的传人 李青",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2012-01-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 64003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-01-10",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Black": {
+            "id": 7
+          },
+          "Blue": {
+            "id": 8
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Jade": {
+            "id": 71
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 25
+          },
+          "Meteorite": {
+            "id": 53
+          },
+          "Royal": {
+            "id": 70
+          },
+          "Yellow": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          " Feodor Chin"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "A famed martial artist beloved the world over, Lee Sin prefers to train far away from the public eye, honing his craft in solitude. Rumors claim that he can punch with the fury of a dragon—but if anyone knows for sure, they're not talking."
+      }
     },
     {
       "id": 69004,
       "name": "碧玉之牙 卡西奥佩娅",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 69004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-02-08",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "An adherent to the teachings of the legendary jade dragon, Cassiopeia keeps its archaic rituals secret and the beast's true nature shrouded in mystery. In recognition she has been granted a fragment of the creature's power, and awaits the day when it will drown the world in evil."
+      }
     },
     {
       "id": 75011,
       "name": "北辰之威 内瑟斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 75011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-08",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Jasper": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "A gift to the young Lunar Empress, Nasus was raised alongside her to guard the immortal realm from an ancient darkness. Stoic but powerful, he stands watch in the north, annihilating all who would threaten the land."
+      }
     },
     {
       "id": 99008,
       "name": "春晖神女 拉克丝",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-02-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 99008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-08",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 12
+          },
+          "Peridot": {
+            "id": 10
+          },
+          "Rose Quartz": {
+            "id": 11
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Groomed from a young age to guard the immortal realm from darkness, the Lunar Empress and her companions are said to stand watch over the world. Lux, though a powerful demigod in her own right, draws aid from the ever-faithful Warwick and Nasus."
+      }
     },
     {
       "id": 121069,
       "name": "春晖海神 卡兹克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 121069,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 74
+          },
+          "Citrine": {
+            "id": 75
+          },
+          "Emerald": {
+            "id": 71
+          },
+          "Obsidian": {
+            "id": 77
+          },
+          "Pearl": {
+            "id": 76
+          },
+          "Resplendent": {
+            "id": 78,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 72
+          },
+          "Ruby": {
+            "id": 70,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 73
+          }
+        },
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Kha'Zix stalked the waters of Crescent Bay, his teeth and claws greeting anyone foolish enough to wander near. But there was something different about the Empress Ashe: she desired the same, unattainable power he craved. So he swore fealty to her—something he hadn't done in centuries—ready to fight by her side for a taste at the life he once led."
+      }
     },
     {
       "id": 131002,
       "name": "广寒仙子 嫦娥",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-01-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 131002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-01-28",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 5
+          },
+          "Peridot": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 4
+          },
+          "Turquoise": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ]
+      }
     },
     {
       "id": 223003,
       "name": "纳财大帝 塔姆",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-01-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 223003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-28",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 6
+          },
+          "Aquamarine": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 4
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Pat Duke"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy."
+      }
     },
     {
       "id": 246030,
       "name": "春晖神女 奇亚娜",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 246030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 37
+          },
+          "Pearl": {
+            "id": 38
+          },
+          "Resplendent": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "For some, forgiveness is a blessing; for Empress Qiyana, it is a necessity. Though the hostility between her empire and the Empire of the Great Sea is the fault of her sisters, she seeks atonement at this year's banquet. The only barrier to a reconciliation with Empress Ashe is her pride... and a centuries-old grudge between her guardian Malphite and a newly resurfaced giant serpent."
+      }
     },
     {
       "id": 412039,
       "name": "春晖大帝 锤石",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 412039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 46
+          },
+          "Emerald": {
+            "id": 42
+          },
+          "Granite": {
+            "id": 41
+          },
+          "Obsidian": {
+            "id": 47
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Resplendent": {
+            "id": 48,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Some are destined to rule. Others hear only echoes of glory, knowing nothing of the sacrifices that must be made! You must put your empire before EVERYTHING... even the lives of your subjects. The Emperor Thresh still guides his people, their souls forever safe, though their bodies were washed away. Someday, he'll heal his broken empire. All he needs is a kind empress' helping hand. "
+      }
     },
     {
       "id": 517001,
       "name": "窃魂修罗 塞拉斯",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-01-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 517001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-25",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 6
+          },
+          "Aquamarine": {
+            "id": 5
+          },
+          "Catseye": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 2
+          },
+          "Pearl": {
+            "id": 3
+          },
+          "Ruby": {
+            "id": 7,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Fergus O'Donnell"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "The hateful lord of the lunar wraiths, Sylas has waited eons to invade the heavenly realm, and depose its godly stewards. What happens to the balance between heaven and earth is not his concern; he simply craves chaos, and the hour of his triumph is fast approaching."
+      }
     }
   ]
 }

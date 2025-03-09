@@ -134,6 +134,55 @@
     }
   ],
   "description": "한때 우주 의회의 일원이었지만 우주에서 영영 추방당한 모데카이저가 돌아왔습니다. 미지의 힘으로부터 살아 돌아온 그는 자신이 창조한 별과 빛의 왕국을 소멸하고자 마음을 굳힌 듯합니다. 아직 우주의 갑옷을 착용하고 있지만, 그 안의 정신과 신체는 증오와 파괴만을 추구하는 뒤틀린 존재가 되었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 82006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      },
+      "Emerald": {
+        "id": 8,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Once a member of the Cosmic Court, Mordekaiser vanished from known space for an epoch—until now. Reborn and returned from an unknown destruction, Mordekaiser seems bent on unmaking the kingdoms of stars and light he once built. Though he still bears his Cosmic armor, the mind and figure within has been twisted and reforged to know only hatred and destruction."
+  }
 }

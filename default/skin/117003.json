@@ -101,6 +101,42 @@
     }
   ],
   "description": "Dragons, though feared, are still living things and can be befriended under the right circumstances. Lulu enthralled her small friend with whimsical magic... becoming the first ever dragon trainer.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-11-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 117003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-11-13",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Faye Mata"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Dragons, though feared, are still living things and can be befriended under the right circumstances. Lulu enthralled her small friend with whimsical magic... becoming the first ever dragon trainer."
+  }
 }

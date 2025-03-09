@@ -24,6 +24,23 @@
     }
   ],
   "description": "很少有當地人敢在鎮外的森林要糖搗蛋。在那個沉悶的林地裡有太多的人忽然消失，人們也會感覺到被看不見的眼睛所壓迫，甚至連樹木都被可怕的飢餓所驅使著...",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Volta Studio"
+    ],
+    "lore": "Few locals dare to trick-or-treat past the forest just outside of town. Too many have vanished within that dreary woodland, where one feels the weight of unseen eyes, and even the trees are driven by a terrible hunger…"
+  }
 }

@@ -77,6 +77,37 @@
     }
   ],
   "description": "身為一個心懷怨念的重炮專家，維迦有一個改不掉的壞習慣，那就是即使為了解決最平常的問題也不惜動用他的重炮。與其說是不好的習慣，他倒認為這是個「有趣的小怪癖」。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 45009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Bob Beal"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "A heavy artillery specialist with a serious chip on his shoulder, Veigar has a troubling habit of calling down huge amounts of explosive ordnance for even the most mundane problems. He thinks of it as “a fun quirk.”"
+  }
 }

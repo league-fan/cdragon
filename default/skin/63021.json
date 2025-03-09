@@ -160,6 +160,56 @@
     }
   ],
   "description": "Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 63021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Catseye": {
+        "id": 25
+      },
+      "Cerulean Club": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Turquoise": {
+        "id": 31
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions."
+  }
 }

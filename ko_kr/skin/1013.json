@@ -160,6 +160,53 @@
     }
   ],
   "description": "애니가 소의 해 수호단의 기술 담당자로 선정되자 모두 충격을 받았습니다. 조숙한 영재 애니는 수호단의 정찰 전략가로 일하며 퍼레이드 경로에 민간인이 없는지 확인합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1013,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Vitality": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "Everyone was shocked when Annie was chosen as Ox Clan's tech operative. A precocious prodigy, Annie serves as the team's recon strategist, making sure the parade route is clear of civilians."
+  }
 }

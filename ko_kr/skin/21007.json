@@ -157,6 +157,44 @@
     }
   ],
   "description": "친구들에게는 사라라고 불리는 미스 포츈은 현실 세계의 모든 총격전 게임에서 최고 점수를 유지하고 있는 것으로 유명하죠. 아케이드 세계에서는 어떤 표적이든 기꺼이 잡아내며 수단을 가리지 않고 점수를 따는 것으로 명성을 얻었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-08-12",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Aquamarine": {
+        "id": 10
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "K.O.": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Peridot": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "Miss Fortune (Sarah to her friends) is better known in the real world for holding the top scores in every shoot-em-up game ever created. In Arcade World, she's famed for earning those scores through whatever means necessary, willing to bring in any target for the right amount of points."
+  }
 }

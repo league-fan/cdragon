@@ -34,6 +34,27 @@
     }
   ],
   "description": "伊泽瑞尔的镀金盛会晚礼服非常适合皇室成员。这位时尚引领者戴着手工制作的鳞片和水晶犄角，带着使命来盛会：让迎接新年的不仅是一声巨响，还有一声巨吼。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81054,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 44,
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "West Studio"
+    ],
+    "lore": "Ezreal's gilded gala garb is fit for royalty. Adorned in hand-crafted scales and crystal horns, this tastemaker came to the party with a mission: ring in the New Year not just with a bang, but a roar."
+  }
 }

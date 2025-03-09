@@ -60,6 +60,33 @@
     }
   ],
   "description": "穢れた魔物を狩り続けたヴェインは、いつしか自分自身が魔物となった。歪んだ精神によって知覚能力にまで影響を受けたヴェインには、あらゆる生き物が敵に見えてしまう。今のヴェインは何のためらいもなく魂を奪う。どれほど非道な行いをしても、彼女の良心に傷がつくことはない。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2016-07-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 67010,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2016-07-28",
+    "set": [
+      "Soulstealer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "First Decennial": {
+        "id": 53
+      },
+      "Tenfold Triumph": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Once a hunter of all things tainted, Vayne has become the very thing she sought to destroy. Her twisted mind warps her perception, causing her to see an enemy in every living thing. She takes souls with impunity, with no stain of these vile deeds upon her conscience."
+  }
 }

@@ -246,6 +246,88 @@
     }
   ],
   "description": "승리의 세주아니는 2022 시즌에서 골드 이상을 달성한 플레이어에게 지급되었습니다. 가장 강한 전사들과 냉기의 화신이 모두 겨울 발톱 부족에 투항하자 프렐요드의 모든 부족은 왕국 최고의 장비로 무장한 세주아니 여왕의 뜻을 따르기 시작했습니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-11-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113036,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "release": "2022-11-15",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Flex Challenger": {
+        "id": 46,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Flex Diamond": {
+        "id": 43,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Flex Grandmaster": {
+        "id": 45,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Flex Master": {
+        "id": 44,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Flex Platinum": {
+        "id": 42,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Solo/Duo Challenger": {
+        "id": 41,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Solo/Duo Diamond": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Solo/Duo Grandmaster": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Solo/Duo Master": {
+        "id": 39,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      },
+      "Solo/Duo Platinum": {
+        "id": 37,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2023"
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Victorious Sejuani was awarded to players who reached Gold or higher in the 2022 season. After surrendering their strongest warriors and Iceborn to the Winter's Claw, all tribes of the Freljord now bend to the will of Queen Sejuani, clad in the finest gear her kingdom has to offer."
+  }
 }

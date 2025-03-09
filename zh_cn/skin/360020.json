@@ -160,6 +160,66 @@
     }
   ],
   "description": "海报很直截了当：“通缉：塔姆 - 恶魔，生死不论”，然后是一笔慷慨的巨款。只有机械恶魔可以给出这么多钱。莎弥拉不确定是什么原因，其他赏金猎人们好像被这么一次小小的恶魔狩猎给吓坏了。好吧，让他们靠边站吧。这个火药女巫可没那么容易被吓到。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 360020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-26",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 24
+      },
+      "Nomad": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Paragon": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 25
+      },
+      "Turquoise": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Emily O’Brien"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "The poster was straightforward enough: “WANTED: Tahm Kench - Devil, DEAD OR ALIVE”, followed by a generous sum. Only the Mechanical Devil's got that kinda cash to pay. Samira ain't sure why the other bounty hunters seemed so spooked by a little ol' devil hunt. Well, let 'em shy away. This gunpowder witch don't scare easy."
+  }
 }

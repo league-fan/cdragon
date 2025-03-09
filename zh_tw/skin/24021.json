@@ -25,6 +25,27 @@
     }
   ],
   "description": "用來紀念舉辦在雷克雅維克的 2021 季中挑戰賽（MSI）。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2021-04-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 24021,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2021-04-29",
+    "set": [
+      "Conqueror"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 20,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Foritis Wang",
+      "West Studio"
+    ],
+    "lore": "Celebrating MSI 2021 in Reykjavík."
+  }
 }

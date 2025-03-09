@@ -132,6 +132,55 @@
     }
   ],
   "description": "최근 빅토르가 만들어 낸 괴물, 전투 기계 나서스는 최우선 목표물을 되찾아 오는 임무에 특화되어 있습니다. 사냥감을 사냥하면서 정보를 습득하며 적응하도록 프로그래밍되어 있기 때문에 파괴력이 점점 커지고 강화되어 앞을 가로막는 것은 전부 말살합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Malex Zhang",
+      "Kudos Productions"
+    ],
+    "lore": "The latest monstrosity constructed by Viktor, Battlecast Nasus units specialize in the targeted retrieval of high-priority targets. As they hunt for their quarry, their machinery is programmed to learn and adapt, increasing their destructive capacity and empowering them to obliterate all that would stand in their way."
+  }
 }

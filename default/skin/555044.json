@@ -49,6 +49,34 @@
     }
   ],
   "description": "Condemned to death for petty crimes, then saved by the king and uplifted to glorious knighthood, Pyke served in the war against magic until the very end, only to be left alone in an ashen world without. Gripped by violent madness, he challenges all who pass, accusing them of being the ruler who abandoned him.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-03-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555044,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-03-30",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Condemned to death for petty crimes, then saved by the king and uplifted to glorious knighthood, Pyke served in the war against magic until the very end, only to be left alone in an ashen world without. Gripped by violent madness, he challenges all who pass, accusing them of being the ruler who abandoned him."
+  }
 }

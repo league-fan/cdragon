@@ -24,6 +24,20 @@
     }
   ],
   "description": "고객님 로봇의 다리가 부서져서 32년식 빈티지 개조 자동차로 교체하고 8기통 석탄 외연 엔진을 장착했습니다. 그리고 주먹에는 불꽃을 그려 넣었습니다. 불꽃에 대해서는 추가 비용이 청구됩니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2011-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2011-03-07",
+    "set": [
+      "Piltover Customs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra."
+  }
 }

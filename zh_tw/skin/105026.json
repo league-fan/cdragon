@@ -137,6 +137,55 @@
     }
   ],
   "description": "飛斯馴服了一隻侵略者米普，並透過與米普連結成功抵抗腐化，跌破了所有人的眼鏡。這項獨特的功績讓飛斯晉升到艦長的位置，他卻藉職務之便來對底下的隊員大肆惡作劇。現在他不是在欺負最喜歡的副官，就是用盡渾身解數對付腐化的壞蛋，保衛米並曰星的安全。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-24",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 34
+      },
+      "Aquamarine": {
+        "id": 29
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 33
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Fizz defied all expectations when he successfully tamed an invader meep and resisted its corruption through their link. His unique connection promoted him to captain, a status he uses to pull mischievous pranks on his team. But when he's not tormenting his favorite lieutenant, he's unleashing his tricks on corrupted evildoers to keep planet M33P safe."
+  }
 }

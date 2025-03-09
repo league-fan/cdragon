@@ -160,6 +160,60 @@
     }
   ],
   "description": "一名傳奇的 DJ，音樂館管理員以及汪星球的領導者。納瑟斯曾經被麗珊卓奴役—麗珊卓將他族人所有的律動唱片藏起來，讓他們無法再隨著音樂舞動。然而現在納瑟斯的迪斯可力量被激發，他會帶著自己的軍隊對抗致命又具衝擊性的布里喵與阿茨貓。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 30
+      },
+      "Catseye": {
+        "id": 27
+      },
+      "Disco": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A storied disc jockey, music librarian, and leader of the Dog Planet, Nasus was once under Lissandra's thrall—seizing all his people's grooviest records and hiding them away, never to be heard again. Yet now, with his heart opened to the power of disco, he leads his people in rebellion against the deadly shock troopers Blitz & Crank."
+  }
 }

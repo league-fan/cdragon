@@ -225,6 +225,68 @@
     }
   ],
   "description": "第一代屠龙勇士早在几百年之前就开始与他们的敌人交战了，在他们取得胜利后，整个大陆进入了一片祥和之中。然而当巨龙重回大地，大多数的战士早已去世，所有的重任就放在了布隆的肩上，他必须手持巨盾保护所有无辜的人民免遭其害。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-05-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 201001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-05-11",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 4
+      },
+      "Catseye": {
+        "id": 6
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Fan Pass": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Fan Pass Missions"
+      },
+      "LCS": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LEC": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "LPL": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Team Pass Missions"
+      },
+      "Obsidian": {
+        "id": 5
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 8
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent."
+  }
 }

@@ -172,6 +172,54 @@
     }
   ],
   "description": "A witch of some renown, Elise is widely feared by trick-or-treaters after that whole “human-sized cocoons” incident.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 60006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-22",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Meteorite": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 13
+      },
+      "Sapphire": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Sydney Rainin-Smith"
+    ],
+    "splashartist": [
+      "Viktoria Gavrilenko",
+      "West Studio"
+    ],
+    "lore": "A witch of some renown, Elise is widely feared by trick-or-treaters after that whole “human-sized cocoons” incident."
+  }
 }

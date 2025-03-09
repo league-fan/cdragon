@@ -25,6 +25,23 @@
     }
   ],
   "description": "니달리는 모자를 쓴 마녀일까요, 모자를 쓴 고양이일까요?",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 76005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-10-19",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Roxana Ortega"
+    ],
+    "splashartist": [
+      "Yan Li"
+    ],
+    "lore": "She is a cat. That is a hat. Legally, we're not allowed to put those two thoughts together."
+  }
 }

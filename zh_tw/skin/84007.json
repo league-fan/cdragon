@@ -62,6 +62,36 @@
     }
   ],
   "description": "阿卡莉的武器燃燒著外星能量，在生死交關的危險遊戲中，她只狩獵值得的目標。無論何時何地都能夠發動攻擊，沒有任何獵物能夠逃出掛在她戰利品展示牆上的命運。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-03-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 84007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-03-23",
+    "earlysale": "2015-12",
+    "set": [
+      "Headhunter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Her weapons flaring with alien energy, Akali hunts only the worthy in a dangerous game of life and death. Striking from anywhere at any moment, no living thing can escape her trophy wall."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "控え目で思慮深いソナは、ガーディアンの活動がないときは作曲家として過ごしている…だが、ひとたびガーディアンの任務が始まれば、驚異的な力を持つ戦士となり、音の力を込めたスターライトで敵を吹き飛ばす。ソナは言葉を話すことができないが、自分の言いたいことは行動で…そして通訳を務めるおしゃべりな使い魔の“チイズ”を通して伝えることができる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "Brilliant": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "West Studio"
+    ],
+    "lore": "Quiet and reflective, Sona spends her time away from the Guardians as a composer of music... and her time with them as a fighter of incredible power, blasting enemies away with sonically charged starlight. Though she cannot speak, she always makes her voice heard through deeds... or her chatterbox familiar-slash-interpreter, Chiizu."
+  }
 }

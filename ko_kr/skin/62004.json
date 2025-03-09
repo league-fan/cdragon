@@ -24,6 +24,26 @@
     }
   ],
   "description": "한때 오공은 스승의 엄격한 전통과 원칙 아래에 무예를 연마했습니다. 오공에게서 무한한 잠재력을 본 죽음은 그를 지하 세계로 데려갔습니다. 이제 더 이상 산 자들의 규칙에 얽매이지 않는 오공은 불멸의 무리와 함께 싸웁니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-10-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-10-28",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Once a pupil of the martial arts, Wukong trained under his masters' strict traditions and doctrines. In him, Death saw limitless potential, and chose to claim the disregarded student for the underworld instead. Now, Wukong fights alongside the undying hordes, no longer bound by the rules of the living."
+  }
 }

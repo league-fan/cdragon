@@ -129,6 +129,52 @@
     }
   ],
   "description": "十二支の神々が干支の遺物を創り出したとき、オレリオン・ソルはまさにその場にいた。彼と他の11名は、最初に遺物を守る使命を与えられた者たちであり、最初にその力を授けられた者たちだ。それから数世紀後、辰の干支の後継者は古代の脅威に対抗するため、オレリオン・ソルの協力を求めて彼を召喚した。その脅威が何なのか、彼は嫌というほど理解していた。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 136031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-02-22",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Opulent": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Neil Kaplan"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Zodiac forged their relics, Aurelion Sol was there. With him, eleven others: the first to be humbled with the task of guarding the artifacts, the first to be granted their powers. Centuries later, Aurelion Sol is summoned forth by his draconic descendant, desperate for his help against an ancient threat with which he is all too familiar."
+  }
 }

@@ -152,6 +152,58 @@
     }
   ],
   "description": "A demon of fear and chaos, Fiddlesticks was summoned directly into the mortal realm by Aatrox himself. It craves violence and the taste of blood, driven purely by instinct and compulsion as it tears through Ionia. Other demons follow in its wake, scavenging what remains of its carnage.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-18",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 41
+      },
+      "Citrine": {
+        "id": 39
+      },
+      "Emerald": {
+        "id": 40,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "Lejia Chan",
+      "Kudos Productions"
+    ],
+    "lore": "A demon of fear and chaos, Fiddlesticks was summoned directly into the mortal realm by Aatrox himself. It craves violence and the taste of blood, driven purely by instinct and compulsion as it tears through Ionia. Other demons follow in its wake, scavenging what remains of its carnage."
+  }
 }

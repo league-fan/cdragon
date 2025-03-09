@@ -137,6 +137,53 @@
     }
   ],
   "description": "트리스타나는 까탈스러운 왕실 근위대 병참장교이자 레이디 칼리스타의 새로운 오른팔로서, 온갖 마법 식물에 기반을 둔 무기를 만들어 여왕을 지키는 데 힘을 보탭니다. 대부분은 새싹이나 꽃, 덩굴, 이끼의 형태를 이루고 있지만, 실제로는 하나같이 엄청난 파괴력을 자랑합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18061,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-15",
+    "set": [
+      "Faerie Court"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 63
+      },
+      "Emerald": {
+        "id": 65
+      },
+      "Obsidian": {
+        "id": 68
+      },
+      "Pearl": {
+        "id": 66
+      },
+      "Ruby": {
+        "id": 62,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 64
+      },
+      "Tanzanite": {
+        "id": 69
+      },
+      "Turquoise": {
+        "id": 67
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "As plucky Quartermaster to the Royal Guard and Lady Kalista's new right hand fae, Tristana cultivates all sorts of magical plant-based weaponry to help protect Her Majesty the Queen! Most of them are some form of sprout, flower, vine, or moss. All of them are incredibly destructive."
+  }
 }

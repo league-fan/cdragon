@@ -24,6 +24,20 @@
     }
   ],
   "description": "가정 도우미 로봇으로 생산된 수천 개의 i블리츠크랭크들은 정기적인 소프트웨어 업데이트 중 프로그램에 의해 해킹당했습니다. 로봇들은 명령어가 실행될 때를 기다리며 이 사실을 모르는 인간 주인들을 계속 돕습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53006,
+    "formatname": "iBlitzcrank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-03-01",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Built as household assistance automata, thousands of iBlitzcranks were corrupted by Program during a routine software update. With their human owners oblivious to this fact, they continue to help, waiting patiently for the time their new command lines are initiated."
+  }
 }

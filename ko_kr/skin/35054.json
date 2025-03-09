@@ -160,6 +160,60 @@
     }
   ],
   "description": "단순한 장난감 속에 갇혀 밀수품, 곰팡이와 함께 바닥 밑에 버려진 샤코는 전 세계를 파멸에 빠뜨릴 음모를 꾸몄습니다. 샤코를 구속에서 풀어 주고 의식을 치를 바보 한 명만 있으면 됐죠. 하지만 샤코가 간과한 게 있습니다. 크리퍼웨이 캠프 참가자가 의식을 제대로 행할 거라고 기대해서는 안 된다는 사실이죠!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 56
+      },
+      "Emerald": {
+        "id": 57
+      },
+      "Ghoulish": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Obsidian": {
+        "id": 62
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 58
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 61
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Cast beneath the floorboards with contraband and mold, confined within a simple toy, Shaco plotted worldwide doom. All he needed was a fool to spring him from his bindings and perform the ritual rites, but he should have known—never trust a Creepaway camper to get a ritual right!"
+  }
 }

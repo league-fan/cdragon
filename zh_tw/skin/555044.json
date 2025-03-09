@@ -49,6 +49,34 @@
     }
   ],
   "description": "派克因微罪被判處死刑，隨後為國王所救，並賦予他光榮騎士團的身份。派克自此投身於對抗魔法的戰爭，奮鬥直到最後一刻，卻落得獨留於死灰世界的下場。在猛烈狂暴的支配下，他審問所有通過者，指控他們是棄他於不顧的無情統治者。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2022-03-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555044,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-03-30",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Condemned to death for petty crimes, then saved by the king and uplifted to glorious knighthood, Pyke served in the war against magic until the very end, only to be left alone in an ashen world without. Gripped by violent madness, he challenges all who pass, accusing them of being the ruler who abandoned him."
+  }
 }

@@ -160,6 +160,61 @@
     }
   ],
   "description": "누누의 머리가 베개에 닿을 때마다 침대 밑에서 톡톡 두드리는 소리가 들렸습니다. 윌럼프가 무시하라고 했지만 낑낑거리는 소리가 누누의 귀를 잡아끌었죠. 도저히 참을 수 없었던 누누는 밑으로 기어 들어가 작은 광대와 친구가 되었고, 광대는 누누의 꿈을 여름 캠프의 영광으로 채워 주었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-09-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "Fright Night"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 46
+      },
+      "Citrine": {
+        "id": 51
+      },
+      "Emerald": {
+        "id": 47
+      },
+      "Ghoulish": {
+        "id": 53,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 48
+      },
+      "Tanzanite": {
+        "id": 50
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Whenever Nunu's head hit his pillow, from under the bed came a tap-tap-tapping. Willump urged him to ignore it, but the yap-yap-yapping tugged at Nunu's ear. Unable to resist, he crawled beneath and made friends with a little clown who filled his dreams of summer camp glory."
+  }
 }

@@ -142,6 +142,54 @@
     }
   ],
   "description": "애니는 텔룸의 궁정 앞에서 마법의 힘을 드러내 소중한 곰 인형을 강철과 불꽃의 기사로 변신시켰습니다. 귀족들에겐 아찔한 광경이었지만 피오라 여왕은 그 잠재력을 높이 사 애니를 자신의 후계자로 임명했죠. 애니는 앞으로 있을 대관식에서 승리를 거머쥐기 위해 열심히 수련하는 한편... 스승인 피오라 여왕을 골탕 먹이는 일도 소홀히 하지 않고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-08-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 1050,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-08-28",
+    "set": [
+      "Battle Queens"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 52
+      },
+      "Obsidian": {
+        "id": 58
+      },
+      "Pearl": {
+        "id": 57
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 51,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 54
+      },
+      "Tanzanite": {
+        "id": 55
+      },
+      "Turquoise": {
+        "id": 53
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "Annie revealed her magical talents before Telum's royal court, transforming her dear teddy bear into a knight of steel and flame. Though a near-fatal display for many aristocrats, Queen Fiora embraced the child's potential and named her successor. Annie trains to triumph in a future Coronation… and causes a fair amount of mischief for her regal mentor."
+  }
 }

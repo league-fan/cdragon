@@ -141,6 +141,50 @@
     }
   ],
   "description": "星朵拉已經用殺球打爆了所有對手，而她的最終考驗即將到來：要怎麼樣才能不讓亂彈的排球再次砸到自己的隊友呢？",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 11
+      },
+      "Catseye": {
+        "id": 10
+      },
+      "Emerald": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rainbow": {
+        "id": 15
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Now that Syndra's aced all her opponents, it's time for her final test: prevent any rogue volleyballs from hitting her friends. Again."
+  }
 }

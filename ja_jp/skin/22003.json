@@ -24,6 +24,23 @@
     }
   ],
   "description": "野性の大地の伝説的な射手であるアッシュは、気まぐれな旅人が出会う最初で最後のウォード族の民だ。彼女の過去については何も知られていない。北方の道端に残された数体の亡骸を除いては。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-07-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-07-18",
+    "set": [
+      "Woad"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Concept Art House"
+    ],
+    "lore": "A legendary wilderness archer, Ashe is the first and last member of the Woad Tribe many a wayward traveler will ever meet. Nothing is known of her past, save for frozen corpses littering the northern trails."
+  }
 }

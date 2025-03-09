@@ -107,6 +107,49 @@
     }
   ],
   "description": "卡桑帝為自己在逆境中的領導能力感到驕傲自豪，但這可是無與倫比的艱鉅挑戰。他的境界已經消逝，只能在僅剩的時間苟且偷生，其他宇宙幻焰也沒有意識到某樣事物釋放了曙光。那是某樣邪惡的事物。他知道只有他們能修正這一切，但他們需要睜大眼睛、看清全局。他們需要一名領導者。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 897001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 4
+      },
+      "Neon Flare": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "DeObia Oparei"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "K'Sante prides himself on leading under adversity, but this is a challenge unlike any other. His realm is gone, he's living on borrowed time, and the other Empyreans don't realize that something released the Foreglow. Something bad. He knows only they can fix it, but they need their eyes opened. They need a leader."
+  }
 }

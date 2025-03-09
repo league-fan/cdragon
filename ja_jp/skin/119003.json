@@ -111,6 +111,39 @@
     }
   ],
   "description": "一方、ボットレーンではドレイヴン選手の圧倒的な活躍で相手レーナーが2人ともタワー下まで追い込まれています。あぁっと、ここでダイブです！ドレイヴン選手、華麗にサポートをキル！タワーがあまりのカッコよさに、まさかの攻撃を拒否！そのままADCも倒してダブルキル達成だー！タワーは恐怖のあまり自爆を選択したようだ！ドレイヴン選手、素晴らしい動きです！早速リプレイで見てみましょう。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-06-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-06-20",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again."
+  }
 }

@@ -137,6 +137,50 @@
     }
   ],
   "description": "シンドラは不祥事を起こしたゼドを支援してきたことで、長年に渡って祭典から遠ざけられていた。この屈辱にもはや我慢できなくなった彼女は祭典に潜入し、自身の体から滑らかに滴る有毒の血で水晶の薔薇を根本から蝕もうと考えている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134016,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Withered Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Syndra has been shunned from the festival for years over her support of the disgraced Zed. Unable to bear this slight any longer, she is determined to infiltrate the event and poison the very heart of the Crystal Rose itself with her sweetly dripping ichor."
+  }
 }

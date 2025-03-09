@@ -13,136 +13,574 @@
       "name": "众星之子",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "260",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "lore": "A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even healing those who would wish harm upon her. And, for all Soraka has seen of this world's struggles, she still believes the people of Runeterra have yet to reach their full potential."
+      }
     },
     {
       "id": 16001,
       "name": "森林女神 索拉卡",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-03T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-03",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "lore": "Too many forget that the heart of the Elderwood was once gentle and kind. Within its confines rested fae, sylvans, and dryads—creatures from another age, who looked upon humanity with curious eyes. Now only a scattered few remain, and fewer still, like Soraka, who regard humans fondly."
+      }
     },
     {
       "id": 16002,
       "name": "月光女神阿忒弥斯 索拉卡",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-11-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-02",
+        "set": [
+          "Otherroads"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ]
+      }
     },
     {
       "id": 16003,
       "name": "圣洁化身 索拉卡",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-03-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ]
+      }
     },
     {
       "id": 16004,
       "name": "灵魂收割者 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2014-11-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-11-05",
+        "set": [
+          "Death Sworn"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "With his silver tongue, Twisted Fate tricked the lords of the living to offer their beloved starchild to Death in exchange for their own immortality. Little did they know, eternal life without their avatar of compassion and mercy would result only in eternal suffering…"
+      }
     },
     {
       "id": 16005,
       "name": "蕉泥座人 索拉卡",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-03-31",
+        "earlysale": "2015-12",
+        "set": [
+          "High Society"
+        ],
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "lore": "Origins of the Order of the Banana date back nearly a year, when the idea of throwing a banana as a weapon first occurred to Soraka. Her and her fellow banana-ites swore an oath to uphold the Order of the Banana, promising to fling the yellow produce at anyone who decided to worship a different fruit. Especially pomegranates."
+      }
     },
     {
       "id": 16006,
       "name": "源代码 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-04-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-04-06",
+        "earlysale": "2016-08",
+        "set": [
+          "Program"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Program Soraka was created as a support bot to protect humanity's fragile nature, offering technological salvation at the hands of a mechanical angel. Infiltrated by corrupt code, it is unclear if this mission of mercy remains her prime directive."
+      }
     },
     {
       "id": 16007,
       "name": "星之守护者 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-09-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-06",
+        "earlysale": "2018-02",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 8,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen",
+          "Alex 'alexplank' Flores",
+          "Alvin Lee",
+          "Pan Chengwei",
+          "Jean 'Curing' Go"
+        ],
+        "lore": "A gentle soul with a mysterious origin among the stars, Soraka protects her team from behind the frontlines. Despite her shy appearance, she carries immense healing power and an unprecedented command of the Starlight, more than any other Star Guardian her team has encountered."
+      }
     },
     {
       "id": 16008,
       "name": "睡衣守护者 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-11-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-21",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "The other girls (and Ezreal) seemed excited for the pillow fights, and staying up all night talking. Soraka was most excited for the cinnamon rolls she brought from Pantheon's Pastries. But nothing makes her happier than seeing her friends smiling and laughing."
+      }
     },
     {
       "id": 16009,
       "name": "冬境仙灵 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-12-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16009,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-12-06",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A kindly duchess within the court of the Poro King, Soraka's lands are filled with beautiful animals made of pristine, enchanted ice. These menageries stretch for miles, tended by her retainers."
+      }
     },
     {
       "id": 16015,
       "name": "黎明使者 索拉卡",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 16,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "A child of the gods born when chaos slew order, Soraka contains within her the powers of both Riven and Yasuo. To end the conflict of the gods, she has embraced the light to pierce the darkness, drawing on the powers of dawn to bring order to the chaotic world."
+      }
     },
     {
       "id": 16016,
       "name": "黑夜使者 索拉卡",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 15,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "A child of the gods born when chaos slew order, Soraka contains within her the powers of both Riven and Yasuo. To end the conflict of the gods, she has embraced the darkness to soothe the blinding light, drawing on the powers of night to create chaos and change in a too-static world."
+      }
     },
     {
       "id": 16017,
       "name": "至臻 星之守护者 索拉卡",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-11-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16017,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-11-24",
+        "set": [
+          "Star Guardian Season 2"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "Leaving the planet behind with Xayah and the other Star Guardians, Soraka's full powers have been unlocked by her undying love for her friends—in the hopes that one day they will find their companion lost in the final battle with the Twilight Star, and be a family once again."
+      }
     },
     {
       "id": 16018,
       "name": "咖啡甜心 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Peridot": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Good food can be healing, and Soraka works hard to imbue every single pastry she makes with delicious magic that leaves her customers feeling more spritely than when they first walked in. Though her origins are mysterious, the whole cafe agrees: Soraka's work is out of this world!"
+      }
     },
     {
       "id": 16027,
       "name": "灵魂莲华 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 30
+          },
+          "Night Blossom": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 33
+          },
+          "Turquoise": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "In a secluded corner of the Akana forest, Soraka weeps for those she's lost. Each life cut short she longed to save, but for as many that welcome her as a savior, there are others who see her power as a merciless cruelty. To the Spirit of Pity, death is never a blessing."
+      }
     },
     {
       "id": 16037,
       "name": "玉剑传说 星仙子",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 43
+          },
+          "Turquoise": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way."
+      }
     },
     {
       "id": 16044,
       "name": "花仙子 索拉卡",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-15",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 46
+          },
+          "Emerald": {
+            "id": 48
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 52
+          },
+          "Turquoise": {
+            "id": 49
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Zoe Zhu",
+          "West Studio"
+        ],
+        "lore": "Soraka, the Court's royal herbalist, is a top-notch healer and expert on the powers contained in the materials of the natural world. There's no malady she can't handle with the right selection of plants and her trusty beetle buddies at her side! Except, perhaps, the malady at the heart of the Royal Court..."
+      }
     }
   ]
 }

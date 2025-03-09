@@ -124,6 +124,40 @@
     }
   ],
   "description": "蛋们都是立不稳的，对吗？它们是圆的。它们能被轻易打破。蛋们需要来次重大的整容。有请……提莫！他很可爱。他很恼人。但最重要的是，他将为你画彩蛋，也许会将一到两颗（或是七颗）变成危及生命的爆炸。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-04-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-18",
+    "earlysale": "2016-02",
+    "set": [
+      "Cottontail"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Aquamarine": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Speckled": {
+        "id": 11
+      },
+      "Turquoise": {
+        "id": 12
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Eggs are lame, right? They're round. They break easily. Eggs need a major facelift. Introducing… Teemo! He's cute. He's annoying. But most of all, he'll paint all your eggs for you, maybe turning one or two (or seven) into life-threatening explosives."
+  }
 }

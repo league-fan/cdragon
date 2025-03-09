@@ -77,6 +77,37 @@
     }
   ],
   "description": "作为欧米伽小队中司职破坏活动的成员，菲兹尤擅水下战斗。尚不清楚他在入队前参加过何种类型的行动，然而，他总把大海称为“一个满是鱼饵的大桶”。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Omega Squad's saboteur, Fizz is skilled in underwater combat. It is unclear what kind of action he saw before joining up, however, as he only ever refers to the sea as “a big bucket of chum.”"
+  }
 }

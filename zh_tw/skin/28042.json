@@ -160,6 +160,60 @@
     }
   ],
   "description": "多數人是透過艱苦鍛鍊讓靈魂覺醒，但這位鬥士……不是！她只是去了「凡間怪異滅絕根除司」一趟，然後砰，靈魂就覺醒了！眼鏡蛇之力。沒錯，顯然這個過程包含了「人類想像得到最痛苦的折磨」。但看看她現在的樣子！走遍天涯海角只為追捕那個已經無處可逃的女兒……這就是伊芙琳！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 28042,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-03",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 48
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Limitless": {
+        "id": 51,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Peridot": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 45
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 47
+      },
+      "Turquoise": {
+        "id": 46
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Most awaken their souls through hard work, but this fighter... no! All it took was a stop by the Department for the Eradication of Manifested Anomalies and boom! Cobra powers. SURE, apparently the procedure involves the \"worst pain one can possibly imagine.\" But look at her now! Here to hunt down a daughter with nowhere left to run... it's Evelynn!"
+  }
 }

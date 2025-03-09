@@ -170,6 +170,62 @@
     }
   ],
   "description": "애쉬는 브랜드의 파괴로부터 부족을 보호하며 수수께끼의 숲으로 들어갔습니다. 그곳에서 우연히 마주친 정령용은 애쉬의 어마어마한 힘과 부족에 헌신하는 마음을 느끼고 비전 마법이라는 축복을 내렸습니다. 이제 애쉬는 마법 주문으로 모두를 안전하게 지키며 복수할 기회를 엿보고 있습니다. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Emberclaw": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Jadeclaw": {
+        "id": 30,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rainbow": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "Ashe led her tribe into a mysterious forest to protect them from Brand's destruction. There, she happened upon the Fae Dragon, who sensed her immense power and devotion to her people and blessed her with its arcane magic. Now, Ashe weaves spells to keep them safe while biding her time for her revenge. "
+  }
 }

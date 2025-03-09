@@ -114,6 +114,49 @@
     }
   ],
   "description": "在弒龍者們與他們的宿敵進行一場艱苦的戰役時，崔絲塔娜正忙於自己私人且嚴格的馴龍計畫。在茂密的森林深處，一個遠離戰場的地方，崔絲塔娜正忙於訓練一隻幼龍 － 這是一項值得踹踹看的任務，倘若最後成功了，崔絲塔娜將獲得一段終身的友誼。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2015-12-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2015-12-03",
+    "earlysale": "2016-05",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Rainbow": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Victor '3rdColossus' Maury"
+    ],
+    "lore": "As the dragonslayers fought a bitter war with their nemeses, Tristana was busy with a draconic matter of her own. Deep in the wooded forests, away from the battles, she busily trained a young dragon—a trying task rewarded with lifelong friendship."
+  }
 }

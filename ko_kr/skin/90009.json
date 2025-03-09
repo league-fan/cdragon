@@ -132,6 +132,54 @@
     }
   ],
   "description": "세계가 되살아나면서 거인족 무리가 또 한 번 몰려왔습니다. 그중 가장 두려운 존재는 한때 동물의 위대한 수호자였던 말자하죠. 앞서 일어난 멸종으로 복수심과 분노에 사로잡힌 말자하는 신성한 주술사에서 암흑 마법을 다루는 마법사가 되어 온 세상의 생명체를 끝장내려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-09",
+    "set": [
+      "Worldbreaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "With the world revitalized, there came another wave of titans. Most fearsome of all was Malzahar, the once-great protector of animals. Vengeful over the horrors of the previous extinction, the holy shaman succumbed to anger, and there, in the depths of his rage, his magic turned dark, fueling a fury to end all life—from the depths of the seas to the peaks of mountains."
+  }
 }

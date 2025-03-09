@@ -160,6 +160,59 @@
     }
   ],
   "description": "口数の少ない敏腕実業家であり、重役用の豪華なスイートから“彼の”歓楽街を見下ろしている姿がよく目撃される。冷ややかな態度と裏腹に、イーは日々、上質な品々を楽しんでおり、世界的に有名な彼の夜会服には最高級の品質を要求する。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11042,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 49
+      },
+      "Catseye": {
+        "id": 44
+      },
+      "Cerulean Club": {
+        "id": 51,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 43,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 47
+      },
+      "Turquoise": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A powerful businessman of few words, often seen staring down on “his” strip from the comfort of his posh presidential suite. Despite his cold demeanor, Yi enjoys the finer things in life, and demands only the finest fits for his world-famous evening attire."
+  }
 }

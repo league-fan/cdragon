@@ -133,6 +133,54 @@
     }
   ],
   "description": "라칸은 언제나 입이 말썽이었습니다. 블라디미르의 물건을 훔치다 걸려서 죽을 뻔한 라칸은 깨어나 보니 불사의 영혼을 따르는 새로운 신자가 되어 있었습니다. 연인인 자야가 도와준 덕분이었죠. 자야가 라칸의 빚을 갚느라 떨어져 지내는 동안 라칸의 갈증은 커져만 갔습니다. 라칸은 점점 괴물이 되어가는 모습을 연인에게 보여주기가 두렵습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497027,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Rakan's mouth always got him into trouble, and after getting caught stealing from Vladimir and nearly killed, he awoke to find himself a newly turned Neverghaast, thanks to his beloved Xayah. In the time they've been separated while she repays his debt, Rakan can feel his thirsts grow and dreads showing his partner the monster he fears he's becoming."
+  }
 }

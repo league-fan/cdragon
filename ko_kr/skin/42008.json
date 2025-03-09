@@ -162,6 +162,48 @@
     }
   ],
   "description": "1980년대 진행형 슈팅 게임의 용맹한 주인공 그 자체, 코르키는 번쩍이며 날아오는 수천 개의 총알을 피할 때처럼 베이가의 중간보스들에 맞서 싸웁니다. 재빠르게 움직여 맞기 전에 먼저 쏘는 거죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 42008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2016-12",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 10
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "lore": "The fearless protagonist of a 1980s top-down shooter, Corki resists Veigar's battle bosses the same way he resists being shot down by thousands of glowing bullets—move fast, and shoot everything before it shoots him."
+  }
 }

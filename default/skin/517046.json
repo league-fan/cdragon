@@ -124,6 +124,52 @@
     }
   ],
   "description": "Sylas is a corruptant of the Dark Star, born from a civilization of shackles that was silenced in a collective cry for justice that never came. He lays low the forces of creation and destruction in an endless quest to destroy any and all structures of power. Heedless of morality, he seeks only to equalize the universe.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 517046,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 51
+      },
+      "Quasar": {
+        "id": 47,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rose Quartz": {
+        "id": 53
+      },
+      "Ruby": {
+        "id": 49,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Sylas is a corruptant of the Dark Star, born from a civilization of shackles that was silenced in a collective cry for justice that never came. He lays low the forces of creation and destruction in an endless quest to destroy any and all structures of power. Heedless of morality, he seeks only to equalize the universe."
+  }
 }

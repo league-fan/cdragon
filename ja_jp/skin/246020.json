@@ -137,6 +137,54 @@
     }
   ],
   "description": "“嵐”そのもののように激しい気性の持ち主であるキヤナは、ここ何年も生き延びた者がいないと警告されたにもかかわらず、「雲の儀式」に挑んだ。彼女の断固とした勇気に“嵐”が価値を見出したのかどうかは分からないが、彼女は今ではシェンの弟子となり、これまでに習得してきた他のエレメントと同様に、雷も会得する決心でいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-02-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-02-17",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Aquamarine": {
+        "id": 23
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Rose Quartz": {
+        "id": 26
+      },
+      "Ruby": {
+        "id": 22,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Tempestuous as the Storm itself, Qiyana braved the Cloud Ritual despite warnings that no one had survived in years. Perhaps it was her display of stubborn courage the Storm found worthy, or something else; either way, she is now Shen's student, determined to master lightning the same way she mastered the other elements."
+  }
 }

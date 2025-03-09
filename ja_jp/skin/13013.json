@@ -108,6 +108,48 @@
     }
   ],
   "description": "古の砂漠の守護者にして永遠の保全者、ライズ様。我らは自らの手で悪を生み出してしまいました。どうか我らを悪からお守り下さい。何者もこの神聖なる土地に足を踏み入れることのないように。貴方様の正義の魔法で、人々が砂丘の下に葬り去られないように。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-01-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 13013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-22",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Ryze, the eternal conservator—ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest your righteous magic entomb them beneath the dunes."
+  }
 }

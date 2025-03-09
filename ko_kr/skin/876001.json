@@ -148,6 +148,58 @@
     }
   ],
   "description": "수줍음 많은 사슴 영혼 릴리아는 신성한 아이오니아 숲의 수호자였습니다. 숲이 파괴되어 불바다가 되기 전까지는 말이죠. 상실감에 잠겨 영혼 세계에서 잠을 자는 릴리아는 아직 피어나지 않은 아주 작은 희망을 눈치채지 못한 채 끝없는 악몽에서 파괴의 순간을 다시 경험합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 876001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-22",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 5
+      },
+      "Night Blossom": {
+        "id": 9,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Spirit Blossom 2020"
+      },
+      "Obsidian": {
+        "id": 3
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 8
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Holly Earl"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "A shy fawn spirit, Lillia once served as the guardian of a sacred Ionian forest—until her grove was destroyed and cast into flame. Consumed by loss, she now slumbers in the spirit realm, reliving the destruction in an unending nightmare—unaware of the timid hope still waiting to bloom..."
+  }
 }

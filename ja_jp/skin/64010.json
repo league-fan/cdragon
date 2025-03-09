@@ -24,6 +24,26 @@
     }
   ],
   "description": "荒くれのピットファイター、K.O. リー・シンは地下リーグで名を上げたあと、血なまぐさいスポーツを離れて、より穏やかな環境の整った犯罪社会に移った。彼は現在、一部の裕福なギャングの親玉たちを相手に“フィクサー”として仕事を請け負っている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-05-31",
+    "earlysale": "2016-01",
+    "set": [
+      "Crime City"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "'Knockout' Lee Sin is a brutal pit fighter, who made his name in the underground circuit, before leaving the bloody sport for greener, more criminal pastures. He currently sells his services as a “problem-solver” to a select group of monied kingpins."
+  }
 }

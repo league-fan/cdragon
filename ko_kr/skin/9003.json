@@ -132,6 +132,51 @@
     }
   ],
   "description": "어느 날 먼지 가득한 황야를 달리다가 저 멀리 챙이 넓은 모자를 쓴 삐쩍 마른 무언가가 보인다면 뒤돌아보지 않고 빨리 도망치세요. 그렇지 않으면 피들스틱이라는 이름의 무시무시한 존재가 당신을 안장에서 끌어 내려 어둠 속으로 던져버릴 것입니다.",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-08-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 9003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-08-10",
+    "set": [
+      "High Noon"
+    ],
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Citrine": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Kellen Goff"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "If the day ever comes, riding those dusty trails, when a thin man in a wide hat appears far in the distance… run. Ride hard and fast and never look back, lest the horror known as Fiddlesticks drag you to from your saddle, and into darkness."
+  }
 }

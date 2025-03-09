@@ -91,6 +91,38 @@
     }
   ],
   "description": "森林精灵们要比他们周围的人类长寿，并且他们中的大部分都会专心致志地进行数个世纪之久的探索，哪怕只为了一小片他们帝国的遗失魔法。那些找到的，诸如凯尔，会被赐予凌驾于自然世界的惊人威能。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-06-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 10002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-06-01",
+    "set": [
+      "Albion"
+    ],
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "chromas": {
+      "Aquamarine": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      }
+    },
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world."
+  }
 }

@@ -252,6 +252,66 @@
     }
   ],
   "description": "每當發生混亂時，天龍國的龍民都會張大耳朵，看看能否聽到伊澤瑞爾的頑皮笑聲。伊澤瑞爾的惡作劇人畜無害，但別被他愛玩的性格所騙。他跟凱莎一樣，是皇家斥侯隊的精銳隊員，一起經歷過無數的冒險，也經常因他玩笑開得太過火而大打出手。假扮人類參加派對？這正是他最愛做的事。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-02-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 81044,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-02-07",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 60
+      },
+      "Auspacious": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Lunar Revel 2024 Premium Pass Bundle"
+      },
+      "Catseye": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 59
+      },
+      "Lustrous": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2024"
+      },
+      "Obsidian": {
+        "id": 64
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 58
+      },
+      "Tanzanite": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Joshua Raphael",
+      "West Studio"
+    ],
+    "lore": "Wherever chaos is sown, dragons across the kingdom know to listen for Ezreal's mischievous laughter. His japes are harmless, but don't let that merry spirit fool you: he is a shrewd royal scout alongside Kai'Sa who has braved many adventures between bouts of pranking. Dressing up like a human to go party? Now that sounds like his idea of a good time."
+  }
 }

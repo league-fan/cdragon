@@ -198,6 +198,59 @@
     }
   ],
   "description": "가장 어린 왕족이자 왕세자의 사촌인 스몰더는 리 신이 떠나는 모험이라면 그 어디든 따라가는 걸 그 무엇보다 좋아합니다. 계획에서 인간으로 변장해야 한다는 부분을 놓치고 말았지만, 용은 멋지게 차려입지 않아도 파티의 주인공이 될 수 있다는 걸 보여 주면 되죠!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-01-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 901001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-01-31",
+    "set": [
+      "Heavenscale"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Catseye": {
+        "id": 3
+      },
+      "Lustrous": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Peridot": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Georgie Cordova Kidder"
+    ],
+    "splashartist": [
+      "Fortune 'Fortuneee' K"
+    ],
+    "lore": "The youngest member of the royal family and cousin to the prince, Smolder likes nothing more than to tag along on any adventures Lee Sin gets up to. He may have missed the part of the plan that involves disguising himself as a human, but hey—he will show them that dragons don't need to dress up to be the life of the party!"
+  }
 }

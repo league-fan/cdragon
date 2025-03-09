@@ -137,6 +137,54 @@
     }
   ],
   "description": "尽管腥红之月教派内部离心离德，劫仍然是崔斯特不可动摇的得力助手和私属权力代理人。他用秘密、暗影和鲜血进行交易，同时利用他对魔鬼的掌控来提升这个教派的影响力。而崔斯特不知道的是，劫还在搜寻他的那个已被净雪之月给抢走的失踪助手。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238058,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-17",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 63
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "As loyalty fractures within the Blood Moon cult, Zed remains Twisted Fate's unshakable right hand and personal power broker. He trades in secrets, shadows, and blood, all while using his mastery over his demon to increase the cult's influence. What Twisted Fate doesn't know is that Zed is also searching for his lost acolyte, stolen by the Snow Moon."
+  }
 }

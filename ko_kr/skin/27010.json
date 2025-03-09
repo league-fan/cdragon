@@ -137,6 +137,55 @@
     }
   ],
   "description": "많은 저항군이 신지드가 불안정하다고 생각하지만 기계의 위협을 저지하는 데 신지드가 큰 도움이 된다는 사실은 부정하지 못합니다. 신지드에게 중요한 것은 어떤 수를 써서라도 빅토르의 창조물을 몰아내는 것뿐입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 27010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "voiceactor": [
+      "Unknown voice actor"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 15
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "splashartist": [
+      "Zhong Yang",
+      "Kudos Productions"
+    ],
+    "lore": "Though many in the Resistance find Singed unsettling, few can deny his efficacy in pushing back the machine threat. For Singed, the only thing that matters is driving back Viktor's creations, whatever the means."
+  }
 }

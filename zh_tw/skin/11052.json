@@ -160,6 +160,60 @@
     }
   ],
   "description": "根據傳說，劍士易大師終生只收過一位學徒。在遭受一次粗暴的背叛後，易殞滅了——並非因劍刃的血肉之傷，而是因破碎的心。現在，「傳承之靈」在靈界遊蕩著，找尋門生。他已失去了自我，任何拜他為師之人都會面對同樣的命運。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11052,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-06",
+    "set": [
+      "Spirit Blossom"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 81
+      },
+      "Emerald": {
+        "id": 83
+      },
+      "Night Blossom": {
+        "id": 88,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Obsidian": {
+        "id": 87
+      },
+      "Pearl": {
+        "id": 86
+      },
+      "Rose Quartz": {
+        "id": 84
+      },
+      "Ruby": {
+        "id": 80,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 82
+      },
+      "Turquoise": {
+        "id": 85
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Alsie Lau",
+      "West Studio"
+    ],
+    "lore": "Legends speak of Master Yi, a swordsman who took but one student in his lifetime. After an unceremonious betrayal, Yi perished—not from a blade, but from a broken heart. Now the Spirit of Legacy roams the spirit world, searching for a pupil. He is lost, anyone that joins him destined to face the same fate."
+  }
 }

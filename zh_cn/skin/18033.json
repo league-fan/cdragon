@@ -109,6 +109,47 @@
     }
   ],
   "description": "哇！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-01",
+    "set": [
+      "Definitely Not"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 35
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Peridot": {
+        "id": 36
+      },
+      "Rose Quartz": {
+        "id": 37
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Weh!"
+  }
 }

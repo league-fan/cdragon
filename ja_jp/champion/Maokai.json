@@ -13,88 +13,363 @@
       "name": "マオカイ",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2011-02-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-02-16",
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "lore": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his heartwood. Once a peaceful nature spirit, Maokai now furiously battles to banish the scourge of unlife from the Shadow Isles and restore his home to its former beauty."
+      }
     },
     {
       "id": 57001,
       "name": "炭火焼マオカイ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-02-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-02-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ],
+        "lore": "Once a steward of the gentle treefolk, Maokai was consumed along with his people when the Infernals ravaged the world. Now, brimming with rage, he seeks only to spread his anger and misery to anything that crosses his path."
+      }
     },
     {
       "id": 57002,
       "name": "トーテム マオカイ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-02-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-16",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ]
+      }
     },
     {
       "id": 57003,
       "name": "マオカイツリー",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "Big, jolly, and possessed by a literal holiday spirit, the living fir tree known as Maokai loves nothing more than to unwrap the presents tucked under him every year. He would prefer to do this away from the fire."
+      }
     },
     {
       "id": 57004,
       "name": "呪術師マオカイ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Volta Studio"
+        ],
+        "lore": "Few locals dare to trick-or-treat past the forest just outside of town. Too many have vanished within that dreary woodland, where one feels the weight of unseen eyes, and even the trees are driven by a terrible hunger…"
+      }
     },
     {
       "id": 57005,
       "name": "ゴールキーパー マオカイ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-06-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-06-18",
+        "retired": "2017-11-01",
+        "set": [
+          "Soccer Cup"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "lore": "Debuting in the 2014 Soccer Cup, much of Maokai's career has rested on the Order United goalposts growing out of his back. As Maokai is a giant tree, you have to be pretty good to score on him."
+      }
     },
     {
       "id": 57006,
       "name": "ミャオカイ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57006,
+        "formatname": "Meowkai",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-03-31",
+        "earlysale": "2016-09",
+        "set": [
+          "Cats Versus Dogs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Aquamarine": {
+            "id": 12
+          },
+          "Citrine": {
+            "id": 10
+          },
+          "Hearts": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Peridot": {
+            "id": 14
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Tanzanite": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Maokai has, at long last, embraced his role as a giant, haunted scratching post."
+      }
     },
     {
       "id": 57007,
       "name": "勝利の栄光マオカイ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2016-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57007,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2016-11-08",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "Victorious Maokai was awarded to players who reached Gold or higher in the 2016 season. Victorious Maokai lays down his roots fashionably with vines of golden leaves, and a rich blue and gold robe. "
+      }
     },
     {
       "id": 57016,
       "name": "天地の破壊者マオカイ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-04-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-09",
+        "set": [
+          "Worldbreaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Productions"
+        ],
+        "lore": "An immense tree-like golem, Maokai grew from the very roots of the world, charred though they were by the last annihilation. Burdened to revive the world after every destructive cycle, he wanders for all eternity, reseeding the earth with his magical saplings, making way for the renewal of life…  only for it to be undone once more."
+      }
     },
     {
       "id": 57024,
       "name": "宇宙飛行士マオカイ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-07-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-01",
+        "set": [
+          "Astronauts"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 31
+          },
+          "Turquoise": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "The first tree to grow on planet M33P, Maokai gained sentience due to the latent power of the meeps that took up residence in his trunk. He now fosters life on this new home of his, collecting and caring for young meeps that could use a helping hand (or branch)."
+      }
     },
     {
       "id": 57033,
       "name": "DRX マオカイ",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 57033,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-01",
+        "set": [
+          "World Champions: 2022"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 34,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Honoring Juhan's winning performance as Maokai during the 2022 World Championship."
+      }
     }
   ]
 }

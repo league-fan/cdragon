@@ -147,6 +147,56 @@
     }
   ],
   "description": "古靈精怪的飛斯十分嫉妒青蛙擁有的神奇歌聲，於是便自學唱歌和召喚風雨。雖然一開始刺耳又難聽，但不久之後，他的歌聲便開始催人淚下。飛斯已經等不及用他那神奇的歌喉讓大家淋成落湯雞了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-06-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-06-26",
+    "set": [
+      "Rain Shepherd"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "Citrine": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Meteorite": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The fiendish Fizz was so jealous of the magical singing voices frogs possess that he taught himself how to sing and summon the rains. Though earsplitting at first, before long his songs were drawing tears from his listeners. With his magical vocals, Fizz is now keen to rain on everyone's parades."
+  }
 }

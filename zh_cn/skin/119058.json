@@ -133,6 +133,56 @@
     }
   ],
   "description": "“仪式典礼的大师，家喻户晓的明星，他飞旋的刀斧就是竞技场的象征，有请：德——莱——文！”观众们以疯狂的热情迎接他上场，一片喧哗鼓噪。受崇拜的感觉永不乏味，而当德莱文成为全场焦点时，整个世界都在为他献上美妙的协奏。哦，对了，顺便也献给德莱厄斯。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 119058,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-03-05",
+    "set": [
+      "Grand Reckoning"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 61
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Paragon": {
+        "id": 67,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 63
+      },
+      "Tanzanite": {
+        "id": 64
+      },
+      "Turquoise": {
+        "id": 62
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "“The master of ceremonies, the host with the most, the axe-spinning icon of the arena himself... DRRRRRRRRRRRRRRRAVEN!” The crowd goes wild for his entrance, bursting into raucous applause. Adoration never gets old—and a show where he takes center stage is music to Draven's ears. Oh, and Darius is being celebrated too."
+  }
 }

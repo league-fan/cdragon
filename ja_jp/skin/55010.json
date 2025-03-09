@@ -24,6 +24,26 @@
     }
   ],
   "description": "死神の従僕となることを誓うために、定命の者は生を諦めなければならない。生前は腕利きのアサシンだったカタリナは、自ら進んでその邪悪な刃を捧げ、冥界を自在に出入りする霊的能力を与えられた。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-10-25",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "To fully swear oneself to Death's service, a mortal must be prepared to sacrifice the living. A skilled assassin in life, Katarina pledged her sinister blades willingly, and was granted spectral abilities allowing her to pass in and out of the underworld with ease."
+  }
 }

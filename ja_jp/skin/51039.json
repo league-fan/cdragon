@@ -171,6 +171,54 @@
     }
   ],
   "description": "あたしはお前の振る舞いが気に入らない。お前はまるでショッピングモールのプリンセス、あたしはただのドブネズミ。二人きりの時に見せるお前の表情が気に入らない。街ではあたしと一緒にいるのを、見られないようにしてるのに。そもそもこの関係、最初から大きな間違いだったのかもな。あたしといたくないなら、お前とはもう関わらない。けど、お前にその気があるなら、一緒にいてやるよ。──ヴァイ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-02-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51039,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-02-10",
+    "set": [
+      "Heartthrobs and Heartaches"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Obsidian": {
+        "id": 47
+      },
+      "Peridot": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 45
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "I hate the way you walk around, like you're Princess Caitlyn of the mall, and I'm just some gutter rat. I hate the way you look at me when there's no one else around, but wouldn't be caught dead with me in town. Maybe our whole thing was just a huge mistake. So if you want me to go, I'm gone. But ask, and I will stay. -Vi"
+  }
 }

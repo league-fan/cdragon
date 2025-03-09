@@ -133,6 +133,51 @@
     }
   ],
   "description": "格雷福斯可能一点都不在乎拯救世界，但破败之王妨碍了他的大展身手，让他无法忍受。当光明哨兵们前来召唤时，格雷福斯认为他可以扮演一次英雄——一次就足以确保这个世界仍能让他大展身手了。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-07-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-07-22",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Resolute": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway."
+  }
 }

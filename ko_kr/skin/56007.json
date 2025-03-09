@@ -141,6 +141,54 @@
     }
   ],
   "description": "고대 신들의 거대한 주검이 땅에 흡수되자 썩어 문드러진 나무정령조차도 잠깐이나마 자라는 듯 보였습니다. 하지만 신들은 완전히 죽은 것이 아니었고, 악의 여단마저 부활하면서 영원한 악몽 녹턴이 다시 깨어나고 말았죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-08-29",
+    "set": [
+      "Coven",
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare."
+  }
 }

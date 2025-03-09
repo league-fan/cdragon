@@ -48,6 +48,29 @@
     }
   ],
   "description": "據說在新年慶典期間，有種邪惡的幽靈會現身，凱特琳便是眾所皆知最愛干涉眾神與平凡生物之間事務的那一個。吸引到她注意的人無一不遭厄運纏身，甚至單單只是看到她的身影，都會被視為是相當不幸的徵兆。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-01-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-01-27",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "lore": "A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen."
+  }
 }

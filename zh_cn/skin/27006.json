@@ -33,6 +33,21 @@
     }
   ],
   "description": "即使是疯狂的炼金术士也需要放假，辛吉德也不例外。踩着他刚刚打磨的雪橇和便携暴雪背包（专利申请中），他已准备好主宰雪仗战场，一步一个脚印。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 27006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-12-19",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Unknown voice actor"
+    ],
+    "lore": "Even deranged chemists need a day off, and Singed is no exception. Riding into battle with his recently sharpened sled and (patent pending) Portablizzard backpack, he is ready to dominate the snowball game, one crushing victory at a time."
+  }
 }

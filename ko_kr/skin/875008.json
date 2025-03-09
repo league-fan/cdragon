@@ -177,6 +177,63 @@
     }
   ],
   "description": "어릴 적 따돌림을 받던 세트는 힘을 얻어 자신을 억누르려는 자는 누구든 파괴하겠다고 맹세했습니다. 그 투지와 살기를 느낀 흑요석용은 세트에게 흑요석처럼 단단한 피부를 주었습니다. 이제 세트는 이 초인적인 힘을 활용해 싸움꾼으로서 명성을 얻었습니다. 적들은 세트의 수정 같은 피부를 뚫을 수 없다는 사실에 벌벌 떨곤 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-01",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 24
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Citrine": {
+        "id": 25
+      },
+      "Emberclaw": {
+        "id": 20,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tenfold Triumph": {
+        "id": 55
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Once an outcast child, Sett swore he would gain power to destroy anyone who made him feel weak. The Obsidian Dragon took notice of his grit and ferocity and blessed him with obsidian-hardened skin. Sett now uses his superhuman strength to make a name for himself as a pit fighter, and every hit that bounces off his crystalline skin makes his enemies tremble."
+  }
 }

@@ -24,6 +24,17 @@
     }
   ],
   "description": "무게만 20톤이 넘는 바위 인간 말파이트는 사실 더 거대한 바위에서 떨어져나온 존재입니다. 그 거대한 바위는 파괴되었고, 말파이트는 바위와는 전혀 어울리지 않는 땅에 홀로 남겨졌죠. 이제는 그에게도 행운이 찾아올 때 아닐까요?",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-03-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 54001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-03-16",
+    "retired": "2011-11-28",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "lore": "Malphite is a twenty-ton rock man who used to be part of an even larger rock that was destroyed, leaving him orphaned on a distinctly un-rocklike plane of existence. The guy could use a little luck."
+  }
 }

@@ -118,6 +118,50 @@
     }
   ],
   "description": "锐雯生来就是一个灵息教众，从来没有怀疑过教众也会有恶行，直到她发现魔腾对绝息者们进行折磨并将他们喂给科加斯。尽管受了致命伤害，她依然与一个囚犯逃了出来，而这个囚犯为了拯救她的生命而将她转变成了绝息者。现在，作为一个有着无尽饥饿感的被放逐者，锐雯为了救赎她自己和她的腐化家庭而奋战着。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92055,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 62
+      },
+      "Emerald": {
+        "id": 60
+      },
+      "Obsidian": {
+        "id": 61
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 59
+      },
+      "Tanzanite": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "Born an Aspirant, Riven had no doubts about the congregation's evils until she discovered Nocturne torturing and feeding Neverghaast to Cho'Gath. Despite being mortally wounded, she escaped with a prisoner, who turned her into a Neverghaast to save her life. Now an exile with an endless hunger, Riven fights to redeem herself and her corrupted family."
+  }
 }

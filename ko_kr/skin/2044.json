@@ -147,6 +147,54 @@
     }
   ],
   "description": "다른 존재를 죽음으로 이끌듯 자신 역시 파멸로 몰아가는 지옥의 올라프는 지옥의 불꽃을 열렬히 받아들였습니다. 몸과 마음 모두 지옥의 불꽃에 바친 올라프는 잿빛 군주를 섬기기 위해 살아가며 자신의 앞을 가로막는 것은 무엇이든 없애려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 51
+      },
+      "Aquamarine": {
+        "id": 50
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 48,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rainbow": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 49
+      }
+    },
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "As self-destructive as he is deadly, Infernal Olaf fervidly embraced the Infernal flame. Giving himself over to it, body and soul, he lives to serve the Ashen Lord and will destroy anything and everything in his path."
+  }
 }

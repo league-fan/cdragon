@@ -53,6 +53,32 @@
     }
   ],
   "description": "2022 월드 챔피언십에서 케이틀린을 플레이한 Deft의 우승 기념 스킨",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51048,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-01",
+    "set": [
+      "World Champions: 2022"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 49,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Honoring Deft's winning performance as Caitlyn during the 2022 World Championship."
+  }
 }

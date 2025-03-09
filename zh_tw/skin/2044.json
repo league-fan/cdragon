@@ -147,6 +147,54 @@
     }
   ],
   "description": "歐拉夫有強烈的毀滅傾向，無論是自己還是他人都不放過，因此他毫不猶豫地投入了地獄火的懷抱。他將自己的身心完全獻給地獄火，只為服侍蒼火天尊而生，所經之處，無不摧毀殆盡。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-05-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2044,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-05-30",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 51
+      },
+      "Aquamarine": {
+        "id": 50
+      },
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 48,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rainbow": {
+        "id": 52
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 45,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 49
+      }
+    },
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "As self-destructive as he is deadly, Infernal Olaf fervidly embraced the Infernal flame. Giving himself over to it, body and soul, he lives to serve the Ashen Lord and will destroy anything and everything in his path."
+  }
 }

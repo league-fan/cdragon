@@ -152,6 +152,40 @@
     }
   ],
   "description": null,
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 104005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-09-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Citrine": {
+        "id": 8
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 12
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ]
+  }
 }

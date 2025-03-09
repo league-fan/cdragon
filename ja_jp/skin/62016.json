@@ -147,6 +147,57 @@
     }
   ],
   "description": "守護者のウーコンは守るべき者たちを失い、今ではエルダーウッドの奥深くに踏み入ろうとする者たちを苦しめている。彼の魔法の棒には無限の力が秘められており、それを求めてやって来た盟約の魔女たちに、ウーコンは村を破壊されてしまった。それ以来、彼は誰かを信頼することなど、愚の骨頂であると考えるようになった。その武器の水晶から溢れる光を見るたびに、この古代のトリックスターは自分が犯した過ちを思い出している。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-06-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 62016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-28",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23
+      },
+      "Aquamarine": {
+        "id": 21
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "A protector with no one left to protect, Wukong torments any creatures who dare traverse within the Elderwood's depths. After the Coven destroyed his village in search of his enchanted staff's limitless power, he learned that trust is a fool's luxury. The gleam from his weapon's crystals serve as a constant reminder of the ancient trickster's failure."
+  }
 }

@@ -151,6 +151,57 @@
     }
   ],
   "description": "Jarvan is the magnetism of chaos made real. Like the eye of a hurricane, his destruction inevitably sweeps up anyone and anything in his path. To him, chaos is the forge from which true gods are made, and only those that survive the war will be worthy to live in the new age of creation that follows.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-04-20",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 38
+      },
+      "Citrine": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 41,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 40
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Jarvan is the magnetism of chaos made real. Like the eye of a hurricane, his destruction inevitably sweeps up anyone and anything in his path. To him, chaos is the forge from which true gods are made, and only those that survive the war will be worthy to live in the new age of creation that follows."
+  }
 }

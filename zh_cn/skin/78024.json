@@ -181,6 +181,53 @@
     }
   ],
   "description": "波比带领着“不给糖就捣蛋”的冲锋。 她总是第一个到达，即使是在特别令人毛骨悚然的门阶，也毫不畏惧门的另一边的可怕幽灵——或可口糖果。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78024,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-07",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Obsidian": {
+        "id": 32
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Poppy leads the trick-or-treating charge. She's always the first to arrive, even at particularly creepy doorsteps, undaunted by whatever frightening spectre—or delicious treat—lies on the other side."
+  }
 }

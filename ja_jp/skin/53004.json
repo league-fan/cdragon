@@ -24,6 +24,20 @@
     }
   ],
   "description": "アンタのロボットは脚がダメになってたから、代わりに8気筒石炭エンジンを搭載した32年式ホットロッドのシャーシに乗せ変えてやった。ついでに両手にはファイヤーパターンをペイント、こっちは別料金を頂くぞ。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2011-03-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2011-03-07",
+    "set": [
+      "Piltover Customs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra."
+  }
 }

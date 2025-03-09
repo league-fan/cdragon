@@ -142,6 +142,53 @@
     }
   ],
   "description": "Lucian saw his wife perish during the alien Mezzorax's invasion of Ocono. He only survived thanks to Yone, who recognized a rage and loss burning in Lucian's heart much like his own. Lucian accepted a Hyperguise suit from his savior, and vowed to protect his planet—once he avenges his beloved.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2025-02-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 236062,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-02-20",
+    "set": [
+      "Masked Justice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 68
+      },
+      "Emerald": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 69
+      },
+      "Pearl": {
+        "id": 70
+      },
+      "Rose Quartz": {
+        "id": 67
+      },
+      "Ruby": {
+        "id": 63,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 66
+      },
+      "Tanzanite": {
+        "id": 65
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Lucian saw his wife perish during the alien Mezzorax's invasion of Ocono. He only survived thanks to Yone, who recognized a rage and loss burning in Lucian's heart much like his own. Lucian accepted a Hyperguise suit from his savior, and vowed to protect his planet—once he avenges his beloved."
+  }
 }

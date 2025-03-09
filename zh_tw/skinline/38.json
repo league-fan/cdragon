@@ -8,152 +8,554 @@
       "name": "白鬍法師 雷茲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-12-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 13009,
+        "formatname": "Ryze Whitebeard",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-12-07",
+        "earlysale": "2016-04",
+        "set": [
+          "Rift Quest"
+        ],
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Ryze likes to take time out of his rune hunting to play games of Riftquest as a tome-wielding, scroll protecting wizard also named Ryze. The difference, he will often point out, is that his own beard is black—Ryze Whitebeard's beard is white, plus he has hat."
+      }
     },
     {
       "id": 14002,
       "name": "蠻族戰士  賽恩",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-09-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 14002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-09-26",
+        "set": [
+          "Rift Quest"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart",
+          "Christian Fell"
+        ],
+        "lore": "Avoiding every social cue his roleplaying group throws his way, Sion has repeatedly rolled barbarians only to die immediately after rejoining the table. At this point he's spent more time working on character sheets than actually playing Rift Quest, and it shows: his newest barbarian's backstory reads, “Is a barbarian.”"
+      }
     },
     {
       "id": 16003,
       "name": "祈月德拉妮 索拉卡",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-03-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 16003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ]
+      }
     },
     {
       "id": 20005,
       "name": "鐵甲雪人 努努和威朗普",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-08-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 20005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-24",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Serving as soldiers of fortune in pitched battles across the land, Demolisher Nunu & Willump are metal as ferro-bonded steel, and ready to introduce a flute-mace to your face."
+      }
     },
     {
       "id": 29027,
       "name": "影足神弩 圖奇",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 29027,
+        "formatname": "Twitch Shadowfoot",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-19",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 28
+          },
+          "Amethyst": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'."
+      }
     },
     {
       "id": 30009,
       "name": "邪光術士 卡爾瑟斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 30009,
+        "formatname": "Karthus Lightsbane",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-11-17",
+        "earlysale": "2017-04",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "lore": "Dark sorcerer, master of forbidden magic, aspiring lich—all could describe Karthus Lightsbane, a high level spellcaster with shadowy motivations. The rest of the party is convinced he'll eventually betray them, since nothing in the Riftquest rules says he can't."
+      }
     },
     {
       "id": 36006,
       "name": "歐格瑪獸人 蒙多醫生",
       "rarity": "kRare",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-07-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 36006,
+        "formatname": "Rageborn Mundo",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-27",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "There are many tales of the Rageborn menace: that he's slain dragons with a single cleave, that the mightiest wizards cannot halt his advances, that no noble knight foolish enough to try and stop him has ever come back alive. The accounts often contradict each other, but the one thing they all agree on is this: Where Mundo goes, no one else pleases."
+      }
     },
     {
       "id": 44009,
       "name": "光輝聖盾 塔里克",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 44009,
+        "formatname": "Taric Luminshield",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-19",
+        "set": [
+          "Rift Quest"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Amethyst": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Peridot": {
+            "id": 14
+          },
+          "Rainbow": {
+            "id": 15
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "lore": "A battle cleric who has to simultaneously tank and heal for a pair of bumbling rogues, Taric Luminshield may be the only thing keeping his table from a total party wipe. In-universe he's a devout warrior of the Divine Goddess Targonius, but out of universe he'd rather be in a different campaign."
+      }
     },
     {
       "id": 45003,
       "name": "魔戒灰袍 維迦",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2010-09-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 45003,
+        "formatname": "Veigar Greybeard",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-09-08",
+        "set": [
+          "Rift Quest"
+        ],
+        "voiceactor": [
+          "Bob Beal"
+        ],
+        "lore": "A suspiciously helpful wizard the party meets early in their adventure, Veigar Greybeard holds a dastardly secret—he's the true villain of Riftquest! Of course, this is obvious to anyone who played the starter campaign, but you still shouldn't spoil it for newcomers."
+      }
     },
     {
       "id": 79009,
       "name": "爆桶騎士 古拉格斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-12-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 79009,
+        "formatname": "Gragas Caskbreaker",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-12-07",
+        "earlysale": "2016-06",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "J.S. Gilbert"
+        ],
+        "lore": "Gragas Caskbreaker is described in legend as both a pious, sun-worshipping cleric and a despicable drunk, depending on who tells the tale. He's not too familiar with Riftquest, but he does like fighting dragons and passing out in the middle of his combat actions."
+      }
     },
     {
       "id": 82004,
       "name": "魔域戰神 魔鬥凱薩",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-05-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 82004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-10",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Some of Mordekaiser's party complain that the Dark Paladin class is horribly overpowered and should be banned, despite its official inclusion in the latest Riftquest expansion. The rest of them are still waiting to discover the Dark Paladin's secret, redeeming, tragic backstory—but all they've been getting is a lot of murder instead."
+      }
     },
     {
       "id": 86005,
       "name": "森林遊俠 蓋倫",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-08-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 86005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-08-15",
+        "set": [
+          "Rift Quest"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Also known as “Handsome Garen,” this wandering warrior and extremely original NPC was created by Braum for his Riftquest game. Garen eventually adopted the character as his own, liking the fantasy of himself, but rugged."
+      }
     },
     {
       "id": 91020,
       "name": "黯木刺客 塔隆",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 91020,
+        "formatname": "Talon Blackwood",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-19",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Peridot": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "The sworn brother of Twitch Shadowfoot, dashing assassin extraordinaire Talon Blackwood is one half of an infamous underworld duo and the only advanced class in the entire party. He's also a brooding dark elf antihero with a tragic backstory, who is fated to one day save the world! Probably."
+      }
     },
     {
       "id": 110005,
       "name": "迅捷獵人 法洛士",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-12-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 110005,
+        "formatname": "Varus Swiftbolt",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-12-07",
+        "earlysale": "2016-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "lore": "Two archers cursed by an ancient, evil monster, Varus is roleplaying one archer cursed by an ancient, evil monster. It's not much of a departure for him, but Varus is way better at hunting Noxians than playing tabletop games."
+      }
     },
     {
       "id": 113007,
       "name": "黎明獵人 史瓦妮",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 113007,
+        "formatname": "Sejuani Dawnchaser",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-11-17",
+        "earlysale": "2017-04",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Riding her dire lion into the thick of combat, Sejuani Dawnchaser is an intimidating foe for all but the greatest Riftquest threats. Sadly not the most careful roleplayer, she's on her fourth dire lion this campaign."
+      }
     },
     {
       "id": 122001,
       "name": "諾城霸主 達瑞斯",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-05-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 122001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-05-22",
+        "set": [
+          "Rift Quest"
+        ],
+        "voiceactor": [
+          "Chuck Kourouklis"
+        ]
+      }
     },
     {
       "id": 126004,
       "name": "光明錘士 杰西",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 126004,
+        "formatname": "Jayce Brighthammer",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-11-17",
+        "earlysale": "2017-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A noble paladin who has inexplicably mastered science and engineering, Jayce Brighthammer is a stout ally no foul creature can best! Unless that foul creature is a loophole in the rulebook, since Jayce likes to get any advantage over the Rift Master he can."
+      }
     },
     {
       "id": 201003,
       "name": "雄心戰士 布郎姆",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-12-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 201003,
+        "formatname": "Braum Lionheart",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-12-07",
+        "earlysale": "2016-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "lore": "The strongest, bravest knight in all the land, people love Braum Lionheart and his daring tales of adventure! He's definitely not a stickler for 7th-edition Riftquest rules, and there are certainly not snax stains on his character sheet. That would be unbecoming of such a gallant warrior."
+      }
     },
     {
       "id": 432006,
       "name": "吟遊詩人 巴德",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-11-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 432006,
+        "formatname": "Bard Bard",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-11-17",
+        "earlysale": "2017-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Though playing a famously unpopular Riftquest character class, Bard Bard has turned the ancient art of song into a reality-altering weapon of death. Unfortunately his turns take forever, since he has no concept of linear time and speaks in those weird “bwong” sounds."
+      }
     }
   ]
 }

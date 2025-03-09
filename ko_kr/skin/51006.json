@@ -24,6 +24,24 @@
     }
   ],
   "description": "케이틀린이 이 세계의 것이 아닌 장비를 갖춘 건, 상대와 수준을 맞추기 위함이 아닙니다. 사냥할 때마다, 표적을 겨냥할 때마다, 방아쇠를 당길 때마다 명중시키기 위함이죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-09-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-09-03",
+    "set": [
+      "Headhunter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "Caitlyn's arsenal of alien weaponry isn't meant to level the playing field. It's to ensure that every hunt, every target, and every shot she takes goes exactly the way she wants it to."
+  }
 }

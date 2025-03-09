@@ -25,6 +25,26 @@
     }
   ],
   "description": "狂派機甲 史加納是鋪路機早期的原型，但它的身上卻有著其他模組不曾擁有的憤怒情緒。也許它想要在萬物身上施加它所經歷的一切痛苦 － 又或者它只是純粹喜愛殺戮。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2014-11-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 72003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2014-11-25",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Imari Williams"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "Kudos Productions"
+    ],
+    "lore": "An early prototype that would pave the way for the Battlecast machines, Alpha Skarner is possessed of an extreme rage not seen in later models. Perhaps the brain inside it wishes to inflict as much pain as it experiences—or maybe it just likes to kill things."
+  }
 }

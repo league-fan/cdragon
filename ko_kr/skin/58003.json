@@ -24,6 +24,20 @@
     }
   ],
   "description": "피에 굶주린 이 살인 기계는 혈석의 갈증을 해소하기 위해 전장을 배회합니다. 피를 많이 볼수록 힘은 더 강해지며, 끝날 줄 모르는 광란의 살육이 이어집니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-07-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-07-26",
+    "set": [
+      "Bloodstone"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "This blood-crazed killing machine scours the battlefield to sate the Bloodstone. The more he slays, the more he fuels his powers. This in turn feeds his frenzy, creating a never ending cycle of spilt viscera and gore."
+  }
 }

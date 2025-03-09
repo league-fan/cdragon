@@ -137,6 +137,54 @@
     }
   ],
   "description": "随着战地机甲大军的崛起，约里克惊恐地发现，维克托融合到他机器上的鲜活意识将他猎物们的灵魂都束缚在了它们的机器躯体上。约里克利用他命令亡者的能力，复活了很多已被摧毁和已被击败的战地机甲外壳，试图将这些灵魂从它们的机械监牢中解救出来。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-11-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 83012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-12",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "With the rise of the Battlecast armies, Yorick found to his horror that the living minds Viktor fused to his machines bound the souls of his victims to their machine bodies. Harnessing his ability to command the dead, Yorick now raises destroyed and defeated Battlecast husks in an attempt to free all these souls from their machine prisons."
+  }
 }

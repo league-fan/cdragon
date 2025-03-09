@@ -195,6 +195,47 @@
     }
   ],
   "description": "なあ。この宇宙のどっかにはよ、グラッギーアイスに見向きもしねえ別のオレがいたりすんのか？ガハハ、だよな！いるわけねえよな！",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2010-12-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 2003,
+    "formatname": "Brolaf",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2010-12-01",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Citrine": {
+        "id": 8
+      },
+      "Granite": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Tanzanite": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Logan 'Lomar' Margulies"
+    ],
+    "lore": "Bro. You think like, there's another version of me somewhere else not having a cold Graggy? Haha nah me neither."
+  }
 }

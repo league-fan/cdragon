@@ -138,6 +138,54 @@
     }
   ],
   "description": "夜曲是生命之息教最早加入的成員，他早已捨棄肉身之軀，以獲取純粹的生命之息，因此樂於擔任幕後的領導者。好幾個世紀以來，教徒們在地下墓穴中默默地填滿生命之息祕井，而這口井的守護者就是夜曲。與此同時，他也努力地製作能夠永遠消滅不滅鬼神的邪惡兵器。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "As the oldest member of the Aspirants, Nocturne is content to lead from the shadows, having long ago exchanged their physical form for pure Aspira. Within the catacombs, they jealously guard the vast well of Aspira the congregation has filled over the centuries, toiling away at the unholy weapon that will destroy the Neverghaast once and for all."
+  }
 }

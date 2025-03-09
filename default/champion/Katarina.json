@@ -13,152 +13,683 @@
       "name": "Katarina",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "790",
-      "wikiReleaseDate": "2009-09-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-09-18",
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Suke 'hugehugesword' Su"
+        ],
+        "lore": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven her to pursue heavily-guarded targets, even at the risk of endangering her allies—but no matter the mission, Katarina will not hesitate to execute her duty amid a whirlwind of serrated daggers."
+      }
     },
     {
       "id": 55001,
       "name": "Mercenary Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Suke 'hugehugesword' Su"
+        ]
+      }
     },
     {
       "id": 55002,
       "name": "Red Card Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-06-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-24",
+        "set": [
+          "Soccer Cup"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "lore": "Is that a regulation uniform? No. Should a referee be holding a large dagger in the middle of a sports game? No. Are you going to argue with a woman in a non-regulation uniform holding a large dagger in the middle of a sports game? I think we both know the answer to that."
+      }
     },
     {
       "id": 55003,
       "name": "Bilgewater Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-08-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-08-29",
+        "retired": "2017-11-01",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "lore": "To outsiders, the politics of Bilgewater seem a mean mess of villainous scum and dishonorable thieves. But woven throughout are complex loyalties, solemn codes of honor, and a very specific (if bloody) way of doing things. Cutting through it all is Katarina, a master of the blade. She silences the right tongues at all the right moments… for the right price."
+      }
     },
     {
       "id": 55004,
       "name": "Kitty Cat Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "lore": "There are times when Katarina deeply questions the parameters of her assassination missions. This is, somehow, not one of those times."
+      }
     },
     {
       "id": 55005,
       "name": "High Command Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2011-02-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-02-22",
+        "set": [
+          "Bilgewater: Mercs"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ]
+      }
     },
     {
       "id": 55006,
       "name": "Sandstorm Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-01-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-02",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Robin Ruan"
+        ]
+      }
     },
     {
       "id": 55007,
       "name": "Slay Belle Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-12-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Concept Art House"
+        ],
+        "lore": "Donning a mishmash of Snowdown fashions to throw targets off her scent, Katarina uses the holidays as a cover for high profile assassinations. If you hear the sound of jingle bells... run."
+      }
     },
     {
       "id": 55008,
       "name": "Warring Kingdoms Katarina",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-02-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-02-10",
+        "earlysale": "2015-12",
+        "set": [
+          "Lunar Revel: Warring Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 11,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2018"
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "In open defiance of her clan, Katarina has left behind the life of a princess to hunt the greatest heroes of the Warring Kingdoms. Striking under shadow of night, she is slowly cutting her way through her foes… one general at a time."
+      }
     },
     {
       "id": 55009,
       "name": "PROJECT: Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-08-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55009,
+        "formatname": "PROJECT: Katarina",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Once an ambitious lieutenant in the G/NETIC rebellion, Katarina returned to the Command Line after a confrontation with Ashe herself. Her hyper edge daggers now serve PROJECT once more, but those rebels who knew her still hold out hope that she fights for them from the inside."
+      }
     },
     {
       "id": 55010,
       "name": "Death Sworn Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-10-25T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-10-25",
+        "set": [
+          "Death Sworn"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "To fully swear oneself to Death's service, a mortal must be prepared to sacrifice the living. A skilled assassin in life, Katarina pledged her sinister blades willingly, and was granted spectral abilities allowing her to pass in and out of the underworld with ease."
+      }
     },
     {
       "id": 55012,
       "name": "Battle Academia Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-05-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 18
+          },
+          "Formal": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 16
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "Katarina is a rough-edged loner who stays far away from the politics of Durandal Academy. A 2nd year student with a chip on her shoulder, she is also a top member of the Assassin Club—the only club on campus allowed to kill opponents in school-sanctioned duels. Few other students ever dare approach her."
+      }
     },
     {
       "id": 55021,
       "name": "Blood Moon Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-02-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "An honored priestess of the Blood Moon cult, merged with the flesh of her demon as all priestesses are fated to be. Yet the descent of the Blood Moon has changed the nature of demons and humankind, and Katarina has begun her ascent into a newer, darker form."
+      }
     },
     {
       "id": 55029,
       "name": "Battle Queen Katarina",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-12-10",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Coronation": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 32
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Katarina won the Schemean crest with a ruthless performance in her queendom's battle pits. For Schema to break free of its humble alliances and become the region's rightful leader, it will take a similarly commanding performance in the Coronation—and Katarina has never been more prepared to cement her fearsome status as the rightful queen of queens."
+      }
     },
     {
       "id": 55037,
       "name": "High Noon Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-12",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 40
+          },
+          "Nomad": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "High Noon 2022"
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "West Studio"
+        ],
+        "lore": "“My people got swindled. I aim to collect what we're owed,” the Outsider says, pinning her dagger in a wanted poster of the Mechanical Devil. Her eyes burn like stoked coal as she fixes each dusty traveler in her gaze, “And I hear y'all plan on jumpin' the Sulfur Rail, Harbingers. If you're gonna take this devil down, I want in.” "
+      }
     },
     {
       "id": 55047,
       "name": "Faerie Court Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55047,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 51
+          },
+          "Citrine": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 55
+          },
+          "Ruby": {
+            "id": 49,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 56
+          },
+          "Turquoise": {
+            "id": 53
+          },
+          "Winsome": {
+            "id": 57,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Faerie Court 2023"
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Though Katarina is an official diplomatic envoy hailing from the Unseelie Court of Truth and Shadow, you wouldn't know it from all the side-eyed glances and disapproving frowns she receives from closed-minded courtiers. No matter: with daggers in hand and a mystery afoot, Katarina has her own agenda."
+      }
     },
     {
       "id": 55048,
       "name": "Prestige Faerie Court Katarina",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55048,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 47,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Don't let the butterflies fool you: otherworldly elegance may be Katarina's game, but that gala-ready look is sharper than her knives. Fashion is a metamorphosis, after all. Try to keep up."
+      }
     },
     {
       "id": 55059,
       "name": "Chosen of the Wolf Katarina",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55059,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-11-06",
+        "set": [
+          "Chosen of the Wolf"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 62
+          },
+          "Obsidian": {
+            "id": 67
+          },
+          "Pearl": {
+            "id": 68
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 61,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 64
+          },
+          "Tanzanite": {
+            "id": 65
+          },
+          "Turquoise": {
+            "id": 66
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "An assassin was welcomed into our realm, dear Wolf. Though she moves in shadow, she strikes fear in the hearts of her foes. That caught your attention, didn't it? Her speed. Her violence. Her conviction. A welcome addition to the Eternal Chase."
+      }
     },
     {
       "id": 55060,
       "name": "Prestige Masque of the Black Rose Katarina",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 55060,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "2025, S1 Act 1 Premium Battle Pass reward (Level 50)",
+        "release": "2025-01-09",
+        "set": [
+          "Masque of the Black Rose"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Enigma": {
+            "id": 69,
+            "availability": "Limited",
+            "source": "Limited",
+            "distribution": "Event Pass Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Your mission is confirmed. Strike at the Silken Danse. The eighth night after the new moon, at the manor of House Kythera. Masquerade ball—dress in the attire of Noxian noblesse. Enclosed is an invitation and portrait of the mark. Method is yours to decide. Burn this message and hone your steel. (The letter is unsigned.)"
+      }
     }
   ]
 }

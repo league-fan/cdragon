@@ -133,6 +133,54 @@
     }
   ],
   "description": "먹기 좋은 음식은 건강에도 좋죠. 그래서 소라카는 만드는 빵마다 맛있는 마법을 불어넣어 손님들이 가게에 들어섰을 때보다 기분 좋게 떠나실 수 있게 노력합니다. 대체 그녀가 어디 출신인지는 몰라도, 카페에 있는 모두가 소라카의 실력 하나는 인정한답니다!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-12-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-12-02",
+    "set": [
+      "Cafe Cuties"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 20
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Peridot": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Tanzanite": {
+        "id": 23
+      },
+      "Turquoise": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Good food can be healing, and Soraka works hard to imbue every single pastry she makes with delicious magic that leaves her customers feeling more spritely than when they first walked in. Though her origins are mysterious, the whole cafe agrees: Soraka's work is out of this world!"
+  }
 }

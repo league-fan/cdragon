@@ -48,6 +48,32 @@
     }
   ],
   "description": "단순한 팝 스타일을 뒤로하고 이미지 변신을 통해 음악계에서 독보적인 존재로 거듭나고자 했던 아리. 그로부터 5년 후 세련된 스타일과 강렬한 음악으로 돌아왔습니다. 그리고 이제는 혼자가 아닙니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103015,
+    "formatname": "K/DA Ahri",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-03",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alvin Lee",
+      "Pan Chengwei",
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Setting her old bubblegum pop persona aside, Ahri was determined to shake up her image and reinvent herself as an unstoppable force within the music industry. Five years later, she has returned with a sleek new look and a killer sound—and this time she's not alone."
+  }
 }

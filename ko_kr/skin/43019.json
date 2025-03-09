@@ -159,6 +159,64 @@
     }
   ],
   "description": "죽음과 부활의 우주적 순환을 마음대로 지배한 죄를 지은 카르마는 환생으로 향하는 영혼의 샘을 지키기 위해 싸웁니다. 다른 우주적 존재들보다 자신을 따르는 필멸자들을 아끼는 그녀는 안정된 세상을 만들기 위해 분투하고 있습니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2019-12-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43019,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "100 Mythic Essence",
+    "release": "2019-12-12",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 23,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Catseye": {
+        "id": 21,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Peridot": {
+        "id": 22,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 25,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Dawnbringer Karma Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Clare Wong",
+      "West Studio"
+    ],
+    "lore": "Charged with governing the cosmic cycles of death and rebirth, Karma fights to protect the wellspring of souls as they journey to reincarnation. More so than the other cosmic beings, she cares for the mortal souls she shepherds, striving to create a more structured world."
+  }
 }

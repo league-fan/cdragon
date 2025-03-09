@@ -24,6 +24,25 @@
     }
   ],
   "description": "마법공학 르네상스 시대의 기능장들은 마법공학이 어떠한 결과를 초래할지 심사숙고하지 않고 그 힘을 과용했습니다. 그 근시안적인 행동은 결국 살과 금속으로 이루어진 비정상적인 괴물 레넥톤을 탄생시켰습니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2018-12-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58017,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-12-20",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "As is so often the way, artificers of the Hextech Renaissance pushed too far and too fast into their new science, without fully considering the possible consequences. Renekton—a half-mad monster of flesh and metal—is the result of that shortsightedness."
+  }
 }

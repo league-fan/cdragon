@@ -147,6 +147,56 @@
     }
   ],
   "description": "孢子魔们徘徊于森林的最深处，而雷克塞则是它们的巢母。那些见过她那由花朵和树皮组成的庞大形体潜泳于树林之中的人们，很少能够活到对人们讲述这个故事的时候。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-06",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 19
+      },
+      "Emerald": {
+        "id": 20,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 25
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Spore-fiends stalk the deepest reaches of the forest, and Rek'sai is the broodmother from which all others spring. Those who see her hulking form of bloom and bark swimming through the trees rarely live long enough to tell the tale."
+  }
 }

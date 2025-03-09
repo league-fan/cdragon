@@ -159,6 +159,61 @@
     }
   ],
   "description": "트위치가 이끄는 조직의 심부름꾼에 불과했던 샤코에게 이제 인간의 모습은 거의 남지 않았습니다. 섬뜩한 타락에 이성과 정체성을 빼앗긴 샤코는 시끄럽게 떠드는 소리와 함께 칼을 휘두르며 발로란시 자치구에 출몰하는 괴물 무리로 변하고 말았습니다. 그중 누가 '진짜' 샤코인지는 그 괴물들도 알지 못합니다. 누구도 신경 쓰지 않죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 35023,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-26",
+    "set": [
+      "Crime City Nightmare"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 27
+      },
+      "Catseye": {
+        "id": 25
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 24,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 29
+      },
+      "Underground": {
+        "id": 32,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Crime City 2021"
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Once a mere courier for the Twitch syndicate, Shaco is now barely human. The eldritch corruption has stripped him of reason and identity, turning him into a chittering horde of knife-wielding monsters that haunt the boroughs of Valoran City. None of them are sure which is the “real” Shaco anymore. None of them care."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "這位鬥士要來向大家證明沒有什麼問題是拳頭解決不了的！前提是你的問題是「到底要怎麼樣才能贏得史上最多場地區比賽？」雖然他是真的很帥，但他可不是為了耍帥才這麼做的喔，他要一路往上爬，成為戰魂大賽的傳說，讓媽媽臉上有光，歡迎賽～特！",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-07-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 875045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-07-20",
+    "set": [
+      "Soul Fighter"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 52
+      },
+      "Citrine": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 50
+      },
+      "Limitless": {
+        "id": 54,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Soul Fighter 2023"
+      },
+      "Meteorite": {
+        "id": 53
+      },
+      "Obsidian": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 49
+      },
+      "Ruby": {
+        "id": 46,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Xander Mobus"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "This fighter is here to prove that fists CAN be the answer to everything! That is, assuming the question of everything is \"how does one person win the most local tourneys in recorded history?\" And he's not just doing it to look good—though that is a nice bonus—he's rising up the ranks to soul fightin' legend to make his momma proud. It's Sssssett!"
+  }
 }

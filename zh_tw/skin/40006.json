@@ -24,6 +24,19 @@
     }
   ],
   "description": "紀念 Mellisan 在 2011 世界大賽中使用珍娜贏得世界冠軍的精采表現。",
-  "wikiPrice": "750",
-  "wikiReleaseDate": "2014-09-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 40006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2014-09-24",
+    "set": [
+      "World Champions: 2011"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "lore": "Honoring Mellisan's winning performance as Janna during the 2011 World Championship."
+  }
 }

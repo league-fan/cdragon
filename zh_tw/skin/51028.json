@@ -24,6 +24,25 @@
     }
   ],
   "description": "慶祝 RiotX 奧術活動。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2021-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51028,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2021-11-22",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Celebrating the RiotX Arcane event."
+  }
 }

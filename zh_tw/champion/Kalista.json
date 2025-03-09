@@ -12,48 +12,222 @@
       "name": "克黎思妲",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2014-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2014-11-20",
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista’s wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears."
+      }
     },
     {
       "id": 429001,
       "name": "血月幽魂 克黎思妲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-11-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "lore": "A demon of vengeance summoned on the night of the Blood Moon, Kalista's singular obsession with 'betrayers' knows no limits—any deception, no matter how trivial, will be met with death. Her victims are left hanging from the walls of their homes, a warning to those who remain."
+      }
     },
     {
       "id": 429002,
       "name": "2015世界大賽 克黎思妲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2015-09-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-09-27",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 4,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Celebrating Worlds 2015 in Europe."
+      }
     },
     {
       "id": 429003,
       "name": "SKT T1 克黎思妲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-08-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-08-17",
+        "set": [
+          "World Champions: 2015"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Honoring Bang's winning performance as Kalista during the 2015 World Championship."
+      }
     },
     {
       "id": 429005,
       "name": "劫掠血矛 克黎思妲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-07",
+        "set": [
+          "Marauder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Citrine": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The Magelords… furious, brutal, and glorious in their conquest—a sect of warriors long lost to the sands of time. Until now. Resurrected by the current Marauder leaders, Kalista's desire for vengeance has only festered over the millenia. Now she returns, more powerful than ever, to eradicate the Wardens and everything they've built."
+      }
     },
     {
       "id": 429014,
       "name": "妖精宮殿 克黎思妲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-23T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 429014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 19
+          },
+          "Catseye": {
+            "id": 16
+          },
+          "Emerald": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 20
+          },
+          "Winsome": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Faerie Court 2023"
+          }
+        },
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "As captain of Her Majesty's royal guard, Kalista is dedicated to keeping her queen safe above all else. Though some grumble that Kalista was only elevated to her station because she is Karma's dearest friend, she has proven time and time again that her title is well earned. Anyone who thinks otherwise is welcome to duel her and learn firsthand."
+      }
     }
   ]
 }

@@ -24,6 +24,19 @@
     }
   ],
   "description": "制作目的是捕捉瑟庄妮——我们的首批完全重做的英雄之一——的最初感觉。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-04-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 113003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-04-30",
+    "set": [
+      "Traditional"
+    ],
+    "newvoice": true,
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Created to capture the original feel of Sejuani, one of our first fully reworked champions."
+  }
 }

@@ -33,6 +33,22 @@
     }
   ],
   "description": "熊猫天生并不对人类有攻击性，但这家伙并不是熊猫。这是穿着熊猫装的提莫。保持警惕。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-07-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-07-09",
+    "set": [
+      "Wonders of the World"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kudos Productions"
+    ],
+    "lore": "Pandas aren't naturally aggressive towards humans, but this isn't a panda. It's Teemo dressed as a panda. Stay alert."
+  }
 }

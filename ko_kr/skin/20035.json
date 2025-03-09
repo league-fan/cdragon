@@ -137,6 +137,56 @@
     }
   ],
   "description": "각자의 고향이 파괴된 누누와 윌럼프는 수많은 이들과 달리 순수함을 잃지 않았습니다. 절망을 마주하고도 그러한 기쁨을 느끼는 존재를 본 적이 없었던 벨베스는 그들에게 우주의 힘을 부여했습니다. 이제 누누와 윌럼프는 가는 곳마다 그 기쁨을 퍼뜨리며 특유의 창의력과 끝없는 상상력으로 암흑의 별이 지닌 파괴력과 맞서 싸웁니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-08-30T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 20035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-08-30",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 42
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 43
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Lucas Jaye",
+      "Jonathan Lipow"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination."
+  }
 }

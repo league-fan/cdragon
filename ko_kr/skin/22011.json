@@ -96,6 +96,45 @@
     }
   ],
   "description": "자애로운 별의 통치자인 애쉬는 우주의 끝없는 어둠을 가로지르는 화살을 날려 화살이 떨어지는 곳에 새로운 별자리를 만듭니다. 애쉬의 궁정은 은하계 사이를 떠다니며 희미해진 모든 빛을 되살립니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-08-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-21",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded."
+  }
 }

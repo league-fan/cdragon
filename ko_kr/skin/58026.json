@@ -119,6 +119,54 @@
     }
   ],
   "description": "멸종한 동물군에서 영감을 받아 제작된 하이브리드 전사, 레넥톤은 프로젝트 주식회사의 초강력 교배종 무기 프로젝트로 탄생한 완벽한 결정체입니다. 프로그램 바이러스에게 공격받는 도시를 돕기 위해 풀려난 레넥톤의 끝없는 분노는 당분간은 유용할 듯합니다... 당혹스럽게도 영혼 너머를 볼 수 있다는 그의 믿음이 갈수록 커지고 있지만요.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 58026,
+    "formatname": "PROJECT: Renekton",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-05-27",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Reckoning": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2021"
+      },
+      "Sapphire": {
+        "id": 28
+      },
+      "Tanzanite": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Yan Kyohara",
+      "West Studio"
+    ],
+    "lore": "A hybridized warrior taking inspiration from extinct fauna, Renekton is the perfected version of PROJECT's crossbreed superweapon project. Released to aid the City in its fight against the Program virus, Renekton's seemingly endless rage is useful for now… though his belief that he can “see beyond the soul” is increasingly disconcerting."
+  }
 }

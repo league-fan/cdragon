@@ -24,6 +24,28 @@
     }
   ],
   "description": "Swain, though a mighty leader of men, was no match for the ancient demon slumbering beneath Noxus. As dark energies flowed through his once-human body, the new Grand General gave his first decree: “Kneel before me, or die.”",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-05-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-05-22",
+    "set": [
+      "Otherroads"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "vu": true,
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Swain, though a mighty leader of men, was no match for the ancient demon slumbering beneath Noxus. As dark energies flowed through his once-human body, the new Grand General gave his first decree: “Kneel before me, or die.”"
+  }
 }

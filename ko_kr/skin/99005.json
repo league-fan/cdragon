@@ -24,6 +24,21 @@
     }
   ],
   "description": "고도로 훈련된 이 강철 군단 요원은 빛을 증폭시키는 수정 지팡이로 결집한 에너지 광선을 발사합니다. 조직 내 몇몇 선임 과학자들은 럭스라고 불리는 이 요원과 무기 사이의 유대감을 종종 목격하고 있습니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-02-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 99005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-02-01",
+    "set": [
+      "Steel Legion"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "lore": "This highly-trained specialist in the Steel Legion uses light-magnifying crystal rods to discharge rays of concentrated energy. Designated Lux, her affinity with the weapons has been quietly observed by several leading scientists within the organization."
+  }
 }

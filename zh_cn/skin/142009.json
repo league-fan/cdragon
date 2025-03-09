@@ -152,6 +152,59 @@
     }
   ],
   "description": "作为久远的初代星之守护者成员，佐伊所向往的不是爱，而是混沌，从而把她所获得的能力扭曲成一种恶毒，一种无视时空的疯狂。她在无数个纪元中不停猎杀始源之星的获选者们，最终来到了瓦洛兰城，希望能摧毁最新一代的星之守护者们——她已经做过无数次了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Amethyst": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Jasper": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "newquotes": true,
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos "
+  }
 }

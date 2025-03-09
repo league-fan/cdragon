@@ -73,6 +73,29 @@
   "rarityGemPath": null,
   "skinLines": null,
   "description": null,
-  "wikiPrice": "880",
-  "wikiReleaseDate": "2011-01-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51000,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 880,
+    "release": "2011-01-04",
+    "chromas": {
+      "Blue": {
+        "id": 9
+      },
+      "Green": {
+        "id": 8
+      },
+      "Pink": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Renowned as its finest peacekeeper, Caitlyn Kiramman is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress."
+  }
 }

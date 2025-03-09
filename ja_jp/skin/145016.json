@@ -44,6 +44,32 @@
     }
   ],
   "description": "2018 World Championshipでカイ＝サを使って勝利したJackeyLoveの活躍を称えるスキン。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-04-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 145016,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-04-23",
+    "set": [
+      "World Champions: 2018"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 58,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring JackeyLove's winning performance as Kai'Sa during the 2018 World Championship."
+  }
 }

@@ -160,6 +160,57 @@
     }
   ],
   "description": "それは腐肉の翼を雷鳴のようにはためかせ、シンドラのもとにやって来た。そして、定命の肉体という檻から自らを解放するよう、シンドラに呼びかけた。その翼が起こす穢れた風を追って儀式の場を訪れた彼女は、他の魔女たちと共に腐敗した墓から「有角の王」を覚醒させた。そして今、彼女は盟約の魔女と古の神に抗うすべての者に復讐を果たそうとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-10-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134054,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-10-25",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 61
+      },
+      "Aquamarine": {
+        "id": 62
+      },
+      "Catseye": {
+        "id": 57
+      },
+      "Emerald": {
+        "id": 58
+      },
+      "Meteorite": {
+        "id": 59
+      },
+      "Pearl": {
+        "id": 60
+      },
+      "Profane": {
+        "id": 63,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2023"
+      },
+      "Rose Quartz": {
+        "id": 56
+      },
+      "Ruby": {
+        "id": 55,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "They came to Syndra in a thundering flutter of carrion wings, beckoning her to free herself from the limitations of mortals. Following the wings' foul wind to a ritual site, she along with another witch awakened the Horned King from his putrid tomb. She now seeks retribution against all who stand against the Coven or the Old Gods."
+  }
 }

@@ -132,6 +132,51 @@
     }
   ],
   "description": "신비한 전설의 산수화에 그려진 거대한 신화 속 야수 초가스는 어마어마한 식탐 때문에 영원히 벗어날 수 없는 업보의 형벌을 받게 되었습니다. 그림과 다중 우주가 이어지는 곳을 포착한 초가스는 자신의 세계에 이어 다른 세계까지 전부 집어삼키려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 31014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-01-28",
+    "set": [
+      "Shan Hai Scrolls"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 18
+      },
+      "Turquoise": {
+        "id": 19
+      }
+    },
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal",
+      "West Studio"
+    ],
+    "lore": "A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others."
+  }
 }

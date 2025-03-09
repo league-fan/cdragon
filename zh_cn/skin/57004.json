@@ -33,6 +33,23 @@
     }
   ],
   "description": "很少有当地人敢越过镇外的森林去玩“不给糖就捣蛋”。很多人已经失踪在沉郁的林地中，那个地方会让人觉得被很多看不见的眼睛注视着，并且即使是树木也被一种可怕的饥饿感给驱使着……",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2012-10-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 57004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Volta Studio"
+    ],
+    "lore": "Few locals dare to trick-or-treat past the forest just outside of town. Too many have vanished within that dreary woodland, where one feels the weight of unseen eyes, and even the trees are driven by a terrible hunger…"
+  }
 }

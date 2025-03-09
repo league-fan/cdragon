@@ -13,40 +13,226 @@
       "name": "아이번",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-10-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 427000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-10-04",
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Ivern Bramblefoot, known to many as the Green Father, is a peculiar half man, half tree who roams Runeterra’s forests, cultivating life everywhere he goes. He knows the secrets of the natural world, and holds deep friendships with all things that grow, fly, and scuttle. Ivern wanders the wilderness, imparting strange wisdom to any he meets, enriching the forests, and occasionally entrusting loose-lipped butterflies with his secrets."
+      }
     },
     {
       "id": 427001,
       "name": "새콤달콤 아이번",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-10-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 427001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-10-04",
+        "earlysale": "2017-02",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "The resplendent ruler of the Candy Kingdom, Ivern is beloved by subjects far and wide. Yet there are those who have seen the monster lurking beneath his jolly frame—and his gnawing hunger for candy flesh that can never be satisfied."
+      }
     },
     {
       "id": 427002,
       "name": "덩크왕 아이번",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-04-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 427002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-04",
+        "set": [
+          "Dunkmaster"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 7
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Peridot": {
+            "id": 4
+          },
+          "Rose Quartz": {
+            "id": 5
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "Daisy and Ivern first started as a basketball doubles pair on the mean streets of Kumungu jungle—but then a chance encounter with then-NBA commissioner John Brambleback pushed them both into the national spotlight. They've been tearing up the court on the professional circuit ever since."
+      }
     },
     {
       "id": 427011,
       "name": "고대 신 아이번",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-12-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 427011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Coven",
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 13
+          },
+          "Emberwood": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Productions"
+        ],
+        "lore": "A nightmarish totem forged of witchcraft and forbidden incantations, Ivern stood among the Old Gods in the days before their destruction. Left inert for hundreds of years, he has risen along with his brethren to annihilate the paltry works of man."
+      }
     },
     {
       "id": 427020,
       "name": "우주비행사 아이번",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-02-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 427020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-02-24",
+        "set": [
+          "Astronauts"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 27
+          },
+          "Aquamarine": {
+            "id": 23
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 25,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Ivern's nurturing nature created a safe haven for the meeps under his care. However, an explosion caused by Xerath destroyed his ship and left him aimlessly floating in space. After a chance encounter with Fizz, who saved him by accidentally crashing into him, Ivern joined their ranks to search for any wanderers in need of his protection."
+      }
     }
   ]
 }

@@ -13,120 +13,511 @@
       "name": "荒漠屠夫",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2011-01-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-01-18",
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Esben Lash Rasmussen",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire’s most esteemed warrior, leading the nation’s armies to countless victories. However, after the empire’s fall, Renekton was entombed beneath the sands, and slowly, as the world turned and changed, he succumbed to insanity. Now free once more, he is utterly consumed with finding and killing his brother, Nasus, who he blames, in his madness, for the centuries he spent in darkness."
+      }
     },
     {
       "id": 58001,
       "name": "星河战队 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-01-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-01-18",
+        "retired": "2014-12-02",
+        "set": [
+          "Galactic"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Sean McNally"
+        ]
+      }
     },
     {
       "id": 58002,
       "name": "荒野之咬 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-01-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-01-18",
+        "retired": "2017-11-01",
+        "set": [
+          "Wonders of the World"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "Crikey, what a ripper."
+      }
     },
     {
       "id": 58003,
       "name": "血石战神 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-07-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-26",
+        "set": [
+          "Bloodstone"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "This blood-crazed killing machine scours the battlefield to sate the Bloodstone. The more he slays, the more he fuels his powers. This in turn feeds his frenzy, creating a never ending cycle of spilt viscera and gore."
+      }
     },
     {
       "id": 58004,
       "name": "符文战神 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-04-30T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-30",
+        "retired": "2015-08-29",
+        "set": [
+          "Otherroads"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Zhuore Zhi Hen"
+        ]
+      }
     },
     {
       "id": 58005,
       "name": "枯萎之壤 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-02-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-02-10",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "What is an Infernal but the screams beckoning from the darkest corners of mortal imagination? For centuries they were considered nothing more than myth—and yet, now, monstrosities such as Renekton roam freely, punishing us all for the last fleeting gasp of our own hubris."
+      }
     },
     {
       "id": 58006,
       "name": "泳池派对 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-09-09",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Lifeguard on duty! Seriously though, be careful—you don't want CPR from a nine foot tall crocodile man."
+      }
     },
     {
       "id": 58007,
       "name": "猛龙 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-06-14T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-14",
+        "earlysale": "2016-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A rare intelligent beast, Renekton is an erudite speaker and skilled wielder of the crescent blade. He's also six stories tall and not particularly friendly. Hunters are advised to make their final arrangements before engaging."
+      }
     },
     {
       "id": 58008,
       "name": "SKT T1 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-08-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-08-17",
+        "set": [
+          "World Champions: 2015"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Honoring MaRin's winning performance as Renekton during the 2015 World Championship."
+      }
     },
     {
       "id": 58009,
       "name": "鳄霸 雷克顿",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58009,
+        "formatname": "Renektoy",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2017-03-29",
+        "earlysale": "2017-10",
+        "set": [
+          "Toy Box"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Aquamarine": {
+            "id": 14
+          },
+          "Catseye": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "First produced in 1996, Renektoy quickly and unexpectedly became the must-have gift of the season. Shortages and heightened demand led to online scalping, parents fist fighting in store aisles, and a small number of what police later described as “mall stampedes.”"
+      }
     },
     {
       "id": 58017,
       "name": "海克斯科技 雷克顿",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2018-12-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58017,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-12-20",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "As is so often the way, artificers of the Hextech Renaissance pushed too far and too fast into their new science, without fully considering the possible consequences. Renekton—a half-mad monster of flesh and metal—is the result of that shortsightedness."
+      }
     },
     {
       "id": 58018,
       "name": "黯晶巨鳄 雷克顿",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-05",
+        "set": [
+          "Blackfrost"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 21
+          },
+          "Citrine": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "In life, Renekton stood against the tyranny of the Ice Witch, fighting an inevitable, endless winter until his last breath. In death, the virtuous warrior was cursed with resurrection—brought back to life as a vicious warmonger cased in rock and ice. Now a general leading the onslaught of the Black Frost army, Renekton loyally serves the very queen he once thought to destroy."
+      }
     },
     {
       "id": 58026,
       "name": "源计划：泯灭 雷克顿",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2021-05-27T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58026,
+        "formatname": "PROJECT: Renekton",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Reckoning": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "A hybridized warrior taking inspiration from extinct fauna, Renekton is the perfected version of PROJECT's crossbreed superweapon project. Released to aid the City in its fight against the Program virus, Renekton's seemingly endless rage is useful for now… though his belief that he can “see beyond the soul” is increasingly disconcerting."
+      }
     },
     {
       "id": 58033,
       "name": "黎明使者 雷克顿",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-04-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-20",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 38
+          },
+          "Turquoise": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "In the aftermath of chaos slaying order, two brothers were born: the embodiments of cause, Renekton, and effect, Nasus. As executioner for the Dawnbringers, Renekton has become more frenzied from battling his kin, but he still holds to his view that everything must have a purpose. For what function does chaos serve, if not to cause more chaos?"
+      }
     },
     {
       "id": 58042,
       "name": "2023 全球总决赛 雷克顿",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 58042,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-11",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 44
+          },
+          "Destined": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Peridot": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Unlocked": {
+            "id": 47,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Worlds Unlocked"
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2023 in Korea."
+      }
     }
   ]
 }

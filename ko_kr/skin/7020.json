@@ -165,6 +165,63 @@
     }
   ],
   "description": "검은 두루미의 노래와 나무정령들이 모인 아주 깊숙한 곳에 오랫동안 갇힌 거대한 심장은 잊힌 옛 선율처럼 르블랑을 찾아왔습니다. 그녀의 자매들은 숲의 수호자들 앞에 무릎을 꿇었지만 르블랑은 자신의 목적을 이뤘고, 이제 그녀의 후원자가 어두웠던 긴 잠에서 몸부림치며 깨어나기 시작합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 7020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Aquamarine": {
+        "id": 23
+      },
+      "Dark Ritual": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 27,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 25
+      },
+      "Rose Quartz": {
+        "id": 24
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "They came to LeBlanc as if in some forgotten melody "
+  }
 }

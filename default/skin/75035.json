@@ -160,6 +160,61 @@
     }
   ],
   "description": "Nasus is Strike Team Hyperion's intelligence officer. His exosuit, the S02-Anubis, is a new model of power armor that offers increased durability, energy-siphoning power cells, and access to in-depth analysis tech for processing mission-critical information. He will see Hyperion succeed; if they don't, there's no telling what destruction rogue exo-pilots may wreak.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Ace": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Granite": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "Nasus is Strike Team Hyperion's intelligence officer. His exosuit, the S02-Anubis, is a new model of power armor that offers increased durability, energy-siphoning power cells, and access to in-depth analysis tech for processing mission-critical information. He will see Hyperion succeed; if they don't, there's no telling what destruction rogue exo-pilots may wreak."
+  }
 }

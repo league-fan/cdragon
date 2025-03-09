@@ -137,6 +137,50 @@
     }
   ],
   "description": "신드라는 실각된 제드를 지지했다는 이유로 수년간 축제에서 배제되었습니다. 더 이상 이런 냉대를 참을 수 없었던 신드라는 행사에 잠입한 후 수정 장미의 심장부에 자신의 영액을 떨어뜨려 독을 주입하기로 결심했습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 134016,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Withered Rose"
+    ],
+    "cost": 1350,
+    "release": "2021-02-11",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Turquoise": {
+        "id": 20
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Syndra has been shunned from the festival for years over her support of the disgraced Zed. Unable to bear this slight any longer, she is determined to infiltrate the event and poison the very heart of the Crystal Rose itself with her sweetly dripping ichor."
+  }
 }

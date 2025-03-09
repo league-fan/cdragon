@@ -24,6 +24,20 @@
     }
   ],
   "description": "갱플랭크는 장난감 병정 군대의 모범 군인으로서 인형들과 봉제 동물들을 상대로 한 전투에서 연이어 승리를 거두었습니다. 그의 소원은 언젠가 영예로운 전쟁에서 군을 통솔하는 ''장난감 장군''으로 명성을 얻는 것입니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-12-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 41004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Toy Box"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Matthew Mercer"
+    ],
+    "lore": "Gangplank is a model soldier in the toy army, racking up an impressive array of victories against the dolls and stuffed animals. He hopes to one day be named Toy General, leading his troops into glorious battle."
+  }
 }

@@ -160,6 +160,61 @@
     }
   ],
   "description": "「フォアグロー」は多くの者が求めている力だが、ゼドはその力によって、己の内面がさらけ出されることを不快に思った。彼の力は、詮索の目とは無縁の闇から生まれたものだ。パイクが後に残した崩壊せし「抜け殻」の世界なら、新たな影の世界を構築できるかもしれない。どんな「荘厳の天球」にも破壊されることのない世界を。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 46
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Neon Flare": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "The Foreglow is a power many desire, but Zed resents how it exposes him. His is a strength born from darkness, away from prying eyes. Perhaps in the fallen Husk realm left in Pyke's wake can he build a new domain of shadows, one that no Empyrean can topple."
+  }
 }

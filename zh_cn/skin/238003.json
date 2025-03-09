@@ -58,6 +58,35 @@
     }
   ],
   "description": "在体系内新晋崛起的劫是源计划反间谍小组的首领。他使用一双高频能量战刃和分子“固态烟”投影装置搜寻基因动力的叛军，擅长近距离多角度的目标割裂。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2015-09-07T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238003,
+    "formatname": "PROJECT: Zed",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-03",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reckoning": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Rising from the Command Line, Zed is a leader within PROJECT's counter-espionage units. He seeks out the G/NETIC rebels with split high frequency blades and molecular “solid smoke” projectors, favoring close-proximity and multiple angle target laceration."
+  }
 }

@@ -160,6 +160,60 @@
     }
   ],
   "description": "ボリベアは森で最も恐れられる存在だったが、それは近くの火山が噴火するまでのことだ。必死でこの危機を脱しようとしていたボリベアは、自分と同じく窮地に陥っている子供を発見した。そして奇妙な本能に駆られた彼は、その子供を助けたのだ。双嵐龍はそれを見て、恐ろしい捕食獣に力を授けた──怒りと慈悲という、彼の本能の二重性に磨きをかける力を。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-10-21T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 106007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-10-21",
+    "set": [
+      "Dragonmancers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Citrine": {
+        "id": 11
+      },
+      "Emberclaw": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2021"
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      },
+      "Tanzanite": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "David Sobolov"
+    ],
+    "splashartist": [
+      "Felipe Martini",
+      "West Studio"
+    ],
+    "lore": "Volibear was the greatest terror in the forest, until the nearby volcano erupted. In the frenzy of escape, Volibear came across a child who was similarly trapped, and heeded a strange instinct—he saved the child. The Duality Dragon saw and made the mighty predator an offer: the power to hone the duality of his nature, both fury and compassion."
+  }
 }

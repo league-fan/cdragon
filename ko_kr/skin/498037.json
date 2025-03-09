@@ -138,6 +138,54 @@
     }
   ],
   "description": "뼛속까지 도둑인 자야와 라칸은 주변에서 벌어지는 전쟁을 피해 다니며 서로에게만 신경 썼습니다. 라칸이 불사의 영혼과 충돌해 죽을 뻔했을 때, 자야는 블라디미르가 라칸을 불사의 영혼으로 만들어 주면 생명의 숨결 교단에 첩자로 들어가겠다고 약속했습니다. 자야는 교단 내부에서 특이 사항을 보고하며, 연인의 저주를 풀 방법을 찾길 기도합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 498037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-03-09",
+    "set": [
+      "Broken Covenant"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 40
+      },
+      "Citrine": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 46
+      },
+      "Peridot": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 39,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 42
+      },
+      "Tanzanite": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Marie Magny",
+      "West Studio"
+    ],
+    "lore": "Thieves until the end, Xayah and Rakan only cared about each other and shunned the war raging around them. When Rakan ran afoul of the Neverghaast and was almost killed, Xayah agreed to spy on the Aspirants if Vladimir made her partner a Neverghaast. As she reports back from within the congregation, she prays she can find a cure for her lover's curse."
+  }
 }

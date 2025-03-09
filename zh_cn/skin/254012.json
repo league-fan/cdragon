@@ -159,6 +159,50 @@
     }
   ],
   "description": "蔚反复无常地玩弄着爱情规则，在身后留下了一长串破碎之心（并且有的时候，还有身体）。多年之后，她终于遇到了一个旗鼓相当的新情敌……几乎太过旗鼓相当了。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-02-11T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-02-11",
+    "set": [
+      "Heartbreakers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Catseye": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "Vi plays fast and loose with the rules of love, leaving a long trail of broken hearts (and, sometimes, bodies) in her wake. After many years, she's finally encountered a new rival worthy of her strength… almost too worthy."
+  }
 }

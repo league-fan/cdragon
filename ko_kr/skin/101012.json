@@ -137,6 +137,54 @@
     }
   ],
   "description": "자신의 욕망에 사로잡힌 제라스는 로우 아르카나의 시민들이 나쁜 충동에 몸을 맡기도록 유도합니다. 시민들이 금지된 열망에 빠지면 빠질수록 제라스의 힘은 커집니다. 제라스는 유혹에 빠진 시민들이 자신을 해방할 것이라고 믿지만, 자신이 강해질수록 사슬이 점점 몸을 옥죄어 온다는 사실은 미처 깨닫지 못했습니다. ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him. "
+  }
 }

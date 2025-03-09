@@ -24,6 +24,22 @@
     }
   ],
   "description": "他是一位伐木工，并且他很OK。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-01-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-01-24",
+    "set": [
+      "Day Job"
+    ],
+    "vu": true,
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "He's a lumberjack, and he's okay."
+  }
 }

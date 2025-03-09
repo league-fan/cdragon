@@ -143,6 +143,59 @@
     }
   ],
   "description": "최초의 고대 별 수호자 중 한 명인 조이는 사랑이 아닌 혼돈을 원합니다. 새롭게 얻은 힘을 이용해 우주에 사악하고 거대한 광기를 불러오려 하죠. 헤아릴 수 없이 오랜 시간 동안 태초의 별에게 선택받은 자들을 사냥해 온 조이는 마침내 발로란시에 도달했으며, 지금껏 그래왔던 것처럼 새로운 수호자들을 파괴하고자 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 142009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 14
+      },
+      "Amethyst": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 17,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Jasper": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "newquotes": true,
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos "
+  }
 }

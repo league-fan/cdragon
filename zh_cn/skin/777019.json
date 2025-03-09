@@ -133,6 +133,51 @@
     }
   ],
   "description": "预言表明众神将相互毁灭，迎来创造本身的终结——但永恩决心挑战命运。 作为在混沌与秩序之间的冲突中诞生的半人半神，永恩拥有黑夜和黎明的力量。 他必须团结他的同胞们，将和平带给众神……否则他们都会灭亡。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-09-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 777019,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-09-23",
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 21
+      },
+      "Lifebringer": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2021"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Rose Quartz": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 20,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Noshir Dalal"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Prophecy dictates that the gods will destroy each other, ushering in the end of creation itself— but Yone is determined to defy fate. A half-mortal, half-god born of the clash between chaos and order, Yone wields the power of both night and dawn. He must rally his brethren, bring peace to the gods… or they will all perish."
+  }
 }

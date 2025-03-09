@@ -138,6 +138,54 @@
     }
   ],
   "description": "长久以来，很多故事都流传着：有一只怪兽在森林中徘徊着，能够赤手空拳地将巨大的橡树撕成碎片——但很少有人意识到，这个庞然大物也是一只好奇的小生物，会收集各种小玩意和骨头并叽叽喳喳地穿过树梢。智者会顺其自然。愚者？取决于他们遇见的是哪个纳尔。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 150022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-06",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 29
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 27
+      },
+      "Tanzanite": {
+        "id": 26
+      }
+    },
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Stories have long been told of a monster that stalks the wood, rending massive oak trees asunder bare-handed—but few realize this titan is also the small, curious creature that collects baubles and bones and chitters through the treetops. The wise leave both to their devices. The foolish? Well, it depends which Gnar they meet."
+  }
 }

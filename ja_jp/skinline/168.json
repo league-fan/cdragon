@@ -8,40 +8,121 @@
       "name": "アーフ・ザ・マナティ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "5000",
-      "wikiReleaseDate": "2010-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19002,
+        "formatname": "Urf the Manatee",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": 5000,
+        "distribution": "Limited Availability",
+        "release": "2010-03-31",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      }
     },
     {
       "id": 19009,
       "name": "アーフウィック",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "150000",
-      "wikiReleaseDate": "2017-11-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19009,
+        "formatname": "Urfwick",
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": 150000,
+        "distribution": "Essence Emporium",
+        "release": "2017-11-08",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "variant": 2,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      }
     },
     {
       "id": 42005,
       "name": "アーフライダー コーキ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-04-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 42005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-04",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "voiceactor": [
+          "'Ralph'"
+        ],
+        "lore": "Defying all laws of physics, Corki rides Urf the Manatee into battle. With gatling guns ablazing, they charge headlong into the war against Urfwick and all other enemies who may threaten the existence of the peaceful and benevolent Urfs."
+      }
     },
     {
       "id": 223002,
       "name": "アーフ・ケンチ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 223002,
+        "formatname": "Urf Kench",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-03-31",
+        "earlysale": "2016-08",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "voiceactor": [
+          "Pat Duke"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ]
+      }
     },
     {
       "id": 267003,
       "name": "アーフ・ザ・ナミティ",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2015-03-31T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 267003,
+        "formatname": "Urf the Nami-tee",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-03-31",
+        "earlysale": "2015-12",
+        "set": [
+          "Urf the Manatee"
+        ],
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "lore": "Nami doesn't quite understand the concept of Urf, but was told to don her apparel in honor of the great manatee known as Urf. She's happy to lounge around with her fellow manatee and manatee aficionados, but is quite perplexed as to why she's being shot out of a cannon."
+      }
     }
   ]
 }

@@ -57,6 +57,29 @@
     }
   ],
   "description": "在太空中，船锚的重量几乎为零。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2012-09-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 111003,
+    "formatname": "AstroNautilus",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-09-04",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "chromas": {
+      "Chrono": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "splashartist": [
+      "Concept Art House"
+    ],
+    "lore": "In space, the anchor weighs practically nothing."
+  }
 }

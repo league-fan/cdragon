@@ -24,6 +24,25 @@
     }
   ],
   "description": "弁の立つツイステッド・フェイトは生者の王たちを欺いて、永遠の命を得る代わりに大切な星の子を死神に差し出すよう仕向けた。同情と慈悲の化身が不在のなかで永遠の生命を得たとして、それは永遠の苦痛に過ぎないが、そのことを彼らは知る由もなかった…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-11-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-11-05",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "With his silver tongue, Twisted Fate tricked the lords of the living to offer their beloved starchild to Death in exchange for their own immortality. Little did they know, eternal life without their avatar of compassion and mercy would result only in eternal suffering…"
+  }
 }

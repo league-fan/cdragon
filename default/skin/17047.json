@@ -114,6 +114,48 @@
     }
   ],
   "description": "Hailing from Boogiewonderland, Teemo is so absorbed in The Groove that he is The Groove, literally. Leader of the Groove Guard, Captain Teemo scouts and maps the galaxy, trailing smaller boogies in his wake. His dream: to connect all the planets he can to the Hyperfunk Supervibeway.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-11-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 17047,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-11-17",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 50
+      },
+      "Peridot": {
+        "id": 51
+      },
+      "Rainbow": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 52
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Hailing from Boogiewonderland, Teemo is so absorbed in The Groove that he is The Groove, literally. Leader of the Groove Guard, Captain Teemo scouts and maps the galaxy, trailing smaller boogies in his wake. His dream: to connect all the planets he can to the Hyperfunk Supervibeway."
+  }
 }

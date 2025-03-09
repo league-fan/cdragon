@@ -226,6 +226,59 @@
     }
   ],
   "description": "트리스타나는 올해 축제의 불꽃놀이 감독으로서, 관람객들이 결코 잊지 못할 볼거리를 만들려고 애썼습니다. 새해가 된 지금은 일을 그만두고 친구들과 느긋하게 밤을 보낼 생각에 들떠 있지만... 마무리를 위해 최고로 근사한 폭죽은 몇 개 남겨뒀다고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 18041,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 47
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Golden Tiger": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 49
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 42,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Elspeth Eastman"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "As the master of fireworks for this year's revel, Tristana has worked hard to create a show the festival goers will never forget. Now that the New Year is here she's excited to sit back and enjoy the night with her friends… but she's saved some of her best explosions for last."
+  }
 }

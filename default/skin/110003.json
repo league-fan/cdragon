@@ -24,6 +24,23 @@
     }
   ],
   "description": "Varus leaps from the rampart, a hail of arrows flying from his bow and freezing the ground beneath his victims. As they struggle to regroup, he draws a missile—circuits flashing along its spine—and lets fly. Thanks for the archer, High Command!",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 110003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-03-20",
+    "set": [
+      "Arctic Ops"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Varus leaps from the rampart, a hail of arrows flying from his bow and freezing the ground beneath his victims. As they struggle to regroup, he draws a missile—circuits flashing along its spine—and lets fly. Thanks for the archer, High Command!"
+  }
 }

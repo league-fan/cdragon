@@ -137,6 +137,54 @@
     }
   ],
   "description": "스틱스브리지에 새로 온 전도유망한 니코는 이 도시의 벽에 마법 같은 자취를 남길 만반의 준비가 되었습니다. 니코는 어떤 예술 스타일도 소화할 수 있는 창의적인 카멜레온으로, 니코의 대표 작품들은 밝고 명랑한 분위기로 유명합니다. 니코의 태그를 보면 누구나 자기도 모르게 미소를 짓게 되죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 518031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-13",
+    "set": [
+      "Street Demons"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 33
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Pearl": {
+        "id": 39
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 35
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Flora Paulita"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "An up-and-coming young kappa new to the Styxbridge scene, Neeko is ready to make her magical mark on the walls of this city. Though she is a veritable creative chameleon, able to adopt any artistic style, her own signature work is known for its bright and bubbly attitude, bringing a smile to anyone who sees her tags."
+  }
 }

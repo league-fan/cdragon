@@ -160,6 +160,60 @@
     }
   ],
   "description": "They came to Ashe in a bone-deep chill—the frost of the Jet-Black Ibex, entombing the world in ice. She descended the mountain and brought a harrowing winter with her… but that is not the only thing that followed Ashe into the night. The mountain itself rumbles.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-08-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 22032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-08-12",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 36
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Dark Ritual": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 39
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Rose Quartz": {
+        "id": 35
+      },
+      "Ruby": {
+        "id": 33,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "They came to Ashe in a bone-deep chill—the frost of the Jet-Black Ibex, entombing the world in ice. She descended the mountain and brought a harrowing winter with her… but that is not the only thing that followed Ashe into the night. The mountain itself rumbles."
+  }
 }

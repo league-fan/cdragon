@@ -160,6 +160,60 @@
     }
   ],
   "description": "姬亞娜是個天賦驚人、狂妄自大的運動員。有一天，她在某場冠軍賽中猝然離世，家人那份痛失摯愛的悲痛讓她變成了掌生幽魂。雖然姬亞娜依然為自己的失敗感到羞恥，但她終於醒悟到，家人關心的從來不是她的成就，而是她本人。姬亞娜滿懷著家人的愛，下定決心守護他們到永遠。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 246040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-09-27",
+    "set": [
+      "La Ilusión"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 44
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 43
+      },
+      "Pearl": {
+        "id": 48
+      },
+      "Rose Quartz": {
+        "id": 46
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 45
+      },
+      "Turquoise": {
+        "id": 47
+      },
+      "Vivida": {
+        "id": 49,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "La Ilusión Megabundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Montse Hernandez"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "Qiyana was a prodigiously self-centered athlete, but after dying during a championship match without warning, her family's love-stricken grief transformed her into an Eidola Vida. Still ashamed of her failure, Qiyana realizes her family never cared about what she did, only who she was. Filled with their love, she's ready to watch over them until the end."
+  }
 }

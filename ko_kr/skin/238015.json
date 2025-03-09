@@ -143,6 +143,58 @@
     }
   ],
   "description": "불법 무장 단체 사이에서 '기름통 사나이'으로 알려진 제드는 검은 장미 군단이 비밀 작전 중에 영입한 악명 높은 용병입니다. 그의 초능력은 가면을 통해 흡수하는 기이한 물질과 관련되어 있습니다. 제드는 기름과 비슷한 성질의 그 물질로 자신을 복제해 암살과 전투에 활용합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 18
+      },
+      "Hunter": {
+        "id": 19,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 20
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 23
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Known as the “Gas Can Man” in paramilitary circles, Zed is an infamous mercenary picked up by the Black Rose Group during one of their covert actions. His psionic powers are tied to a mysterious oil-like substance he ingests through his mask, allowing him to duplicate himself for assassinations and open combat."
+  }
 }

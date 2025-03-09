@@ -82,6 +82,41 @@
     }
   ],
   "description": "多年以前，洛曾在对抗佐伊的战斗中与爱人一起遇害。随后，这对眷侣被复活并转而对抗他们的盟友——洛似乎敏锐地意识到了这个事实。他在耐心等待出击时机的同时，心底有了一个净化霞黑暗内心的计划——尽管代价可能会是他自己永远地堕入邪恶。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2019-09-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 497005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Rakan was destroyed in the fight against Zoe, alongside his lover Xayah. The pair were then resurrected and turned against their allies "
+  }
 }

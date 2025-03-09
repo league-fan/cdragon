@@ -48,6 +48,30 @@
     }
   ],
   "description": "어렵기로 악명 높은 진행형 격투 게임, '데마시아 바이스'에서 6백만 점이라는 놀라운 기록을 보유하고 있는 아리는 아카디아의 복고 게임 전투장에서 불가항력의 존재입니다. 보스들 사이를 질주하며 8비트 마법으로 그들을 끝장내 이미 '아케이드의 여왕'이라는 별명도 얻었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2016-08-24T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 103007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2017-01",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Owner of the mysterious six-million-point high score in the infamously difficult beat-em-up Demacia Vice, Ahri is a force of nature on the retro battlefields of Arcadia. Dashing between bosses before ripping them apart with her 8-bit magic, she's already earned the nickname “Queen of the Arcade.”"
+  }
 }

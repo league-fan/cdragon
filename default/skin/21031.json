@@ -124,6 +124,51 @@
     }
   ],
   "description": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-03-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 21031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 37
+      },
+      "Nightwire": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Bailey"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+  }
 }

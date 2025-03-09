@@ -24,6 +24,24 @@
     }
   ],
   "description": "리 신은 발가락 사이에서 느껴지는 모래의 감촉과 부서지는 파도 소리, 피부에 닿는 따스한 햇볕을 좋아합니다. 향이 강한 코코넛 음료도 좋아하죠. 리 신은 파티를 사랑합니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-09-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 64005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-09-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Evan 'Somnicidal' Monteiro"
+    ],
+    "lore": "Lee Sin loves the feeling of the sand between his toes, the sound of the crashing waves, and the warm sun against his skin. He also loves a strong coconut drink. Lee Sin likes to party."
+  }
 }

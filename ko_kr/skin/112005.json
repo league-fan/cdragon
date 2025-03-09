@@ -143,6 +143,58 @@
     }
   ],
   "description": "불법 군사 집단, 검은 장미 군단의 수장인 빅토르는 기계마법을 사용하는 초능력자로 수십 년 전 최고 사령부를 떠나면서 이상적인 세계에 대한 꿈을 버렸습니다. 설원 특공대 사건 때 발견된 외계 관문에 집착하는 그는 인간 생체 무기 실험을 통해 세계 질서를 뒤집으려고 합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 112005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-09-17",
+    "set": [
+      "Black Rose Group"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 9
+      },
+      "Hunter": {
+        "id": 13,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PsyOps 2020"
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Peridot": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 8
+      },
+      "Turquoise": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Leader of the rogue military known as the Black Rose Group, Viktor is a psychic technomancer whose vision for a utopian world was abandoned when he suddenly departed High Command decades prior. Obsessed with an alien 'gate' uncovered during the Arctic Ops event, his experiments into human bioweapons would allow him to breach it and upend the global order."
+  }
 }

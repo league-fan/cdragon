@@ -24,6 +24,24 @@
     }
   ],
   "description": "タトゥーを入れる伝統のあるこの部族の民には、王となるための試練がある。氷のハイドラの巣に単身で乗り込み、その複数ある頭の一つを持ち帰らなければならないのだ。ダリウスは、九つあるハイドラの頭をすべて持ち帰ったそうだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-06-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 122003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-06-16",
+    "set": [
+      "Woad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Chuck Kourouklis"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith"
+    ],
+    "lore": "For a Woad tribesman to be named king, they must venture alone into the den of a glacial hydra and return with one of its heads. Darius, it is said, came back with all nine."
+  }
 }

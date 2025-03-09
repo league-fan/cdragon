@@ -137,6 +137,46 @@
     }
   ],
   "description": "试图使用龙的力量去对抗它们，伟大的屠龙者斯维因在地下为了一个远古的灵魂而战，一条死去已久的巨龙。然而他太过骄傲自大，最终反被巨龙所腐蚀，沦为昔日仇敌的奴仆。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-02-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-02-22",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Ruby": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 9
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Seeking to turn the very essence of dragons against them, the great Dragonslayer Swain battled beneath the earth for the souls of ancient, long-dead wyrms. In his hubris, he was consumed by their power, emerging a corrupted thrall of the monsters he once swore to destroy."
+  }
 }

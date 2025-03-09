@@ -120,6 +120,51 @@
     }
   ],
   "description": "一座高聳入雲的堡壘在最終滅絕被夷為平地，這個名為賽恩的存在被馬爾札哈賦予了意識，並被拔擢成為代表死亡與破壞 ─ 最純正的泰坦巨人。如今，他被貪婪的仇恨所充盈，每一步都踐破地形，撲殺鏟滅任何型態的生命。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-04-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 14014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-09",
+    "set": [
+      "Worldbreaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 20
+      },
+      "Aquamarine": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 19
+      },
+      "Obsidian": {
+        "id": 21
+      },
+      "Pearl": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Zuoan Dong",
+      "Kudos Productions"
+    ],
+    "lore": "A once towering fortress toppled during the last annihilation, the thing called Sion was given consciousness by Malzahar, and raised up to become the purest titan of death and destruction. Now, imbued with ravenous hatred, he blasts the terrain with every step, hellbent on culling any instance of life."
+  }
 }

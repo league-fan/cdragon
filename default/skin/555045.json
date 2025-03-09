@@ -124,6 +124,53 @@
     }
   ],
   "description": "Pyke remembers little before falling into the embrace of the Foreglow, only that he was defending his home. Waking in a new realm as the first Empyrean, he hears the whispers of other Pykes across the dimensions, taunting him from their homes. Why was his lost and not theirs? No answer will satisfy his searing rage, except vengeance.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 48
+      },
+      "Neon Flare": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Pyke remembers little before falling into the embrace of the Foreglow, only that he was defending his home. Waking in a new realm as the first Empyrean, he hears the whispers of other Pykes across the dimensions, taunting him from their homes. Why was his lost and not theirs? No answer will satisfy his searing rage, except vengeance."
+  }
 }

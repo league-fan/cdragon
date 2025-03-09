@@ -13,96 +13,517 @@
       "name": "荆棘之兴",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2012-07-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-07-24",
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form—an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks nothing of slaying them with flurries of deadly spines. Though her true purpose has not been revealed, Zyra wanders the world, indulging her most primal urges to colonize, and strangle all other life from it."
+      }
     },
     {
       "id": 143001,
       "name": "野火之藤 婕拉",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-07-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-24",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "Once a forest nymph, Zyra was consumed by the Infernals' burning touch. Now, she seeks nothing more than to spread wildfire throughout the forests and valleys of her dying world."
+      }
     },
     {
       "id": 143002,
       "name": "鬼影森森 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2013-10-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-10-29",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "The old cemetery is no place for stray trick-or-treaters. The twisted, dead undergrowth celebrates this season as well… but their roots run deep into the blighted earth, and their games too often prove deadly for the lost and afraid."
+      }
     },
     {
       "id": 143003,
       "name": "SKT T1 婕拉",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2014-05-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-05-04",
+        "set": [
+          "World Champions: 2013"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "Honoring PoohManDu's winning performance as Zyra during the 2013 World Championship."
+      }
     },
     {
       "id": 143004,
       "name": "驯龙女巫 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-03-09",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Survivors of recent monster attacks tell stories of serpents in the sky and a powerful sorceress nesting deep in the mountains. If the rumors are true, it means the dragons have returned—and that this time, Zyra is breeding them."
+      }
     },
     {
       "id": 143005,
       "name": "魔女 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-16",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 18
+          },
+          "Dark Ritual": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Emerald": {
+            "id": 19
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Tanzanite": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "They came to Zyra from the roots and rocks "
+      }
     },
     {
       "id": 143006,
       "name": "至臻 魔女 婕拉",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-04-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143006,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-04-16",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 5,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "The old gods stir, and rise once more to greet their sun "
+      }
     },
     {
       "id": 143007,
       "name": "水晶玫瑰 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-02-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143007,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Crystal Rose"
+        ],
+        "cost": 1350,
+        "release": "2021-02-11",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 12
+          },
+          "Aquamarine": {
+            "id": 10
+          },
+          "Citrine": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 14
+          },
+          "Peridot": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tiffany & Co.": {
+            "id": 35,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Worlds 2022 Drop Reward"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "Born from a cutting of the Crystal Rose, Zyra wields her piercing thorns against any who seek to harm it. For this year's festival, she has agreed to attend in a social capacity, accompanying Swain as the Crystal Rose Festival's dual hosts. But her respect for his vision will not distract her from springing into action at the slightest hint of danger."
+      }
     },
     {
       "id": 143016,
       "name": "地下都市 梦魇 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-08-26T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-08-26",
+        "set": [
+          "Crime City Nightmare"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Aquamarine": {
+            "id": 29
+          },
+          "Catseye": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Peridot": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Underground": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Crime City 2021"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Svetlana Tigai",
+          "West Studio"
+        ],
+        "lore": "Zyra was once a longtime associate of Graves and a skilled con artist, but grew dissatisfied with the monotony of a low-end criminal lifestyle. Seeing a way out, Zyra merged with the 4th-dimensional horrors from Beyond. She now follows the edicts of an alien power, ripping veins of sentient sludge from the earth and rending her enemies asunder."
+      }
     },
     {
       "id": 143036,
       "name": "剪纸仙灵 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143036,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 38
+          },
+          "Emerald": {
+            "id": 40
+          },
+          "Gilded": {
+            "id": 45,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Paragon": {
+            "id": 65,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 42
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Zyra is a spirit of the paper, haunting the scenery of “The Great Beast Galio” and watching the story unfold again and again. When the Lunar Players fall into the paper myth-world, Zyra's insatiable curiosity drives her to capture these newcomers, desperate to hold onto change and novelty in a world where the story always remains the same."
+      }
     },
     {
       "id": 143046,
       "name": "妖怪艺术家 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-09-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143046,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-09-13",
+        "set": [
+          "Street Demons"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 50
+          },
+          "Pearl": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 54
+          },
+          "Tanzanite": {
+            "id": 53
+          },
+          "Turquoise": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "Pandart Studio"
+        ],
+        "lore": "Zyra is a devil whose work speaks for itself. Famous enough to be known by a single-name moniker, she has captivated the people of Styxbridge with her elegant style and effortless grace. In Zyra's skilled hands, paint flowers across concrete and blooms in every alley, claiming each slice of the city as Zyra's own."
+      }
     },
     {
       "id": 143055,
       "name": "腥红之月 婕拉",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 143055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-17",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 58
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Pearl": {
+            "id": 63
+          },
+          "Rose Quartz": {
+            "id": 60
+          },
+          "Ruby": {
+            "id": 56,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Tanzanite": {
+            "id": 61
+          },
+          "Turquoise": {
+            "id": 62
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "While many Blood Moon priestesses follow the whispers of their demons, Zyra's demon howls with sadistic glee—and Zyra responds in kind. United in their thirst for corruption, Zyra and her demon seek out her fellow priestesses in order to unite them all as one. Only then can they spread their destruction to the world beyond Ionia's borders."
+      }
     }
   ]
 }

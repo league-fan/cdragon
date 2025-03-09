@@ -137,6 +137,54 @@
     }
   ],
   "description": "因自身的慾望而受困，齊勒斯誘使低階祕儀的居民們順從他們心中的野獸本能。他們愈是被禁忌之力所惑，他的力量就愈是增長。儘管齊勒斯深信他們對慾望的渴求能讓他獲得解脫，他卻不明白自己變得愈強大，束縛的枷鎖就只會愈緊。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-05-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 101012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-05-13",
+    "set": [
+      "Arcana"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him. "
+  }
 }

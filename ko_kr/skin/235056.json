@@ -124,6 +124,51 @@
     }
   ],
   "description": "세나는 꿈결과도 같은 여명의 품에서 눈을 떴습니다. 그리고 여명 속에서 세나는 지금껏 본 적 없던 고풍스러운 드레스를 걸치고 있었습니다. 어쩌다 여기까지 왔는지는 고사하고 그 어떤 기억도 떠오르지 않았습니다. 그저 찰나의 온기만이 느껴질 뿐, 완연히 어둠 속으로 사라진 사랑이었습니다. 세나는 궁금증에 빠졌습니다. ''나는 누구지?''",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-12-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235056,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-12-06",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 58
+      },
+      "Rainbow": {
+        "id": 60
+      },
+      "Rose Quartz": {
+        "id": 59
+      },
+      "Ruby": {
+        "id": 57,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Wreathguard": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2023"
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Senna woke in the dreamlike embrace of the Aurora. Clad in regal dress she didn't recognize, she had no memory of how she got there, nor could she remember anything else, save for flashes of warmth: a love, lost in shadow. \"Who am I?\" she wondered."
+  }
 }

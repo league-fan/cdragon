@@ -160,6 +160,61 @@
     }
   ],
   "description": "ダイアナはかつては宇宙の女王アッシュの寵愛を受けていたが、ダークスターの力に興味を持ち過ぎたことが王宮の注意を引き、異端者とみなされて追放された。荒涼とした宇宙の虚無を漂いながら、彼女は以前から自身を魅了し続けていた混沌に身を委ねざるを得なくなってしまった。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131064,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 67
+      },
+      "Emerald": {
+        "id": 70
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Quasar": {
+        "id": 74,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rainbow": {
+        "id": 72
+      },
+      "Rose Quartz": {
+        "id": 69
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 68
+      },
+      "Turquoise": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Diana was once a favorite of Cosmic Queen Ashe, but was labeled a heretic and banished for trying to understand the Dark Star's power with a little too much interest for the Court's comfort. Left adrift in the bleak nothingness of space, she had no choice but to embrace the chaos that had fascinated her for so long."
+  }
 }

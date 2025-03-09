@@ -133,6 +133,51 @@
     }
   ],
   "description": "易大师的家人拒绝了卡勃尔派的控制，逃离了拉巴登城——结果却被消灭了。为了反击，他成为了首批墨之影武者，牺牲自己的寿命来换来了一个魔法墨纹，这个墨纹赋予了他举剑对抗卡勃尔派的力量。他不知道自己还能活多久；尽管如此，他还是会拯救他的城市……并报仇雪恨。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-05-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 11089,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "newvoice": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 91
+      },
+      "Inked": {
+        "id": 95,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Rose Quartz": {
+        "id": 93
+      },
+      "Ruby": {
+        "id": 90,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 94
+      },
+      "Turquoise": {
+        "id": 92
+      }
+    },
+    "voiceactor": [
+      "Greg Chun"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Master Yi's family refused Cabal control, fleeing Rabadon City—only to be snuffed out. To fight back, he became one of the first Inkshadow Warriors, sacrificing his lifespan for a magical tattoo that grants him the power to raise his sword against the Cabal. He doesn't know how long he has left to live; still, he will save his city… and get his revenge."
+  }
 }

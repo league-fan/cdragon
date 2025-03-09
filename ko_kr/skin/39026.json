@@ -160,6 +160,59 @@
     }
   ],
   "description": "아이오니아 대사원이 무너진 후, 이렐리아는 고향이 검은 안개에 유린당하는 광경을 지켜보고만 있을 수 없었습니다. 감시자 대행으로서, 그녀는 감시단의 동료가 되어 대몰락에 맞서 싸웁니다. 타고난 지도자 이렐리아는 몰락한 카르마가 지닌 위험성을 이해하며, 어떤 어려움에도 굴하지 않고 아이오니아의 영혼을 구해 낼 것입니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-07-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 39026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-07-08",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 29
+      },
+      "Pearl": {
+        "id": 32
+      },
+      "Resolute": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 30
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "After the fall of the Ionian Grand Temple, Irelia could not stand idly by while her home was ravaged by the Black Mist. Deputized by the Sentinels, she fights the Ruination as one of their comrades: a natural-born leader who understands the threat that Ruined Karma poses, she will stop at nothing to save the Spirit of Ionia."
+  }
 }

@@ -137,6 +137,54 @@
     }
   ],
   "description": "ブラッドムーンの内部で忠誠心が崩れ去ったときも、ゼドはツイステッド・フェイトの私的な陰の実力者であり、揺るぎない右腕であり続けた。秘密、影、血を取り引きする一方で、自身の悪魔に対する影響力を活かして、自らのカルト内における影響力を高めている。しかし、ツイステッド・フェイトは気づいていなかった──ゼドもまた、スノームーンによって奪われた、行方不明の従者を探しているのだと。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-04-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 238058,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-04-17",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 62
+      },
+      "Catseye": {
+        "id": 60
+      },
+      "Emerald": {
+        "id": 63
+      },
+      "Obsidian": {
+        "id": 66
+      },
+      "Pearl": {
+        "id": 65
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 64
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Mo Yan"
+    ],
+    "lore": "As loyalty fractures within the Blood Moon cult, Zed remains Twisted Fate's unshakable right hand and personal power broker. He trades in secrets, shadows, and blood, all while using his mastery over his demon to increase the cult's influence. What Twisted Fate doesn't know is that Zed is also searching for his lost acolyte, stolen by the Snow Moon."
+  }
 }

@@ -98,6 +98,36 @@
     }
   ],
   "description": "ATRX - 1机型，“霸天剑魔 亚托克斯”的开发是为了使用它有限的飞行能力来击沉巨兽。此外，ATRX - 1装载着一把热能利剑，它能转化残余的光颗粒，使之变成高热刀刃。 ",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-07-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 266002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-07-23",
+    "set": [
+      "Mecha"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 4
+      },
+      "Pearl": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Designated ATRX-1, the “Mecha Aatrox” unit was developed in response to 'gliding' kaiju with the capability of limited flight. In addition, ATRX-1 wields a thermal blade that can turn residual light particles into a heated cutting edge. "
+  }
 }

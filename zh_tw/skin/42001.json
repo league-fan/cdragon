@@ -24,6 +24,19 @@
     }
   ],
   "description": "所有人都說這架飛機飛不起來，但庫奇從來不會因為別人的不看好而灰心喪氣。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2010-01-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 42001,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Code Redemption",
+    "cost": "Special",
+    "release": "2010-01-01",
+    "set": [
+      "Invaders"
+    ],
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "lore": "Everyone said this model wouldn't fly, but Corki's never let himself be discouraged by others being reasonable."
+  }
 }

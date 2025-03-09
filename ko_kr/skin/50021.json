@@ -160,6 +160,60 @@
     }
   ],
   "description": "사냥꾼 스웨인은 다른 동료 지도자들은 무시하고 먼저 앞으로 나서서는 백성들에게 고기와 가죽을 잘 공급하겠다며 여명의 축복을 원했습니다. 그리고 그는 북극성에게 조그마한 활을 건넸고, 북극성은 달빛에 비친 얼음마냥 평화로운 표정으로 이를 바라봤습니다. 만족한 스웨인은 옆으로 비켜 자신의 선물을 기다렸습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-12-08T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50021,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-12-08",
+    "set": [
+      "Winterblessed"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 30
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 25
+      },
+      "Turquoise": {
+        "id": 29
+      },
+      "Wreathguard": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Winterblessed 2022"
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Eric Xie",
+      "West Studio"
+    ],
+    "lore": "The Hunter Swain made no acknowledgment of his fellow leaders and was the first to put himself forward. He desired the Aurora's blessings to better provide meat and pelts for his people. After making his case, he gave the smallest of bows to Polaris, who watched with a face as serene as moonlit ice. Satisfied, Swain stepped aside and waited for his gift."
+  }
 }

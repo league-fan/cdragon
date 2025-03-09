@@ -25,6 +25,27 @@
     }
   ],
   "description": "수술 실패 후, 진은 암시장에서 활동하는 증강 해커에서 기계화된 자객으로 변해 악명을 떨쳤습니다. 끊임없이 업그레이드하도록 설계되어 있기에 희생양의 기술을 끊임없이 흡수한 결과 이젠 성격마저 한 사람의 것이라 볼 수 없는 상태가 되었습니다. 그의 존재는 프로젝트뿐 아니라 인류의 미래마저도 암울하게 만듭니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-11-22T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202004,
+    "formatname": "PROJECT: Jhin",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-11-22",
+    "earlysale": "2018-05",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Quinton Flynn"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "After a botched surgery, Jhin went from being a black-market augment hacker to a notorious mechanized killer for hire. Still programmed with a taste for high-clearance upgrades, the tech Jhin takes from his victims has left him with a severe personality fragmentation, and a dark vision for the future of PROJECT... and humanity."
+  }
 }

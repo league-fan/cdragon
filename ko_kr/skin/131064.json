@@ -160,6 +160,61 @@
     }
   ],
   "description": "다이애나는 한때 우주 여왕 애쉬의 총애를 받았지만, 궁정의 심기를 거스를 만큼 암흑의 별의 힘에 관심을 보인 것 때문에 이단자로 낙인찍혀 추방됐습니다. 우주의 황량한 공허 속에서 표류하게 된 다이애나는 오랫동안 자신을 매혹했던 혼돈을 받아들일 수밖에 없었습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-10-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131064,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-10-23",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 67
+      },
+      "Emerald": {
+        "id": 70
+      },
+      "Pearl": {
+        "id": 73
+      },
+      "Quasar": {
+        "id": 74,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Rainbow": {
+        "id": 72
+      },
+      "Rose Quartz": {
+        "id": 69
+      },
+      "Ruby": {
+        "id": 66,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 68
+      },
+      "Turquoise": {
+        "id": 71
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Diana was once a favorite of Cosmic Queen Ashe, but was labeled a heretic and banished for trying to understand the Dark Star's power with a little too much interest for the Court's comfort. Left adrift in the bleak nothingness of space, she had no choice but to embrace the chaos that had fascinated her for so long."
+  }
 }

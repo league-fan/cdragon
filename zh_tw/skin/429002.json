@@ -49,6 +49,32 @@
     }
   ],
   "description": "慶祝於歐洲舉辦的2015世界大賽。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2015-09-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 429002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-09-27",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 4,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      }
+    },
+    "voiceactor": [
+      "Misty Lee"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Celebrating Worlds 2015 in Europe."
+  }
 }

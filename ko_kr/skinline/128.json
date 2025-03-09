@@ -8,56 +8,181 @@
       "name": "극지 사냥꾼 워윅",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-08-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-15",
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ]
+      }
     },
     {
       "id": 22001,
       "name": "프렐요드 애쉬",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-11-20T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 22001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2014-12-02",
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "lore": "Under a united Freljord, Ashe leads her kinsfolk under one banner to protect against all invaders and the impending threat from the Watchers. With her fellow clan leaders by her side, there's no force in all of Runeterra that can threaten the North."
+      }
     },
     {
       "id": 33004,
       "name": "프렐요드 람머스",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-11-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 33004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-22",
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ]
+      }
     },
     {
       "id": 40003,
       "name": "서리 여왕 잔나",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-12-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 40003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-05",
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ]
+      }
     },
     {
       "id": 81003,
       "name": "서릿빛 이즈리얼",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-07-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 81003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-18",
+        "set": [
+          "Freljord"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Yan Li"
+        ],
+        "lore": "Ezreal occasionally finds himself in the Freljord, searching for such-and-such ancient artifact. But braving sub-zero temperatures, terrifying ice beasts, and angry Freljordian tribes is a tall order, even for him—that's why he goes in disguise. He's practically a different person!"
+      }
     },
     {
       "id": 163001,
       "name": "프렐요드 탈리야",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2016-05-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 163001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-05-17",
+        "earlysale": "2016-10",
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ]
+      }
     },
     {
       "id": 517008,
       "name": "프렐요드 사일러스",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-01-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 517008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-10",
+        "set": [
+          "Freljord"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Fergus O'Donnell"
+        ],
+        "splashartist": [
+          "Katya Cyan",
+          "West Studio"
+        ],
+        "lore": "Free from the kingdom that once imprisoned him, Sylas of Dregbourne marches from Demacia to the Freljord. With every step he takes, he remembers what others have branded him: Mage, Traitor, Kingslayer—names he revels in as he endures the bitter cold, his heart warmed by the fires of rebellion. It will be here, in the icy north, that he will seize the ancient power needed to fuel his revolution…"
+      }
     }
   ]
 }

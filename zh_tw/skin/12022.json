@@ -108,6 +108,48 @@
     }
   ],
   "description": "亞歷斯塔是所有牛頭人中最為雄壯威武的那個，曾經在北境的群山中自由自在的漫遊…但當無盡的寒冬來臨，那股如冰霜女巫的心臟一樣黑暗的霜凍掩覆了他的家園時，這隻勇猛的巨獸淪為了某種怪異腐敗的犧牲品 ─ 他的毛皮和骨頭被扭曲成了純粹、凍結的惡意。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-03-05T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-05",
+    "set": [
+      "Blackfrost"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 26
+      },
+      "Emerald": {
+        "id": 25
+      },
+      "Obsidian": {
+        "id": 27
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "The mightiest of all minotaurs, Alistar once roamed the northern mountains freely… but when the endless winter came and blanketed his home in frost as dark as the heart of the Ice Witch herself, the fearsome behemoth fell prey to an eerie corruption—as his fur and bone twisted into pure, frozen malice."
+  }
 }

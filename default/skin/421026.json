@@ -170,6 +170,64 @@
     }
   ],
   "description": "Final City built its barricades high, protecting its citizens from countless Primordian threats. Rek'Sai laughs in the face of these obstructions—or at least mimics a laugh in the form of a loud, painful screech. Having evolved to tunnel beneath land, she is the ideal infiltrator, the first Primordian to lay eyes on Final City… but certainly not the last.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 421026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-07-17",
+    "set": [
+      "Primordian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Abyssal": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Amethyst": {
+        "id": 29
+      },
+      "Catseye": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 31,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 34
+      },
+      "Rainbow": {
+        "id": 33
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "N/A"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Final City built its barricades high, protecting its citizens from countless Primordian threats. Rek'Sai laughs in the face of these obstructions—or at least mimics a laugh in the form of a loud, painful screech. Having evolved to tunnel beneath land, she is the ideal infiltrator, the first Primordian to lay eyes on Final City… but certainly not the last."
+  }
 }

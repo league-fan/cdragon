@@ -33,6 +33,24 @@
     }
   ],
   "description": "从近期的怪物进攻中存活下来的人，总会讲述关于天空之蛇和盘踞于群山深处的女巫的故事。如果传言是真的，那么它意味着巨龙们已经回来了……而这一次，婕拉会将它们孵化。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2017-03-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-03-09",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Survivors of recent monster attacks tell stories of serpents in the sky and a powerful sorceress nesting deep in the mountains. If the rumors are true, it means the dragons have returned—and that this time, Zyra is breeding them."
+  }
 }

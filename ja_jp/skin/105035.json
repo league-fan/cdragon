@@ -147,6 +147,56 @@
     }
   ],
   "description": "いたずら好きなフィズはカエルたちが持つ魔法の歌声に嫉妬し、独学で歌を歌って雨を召喚する方法を学んだ。最初は耳を塞ぎたくなるような歌声だったが、すぐに彼の歌は聴衆の涙を誘うほどになった。そうして魔法の歌声を手に入れた今、フィズは誰かのパレードに雨を降らせてやりたくてうずうずしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-06-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 105035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-06-26",
+    "set": [
+      "Rain Shepherd"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 40
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "Citrine": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 39,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Meteorite": {
+        "id": 42
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 43
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "The fiendish Fizz was so jealous of the magical singing voices frogs possess that he taught himself how to sing and summon the rains. Though earsplitting at first, before long his songs were drawing tears from his listeners. With his magical vocals, Fizz is now keen to rain on everyone's parades."
+  }
 }

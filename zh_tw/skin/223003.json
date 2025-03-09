@@ -134,6 +134,47 @@
     }
   ],
   "description": "貪啃奇對錢幣的渴望程度遠超過對一切事物的渴望。每逢新春狂歡慶典，貪啃奇就會從他的河底王國中現身，尋求與凡人們討價還價的機會。儘管他鎖定的目標們最終都避免不了變成窮困潦倒的地步，但曾有傳言說過，只要運用適當尊重和謹慎言詞的人，就可以逃離他的討價還價，從此變得富有無比。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-01-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 223003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-28",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 4
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy."
+  }
 }

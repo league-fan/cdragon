@@ -25,6 +25,27 @@
     }
   ],
   "description": "豪華なイベントの同伴者として甘やかされたペットを連れて行くと大ひんしゅくを買うだろうが、時にはネコの毛をまったく気にする必要がないこともある。この最新モデルの「サイバーキャット ユーミ」なら、どんなパーティーでも楽しめること間違いなしだ！",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-07-17T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 350050,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2024-07-17",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 49,
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Su Fu",
+      "Kudos Productions"
+    ],
+    "lore": "Bringing your pampered pet as a plus one to A-list events is all the rage, but sometimes you don't want to have to worry about cat hair. No problem, because this latest model of Cyber Cat Yuumi is here to prove that they call it a “catwalk” for a reason!"
+  }
 }

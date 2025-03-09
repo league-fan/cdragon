@@ -216,6 +216,66 @@
     }
   ],
   "description": "ザイラは、『偉大なる獣ガリオ』の背景に憑りついている紙の精霊であり、その物語が語られるのを幾度となく見てきた。そして、月の演者たちが紙の神話の世界へと落ちてきたとき、ザイラは尽きることのない好奇心に突き動かされ、この新参者たちを捕らえた。常に変わることなく繰り返される物語の世界に訪れた変化と新奇を、彼女は何としてでも守り抜こうとしている。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2023-01-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 143036,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-01-12",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 38
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Gilded": {
+        "id": 45,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2023"
+      },
+      "Paragon": {
+        "id": 65,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      },
+      "Pearl": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 37,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 42
+      },
+      "Turquoise": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Sora Kim",
+      "West Studio"
+    ],
+    "lore": "Zyra is a spirit of the paper, haunting the scenery of “The Great Beast Galio” and watching the story unfold again and again. When the Lunar Players fall into the paper myth-world, Zyra's insatiable curiosity drives her to capture these newcomers, desperate to hold onto change and novelty in a world where the story always remains the same."
+  }
 }

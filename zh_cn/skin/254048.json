@@ -34,6 +34,25 @@
     }
   ],
   "description": "每当祖安的夜幕降临，地下笼斗场就会传来一阵阵人群的咆哮声。斗士们为了饱餐而拼命搏斗，人们则争相下注，有人赢钱，自然就有人输钱。最近，一位新进的拳击手开始崭露头角。这位不败的冠军指关节全是淤青，一脸愤恨不平的表情，一看就不好惹……",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 254048,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Cia Court"
+    ],
+    "splashartist": [
+      "Terence 'Terrylefruit' Cantal"
+    ],
+    "lore": "As night falls in Zaun, the roar of the crowd rises from the underground cage fights. Bets are placed and money changes hands as brawlers fight their way to their next meal. Lately, a new fighter has been making a name for herself, an undefeated champion with bruised knuckles and a chip on her shoulder…"
+  }
 }

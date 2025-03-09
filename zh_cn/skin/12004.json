@@ -24,6 +24,20 @@
     }
   ],
   "description": "旧西部地区中有一些较务实的人已经融入了人类社会——笨重的牛魔阿利斯塔就是其中之一。作为出租劳力的肌肉男，他经常被人们发现在酒吧打架或放倒银行金库的门。只要给钱，牛角就到位。  ",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2011-02-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2011-02-16",
+    "retired": "2014-12-02",
+    "set": [
+      "High Noon"
+    ],
+    "vu": true,
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "lore": "A handful of the Old West's more pragmatic individuals have integrated into human society—the hulking minotaur Alistar among them. Working as muscle for hire, he can be found breaking up saloon fights as often as knocking down bank vault doors. If it pays, the longhorn's on board."
+  }
 }

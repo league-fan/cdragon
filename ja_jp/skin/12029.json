@@ -160,6 +160,53 @@
     }
   ],
   "description": "雄牛の一門のリーダーであるアリスターは、自身への信頼とぶっきらぼうな賛辞で頑固者だらけの部隊をひとつにまとめている。隊員の頑固さにすぐにカッとなることはあるものの、彼は雄牛の一門が計画通り完璧にことを進め、今年の旧正月の祝祭を滞りなく済ませられるように全力で挑んでいる。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2021-02-04T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 12029,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-02-04",
+    "set": [
+      "Lunar Beast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 33
+      },
+      "Catseye": {
+        "id": 32
+      },
+      "Obsidian": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Vitality": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Harlan Hogan"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "The leader of Ox Clan, Alistar keeps his stubborn squad in line with his reliability and gruff approval. A bit quick to anger with some squad members' bull-headedness, he's determined that nothing and no one will derail this Lunar New Year festival, or Ox Clan's plan to make it a flawless celebration."
+  }
 }

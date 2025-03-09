@@ -114,6 +114,49 @@
     }
   ],
   "description": "「萌芽の勇猛流」の僧侶の子供であるソラカは僧侶となることを期待されていたが、彼女は決められた道を歩むことを嫌った。真の力は一切の思い込みを捨てることで得られると考えていた伝説の存在、神の杖ジャックスの古い物語を思い出し、ソラカは両親の望みを無視して、「流動の直感流」で学んだ。彼女は自らのやり方で不滅性を手に入れるつもりでいる。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 16037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way."
+  }
 }

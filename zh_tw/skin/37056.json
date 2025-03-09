@@ -869,6 +869,82 @@
     }
   },
   "description": "在積分對戰累積足夠季賽分數，即可獲得「戰爭英雄 索娜」。索娜能夠運用琴聲使毫無戒心的人沉溺於虛假的安全感，不單能迅速救活隊友，也能送敵人最後一程。",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-10-10T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 37056,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 2.",
+    "release": "2024-10-10",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Challenger": {
+        "id": 65,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Diamond": {
+        "id": 62,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Emerald": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Gold": {
+        "id": 59,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Grandmaster": {
+        "id": 64,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Master": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Platinum": {
+        "id": 60,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Silver": {
+        "id": 58,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Santiago Parra",
+      "Pandart Studio"
+    ],
+    "lore": "Victorious Sona was earned by players who accumulated enough split points in Ranked. Luring the unsuspecting into a false sense of ease with her melodies, Sona is as quick to pluck her allies from the brink of death as she is to send her foes to their grand finale."
+  }
 }

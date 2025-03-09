@@ -13,136 +13,675 @@
       "name": "正义天使",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "260",
-      "wikiReleaseDate": "2009-02-21T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart",
+          "Victor '3rdColossus' Maury",
+          "Jennifer Wuestling"
+        ],
+        "lore": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother’s legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return…"
+      }
     },
     {
       "id": 10001,
       "name": "银白审判 凯尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2009-11-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Retail Purchase",
+        "cost": "Special",
+        "release": "2009-11-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends."
+      }
     },
     {
       "id": 10002,
       "name": "末世天使 凯尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-06-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "set": [
+          "Albion"
+        ],
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "chromas": {
+          "Aquamarine": {
+            "id": 11
+          },
+          "Citrine": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 13
+          }
+        },
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world."
+      }
     },
     {
       "id": 10003,
       "name": "大天使长米迦勒 凯尔",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-07-13",
+        "retired": "2012-03-12",
+        "set": [
+          "Otherroads"
+        ],
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "Having cast aside her humanity, Kayle has transcended and fully assumed her mother's mantle as the divine Aspect of Justice. She is aware of her mortal origins, but views it as something distant that she left behind very long ago."
+      }
     },
     {
       "id": 10004,
       "name": "战场女武神 凯尔",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-04-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-18",
+        "set": [
+          "Woad"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Kayle is a benevolent goddess in times of peace, and a terrifying battle spirit in times of war. She wears the traditional warpaint of her people as a living record of their victories and power."
+      }
     },
     {
       "id": 10005,
       "name": "圣光审判 凯尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2011-08-22T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Limited Distribution",
+        "cost": "Special",
+        "release": "2011-08-22",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "Those poor souls accused of crimes are brought before the all-seeing entity Kayle, where their deeds are judged with cold dispassion. Few are absolved, and fewer still escape their sentence."
+      }
     },
     {
       "id": 10006,
       "name": "钢铁之翼 凯尔",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2013-01-18T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2013-01-18",
+        "set": [
+          "Steel Valkyries"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Ace": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Steel Valkyries 2022"
+          },
+          "Amethyst": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Authorized pilot of the X07-Gevurah combat exosuit, Kayle is a justicar of the Royal Space Military operating deep in the heart of lawless space. Though her mission is to uphold the fragile postwar peace, years of violent conflict have radicalized her—now she acts as heartless judge, jury, and executioner for anyone or anything that falls beneath her gaze."
+      }
     },
     {
       "id": 10007,
       "name": "防暴天使 凯尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2014-08-12T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-08-12",
+        "set": [
+          "Riot"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "John Yucedag"
+        ],
+        "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2014."
+      }
     },
     {
       "id": 10008,
       "name": "钢铁审判官 凯尔",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-05-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-05-04",
+        "earlysale": "2016-11",
+        "set": [
+          "Omen of the Dark"
+        ],
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "To be crowned inquisitor was to take a stand against the darkness, and at the head of the order stood Kayle, for her light shone the brightest. But darkness comes in many forms, and when the city fell, even its greatest champion would eventually turn upon her sisters."
+      }
     },
     {
       "id": 10009,
       "name": "五杀摇滚女声主唱 凯尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2017-08-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Pentakill"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Alvin Lee",
+          "Kan Liu"
+        ],
+        "lore": "When PENTAKILL needed a female vocalist, the heavens parted and a literal angel of rock fell to earth, taking up her sword-mic for the eternal glory of heavy metal."
+      }
     },
     {
       "id": 10015,
       "name": "灵能特工 凯尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2020-09-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-09-17",
+        "set": [
+          "Black Rose Group"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 21
+          },
+          "Hunter": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PsyOps 2020"
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 17
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A self-described “savior” and powerful psionic swordswoman, Kayle views herself as an impartial judge in world affairs, appearing on wings powered by psychic energy as an angel of war. Her understanding of the world is black and white to a frightening extreme, and she has joined the paramilitary BRG to see her twisted vision realized."
+      }
     },
     {
       "id": 10024,
       "name": "屠龙勇士 凯尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-04-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-15",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "A famous dragonslayer who vanished into the distant mountains, obsessed with destroying the dragon lineage utterly. Many years later she has returned, so changed by the carnage that she has begun to resemble a dragon herself."
+      }
     },
     {
       "id": 10033,
       "name": "五杀摇滚 III：遗失的章节 凯尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-09-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10033,
+        "formatname": "Pentakill III: Lost Chapter Kayle",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-09",
+        "set": [
+          "Pentakill III: The Lost Chapter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 37
+          },
+          "Catseye": {
+            "id": 41
+          },
+          "Emerald": {
+            "id": 35
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Pearl": {
+            "id": 39
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "All hail, Kayle, the Bringer of Woe! With the strength of a self-righteous angel, she claims justice and judgment soar on her wings of wrath. Surely, if any can rally the warrior host of metal, it will be her."
+      }
     },
     {
       "id": 10042,
       "name": "食日天使 凯尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 44
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Rainbow": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 46
+          },
+          "Turquoise": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "The hated sun-eater, Kayle wished to be one with the divine she loved, devouring the primordial sun and steeping the land in an eternal eclipse. Driven mad with light and unable to contain her power, she passed fragments down to an army of witch-knights, who slew the other gods in an act of unforgivable blasphemy."
+      }
     },
     {
       "id": 10057,
       "name": "玉剑传说 翼剑仙",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-08-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10057,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 62
+          },
+          "Catseye": {
+            "id": 63
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Obsidian": {
+            "id": 64
+          },
+          "Pearl": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 60
+          },
+          "Ruby": {
+            "id": 58,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "The Grounded Foresight School teaches power in knowing one's surroundings, but as Kayle nears immortality, doubt has crept in. Her parents' random deaths fostered a desire to exert as much control as possible in her life, but with her teacher Zed's banishment, the ground is now shaky. Immortality, she hopes, will finally give her solid footing."
+      }
     },
     {
       "id": 10066,
       "name": "至高天 凯尔",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10066,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 69
+          },
+          "Emerald": {
+            "id": 70
+          },
+          "MSI 2024 Chaos": {
+            "id": 77,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "MSI Empyrean 2024 Premium Pass Bundle"
+          },
+          "Neon Facade": {
+            "id": 76,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 74
+          },
+          "Rose Quartz": {
+            "id": 72
+          },
+          "Ruby": {
+            "id": 68,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 73
+          },
+          "Tanzanite": {
+            "id": 75
+          },
+          "Turquoise": {
+            "id": 71
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Royal life for Kayle was one of blissful ignorance, while her sister pursued justice and equality for their subjects. After becoming the sole survivor of her realm, Kayle was awoken, and saw her fate as punishment for years of indifference. Now she doles out justice across the realms in tribute to her sister, though her methods are far more... severe."
+      }
     },
     {
       "id": 10067,
       "name": "至臻 至高天 凯尔",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 10067,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 66,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "When flames swept through Kayle's studio, at first she was overcome with grief. She had lost everything, but then realized that the fire freed her to do—and be—more. Now she returns to the Gala with her new line, Neon Flame, crossing styles, materials, and forms. Kayle has been reborn, and she will transcend everyone."
+      }
     }
   ]
 }

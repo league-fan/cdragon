@@ -147,6 +147,54 @@
     }
   ],
   "description": "卡西奥佩娅发现自己喝了一瓶出了问题的药水，问题出在熬制时被一条毒蛇滑入了她冒泡的坩埚里。再也不能骑扫帚的她躲在派对上，希望能抓住那些毫无戒心的社交名流们的眼睛。伴随着蛇尾而来的……是蛇的食欲。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-10-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 69028,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-10-20",
+    "set": [
+      "Bewitching"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 32
+      },
+      "Emerald": {
+        "id": 31
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Pearl": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 29,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      },
+      "Turquoise": {
+        "id": 34
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Silvia Meiliani",
+      "Caravan Studio"
+    ],
+    "lore": "Cassiopeia found herself on the receiving end of a potion gone wrong when a venomous viper slithered into her bubbling cauldron. No longer able to ride her broom, she skulks about the party, hoping to catch the eyes of unsuspecting socialites. With the tail of a snake came… its appetite."
+  }
 }

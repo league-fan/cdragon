@@ -137,6 +137,55 @@
     }
   ],
   "description": "오래전에 죽었다고 알려진 고대의 기사 케일이 일식 성당의 지하묘지에서 해방되어 오랜 잠에서 깨어났습니다. 이제 세나는 부활한 고대 신으로부터 구할 수 있는 자들을 구하고 악의 여단의 새로운 위협에 맞서기 위해 기사들을 지원합니다... 이제 태양 포식자의 귀환은 피할 수 없기에 그녀는 항상 경계를 늦추지 않습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-04-28T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 235026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-04-28",
+    "set": [
+      "Eclipse"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 31
+      },
+      "Tanzanite": {
+        "id": 32
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Cynthia Kaye McWilliams"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An ancient knight long thought dead, freed from the Eclipse Cathedral's catacombs as Kayle began to stir from her ancient slumber. Senna now aids her knighthood against the new threat of the Coven, saving whoever she can from the resurrected Old Gods… though she remains ever vigilant, as the sun-eater's return is now inevitable."
+  }
 }

@@ -145,6 +145,49 @@
     }
   ],
   "description": "派克是因守衛背叛而死，滿懷著復仇恨意的怨靈。他現在潛伏在位於沙漠遺址的金黃大廳中，並且獵殺所有與之對視的倒楣鬼。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-31",
+    "set": [
+      "Guardian of the Sands"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 2
+      },
+      "Obsidian": {
+        "id": 3
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Sapphire": {
+        "id": 4
+      },
+      "Tanzanite": {
+        "id": 5
+      },
+      "Turquoise": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Mike Azevedo"
+    ],
+    "lore": "The vengeful ghost of an ancient caravan master betrayed by his guards, Pyke now lurks within the golden halls of the desert's remaining city-states. He hunts anyone and everyone who attracts his gaze, claiming they all condemned him to death."
+  }
 }

@@ -25,6 +25,25 @@
     }
   ],
   "description": "제이스 탈리스는 진보의 끝이라는 악몽 같은 가능성에 직면했습니다. 아케인은 그의 세계를 뒤엎고 그를 바꿔 놓았습니다. 심지어 마법공학 해머마저 다른 존재가 된 듯 미래의 위협을 상대로 그 육중한 무게를 휘두릅니다. 처참한 사고의 여파로 피투성이가 된 제이스는 살아남았음에도 무너질 뻔했지만 자신만이 이행할 수 있는 약속을 지키고자 마음을 다잡았습니다.",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2024-11-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 126035,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Trevor Devall"
+    ],
+    "splashartist": [
+      "Alsie Lau"
+    ],
+    "lore": "Jayce Talis faces a nightmarish possibility: the end of progress. The arcane transformed him, upending his world. Even his hextech hammer feels altered, wielding the weight of a gavel against threats to the future. What he has seen left him bloodied, what he survived nearly broke him—but he remains determined to keep a promise only he can fulfill."
+  }
 }

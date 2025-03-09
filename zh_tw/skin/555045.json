@@ -124,6 +124,53 @@
     }
   ],
   "description": "落入曙光懷抱之前的記憶，派克幾乎想不起來了，他只記得自己正在捍衛家鄉。隨派，派克在一個全新境界甦醒，成為第一名宇宙幻焰，他能聽見其他派克們橫跨次元的低語，從他們的家鄉嘲諷他的悽慘下場。為什麼失去歸宿的是他，而不是他們？沒有任何回答能澆熄他的勃然怒火，唯有復仇一途。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2022-11-03T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 555045,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-11-03",
+    "set": [
+      "Empyrean"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 48
+      },
+      "Neon Flare": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2022"
+      },
+      "Pearl": {
+        "id": 49
+      },
+      "Rose Quartz": {
+        "id": 50
+      },
+      "Ruby": {
+        "id": 47,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 51
+      }
+    },
+    "voiceactor": [
+      "Darien Sills-Evans"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Pyke remembers little before falling into the embrace of the Foreglow, only that he was defending his home. Waking in a new realm as the first Empyrean, he hears the whispers of other Pykes across the dimensions, taunting him from their homes. Why was his lost and not theirs? No answer will satisfy his searing rage, except vengeance."
+  }
 }

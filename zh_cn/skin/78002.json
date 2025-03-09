@@ -34,6 +34,21 @@
     }
   ],
   "description": "波比的巧克力工坊对糖果王国中的人民来说是一个传说。每个人都记得她的脸。每个人。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2010-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 78002,
+    "formatname": "Lollipoppy",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-10-19",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Kate Higgins"
+    ],
+    "lore": "Lollipoppy is a legend to the people of the Candy Kingdom. Everyone remembers her face. Everyone."
+  }
 }

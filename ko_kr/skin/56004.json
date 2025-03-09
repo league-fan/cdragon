@@ -25,6 +25,19 @@
     }
   ],
   "description": "유령 녹턴에게 거대한 칼날 팔이 없었다면 훨씬 덜 무서울 겁니다.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2011-10-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 56004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-10-19",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Jason Wishnov"
+    ],
+    "lore": "Haunting Nocturne would be a lot less haunting without those huge knife arms."
+  }
 }

@@ -137,6 +137,53 @@
     }
   ],
   "description": "浜辺で過ごすゆったりとした時間は、ジャーヴァンにとって最高のリラクゼーションだ。王座ではなく、お気に入りのビーチチェアに腰掛け、国家運営のことは忘れて、ただ波の音に耳を傾ける。それに混じってかすかに聞こえるのは、誰かのスパイクしたバレーボールがジャーヴァン目掛けて一直線に飛んでいく音だ…",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-07-02T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 59011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-02",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Aquamarine": {
+        "id": 15
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Peridot": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him..."
+  }
 }

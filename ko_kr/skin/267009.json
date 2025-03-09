@@ -96,6 +96,45 @@
     }
   ],
   "description": "나미는 공격적인 기업 인수 합병으로 인수된 한 제조업체의 수중 탐사 및 구조용 의료 로봇입니다. 그러나 프로그램의 명령을 받아 돌이킬 수 없이 변질되고 말았죠. 나미는 여전히 주요 기능을 수행하지만… 행동이 점점 불안정해지고 있습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-11-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 267009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-11-15",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Pyeongjun Park"
+    ],
+    "lore": "An aquatic search and rescue med-bot whose manufacturer was acquired in an aggressive corporate takeover, Nami has been irreversibly changed by the directives of Program. For now, she continues in her primary function… though her behavior has become increasingly erratic."
+  }
 }

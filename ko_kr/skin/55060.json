@@ -49,6 +49,34 @@
     }
   ],
   "description": "임무가 확정됐다. 실크 무도회에서 공격해라. 초승달이 뜬 후 여덟 번째 밤, 키테라 가문의 저택이다. 가면 무도회이니 녹서스 귀족의 복장을 입도록. 초대장과 표적의 초상화를 동봉했다. 처리 방법은 알아서 정해라. 이 편지는 불태우고 무기를 벼려 두어라. (서명 없는 편지다.)",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2025-01-09T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 55060,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "2025, S1 Act 1 Premium Battle Pass reward (Level 50)",
+    "release": "2025-01-09",
+    "set": [
+      "Masque of the Black Rose"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Enigma": {
+        "id": 69,
+        "availability": "Limited",
+        "source": "Limited",
+        "distribution": "Event Pass Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Tara Platt"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "Your mission is confirmed. Strike at the Silken Danse. The eighth night after the new moon, at the manor of House Kythera. Masquerade ball—dress in the attire of Noxian noblesse. Enclosed is an invitation and portrait of the mark. Method is yours to decide. Burn this message and hone your steel. (The letter is unsigned.)"
+  }
 }

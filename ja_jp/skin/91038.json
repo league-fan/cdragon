@@ -160,6 +160,60 @@
     }
   ],
   "description": "「運命から逃げ切ることなど、できはしない」とタロンは言い、椅子にもたれかかった。帽子の影に隠れた捕食者の目が光る。天使の血によって歪み、穢された今でも、彼は本来の姿である悪魔として振舞っている。彼は訳知り顔で物憂げな笑みを浮かべ、その多すぎる歯をのぞかせる。「俺たちの終焉は近い」",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-05-12T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 91038,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "High Noon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 41
+      },
+      "Emerald": {
+        "id": 45
+      },
+      "Nomad": {
+        "id": 48,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "High Noon 2022"
+      },
+      "Obsidian": {
+        "id": 46
+      },
+      "Pearl": {
+        "id": 47
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 40,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 43
+      },
+      "Tanzanite": {
+        "id": 44
+      }
+    },
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Ina Wong",
+      "West Studio"
+    ],
+    "lore": "“Fate is catchin' up to you, old friend,” Talon says, leaning back in his chair, predator's eyes gleaming under the shadows of his hat. He still moves like a demon, even warped and corrupted by angel blood as he is. His smile, rueful and knowing, has too many teeth: “The end is comin' for us all.”"
+  }
 }

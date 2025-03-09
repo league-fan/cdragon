@@ -48,6 +48,32 @@
     }
   ],
   "description": "거칠고 자신만만한 성격을 지닌 전장의 여제 시비르의 관심은 오직 전장에서의 전율과 돈뿐입니다. 그녀는 얼음 위를 가로지르며 쉬지 않고 현상금 사냥에 나섭니다. 잔혹한 눈보라만큼이나 단단하고 가차 없는 날카로운 거대 눈꽃으로 적을 해치워 버리죠.",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 15006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-12-19",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "The wild and brash Battle Mistress known as Sivir cares only for the thrill of combat and the rattle of coin. She relentlessly hunts her bounties across the ice, cutting down opponents with a massive, razor-sharp snowflake as hard and unforgiving as the cruelest snowstorm."
+  }
 }

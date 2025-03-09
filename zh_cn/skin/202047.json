@@ -128,6 +128,49 @@
     }
   ],
   "description": "在月之舞者们扭曲剪纸仙境之后，烬是卡西奥佩娅的第一个造物。他体现了神话之蛇最阴险的那些品质：阴险、算计和恶意。烬对这位女神仁慈的行事方式感到不满，打算以自己的形象重建人类，并让他们感受苦难之美。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2025-01-23T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 202047,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2025-01-23",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 50
+      },
+      "Emerald": {
+        "id": 49
+      },
+      "Obsidian": {
+        "id": 53
+      },
+      "Rose Quartz": {
+        "id": 51
+      },
+      "Ruby": {
+        "id": 48,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 52
+      }
+    },
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Augusto Qurino",
+      "Pandart Studio"
+    ],
+    "lore": "Jhin is the first of Cassiopeia's creations after the Lunar Players distort the world of myth. He embodies the mythical snake's most insidious qualities: sinister, calculating, and malicious. Displeased with the goddess's benevolent methods, Jhin plans to recreate humanity in his image and introduce them to the beauty of suffering."
+  }
 }

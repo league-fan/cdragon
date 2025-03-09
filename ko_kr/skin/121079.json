@@ -44,6 +44,31 @@
     }
   ],
   "description": "혼돈의 수정 주민들에게 카직스는 무한한 허기에 허덕이며 끝없이 생명을 흡수하는 순수한 공포의 수정 생물로 통합니다. 반면에 북부에서는 카직스를 수정 그 자체로 빚어낸, 완벽에 가까운 형상을 얻은 존재로 여깁니다. 또, 프리즘의 힘을 퍼뜨리고자 하는 카직스의 열성은 북부 주민들에게 영감의 원천으로 작용합니다.",
-  "wikiPrice": "Special",
-  "wikiReleaseDate": "2024-03-20T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 121079,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-03-20",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 80,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "To citizens of Crystalis Motus, the being known as Kha'Zix is a purely crystalline horror whose hunger to assimilate life knows no limits. To those in the north, however, it is a marvel: a being shaped by the crystals themselves into a near perfect form, and whose zeal to spread the Prismae's power is inspirational."
+  }
 }

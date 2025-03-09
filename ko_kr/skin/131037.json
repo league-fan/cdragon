@@ -226,6 +226,59 @@
     }
   ],
   "description": "노점상들은 새해 축복을 받을 수 있을까 기대하며 '달의 여인'에게 상품을 공짜로 제공합니다. 다이애나는 기꺼이 부탁을 들어주지만, 덕분에 몇 걸음 걸을 때마다 친절한 상인을 만나 멈춰 서게 되죠... 다행히, 다이애나와 같이 축제를 즐기는 친구들은 참을성이 많습니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-01-26T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131037,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-01-26",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 43
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Golden Tiger": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Obsidian": {
+        "id": 45
+      },
+      "Pearl": {
+        "id": 44
+      },
+      "Rose Quartz": {
+        "id": 42
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 39
+      },
+      "Tanzanite": {
+        "id": 41
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Market stalls offer the Lady of the Moon their wares freely, in hope of receiving a blessing for the New Year. Diana is happy to oblige, even if it means getting stopped every few feet by another well-wisher… Luckily, Diana's festival buddies are patient."
+  }
 }

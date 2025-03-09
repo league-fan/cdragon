@@ -160,6 +160,59 @@
     }
   ],
   "description": "宇宙の外縁をパトロールする強力なアウターガーディアンであるニーラは、次元を破壊する脅威と何度も対峙して生還している。それが理由で、仲間たちの間では生きる伝説として知られており、新たな世代の指導者となるよう頼まれた。この新たな役目を渋々引き受けたニーラだが…ヴァロランシティに巨大モンスターが現れると、自分の獲物だと言わんばかりに、真っ先に立ち向かっていく。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 895001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-07-13",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Brilliant": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 7
+      },
+      "Emerald": {
+        "id": 3
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 2,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "Sandra Saad"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "A powerful Outer Guardian who patrols the wider universe, Nilah has faced multiple reality-ending threats and returned alive... making her a living legend among her peers. Asked to act as teacher to the new generation, she has reluctantly accepted her new responsibilities... though if a particularly big monster appears in VC, she always calls dibs."
+  }
 }

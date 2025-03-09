@@ -66,6 +66,41 @@
     }
   ],
   "description": "雷玟於創世黎明之初挾著翻旋的能量誕生，她就是宇宙中秩序的化身。揹負著終生與闇夜使者對抗的命運，她相信總有一天能以自身的光劃破深沉的夜。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2017-06-14T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 92016,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "cost": 1820,
+    "release": "2017-06-14",
+    "earlysale": "2017-12",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 56,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      },
+      "Paragon": {
+        "id": 24,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Born from swirling energies at the dawn of creation, Riven is the living embodiment of order in the cosmos. Fated to clash against the Nightbringer for all time, she awaits a day when her light will finally break his darkness."
+  }
 }

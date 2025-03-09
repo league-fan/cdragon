@@ -8,112 +8,336 @@
       "name": "Super Teemo",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-10-10T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 17006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-10",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "Evildoers beware! The archvillain-turned-superhero Teemo knows how you think—and he's ready to strike back in the name of peace and justice! With a single deafening blast, Teemo's super sigil bursts open to envelop foes in a specially formulated toxin, leaving them ready for capture and incarceration! Thanks, Teemo!"
+      }
     },
     {
       "id": 18006,
       "name": "Rocket Girl Tristana",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 18006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-19",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Navy": {
+            "id": 7
+          },
+          "Orange": {
+            "id": 9
+          },
+          "Purple": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
     },
     {
       "id": 19005,
       "name": "Feral Warwick",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2010-11-16T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 19005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-16",
+        "retired": "2012-03-19",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "Another of Singed's vile henchmen, Warwick is never far from his villainous master. Given wolf powers after being bitten by a radioactive wolf, Warwick has been further augmented by Singed's evil research! Will our brave heroes ever be able to stop him?!"
+      }
     },
     {
       "id": 23009,
       "name": "Chemtech Tryndamere",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2017-06-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 23009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-06-05",
+        "earlysale": "2017-12",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "A monstrous experiment created by the villainous Singed, Tryndamere was irrevocably changed when he fell into a vat of volatile chemicals. Wherever Singed goes, Tryndamere follows—yet another dastardly villain battling against New Valoran's bravest heroes!"
+      }
     },
     {
       "id": 27005,
       "name": "Augmented Singed",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-07-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 27005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-09",
+        "set": [
+          "Silver Age"
+        ],
+        "newanimations": true,
+        "voiceactor": [
+          "Unknown voice actor"
+        ],
+        "lore": "A dastardly villain lurking in the dark corners of New Valoran, the mild-mannered Dr. Peter Singed was transformed by a volatile chemical of his own invention—becoming the superhuman criminal known only as… Singed! Can anyone stop this vile malefactor before it's too late?!"
+      }
     },
     {
       "id": 36001,
       "name": "Toxic Dr. Mundo",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2009-12-17T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 36001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-12-17",
+        "retired": "2011-11-28",
+        "set": [
+          "Silver Age"
+        ],
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Mundo not toxic, Mundo has healthy emotional coping mechanisms—oh, you mean purple goo? Mundo is sure that's fine, too."
+      }
     },
     {
       "id": 39003,
       "name": "Infiltrator Irelia",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-10-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 39003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-11",
+        "retired": "2014-12-02",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "vu": true,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Using technologically superior cracking devices and hard-light blades, Irelia's nefarious activity is surprisingly hard to follow. She's responsible for a string of heists and high-profile espionage missions."
+      }
     },
     {
       "id": 45006,
       "name": "Superb Villain Veigar",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-01-02T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 45006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-02",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Bob Beal"
+        ],
+        "lore": "The villainous Veigar is at it again! Reigning from the top floor of the Veigar Company skyscraper, the criminal mastermind hatches the vilest plans New Valoran has ever seen! Yet even when his schemes are foiled, he always escapes punishment, biding his time until his next chance to strike!"
+      }
     },
     {
       "id": 56003,
       "name": "Ravager Nocturne",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-07-13",
+        "set": [
+          "Silver Age"
+        ],
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Zhuore Zhi Hen"
+        ]
+      }
     },
     {
       "id": 63003,
       "name": "Cryocore Brand",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-10-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 63003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-05",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "lore": "An elite soldier of a military wetworks unit, Kegan Rodhe was left behind enemy lines deep in the frozen arctic! But instead of dying, Rodhe found himself captured by a cabal of evil scientists, whose brutal experiments transformed him into the diabolical villain Cryocore!"
+      }
     },
     {
       "id": 85001,
       "name": "Deadly Kennen",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2010-04-08T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 85001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-08",
+        "retired": "2014-12-02",
+        "set": [
+          "Silver Age"
+        ],
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
     },
     {
       "id": 85007,
       "name": "Super Kennen",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2017-03-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 85007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2017-03-29",
+        "earlysale": "2017-10",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Coming to a store near you: the new Super Kennen action figure! At 6″ tall, the new Super Kennen is fully articulated, with dazzling lightning bolt action! Add this fitting tribute to New Valoran's bravest hero to your collection today!"
+      }
     },
     {
       "id": 122002,
       "name": "Bioforge Darius",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2012-11-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 122002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-11-13",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Chuck Kourouklis"
+        ],
+        "lore": "To save his own life after being exposed to a cloud of radioactive space gas, investment banker Donald D. Darius was forced to build a suit containing the strange mixture. But the chemicals from beyond the stars warped his weakened mind, twisting him into the brutal villain known as Bioforge!"
+      }
     },
     {
       "id": 133001,
       "name": "Phoenix Quinn",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2013-03-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 133001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-01",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Lauren Mayhew"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "The daring duo Quinn and the phoenix Valor are always near when crime is afoot! Combining their legendary powers, they clean up the streets of New Valoran with a well-placed arrows and the burning flames of justice!"
+      }
     }
   ]
 }

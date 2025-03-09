@@ -48,6 +48,32 @@
     }
   ],
   "description": "ワイルドで気の強い戦場の女王シヴィアは、戦闘のスリルとコインが鳴らす音だけが生きがいだ。彼女は氷上で賞金首を執拗に追いかけ、カミソリのごとく鋭い巨大な雪の結晶で、吹き荒れる雪嵐のように容赦なく相手を切り裂くのだ。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2013-12-19T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 15006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-12-19",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "The wild and brash Battle Mistress known as Sivir cares only for the thrill of combat and the rattle of coin. She relentlessly hunts her bounties across the ice, cutting down opponents with a massive, razor-sharp snowflake as hard and unforgiving as the cruelest snowstorm."
+  }
 }

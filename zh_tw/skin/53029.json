@@ -124,6 +124,53 @@
     }
   ],
   "description": "布里喵與阿茨貓是貓咪星球中勇猛的戰士，且他們在操作名為布里茨的機甲時合作得天衣無縫（大部分時候啦）。儘管阿茨貓相信自己能夠在精力充沛的副駕駛—布里喵的幫助下克服自己缺乏節奏感的缺點，布里喵卻……嗯……，有點陷入自己的舞曲當中了。他們齊心合力，計畫接管汪星球，並將上面的太陽光據為己有。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-04-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53029,
+    "formatname": "Space Groove Blitz & Crank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-04-01",
+    "set": [
+      "Space Groove"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 32
+      },
+      "Catseye": {
+        "id": 31
+      },
+      "Disco": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Space Groove 2021"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Rose Quartz": {
+        "id": 33
+      },
+      "Ruby": {
+        "id": 30,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joe Zieja"
+    ],
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "lore": "Blitz and Crank are Cat Planet's fiercest warriors, and work together seamlessly (mostly) to pilot their mech, Blitzcrank. While Crank believes that he can overcome his lack of rhythm with the help of his exuberant copilot, Blitz is… well… he's busy dancing to his own beat. Together they plan to take over Dog Planet and claim its sunbeams for themselves."
+  }
 }

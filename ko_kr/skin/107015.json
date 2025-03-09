@@ -136,6 +136,53 @@
     }
   ],
   "description": "역시... 귀여운 고양이는 심장에 위험합니다.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2019-03-27T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 107015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-03-27",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 20,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Once again, the prettiest kitty… is the deadliest."
+  }
 }

@@ -111,6 +111,43 @@
     }
   ],
   "description": "Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2018-05-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 131012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-31",
+    "earlysale": "",
+    "set": [
+      "Bilgewater: Curse of the Drowned"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 14
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send."
+  }
 }

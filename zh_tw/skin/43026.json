@@ -148,6 +148,57 @@
     }
   ],
   "description": "卡瑪是聖殿騎士團的大祭司，她雇用了一些檯面下的傭兵，希望能把聖殿騎士們從厄薩斯，那位惡名昭彰的罪犯首領的手中救出來。卡瑪自從她昔日的戀人——劫發生轉變便失去他，因而改變了自己的立場，試圖干預宇宙其他地方的事務。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2020-10-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 43026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-15",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 31
+      },
+      "Citrine": {
+        "id": 29
+      },
+      "Merc": {
+        "id": 33,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 34
+      },
+      "Peridot": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 32
+      },
+      "Ruby": {
+        "id": 28,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Rashida Clendening"
+    ],
+    "splashartist": [
+      "Xuning Cui",
+      "Kudos Productions"
+    ],
+    "lore": "A High Priestess of the Templar Order, Karma has hired a group of offworld mercenaries to free a number of captured templars from the grip of Aatrox, an infamous and powerful crime lord. She has taken a more interventionist stance towards the rest of the universe following the loss and transformation of her former lover, Zed."
+  }
 }

@@ -25,6 +25,26 @@
     }
   ],
   "description": "Yasuo returned from advanced combat only to be accused of a crime he did not commit. Knowing that PROJECT's corporate leadership was somehow involved, Yasuo fights with the G/NETIC rebels, cutting away the lies of technology with his plasma coated blade.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2014-08-31T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 157002,
+    "formatname": "PROJECT: Yasuo",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-08-31",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Charles 'Yideth' Liu"
+    ],
+    "lore": "Yasuo returned from advanced combat only to be accused of a crime he did not commit. Knowing that PROJECT's corporate leadership was somehow involved, Yasuo fights with the G/NETIC rebels, cutting away the lies of technology with his plasma coated blade."
+  }
 }

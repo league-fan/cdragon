@@ -24,6 +24,18 @@
     }
   ],
   "description": "ジャングル戦のエキスパートであるシン・ジャオは、高い木の上から100メートル離れた果実を貫くことさえできる。ただ、自分の槍に果物がこびりつくからやらないだけなのだ。",
-  "wikiPrice": "520",
-  "wikiReleaseDate": "2010-07-13T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 5001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-07-13",
+    "set": [
+      "Commando"
+    ],
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "lore": "An expert at jungle warfare, Xin Zhao can harpoon a fruit from the rainforest canopy at a hundred yards. He just chooses not to, because it gets fruit chunks all over his spear."
+  }
 }

@@ -102,6 +102,47 @@
     }
   ],
   "description": "一個受人尊敬、同時也令人生畏的二年級學生，她是光輝社的社長，也是萊布里斯神器學院的學生會長。凱特琳為了調教那裏的不良少年、違法亂紀者，將他們鞭策到最佳的狀態，以便有朝一日能夠成為偉大的戰將，才報考了這所惡名昭彰的學校。而她完美的紀錄在在顯示著自己其實已經離這個目標不遠了。",
-  "wikiPrice": "1820",
-  "wikiReleaseDate": "2021-03-18T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 51022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Viktoria Gavrilenko",
+      "West Studio"
+    ],
+    "lore": "A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy. Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off."
+  }
 }

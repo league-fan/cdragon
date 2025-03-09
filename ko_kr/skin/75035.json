@@ -160,6 +160,61 @@
     }
   ],
   "description": "나서스는 히페리온 타격대의 정보 요원입니다. 나서스의 엑소수트 S02-아누비스는 내구성이 향상되었고 에너지 흡수 동력 전지가 장착되었으며 임무에 결정적인 정보를 깊이 있게 분석하는 기술을 갖춘 신형 모델입니다. 나서스는 팀의 성공에 모든 것을 걸었습니다. 히페리온이 실패하면 통제를 벗어난 엑소수트 조종사가 어떤 재앙을 불러올지 가늠할 수 없기 때문이죠.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2022-08-25T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 75035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-08-25",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Ace": {
+        "id": 44,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Steel Valkyries 2022"
+      },
+      "Aquamarine": {
+        "id": 38
+      },
+      "Catseye": {
+        "id": 37
+      },
+      "Emerald": {
+        "id": 40
+      },
+      "Granite": {
+        "id": 43
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 41
+      },
+      "Turquoise": {
+        "id": 42
+      }
+    },
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "Nasus is Strike Team Hyperion's intelligence officer. His exosuit, the S02-Anubis, is a new model of power armor that offers increased durability, energy-siphoning power cells, and access to in-depth analysis tech for processing mission-critical information. He will see Hyperion succeed; if they don't, there's no telling what destruction rogue exo-pilots may wreak."
+  }
 }

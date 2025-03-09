@@ -12,40 +12,213 @@
       "name": "克雷德",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-08-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 240000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-08-09",
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire’s soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the legions have waged, has 'acquired' every military title, and has never once backed down from a fight. Though the truth of the matter is often questionable, one part of his legend is undeniable: Charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what’s his… and to take whatever he can get."
+      }
     },
     {
       "id": 240001,
       "name": "秋可波爵士 克雷德",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2016-08-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 240001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-08-09",
+        "earlysale": "2016-12",
+        "set": [
+          "Medieval"
+        ],
+        "newrecall": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Sir Prince Chevalier Archduke Lord Double-Earl Kled (or Sir Kled, for short) is a half-mad knight from the aptly named Kingdom of Kled, which contains exactly two subjects: Kled, and his cowardly avian mount, Skarl. Together, the pair ravage the countryside to 'reclaim' Kled's 'land', which apparently is… all land, everywhere."
+      }
     },
     {
       "id": 240002,
       "name": "克雷德古拉伯爵",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2018-10-24T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 240002,
+        "formatname": "Count Kledula",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 5
+          },
+          "Golden": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "This blood is MY blood. This candy is MY candy. Who sent you here?! You're not real ghosts! I'm Count Baron Double-Marquis Lord Duke Kledula… AND I'LL TEACH YOU NOT TO TRICK-OR-TREAT ON MY LAND!"
+      }
     },
     {
       "id": 240009,
       "name": "劫掠狂斧 克雷德",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2021-01-07T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 240009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-07",
+        "set": [
+          "Marauder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 11
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 14
+          },
+          "Turquoise": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Throughout history, the Marauders have balanced on the knife's edge between brutality and cunning. General Kled, one half of the pair that currently leads the regime, is truly the incarnation of their historic brutality… and little more. If it weren't for Xin Zhao, Kled would bet everything on a final, bloody, battle."
+      }
     },
     {
       "id": 240018,
       "name": "狗糧騎士 克雷德",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-04-06T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 240018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-06",
+        "set": [
+          "Cats Versus Dogs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 24
+          },
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 22,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "He's just a lil' guy wearing a bowl of Poro-Pup Chow as a hat, riding the bestest beagle into battle. The get-up won Kled and Skaarl a blue ribbon at Beagle's Bridge, so if ain't broke, don't fix it. Here's hoping that the more \"refined\" judges at this year's Summoner Sweetie's Pet Show agree."
+      }
     }
   ]
 }

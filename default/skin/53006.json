@@ -24,6 +24,20 @@
     }
   ],
   "description": "Built as household assistance automata, thousands of iBlitzcranks were corrupted by Program during a routine software update. With their human owners oblivious to this fact, they continue to help, waiting patiently for the time their new command lines are initiated.",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2013-03-01T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 53006,
+    "formatname": "iBlitzcrank",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-03-01",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "lore": "Built as household assistance automata, thousands of iBlitzcranks were corrupted by Program during a routine software update. With their human owners oblivious to this fact, they continue to help, waiting patiently for the time their new command lines are initiated."
+  }
 }

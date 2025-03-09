@@ -48,6 +48,29 @@
     }
   ],
   "description": "他の誰もがそうであるように、破滅の預言者も雪の日が大好きだ──特に、いつかすべてがヴォイドに飲まれてしまうことを知っているマルザハールならなおのこと。おしゃれな冬装束に身を包み、ヴォイドリングのポロ軍団を引き連れ、彼は雪玉による最終戦争の幕を開けようとしている。",
-  "wikiPrice": "975",
-  "wikiReleaseDate": "2014-12-15T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 90005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "lore": "Prophets of doom love a snow day as much as anybody—perhaps even more, since Malzahar knows everything will one day be swallowed by the Void. Clad in fashionable winter gear and flanked by an army of voidling poros, he's ready to usher in the snowball apocalypse."
+  }
 }

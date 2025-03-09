@@ -13,88 +13,361 @@
       "name": "夜曲",
       "rarity": "kNoRarity",
       "isBase": true,
-      "wikiPrice": "880",
-      "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-03-15",
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure evil. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking blades. After freeing itself from the spirit realm, Nocturne descended upon the waking world, to feed upon the kind of terror that can only thrive in true darkness."
+      }
     },
     {
       "id": 56001,
       "name": "寒恐 夜曲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-03-15",
+        "set": [
+          "Glacial"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain."
+      }
     },
     {
       "id": 56002,
       "name": "虛空 夜曲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-03-15T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-15",
+        "retired": "2014-12-02",
+        "set": [
+          "Curse of the Void"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ]
+      }
     },
     {
       "id": 56003,
       "name": "業火 夜曲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "520",
-      "wikiReleaseDate": "2011-07-13T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-07-13",
+        "set": [
+          "Silver Age"
+        ],
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Zhuore Zhi Hen"
+        ]
+      }
     },
     {
       "id": 56004,
       "name": "恐怖鬼屋 夜曲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "975",
-      "wikiReleaseDate": "2011-10-19T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Haunting Nocturne would be a lot less haunting without those huge knife arms."
+      }
     },
     {
       "id": 56005,
       "name": "烈影戰神 夜曲",
       "rarity": "kLegendary",
       "isBase": false,
-      "wikiPrice": "1820",
-      "wikiReleaseDate": "2012-12-05T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2012-12-05",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Your worst nightmare, embodied in the form of organic metal—it lingers, watching and waiting for the right moment to shroud all of existence in eternal darkness."
+      }
     },
     {
       "id": 56006,
       "name": "詛咒怨靈 夜曲",
       "rarity": "kNoRarity",
       "isBase": false,
-      "wikiPrice": "750",
-      "wikiReleaseDate": "2016-05-04T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-05-04",
+        "set": [
+          "Omen of the Dark"
+        ],
+        "earlysale": "2016-10",
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "In her dreams, the queen was approached by a great shadow whispering of power and infamy beyond the grasp of mortals. Upon the shadow's third visit, she released it into the waking world—and sure enough, it would come to keep its terrible promises."
+      }
     },
     {
       "id": 56007,
       "name": "古神 夜曲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2019-08-29T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-29",
+        "set": [
+          "Coven",
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare."
+      }
     },
     {
       "id": 56016,
       "name": "海克斯科技 夜曲",
       "rarity": "kMythic",
       "isBase": false,
-      "wikiPrice": "Special",
-      "wikiReleaseDate": "2020-06-11T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56016,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-06-11",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Not every part of the Hextech renaissance led to bright innovations. A clandestine experiment to fuse Hextech with demonic energies wrought a living nightmare, a predator rumored to stalk the streets and back alleyways of the city. Authorities report that any such creation would have been terminated along with any such project, and that any missing persons reports are, of course, completely unrelated."
+      }
     },
     {
       "id": 56017,
       "name": "破碎盟約 夜曲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2023-03-09T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "As the oldest member of the Aspirants, Nocturne is content to lead from the shadows, having long ago exchanged their physical form for pure Aspira. Within the catacombs, they jealously guard the vast well of Aspira the congregation has filled over the centuries, toiling away at the unholy weapon that will destroy the Neverghaast once and for all."
+      }
     },
     {
       "id": 56026,
       "name": "宇宙幻焰 夜曲",
       "rarity": "kEpic",
       "isBase": false,
-      "wikiPrice": "1350",
-      "wikiReleaseDate": "2024-05-01T00:00:00.000Z"
+      "wikiSkinData": {
+        "id": 56026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Neon Facade": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger."
+      }
     }
   ]
 }

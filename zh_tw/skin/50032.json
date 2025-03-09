@@ -142,6 +142,56 @@
     }
   ],
   "description": "敬愛的戰狼，這次加入的是一個篡位者，一個野心勃勃，妄想越位的人。他始終沒認清自己的愚蠢。如今他已非大權在握，是要如何適應這個新環境？我們會一邊展開狩獵……一邊緊盯著他。",
-  "wikiPrice": "1350",
-  "wikiReleaseDate": "2024-11-06T00:00:00.000Z"
+  "wikiSkinData": {
+    "id": 50032,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-06",
+    "set": [
+      "Chosen of the Wolf"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 39
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 37,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 40
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Turquoise": {
+        "id": 38
+      }
+    },
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Julia Yurtsev"
+    ],
+    "lore": "An usurper has joined us, dear Wolf. A man who grasps for power far beyond his reach. He fails to see his folly. How will he adapt to his new surroundings, now that he is no longer in control? We will be watching him closely… as we give chase."
+  }
 }
