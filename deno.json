@@ -8,6 +8,7 @@
     "@std/assert": "jsr:@std/assert@1",
     "@std/fs": "jsr:@std/fs@^1.0.14",
     "@std/path": "jsr:@std/path@^1.0.8",
-    "@vento/vento": "jsr:@vento/vento@^1.12.15"
+    "@vento/vento": "jsr:@vento/vento@^1.12.15",
+    "cheerio": "npm:cheerio@1.0.0"
   }
 }

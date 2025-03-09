@@ -1,40 +1,17 @@
 import { ApiConfig, CdragonApi } from "./api/cdragon.ts";
-import { ensureDir } from "@std/fs";
-import { dirname, join } from "@std/path";
-import { skinIdToChampionId } from "./helpers.ts";
+import { join } from "@std/path";
+import {
+  readDataFromFile,
+  saveDataToFile,
+  skinIdToChampionId,
+} from "./helpers.ts";
 import { Skin } from "./types/skins.ts";
 import { Skinline } from "./types/skinline.ts";
 import { Language } from "./constants.ts";
 import { getChampionSkins, SkinInfo } from "./api/wiki.ts";
+import { concurrentLimit } from "./helpers.ts";
 
 const SAVE_DIR = ".data";
-
-// 创建一个并发控制函数，限制并发数
-const concurrentLimit = async <T, R>(
-  items: T[],
-  fn: (item: T) => Promise<R>,
-  concurrency: number = 10,
-): Promise<R[]> => {
-  const results: R[] = [];
-  const executing: Promise<void>[] = [];
-
-  for (const item of items) {
-    const p = Promise.resolve().then(() => fn(item));
-    results.push(p as unknown as R);
-
-    if (concurrency <= items.length) {
-      const e: Promise<void> = p.then(() => {
-        executing.splice(executing.indexOf(e), 1);
-      });
-      executing.push(e);
-      if (executing.length >= concurrency) {
-        await Promise.race(executing);
-      }
-    }
-  }
-  await Promise.all(executing);
-  return Promise.all(results);
-};
 
 const skinsResolvedMap = (skins: Skin[], skinInfos: SkinInfo[]) => {
   return skins.map((skin) => ({
@@ -57,32 +34,11 @@ const skinlinesResolvedMap = (skinlines: Skinline[]) => {
 
 class Crawler {
   api: CdragonApi;
-  private saveDir: string;
-  private dirCache: Set<string> = new Set();
+  saveDir: string;
 
   constructor(config: ApiConfig, saveDir: string) {
     this.api = new CdragonApi(config);
     this.saveDir = join(Deno.cwd(), `./${saveDir}`);
-  }
-
-  async saveDataToFile(data: any, filename: string) {
-    const filePath = join(this.saveDir, filename);
-    const dir = dirname(filePath);
-
-    if (!this.dirCache.has(dir)) {
-      await ensureDir(dir);
-      this.dirCache.add(dir);
-    }
-    await Deno.writeTextFile(filePath, JSON.stringify(data, null, 2));
-  }
-
-  async readDataFromFile<T>(filename: string): Promise<T | null> {
-    const filePath = join(this.saveDir, filename);
-    try {
-      return JSON.parse(await Deno.readTextFile(filePath));
-    } catch (_error) {
-      return null;
-    }
   }
 
   updateConfig(config: Partial<ApiConfig>) {
@@ -90,10 +46,10 @@ class Crawler {
   }
 
   async checkIfNeedCrawling(forceCrawl: boolean = false) {
-    const originalVersion = await this.readDataFromFile<{
+    const originalVersion = await readDataFromFile<{
       version: string;
       crawledAt: Date;
-    }>("version.json");
+    }>("version.json", this.saveDir);
 
     const version = await this.api.fetchBase<{
       version: string;
@@ -106,10 +62,14 @@ class Crawler {
     if (originalVersion?.version === version.version && !forceCrawl) {
       return false;
     } else {
-      await this.saveDataToFile({
-        version: version.version,
-        crawledAt: new Date().toISOString(),
-      }, "version.json");
+      await saveDataToFile(
+        {
+          version: version.version,
+          crawledAt: new Date().toISOString(),
+        },
+        "version.json",
+        this.saveDir,
+      );
       return true;
     }
   }
@@ -141,20 +101,28 @@ class Crawler {
             skinIdToChampionId(skin.id) === champion.id
           ).sort((a, b) => a.id - b.id);
           const skinsResolved = skinsResolvedMap(skinsOfChampion, skinInfos);
-          await this.saveDataToFile({
-            ...champion,
-            skins: skinsResolved,
-          }, `champion/${champion.alias}.json`);
+          await saveDataToFile(
+            {
+              ...champion,
+              skins: skinsResolved,
+            },
+            `champion/${champion.alias}.json`,
+            this.saveDir,
+          );
         });
 
         // Champion汇总数据
-        await this.saveDataToFile({
-          champions: champions.map((champion) => ({
-            id: champion.id,
-            name: champion.name,
-            alias: champion.alias,
-          })),
-        }, "champion/index.json");
+        await saveDataToFile(
+          {
+            champions: champions.map((champion) => ({
+              id: champion.id,
+              name: champion.name,
+              alias: champion.alias,
+            })),
+          },
+          "champion/index.json",
+          this.saveDir,
+        );
       })(),
 
       // 2. Universe相关数据处理
@@ -166,20 +134,28 @@ class Crawler {
             .filter((skinline) => skinline !== undefined)
             .sort((a, b) => (a.name > b.name ? 1 : -1));
           const skinlinesResolved = skinlinesResolvedMap(skinlinesOfUniverse);
-          await this.saveDataToFile({
-            ...universe,
-            skinlines: skinlinesResolved,
-          }, `universe/${universe.id}.json`);
+          await saveDataToFile(
+            {
+              ...universe,
+              skinlines: skinlinesResolved,
+            },
+            `universe/${universe.id}.json`,
+            this.saveDir,
+          );
         });
 
         // Universe汇总数据
-        await this.saveDataToFile({
-          total: universes.length,
-          universes: universes.map((universe) => ({
-            id: universe.id,
-            name: universe.name,
-          })),
-        }, "universe/index.json");
+        await saveDataToFile(
+          {
+            total: universes.length,
+            universes: universes.map((universe) => ({
+              id: universe.id,
+              name: universe.name,
+            })),
+          },
+          "universe/index.json",
+          this.saveDir,
+        );
       })(),
 
       // 3. Skinline相关数据处理
@@ -190,37 +166,53 @@ class Crawler {
             skin.skinLines?.map((id) => id.id).includes(skinline.id)
           ).sort((a, b) => a.id - b.id);
           const skinsResolved = skinsResolvedMap(skinsOfSkinline, skinInfos);
-          await this.saveDataToFile({
-            ...skinline,
-            skins: skinsResolved,
-          }, `skinline/${skinline.id}.json`);
+          await saveDataToFile(
+            {
+              ...skinline,
+              skins: skinsResolved,
+            },
+            `skinline/${skinline.id}.json`,
+            this.saveDir,
+          );
         });
 
         // Skinline汇总数据
-        await this.saveDataToFile({
-          total: skinlines.length,
-          skinlines: skinlines.map((skinline) => ({
-            id: skinline.id,
-            name: skinline.name,
-          })),
-        }, "skinline/index.json");
+        await saveDataToFile(
+          {
+            total: skinlines.length,
+            skinlines: skinlines.map((skinline) => ({
+              id: skinline.id,
+              name: skinline.name,
+            })),
+          },
+          "skinline/index.json",
+          this.saveDir,
+        );
       })(),
 
       // 4. Skin相关数据处理
       (async () => {
         // Skin详细数据
         await concurrentLimit(skins, async (skin) => {
-          await this.saveDataToFile({
-            ...skin,
-            ...skinsResolvedMap([skin], skinInfos)[0],
-          }, `skin/${skin.id}.json`);
+          await saveDataToFile(
+            {
+              ...skin,
+              ...skinsResolvedMap([skin], skinInfos)[0],
+            },
+            `skin/${skin.id}.json`,
+            this.saveDir,
+          );
         });
 
         // Skin汇总数据
-        await this.saveDataToFile({
-          total: skins.length,
-          skins: skinsResolvedMap(skins, skinInfos),
-        }, "skin/index.json");
+        await saveDataToFile(
+          {
+            total: skins.length,
+            skins: skinsResolvedMap(skins, skinInfos),
+          },
+          "skin/index.json",
+          this.saveDir,
+        );
       })(),
     ]);
   }
@@ -263,7 +255,7 @@ async function main(forceCrawl: boolean = false) {
         return [];
       }
     }, 10)).flat();
-  await defaultCrawler.saveDataToFile(skinInfos, "skin-info.json");
+  await saveDataToFile(skinInfos, "skin-info.json", defaultCrawler.saveDir);
 
   console.log(`start crawling ${desiredLanguages.length} languages`);
   const timeStart = Date.now();

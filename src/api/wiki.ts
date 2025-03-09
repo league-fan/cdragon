@@ -1,4 +1,4 @@
-import * as cheerio from "https://esm.sh/cheerio@1.0.0";
+import * as cheerio from "cheerio";
 import { wikiChampionUrl } from "../helpers.ts";
 import { createFetch } from "./fetchClient.ts";
 import { LOL_WIKI_URL } from "../constants.ts";
