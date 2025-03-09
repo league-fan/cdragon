@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import { wikiChampionUrl } from "../helpers.ts";
-import { createFetch } from "./fetchClient.ts";
+import { createFetch } from "../api/fetchClient.ts";
 import { LOL_WIKI_URL } from "../constants.ts";
 
 // 定义皮肤信息的接口

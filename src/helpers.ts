@@ -6,6 +6,10 @@ export function skinIdToChampionId(skinId: number) {
   return Math.floor(skinId / 1000);
 }
 
+export function skinAbsIdToSkinId(skinAbsId: number, championId: number) {
+  return championId * 1000 + (skinAbsId % 1000);
+}
+
 export function assetsRealUrl(
   originalUrl: string,
   patch?: Patch,
