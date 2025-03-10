@@ -475,7 +475,7 @@ function generatePaths() {
       summary: "Get all items",
       description: "Returns a list of all items in the specified language",
       operationId: "getItems",
-      tags: ["Items"],
+      tags: ["Common"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -490,7 +490,7 @@ function generatePaths() {
       summary: "Get all TFT items",
       description: "Returns a list of all TFT items in the specified language",
       operationId: "getTFTItems",
-      tags: ["Items"],
+      tags: ["TFT"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -506,7 +506,7 @@ function generatePaths() {
       description:
         "Returns a list of all summoner emotes in the specified language",
       operationId: "getSummonerEmotes",
-      tags: ["Summoner Emotes"],
+      tags: ["Common"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -522,7 +522,7 @@ function generatePaths() {
       description:
         "Returns a list of all summoner icons in the specified language",
       operationId: "getSummonerIcons",
-      tags: ["Summoner Icons"],
+      tags: ["Common"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -538,7 +538,7 @@ function generatePaths() {
       description:
         "Returns a list of all summoner icon sets in the specified language",
       operationId: "getSummonerIconSets",
-      tags: ["Summoner Icon Sets"],
+      tags: ["Common"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -554,7 +554,7 @@ function generatePaths() {
       description:
         "Returns a list of all TFT champions in the specified language",
       operationId: "getTFTChampions",
-      tags: ["TFT Champions"],
+      tags: ["TFT"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -570,7 +570,7 @@ function generatePaths() {
       description:
         "Returns a list of all TFT map skins in the specified language",
       operationId: "getTFTMapSkins",
-      tags: ["TFT Map Skins"],
+      tags: ["TFT"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -585,7 +585,7 @@ function generatePaths() {
       summary: "Get all ward skins",
       description: "Returns a list of all ward skins in the specified language",
       operationId: "getWardSkins",
-      tags: ["Ward Skins"],
+      tags: ["Common"],
       parameters: [localeParam],
       responses: {
         "200": {
@@ -601,7 +601,7 @@ function generatePaths() {
       description:
         "Returns a list of all ward skin sets in the specified language",
       operationId: "getWardSkinSets",
-      tags: ["Ward Skin Sets"],
+      tags: ["Common"],
       parameters: [localeParam],
       responses: {
         "200": {
