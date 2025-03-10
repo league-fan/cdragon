@@ -87,11 +87,34 @@ class Crawler {
     );
 
     // 并行获取基础数据
-    const [champions, skinsObj, universesRaw, skinlines] = await Promise.all([
+    const [
+      champions,
+      skinsObj,
+      universesRaw,
+      skinlines,
+      items,
+      tftItems,
+      summonerEmotes,
+      summonerIcons,
+      summonerIconSets,
+      tftChampions,
+      tftMapSkins,
+      wardSkins,
+      wardSkinSets,
+    ] = await Promise.all([
       this.api.fetchAsset("v1/champion-summary.json"),
       this.api.fetchAsset("v1/skins.json"),
       this.api.fetchAsset("v1/universes.json"),
       this.api.fetchAsset("v1/skinlines.json"),
+      this.api.fetchAsset("v1/items.json"),
+      this.api.fetchAsset("v1/tftitems.json"),
+      this.api.fetchAsset("v1/summoner-emotes.json"),
+      this.api.fetchAsset("v1/summoner-icons.json"),
+      this.api.fetchAsset("v1/summoner-icon-sets.json"),
+      this.api.fetchAsset("v1/tftchampions.json"),
+      this.api.fetchAsset("v1/tftmapskins.json"),
+      this.api.fetchAsset("v1/ward-skins.json"),
+      this.api.fetchAsset("v1/ward-skin-sets.json"),
     ]);
 
     // 数据预处理
@@ -223,6 +246,78 @@ class Crawler {
           "skin.json",
           this.saveDir,
         );
+      })(),
+
+      // 5. Item相关数据处理
+      (async () => {
+        // Item详细数据
+        await concurrentLimit(items, async (item) => {
+          // TODO
+        });
+      })(),
+
+      // 6. TftItem相关数据处理
+      (async () => {
+        // TftItem详细数据
+        await concurrentLimit(tftItems, async (item) => {
+          // TODO
+        });
+      })(),
+
+      // 7. SummonerEmote相关数据处理
+      (async () => {
+        // SummonerEmote详细数据
+        await concurrentLimit(summonerEmotes, async (emote) => {
+          // TODO
+        });
+      })(),
+
+      // 8. SummonerIcon相关数据处理
+      (async () => {
+        // SummonerIcon详细数据
+        await concurrentLimit(summonerIcons, async (icon) => {
+          // TODO
+        });
+      })(),
+
+      // 9. SummonerIconSet相关数据处理
+      (async () => {
+        // SummonerIconSet详细数据
+        await concurrentLimit(summonerIconSets, async (set) => {
+          // TODO
+        });
+      })(),
+
+      // 10. TftChampion相关数据处理
+      (async () => {
+        // TftChampion详细数据
+        await concurrentLimit(tftChampions, async (champion) => {
+          // TODO
+        });
+      })(),
+
+      // 11. TftMapSkin相关数据处理
+      (async () => {
+        // TftMapSkin详细数据
+        await concurrentLimit(tftMapSkins, async (skin) => {
+          // TODO
+        });
+      })(),
+
+      // 12. WardSkin相关数据处理
+      (async () => {
+        // WardSkin详细数据
+        await concurrentLimit(wardSkins, async (skin) => {
+          // TODO
+        });
+      })(),
+
+      // 13. WardSkinSet相关数据处理
+      (async () => {
+        // WardSkinSet详细数据
+        await concurrentLimit(wardSkinSets, async (set) => {
+          // TODO
+        });
       })(),
     ]);
   }
