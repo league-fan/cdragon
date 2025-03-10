@@ -469,6 +469,148 @@ function generatePaths() {
     },
   };
 
+  // Item endpoints
+  paths[`/{locale}/item.json`] = {
+    get: {
+      summary: "Get all items",
+      description: "Returns a list of all items in the specified language",
+      operationId: "getItems",
+      tags: ["Items"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved item list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/tftitem.json`] = {
+    get: {
+      summary: "Get all TFT items",
+      description: "Returns a list of all TFT items in the specified language",
+      operationId: "getTFTItems",
+      tags: ["Items"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved TFT item list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/summoner-emote.json`] = {
+    get: {
+      summary: "Get all summoner emotes",
+      description:
+        "Returns a list of all summoner emotes in the specified language",
+      operationId: "getSummonerEmotes",
+      tags: ["Summoner Emotes"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved summoner emote list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/summoner-icon.json`] = {
+    get: {
+      summary: "Get all summoner icons",
+      description:
+        "Returns a list of all summoner icons in the specified language",
+      operationId: "getSummonerIcons",
+      tags: ["Summoner Icons"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved summoner icon list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/summoner-icon-set.json`] = {
+    get: {
+      summary: "Get all summoner icon sets",
+      description:
+        "Returns a list of all summoner icon sets in the specified language",
+      operationId: "getSummonerIconSets",
+      tags: ["Summoner Icon Sets"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved summoner icon set list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/tftchampion.json`] = {
+    get: {
+      summary: "Get all TFT champions",
+      description:
+        "Returns a list of all TFT champions in the specified language",
+      operationId: "getTFTChampions",
+      tags: ["TFT Champions"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved TFT champion list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/tftmapskin.json`] = {
+    get: {
+      summary: "Get all TFT map skins",
+      description:
+        "Returns a list of all TFT map skins in the specified language",
+      operationId: "getTFTMapSkins",
+      tags: ["TFT Map Skins"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved TFT map skin list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/wardskin.json`] = {
+    get: {
+      summary: "Get all ward skins",
+      description: "Returns a list of all ward skins in the specified language",
+      operationId: "getWardSkins",
+      tags: ["Ward Skins"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved ward skin list",
+        },
+      },
+    },
+  };
+
+  paths[`/{locale}/ward-skin-set.json`] = {
+    get: {
+      summary: "Get all ward skin sets",
+      description:
+        "Returns a list of all ward skin sets in the specified language",
+      operationId: "getWardSkinSets",
+      tags: ["Ward Skin Sets"],
+      parameters: [localeParam],
+      responses: {
+        "200": {
+          description: "Successfully retrieved ward skin set list",
+        },
+      },
+    },
+  };
+
   return paths;
 }
 
