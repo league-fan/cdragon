@@ -248,7 +248,7 @@ export async function crawl(
   const needCrawling = await defaultCrawler.checkIfNeedCrawling(forceCrawl);
   if (!needCrawling) {
     INFO("No Need to Crawl");
-    return;
+    return "No Need to Crawl";
   }
 
   // 获取SkinInfo
@@ -277,6 +277,7 @@ export async function crawl(
 
   const timeEnd = Date.now();
   INFO(`All Languages Finished, Cost ${timeEnd - timeStart}ms`);
+  return "All Crawling Tasks Finished";
 }
 
 // 测试运行函数

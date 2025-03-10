@@ -16,18 +16,10 @@ jobs:
 
       - name: Fetch version file from gh-pages
         run: |
-          git config --global advice.detachedHead false
-          if git ls-remote --heads origin gh-pages; then
-            git fetch origin gh-pages --depth=1
-            if git show origin/gh-pages:.data/version.json > /dev/null 2>&1; then
-              mkdir -p .data
-              git show origin/gh-pages:.data/version.json > .data/version.json
-              echo "Successfully fetched version.json from gh-pages branch"
-            else
-              echo "version.json does not exist in gh-pages branch"
-            fi
-          else
-            echo "gh-pages branch does not exist yet"
+          mkdir -p .data
+          if curl -L -s -f -o .data/version.json https://league-fan.github.io/cdragon/version.json; then
+            echo "Successfully fetched version.json from GitHub Pages"
+            cat .data/version.json
           fi
 
       - uses: denoland/setup-deno@v2
@@ -47,8 +39,8 @@ jobs:
         id: prepare_tag
         if: ${{ !contains(steps.update-assets.outputs.stdout, 'No Need to Crawl') }}
         run: |
-          echo "DEPLOY_TAG=`cat .data/version.json | jq -r '.version'`" >> $GITHUB_ENV
-          echo "DEPLOY_TIME=`cat .data/version.json | jq -r '.crawledAt'`" >> $GITHUB_ENV
+          echo "DEPLOY_TAG=`cat .data/version.json | jq -r '.version'`" >> "${GITHUB_OUTPUT}"
+          echo "DEPLOY_TIME=`cat .data/version.json | jq -r '.crawledAt'`" >> "${GITHUB_OUTPUT}"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
