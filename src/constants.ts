@@ -44,6 +44,8 @@ export const RESOURCE_JSON_PATHS = [
   "v1/universes.json",
   "v1/skinlines.json",
   "v1/skins.json",
+  "v1/items.json",
+  "v1/tftitems.json",
   "v1/summoner-emotes.json",
   "v1/summoner-icons.json",
   "v1/summoner-icon-sets.json",
