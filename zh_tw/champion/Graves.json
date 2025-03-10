@@ -1,0 +1,523 @@
+{
+  "id": 104,
+  "name": "葛雷夫",
+  "alias": "Graves",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/104.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 104000,
+      "name": "葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 104000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-10-19",
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater’s criminal underbelly."
+      }
+    },
+    {
+      "id": 104001,
+      "name": "戰鬥傭兵 葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-10-19",
+        "set": [
+          "Vandal"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
+    },
+    {
+      "id": 104002,
+      "name": "越獄槍手 葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ]
+      }
+    },
+    {
+      "id": 104003,
+      "name": "罪惡城市 葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-02",
+        "set": [
+          "Crime City"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "OldGun-K"
+        ],
+        "lore": "Cool, calm, and collected, Malcolm Graves is head of the notorious Graves crime family—and the only non-rat that Twitch will trust. Recent moves in the criminal underworld have put his alliance with the rat-men on shaky ground, and he's keen to find out why."
+      }
+    },
+    {
+      "id": 104004,
+      "name": "鎮暴部隊 葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-08-16",
+        "set": [
+          "Riot"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2012."
+      }
+    },
+    {
+      "id": 104005,
+      "name": "泳池狂歡 葛雷夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-09-09",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 9
+          },
+          "Citrine": {
+            "id": 8
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Ruby": {
+            "id": 12
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ]
+      }
+    },
+    {
+      "id": 104006,
+      "name": "黑街殺手 葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-07-21",
+        "earlysale": "2016-01",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Do you want to do extreme damage to someone (or something) in a loud, noticeable fashion? Look no further than Graves and his slippery pal Tobias, two men who will blow up anything (must be destructible) or anyone (must be destructible) for the right price (no ghouls please). Inquire within!"
+      }
+    },
+    {
+      "id": 104007,
+      "name": "霜降使者 葛雷夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-12-14",
+        "set": [
+          "Snow Day"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 26,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Snowdown Showdown 2018"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Outfitted with his mighty snowblowing gun and a can-do attitude, Graves enters every snowball fight with the same entrepreneurial spirit that got him out of prison. Which is to say, blowing a lot of things up with little to no regard for his own safety."
+      }
+    },
+    {
+      "id": 104014,
+      "name": "戰爭英雄 葛雷夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104014,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2017-11-08",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "3v3": {
+            "id": 17,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2017"
+          },
+          "Solo": {
+            "id": 16,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2017"
+          },
+          "Flex": {
+            "id": 15,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2017"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy."
+      }
+    },
+    {
+      "id": 104018,
+      "name": "禁衛軍甲 葛雷夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-08",
+        "set": [
+          "Praetorian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Unleashed upon the multiverse by imperfect Pulsefire technology, Graves is but one of a numberless horde of Praetorian marauders now plaguing spacetime. Its programming is unlike anything from any known past, present, or future—each of its thoughts is so complex, it would take ten lifetimes for a human to comprehend."
+      }
+    },
+    {
+      "id": 104025,
+      "name": "戰爭院導 葛雷夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Formal": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 29
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience."
+      }
+    },
+    {
+      "id": 104035,
+      "name": "光之哨兵 葛雷夫",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-07-22",
+        "set": [
+          "Sentinels of Light"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 37
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Resolute": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway."
+      }
+    },
+    {
+      "id": 104042,
+      "name": "EDG 葛雷夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104042,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-12",
+        "set": [
+          "World Champions: 2021"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Honoring Flandre's winning performance as Graves during the 2021 World Championship."
+      }
+    },
+    {
+      "id": 104045,
+      "name": "青花瓷 葛雷夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 49,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Opulent": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 52
+          },
+          "Turquoise": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Santiago Parra",
+          "West Studio"
+        ],
+        "lore": "Not long after gunpowder was invented, the Zodiac searched for a new protector of the Dragon Relic. Though ancient and wise, the gods struggled to find someone worthy, so they settled for Malcolm Graves. Eventually his expertise in firepower was pointed in the right direction (away from all the breakable vases)."
+      }
+    }
+  ]
+}

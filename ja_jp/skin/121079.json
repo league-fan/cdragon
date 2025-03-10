@@ -1,0 +1,74 @@
+{
+  "id": 121079,
+  "contentId": "f3f54171-fe6d-408c-a336-b2588c1584be",
+  "isBase": false,
+  "name": "クリスタリス インドゥミタス カ＝ジックス",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/KhaZix/Skins/Skin79/Images/khazix_splash_centered_79.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/KhaZix/Skins/Skin79/Images/khazix_splash_uncentered_79.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/KhaZix/Skins/Skin79/Images/khazix_splash_tile_79.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/KhaZix/Skins/Skin79/KhazixLoadScreen_79.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/KhaZix/Skins/Skin79/KhazixLoadScreen_79_LE.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/121/121079.png",
+  "chromas": [
+    {
+      "id": 121080,
+      "name": "クリスタリス インドゥミタス カ＝ジックス",
+      "contentId": "98d90dd8-792c-464a-a8ca-2f8e2511b967",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/121/121080.png",
+      "colors": [
+        "#469FFC",
+        "#8DDC26"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 202
+    }
+  ],
+  "description": "クリスタリス モートゥスの市民にとって、カ＝ジックスとして知られる存在は、純粋に結晶化した恐怖であり、その生命を吸収しようとする飢えはとどまるところを知らない。しかし、北部の者にとっては、クリスタルそのものによってほぼ完璧な形態を持った驚異的な存在であり、そのプリズマエの力を拡散させる情熱は大きな刺激となっている。",
+  "wikiSkinData": {
+    "id": 121079,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-03-20",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 80,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "To citizens of Crystalis Motus, the being known as Kha'Zix is a purely crystalline horror whose hunger to assimilate life knows no limits. To those in the north, however, it is a marvel: a being shaped by the crystals themselves into a near perfect form, and whose zeal to spread the Prismae's power is inspirational."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 26001,
+  "contentId": "3873e557-7adc-47e2-a153-0831f820c00e",
+  "isBase": false,
+  "name": "圣诞狂欢 基兰",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Zilean/Skins/Skin01/Images/zilean_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Zilean/Skins/Skin01/Images/zilean_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Zilean/Skins/Skin01/Images/zilean_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Zilean/Skins/Skin01/ZileanLoadScreen_1.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Zilean/Skins/Skin01/ZileanLoadScreen_1_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "虽然许多圣诞使者都比拼谁能派送更多的节庆欢乐，但基兰对于时间流动的掌握让他可以在一瞬间就送出巨额数量的礼物。目前为止这种做法还没有制造出毁灭现实的冰雪节悖论。",
+  "wikiSkinData": {
+    "id": 26001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2009-12-23",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "lore": "Though many Santas compete to give the most holiday cheer, Zilean's mastery over the flow of time lets him deliver huge numbers of presents in an instant. So far this has not created a reality-annihilating Snowdown paradox."
+  }
+}

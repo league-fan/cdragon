@@ -1,0 +1,170 @@
+{
+  "id": 30,
+  "name": "Headhunter",
+  "description": "For some species, the hunt is more than mere sport—it possesses their minds and bodies, molding them into a race of perfect killing machines.",
+  "skins": [
+    {
+      "id": 11005,
+      "name": "Headhunter Master Yi",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-08",
+        "set": [
+          "Headhunter"
+        ],
+        "chromas": {
+          "Aqua": {
+            "id": 7
+          },
+          "Crimson": {
+            "id": 8
+          },
+          "Gold": {
+            "id": 6
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "lore": "Hunters use many tools: the bowgun, the rifle, the knife, the mind. Master Yi's tool of choice is a five foot long serrated blade forged from meteoric alloy. "
+      }
+    },
+    {
+      "id": 51006,
+      "name": "Headhunter Caitlyn",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 51006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-09-03",
+        "set": [
+          "Headhunter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Caitlyn's arsenal of alien weaponry isn't meant to level the playing field. It's to ensure that every hunt, every target, and every shot she takes goes exactly the way she wants it to."
+      }
+    },
+    {
+      "id": 76006,
+      "name": "Headhunter Nidalee",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 76006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-20",
+        "set": [
+          "Headhunter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "There are those who still ask: between man and beast, who is the better hunter? With her alien biology allowing her to embody both, Nidalee of the Headhunters answers that question with, “I am.” "
+      }
+    },
+    {
+      "id": 84007,
+      "name": "Headhunter Akali",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 84007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-03-23",
+        "earlysale": "2015-12",
+        "set": [
+          "Headhunter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Pearl": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Her weapons flaring with alien energy, Akali hunts only the worthy in a dangerous game of life and death. Striking from anywhere at any moment, no living thing can escape her trophy wall."
+      }
+    },
+    {
+      "id": 107001,
+      "name": "Headhunter Rengar",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 107001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-08-21",
+        "set": [
+          "Headhunter"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 4
+          },
+          "Emerald": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Jason Simpson"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith",
+          "Bo Lu",
+          "Pan Chengwei",
+          "Wesley Keil"
+        ],
+        "lore": "Some hunters choose to scale impossible heights, cutting down creatures many times their own size for the sheer rush of the kill. Rengar is clad in the bones of these creatures, a worrying sign to his more human quarry."
+      }
+    }
+  ]
+}

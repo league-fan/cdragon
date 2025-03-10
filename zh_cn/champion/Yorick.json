@@ -1,0 +1,403 @@
+{
+  "id": 83,
+  "name": "牧魂人",
+  "alias": "Yorick",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/83.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 83000,
+      "name": "牧魂人",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 83000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-06-22",
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick’s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination."
+      }
+    },
+    {
+      "id": 83001,
+      "name": "地狱送葬 约里克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-06-22",
+        "set": [
+          "Omen of the Dark"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "The Undertaker is a wretched creature, cursed to shoulder every secret his city has buried. These old, unhappy things tear constantly at his mind, which is itself infected by his queen's unending ambition."
+      }
+    },
+    {
+      "id": 83002,
+      "name": "五杀摇滚贝斯手 约里克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-06-22",
+        "set": [
+          "Pentakill"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Yorick was resurrected with the undying soul of heavy metal inside him for the singular purpose of joining PENTAKILL and melting faces with his bass guitar. He can also summon an army of roadie ghouls, a handy trick for any seasoned stage performer."
+      }
+    },
+    {
+      "id": 83003,
+      "name": "苍穹之光 约里克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-10-02",
+        "earlysale": "2018-03",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The once-great king Yorick, given the gifts of power and immortality in an age long past, left his mighty kingdom to enforce the will of the divine. Hundreds of years later he returned, his lands naught but dust and ruins, and in his sorrow was consumed by madness."
+      }
+    },
+    {
+      "id": 83004,
+      "name": "喵里克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83004,
+        "formatname": "Meowrick",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-03-27",
+        "set": [
+          "Cats Versus Dogs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rainbow": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 10
+          },
+          "Turquoise": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A cat fancier hailing from the Forsaken Aisles of a Pets Supreme Superstore, Yorick does not have any unresolved issues involving or related to cats. Yorick is a perfectly normal gentleman dressed as a cat, surrounded by cats, who can call upon the esoteric powers of a giant, floating cat. You know, normal gentleman stuff."
+      }
+    },
+    {
+      "id": 83012,
+      "name": "抵抗军灵魔 约里克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-12",
+        "set": [
+          "Battlecast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "With the rise of the Battlecast armies, Yorick found to his horror that the living minds Viktor fused to his machines bound the souls of his victims to their machine bodies. Harnessing his ability to command the dead, Yorick now raises destroyed and defeated Battlecast husks in an attempt to free all these souls from their machine prisons."
+      }
+    },
+    {
+      "id": 83021,
+      "name": "五杀摇滚 III：遗失的章节 约里克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83021,
+        "formatname": "Pentakill III: Lost Chapter Yorick",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-09",
+        "set": [
+          "Pentakill III: The Lost Chapter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 27
+          },
+          "Tanzanite": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "All hail, Yorick, the Four-String Fanatic! He bestrides the realms of the living and the dead, and knows the fate that comes to all mortal things. It pays to beware the honorable man..."
+      }
+    },
+    {
+      "id": 83030,
+      "name": "灵魂莲华 约里克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 35,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Night Blossom": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "The grove he called home burnt to ashes before his very eyes. While another retreated into solitude, Yorick allowed the rage to consume him. The flowers and trees that bloom in the Spirit of Ruin's wake are haunting, the gardeners that tend to them howling creatures of the night."
+      }
+    },
+    {
+      "id": 83040,
+      "name": "暗星 约里克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Pearl": {
+            "id": 46
+          },
+          "Quasar": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rose Quartz": {
+            "id": 45
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 44
+          },
+          "Turquoise": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "A somber titan from a long-dead galaxy, Yorick plants a garden of nothingness wherever he roams. He memorializes existence in silence, cultivating a grave in the negative space where matter once bloomed."
+      }
+    }
+  ]
+}

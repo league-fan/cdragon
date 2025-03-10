@@ -1,0 +1,113 @@
+{
+  "id": 44004,
+  "contentId": "b5585b9a-523d-4be2-8b3c-9038d60e16f7",
+  "isBase": false,
+  "name": "수영장 파티 타릭",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Taric/Skins/Skin04/Images/taric_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Taric/Skins/Skin04/Images/taric_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Taric/Skins/Skin04/Images/taric_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Taric/Skins/Skin04/TaricLoadscreen_4.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/44/44004.png",
+  "chromas": [
+    {
+      "id": 44005,
+      "name": "수영장 파티 타릭",
+      "contentId": "a2608604-ffc3-40b2-9db3-4d85b94f8bb1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/44/44005.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 44006,
+      "name": "수영장 파티 타릭",
+      "contentId": "38c83018-fcb2-4d4b-b5c6-0ae8f4aec618",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/44/44006.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 44007,
+      "name": "수영장 파티 타릭",
+      "contentId": "e2ffc879-9c77-4c79-9162-ef571884ff9d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/44/44007.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 44008,
+      "name": "수영장 파티 타릭",
+      "contentId": "51cb9120-377c-4a34-be86-354e0661c644",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/44/44008.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 15
+    }
+  ],
+  "description": "항상 긴장의 끈을 놓지 않는 타릭은 수영장에 조난자가 발생하면 영화 속 슬로 모션처럼 달려갑니다. 대부분 조난자를 구하는 데 실패하긴 했지만요.",
+  "wikiSkinData": {
+    "id": 44004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-07-13",
+    "earlysale": "2016-11",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Yuri Lowenthal"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Always on the alert, Taric will run in cinematic slow motion to save any swimmer in distress. Although, Taric has failed to save a distressing number of them."
+  }
+}

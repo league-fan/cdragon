@@ -1,0 +1,83 @@
+{
+  "id": 103014,
+  "contentId": "c4e28e05-5d3b-410b-95e0-fbd52d5f30ba",
+  "isBase": false,
+  "name": "Star Guardian Ahri",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin14/Images/ahri_splash_centered_14.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin14/Images/ahri_splash_uncentered_14.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin14/Images/ahri_splash_tile_14.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin14/AhriLoadScreen_14.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin14/AhriLoadScreen_14_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103014.png",
+  "chromas": [
+    {
+      "id": 103059,
+      "name": "Star Guardian Ahri",
+      "contentId": "57e27d0a-de60-4e3f-87be-8bf649b6d108",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103059.png",
+      "colors": [
+        "#2E38C4",
+        "#C8003F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released in the 2021 Ahri-versary event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 20
+    }
+  ],
+  "description": "Ahri is a charismatic team captain who leads her group of Star Guardians from the outer cosmos, with the authority of a queen bee and the sly cunning of a fox. She's effortlessly popular, with an irresistible charm that disarms friends and foes alike.",
+  "wikiSkinData": {
+    "id": 103014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-09-06",
+    "earlysale": "2018-02",
+    "set": [
+      "Star Guardian Season 2"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 59
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores",
+      "Jean 'Curing' Go",
+      "Esben Lash Rasmussen",
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Ahri is a charismatic team captain who leads her group of Star Guardians from the outer cosmos, with the authority of a queen bee and the sly cunning of a fox. She's effortlessly popular, with an irresistible charm that disarms friends and foes alike."
+  }
+}

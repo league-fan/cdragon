@@ -1,0 +1,541 @@
+{
+  "id": 7,
+  "name": "诡术妖姬",
+  "alias": "Leblanc",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/7.png",
+  "roles": [
+    "assassin",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 7000,
+      "name": "诡术妖姬",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 7000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-11-02",
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc’s true motives are as inscrutable as her shifting identity."
+      }
+    },
+    {
+      "id": 7001,
+      "name": "潮流女王 乐芙兰",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-11-02",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ]
+      }
+    },
+    {
+      "id": 7002,
+      "name": "社会名流 乐芙兰",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-02",
+        "set": [
+          "Day Job"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 6
+          },
+          "Catseye": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Tanzanite": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "LeBlanc is currently evading an international manhunt after making a jet liner filled with passengers disappear, then realizing she had no idea where they went or how to bring them back."
+      }
+    },
+    {
+      "id": 7003,
+      "name": "幸福女神 乐芙兰",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "LeBlanc's wicked illusions grow only more powerful during Snowdown, when the season of giving takes hold, and people are at their most gullible. Her enchanting looks only serve to draw more victims in, becoming pawns in her inscrutable games."
+      }
+    },
+    {
+      "id": 7004,
+      "name": "邪鸦魅影 乐芙兰",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-28",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "LeBlanc loves nothing more than showing up her high society rivals at the annual holiday gala. Besides, taking a spin as the season's most fashionable witch will teach those Du Couteaus not to upstage her garden parties."
+      }
+    },
+    {
+      "id": 7005,
+      "name": "永恒之森 乐芙兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-03-10",
+        "earlysale": "2016-08",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "When the Coven first rose to power, they craved the living enchantments of the Elderwood—a tool, they believed, for the resurrection of their dark patrons. Thus did they fall upon the great forest, and slaughter its children… until a lone sylvan stood against them, stealing the witches' lives, their magic, and even their names."
+      }
+    },
+    {
+      "id": 7012,
+      "name": "源代码 乐芙兰",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-15",
+        "set": [
+          "Program"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 18,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Rainbow": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "Marketed as a diplomat-software avatar, LeBlanc is in fact a duplicitous intelligence that can interact seamlessly with human users. Created only to deceive, she has infiltrated a number of the most powerful corporations on the planet, and quietly awaits her final orders."
+      }
+    },
+    {
+      "id": 7019,
+      "name": "iG 乐芙兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7019,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-23",
+        "set": [
+          "World Champions: 2018"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Tenfold Triumph": {
+            "id": 54,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Rookie's winning performance as LeBlanc during the 2018 World Championship."
+      }
+    },
+    {
+      "id": 7020,
+      "name": "魔女 乐芙兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-16",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Aquamarine": {
+            "id": 23
+          },
+          "Dark Ritual": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Coven 2021"
+          },
+          "Emerald": {
+            "id": 27,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "They came to LeBlanc as if in some forgotten melody "
+      }
+    },
+    {
+      "id": 7029,
+      "name": "冠军蔷薇 乐芙兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7029,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-09-24",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2020 in Shanghai."
+      }
+    },
+    {
+      "id": 7033,
+      "name": "至臻 魔女 乐芙兰",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7033,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-08-12",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 20,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Resurrected by the Black Crane, LeBlanc has rejoined her sisters with renewed purpose—yet the gifts of the Old Gods do not come without a price. As her body twists into new and strange forms, LeBlanc has discovered that she is the vessel through which her own dead god will return, and that it has granted her impossible power."
+      }
+    },
+    {
+      "id": 7035,
+      "name": "幻执事 乐芙兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 39
+          },
+          "Cerulean Club": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 37
+          },
+          "Tanzanite": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Seemingly at every event in the city at once, LeBlanc is a ubiquitous presence throughout the strip—her unparalleled ability to shmooze matched only by her mysterious origins. There was a time when certain naysayers connected her to Crime City, but as they say… never cross Lady LeBlanc."
+      }
+    },
+    {
+      "id": 7045,
+      "name": "魅惑女巫 乐芙兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7045,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-20",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 48
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 50
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Turquoise": {
+            "id": 49
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "Everyone shares spooky stories of LeBlanc, the host of this year's celebration! It's said she delights in causing misery; she can turn any Jack-o'-lantern's smile upside down. But there's a softer side to her as well, one she tries to keep hidden, even from herself."
+      }
+    },
+    {
+      "id": 7055,
+      "name": "殿堂传奇 乐芙兰",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7055,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+        "release": "2024-06-12",
+        "set": [
+          "Risen Legends"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Mythclimber": {
+            "id": 56,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Hall of Legends Bundle Exclusive"
+          },
+          "Paragon": {
+            "id": 57,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Signature Immortalized Legend Collection Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King."
+      }
+    }
+  ]
+}

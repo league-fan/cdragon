@@ -1,0 +1,126 @@
+{
+  "id": 517008,
+  "contentId": "f60080f0-1633-4733-950e-7e142be72289",
+  "isBase": false,
+  "name": "弗雷爾卓德 賽勒斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin08/Images/sylas_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin08/Images/sylas_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin08/Images/sylas_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin08/SylasLoadscreen_8.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin08/SylasLoadscreen_8_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517008.png",
+  "chromas": [
+    {
+      "id": 517009,
+      "name": "弗雷爾卓德│焰紅 賽勒斯",
+      "contentId": "cf7f9202-d7ee-4a31-aa84-256a162f3d26",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517009.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 517010,
+      "name": "弗雷爾卓德│寶石青 賽勒斯",
+      "contentId": "05ac2e09-3075-4bdf-aa63-ad8393d720fb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517010.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 517011,
+      "name": "弗雷爾卓德│石英紫 賽勒斯",
+      "contentId": "bfc1e65a-b1ca-4e60-a4f0-06326090ac55",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517011.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 517012,
+      "name": "弗雷爾卓德│珍珠白 賽勒斯",
+      "contentId": "ce41089b-ee84-4075-b605-a41f19c8d2de",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517012.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 128
+    }
+  ],
+  "description": "自從逃離了那個曾經囚禁他的王國之後，多格本的賽勒斯從蒂瑪西亞來到了弗雷爾卓德。他所踏下的每一步，都在使他銘記那些他人曾烙印於他的標籤：法師、叛徒、弒君者 — 這些名字令他生厭，令他得以忍受刺骨的嚴寒，令他的心得以被反叛之焰所溫暖。他將於此，在冰封的北方，獲得推動革命所需的古老力量…",
+  "wikiSkinData": {
+    "id": 517008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-10",
+    "set": [
+      "Freljord"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Katya Cyan",
+      "West Studio"
+    ],
+    "lore": "Free from the kingdom that once imprisoned him, Sylas of Dregbourne marches from Demacia to the Freljord. With every step he takes, he remembers what others have branded him: Mage, Traitor, Kingslayer—names he revels in as he endures the bitter cold, his heart warmed by the fires of rebellion. It will be here, in the icy north, that he will seize the ancient power needed to fuel his revolution…"
+  }
+}

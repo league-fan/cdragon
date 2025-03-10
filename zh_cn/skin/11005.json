@@ -1,0 +1,115 @@
+{
+  "id": 11005,
+  "contentId": "d8d8bc27-86f5-4da9-8ed1-82cd1ad12bac",
+  "isBase": false,
+  "name": "铁血剑豪 易",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/Images/masteryi_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/Images/masteryi_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/Images/masteryi_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/MasterYiLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11005.png",
+  "chromas": [
+    {
+      "id": 11006,
+      "name": "铁血剑豪 易 黄金剑豪",
+      "contentId": "b1676ea6-35e1-4e76-b844-188ea4553e56",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11006.png",
+      "colors": [
+        "#FED24D",
+        "#D48F3B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 11007,
+      "name": "铁血剑豪 易 明镜止水",
+      "contentId": "6f20d141-4acf-4c74-af08-566d47f4799a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11007.png",
+      "colors": [
+        "#76E7F5",
+        "#DBAD38"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 11008,
+      "name": "铁血剑豪 易 赤影剑豪",
+      "contentId": "85779bc8-7e12-44b9-b62f-8cd0a5ff4a3a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11008.png",
+      "colors": [
+        "#993045",
+        "#AC6A64"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 30
+    }
+  ],
+  "description": "猎人们使用很多工具：弩枪，来福枪，匕首，以及头脑。易所选的工具是一把五英尺长的、由陨石上的金属铸成的锯齿刀锋。",
+  "wikiSkinData": {
+    "id": 11005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-02-08",
+    "set": [
+      "Headhunter"
+    ],
+    "chromas": {
+      "Aqua": {
+        "id": 7
+      },
+      "Crimson": {
+        "id": 8
+      },
+      "Gold": {
+        "id": 6
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "lore": "Hunters use many tools: the bowgun, the rifle, the knife, the mind. Master Yi's tool of choice is a five foot long serrated blade forged from meteoric alloy. "
+  }
+}

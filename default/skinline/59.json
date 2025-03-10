@@ -1,0 +1,91 @@
+{
+  "id": 59,
+  "name": "Eternum",
+  "description": "In the hollow space between far-off stars, organic machines made by an unknown civilization have long since outlived their creators. They patiently lurk, unable to escape their terrestrial prison until someone stumbles upon them once more and unleashes them back out into the galaxy. They have waited. They are waiting. They will wait—as long as it takes.",
+  "skins": [
+    {
+      "id": 56005,
+      "name": "Eternum Nocturne",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2012-12-05",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Your worst nightmare, embodied in the form of organic metal—it lingers, watching and waiting for the right moment to shroud all of existence in eternal darkness."
+      }
+    },
+    {
+      "id": 69008,
+      "name": "Eternum Cassiopeia",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 69008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-20",
+        "earlysale": "2018-03",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "In a world overrun by alien machines, this one seems especially intrigued by your presence. Its lithe, metal form slides toward you, begging for your attention. You take one look, and—"
+      }
+    },
+    {
+      "id": 421001,
+      "name": "Eternum Rek'Sai",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 421001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-12-11",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screech… A cry of hunger… Then, nothing."
+      }
+    }
+  ]
+}

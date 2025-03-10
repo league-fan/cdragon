@@ -1,0 +1,93 @@
+{
+  "id": 57033,
+  "contentId": "2b9d7632-3f39-41df-a566-d6b1fde04add",
+  "isBase": false,
+  "name": "DRX 茂凯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin33/Images/maokai_splash_centered_33.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin33/Images/maokai_splash_uncentered_33.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin33/Images/maokai_splash_tile_33.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin33/MaokaiLoadscreen_33.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin33/MaokaiLoadscreen_33_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57033.png",
+  "chromas": [
+    {
+      "id": 57034,
+      "name": "DRX 茂凯 无双",
+      "contentId": "a5dd19d9-3668-4c31-9dc0-1ba86a8a9f7e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57034.png",
+      "colors": [
+        "#E4E489",
+        "#195FC8"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "解锁方式：在DRX冠军皮肤活动期间作为礼包专属获得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 2
+        },
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 194
+    }
+  ],
+  "description": "以此致敬Juhan在2022全球总决赛中使用茂凯的夺胜表现。",
+  "wikiSkinData": {
+    "id": 57033,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2023-06-01",
+    "set": [
+      "World Champions: 2022"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 34,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Honoring Juhan's winning performance as Maokai during the 2022 World Championship."
+  }
+}

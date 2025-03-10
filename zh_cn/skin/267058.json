@@ -1,0 +1,204 @@
+{
+  "id": 267058,
+  "contentId": "9f12c883-b6fb-4a04-b86f-1f3aab85a771",
+  "isBase": false,
+  "name": "剪纸仙灵 娜美",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin58/Images/nami_splash_centered_58.SKINS_Nami_Skin58.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin58/Images/nami_splash_uncentered_58.SKINS_Nami_Skin58.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin58/Images/nami_splash_tile_58.SKINS_Nami_Skin58.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin58/NamiLoadScreen_58.SKINS_Nami_Skin58.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267058.png",
+  "chromas": [
+    {
+      "id": 267059,
+      "name": "剪纸仙灵 娜美 恭喜发财",
+      "contentId": "29e60bcd-e572-43b8-a66f-38440c976c02",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267059.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2025年期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 267060,
+      "name": "剪纸仙灵 娜美 龙马精神",
+      "contentId": "4128a529-f770-47b3-a5a7-aaff91d2b05d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267060.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267061,
+      "name": "剪纸仙灵 娜美 年年有余",
+      "contentId": "b9b7fec0-6c77-4560-8d56-63f05ffb59ca",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267061.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267062,
+      "name": "剪纸仙灵 娜美 喜气洋洋",
+      "contentId": "bf2e32a5-cfcc-4b42-9ee9-4699bc0eb3ff",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267062.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267063,
+      "name": "剪纸仙灵 娜美 前程似锦",
+      "contentId": "678e01b2-2292-4a11-ba62-1ec49b2cd226",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267063.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 267064,
+      "name": "剪纸仙灵 娜美 日进斗金",
+      "contentId": "7d7fcc9e-32df-4855-9635-9c815fb00c70",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267064.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267065,
+      "name": "剪纸仙灵 娜美 团团圆圆",
+      "contentId": "d047d090-d538-49fe-b4cd-dc764f29cd15",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267065.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267066,
+      "name": "剪纸仙灵 娜美 吉祥如意",
+      "contentId": "f711d146-b79d-42f3-9bcd-f7970fc498c4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267066.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of the Snake 2025",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/89.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/89.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 188
+    }
+  ],
+  "description": "娜美控制波涛的野心让她与神帝嘉文四世之间引发了一场毁灭性的战斗，给这个仙境带来了巨大的灾难。但当这个世界面临更大的威胁——至恶的人类天性——时，娜美必须放下她的骄傲，与她以前的敌人们合作，从而阻止他们的故事被改写。",
+  "wikiSkinData": {
+    "id": 267058,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2025-01-23",
+    "set": [
+      "Mythmaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 64
+      },
+      "Obsidian": {
+        "id": 65
+      },
+      "Pearl": {
+        "id": 66
+      },
+      "Rose Quartz": {
+        "id": 63
+      },
+      "Ruby": {
+        "id": 59,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 62
+      },
+      "Tanzanite": {
+        "id": 61
+      },
+      "Turquoise": {
+        "id": 60
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Nathaniel Himawan",
+      "West Studio"
+    ],
+    "lore": "Nami's ambition to control the waves led to a destructive battle between her and god-emperor Jarvan IV, causing a great calamity to befall the world. But when the world faces an even greater threat—human nature at its most devious—Nami must swallow her pride and work with her former enemies to stop their story from being rewritten."
+  }
+}

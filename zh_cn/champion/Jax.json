@@ -1,0 +1,547 @@
+{
+  "id": 24,
+  "name": "武器大师",
+  "alias": "Jax",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/24.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 24000,
+      "name": "武器大师",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 24000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "Pandart Studio"
+        ],
+        "lore": "Unmatched in both his skill with unique armaments and his biting sarcasm, Jax is the last known weapons master of Icathia. After his homeland was laid low by its own hubris in unleashing the Void, Jax and his kind vowed to protect what little remained. As magic now rises in the world, this slumbering threat stirs once more, and Jax roams Valoran, wielding the last light of Icathia and testing all warriors he meets to see if any are strong enough to stand beside him…"
+      }
+    },
+    {
+      "id": 24001,
+      "name": "冰球队员 贾克斯",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-12",
+        "set": [
+          "Winter Sports"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "The hockey prodigy known as Jax is feared throughout the tournament circuit for his incredible reflexes and ability to kill a man with any object. There are rumors he used to be a defense attorney, but nobody knows for certain."
+      }
+    },
+    {
+      "id": 24002,
+      "name": "万夫莫开 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-24",
+        "retired": "2014-12-02",
+        "set": [
+          "Vandal"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "A wandering warrior feared by the wasteland's many roving gangs, Jax casually strolls across miles of broken highway with a two-by-four and a few rusty nails, crushing the heads of anyone he happens to run into. It gets just as ugly as it sounds."
+      }
+    },
+    {
+      "id": 24003,
+      "name": "宗师级钓鱼训练师 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-08",
+        "retired": "2012-03-19",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "lore": "Nothing quite like the peace of the great outdoors, waiting for that perfect bite—and then violently ripping a fish out of the water before hitting it with his fishing rod."
+      }
+    },
+    {
+      "id": 24004,
+      "name": "卧虎藏龙 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24004,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Code Redemption",
+        "cost": "Special",
+        "release": "2010-03-26",
+        "set": [
+          "PAX"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "A special event skin given away at PAX East 2010, PAX Prime 2010, and PAX East 2011."
+      }
+    },
+    {
+      "id": 24005,
+      "name": "百夫长 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24005,
+        "formatname": "Jaximus",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-10",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "In a fighters' colosseum, Jax's victories were celebrated by a young kid and dedicated fan, Joe. Jax found that Joe himself was an incredible warrior, far braver than anyone Jax had met. Joe gave Jax the nickname “Jaximus,” a title he heartily accepted. “Here's to you, kid,” declared Jax as he charged into battle, hoisting the lamplight in Joe's honor."
+      }
+    },
+    {
+      "id": 24006,
+      "name": "少林武僧 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-15",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Jax's search for inner peace brought him to many temples and the tutelage of various martial masters. His fiery attitude got him in trouble often, but Jax learned to appreciate the schooling. Tempering his battle prowess with a serene, strategic mind, Jax now faces every fight with a renewed unity of mind, body, and spirit."
+      }
+    },
+    {
+      "id": 24007,
+      "name": "复仇武神 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-09-14",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amber": {
+            "id": 10
+          },
+          "Brick": {
+            "id": 11
+          },
+          "Cream": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "No one knows what lies beneath the glowing mask. Human, monster, or something more, it wields a violet lantern-mace and travels from conflict to conflict. Yet it always seems to fight on the side of benevolence. Through myths told by wanderers and night merchants, it has become a figure of legend: a phantasm of the dark, standing against darkness."
+      }
+    },
+    {
+      "id": 24008,
+      "name": "SKT T1 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-05-04",
+        "set": [
+          "World Champions: 2013"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "Honoring Impact's winning performance as Jax during the 2013 World Championship."
+      }
+    },
+    {
+      "id": 24012,
+      "name": "光明骑士 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-09-30",
+        "earlysale": "2016-03",
+        "set": [
+          "Warden"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A lone Warden claims to have lived since the destruction of the original Protectorate. While few records can back up his claims, Jax believes the Rune War began with the failure of a legal body founded to curtail political power—when this institute faltered, the fate of all was sealed."
+      }
+    },
+    {
+      "id": 24013,
+      "name": "武神 贾克斯",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-01-11",
+        "earlysale": "Jun 2018",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "The God Staff was once an earthly champion, who searched fruitlessly for a weapon worthy of his power. At the twilight of his life, he finally came across a staff glowing with the light of the gods—granting him immortality, and even greater strength."
+      }
+    },
+    {
+      "id": 24014,
+      "name": "王国机神白虎 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-01-15",
+        "set": [
+          "Mecha Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Peacekeeper": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mecha Kingdoms 2019"
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Peridot": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Famed as the greatest weapons master in all the land, Jax has been itching for a proper weapon, and a proper fight. When the best minds of the Estercrest Kingdom came together—using strange technology seemingly gifted to them by the heavens—to construct an indomitable Avalon, Jax was finally impressed. He welcomes the leviathan invasion, hoping these monstrous foes will prove to be the challenge he has been searching for his entire life."
+      }
+    },
+    {
+      "id": 24020,
+      "name": "征服者 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24020,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-29",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "West Studio"
+        ],
+        "lore": "Celebrating MSI 2021 in Reykjavík."
+      }
+    },
+    {
+      "id": 24021,
+      "name": "至臻 征服者 贾克斯",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24021,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-04-29",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 20,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "West Studio"
+        ],
+        "lore": "Celebrating MSI 2021 in Reykjavík."
+      }
+    },
+    {
+      "id": 24022,
+      "name": "至高天 贾克斯",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 24
+          },
+          "Citrine": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Neon Flare": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 28
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Hailing from a realm where he failed to protect his kingdom from annihilation, Jax was content to live in exile, until everything collapsed. Now an Empyrean, he knows that somewhere out there his kingdom is still intact. Even if it destroys him, he'll use all of his power to see his home one more time."
+      }
+    },
+    {
+      "id": 24032,
+      "name": "新卧虎藏龙 贾克斯",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24032,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "200 Mythic Essence",
+        "release": "2023-10-11",
+        "set": [
+          "PAX"
+        ],
+        "earlysale": "Ineligible",
+        "neweffects": true,
+        "variant": 4,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "A special event Skin celebrating PAX and Jax's 2023 visual update."
+      }
+    },
+    {
+      "id": 24033,
+      "name": "源计划：孤狼 贾克斯",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24033,
+        "formatname": "PROJECT: Jax",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-06",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 38
+          },
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 41
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge."
+      }
+    }
+  ]
+}

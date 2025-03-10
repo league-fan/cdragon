@@ -1,0 +1,55 @@
+{
+  "id": 432001,
+  "contentId": "0b646d4c-2df2-45ce-a21e-bba0a52fb97b",
+  "isBase": false,
+  "name": "永恒之森 巴德",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin01/Images/bard_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin01/Images/bard_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin01/Images/bard_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin01/BardLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 58
+    }
+  ],
+  "description": "巴德是一个来自古老世界的生物，他们说，比最大的森林还要古老，甚至比萌生了这个森林的种子还要古老。鲜有记录从诸神之前的时代中存留下来，但巴德很可能比这些记录还要早——一个真正原始的存在，从时间的第一次破晓开始就在照料大地了。",
+  "wikiSkinData": {
+    "id": 432001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2015-03-12",
+    "earlysale": "2015-12",
+    "set": [
+      "Elderwood"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "lore": "Bard is a creature of the old world, they say, older than the great forest, and older even than the seeds it sprouted from. Few records remain of the age before the gods, but it is likely Bard predates them—a truly primordial being, tending the land since time's first dawn."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": 99007,
+  "contentId": "dba37075-565c-4ef3-83e9-565cc9a8974b",
+  "isBase": false,
+  "name": "Elementalist Lux",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/Images/lux_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/Images/lux_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/Images/lux_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/LuxLoadScreen_7.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/LuxLoadScreen_7_LE.jpg",
+  "skinType": "Ultimate",
+  "rarity": "kUltimate",
+  "isLegacy": false,
+  "splashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/AnimatedSplash/Lux_Skin7_centered.webm",
+  "collectionSplashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/AnimatedSplash/Lux_Skin7_uncentered.webm",
+  "collectionCardHoverVideoPath": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Skin07/AnimatedSplash/Lux_Skin07_card.webm",
+  "featuresText": "<ul><li>Ten distinct elemental forms</li><li>Combining elements triggers new transformations</li><li>New elemental effects for all forms</li><li>Five exclusive icons which grant dynamic profile background</li></ul>",
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 166
+    }
+  ],
+  "description": null,
+  "wikiSkinData": {
+    "id": 99007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2016-11-28",
+    "earlysale": "2017-05",
+    "set": [
+      "Elementalist"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Elementalist",
+    "forms": [
+      "Air",
+      "Fire",
+      "Water",
+      "Ice",
+      "Magma",
+      "Mystic",
+      "Nature",
+      "Storm",
+      "Dark"
+    ],
+    "chromas": {
+      "Air": {
+        "id": 7
+      },
+      "Fire": {
+        "id": 7
+      },
+      "Water": {
+        "id": 7
+      },
+      "Ice": {
+        "id": 7
+      },
+      "Magma": {
+        "id": 7
+      },
+      "Mystic": {
+        "id": 7
+      },
+      "Nature": {
+        "id": 7
+      },
+      "Storm": {
+        "id": 7
+      },
+      "Dark": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ]
+  }
+}

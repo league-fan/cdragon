@@ -1,0 +1,76 @@
+{
+  "id": 90005,
+  "contentId": "6af000c3-c9a5-4b0d-a45c-78aa3ac63aa2",
+  "isBase": false,
+  "name": "雪遊びマルザハール",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/Images/malzahar_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/Images/malzahar_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/Images/malzahar_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/MalzaharLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90005.png",
+  "chromas": [
+    {
+      "id": 90008,
+      "name": "雪遊びマルザハール",
+      "contentId": "caf5fc1b-0284-4cab-a3e0-6e200265b466",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90008.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018年のスノーダウンイベントから戦利品限定で獲得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 46
+    }
+  ],
+  "description": "他の誰もがそうであるように、破滅の預言者も雪の日が大好きだ──特に、いつかすべてがヴォイドに飲まれてしまうことを知っているマルザハールならなおのこと。おしゃれな冬装束に身を包み、ヴォイドリングのポロ軍団を引き連れ、彼は雪玉による最終戦争の幕を開けようとしている。",
+  "wikiSkinData": {
+    "id": 90005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Vic Mignogna"
+    ],
+    "lore": "Prophets of doom love a snow day as much as anybody—perhaps even more, since Malzahar knows everything will one day be swallowed by the Void. Clad in fashionable winter gear and flanked by an army of voidling poros, he's ready to usher in the snowball apocalypse."
+  }
+}

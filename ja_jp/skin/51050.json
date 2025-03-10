@@ -1,0 +1,80 @@
+{
+  "id": 51050,
+  "contentId": "47bcad69-2970-4803-8b79-c9c4c76edbc0",
+  "isBase": false,
+  "name": "Arcane コマンダー ケイトリン",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/Images/caitlyn_splash_centered_50.SKINS_Caitlyn_Skin50.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/Images/caitlyn_splash_uncentered_50.SKINS_Caitlyn_Skin50.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/Images/caitlyn_splash_tile_50.SKINS_Caitlyn_Skin50.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/CaitlynLoadScreen_50.SKINS_Caitlyn_Skin50.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/CaitlynLoadScreen_50_LE.SKINS_Caitlyn_Skin50.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51050.png",
+  "chromas": [
+    {
+      "id": 51052,
+      "name": "Arcane コマンダー ケイトリン",
+      "contentId": "d3f39c4f-92d7-415b-8a7c-eeb0afe3f948",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51052.png",
+      "colors": [
+        "#BBD6EF",
+        "#4649F7"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "サンクタムの限定ドロップとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 6
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 152
+    }
+  ],
+  "description": "ゾウンとの緊張感が高まり続けるなか、復讐心に駆られたケイトリンの信念は崩れ、希望や平和を望む余裕などなくなった。今の彼女が考えることはたった一つ、ジンクスに正義の裁きをもたらすことだけだ。しかし、悲嘆と罪の意識の下で、疑念の気持ちが湧き上がる──復讐には、本当にその犠牲に見合う価値があるのか？",
+  "wikiSkinData": {
+    "id": 51050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Driven by a newfound desire for revenge, Caitlyn's principles have crumbled, leaving no room for hope or peace as tensions with Zaun continue to escalate. Her single-minded focus is on bringing Jinx to justice. But beneath the grief and guilt, doubt begins to creep in: is the cost of vengeance truly worth it?"
+  }
+}

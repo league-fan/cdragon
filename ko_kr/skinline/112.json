@@ -1,0 +1,93 @@
+{
+  "id": 112,
+  "name": "빙하",
+  "description": "세계는 얼어붙었고, 소수만이 그 원인을 기억하고 있습니다. 과거의 공포가 얼음 밑을 휘저으며 다시 세계를 차지할 준비를 하고 있죠. 희망의 불꽃은 남았지만, 낮은 짧고 밤은 깁니다...",
+  "skins": [
+    {
+      "id": 2002,
+      "name": "빙하의 올라프",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 2002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-08",
+        "retired": "2014-12-02",
+        "set": [
+          "Glacial"
+        ],
+        "splashartist": [
+          "Even Mehl Amundsen"
+        ],
+        "lore": "The villagers thought it was an avalanche. Then they saw the axe."
+      }
+    },
+    {
+      "id": 54005,
+      "name": "빙하의 말파이트",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 54005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-07-11",
+        "set": [
+          "Glacial"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "lore": "That's no glacier…"
+      }
+    },
+    {
+      "id": 56001,
+      "name": "얼어붙은 공포 녹턴",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-03-15",
+        "set": [
+          "Glacial"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Somewhere, hidden beneath the enormous ice caps, lurks a demon fueled by the terror of those foolish enough to enter his domain."
+      }
+    },
+    {
+      "id": 98001,
+      "name": "얼어붙은 쉔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 98001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-24",
+        "retired": "2012-03-19",
+        "set": [
+          "Glacial"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Keith Silverstein"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ],
+        "lore": "Enduring the bitter cold, Shen roams the ice caps with his twin blades, hunting the terrifying demon hidden deep underneath."
+      }
+    }
+  ]
+}

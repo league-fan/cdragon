@@ -1,0 +1,113 @@
+{
+  "id": 29008,
+  "contentId": "6c293308-b968-4b2a-b8bc-e3af3cb4a0c2",
+  "isBase": false,
+  "name": "오메가 분대 트위치",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin08/Images/twitch_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin08/Images/twitch_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin08/Images/twitch_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin08/TwitchLoadscreen_8.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29008.png",
+  "chromas": [
+    {
+      "id": 29009,
+      "name": "오메가 분대 트위치",
+      "contentId": "0aeca934-acda-4e6b-b69f-ea0fc6828167",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29009.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 29010,
+      "name": "오메가 분대 트위치",
+      "contentId": "fb5161f4-8dd3-4b41-bafa-8e16cb5f845d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29010.png",
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 29011,
+      "name": "오메가 분대 트위치",
+      "contentId": "a6d3b504-3833-44cb-ae0f-f990484fc65d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29011.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 14
+    }
+  ],
+  "description": "분대의 (미치광이) 위생병 트위치의 정신은 끔찍한 전쟁을 겪으며 회복 불능의 상태가 되었습니다. 한때 유능한 의사였던 건 모두 옛날 일. 그가 ''해를 끼치지 않는다''라는 의사로서의 의무를 지키지 않은 지도 꽤나 오래되었습니다.",
+  "wikiSkinData": {
+    "id": 29008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Sandstone": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage “do no harm.”"
+  }
+}

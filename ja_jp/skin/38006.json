@@ -1,0 +1,180 @@
+{
+  "id": 38006,
+  "contentId": "784ab708-bed2-403e-a83e-470b0fa5c0f4",
+  "isBase": false,
+  "name": "カサディン伯爵",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kassadin/Skins/Skin06/Images/kassadin_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kassadin/Skins/Skin06/Images/kassadin_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kassadin/Skins/Skin06/Images/kassadin_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kassadin/Skins/Skin06/KassadinLoadscreen_6.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kassadin/Skins/Skin06/KassadinLoadscreen_6_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38006.png",
+  "chromas": [
+    {
+      "id": 38008,
+      "name": "カサディン伯爵",
+      "contentId": "3a46c18c-d282-48b0-b163-c6cad2a704bf",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38008.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2019年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 38009,
+      "name": "カサディン伯爵",
+      "contentId": "9f64298c-23b3-43cf-bb1e-cf988aabb783",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38009.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 38010,
+      "name": "カサディン伯爵",
+      "contentId": "260de3df-7392-4920-b5e2-4be30432f4e9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38010.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 38011,
+      "name": "カサディン伯爵",
+      "contentId": "ab199dc6-0e44-4d38-8093-d84cdcecd4b3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38011.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 38012,
+      "name": "カサディン伯爵",
+      "contentId": "5d6d065e-1f36-4e5d-97a1-12b45ace58e6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 38013,
+      "name": "カサディン伯爵",
+      "contentId": "9e23df25-3268-4264-8952-2f689a39a772",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/38/38013.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 88
+    }
+  ],
+  "description": "気味の悪い寂しい通りに住む、気味の悪い寂しい男…カサディン。オールハロウズ・イヴにはどんな子供も彼を避けたがる。彼の周りでは、キャンディ一つですら手に入ることはない。",
+  "wikiSkinData": {
+    "id": 38006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 10
+      },
+      "Citrine": {
+        "id": 9
+      },
+      "Emerald": {
+        "id": 11
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "A grim, lonely man who lives on a grim, lonely street, Kassadin is the one whom all kids avoid on All Hallows' Eve; for in his presence, there are no treats nor sweets to be found."
+  }
+}

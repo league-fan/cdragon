@@ -1,0 +1,431 @@
+{
+  "id": 147,
+  "name": "セラフィーン",
+  "alias": "Seraphine",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/147.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 147000,
+      "name": "セラフィーン",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 147000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-10-29",
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they're not alone, that they're stronger together, and that, in her eyes, their potential is limitless."
+      }
+    },
+    {
+      "id": 147001,
+      "name": "K/DA ALL OUT セラフィーン インディー",
+      "rarity": "kUltimate",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147001,
+        "formatname": "K/DA ALL OUT Seraphine Indie",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2020-10-29",
+        "set": [
+          "K/DA"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "With a stunning voice and a sunny disposition, Seraphine has big dreams about her music and what she can offer the world. She knows that someday, if she just keeps trying, she'll make her beloved cat Bao proud."
+      }
+    },
+    {
+      "id": 147004,
+      "name": "麗しの不死鳥セラフィーン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-02",
+        "set": [
+          "Phoenixmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 6
+          },
+          "Golden Tiger": {
+            "id": 13,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 8
+          },
+          "Tanzanite": {
+            "id": 10
+          },
+          "Turquoise": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A champion of the common folk, Seraphine's music united her community in defense against a mysterious force that sought to wipe them out. The fenghuang heard Seraphine's graceful song, and blessed her with the power to fight the darkness back."
+      }
+    },
+    {
+      "id": 147014,
+      "name": "オーシャンソング セラフィーン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-06-09",
+        "set": [
+          "Ocean Song"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "After taking a break to recharge her creative spirit, Seraphine is back! Rather than dive straight into a solo tour, she's drawing on the relaxed energy of the Ocean Song Festival to ease herself back into singing. With no setlist, she's going to listen to her audience and let the musical current take her."
+      }
+    },
+    {
+      "id": 147015,
+      "name": "プレステージ オーシャンソング セラフィーン",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147015,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-06-09",
+        "set": [
+          "Ocean Song"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 14,
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Never content to swim with the tide, Seraphine's making waves with her new sea breeze look. Whether it's on the runway or the concert stage, beach season's open, and the water's warm."
+      }
+    },
+    {
+      "id": 147024,
+      "name": "妖精の王宮セラフィーン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 30
+          },
+          "Turquoise": {
+            "id": 32
+          },
+          "Winsome": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Faerie Court 2023"
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Silvia Meiliani",
+          "Caravan Studio"
+        ],
+        "lore": "A sunny siren of the Summer Court, it was Lady Seraphine's skillful makeover talents that helped get Karma and Kalista ready to face the nobility with style. She is a master of courtly manners and was more than happy to teach her new friends everything that really counts about being fabulous!"
+      }
+    },
+    {
+      "id": 147034,
+      "name": "スターガーディアン セラフィーン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-28",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rainbow": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 36
+          },
+          "Turquoise": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "Seraphine has toured the entire galaxy as a solo act, but now it's time for a Star Guardian collab. She's ecstatic to team up with a new group of heroes, and she isn't afraid to share that enthusiasm. They're fighting for true love… what could be more romantic than that?!"
+      }
+    },
+    {
+      "id": 147043,
+      "name": "バトルドーヴ セラフィーン",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 46
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Nightwire": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 44,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Alsie Lau"
+        ],
+        "lore": "Seraphine was Anima Squad's comms officer, the \"girl in the chair\"—until she became the first Battle Dove, using her naturally sensitive hearing to operate a new AnimaTech suit that weaponizes sound waves to rock the battlefield! When she intercepts a strange distress call, Seraphine gets her first mission: find the source, and lead a team to the rescue."
+      }
+    },
+    {
+      "id": 147050,
+      "name": "点心の天使セラフィーン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147050,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-03-05",
+        "set": [
+          "Dumpling Darlings"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 56
+          },
+          "Catseye": {
+            "id": 52
+          },
+          "Emerald": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 57
+          },
+          "Pearl": {
+            "id": 58
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Turquoise": {
+            "id": 54
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Seraphine's a double threat who sings and cooks, leaving the cafe's guests swooning and sated in equal measure. Come for the treats, she says, stay for the tunes! Her dream is to become the cafe's star attraction, enchanting chefs and customers alike."
+      }
+    }
+  ]
+}

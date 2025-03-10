@@ -1,0 +1,766 @@
+{
+  "id": 58,
+  "name": "精靈 ",
+  "description": "不為人知的古老生物生活在精靈之森深處，守護這個魔法森林，處罰擅闖此地的外來者，留下無數傳說。不過，隨著外界的邪惡勢力日益增長，人類含有惡意的好奇心越來越強，守護者們的任務也變得越來越艱難。",
+  "skins": [
+    {
+      "id": 7005,
+      "name": "花仙精靈 勒布朗",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-03-10",
+        "earlysale": "2016-08",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "When the Coven first rose to power, they craved the living enchantments of the Elderwood—a tool, they believed, for the resurrection of their dark patrons. Thus did they fall upon the great forest, and slaughter its children… until a lone sylvan stood against them, stealing the witches' lives, their magic, and even their names."
+      }
+    },
+    {
+      "id": 16001,
+      "name": "森林女神 索拉卡",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 16001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-03",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "lore": "Too many forget that the heart of the Elderwood was once gentle and kind. Within its confines rested fae, sylvans, and dryads—creatures from another age, who looked upon humanity with curious eyes. Now only a scattered few remain, and fewer still, like Soraka, who regard humans fondly."
+      }
+    },
+    {
+      "id": 30026,
+      "name": "神木精靈 卡爾瑟斯",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 30026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-28",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Karthus was a brilliant scholar once upon a time. But when a disease nearly eradicated his people, he researched forbidden Coven magic, hoping to resurrect his loved ones... with catastrophic consequences. Now, he roams the Elderwood as a decaying creature, spreading his plague throughout the forest and inviting its inhabitants to transcend through death."
+      }
+    },
+    {
+      "id": 44001,
+      "name": "翡翠裝甲 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 44001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2012-03-12",
+        "set": [
+          "Elderwood"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "The Knights of the Emerald Chapel are the once-human stewards of the Elderwood—men and women who swore an oath to the land itself, and in return were granted unnaturally long life. Now led by a man named Taric, a handful reside there still, protecting the forest from all manner of invaders."
+      }
+    },
+    {
+      "id": 45013,
+      "name": "神木精靈 維迦",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 45013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-29",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Rainbow": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Bob Beal"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "A small number of the Elderwood's children remain largely unaffected by the growing influence of the Coven, to the relief of scholars and storytellers alike. Unfortunately, those particular children are some of the most whimsical and dangerous, including among their number the insane goblin Veigar and his cursed, hallucinogenic toadstools."
+      }
+    },
+    {
+      "id": 56007,
+      "name": "古神 夜曲",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-29",
+        "set": [
+          "Coven",
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot–hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again–Nocturne, the Eternal Nightmare."
+      }
+    },
+    {
+      "id": 62016,
+      "name": "神木精靈 悟空",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-28",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "A protector with no one left to protect, Wukong torments any creatures who dare traverse within the Elderwood's depths. After the Coven destroyed his village in search of his enchanted staff's limitless power, he learned that trust is a fool's luxury. The gleam from his weapon's crystals serve as a constant reminder of the ancient trickster's failure."
+      }
+    },
+    {
+      "id": 103017,
+      "name": "花仙精靈 阿璃",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 103017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-29",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 25
+          },
+          "Ahri-versary": {
+            "id": 61
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 23
+          },
+          "Citrine": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Peridot": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Fables of the trickster spirit Ahri have been part of mankind's history for countless generations. Radiant and eternally youthful, she is portrayed as a curious, quizzical member of the Elderwood's feyfolk… though in recent years her heart has hardened, as she fights a growing corruption within her ancestral home."
+      }
+    },
+    {
+      "id": 120005,
+      "name": "神木精靈 赫克林",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 120005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-11-25",
+        "earlysale": "2016-04",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "His is armor of soft-spun summerwood and rowan—the stones upon him carved in a time before the old gods danced among the trees. Even now, Hecarim travels the shallow rivers and moss-flecked paths of the Elderwood, that ageless guardian who protects the forest from mankind's darkest yearnings."
+      }
+    },
+    {
+      "id": 150022,
+      "name": "神木精靈 吶兒",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 150022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-06",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 29
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 27
+          },
+          "Tanzanite": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Dorothy Fahn",
+          "Lucien Dodge"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Stories have long been told of a monster that stalks the wood, rending massive oak trees asunder bare-handed—but few realize this titan is also the small, curious creature that collects baubles and bones and chitters through the treetops. The wise leave both to their devices. The foolish? Well, it depends which Gnar they meet."
+      }
+    },
+    {
+      "id": 268005,
+      "name": "神木精靈 阿祈爾",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 268005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 9
+          },
+          "Emberwood": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 10,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 6,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "An ancient druid-king of the Elderwood, who has called the forest his home since it stood nameless in the shadow of the gods. Though his people are a dying breed, he has raised an ensorcelled army in their likeness, including the shell of a human king whose story rings all too familiar..."
+      }
+    },
+    {
+      "id": 421017,
+      "name": "神木精靈 雷珂煞",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 421017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-06",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 20,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Spore-fiends stalk the deepest reaches of the forest, and Rek'sai is the broodmother from which all others spring. Those who see her hulking form of bloom and bark swimming through the trees rarely live long enough to tell the tale."
+      }
+    },
+    {
+      "id": 432001,
+      "name": "神木精靈 巴德",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 432001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-03-12",
+        "earlysale": "2015-12",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "lore": "Bard is a creature of the old world, they say, older than the great forest, and older even than the seeds it sprouted from. Few records remain of the age before the gods, but it is likely Bard predates them—a truly primordial being, tending the land since time's first dawn."
+      }
+    },
+    {
+      "id": 497009,
+      "name": "神木精靈 銳空",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 497009,
+        "availability": "Available",
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 10
+          },
+          "Emberwood": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Star-crossed lovers uninterested in the affairs of mortals, their playful romance has insulated their people from the horrors befalling the outside world."
+      }
+    },
+    {
+      "id": 498008,
+      "name": "神木精靈 剎雅",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 12
+          },
+          "Emberwood": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Though Princess Xayah has seen the darkness of the world beyond, she has chosen to simply adopt its colors for her court rather than confront it."
+      }
+    },
+    {
+      "id": 516002,
+      "name": "神木精靈 鄂爾",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 516002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 4
+          },
+          "Emberwood": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Matthew Waterson"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "A truly ancient shaper of the Elderwood, and keeper of divine knowledge. Beings who tended the trees and directed the rivers are rare in this time of fell magic and endless twilight, yet Ornn continues on, stubbornly clinging to what remains of the old way."
+      }
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "id": 23,
+  "name": "賭豪 ",
+  "description": "在諾斯維加斯的頂層公寓和高級俱樂部中，權力、財富與誘惑交錯碰撞，真正富麗的人們正一手掌握著世界。光之城市夜幕低垂之際，利刃悄悄伸出──在這場權力遊戲中，誰都不想當輸家。",
+  "skins": [
+    {
+      "id": 3005,
+      "name": "決勝賭豪 加里歐",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 3005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-04-13",
+        "earlysale": "2015-12",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Josh Petersdorf"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Savor that elixir. Highlight that heavenly white tux with a royal purple reserved for kings and queens who just don't deserve it. Because when you're an eighty foot tall petricite gargoyle, you're always the center of attention."
+      }
+    },
+    {
+      "id": 7035,
+      "name": "決勝賭豪 勒布朗",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 39
+          },
+          "Cerulean Club": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 37
+          },
+          "Tanzanite": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Seemingly at every event in the city at once, LeBlanc is a ubiquitous presence throughout the strip—her unparalleled ability to shmooze matched only by her mysterious origins. There was a time when certain naysayers connected her to Crime City, but as they say… never cross Lady LeBlanc."
+      }
+    },
+    {
+      "id": 11042,
+      "name": "決勝賭豪 易大師",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 49
+          },
+          "Catseye": {
+            "id": 44
+          },
+          "Cerulean Club": {
+            "id": 51,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A powerful businessman of few words, often seen staring down on “his” strip from the comfort of his posh presidential suite. Despite his cold demeanor, Yi enjoys the finer things in life, and demands only the finest fits for his world-famous evening attire."
+      }
+    },
+    {
+      "id": 63021,
+      "name": "決勝賭豪 布蘭德",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 63021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 25
+          },
+          "Cerulean Club": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          },
+          "Turquoise": {
+            "id": 31
+          }
+        },
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions."
+      }
+    },
+    {
+      "id": 63022,
+      "name": "尊爵不凡 決勝賭豪 布蘭德",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 63022,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 21,
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "With a blisteringly fashionable custom suit, the plans for which he burned, Brand stands on the precipice of something he has long thought beyond his reach: defeating his rivals and standing atop the greatest aristocrats in the world."
+      }
+    },
+    {
+      "id": 81007,
+      "name": "決勝賭豪 伊澤瑞爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 81007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-08-05",
+        "set": [
+          "Debonair"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Meteorite": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 15
+          },
+          "Sandstone": {
+            "id": 12
+          },
+          "Striped": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't."
+      }
+    },
+    {
+      "id": 89033,
+      "name": "決勝賭豪 雷歐娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 36
+          },
+          "Cerulean Club": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 40
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 38
+          },
+          "Tanzanite": {
+            "id": 41
+          },
+          "Turquoise": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "An enforcer at the exclusive Solari resort, Leona spends her days brutally ejecting unruly patrons from the premises and her evenings schmoozing up the city's ultra-wealthy. Even the rich and powerful know not to trifle with the Solari's chosen, lest they find themselves soaring out of the penthouse suite and down into the sidewalk."
+      }
+    },
+    {
+      "id": 90028,
+      "name": "決勝賭豪 馬爾札哈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Cerulean Club": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Citrine": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 32
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Tanzanite": {
+            "id": 34
+          },
+          "Turquoise": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "An associate of LeBlanc's from her days in Crime City, now established as a mover and shaker in his own right. While the two cross paths on occasion, Malzahar has certain... outside interests to consider, and those business partners have promised him more than any mortal could ever dream of."
+      }
+    },
+    {
+      "id": 119029,
+      "name": "決勝賭豪 達瑞文",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 119029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 31
+          },
+          "Cerulean Club": {
+            "id": 38,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 34
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "An infamous club host known for his daredevil attitude while performing envenomed party tricks, Draven is loved and hated by the Nox Vegas strip in equal measure. He possesses a talent for drawing both the curiosity of entertained onlookers and the ire of resort owners cleaning up after his messes."
+      }
+    },
+    {
+      "id": 126002,
+      "name": "決勝賭豪 杰西",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-02-14",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "You're a scholar. You're an inventor. You're the man of the hour and the hour is now, yesterday, and tomorrow. Don't just be the father of invention—be the ivory god of substance, class, and style. It's you, Jayce. It's always been you."
+      }
+    },
+    {
+      "id": 238031,
+      "name": "決勝賭豪 劫",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 33
+          },
+          "Cerulean Club": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 34
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "The most powerful (and powerfully dressed) man in Nox Vegas, Zed has been dabbling in more than fancy parties and cutthroat dealmaking. A new crowd from Crime City has entered his inner circle, granting this debonair gentleman an unbreakable stranglehold over the strip… and a dreadful new change in both mind and body."
+      }
+    },
+    {
+      "id": 254003,
+      "name": "決勝賭豪 菲艾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 254003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-08-05",
+        "set": [
+          "Debonair"
+        ],
+        "voiceactor": [
+          "Cia Court"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Don the yellow power tie and red rose boutonnière of a woman in charge—of herself, her destiny, and the two dozen spines she's going to snap in effortless, elegant style."
+      }
+    }
+  ]
+}

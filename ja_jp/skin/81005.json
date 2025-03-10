@@ -1,0 +1,69 @@
+{
+  "id": 81005,
+  "contentId": "a0638a12-1a65-45e8-9c33-53e85e60c268",
+  "isBase": false,
+  "name": "パルスファイア エズリアル",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/Images/ezreal_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/Images/ezreal_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/Images/ezreal_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/EzrealLoadscreen_5.jpg",
+  "skinType": "Ultimate",
+  "rarity": "kUltimate",
+  "isLegacy": false,
+  "splashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/AnimatedSplash/Ezreal_Skin5_centered.webm",
+  "collectionSplashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/AnimatedSplash/Ezreal_Skin5_uncentered.webm",
+  "collectionCardHoverVideoPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/AnimatedSplash/Ezreal_Skin05_card.webm",
+  "featuresText": "<ul><li>新スキルエフェクトとアニメーション</li><li>4段階のモデル進化</li><li>パルスファイア エズリアルとAIボイス</li><li>とどめの一撃のカスタムエフェクト</li><li>サモナーアイコン</li><li>サモナープロフィールバナー</li></ul>",
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 36
+    }
+  ],
+  "description": "時空の逃亡者であり時を越える並外れた探検家のエズリアルは、何か面白いテクノロジーを手に入れようと様々な次元を渡り歩いている。数多くのパラドックスを引き起こした彼は現在、反ユートピア思想の債権徴収官に執拗に追われ、指名手配の身となっている。",
+  "wikiSkinData": {
+    "id": 81005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2012-06-29",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Pulsefire Ezreal",
+    "forms": [
+      "Level 01",
+      "Level 06",
+      "Level 11",
+      "Level 16"
+    ],
+    "chromas": {
+      "Level 06": {
+        "id": 5
+      },
+      "Level 11": {
+        "id": 5
+      },
+      "Level 16": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman",
+      "Christine Brynn Khalil"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly."
+  }
+}

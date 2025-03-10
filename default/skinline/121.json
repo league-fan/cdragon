@@ -1,0 +1,203 @@
+{
+  "id": 121,
+  "name": "Cops and Robbers",
+  "description": "Nobody puts in the work like the Piltover Police Department. Who else can lock up the most sugar-laden donuts inside their merciless stomachs, rack up the highest of overtimes, and ignore even the most menial of paperwork? The criminals may be taking advantage of it, but even they wish they had the same work ethic.",
+  "skins": [
+    {
+      "id": 5006,
+      "name": "Secret Agent Xin Zhao",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 5006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-03-16",
+        "earlysale": "2015-12",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Richard Epcar"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Most people who come into contact with Xin Zhao have a gap in their memory where the encounter once was. This is probably for the best as most encounters he's involved in tend to include close encounters of the third kind, protecting civilians against terrifying extraterrestrial invaders, or evading aggressive UFO dive bombers."
+      }
+    },
+    {
+      "id": 21003,
+      "name": "Secret Agent Miss Fortune",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 21003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-16",
+        "retired": "2015-08-29",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Choe HeonHwa"
+        ]
+      }
+    },
+    {
+      "id": 28004,
+      "name": "Safecracker Evelynn",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 28004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Mara Junot"
+        ]
+      }
+    },
+    {
+      "id": 29006,
+      "name": "Pickpocket Twitch",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 29006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "voiceactor": [
+          "Doug Boyd"
+        ]
+      }
+    },
+    {
+      "id": 48004,
+      "name": "Constable Trundle",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 48004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Joshua Tomar"
+        ],
+        "lore": "Constable Trundle's definition of keeping the peace translates to barking insults at jaywalkers, haphazardly placing cones in the street, and perhaps worst of all, plundering doughnuts from all the local bakeries. Needless to say, this behavior results in some very stern browbeatings from Piltover Yard."
+      }
+    },
+    {
+      "id": 51005,
+      "name": "Officer Caitlyn",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 51005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-05",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "Most people assume that Caitlyn is the \"good cop\" between her and Vi. What they don't know is that her sharp eyes, quick wit, and dedication make her one of the toughest officers on the force. She doesn't mind being underestimated, especially if it gives her the upper hand."
+      }
+    },
+    {
+      "id": 106004,
+      "name": "Captain Volibear",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "neweffects": true,
+        "set": [
+          "Cops and Robbers"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "lore": "For Volibear's years of service on the Force, he was awarded the honorary title of Captain. For his utter incompetence in the field, it was made certain he would remain on desk duty for the rest of his career. Even so, he and Constable Trundle always end up patrolling the streets with mountains of paperwork left in their wake."
+      }
+    },
+    {
+      "id": 254002,
+      "name": "Officer Vi",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 254002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-10-29",
+        "set": [
+          "Cops and Robbers"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Emerald": {
+            "id": 9
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Cia Court"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "After cycling through too many partners to count, the entire department had a bet going about \"lone wolf\" Officer Vi. But this tempestuous, impetuous officer has finally found her match in Caitlyn, a sharpshooter with a quick wit and soft spot for pink-haired wrecking balls."
+      }
+    }
+  ]
+}

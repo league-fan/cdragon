@@ -1,0 +1,182 @@
+{
+  "id": 15016,
+  "contentId": "622827d7-c2df-48fa-83da-fbcec4677863",
+  "isBase": false,
+  "name": "핏빛달 시비르",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin16/Images/sivir_splash_centered_16.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin16/Images/sivir_splash_uncentered_16.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin16/Images/sivir_splash_tile_16.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin16/SivirLoadscreen_16.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15016.png",
+  "chromas": [
+    {
+      "id": 15018,
+      "name": "핏빛달 시비르",
+      "contentId": "c607bc55-36ee-4e3d-bfde-4bc0db5407c6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15018.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "인플루언서 콘텐츠 시청자 증정품 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 15019,
+      "name": "핏빛달 시비르",
+      "contentId": "ff0eb137-f58f-4d93-b073-6b61e4c62b74",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15019.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 15020,
+      "name": "핏빛달 시비르",
+      "contentId": "7a6482da-9f45-4f53-89de-1bdda97d68b0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15020.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 15021,
+      "name": "핏빛달 시비르",
+      "contentId": "d69595ee-3322-4f30-939e-88754b7a8fcb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15021.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 15022,
+      "name": "핏빛달 시비르",
+      "contentId": "35dc550a-e90d-403f-9d38-bcdd9d467cef",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15022.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 15023,
+      "name": "핏빛달 시비르",
+      "contentId": "0616e78d-5fd6-4007-891d-6badec000532",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15023.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2019년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 15024,
+      "name": "핏빛달 시비르",
+      "contentId": "4892f944-b247-4893-89c6-08ef11c118da",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15024.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 12
+    }
+  ],
+  "description": "여사제 시비르는 최근 핏빛달 교단으로부터 부름을 받았습니다. 시비르의 무기는 적을 쓰러트리는 도구이자 지옥 같은 평행 세계의 문을 여는 열쇠이기도 합니다. 세상의 모든 악마가 태어나는 이 세계에는 시비르의 또 다른 자아가 있습니다. 시비르의 두 자아는 오랜 시간에 걸쳐 하나가 되었고, 그 결과 인간과 괴물의 경계가 허물어져 버렸습니다.",
+  "wikiSkinData": {
+    "id": 15016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-10",
+    "set": [
+      "Blood Moon"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 21
+      },
+      "Emerald": {
+        "id": 18,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Rose Quartz": {
+        "id": 19
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 20
+      },
+      "Turquoise": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "A newly anointed priestess of the Blood Moon cult, Sivir wields a weapon that is both a killing tool and a key to the hellish mirror world where all demons are born. Slowly but surely, it has merged her twinned selves, and now it is no longer clear where the human ends and the monster begins."
+  }
+}

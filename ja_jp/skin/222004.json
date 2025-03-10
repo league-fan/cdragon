@@ -1,0 +1,77 @@
+{
+  "id": 222004,
+  "contentId": "1dd03490-0640-4871-82c1-4ab3e63ea16b",
+  "isBase": false,
+  "name": "スターガーディアン ジンクス",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Jinx/Skins/Skin04/Images/jinx_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Jinx/Skins/Skin04/Images/jinx_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Jinx/Skins/Skin04/Images/jinx_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Jinx/Skins/Skin04/JinxLoadscreen_4.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Jinx/Skins/Skin04/JinxLoadscreen_4_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222004.png",
+  "chromas": [
+    {
+      "id": 222050,
+      "name": "スターガーディアン ジンクス",
+      "contentId": "da987937-93f3-49f2-ae77-1b6748af8757",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222050.png",
+      "colors": [
+        "#D02D9F",
+        "#6535B8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 19
+    }
+  ],
+  "description": "衝動的で時に皮肉屋なジンクスは、素敵にド派手な爆発が大好きなスターガーディアンで、チームの悩みの種でもある。しかしひとたび戦闘が始まれば身を挺して味方を守る。特に幼馴染みのラックスは彼女にとって大切な友人だ。",
+  "wikiSkinData": {
+    "id": 222004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2016-10-05",
+    "earlysale": "2017-04",
+    "set": [
+      "Star Guardian Season 1"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 50,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Sarah Anne Williams"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Much to the annoyance of her team, Jinx is an impulsive and sometimes cynical Star Guardian who loves a good, glittery explosion. However, when the fighting starts, Jinx will throw herself into the battle to protect others, especially her childhood friend Lux."
+  }
+}

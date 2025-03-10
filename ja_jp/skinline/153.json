@@ -1,0 +1,573 @@
+{
+  "id": 153,
+  "name": "カフェキューティーズ",
+  "description": "",
+  "skins": [
+    {
+      "id": 1022,
+      "name": "カフェキューティーズ アニー",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 1022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 26
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 29
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Daughter of the cafe's owner and an accomplished pastry mage wunderkind, Annie has a sweet tooth to be reckoned with. Though her occasional hangry tantrums send her enchanted gummy bear scouring the cafe for any morsel of food fit for his master, with a full belly Annie is as sweet as sugar!"
+      }
+    },
+    {
+      "id": 8030,
+      "name": "カフェキューティーズ ブラッドミア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 32
+          },
+          "Tanzanite": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Vladimir spent years searching for the elixir of life—only to discover that it is, in fact, tea. Since then he has steeped himself in the art of the perfect cup. Though he pretends to frequent the cafe solely to advance his Tasseomancy, Vladimir has grown fond of the ragtag group that allowed him to take up residence among their ranks."
+      }
+    },
+    {
+      "id": 15034,
+      "name": "カフェキューティーズ シヴィア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Tanzanite": {
+            "id": 41
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Sivir began as a pastry chef, but has since transitioned to “front-of-house defense specialist”. Her protective nature has gotten her into a few scraps with unruly customers, but Sivir's love of her work, her friends, and the cafe is what she's really fighting for. If you want to talk to the manager, she's got some words for you, too."
+      }
+    },
+    {
+      "id": 16018,
+      "name": "カフェキューティーズ ソラカ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 16018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Peridot": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Good food can be healing, and Soraka works hard to imbue every single pastry she makes with delicious magic that leaves her customers feeling more spritely than when they first walked in. Though her origins are mysterious, the whole cafe agrees: Soraka's work is out of this world!"
+      }
+    },
+    {
+      "id": 68023,
+      "name": "カフェキューティーズ ランブル",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 68023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-25",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 26,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 27
+          },
+          "Tanzanite": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Ari Rubin"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "As the cafe's handy barista, Rumble always provides piping hot deliciousness! His trusty coffee making suit is unconventional, but effective for any cafe's needs. Just make sure to check the temperature before taking a sip of his drinks—his inventions are known for occasionally going haywire!"
+      }
+    },
+    {
+      "id": 78033,
+      "name": "カフェキューティーズ ポッピー",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 78033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-25",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 36
+          },
+          "Catseye": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Peridot": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 41
+          },
+          "Tanzanite": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Kate Higgins"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "After stumbling upon a magical hammer said to leave behind the tastiest treats from every swing, Poppy discovered her true calling: feeding the cafe's hungry customers! Anybody who messes with her friends, though… might find out that those treats aren't always so sweet."
+      }
+    },
+    {
+      "id": 117046,
+      "name": "カフェキューティーズ ルル",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117046,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-25",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "Sweet tooths are always satisfied when Lulu and her helpful sous-chef Pix are crafting the desserts! Just one whiff of their pastry magic concoctions is enough to enchant even the most unruly customers. Some say their treats are so captivating that they even have reality altering effects…"
+      }
+    },
+    {
+      "id": 222051,
+      "name": "カフェキューティーズ ジンクス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222051,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-25",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 56
+          },
+          "Pearl": {
+            "id": 59
+          },
+          "Rose Quartz": {
+            "id": 58
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Tanzanite": {
+            "id": 57
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush."
+      }
+    },
+    {
+      "id": 432017,
+      "name": "カフェキューティーズ バード",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 432017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "N/A; Utora",
+          "Sebastien 'Chemicalseb' Najand"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!"
+      }
+    },
+    {
+      "id": 887011,
+      "name": "カフェキューティーズ グウェン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 887011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Abby Trott"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Gwen is the friendly face of customer service for the cafe, always there to welcome patrons with a smile and an immaculately-plated pastry. Don't be fooled, though—she isn't afraid to use her candy-cutting shears for other things when rogue customers threaten her friends."
+      }
+    }
+  ]
+}

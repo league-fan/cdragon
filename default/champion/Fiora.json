@@ -1,0 +1,692 @@
+{
+  "id": 114,
+  "name": "Fiora",
+  "alias": "Fiora",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/114.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 114000,
+      "name": "Fiora",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 114000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-02-29",
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and cunning mind as she is for the speed of her bluesteel rapier. Born to House Laurent in the kingdom of Demacia, Fiora took control of the family from her father in the wake of a scandal that nearly destroyed them. House Laurent's reputation was sundered, but Fiora bends her every effort to restore her family's honor and return them to their rightful place among the great and good of Demacia."
+      }
+    },
+    {
+      "id": 114001,
+      "name": "Royal Guard Fiora",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2012-02-29",
+        "set": [
+          "Fables"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "If one dares to gaze upon the crown, they'll immediately catch the careful eye of Fiora, the captain of the Royal Guard. Cunning, keen, and shrewd, she's written her own legend at the tip of her rapier, a legend so large that it's said, as a child, she could slice a falling leaf perfectly in half. Whether or not it's true... Fiora has never told."
+      }
+    },
+    {
+      "id": 114002,
+      "name": "Nightraven Fiora",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2012-02-29",
+        "set": [
+          "Bloodstone"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ]
+      }
+    },
+    {
+      "id": 114003,
+      "name": "Headmistress Fiora",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Academy"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 7
+          },
+          "Catseye": {
+            "id": 12
+          },
+          "Jasper": {
+            "id": 6
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 9
+          },
+          "Sandstone": {
+            "id": 8
+          },
+          "Sapphire": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "lore": "ATTENTION ALL STUDENTS: Concerning the recent upswing in vandalism and general troublemaking, it has come to my attention these behaviors may be intended to draw the personal attention of our headmistress. The dean reminds students that such encounters can be fatal, and encourages them to re-read the Academy code of conduct. "
+      }
+    },
+    {
+      "id": 114004,
+      "name": "PROJECT: Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114004,
+        "formatname": "PROJECT: Fiora",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-09-07",
+        "earlysale": "2016-02",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Reckoning": {
+            "id": 40,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Augmented for speed, Fiora uses her zero-pulse sword to fight alongside Ashe and the other members of G/NETIC. The full-length energy blade allows for flawless attack precision and maximum repel strength, while the spatially controlled atomic tip coating is most suited for single-target combat."
+      }
+    },
+    {
+      "id": 114005,
+      "name": "Pool Party Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-07-13",
+        "earlysale": "2017-01",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 19
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rainbow": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Sapphire": {
+            "id": 21
+          },
+          "Tanzanite": {
+            "id": 14
+          },
+          "Turquoise": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Fiora can stop a pool party dead in its tracks and she knows it. What she truly longs for is a worthy opponent—but alas, some people are just too good at crushing the party scene."
+      }
+    },
+    {
+      "id": 114022,
+      "name": "Soaring Sword Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-27",
+        "earlysale": "2018-03",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "A pupil of a famous martial arts school, Fiora pined after her fellow student Yi, but was never able to win his heart. Now she pursues him as he searches for the fabled sword of jade, to protect the artifact from the man she once loved."
+      }
+    },
+    {
+      "id": 114023,
+      "name": "Heartpiercer Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114023,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-02-11",
+        "set": [
+          "Heartbreakers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 26
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Citrine": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "lore": "Fiora fancies herself the ultimate rival in all things romantic—a duelist unsurpassed in swordsmanship and love. How ironic that she finally seems to have met her match…"
+      }
+    },
+    {
+      "id": 114031,
+      "name": "iG Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114031,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-23",
+        "set": [
+          "World Champions: 2018"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Tenfold Triumph": {
+            "id": 79,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring TheShy's winning performance as Fiora during the 2018 World Championship."
+      }
+    },
+    {
+      "id": 114041,
+      "name": "Pulsefire Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114041,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 46
+          },
+          "Chrono": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          },
+          "Citrine": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 48
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 42,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Fiora joined the Chrono-Enforcers at a young age under the tutelage of her father. When a conflict with a temporal fugitive left him disgraced, her future was thrown into doubt, but Fiora endured. Now, despite having reclaimed her family's reputation, and forged herself into an utter paragon of the Chrono-Enforcers, recent revelations have cast her into doubt once more, but this time about the Remembrancer's true purpose..."
+      }
+    },
+    {
+      "id": 114050,
+      "name": "Lunar Beast Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114050,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-02-04",
+        "set": [
+          "Lunar Beast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Rose Quartz": {
+            "id": 57
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Tanzanite": {
+            "id": 54
+          },
+          "Vitality": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Beast 2021"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Fiora keeps mostly to herself, determined to reclaim her family's honor from her father's failure as a member of the last Ox Squad. She thinks the rest of the squad doesn't take their duties seriously enough, and her determination to avoid another disastrous New Year makes her seem standoffish and cold to her teammates."
+      }
+    },
+    {
+      "id": 114051,
+      "name": "Prestige Lunar Beast Fiora",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114051,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-02-04",
+        "set": [
+          "Lunar Beast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 50,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Long days of community service and long nights of tactical planning have left Fiora not drained but energized. Her steely determination has hardened into foresight and loyalty. Whatever the Lunar Beast throws at them, Ox Squad knows Fiora has their back."
+      }
+    },
+    {
+      "id": 114060,
+      "name": "Bewitching Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114060,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-07",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 63
+          },
+          "Obsidian": {
+            "id": 68
+          },
+          "Pearl": {
+            "id": 67
+          },
+          "Rose Quartz": {
+            "id": 64
+          },
+          "Ruby": {
+            "id": 61,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 66
+          },
+          "Turquoise": {
+            "id": 65
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Fiora is tired of Nami crashing the party every year. She's determined that apple bobbing takes a back seat to tests of true skill—like seeing who can eat the most candy."
+      }
+    },
+    {
+      "id": 114069,
+      "name": "Faerie Court Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114069,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-23",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 71
+          },
+          "Emerald": {
+            "id": 73
+          },
+          "Obsidian": {
+            "id": 76
+          },
+          "Peridot": {
+            "id": 77
+          },
+          "Rose Quartz": {
+            "id": 75
+          },
+          "Ruby": {
+            "id": 70,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 72
+          },
+          "Turquoise": {
+            "id": 74
+          },
+          "Winsome": {
+            "id": 78,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Faerie Court 2023"
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "As ambassador of the Spring Court, Fiora has a deep love for her people… even if that love often leads her to resolve conflict via impassioned duels rather than words. The last faerie queen was Fiora's mother, and she believes her mother's untimely death was no mistake. She wants answers, and she will administer justice at the tip of her sword."
+      }
+    },
+    {
+      "id": 114080,
+      "name": "Dragonmancer Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114080,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 82
+          },
+          "Emerald": {
+            "id": 83
+          },
+          "Obsidian": {
+            "id": 86
+          },
+          "Pearl": {
+            "id": 88
+          },
+          "Rose Quartz": {
+            "id": 85
+          },
+          "Ruby": {
+            "id": 81,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 84
+          },
+          "Tanzanite": {
+            "id": 87
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Dignified and exacting, Fiora challenged all who misused their power. But her true test appeared in her own gilded dreams: a duel with herself, her greatest enemy. She defeated this other self, impressing the Defiance Dragon. Both dragon and chosen laughed as she raised her chin while receiving its blessing, cementing her worthiness."
+      }
+    },
+    {
+      "id": 114089,
+      "name": "Battle Queen Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114089,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-08-28",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 91
+          },
+          "Emerald": {
+            "id": 92
+          },
+          "Obsidian": {
+            "id": 96
+          },
+          "Pearl": {
+            "id": 95
+          },
+          "Rose Quartz": {
+            "id": 94
+          },
+          "Ruby": {
+            "id": 90,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 93
+          },
+          "Tanzanite": {
+            "id": 94
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "Nobles in the cutthroat queendom of Telum conspired against Fiora's rise to power, taking her eye and proclaiming her dead. Yet from flowers and flame she arose, then prevailed, in the Grand Coronation. Queen Fiora now oversees arms manufacturing in her nation's steel gardens, and secures her succession by training and tempering a certain fiery princess."
+      }
+    }
+  ]
+}

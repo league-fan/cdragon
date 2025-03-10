@@ -1,0 +1,64 @@
+{
+  "id": 164,
+  "name": "대몰락",
+  "description": "천 년 전, 카마보르의 마지막 왕은 나라를 포기하고 사랑을 택했습니다. 그 사랑이 어찌나 뜨거웠던지 운명이 비틀렸고 몰락만이 뒤따랐습니다.",
+  "skins": [
+    {
+      "id": 234021,
+      "name": "왕 비에고",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 234021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-09",
+        "set": [
+          "Ruination"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Meteorite": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Sean Teale"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "The heir of Camavor, wielder of the Blade of the King, Viego longs to follow in his father's footsteps. To his advisor Kalista, his doubts were clear long before his coronation, as whispers of the sword's bond echoed throughout the Sanctum of Judgement. But he wears the Argent Crown, and with his blade, Sanctity, Viego will strike fear into the enemies of his nation."
+      }
+    }
+  ]
+}

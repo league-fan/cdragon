@@ -1,0 +1,154 @@
+{
+  "id": 24,
+  "name": "アークライト",
+  "description": "千年に一度、神のごとき太古の存在が天より降り立ち、その意思を体現する価値のある者を選び出す。そして選ばれた者たちは神聖な光の使い、不死の「アークライト」となるのだ。",
+  "skins": [
+    {
+      "id": 63007,
+      "name": "アークライト ブランド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 63007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-03-07",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 9
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "In the early days of civilization, Vel'Koz chose a man named Kegan Rodhe to take up the mantle of the first Arclight, gifting him with vast divine powers. But millenia have passed since then, and though Rodhe is gone, his body is still animated by the light, filled with nothing but pain and rage."
+      }
+    },
+    {
+      "id": 67006,
+      "name": "アークライト ヴェイン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 67006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-04-20",
+        "earlysale": "2015-12",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Empowered by the Arclight, the slayer Vayne was shown the creeping darkness lurking beneath the foundations of the world. Tasked to fight it back at all costs, she will stop at nothing to drive each new horror from whence it came."
+      }
+    },
+    {
+      "id": 83003,
+      "name": "アークライト ヨリック",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 83003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-10-02",
+        "earlysale": "2018-03",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Daniel Riordan"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The once-great king Yorick, given the gifts of power and immortality in an age long past, left his mighty kingdom to enforce the will of the divine. Hundreds of years later he returned, his lands naught but dust and ruins, and in his sorrow was consumed by madness."
+      }
+    },
+    {
+      "id": 110002,
+      "name": "アークライト ヴァルス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 110002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-05",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "filter": true,
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Concept Art House"
+        ],
+        "lore": "The archer Varus, bathed in the transcendental energies of the Arclight, found himself connected to a great cosmic wholeness more ancient than he had ever known. He now enforces this oneness, turning away entire armies long before they can ignite the flames of war."
+      }
+    },
+    {
+      "id": 161002,
+      "name": "アークライト ヴェル＝コズ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-01-28",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight."
+      }
+    }
+  ]
+}

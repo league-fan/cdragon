@@ -1,0 +1,54 @@
+{
+  "id": 120003,
+  "contentId": "88ff45e1-afeb-48d0-9c5e-3a237bedc4fe",
+  "isBase": false,
+  "name": "无头骑士 赫卡里姆",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Hecarim/Skins/Skin03/Images/hecarim_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Hecarim/Skins/Skin03/Images/hecarim_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Hecarim/Skins/Skin03/Images/hecarim_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Hecarim/Skins/Skin03/HecarimLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Halloween_b",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/11.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/11.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 88
+    }
+  ],
+  "description": "关于夜晚在路间徘徊的生物有着诸多故事，但没有一个会像无头骑士的故事那般黑暗。他在一场马背对决中失去了自己的头颅，这注定了他的生活永远被困扰-他的肩头只能扛着一个丑陋的杰克南瓜灯。",
+  "wikiSkinData": {
+    "id": 120003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Scott McNeil"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "There are many tales told about creatures prowling the roads at night, but none are as dark as that of the headless rider. He lost his head in a duel on horseback, and is doomed to haunt the living forevermore—a hideous jack-o-lantern resting upon his shoulders."
+  }
+}

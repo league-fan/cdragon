@@ -1,0 +1,86 @@
+{
+  "id": 103007,
+  "contentId": "c110a53f-f4fe-40cf-a69b-e5b8f3e68464",
+  "isBase": false,
+  "name": "电玩女神 阿狸",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin07/Images/ahri_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin07/Images/ahri_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin07/Images/ahri_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin07/AhriLoadscreen_7.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103007.png",
+  "chromas": [
+    {
+      "id": 103058,
+      "name": "电玩女神 阿狸 时光勇者",
+      "contentId": "79062fba-a26c-40d4-bb93-d5a5b2fbc16f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103058.png",
+      "colors": [
+        "#2E38C4",
+        "#C8003F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "5 Year Celebration",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/38.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/38.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 10
+    }
+  ],
+  "description": "作为极难游戏《德玛西亚恶人》六百万分记录的拥有者，阿狸自然成为了电玩世界中一股无法被忽视的战力。在游戏内的Boss被她的8位魔法撕碎之前，阿狸已经冲向了自己的下一个目标。她已经为自己赢得了“街机女皇”的绰号。",
+  "wikiSkinData": {
+    "id": 103007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-08-24",
+    "earlysale": "2017-01",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 58
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Owner of the mysterious six-million-point high score in the infamously difficult beat-em-up Demacia Vice, Ahri is a force of nature on the retro battlefields of Arcadia. Dashing between bosses before ripping them apart with her 8-bit magic, she's already earned the nickname “Queen of the Arcade.”"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": 48006,
+  "contentId": "9a3f0140-b61f-4f16-a70b-2705d2ebbc63",
+  "isBase": false,
+  "name": "弒龍勇士 特朗德",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/Images/trundle_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/Images/trundle_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/Images/trundle_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/TrundleLoadscreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48006.png",
+  "chromas": [
+    {
+      "id": 48007,
+      "name": "弒龍勇士│薔薇粉 特朗德",
+      "contentId": "246575b4-1854-4280-9f13-216ede00e264",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48007.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 48008,
+      "name": "弒龍勇士│焰紅 特朗德",
+      "contentId": "28b49029-3b69-4ece-9d01-cf6d97784a5b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48008.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 48009,
+      "name": "弒龍勇士│琥珀黃 特朗德",
+      "contentId": "4bc258a3-b8ae-456c-abdd-5c6c8561a2d3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48009.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 48010,
+      "name": "弒龍勇士│石英紫 特朗德",
+      "contentId": "cc6d20fa-c19e-4fbd-aebb-0e5ddc9d0031",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48010.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 48011,
+      "name": "弒龍勇士│珍珠白 特朗德",
+      "contentId": "a38abfda-49ff-48e2-a69a-2f09a7dadb1b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48011.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "巨魔部落之王特朗德，是一個令人尊敬的弒龍者。天生具有號令冰山原始之力的他，捍衛了自己的王國免於死亡與破壞。多年以來，倖存的巨魔在這個被巨龍之火摧毀的世界中抬頭仰望時，始終能看見他們令人敬仰的領袖。",
+  "wikiSkinData": {
+    "id": 48006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+  }
+}

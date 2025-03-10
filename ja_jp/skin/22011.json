@@ -1,0 +1,140 @@
+{
+  "id": 22011,
+  "contentId": "dfda98ce-1893-4d3d-bcfb-9b7aaf2b5512",
+  "isBase": false,
+  "name": "宇宙の女王アッシュ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin11/Images/ashe_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin11/Images/ashe_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin11/Images/ashe_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin11/AsheLoadscreen_11.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22011.png",
+  "chromas": [
+    {
+      "id": 22012,
+      "name": "宇宙の女王アッシュ",
+      "contentId": "a9a989c1-74c6-4382-8546-9e61905b24d5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 22013,
+      "name": "宇宙の女王アッシュ",
+      "contentId": "670aef87-17e0-4090-a6e2-4f0b89102d1b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22013.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 22014,
+      "name": "宇宙の女王アッシュ",
+      "contentId": "d9c4abc7-fdea-4a12-9d1d-ff6a19a1eeef",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22014.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 22015,
+      "name": "宇宙の女王アッシュ",
+      "contentId": "18866e95-b4fc-4146-b867-b285aea67f26",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22015.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 22016,
+      "name": "宇宙の女王アッシュ",
+      "contentId": "7c17eecd-30be-4f35-987d-5147bdf345ef",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22016.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "このクロマは2018年にセット限定でリリースされた。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 43
+    }
+  ],
+  "description": "星々の慈悲深い統治者であるアッシュは、宇宙の果てしない闇をつらぬく矢を放つ。その矢が落ちたところに、新たな星座が生まれる。アッシュの王宮は銀河から銀河へと漂いながら、薄暗くなった星に再び光を満たしてまわる。",
+  "wikiSkinData": {
+    "id": 22011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-21",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded."
+  }
+}

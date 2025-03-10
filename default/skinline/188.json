@@ -1,0 +1,551 @@
+{
+  "id": 188,
+  "name": "Mythmaker",
+  "description": "Long ago, the defeat of the Great Beast Galio gave rise to Lunar New Year traditions that are carried on through the retelling of that epic tale. Within the story itself lies a living world all its own—but when the world of the story is suddenly interrupted, the characters must work together to fix the mess and see their own myth through.",
+  "skins": [
+    {
+      "id": 3028,
+      "name": "Mythmaker Galio",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 3028,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 34
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Gilded": {
+            "id": 38,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Paragon": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 31
+          }
+        },
+        "voiceactor": [
+          "Josh Petersdorf"
+        ],
+        "splashartist": [
+          "Rio Sabda",
+          "Caravan Studio"
+        ],
+        "lore": "The Great Beast Galio is a fearsome creature: proud, powerful, and worthy of the myth that bears his name. Yet each year he is bested, as the story goes, so when Irelia comes to him and tells him that their fates are not writ in stone, Galio listens. If helping her means crafting a new future, he will lend her all his beastly strength."
+      }
+    },
+    {
+      "id": 15050,
+      "name": "Mythmaker Sivir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15050,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Gilded": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Paragon": {
+            "id": 71,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 59
+          },
+          "Rose Quartz": {
+            "id": 54
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Tanzanite": {
+            "id": 56
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "West Studio"
+        ],
+        "lore": "Once the hero of “The Great Beast Galio”, Sivir's myth-world is forever changed when the Lunar Players interrupt her climactic battle, and she discovers that she is no longer the protagonist. Grappling with the question of who she is if she's not saving the day, Sivir must now carve out a role for herself in a tale whose future is suddenly unwritten."
+      }
+    },
+    {
+      "id": 15051,
+      "name": "Prestige Mythmaker Sivir",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15051,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 50,
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Sivir seeks nothing short of opulence, her beautiful clothes symbols of personal success as much as they are points of sartorial pride. It's important that she looks impeccable: the New Year is here, after all, and starting it off right means stepping out in style."
+      }
+    },
+    {
+      "id": 39037,
+      "name": "Mythmaker Irelia",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 39037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 42
+          },
+          "Gilded": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Tanzanite": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Irelia was always a bystander in the story of “The Great Beast Galio”, watching from the sidelines each year as the story was told again and again… until the day that the Lunar Players crashed into their myth-world, and she found out that her story could change. Now it's time for Irelia to become the hero she wished she could be and write her own destiny. "
+      }
+    },
+    {
+      "id": 59044,
+      "name": "Mythmaker Jarvan IV",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59044,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-01-23",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 51
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "The region's Emperor, Jarvan IV, does whatever it takes to protect his realm from outsiders, leading him to frequent clashes with other gods. But when the malicious Jhin poses a threat greater than any before, he finds himself working with unlikely allies to pave the way for humanity's survival."
+      }
+    },
+    {
+      "id": 69038,
+      "name": "Prestige Mythmaker Cassiopeia",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 69038,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2025-01-23",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "At the dawn of time, the goddess Cassiopeia prepares to create humanity using the five elements. But when the Paper World is suddenly changed, Cassiopeia creates something unexpected: a cruel artist who embodies what she fears most in herself. Now, she must repair the damage her creation has inflicted upon the land before he destroys it for good."
+      }
+    },
+    {
+      "id": 86033,
+      "name": "Mythmaker Garen",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86033,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 37
+          },
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Gilded": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Paragon": {
+            "id": 45,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Silvia Meiliani",
+          "Caravan Studio"
+        ],
+        "lore": "As the town's leader in “The Great Beast Galio”, Garen's chief concern is the safety of his people in the face of a fierce enemy. When the story is thrown off, however, Irelia convinces him to help by showing Garen that Galio can be reasoned with, perhaps even stopped entirely if they make a friend out of a foe."
+      }
+    },
+    {
+      "id": 143036,
+      "name": "Mythmaker Zyra",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 143036,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 38
+          },
+          "Emerald": {
+            "id": 40
+          },
+          "Gilded": {
+            "id": 45,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Paragon": {
+            "id": 65,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 42
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Zyra is a spirit of the paper, haunting the scenery of “The Great Beast Galio” and watching the story unfold again and again. When the Lunar Players fall into the paper myth-world, Zyra's insatiable curiosity drives her to capture these newcomers, desperate to hold onto change and novelty in a world where the story always remains the same."
+      }
+    },
+    {
+      "id": 202047,
+      "name": "Mythmaker Jhin",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 202047,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2025-01-23",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 52
+          }
+        },
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Augusto Qurino",
+          "Pandart Studio"
+        ],
+        "lore": "Jhin is the first of Cassiopeia's creations after the Lunar Players distort the world of myth. He embodies the mythical snake's most insidious qualities: sinister, calculating, and malicious. Displeased with the goddess's benevolent methods, Jhin plans to recreate humanity in his image and introduce them to the beauty of suffering."
+      }
+    },
+    {
+      "id": 267058,
+      "name": "Mythmaker Nami",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 267058,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-01-23",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 64
+          },
+          "Obsidian": {
+            "id": 65
+          },
+          "Pearl": {
+            "id": 66
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 59,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 62
+          },
+          "Tanzanite": {
+            "id": 61
+          },
+          "Turquoise": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Nami's ambition to control the waves led to a destructive battle between her and god-emperor Jarvan IV, causing a great calamity to befall the world. But when the world faces an even greater threat—human nature at its most devious—Nami must swallow her pride and work with her former enemies to stop their story from being rewritten."
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": 40008,
+  "contentId": "e36cf527-0508-47a9-81a2-987873d533bd",
+  "isBase": false,
+  "name": "불멸의 영웅 잔나",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin08/Images/janna_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin08/Images/janna_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin08/Images/janna_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin08/JannaLoadScreen_8.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/40/40008.png",
+  "chromas": [
+    {
+      "id": 40009,
+      "name": "불멸의 영웅 잔나",
+      "contentId": "419098c4-68fe-438b-9a24-bdb1499148aa",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/40/40009.png",
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 40010,
+      "name": "불멸의 영웅 잔나",
+      "contentId": "6f664fd6-7b3d-4dbd-aba9-f33e42f70d74",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/40/40010.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 40011,
+      "name": "불멸의 영웅 잔나",
+      "contentId": "e67e039a-5e0f-4063-ad62-611d0cdfa005",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/40/40011.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 40012,
+      "name": "불멸의 영웅 잔나",
+      "contentId": "d1b2df19-04bc-472a-ab76-16f57607cbf4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/40/40012.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 81
+    }
+  ],
+  "description": "잔나는 가장 순수한 비취로 제작된 고대 검의 수호자입니다. 고요한 호수 바닥에 숨겨져 있는 이 무기를 사용하는 자는 불멸의 힘을 얻기 때문에 잔나는 항상 긴장을 늦추지 않고 검을 수호해야 합니다.",
+  "wikiSkinData": {
+    "id": 40008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-27",
+    "earlysale": "2018-03",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Peridot": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 11
+      },
+      "Sapphire": {
+        "id": 10
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Janna is the guardian of an ancient sword made of the purest jade, hidden at the bottom of a silent lake. Those who wield this weapon are granted immortality, and so she must remain steadfast in order to protect it."
+  }
+}

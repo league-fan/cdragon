@@ -1,0 +1,61 @@
+{
+  "id": 60,
+  "name": "Order of the Lotus",
+  "description": "Esteemed leaders and devoted acolytes in the Order of the Lotus are the finest of the First Lands. Avatars of immortality and virtue, members of the Order live many lifetimes, striving to keep peace eternal.",
+  "skins": [
+    {
+      "id": 39005,
+      "name": "Order of the Lotus Irelia",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 39005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-03",
+        "earlysale": "2016-01",
+        "set": [
+          "Order of the Lotus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "vu": true,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "A chance encounter with the Order of the Lotus changed Irelia's life forever, as she opened her mind to the cosmic cycles of death and rebirth over many human lifetimes. She is still a fierce warrior, but now fights knowing her soul can never truly die."
+      }
+    },
+    {
+      "id": 43004,
+      "name": "Order of the Lotus Karma",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 43004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-01",
+        "set": [
+          "Order of the Lotus"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Aleksandr Nikonov"
+        ]
+      }
+    }
+  ]
+}

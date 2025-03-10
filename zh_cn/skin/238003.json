@@ -1,0 +1,92 @@
+{
+  "id": 238003,
+  "contentId": "6c500efd-5569-4d03-af61-aae1e920b9de",
+  "isBase": false,
+  "name": "源计划：阴 劫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin03/Images/zed_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin03/Images/zed_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin03/Images/zed_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin03/ZedLoadScreen_3.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin03/ZedLoadScreen_3_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238003.png",
+  "chromas": [
+    {
+      "id": 238014,
+      "name": "源计划：阴 劫 惩戒",
+      "contentId": "982c3c33-ee85-4556-960f-d0a0bde3c132",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238014.png",
+      "colors": [
+        "#FF5500",
+        "#162B30"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "在2019源计划事件期间获得的战利品专属。 "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 18
+    }
+  ],
+  "description": "在体系内新晋崛起的劫是源计划反间谍小组的首领。他使用一双高频能量战刃和分子“固态烟”投影装置搜寻基因动力的叛军，擅长近距离多角度的目标割裂。",
+  "wikiSkinData": {
+    "id": 238003,
+    "formatname": "PROJECT: Zed",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-03",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reckoning": {
+        "id": 14,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Jason Chan"
+    ],
+    "lore": "Rising from the Command Line, Zed is a leader within PROJECT's counter-espionage units. He seeks out the G/NETIC rebels with split high frequency blades and molecular “solid smoke” projectors, favoring close-proximity and multiple angle target laceration."
+  }
+}

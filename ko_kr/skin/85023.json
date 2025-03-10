@@ -1,0 +1,80 @@
+{
+  "id": 85023,
+  "contentId": "163896a3-3ed5-442f-abce-2c126eca0e65",
+  "isBase": false,
+  "name": "DWG 케넨",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/Images/kennen_splash_centered_23.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/Images/kennen_splash_uncentered_23.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/Images/kennen_splash_tile_23.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/KennenLoadscreen_23.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin23/KennenLoadscreen_23_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85023.png",
+  "chromas": [
+    {
+      "id": 85024,
+      "name": "DWG 케넨",
+      "contentId": "174cd6bf-5548-4c63-bb4d-bdc06a49b59a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85024.png",
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021 MSI 기간 동안 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 145
+    }
+  ],
+  "description": "2020 월드 챔피언십에서 케넨을 플레이한 Nuguri의 우승 기념 스킨",
+  "wikiSkinData": {
+    "id": 85023,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-29",
+    "set": [
+      "World Champions: 2020"
+    ],
+    "chromas": {
+      "Elite": {
+        "id": 24,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Honoring Nuguri's winning performance as Kennen during the 2020 World Championship."
+  }
+}

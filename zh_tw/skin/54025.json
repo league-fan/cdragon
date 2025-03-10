@@ -1,0 +1,97 @@
+{
+  "id": 54025,
+  "contentId": "0ea0e7df-139f-4a46-97c5-e0cf0a856212",
+  "isBase": false,
+  "name": "FPX 墨菲特",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin25/Images/malphite_splash_centered_25.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin25/Images/malphite_splash_uncentered_25.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin25/Images/malphite_splash_tile_25.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin25/MalphiteLoadscreen_25.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin25/MalphiteLoadscreen_25_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54025.png",
+  "chromas": [
+    {
+      "id": 54026,
+      "name": "FPX 墨菲特",
+      "contentId": "579fc5f1-87be-44dd-b617-b4e8ee4117e4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54026.png",
+      "colors": [
+        "#0C0C0F",
+        "#9B1520"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 54047,
+      "name": "FPX 墨菲特",
+      "contentId": "084592b7-e954-4fa4-8058-5aa986571a9a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54047.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 130
+    }
+  ],
+  "description": "紀念 Doinb 在 2019 世界大賽中使用墨菲特贏得世界冠軍的精采表現。",
+  "wikiSkinData": {
+    "id": 54025,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 26,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      },
+      "Tenfold Triumph": {
+        "id": 47
+      }
+    },
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring Doinb's winning performance as Malphite during the 2019 World Championship."
+  }
+}

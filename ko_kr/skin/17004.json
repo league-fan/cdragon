@@ -1,0 +1,80 @@
+{
+  "id": 17004,
+  "contentId": "aeeed8ed-1541-42ad-8dc4-8a647fb62f6c",
+  "isBase": false,
+  "name": "우주비행사 티모",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin04/Images/teemo_splash_centered_4.ASU_Teemo.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin04/Images/teemo_splash_uncentered_4.ASU_Teemo.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin04/Images/teemo_splash_tile_4.ASU_Teemo.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin04/TeemoLoadScreen_4.ASU_Teemo.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17004.png",
+  "chromas": [
+    {
+      "id": 17026,
+      "name": "우주비행사 티모",
+      "contentId": "5a0038ae-d7c9-476a-98a9-e145029ebdaa",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17026.png",
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020 펄스 건 이벤트 기간 동안 출시된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 94
+    }
+  ],
+  "description": "아주 오랜 시간이 걸릴 것 같아<br>착륙해서 첫 발을 내디뎠는데<br>또 티모의 지뢰를 밟았다는 사실을 알기까지는!<br>아, 안 돼...!!!!",
+  "wikiSkinData": {
+    "id": 17004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2010-10-27",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 26,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kudos Productions"
+    ],
+    "lore": "And I think it's gonna be a long, long time<br>'Til touchdown brings me round again to find<br>I've stepped on another Teemo landmine!<br>Oh, no no no!"
+  }
+}

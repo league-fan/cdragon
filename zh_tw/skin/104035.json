@@ -1,0 +1,174 @@
+{
+  "id": 104035,
+  "contentId": "01ece89d-26bf-4956-a9bd-d554a9b682ce",
+  "isBase": false,
+  "name": "光之哨兵 葛雷夫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin35/Images/graves_splash_centered_35.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin35/Images/graves_splash_uncentered_35.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin35/Images/graves_splash_tile_35.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin35/GravesLoadscreen_35.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin35/GravesLoadscreen_35_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104035.png",
+  "chromas": [
+    {
+      "id": 104036,
+      "name": "光之哨兵｜焰紅 葛雷夫",
+      "contentId": "3501b13b-27e7-4889-9b85-c864a1f0a843",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104036.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2021 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 104037,
+      "name": "光之哨兵｜翡翠 葛雷夫",
+      "contentId": "b63d9ba4-d224-4ce1-801c-3fe6fcaab8f1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104037.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 104038,
+      "name": "光之哨兵｜薔薇粉 葛雷夫",
+      "contentId": "8907bdad-bf18-47f7-90b4-af6468b2a5d7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104038.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 104039,
+      "name": "光之哨兵｜紺紫 葛雷夫",
+      "contentId": "df98cadf-3e78-454f-8809-8e86d9dfd697",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104039.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 104040,
+      "name": "光之哨兵｜珍珠白 葛雷夫",
+      "contentId": "29341106-6fa2-4896-9179-63ed060ebf14",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104040.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 104041,
+      "name": "光之哨兵｜堅毅 葛雷夫",
+      "contentId": "aa9f3d6b-ea59-4e00-badc-0cf1d5c83452",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104041.png",
+      "colors": [
+        "#080808",
+        "#8E0A38"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2021 光之哨兵活動期間以戰利品限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 147
+    }
+  ],
+  "description": "葛雷夫才不在乎什麼拯救世界的責任，但是殞落王者已經妨礙到他的犯罪事業了，這他可不能忍。當哨兵組織前來徵召，葛雷夫認為他可以扮演一次英雄—至少要久到讓他能確保還有個世界留存下來給他強取豪奪。",
+  "wikiSkinData": {
+    "id": 104035,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-07-22",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 37
+      },
+      "Pearl": {
+        "id": 40
+      },
+      "Resolute": {
+        "id": 41,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 36,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 39
+      }
+    },
+    "voiceactor": [
+      "Fred Tatasciore"
+    ],
+    "splashartist": [
+      "Horace 'Hozure' Hsu"
+    ],
+    "lore": "Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway."
+  }
+}

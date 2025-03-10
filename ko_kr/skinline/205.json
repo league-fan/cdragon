@@ -1,0 +1,120 @@
+{
+  "id": 205,
+  "name": "비의 인도자",
+  "description": "물과 노래가 사라지자 세계는 메말랐습니다. 개구리가 노래하는 힘을 잃은 이래로 비가 잦아들며 공기가 건조해졌습니다. 결국 개구리들은 비의 인도자라는 새로운 집단에 노래하는 법을 가르쳤습니다. 특별한 우비를 입은 비의 인도자는 땅을 회복시키고 자연을 이전의 푸르렀던 모습으로 되돌리기 위해 힘씁니다.",
+  "skins": [
+    {
+      "id": 105035,
+      "name": "비의 인도자 피즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 105035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-06-26",
+        "set": [
+          "Rain Shepherd"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 40
+          },
+          "Aquamarine": {
+            "id": 38
+          },
+          "Citrine": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 39,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Meteorite": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "The fiendish Fizz was so jealous of the magical singing voices frogs possess that he taught himself how to sing and summon the rains. Though earsplitting at first, before long his songs were drawing tears from his listeners. With his magical vocals, Fizz is now keen to rain on everyone's parades."
+      }
+    },
+    {
+      "id": 902011,
+      "name": "비의 인도자 밀리오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 902011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-06-26",
+        "set": [
+          "Rain Shepherd"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Giselle Fernandez"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Milio always loved water, and growing up with his frog family of lyrical croakers meant there was never any shortage of rain. But once they lost their ability to sing and the lands dried up, he took on new responsibilities. Gathering up his family in his backpack, he set out to restore their singing voices and learn their songs as a new Rain Shepherd."
+      }
+    }
+  ]
+}

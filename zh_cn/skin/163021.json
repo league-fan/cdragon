@@ -1,0 +1,87 @@
+{
+  "id": 163021,
+  "contentId": "e8d51a35-791c-4901-8e5c-d66908023499",
+  "isBase": false,
+  "name": "水晶圣骑 塔莉垭",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Taliyah/Skins/Skin21/Images/taliyah_splash_centered_21.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Taliyah/Skins/Skin21/Images/taliyah_splash_uncentered_21.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Taliyah/Skins/Skin21/Images/taliyah_splash_tile_21.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Taliyah/Skins/Skin21/TaliyahLoadscreen_21.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Taliyah/Skins/Skin21/TaliyahLoadscreen_21_LE.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/163/163021.png",
+  "chromas": [
+    {
+      "id": 163022,
+      "name": "水晶圣骑 塔莉垭 感化之光",
+      "contentId": "81d0ebd8-abfe-4c57-a159-ca54132d41d5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/163/163022.png",
+      "colors": [
+        "#AAD4EB",
+        "#23211D"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Mythic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/68.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/68.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 8,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/8_large.png",
+  "skinLines": [
+    {
+      "id": 195
+    }
+  ],
+  "description": "当灵棱水晶开始出现时，莫图斯上的每个人都有不同的反应。塔莉垭的族群被困在岛上，并不将它们视为威胁，而是将它们视为自然的一种延伸。现在，塔莉垭的族群与他们身上的水晶和谐共生，比以往任何时候都更加强大，并且她冒险前往大陆测试自己的力量。",
+  "wikiSkinData": {
+    "id": 163021,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2023-09-13",
+    "set": [
+      "Crystalis Motus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Reclaimed": {
+        "id": 22,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "When the Prismae Crystals began to appear, everyone on Motus reacted differently. Locked to their island, Taliyah's people viewed them not as a threat, but as an extension of nature. Now in symbiotic harmony with the crystals on their bodies, Taliyah's people are stronger than ever, and she ventures to the mainland to put her powers to the test."
+  }
+}

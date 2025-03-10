@@ -1,0 +1,209 @@
+{
+  "id": 84004,
+  "contentId": "1e7a338e-8a02-4ab7-9064-d8b57e83481f",
+  "isBase": false,
+  "name": "性感護士 阿卡莉",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Akali/Skins/Skin04/Images/akali_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Akali/Skins/Skin04/Images/akali_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Akali/Skins/Skin04/Images/akali_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Akali/Skins/Skin04/AkaliLoadscreen_4.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Akali/Skins/Skin04/AkaliLoadscreen_4_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84004.png",
+  "chromas": [
+    {
+      "id": 84033,
+      "name": "性感護士│金黃 阿卡莉",
+      "contentId": "8a285bd6-7550-40b9-bdb8-d68f28dc63f9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84033.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 84034,
+      "name": "性感護士│焰紅 阿卡莉",
+      "contentId": "f35900d0-97ba-4552-8a16-b626dc84212d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84034.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 84035,
+      "name": "性感護士│翡翠 阿卡莉",
+      "contentId": "10acf041-aee4-44d7-b53a-c4de2ff8cf10",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84035.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 84036,
+      "name": "性感護士│石英紫 阿卡莉",
+      "contentId": "e945f27f-193d-40b2-9bb5-52c0b8e195ff",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84036.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 84037,
+      "name": "性感護士│紺紫 阿卡莉",
+      "contentId": "4fba48f8-0ada-4729-bf62-759cb3cfa53d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84037.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 84038,
+      "name": "性感護士│鐵灰 阿卡莉",
+      "contentId": "745d07af-e510-4a4b-948a-f0bc8de184d3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84038.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 84039,
+      "name": "性感護士│薔薇粉 阿卡莉",
+      "contentId": "b3dc4784-a576-4d2f-b03c-6c3c3422861f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84039.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 84040,
+      "name": "性感護士│彩虹 阿卡莉",
+      "contentId": "637afd0e-12f5-41ef-a602-ee636cba171a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/84/84040.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 115
+    }
+  ],
+  "description": "你好，護士姐姐！永別了，人生。",
+  "wikiSkinData": {
+    "id": 84004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-01-04",
+    "set": [
+      "Rift Hospital"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 36,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Citrine": {
+        "id": 33,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Emerald": {
+        "id": 35,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Obsidian": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Rainbow": {
+        "id": 40,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Rose Quartz": {
+        "id": 39,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Mega Donor Bundle"
+      },
+      "Tanzanite": {
+        "id": 37,
+        "availability": "Limited",
+        "source": "Store",
+        "distribution": "Charity Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Krizia Bajos"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Hello, nurse! Goodbye, being alive."
+  }
+}

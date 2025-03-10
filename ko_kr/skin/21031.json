@@ -1,0 +1,174 @@
+{
+  "id": 21031,
+  "contentId": "fce06c2d-ccdd-4972-85cf-d2bd822cb14a",
+  "isBase": false,
+  "name": "전투 토끼 미스 포츈",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/Images/missfortune_splash_centered_31.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/Images/missfortune_splash_uncentered_31.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/Images/missfortune_splash_tile_31.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/MissFortuneLoadscreen_31.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/MissFortuneLoadscreen_31_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21031.png",
+  "chromas": [
+    {
+      "id": 21034,
+      "name": "전투 토끼 미스 포츈",
+      "contentId": "d10a50df-4a64-4e16-b3ca-d0516f5bf297",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21034.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2022년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 21035,
+      "name": "전투 토끼 미스 포츈",
+      "contentId": "02ace035-e88e-4733-b4e7-dddc5c14b4b5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21035.png",
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 21036,
+      "name": "전투 토끼 미스 포츈",
+      "contentId": "6bd2a369-7ec6-4b48-8dab-ab68b641e045",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21036.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 21037,
+      "name": "전투 토끼 미스 포츈",
+      "contentId": "1ab753c9-7e65-4ca4-99be-e3a2a258ce39",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21037.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 21038,
+      "name": "전투 토끼 미스 포츈",
+      "contentId": "b316c3c1-f44e-4096-ad7d-4bff0a6fb9a4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21038.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 21039,
+      "name": "전투 토끼 미스 포츈",
+      "contentId": "c80b75cf-83b7-4652-a497-b1e76040d224",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21039.png",
+      "colors": [
+        "#2B7CFF",
+        "#FF930E"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2022 동물특공대 이벤트 기간 동안 출시된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 156
+    }
+  ],
+  "description": "사라 포츈은 알 수 없는 이유로 사라진 전임자 리븐의 뒤를 이어 동물특공대 지휘관 자리에 올랐습니다. 전쟁 영웅으로서 입지를 다진 리븐의 뒤를 잇기는 쉽지 않은 일이지만 뛰어난 지능과 실력, 용기를 발휘하며 인류를 위한 싸움에서 자신만의 전설을 만들어나가고 있습니다.",
+  "wikiSkinData": {
+    "id": 21031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 37
+      },
+      "Nightwire": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Bailey"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+  }
+}

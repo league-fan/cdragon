@@ -1,0 +1,330 @@
+{
+  "id": 106,
+  "name": "弗力貝爾",
+  "alias": "Volibear",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/106.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 106000,
+      "name": "弗力貝爾",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 106000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-11-29",
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord’s tundra, and is fiercely protective of the lands that he and his demi-god kin created. Cultivating a deep hatred of civilization and the weakness it brought with it, he now fights to return to the old ways—when the land was untamed, and blood spilled freely—and eagerly battles all who oppose him, with tooth, claw, and thundering domination."
+      }
+    },
+    {
+      "id": 106001,
+      "name": "雷霆至尊 弗力貝爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-11-29",
+        "set": [
+          "Thunder Lord"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "In an age before man, King Voli ruled the bitter northlands, and he was as harsh and unforgiving as they were. It is said that he waged a terrible war against his brother, the great King Ornn, and that their struggle razed mountains and emptied seas, as the two of them became like beasts themselves."
+      }
+    },
+    {
+      "id": 106002,
+      "name": "北極風暴 弗力貝爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-29",
+        "retired": "2017-11-01",
+        "set": [
+          "Arctic Ops"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "It's easy to get used to having a bear in the platoon. He never gets cold, he sleeps all the time, and he can tear through a fully armored regiment of enemy soldiers in about six seconds. It's very easy to get used to having a bear in the platoon."
+      }
+    },
+    {
+      "id": 106003,
+      "name": "符文護衛 弗力貝爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-04-29",
+        "set": [
+          "Otherroads"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ]
+      }
+    },
+    {
+      "id": 106004,
+      "name": "波力士大人 弗力貝爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-11-28",
+        "neweffects": true,
+        "set": [
+          "Cops and Robbers"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "lore": "For Volibear's years of service on the Force, he was awarded the honorary title of Captain. For his utter incompetence in the field, it was made certain he would remain on desk duty for the rest of his career. Even so, he and Constable Trundle always end up patrolling the streets with mountains of paperwork left in their wake."
+      }
+    },
+    {
+      "id": 106005,
+      "name": "雷霆筋肉人 弗力貝爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-06-01",
+        "earlysale": "2016-10",
+        "set": [
+          "Luchador"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "lore": "The Wrestling Federation of Valoran would like to put these terrible rumors about our beloved El Rayo to bed once and for all. One: he is definitely a bear, and not a man dressed as a bear, as some might claim. Two: bears make amazing wrestlers."
+      }
+    },
+    {
+      "id": 106006,
+      "name": "千錘百鍊之熊",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106006,
+        "formatname": "The Thousand-Pierced Bear",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-05-28",
+        "set": [
+          "Coven"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "Ancient Freljordian legends speak of spirit walkers consumed by the true spirit of the unrelenting bear—a force older than the Freljord itself. Those who dare to invoke its name cannot fathom the terrible, primal power they call down upon themselves."
+      }
+    },
+    {
+      "id": 106007,
+      "name": "雙相古龍 弗力貝爾",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 14
+          },
+          "Citrine": {
+            "id": 11
+          },
+          "Emberclaw": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Felipe Martini",
+          "West Studio"
+        ],
+        "lore": "Volibear was the greatest terror in the forest, until the nearby volcano erupted. In the frenzy of escape, Volibear came across a child who was similarly trapped, and heeded a strange instinct—he saved the child. The Duality Dragon saw and made the mighty predator an offer: the power to hone the duality of his nature, both fury and compassion."
+      }
+    },
+    {
+      "id": 106009,
+      "name": "尊爵不凡 雙相古龍 弗力貝爾",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "Volibear stands poised between the two drives of his core self—rage and mercy, impulse and restraint, neither overwhelming the other. Balance is an active struggle; each day the predator and protector clash, and each day Volibear's will grows stronger by the grace of the dragon's gift."
+      }
+    },
+    {
+      "id": 106019,
+      "name": "墨影戰士 弗力貝爾",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 24
+          },
+          "Inked": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2023"
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Jack Hsu",
+          "West Studio"
+        ],
+        "lore": "A spirit of fury and war, many vengeful souls have made contracts with the Volibear, and only Udyr has survived for longer than a year. Whether his charges succeed in taking revenge or meet violent ends, each one who dies gives him more power. More power means more wayward mortals seek him out for contracts—and thus the bear will never go hungry."
+      }
+    }
+  ]
+}

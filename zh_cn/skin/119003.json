@@ -1,0 +1,158 @@
+{
+  "id": 119003,
+  "contentId": "28dbb7cc-bb65-4acd-91da-3d73d16904e4",
+  "isBase": false,
+  "name": "金牌主播 德莱文",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin03/Images/draven_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin03/Images/draven_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin03/Images/draven_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin03/DravenLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/119/119003.png",
+  "chromas": [
+    {
+      "id": 119007,
+      "name": "金牌主播 德莱文 从不断气闪电嘴",
+      "contentId": "fb50fd79-6cfa-4471-9db9-04ac5fc03597",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/119/119007.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 119008,
+      "name": "金牌主播 德莱文 玩梗达人金话筒",
+      "contentId": "c471b4d1-aea0-4496-9e00-e4bf5e796deb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/119/119008.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 119009,
+      "name": "金牌主播 德莱文 瓜皮杀手王牌讲师",
+      "contentId": "ba2ea02f-f7e0-4f57-a6eb-97b9a8b775d7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/119/119009.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 119010,
+      "name": "金牌主播 德莱文 理性分析数据帝",
+      "contentId": "cb7aa87e-cb6a-434b-8762-f36ae5a67dd9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/119/119010.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 119011,
+      "name": "金牌主播 德莱文 神秘力量预言帝",
+      "contentId": "1ab9a5e7-d0b7-495d-ab48-7b36e8d972b1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/119/119011.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 100
+    }
+  ],
+  "description": "来到下路，我们看到德莱文的表现可圈可点，已将对方两人压到了塔下。冲塔了！德莱文拿下了辅助的人头——防御塔出于尊重拒绝攻击他——双杀！除此之外，防御塔还在恐惧中自我解体！德莱文的大师级操作，让我们再看一遍。",
+  "wikiSkinData": {
+    "id": 119003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-06-20",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 8
+      },
+      "Obsidian": {
+        "id": 11
+      },
+      "Pearl": {
+        "id": 7
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "lore": "Down in the bot lane, we're seeing a seminal performance from Draven, already bullying both opposing laners into turret. There's the dive! Draven picks up the support kill—turret refuses to aggro him out of respect—there's the double kill, and, yes, the turret has self-destructed in terror! Masterful play by Draven, let's see it again."
+  }
+}

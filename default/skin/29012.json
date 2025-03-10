@@ -1,0 +1,165 @@
+{
+  "id": 29012,
+  "contentId": "6e65c226-a09c-4412-ab32-a093ef00dc69",
+  "isBase": false,
+  "name": "Ice King Twitch",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin12/Images/twitch_splash_centered_12.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin12/Images/twitch_splash_uncentered_12.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin12/Images/twitch_splash_tile_12.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin12/TwitchLoadscreen_12.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Skin12/TwitchLoadScreen_12_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29012.png",
+  "chromas": [
+    {
+      "id": 29013,
+      "name": "Ice King Twitch",
+      "contentId": "4ccb775d-203b-4285-94fc-67e200dbdb8e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29013.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive during 2018."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 29014,
+      "name": "Ice King Twitch",
+      "contentId": "9c27543b-f2bd-4373-8166-f57191395919",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29014.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 29015,
+      "name": "Ice King Twitch",
+      "contentId": "e1a38ef9-7953-4a66-8359-bf83083b5d06",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29015.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        },
+        {
+          "region": "tencent",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 29016,
+      "name": "Ice King Twitch",
+      "contentId": "7dd08731-e5d3-4320-94f5-c0d3eb313324",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29016.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 29017,
+      "name": "Ice King Twitch",
+      "contentId": "509527f2-8d57-47dc-9229-640ea26ed2c6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/29/29017.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse.",
+  "wikiSkinData": {
+    "id": 29012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 14
+      },
+      "Rainbow": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Doug Boyd"
+    ],
+    "splashartist": [
+      "Mingchen Shen",
+      "West Studio"
+    ],
+    "lore": "Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse."
+  }
+}

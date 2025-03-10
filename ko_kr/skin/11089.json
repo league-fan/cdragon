@@ -1,0 +1,174 @@
+{
+  "id": 11089,
+  "contentId": "bcb23687-7249-44b1-b31d-3b79f37e4f01",
+  "isBase": false,
+  "name": "먹그림자 마스터 이",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin89/Images/masteryi_splash_centered_89.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin89/Images/masteryi_splash_uncentered_89.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin89/Images/masteryi_splash_tile_89.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin89/MasterYiLoadScreen_89.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin89/MasterYiLoadScreen_89_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11089.png",
+  "chromas": [
+    {
+      "id": 11090,
+      "name": "먹그림자 마스터 이",
+      "contentId": "429d9e6d-106e-45a6-8173-036f79a91228",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11090.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2023년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 11091,
+      "name": "먹그림자 마스터 이",
+      "contentId": "ecc2d359-99ce-4e93-9b6e-011831615b0e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11091.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 11092,
+      "name": "먹그림자 마스터 이",
+      "contentId": "8b278e14-f14e-40b3-b506-ae1f5c9731c0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11092.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 11093,
+      "name": "먹그림자 마스터 이",
+      "contentId": "a5e898ce-a95d-4559-a099-715d1019c4bd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11093.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 11094,
+      "name": "먹그림자 마스터 이",
+      "contentId": "736fb157-94b4-4630-b2d1-4f03a7df533d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11094.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 11095,
+      "name": "먹그림자 마스터 이",
+      "contentId": "23a3345b-a30a-4761-b91c-0c9d7a8998a3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11095.png",
+      "colors": [
+        "#B5CED6",
+        "#33D889"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2023 먹그림자 이벤트 기간 동안 출시된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 192
+    }
+  ],
+  "description": "마스터 이의 가문은 지배층의 통제를 거부하며 라바돈시에서 도망쳤지만 말살되고 말았습니다. 그에 맞서기 위해 최초의 먹그림자 전사 중 하나가 되어 힘을 부여하는 마법의 문신을 새기고 그 대가로 수명을 희생한 마스터 이는 지배층을 향해 검을 겨눕니다. 살날이 얼마나 남았는지 알 수 없지만 도시를 구하고 원수를 갚으려 합니다.",
+  "wikiSkinData": {
+    "id": 11089,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-05-03",
+    "set": [
+      "Inkshadow"
+    ],
+    "newvoice": true,
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 91
+      },
+      "Inked": {
+        "id": 95,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2023"
+      },
+      "Rose Quartz": {
+        "id": 93
+      },
+      "Ruby": {
+        "id": 90,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 94
+      },
+      "Turquoise": {
+        "id": 92
+      }
+    },
+    "voiceactor": [
+      "Greg Chun"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "Master Yi's family refused Cabal control, fleeing Rabadon City—only to be snuffed out. To fight back, he became one of the first Inkshadow Warriors, sacrificing his lifespan for a magical tattoo that grants him the power to raise his sword against the Cabal. He doesn't know how long he has left to live; still, he will save his city… and get his revenge."
+  }
+}

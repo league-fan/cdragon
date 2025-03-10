@@ -1,0 +1,162 @@
+{
+  "id": 117,
+  "name": "德玛西亚警官",
+  "description": "当阿狸在开始屏幕上锁定她的角色时，大量合成器的配乐充满了电玩。她的按钮拍击不是随机的，而是经过完美计算的，用来引导她的角色穿过充满犯罪的德玛西亚各街道。一群人聚集在一起，聚精会神地看着阿狸终于打破了她在几个小时前创下的高分。",
+  "skins": [
+    {
+      "id": 44002,
+      "name": "紫水晶意志 塔里克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 44002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-04-08",
+        "set": [
+          "Demacia Vice"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ]
+      }
+    },
+    {
+      "id": 86014,
+      "name": "德玛西亚警官 盖伦",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-07-18",
+        "set": [
+          "Demacia Vice"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 20
+          },
+          "Catseye": {
+            "id": 19
+          },
+          "Neon Noir": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "As chrome eagles cry and steel panthers growl, lightning hot justice is delivered nightly by Detective Garen Stryker on the neon-drenched streets. A black belt in Ionian martial arts, this katana wielding cop pushes it to the limit with every case... for Demacia!"
+      }
+    },
+    {
+      "id": 236009,
+      "name": "德玛西亚警官 卢锡安",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 236009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-07-18",
+        "set": [
+          "Demacia Vice"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Neon Noir": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order."
+      }
+    },
+    {
+      "id": 254001,
+      "name": "霓虹杀拳 蔚",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 254001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-19",
+        "set": [
+          "Demacia Vice"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "voiceactor": [
+          "Cia Court"
+        ]
+      }
+    }
+  ]
+}

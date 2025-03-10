@@ -1,0 +1,80 @@
+{
+  "id": 22009,
+  "contentId": "726103c1-5e6d-4b57-add3-5c135bc3fdd6",
+  "isBase": false,
+  "name": "Worlds 2017 アッシュ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/Images/ashe_splash_centered_9.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/Images/ashe_splash_uncentered_9.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/Images/ashe_splash_tile_9.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/AsheLoadscreen_9.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Skin09/AsheLoadScreen_9_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22009.png",
+  "chromas": [
+    {
+      "id": 22010,
+      "name": "Worlds 2017 アッシュ",
+      "contentId": "3936d944-ab90-4301-9c4a-87d1d8f970f0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22010.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "Worldsイベント期間中に戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "中国で開催された2017年のWorldsを記念。",
+  "wikiSkinData": {
+    "id": 22009,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-09-12",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2017: Chase Your Legend"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Celebrating Worlds 2017 in China."
+  }
+}

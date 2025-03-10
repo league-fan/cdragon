@@ -1,0 +1,140 @@
+{
+  "id": 48006,
+  "contentId": "9a3f0140-b61f-4f16-a70b-2705d2ebbc63",
+  "isBase": false,
+  "name": "Dragonslayer Trundle",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/Images/trundle_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/Images/trundle_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/Images/trundle_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Skin06/TrundleLoadscreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48006.png",
+  "chromas": [
+    {
+      "id": 48007,
+      "name": "Dragonslayer Trundle",
+      "contentId": "246575b4-1854-4280-9f13-216ede00e264",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48007.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 48008,
+      "name": "Dragonslayer Trundle",
+      "contentId": "28b49029-3b69-4ece-9d01-cf6d97784a5b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48008.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2020."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 48009,
+      "name": "Dragonslayer Trundle",
+      "contentId": "4bc258a3-b8ae-456c-abdd-5c6c8561a2d3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48009.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 48010,
+      "name": "Dragonslayer Trundle",
+      "contentId": "cc6d20fa-c19e-4fbd-aebb-0e5ddc9d0031",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48010.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 48011,
+      "name": "Dragonslayer Trundle",
+      "contentId": "a38abfda-49ff-48e2-a69a-2f09a7dadb1b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/48/48011.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire.",
+  "wikiSkinData": {
+    "id": 48006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 8,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Joshua Tomar"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+  }
+}

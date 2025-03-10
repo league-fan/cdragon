@@ -1,0 +1,78 @@
+{
+  "id": 517034,
+  "contentId": "eea45f40-caec-4979-8c7a-17611901c31e",
+  "isBase": false,
+  "name": "灰の暗殺者サイラス",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin34/Images/sylas_splash_centered_34.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin34/Images/sylas_splash_uncentered_34.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin34/Images/sylas_splash_tile_34.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin34/SylasLoadscreen_34.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Skin34/SylasLoadscreen_34_LE.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517034.png",
+  "chromas": [
+    {
+      "id": 517035,
+      "name": "灰の暗殺者サイラス",
+      "contentId": "c3fd0861-5284-4fc7-b3f5-e352a5adb294",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/517/517035.png",
+      "colors": [
+        "#9D0606",
+        "#2B263F"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 157
+    }
+  ],
+  "description": "サイラスは魔法を深く愛していたが、長年に渡る投獄によって憎悪を募らせた。彼は騎士として、自ら進んで可能な限りの力を手に入れ、新たな魔法の源泉となったかに思われた…だが、それはすべて無駄だった。今では死にゆく魔法の影が残るのみであり、彼は憎しみ満ちた最後の魔法の守護者となっている。",
+  "wikiSkinData": {
+    "id": 517034,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2022-09-22",
+    "set": [
+      "Ashen Knights"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emberwoken": {
+        "id": 35,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Fergus O'Donnell"
+    ],
+    "splashartist": [
+      "Félix Donadio",
+      "West Studio"
+    ],
+    "lore": "Sylas deeply loved magic, but long years of imprisonment made him hateful. As a knight, he deigned to take as much power for himself as he could, and perhaps become a new wellspring of enchantment… yet, it was all for naught. Now only the dying shadow of magic remains, with he its final, bitter champion."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 42,
+  "name": "皮城习俗",
+  "description": "想要来一次马力十足的兜风吗？不用再看了。(具体情况因人而异。)",
+  "skins": [
+    {
+      "id": 42004,
+      "name": "急速前进 库奇",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 42004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-27",
+        "retired": "2014-12-02",
+        "set": [
+          "Piltover Customs"
+        ],
+        "voiceactor": [
+          "'Ralph'"
+        ],
+        "lore": "Your plane's sheeting was busted, so we replaced it with a bullet-resistant alloy, and four-cylinder external mounted coal engine. Plus we painted flames on the front. No extra charge."
+      }
+    },
+    {
+      "id": 53004,
+      "name": "陆地王者4WD 布里茨",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2011-03-07",
+        "set": [
+          "Piltover Customs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra."
+      }
+    },
+    {
+      "id": 74003,
+      "name": "创意工坊 黑默丁格",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-22",
+        "set": [
+          "Piltover Customs"
+        ],
+        "neweffects": true,
+        "transforming": true,
+        "vu": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "lore": "Heimerdinger moonlights as part owner of the city's most infamous customs dealer, where he generally adds an external engine and flame paint to vehicles of the rich and famous. Get him on a good day, though, and he'll build you a real monster—for a price."
+      }
+    }
+  ]
+}

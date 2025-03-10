@@ -1,0 +1,173 @@
+{
+  "id": 166,
+  "name": "아크샨",
+  "alias": "Akshan",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/166.png",
+  "roles": [
+    "marksman",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 166000,
+      "name": "아크샨",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 166000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-07-22",
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "voiceactor": [
+          "Sunil Malhotra"
+        ],
+        "lore": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they least expect him. With a keen sense of justice and a legendary death-reversing weapon, he rights the wrongs of Runeterra's many scoundrels while living by his own moral code: “Don't be an ass.”"
+      }
+    },
+    {
+      "id": 166001,
+      "name": "알록달록 해커 아크샨",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 166001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-22",
+        "set": [
+          "Cyber Pop"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Sunil Malhotra"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The Neon Rogue of Sound City has become the hero of the underground, largely due to his bravery, his wit, and his uncanny ability to sneak into highly-secure corporate buildings without being detected. Being charming as hell doesn't hurt, either."
+      }
+    },
+    {
+      "id": 166010,
+      "name": "수정 장미 아크샨",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 166010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-02-10",
+        "set": [
+          "Crystal Rose"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Aquamarine": {
+            "id": 12
+          },
+          "Catseye": {
+            "id": 15
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tiffany & Co.": {
+            "id": 19,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Worlds 2022 Drop Reward"
+          }
+        },
+        "voiceactor": [
+          "Sunil Malhotra"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "As roguish as he is handsome, Akshan abandons his daring adventures each year to make a highly-requested appearance at the festival. He might be seen stealing a dance or two, but he only has eyes for one among the crowd. Their moral… discrepancies are no match for the electrifying chemistry between them."
+      }
+    },
+    {
+      "id": 166020,
+      "name": "세 가지 명예 아크샨",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 166020,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for finishing the ranked season with Honor level 5.",
+        "release": "2024-01-24",
+        "set": [
+          "Three Honors"
+        ],
+        "voiceactor": [
+          "Sunil Malhotra"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "When the Order of Solace found Akshan, he was a soulless weapon of death caught in a cycle of revenge following his mentor's murder. Even with his despair, the Order's teachings were able to fill the endless hole within Akshan and rejuvenate him. Now he stands with Malzahar as a Three Honors stalwart, ready to fight the Essents with harmony and quips."
+      }
+    }
+  ]
+}

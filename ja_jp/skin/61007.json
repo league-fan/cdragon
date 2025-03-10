@@ -1,0 +1,80 @@
+{
+  "id": 61007,
+  "contentId": "5496a1d8-e33b-4c4e-9a7e-92438d947402",
+  "isBase": false,
+  "name": "ダークスター オリアナ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/OriannaLoadscreen_7.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/61/61007.png",
+  "chromas": [
+    {
+      "id": 61012,
+      "name": "ダークスター オリアナ",
+      "contentId": "39ab4050-6981-4d85-bfb5-b45f1b784966",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/61/61012.png",
+      "colors": [
+        "#000000",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年のギャラクシーイベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 44
+    }
+  ],
+  "description": "高度な文明を持って繁栄していた星系、その残滓から生まれたオリアナは、驚くほどの正確さでダークスターの命に従う。彼女は銀河を踊り歩きながら、終わりなき恐怖のパフォーマンスを披露する。それを目撃するのは、後に残る静まり返った破壊の痕跡だけだ。",
+  "wikiSkinData": {
+    "id": 61007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-05-03",
+    "earlysale": "2017-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake."
+  }
+}

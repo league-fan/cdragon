@@ -1,0 +1,85 @@
+{
+  "id": 51010,
+  "contentId": "b20d30f2-d3a3-4453-a1a8-7d936075a912",
+  "isBase": false,
+  "name": "玉净夜叉 凯特琳",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/Images/caitlyn_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/Images/caitlyn_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/Images/caitlyn_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/CaitlynLoadscreen_10.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51010.png",
+  "chromas": [
+    {
+      "id": 51012,
+      "name": "玉净夜叉 凯特琳 炫金神机",
+      "contentId": "33cc8b5b-741c-40eb-b190-a2ff78407bd9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51012.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of the Monkey",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/12.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/12.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 55
+    }
+  ],
+  "description": "每当春节时分，玉净夜叉便游荡人间伺机酿祸，任何被她魅惑的人都难逃一死，玉净夜叉已被世间看成一种不祥之兆。",
+  "wikiSkinData": {
+    "id": 51010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-01-27",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "lore": "A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen."
+  }
+}

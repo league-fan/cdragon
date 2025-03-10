@@ -1,0 +1,148 @@
+{
+  "id": 51022,
+  "contentId": "2e83c266-a2b2-445f-9daf-07df8aca6ac2",
+  "isBase": false,
+  "name": "Battle Academia Caitlyn",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin22/Images/caitlyn_splash_centered_22.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin22/Images/caitlyn_splash_uncentered_22.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin22/Images/caitlyn_splash_tile_22.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin22/CaitlynLoadScreen_22.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin22/CaitlynLoadscreen_22_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51022.png",
+  "chromas": [
+    {
+      "id": 51023,
+      "name": "Battle Academia Caitlyn",
+      "contentId": "68015e0d-9b30-4818-ab10-47404de0c5d0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51023.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2021."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 51024,
+      "name": "Battle Academia Caitlyn",
+      "contentId": "7c83beee-f423-425c-a135-101c8e753802",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51024.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 51025,
+      "name": "Battle Academia Caitlyn",
+      "contentId": "9c8baf32-9c30-4881-8c13-5680bf89e250",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51025.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 51026,
+      "name": "Battle Academia Caitlyn",
+      "contentId": "3ae92a32-a1ba-443a-bef8-d78d9e2fc99c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51026.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 51027,
+      "name": "Battle Academia Caitlyn",
+      "contentId": "2b0202cc-087f-4b40-b863-9d11ab72422e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51027.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 113
+    }
+  ],
+  "description": "A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy. Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off.",
+  "wikiSkinData": {
+    "id": 51022,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-03-18",
+    "set": [
+      "Battle Academia"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 26
+      },
+      "Pearl": {
+        "id": 27
+      },
+      "Rose Quartz": {
+        "id": 25
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Viktoria Gavrilenko",
+      "West Studio"
+    ],
+    "lore": "A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy. Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off."
+  }
+}

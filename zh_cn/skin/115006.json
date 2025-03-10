@@ -1,0 +1,58 @@
+{
+  "id": 115006,
+  "contentId": "94a53545-43bd-4177-9e9e-24a4487e3e88",
+  "isBase": false,
+  "name": "战场BOSS 吉格斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin06/Images/ziggs_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin06/Images/ziggs_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin06/Images/ziggs_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin06/ZiggsLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 11
+    }
+  ],
+  "description": "作为一名来自《超级约德尔炸弹人》的Boss，吉格斯进入街机世界的目的只有一个：炸平一切。在携带好他所有的爆炸物(以及所有引导爆炸的工具)之后，这个愤怒的小Boss将带给整个像素世界独特的毁灭方式。",
+  "wikiSkinData": {
+    "id": 115006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-08-08",
+    "earlysale": "2018-02",
+    "set": [
+      "Arcade: Battle Bosses"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "A boss originally from Super Yordle Bombers, Ziggs was transported to Arcade World for one purpose: blow up everything. Armed with his signature explosives (and the programming to use them!) he has wrought digital destruction the way only an angry mini-boss can."
+  }
+}

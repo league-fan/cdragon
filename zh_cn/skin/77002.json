@@ -1,0 +1,55 @@
+{
+  "id": 77002,
+  "contentId": "84af39d2-d87a-456c-a3b8-d4d4e782f29b",
+  "isBase": false,
+  "name": "四神之力 乌迪尔",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Udyr/Skins/Skin02/Images/udyr_splash_centered_2.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Udyr/Skins/Skin02/Images/udyr_splash_uncentered_2.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Udyr/Skins/Skin02/Images/udyr_splash_tile_2.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Udyr/Skins/Skin02/UdyrLoadscreen_2.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 32
+    }
+  ],
+  "description": "乌迪尔受到了诅咒，以一种介于人与野兽之间的状态游荡在这片土地，不再分得清猎人与猎物之间的区别。一旦他接近到足以进行打击的距离，他们就都是他的猎物。",
+  "wikiSkinData": {
+    "id": 77002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-12-06",
+    "retired": "2015-08-29",
+    "set": [
+      "Prehistoric Hunters"
+    ],
+    "voiceactor": [
+      "Sean Rohani"
+    ],
+    "splashartist": [
+      "Rio Sabda",
+      "Caravan Studio"
+    ],
+    "lore": "Cursed to roam the land as something between man and beast, Udyr no longer distinguishes between hunters and hunted. Once he gets close enough to strike, they are all his prey."
+  }
+}

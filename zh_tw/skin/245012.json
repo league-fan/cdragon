@@ -1,0 +1,188 @@
+{
+  "id": 245012,
+  "contentId": "19b28884-1b8e-4437-a746-eac6a8fb8741",
+  "isBase": false,
+  "name": "給了糖也搗蛋 艾克",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin12/Images/ekko_splash_centered_12.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin12/Images/ekko_splash_uncentered_12.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin12/Images/ekko_splash_tile_12.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin12/EkkoLoadscreen_12.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin12/EkkoLoadScreen_12_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245012.png",
+  "chromas": [
+    {
+      "id": 245013,
+      "name": "給了糖也搗蛋 艾克",
+      "contentId": "a87bdac8-b3bf-4329-be04-51bbf9e8583e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245013.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2018 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 245014,
+      "name": "給了糖也搗蛋 艾克",
+      "contentId": "d927caa4-43e3-4abc-9701-1d3348230359",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245014.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245015,
+      "name": "給了糖也搗蛋 艾克",
+      "contentId": "918c4707-4777-4023-8681-310100edfacb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245015.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245016,
+      "name": "給了糖也搗蛋 艾克",
+      "contentId": "95f63221-f7c7-4229-aa76-5180456ea379",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245016.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245017,
+      "name": "給了糖也搗蛋 艾克",
+      "contentId": "aa10c910-4396-469a-8aff-cd2143c7b718",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245017.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 245018,
+      "name": "給了糖也搗蛋 艾克",
+      "contentId": "e75c7267-49df-4791-bbe8-d181e79795c7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245018.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2018 年以限定戰利品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 88
+    }
+  ],
+  "description": "事後回想，為了獲得無限的超大巧克力棒而扭曲時間相較於造成的現實損壞或許並不值得...",
+  "wikiSkinData": {
+    "id": 245012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Golden": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 13,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Perhaps, in hindsight, looping time to get an infinite number of fun-size chocolate bars wasn't worth shattering the fabric of reality for…"
+  }
+}

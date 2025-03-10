@@ -1,0 +1,90 @@
+{
+  "id": 148,
+  "name": "科技潮流",
+  "description": "在充滿活力的地下電音城，在強大科技企業霸主的眼皮子底下，駭客、溜冰高手、叛逆分子與流氓團結在一起。",
+  "skins": [
+    {
+      "id": 142001,
+      "name": "科技蘿 柔依",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 142001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-11-21",
+        "set": [
+          "Cyber Pop"
+        ],
+        "earlysale": "2018-05",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Zeen Chin",
+          "Jessica 'OwleyCat' Oyhenart"
+        ]
+      }
+    },
+    {
+      "id": 166001,
+      "name": "科技俠盜 埃可尚",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 166001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-22",
+        "set": [
+          "Cyber Pop"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Sunil Malhotra"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The Neon Rogue of Sound City has become the hero of the underground, largely due to his bravery, his wit, and his uncanny ability to sneak into highly-secure corporate buildings without being detected. Being charming as hell doesn't hurt, either."
+      }
+    }
+  ]
+}

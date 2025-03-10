@@ -1,0 +1,844 @@
+{
+  "id": 81,
+  "name": "Immortal Journey",
+  "description": "Long ago, in an ancient land, many souls gathered beneath the gods to test the limits of their power. Foolish and arrogant, brave and just, their journeys are written into the immortal pages of history…",
+  "skins": [
+    {
+      "id": 10057,
+      "name": "Immortal Journey Kayle",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10057,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 62
+          },
+          "Catseye": {
+            "id": 63
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Obsidian": {
+            "id": 64
+          },
+          "Pearl": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 60
+          },
+          "Ruby": {
+            "id": 58,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "The Grounded Foresight School teaches power in knowing one's surroundings, but as Kayle nears immortality, doubt has crept in. Her parents' random deaths fostered a desire to exert as much control as possible in her life, but with her teacher Zed's banishment, the ground is now shaky. Immortality, she hopes, will finally give her solid footing."
+      }
+    },
+    {
+      "id": 11011,
+      "name": "Eternal Sword Yi",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11011,
+        "formatname": "Eternal Sword Yi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-27",
+        "earlysale": "2018-03",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 14
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "A pupil of a famous martial arts school, Yi has dedicated his life to the purity and art of combat. And yet, in his heart, he knows he is worthy of the fabled sword of jade, and a power beyond mere mortality…"
+      }
+    },
+    {
+      "id": 16037,
+      "name": "Immortal Journey Soraka",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 16037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 43
+          },
+          "Turquoise": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Lisa Lindsley"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way."
+      }
+    },
+    {
+      "id": 24013,
+      "name": "God Staff Jax",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-01-11",
+        "earlysale": "Jun 2018",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "The God Staff was once an earthly champion, who searched fruitlessly for a weapon worthy of his power. At the twilight of his life, he finally came across a staff glowing with the light of the gods—granting him immortality, and even greater strength."
+      }
+    },
+    {
+      "id": 25017,
+      "name": "Majestic Empress Morgana",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 25017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 19
+          },
+          "Heavenly Crane": {
+            "id": 24,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Immortal Journey 2019"
+          },
+          "Meteorite": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "A feared sorceress queen from the heavenly kingdoms, Morgana looked on with disdain as Irelia sealed away the power of a dragon. Crushing her in combat, Morgana soon realized the young demigoddess had hidden that power away, and now ruthlessly searches for a way to return it to its rightful owner."
+      }
+    },
+    {
+      "id": 37045,
+      "name": "Immortal Journey Sona",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 37045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 51
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 52
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "As a newly immortal member of the Radiant Passion School, Sona's power is in building harmony from dissonance. To her, immortality only comes through finding your shared harmony with your fellow people, and she sees her students as strong notes to be built into immortal chords. It is in this shared passion that makes anything possible."
+      }
+    },
+    {
+      "id": 37046,
+      "name": "Prestige Immortal Journey Sona",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 37046,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 45,
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "A virtuoso artist radiating passion in whatever she does, Sona paused her promising music career to enroll in fashion school. Now a graduate, the Gala is the first showing of her debut line, and Sona is more than happy to let her work do the talking. Unlike her classmates, she has no dreams of becoming immortal through her designs. The journey is enough."
+      }
+    },
+    {
+      "id": 39006,
+      "name": "Divine Sword Irelia",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 39006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-04",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Aquamarine": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 10
+          },
+          "Meteorite": {
+            "id": 8
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Unflinching Zeal": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Long ago, the demigoddess Irelia challenged a headstrong dragon king to a duel, defeating him before all the members of his assembled court. In his hubris, he lashed out at her, and in return she sealed his power within her sacred blade, so that he might find humility among humankind."
+      }
+    },
+    {
+      "id": 40008,
+      "name": "Sacred Sword Janna",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 40008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-27",
+        "earlysale": "2018-03",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 12
+          },
+          "Peridot": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 11
+          },
+          "Sapphire": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Janna is the guardian of an ancient sword made of the purest jade, hidden at the bottom of a silent lake. Those who wield this weapon are granted immortality, and so she must remain steadfast in order to protect it."
+      }
+    },
+    {
+      "id": 64011,
+      "name": "God Fist Lee Sin",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 64011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2017-04-05",
+        "earlysale": "2017-11",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The arrogant wielder of the God Fist was once a mortal boy, tasked by his predecessor to defeat the master of each martial arts school while blindfolded, before facing him at the peak of a treacherous mountain. Emerging victorious, the boy assumed his title—as well as his immortal sight."
+      }
+    },
+    {
+      "id": 91012,
+      "name": "Enduring Sword Talon",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 91012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-04",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Catseye": {
+            "id": 15
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A haughty dragon king of the south seas, Talon accepted a duel from the demigoddess Irelia, only to be defeated in his own throne room. Humiliated, he lashed out at her… and she sealed his power within her blade, tasking him with finding new purpose in the mortal realm."
+      }
+    },
+    {
+      "id": 92020,
+      "name": "Valiant Sword Riven",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 92020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Riven trained with Morgana in the arts of politics and war for many years, but where Riven walked the path of justice, Morgana envisioned a world ruled by the gods alone—ultimately defeating their master and assuming the title of empress. Now tasked with bringing her friend to heel, Riven must face Morgana in combat… or join her."
+      }
+    },
+    {
+      "id": 92022,
+      "name": "Prestige Valiant Sword Riven",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 92022,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 20,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "Riven's destiny is greater than she knows. One day she will determine the fate of the heavens, land, and sea, and awaken the slumbering power of the dragon within her."
+      }
+    },
+    {
+      "id": 92045,
+      "name": "Prestige Valiant Sword Riven (2022)",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 92045,
+        "formatname": "Prestige Valiant Sword Riven (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 22,
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "Riven's destiny is greater than she knows. One day she will determine the fate of the heavens, land, and sea, and awaken the slumbering power of the dragon within her."
+      }
+    },
+    {
+      "id": 102017,
+      "name": "Immortal Journey Shyvana",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 102017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "For 100 years, the dragon Shyvana watched over the Sprouting Courage School's gardens, but after saving one of the monk's sons from drowning, she was allowed to train. Transforming into a human, she enjoyed the challenge this new form would bring. Unlike Soraka, Shyvana has no doubt about who she is: a protector of the strongest school of immortality."
+      }
+    },
+    {
+      "id": 114022,
+      "name": "Soaring Sword Fiora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-27",
+        "earlysale": "2018-03",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "A pupil of a famous martial arts school, Fiora pined after her fellow student Yi, but was never able to win his heart. Now she pursues him as he searches for the fabled sword of jade, to protect the artifact from the man she once loved."
+      }
+    },
+    {
+      "id": 221019,
+      "name": "Immortal Journey Zeri",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 221019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Vanille Velasquez"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Orphaned as a baby, Zeri was taken in by a family of inventors who cultivated her tinkering tendencies. Their love ignited a deep desire to help others over herself, and because of her prodigious talents, her family paid her admission to the Tempered Faith School. A student full of dreams and curiosity, Zeri will use immortality to help everyone she can."
+      }
+    },
+    {
+      "id": 238049,
+      "name": "Immortal Journey Zed",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238049,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 55
+          },
+          "Catseye": {
+            "id": 51
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 50,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 54
+          },
+          "Turquoise": {
+            "id": 56
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "When Zed became immortal and began studying the other realms, a new desire took hold: knowledge was everywhere, so he needed to BE everywhere. Upon discovering his explorations, the Grounded Foresight School banished him. Zed doesn't care, though, for he's found a new demonic power, allowing him to be everywhere and all-knowing."
+      }
+    },
+    {
+      "id": 267015,
+      "name": "Splendid Staff Nami",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 267015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 18
+          },
+          "Citrine": {
+            "id": 19
+          },
+          "Heavenly Crane": {
+            "id": 22,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Immortal Journey 2019"
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Peridot": {
+            "id": 21
+          },
+          "Tanzanite": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "When the demigoddess Irelia was bested by a heavenly empress, the seal over Talon's draconic power began to weaken… allowing some of his magic to leak into the world. Once a mere fish who dreamed of being a dragon, Nami has received some of this power, and has found her true form beginning to awaken."
+      }
+    }
+  ]
+}

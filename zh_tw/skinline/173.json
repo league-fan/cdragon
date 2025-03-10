@@ -1,0 +1,49 @@
+{
+  "id": 173,
+  "name": "熱音 DJ",
+  "description": "感受重低音。聽見節拍震盪。順著音樂動起來。",
+  "skins": [
+    {
+      "id": 37006,
+      "name": "熱音 DJ 索娜",
+      "rarity": "kUltimate",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 37006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2015-02-25",
+        "set": [
+          "DJ"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "DJ Sona Kinetic",
+        "forms": [
+          "Kinetic",
+          "Concussive",
+          "Ethereal"
+        ],
+        "chromas": {
+          "Concussive": {
+            "id": 6
+          },
+          "Ethereal": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ]
+      }
+    }
+  ]
+}

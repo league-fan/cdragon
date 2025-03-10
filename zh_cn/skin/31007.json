@@ -1,0 +1,57 @@
+{
+  "id": 31007,
+  "contentId": "e5884f63-4964-463d-af29-c452274bbd28",
+  "isBase": false,
+  "name": "暗星 科加斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/Skin07/Images/chogath_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/Skin07/Images/chogath_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/Skin07/Images/chogath_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/Skin07/ChogathLoadscreen_7.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/Skin07/ChogathLoadscreen_7_LE.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Kindness of Guardian",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/49.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/49.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 8,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/8_large.png",
+  "skinLines": [
+    {
+      "id": 44
+    }
+  ],
+  "description": "一场饥荒导致了星系崩坏，科加斯便是从星系的残骸中孳生而来的，这也给予了他以途经之处的天体为食的本性。这些天体作为美餐被吸入到他心中的两个黑洞之中——一如他无尽而永恒的饥饿感一样。 ",
+  "wikiSkinData": {
+    "id": 31007,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-07-13",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "filter": true,
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses his path. These feasts swirl into the twin black holes at his heart—as endless and ageless as his hunger."
+  }
+}

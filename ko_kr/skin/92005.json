@@ -1,0 +1,79 @@
+{
+  "id": 92005,
+  "contentId": "088c198a-ece5-4511-a7e4-2d3ae795c963",
+  "isBase": false,
+  "name": "화룡검 리븐",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/Images/riven_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/Images/riven_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/Images/riven_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/RivenLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92005.png",
+  "chromas": [
+    {
+      "id": 92017,
+      "name": "화룡검 리븐",
+      "contentId": "7f05f6d5-0b24-4910-9087-152299ec391d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92017.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018 설맞이 축제 임무 달성 시 지급된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 53
+    }
+  ],
+  "description": "왕국의 이야기 중 하나는 리븐에 관한 내용입니다. 용의 화염 속에서 벼린 칼을 든 리븐은 전투 직후 적진에 침입해 적을 처치하고 인질을 풀어주었습니다. 또한 왕국 구석구석을 돌며 무고한 이들을 노예로 삼는 악인들을 모조리 처단했습니다.",
+  "wikiSkinData": {
+    "id": 92005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-01-28",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "One tale of the kingdoms tells of Riven, her sword forged in dragonfire, descending into an enemy enclave in the aftermath of battle. Slaying her foes and freeing their captives, she rampaged across the countryside, crushing any who would enslave the innocent."
+  }
+}

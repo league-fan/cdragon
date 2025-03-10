@@ -1,0 +1,508 @@
+{
+  "id": 20,
+  "name": "ヌヌ＆ウィルンプ",
+  "alias": "Nunu",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/20.png",
+  "roles": [
+    "tank",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 20000,
+      "name": "ヌヌ＆ウィルンプ",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 20000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu and Willump now ramble wildly across the Freljord, breathing life into imagined adventures. They hope that somewhere out there, they will find Nunu’s mother. If they can save her, maybe they will be heroes after all… "
+      }
+    },
+    {
+      "id": 20001,
+      "name": "ビッグフット ヌヌ＆ウィルンプ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2011-11-28",
+        "set": [
+          "Fables"
+        ],
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Markus Neidel"
+        ],
+        "lore": "Here is a tale told by the softly falling rain, to a grove of trees. After helping the guardian of the Mossborn Forest free his paws from a hunter's trap, a young boy is swept into adventure, like a pile of autumn leaves dancing on the wind…"
+      }
+    },
+    {
+      "id": 20002,
+      "name": "クリスマス ヌヌ＆ウィルンプ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-12-17",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "newquotes": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "While the sight of a holiday yeti and his small elf companion may seem frightening, there is no gentler pair than Willump and Nunu. Nunu builds the toys, while Willump accidentally crushes them with his inhuman strength."
+      }
+    },
+    {
+      "id": 20003,
+      "name": "暴食のヌヌ＆ウィルンプ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-08-10",
+        "set": [
+          "Toy Box"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "“Gnar left all his toys out. Hmm. I wonder what this one's name is? I think I'll call him Willump. What do you think Willump, should we go on an adventure? LET'S JUMP IN SOME TRASH!”"
+      }
+    },
+    {
+      "id": 20004,
+      "name": "ヌヌ＆ウィルンプ BOT",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20004,
+        "formatname": "Nunu & Willump Bot",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2011-05-05",
+        "set": [
+          "Heavy Metal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Text-to-speech software"
+        ],
+        "splashartist": [
+          "X TRAIN"
+        ],
+        "lore": "In the year 20XX, RiotCorp rules the world with a cruel, robotic fist. Building his own battling best friend using code from a forgotten video game (and piles and piles of scrap!) a young mechanic competes in the company's corporate-sanctioned Rift Wars—for fame, glory, and [ERROR] [...] [TOWERDIVING!]"
+      }
+    },
+    {
+      "id": 20005,
+      "name": "破壊のヌヌ＆ウィルンプ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-24",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Serving as soldiers of fortune in pitched battles across the land, Demolisher Nunu & Willump are metal as ferro-bonded steel, and ready to introduce a flute-mace to your face."
+      }
+    },
+    {
+      "id": 20006,
+      "name": "TPA ヌヌ＆ウィルンプ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2013-05-23",
+        "set": [
+          "World Champions: 2012"
+        ],
+        "newquotes": true,
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "Honoring MiSTakE's winning performance as Nunu during the 2012 World Championship."
+      }
+    },
+    {
+      "id": 20007,
+      "name": "ゾンビ ヌヌ＆ウィルンプ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-11-05",
+        "set": [
+          "Zombies VS Slayers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "What was once a pair of young friends has been twisted by a virus unwittingly loosed upon the world, transforming them into a slavering, parasitic time bomb packed with enough raw mutagen to infect every survivor five times over. Whoever they were before is lost now—another casualty of a world gone mad."
+      }
+    },
+    {
+      "id": 20008,
+      "name": "紙細工ヌヌ＆ウィルンプ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-02-21",
+        "set": [
+          "Papercraft"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 9
+          },
+          "Aquamarine": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "One day, Nunu awoke to a world made entirely of paper, with his mother nowhere to be seen. He took a square off the wall, folded it into a wild Willump, and said “Now we will go find mom!” Willump agreed, and the two embarked upon a grand adventure…"
+      }
+    },
+    {
+      "id": 20016,
+      "name": "スペースグルーヴ ヌヌ＆ウィルンプ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-01",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 18
+          },
+          "Disco": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Space Groove 2021"
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "Blessed with the strongest boogie-channeling abilities his planet had ever seen, Willump had been recruited by Lissandra to convert good vibes into harsh ones. But when he met Nunu during the siege of Normal World, Willump broke free of Lissandra's control and the two deserted to travel the galaxy, and bring good vibes back to the universe."
+      }
+    },
+    {
+      "id": 20026,
+      "name": "ヌヌ＆ビィルンプ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20026,
+        "formatname": "Nunu & Beelump",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rainbow": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          },
+          "Tanzanite": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "They're like two bees in a pod. Err… in a hive?"
+      }
+    },
+    {
+      "id": 20035,
+      "name": "宇宙の勇士ヌヌ＆ウィルンプ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-30",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 42
+          },
+          "Catseye": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Despite the destruction of their respective homes, Nunu and Willump hold onto the innocence that so many have lost. Bel'Veth, having never seen such joy even in the face of despair, bestowed cosmic power upon them. Now they spread that joy wherever they go, fighting the Dark Star's destructive force with their own creativity and boundless imagination."
+      }
+    },
+    {
+      "id": 20044,
+      "name": "恐怖の夜ヌヌ＆ウィルンプ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 20044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-09-25",
+        "set": [
+          "Fright Night"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 46
+          },
+          "Citrine": {
+            "id": 51
+          },
+          "Emerald": {
+            "id": 47
+          },
+          "Ghoulish": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Obsidian": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Lucas Jaye",
+          "Jonathan Lipow"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Whenever Nunu's head hit his pillow, from under the bed came a tap-tap-tapping. Willump urged him to ignore it, but the yap-yap-yapping tugged at Nunu's ear. Unable to resist, he crawled beneath and made friends with a little clown who filled his dreams of summer camp glory."
+      }
+    }
+  ]
+}

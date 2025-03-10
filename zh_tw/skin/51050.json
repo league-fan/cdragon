@@ -1,0 +1,80 @@
+{
+  "id": 51050,
+  "contentId": "47bcad69-2970-4803-8b79-c9c4c76edbc0",
+  "isBase": false,
+  "name": "奧術指揮官 凱特琳",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/Images/caitlyn_splash_centered_50.SKINS_Caitlyn_Skin50.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/Images/caitlyn_splash_uncentered_50.SKINS_Caitlyn_Skin50.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/Images/caitlyn_splash_tile_50.SKINS_Caitlyn_Skin50.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/CaitlynLoadScreen_50.SKINS_Caitlyn_Skin50.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin50/CaitlynLoadScreen_50_LE.SKINS_Caitlyn_Skin50.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51050.png",
+  "chromas": [
+    {
+      "id": 51052,
+      "name": "奧術指揮官 凱特琳",
+      "contentId": "d3f39c4f-92d7-415b-8a7c-eeb0afe3f948",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51052.png",
+      "colors": [
+        "#BBD6EF",
+        "#4649F7"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "此炫彩以「聖所」獨家掉寶的形式推出。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 6
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 152
+    }
+  ],
+  "description": "在對復仇渴望的驅使下，凱特琳的原則已經崩塌，隨著與佐恩的緊張關係持續升級，事情已經沒有和平解決的可能。她一心只想將吉茵珂絲繩之以法。但在悲傷與內疚之下，疑慮開始滋生：為了復仇而付出的代價，真的值得嗎？",
+  "wikiSkinData": {
+    "id": 51050,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 52,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pandart Studio"
+    ],
+    "lore": "Driven by a newfound desire for revenge, Caitlyn's principles have crumbled, leaving no room for hope or peace as tensions with Zaun continue to escalate. Her single-minded focus is on bringing Jinx to justice. But beneath the grief and guilt, doubt begins to creep in: is the cost of vengeance truly worth it?"
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "id": 99,
+  "name": "ラックス",
+  "alias": "Lux",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/99.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 99000,
+      "name": "ラックス",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 99000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-10-19",
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve her family’s noble status. Nonetheless, Lux’s optimism and resilience have led her to embrace her unique talents, and she now covertly wields them in service of her homeland."
+      }
+    },
+    {
+      "id": 99001,
+      "name": "ソーサレス ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-10-19",
+        "set": [
+          "Medieval"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "An aspiring mage from the Demacian Dukedom, Lux has traveled across the land in her quest to lighten the lives of the peasantry with magic. Though her efforts are often met with suspicion at first, tales of her 'miracles' are beginning to reach the ruling class of the Dukedom itself…"
+      }
+    },
+    {
+      "id": 99002,
+      "name": "スペルシーフ ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-10-19",
+        "set": [
+          "Arcanists"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "She doesn't pull in coin like the Spellthief's Edge, and can't actually steal spells like Sylas, but technically Lux is learning and reproducing illegal magic. Sadly, “Illegal Spell Learner Lux” doesn't have quite the same ring to it."
+      }
+    },
+    {
+      "id": 99003,
+      "name": "コマンドー ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-06-17",
+        "set": [
+          "Commando"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "Soundproof ear protectors, a multispectral heat visor, lace-up knee-high boots, and a double-sided flamethrower that shoots lasers instead of fire? Lux really does have it all."
+      }
+    },
+    {
+      "id": 99004,
+      "name": "帝国兵士ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-29",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ]
+      }
+    },
+    {
+      "id": 99005,
+      "name": "鋼鉄軍人ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-02-01",
+        "set": [
+          "Steel Legion"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "This highly-trained specialist in the Steel Legion uses light-magnifying crystal rods to discharge rays of concentrated energy. Designated Lux, her affinity with the weapons has been quietly observed by several leading scientists within the organization."
+      }
+    },
+    {
+      "id": 99006,
+      "name": "スターガーディアン ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-05-17",
+        "earlysale": "2015-12",
+        "set": [
+          "Star Guardian Season 1"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 14,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Cheerful and courageous, Lux shines the brightest among her Star Guardian team. While young and inexperienced, the pink-haired captain's optimism inspires others in their destiny to protect the universe. She truly believes that as long as they fight together, there is no darkness they can't overcome."
+      }
+    },
+    {
+      "id": 99007,
+      "name": "エレメンタリスト ラックス",
+      "rarity": "kUltimate",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2016-11-28",
+        "earlysale": "2017-05",
+        "set": [
+          "Elementalist"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Elementalist",
+        "forms": [
+          "Air",
+          "Fire",
+          "Water",
+          "Ice",
+          "Magma",
+          "Mystic",
+          "Nature",
+          "Storm",
+          "Dark"
+        ],
+        "chromas": {
+          "Air": {
+            "id": 7
+          },
+          "Fire": {
+            "id": 7
+          },
+          "Water": {
+            "id": 7
+          },
+          "Ice": {
+            "id": 7
+          },
+          "Magma": {
+            "id": 7
+          },
+          "Mystic": {
+            "id": 7
+          },
+          "Nature": {
+            "id": 7
+          },
+          "Storm": {
+            "id": 7
+          },
+          "Dark": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ]
+      }
+    },
+    {
+      "id": 99008,
+      "name": "月の女帝ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-08",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 12
+          },
+          "Peridot": {
+            "id": 10
+          },
+          "Rose Quartz": {
+            "id": 11
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Groomed from a young age to guard the immortal realm from darkness, the Lunar Empress and her companions are said to stand watch over the world. Lux, though a powerful demigod in her own right, draws aid from the ever-faithful Warwick and Nasus."
+      }
+    },
+    {
+      "id": 99014,
+      "name": "パジャマガーディアン ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-21",
+        "set": [
+          "Star Guardian Season 1"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 6,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "As captain of her Star Guardian team, Lux knows the importance of a little R&R. As host of the party, though, she's still working on the relaxation part. It's hard to cut loose—especially when a certain handsome blond Guardian keeps flashing that charming grin!—but Lux's boundless optimism still lights up any room."
+      }
+    },
+    {
+      "id": 99015,
+      "name": "バトルアカデミア ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A 1st year at the Durandal God-Weapon Academy, Lux maintains an upbeat attitude no matter the odds. Despite her freshman position in the Sorcery Club, Lux wields a tremendous amount of magical power that even the Academy's senior staff can't quite explain."
+      }
+    },
+    {
+      "id": 99016,
+      "name": "プレステージ バトルアカデミア ラックス",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99016,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president."
+      }
+    },
+    {
+      "id": 99017,
+      "name": "暗黒の宇宙ラックス",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-03-26",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 18,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Once the right hand of Queen Ashe, Lux embraced the darkness in her heart, answering the mad call of the Dark Star. Finally seeing the truth, she rejects the Cosmic Court, instead serving her own dark ambition to quiet the banal noise of creation. For she now knows her true fate—to reign as Queen of a Dark Court, and rightful master of the Dark Star."
+      }
+    },
+    {
+      "id": 99018,
+      "name": "宇宙のラックス",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-03-26",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 17,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "The right hand of Queen Ashe, Lux weaves celestial constellations, bringing order to a universe drifting towards entropy. When the Dark Star began corrupting members of the Cosmic Court, Lux stepped forward to confront Thresh. Yet she harbors a terrible secret—a shard of darkness that has always lived within her heart, whispering temptations…"
+      }
+    },
+    {
+      "id": 99019,
+      "name": "スペースグルーヴ ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-01",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 25
+          },
+          "Citrine": {
+            "id": 23
+          },
+          "Disco": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Space Groove 2021"
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Rainbow": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Svetlana Tigai",
+          "West Studio"
+        ],
+        "lore": "A normal girl from the Normal World, Lux picked up a groove-enhancing staff to defend her planet from the Harsh Vibes… inadvertently discovering she could channel mighty blasts of concentrated disco music. Sailing into space with her mercenary bodyguard, Samira, Lux now stands as the bubbly bastion of good against an evil alien armada and their terrible taste in music."
+      }
+    },
+    {
+      "id": 99029,
+      "name": "磁器ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 33
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Golden Tiger": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "As the current leader of the Protectors and wielder of the Rabbit Relic, Lux is determined to keep up her sunny disposition in spite of everything: her own arduous sorcery training, the newbie archaeologist who stumbled into their ranks, and the sudden threat of an awakened evil now out for vengeance. She's got this… right? Right."
+      }
+    },
+    {
+      "id": 99038,
+      "name": "ソウルファイター ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-07-20",
+        "set": [
+          "Soul Fighter"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 57
+          },
+          "Aquamarine": {
+            "id": 53
+          },
+          "Citrine": {
+            "id": 59
+          },
+          "Emerald": {
+            "id": 55
+          },
+          "Limitless": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Soul Fighter 2023"
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 54
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "On the run from her family, and she figured the best place to hide would be ON TV?! Seriously though, folks, this lady has some trauma... and we all know the ring is *the* place to work that out! Now, if I was a betting man—and I am—I'd say she'd use that soul's desire to make her drama disappear. It's Lux!"
+      }
+    },
+    {
+      "id": 99039,
+      "name": "プレステージ バトルアカデミア ラックス(2022)",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99039,
+        "formatname": "Prestige Battle Academia Lux (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 16,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Now in her second year at Durandal Academy, Lux has been hardened by the harrowing trials, losses, and betrayals that punctuated her freshman experience. Following the climactic clash with a certain Rogue God-Weapon, Lux has mastered her powers and risen to take her place as head of the Sorcery Club, as well as the new class president."
+      }
+    },
+    {
+      "id": 99040,
+      "name": "プレステージ磁器ラックス",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99040,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 29,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "A leader bends, but never breaks. In the Protectors' pursuit of ancient evil, Lux has navigated her team over obstacles that even the archeologist — in all his unbridled confidence — thought insurmountable. Lux's power, once a dim light in a darkened world, now shines brightly. And her ragtag group of fragile personalities, the Protectors? With her support, deserving of their title."
+      }
+    },
+    {
+      "id": 99042,
+      "name": "荘厳の天球ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 45
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Neon Flare": {
+            "id": 51,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Tanzanite": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Forced to live in squalor and shame for her magical abilities, Lux ironically escaped certain death when her realm collapsed. Now with the raw power of the Foreglow, she's free. It doesn't matter that she's on her last legs: she intends to live and experience as much as she can before the fire consumes her."
+      }
+    },
+    {
+      "id": 99061,
+      "name": "妖精の王宮ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99061,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-15",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 65
+          },
+          "Emerald": {
+            "id": 66
+          },
+          "Pearl": {
+            "id": 68
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 62,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 67
+          },
+          "Tanzanite": {
+            "id": 64
+          },
+          "Turquoise": {
+            "id": 69
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "A young sorceress studying under Archmage Milio, Lux is ready to prove that she's not just an idle Lady of the Summer Court. Responsible for splitting sunbeams into rainbows through the morning dew, she has a lot of work to conquer each day before the sun rises—but she is nothing if not determined!"
+      }
+    }
+  ]
+}

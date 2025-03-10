@@ -1,0 +1,56 @@
+{
+  "id": 58006,
+  "contentId": "69483bf7-986c-494e-ad33-8e4de32be944",
+  "isBase": false,
+  "name": "泳池派对 雷克顿",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin06/Images/renekton_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin06/Images/renekton_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin06/Images/renekton_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin06/RenektonLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 15
+    }
+  ],
+  "description": "救生员值班中！但说真的，请小心！——你不会想让一个9英尺高的鳄鱼人给你做心肺复苏的。 ",
+  "wikiSkinData": {
+    "id": 58006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-09-09",
+    "set": [
+      "Pool Party"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Lifeguard on duty! Seriously though, be careful—you don't want CPR from a nine foot tall crocodile man."
+  }
+}

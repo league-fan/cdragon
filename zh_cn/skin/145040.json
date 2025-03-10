@@ -1,0 +1,178 @@
+{
+  "id": 145040,
+  "contentId": "7bae2026-7b6d-4334-8edd-c802b239fcad",
+  "isBase": false,
+  "name": "星之守护者 卡莎",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/Images/kaisa_splash_centered_40.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/Images/kaisa_splash_uncentered_40.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/Images/kaisa_splash_tile_40.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/KaisaLoadscreen_40.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/KaisaLoadscreen_40_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145040.png",
+  "chromas": [
+    {
+      "id": 145041,
+      "name": "星之守护者 卡莎 热情之光",
+      "contentId": "79af9197-e38c-4e8b-b8a3-cad2083adc9c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145041.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2022年期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 145042,
+      "name": "星之守护者 卡莎 爱之光",
+      "contentId": "762f5a7b-694c-4db6-afd1-dbecdfae5761",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145042.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145043,
+      "name": "星之守护者 卡莎 飞翔之光",
+      "contentId": "8b94813d-6872-481f-bd22-7db4cd201948",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145043.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145044,
+      "name": "星之守护者 卡莎 勇气之光",
+      "contentId": "b0ea9dfc-f235-4035-af79-d7c2cbe5b480",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145044.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145045,
+      "name": "星之守护者 卡莎 重生之光",
+      "contentId": "b1e7a1d3-bbb5-44b9-a084-24c1bd1967a8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145045.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145046,
+      "name": "星之守护者 卡莎 希望之光",
+      "contentId": "3e721285-ec53-46ce-8475-8218e5a83d8a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145046.png",
+      "colors": [
+        "#FDA4DA",
+        "#9DE5FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在星之守护者(2022)事件期间作为战利品专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 161
+    }
+  ],
+  "description": "作为一个天生的领袖，卡莎非常重视自己作为队长的工作……也许这对她来说有点过头了。尽管如此，她的小队仍然尊重她的指挥，甚至会跟随她执行哪怕是最危险的任务。而在执行任务时，她将狙击高优先级的目标，然后用星光动力导弹轰炸剩余敌人。",
+  "wikiSkinData": {
+    "id": 145040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 43
+      },
+      "Brilliant": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "A born leader with a head for tactics, Kai'Sa takes her job as captain extremely seriously... perhaps too much for her own good. Still, her squad respects her command and will follow her into even the most dangerous missions, where she'll snipe priority targets and spray the rest with payloads of starlight-powered missiles."
+  }
+}

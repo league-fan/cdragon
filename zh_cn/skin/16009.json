@@ -1,0 +1,169 @@
+{
+  "id": 16009,
+  "contentId": "6c588070-17d7-4779-b353-37e63da8711a",
+  "isBase": false,
+  "name": "冬境仙灵 索拉卡",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin09/Images/soraka_splash_centered_9.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin09/Images/soraka_splash_uncentered_9.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin09/Images/soraka_splash_tile_9.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin09/SorakaLoadscreen_9.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin09/SorakaLoadScreen_9_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16009.png",
+  "chromas": [
+    {
+      "id": 16010,
+      "name": "焰阳仙灵 索拉卡",
+      "contentId": "a89f5299-b588-4536-beb1-b84c28dd1d6d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16010.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "  "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 16011,
+      "name": "白雪仙灵 索拉卡",
+      "contentId": "b58adfac-7bb0-4f62-a7e0-f62087982fda",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16011.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 16012,
+      "name": "夜幕仙灵 索拉卡",
+      "contentId": "fded14f1-0069-4d31-8675-a7fa22a2d73f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 16013,
+      "name": "极光仙灵 索拉卡",
+      "contentId": "0a4bc50c-f343-435f-a6d8-0d298051663c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16013.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 16014,
+      "name": "蔷薇仙灵 索拉卡",
+      "contentId": "cbb95bd6-dbe4-4138-9c0f-295ac362794f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16014.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "索拉卡是魄罗王庭里的一位友善的女公爵，她的领地里满是由洁净的魔力冰块组成的美丽动物。这些兽群绵延数里，由她的家臣们照料。",
+  "wikiSkinData": {
+    "id": 16009,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A kindly duchess within the court of the Poro King, Soraka's lands are filled with beautiful animals made of pristine, enchanted ice. These menageries stretch for miles, tended by her retainers."
+  }
+}

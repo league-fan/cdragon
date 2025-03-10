@@ -1,0 +1,86 @@
+{
+  "id": 13011,
+  "contentId": "bd46e497-8b3c-46c4-bb2c-7be470e4c669",
+  "isBase": false,
+  "name": "冠军之志 瑞兹",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/Skin11/Images/ryze_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/Skin11/Images/ryze_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/Skin11/Images/ryze_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/Skin11/RyzeLoadscreen_11.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/Skin11/RyzeLoadscreen_11_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/13/13011.png",
+  "chromas": [
+    {
+      "id": 13012,
+      "name": "冠军之志 瑞兹 凯旋圣装",
+      "contentId": "5e17a3ee-fde3-4110-9a84-bc589e09bf33",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/13/13012.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在一个全球总决赛事件期间作为战利品专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "以此庆祝2019年在欧洲举办的全球总决赛。",
+  "wikiSkinData": {
+    "id": 13011,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-26",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2019"
+      }
+    },
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "lore": "Celebrating Worlds 2019 in Europe."
+  }
+}

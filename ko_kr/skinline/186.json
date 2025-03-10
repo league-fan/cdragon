@@ -1,0 +1,914 @@
+{
+  "id": 186,
+  "name": "창공",
+  "description": "최초의 창공 파이크는 다른 자신들을 파괴하며 여러 차원을 종횡하는 과정에서 새로운 창공들을 탄생시켰습니다. 새로운 세력이 나타날 때 누가 우두머리가 될 것이며, 자신들의 얼마 남지 않은 시간을 어떻게 활용하게 될까요?",
+  "skins": [
+    {
+      "id": 10066,
+      "name": "창공 케일",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10066,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 69
+          },
+          "Emerald": {
+            "id": 70
+          },
+          "MSI 2024 Chaos": {
+            "id": 77,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "MSI Empyrean 2024 Premium Pass Bundle"
+          },
+          "Neon Facade": {
+            "id": 76,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 74
+          },
+          "Rose Quartz": {
+            "id": 72
+          },
+          "Ruby": {
+            "id": 68,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 73
+          },
+          "Tanzanite": {
+            "id": 75
+          },
+          "Turquoise": {
+            "id": 71
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Royal life for Kayle was one of blissful ignorance, while her sister pursued justice and equality for their subjects. After becoming the sole survivor of her realm, Kayle was awoken, and saw her fate as punishment for years of indifference. Now she doles out justice across the realms in tribute to her sister, though her methods are far more... severe."
+      }
+    },
+    {
+      "id": 10067,
+      "name": "프레스티지 창공 케일",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10067,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 66,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "When flames swept through Kayle's studio, at first she was overcome with grief. She had lost everything, but then realized that the fire freed her to do—and be—more. Now she returns to the Gala with her new line, Neon Flame, crossing styles, materials, and forms. Kayle has been reborn, and she will transcend everyone."
+      }
+    },
+    {
+      "id": 24022,
+      "name": "창공 잭스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 24
+          },
+          "Citrine": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Neon Flare": {
+            "id": 31,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 28
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Hailing from a realm where he failed to protect his kingdom from annihilation, Jax was content to live in exile, until everything collapsed. Now an Empyrean, he knows that somewhere out there his kingdom is still intact. Even if it destroys him, he'll use all of his power to see his home one more time."
+      }
+    },
+    {
+      "id": 56026,
+      "name": "창공 녹턴",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Neon Facade": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "A nightmarish dimensional parasite, Nocturne was drawn to the Foreglow and—as it burrowed its way to the power's raw form—inadvertently created the first dimensional collapse and the first Empyrean, Pyke. With the Foreglow corrupting its original appearance, Nocturne seeks to experiment further with the Foreglow and find new ways to feed its hunger."
+      }
+    },
+    {
+      "id": 63042,
+      "name": "창공 브랜드",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 63042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 44
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Neon Facade": {
+            "id": 50,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Tanzanite": {
+            "id": 48
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "If the destruction of Brand's realm bent his mind, becoming an Empyrean broke it. To him, the randomness of being his realm's lone survivor and gaining the powers of a god prove that nothing truly matters. He could set fire to an entire planet or kill every version of his father. Everything is anarchy, and Brand is only too glad to spread it."
+      }
+    },
+    {
+      "id": 84082,
+      "name": "창공 아칼리",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 84082,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 85
+          },
+          "Catseye": {
+            "id": 84
+          },
+          "Emerald": {
+            "id": 88
+          },
+          "Neon Facade": {
+            "id": 91,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 90
+          },
+          "Rose Quartz": {
+            "id": 89
+          },
+          "Ruby": {
+            "id": 83,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 86
+          },
+          "Turquoise": {
+            "id": 87
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "Pandart Studio"
+        ],
+        "lore": "Before her realm's destruction, Akali was rotting away in prison for a failed assassination attempt on a despotic warlord. Now on her own as an Empyrean, she views her newfound freedom as a sign to stop the evil she couldn't before. The realms need a defender, and Akali is determined to fight for them as long as she can."
+      }
+    },
+    {
+      "id": 90039,
+      "name": "창공 말자하",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 45
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Neon Facade": {
+            "id": 48,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 44
+          },
+          "Turquoise": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Malzahar is the self-proclaimed Voice of the Foreglow. Traveling from realm to realm, he announces that the Empyreans are symptoms of a greater sickness, the fever designed to fight an infection festering across the dimensions. Whether Malzahar truly speaks for the neon flame is anyone's guess, but for now, he's only just warming up."
+      }
+    },
+    {
+      "id": 99042,
+      "name": "창공 럭스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 45
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Neon Flare": {
+            "id": 51,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 44
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 47
+          },
+          "Tanzanite": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Forced to live in squalor and shame for her magical abilities, Lux ironically escaped certain death when her realm collapsed. Now with the raw power of the Foreglow, she's free. It doesn't matter that she's on her last legs: she intends to live and experience as much as she can before the fire consumes her."
+      }
+    },
+    {
+      "id": 110053,
+      "name": "창공 바루스",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 110053,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 55
+          },
+          "Neon Facade": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Rose Quartz": {
+            "id": 57
+          },
+          "Ruby": {
+            "id": 54,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 58
+          },
+          "Turquoise": {
+            "id": 56
+          }
+        },
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "Having lost his family, Varus was already consumed by vengeance when his realm collapsed. Not only did he survive, due to Nocturne's meddling, but two visiting Empyreans, Kai and Valmar, were absorbed into his bow. With the Foreglow stoking his rage, Varus vows to wipe out every last Empyrean, no matter what his new \"friends\" say."
+      }
+    },
+    {
+      "id": 154014,
+      "name": "창공 자크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 154014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Neon Flare": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 16
+          },
+          "Tanzanite": {
+            "id": 20
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The Foreglow affects everyone differently. For Zac, it burned away all of his insecurities, but opened up his senses to the loneliness felt by the other Zacs across the realms. They needed him, and now he has the power to bring everyone together as one. A family reunion for the ages."
+      }
+    },
+    {
+      "id": 202025,
+      "name": "창공 진",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 202025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Neon Flare": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rainbow": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Jhin woke as an Empyrean with a sensation he'd never known before: true warmth. Exhilarated by the power, he set innocents ablaze with a flick of his hand. Finally, a muse worthy of him! The realization that “she” is slowly killing him only charms him more. Now if only he could find her source… "
+      }
+    },
+    {
+      "id": 238038,
+      "name": "창공 제드",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 46
+          },
+          "Catseye": {
+            "id": 42
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Neon Flare": {
+            "id": 48,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 43
+          },
+          "Turquoise": {
+            "id": 47
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "West Studio"
+        ],
+        "lore": "The Foreglow is a power many desire, but Zed resents how it exposes him. His is a strength born from darkness, away from prying eyes. Perhaps in the fallen Husk realm left in Pyke's wake can he build a new domain of shadows, one that no Empyrean can topple."
+      }
+    },
+    {
+      "id": 555045,
+      "name": "창공 파이크",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 555045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 48
+          },
+          "Neon Flare": {
+            "id": 52,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 50
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Darien Sills-Evans"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Pyke remembers little before falling into the embrace of the Foreglow, only that he was defending his home. Waking in a new realm as the first Empyrean, he hears the whispers of other Pykes across the dimensions, taunting him from their homes. Why was his lost and not theirs? No answer will satisfy his searing rage, except vengeance."
+      }
+    },
+    {
+      "id": 711010,
+      "name": "창공 벡스",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 711010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Neon Flare": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 16
+          },
+          "Turquoise": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Jeannie Tirado"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Vex didn't need anyone. Growing up alone, she was self-sufficient and annoyed by most people. Her realm's destruction barely made her blink, but her new Empyrean powers did give her an idea. By empowering her own shadow, she finally had a companion she tolerated. Vex may not need anyone, but then again, misery loves company."
+      }
+    },
+    {
+      "id": 897001,
+      "name": "창공 크산테",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 897001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 4
+          },
+          "Neon Flare": {
+            "id": 7,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "DeObia Oparei"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "K'Sante prides himself on leading under adversity, but this is a challenge unlike any other. His realm is gone, he's living on borrowed time, and the other Empyreans don't realize that something released the Foreglow. Something bad. He knows only they can fix it, but they need their eyes opened. They need a leader."
+      }
+    },
+    {
+      "id": 897002,
+      "name": "프레스티지 창공 크산테",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 897002,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 1,
+        "voiceactor": [
+          "DeObia Oparei"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "K'Sante's always been a trailblazer on the fashion circuit, and this year he definitely wants to make the audience sweat. With his crystal-laden drip and flawless makeup, he's about to light a fire under this Gala."
+      }
+    }
+  ]
+}

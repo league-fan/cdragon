@@ -1,0 +1,345 @@
+{
+  "id": 11,
+  "name": "아케이드: 중간보스",
+  "description": "아카디아의 서버 깊은 곳에는 모든 게이머가 중간보스로 알고 있는 사악한 버그들이 자리하고 있습니다. 변질된 코드는 그들에게 전에 없던 자유뿐 아니라 새로운 도전자 역시 가져다주었죠. 많은 중간보스는 아케이드 월드를 완전히 삭제하기 위해 서로의 차이를 잠시 제쳐 두기로 했습니다. (도저히 참을 수 없게 될 때까지요.)",
+  "skins": [
+    {
+      "id": 45008,
+      "name": "끝판왕 베이가",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 45008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2014-08-27",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "lore": "Once merely a mini-boss with a Napoleon complex, Veigar has ripped into the code of Arcade World to summon hundreds of other bosses to his side. Together they'll stop at nothing to reach his ultimate goal: take the world for himself, and give the heroes a final Game Over."
+      }
+    },
+    {
+      "id": 53011,
+      "name": "중간보스 블리츠크랭크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-08-19",
+        "earlysale": "2016-01",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 12
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rainbow": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 16
+          },
+          "Sapphire": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A boss hailing from a popular science fiction shooter, Blitzcrank is well known in the gaming community for cheap mechanics, powerful attacks, and a massive health pool. Veigar fittingly made them the gatekeeper of his personal fortress, because Veigar hates fun."
+      }
+    },
+    {
+      "id": 63006,
+      "name": "중간보스 브랜드",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 63006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "The fire boss from a bestselling action game, Brand has no intention of returning to his original machine. He'd rather see all of Arcade World burn to the ground, to be rebuilt in the image of the villains who rule it."
+      }
+    },
+    {
+      "id": 90006,
+      "name": "중간보스 말자하",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "A boss hailing from a long-forgotten game cabinet, Malzahar broke free from the last remaining copy of his game to invade nearby machines. Now he has made his way to Arcade World, shredding the code of his enemies with an army of intelligent viruses."
+      }
+    },
+    {
+      "id": 115006,
+      "name": "중간보스 직스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A boss originally from Super Yordle Bombers, Ziggs was transported to Arcade World for one purpose: blow up everything. Armed with his signature explosives (and the programming to use them!) he has wrought digital destruction the way only an angry mini-boss can."
+      }
+    },
+    {
+      "id": 157017,
+      "name": "중간보스 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-28",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Meteorite": {
+            "id": 19
+          },
+          "K.O.": {
+            "id": 26,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "One-time protagonist of the 1979 cult classic “Hasagi,” Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil."
+      }
+    },
+    {
+      "id": 200001,
+      "name": "중간보스 벨베스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 200001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-06-09",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rainbow": {
+            "id": 8
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Anoush NeVart"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "True final boss of the hit 1998 RPG \"Initial Reverie VIII,\" Bel'Veth has become a staple of the series thanks to fan popularity and her storyline about assimilating all of reality into herself. Recruited into the war in Arcadia by Veigar, she has decided to ignore his commands, annihilate everything in her path, and assimilate all of Arcade World into herself. Who could have seen it coming?"
+      }
+    },
+    {
+      "id": 246001,
+      "name": "중간보스 키아나",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-28",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 5
+          },
+          "K.O.": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 6
+          },
+          "Turquoise": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A princess constantly in need of saving in the 1981 arcade port of “Super Ixaocan Bros.,” Qiyana needed very little convincing to empower herself with malignant Battle Boss code. She wasted no time testing her newfound abilities on the aforementioned Super Ixaocan Brothers. They're dead now. She lives in their castle."
+      }
+    }
+  ]
+}

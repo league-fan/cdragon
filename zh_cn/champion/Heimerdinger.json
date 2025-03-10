@@ -1,0 +1,336 @@
+{
+  "id": 74,
+  "name": "大发明家",
+  "alias": "Heimerdinger",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/74.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 74000,
+      "name": "大发明家",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 74000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-10-09",
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The eccentric Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors the world has ever known. As the longest serving member of the Council of Piltover, he saw the best and the worst of the city's unending desire for progress. Nonetheless, this brilliant scientist and teacher will always remain dedicated to using his unconventional devices to improve the lives of others."
+      }
+    },
+    {
+      "id": 74001,
+      "name": "第三类接触 黑默丁格",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-07-13",
+        "retired": "2012-07-16",
+        "earlysale": "2019-09-20",
+        "set": [
+          "Invaders"
+        ],
+        "neweffects": true,
+        "transforming": true,
+        "vu": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "lore": "No one believed Heimerdinger when he tried to warn them about the invaders from outer space. They believed when he took off the wig."
+      }
+    },
+    {
+      "id": 74002,
+      "name": "拆弹专家 黑默丁格",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-24",
+        "set": [
+          "Road Warrior"
+        ],
+        "neweffects": true,
+        "transforming": true,
+        "vu": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Yan Shu"
+        ],
+        "lore": "An eccentric scientist living in the New Bandle Republic, Heimerdinger has not yet told anyone he may have developed “a large pre-war bomb or two” for “one or more rogue governments”. He would prefer tinkering in a city that is not actively trying to kill him."
+      }
+    },
+    {
+      "id": 74003,
+      "name": "创意工坊 黑默丁格",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-22",
+        "set": [
+          "Piltover Customs"
+        ],
+        "neweffects": true,
+        "transforming": true,
+        "vu": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "lore": "Heimerdinger moonlights as part owner of the city's most infamous customs dealer, where he generally adds an external engine and flame paint to vehicles of the rich and famous. Get him on a good day, though, and he'll build you a real monster—for a price."
+      }
+    },
+    {
+      "id": 74004,
+      "name": "雪默丁格",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74004,
+        "formatname": "Snowmerdinger",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "transforming": true,
+        "vu": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "lore": "Brought to life by the power of a magic hat, Snowmerdinger now pursues theoretical Snowdown sciences including snowball trajectory, cocoa cooling speeds, and automated turret construction. He engineered his own strain of carrot noses."
+      }
+    },
+    {
+      "id": 74005,
+      "name": "生化博士 黑默丁格",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-07-13",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Suke 'hugehugesword' Su"
+        ],
+        "lore": "Sometimes, when he's alone at night, Heimerdinger wonders if the reason his head is so big is all that exposure to Zaun Grey. Then he gets tired, and rests his giant head against an equally giant pillow."
+      }
+    },
+    {
+      "id": 74006,
+      "name": "驯龙学者 黑默丁格",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2018-10-11",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Jason Palmer"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Dragon training, to the few who understand it, seems to be the sole domain of yordles. Heimerdinger has long believed that dragons and humankind can peacefully coexist, citing centuries of his own successful research. His current dragon hatchling, Pythagoras, holds no opinion on the subject."
+      }
+    },
+    {
+      "id": 74015,
+      "name": "泳池派对 黑默丁格",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-02",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Aquamarine": {
+            "id": 19
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 20,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 21
+          },
+          "Rainbow": {
+            "id": 23
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Through the combination of precise schematics and top-of-the-line construction tools, Heimerdinger's next sand castle creation will be his grandest iteration yet! Assuming Syndra doesn't land on it again…"
+      }
+    },
+    {
+      "id": 74024,
+      "name": "小蜜蜂 黑默丁格",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74024,
+        "formatname": "Heimerstinger",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "chromas": {
+          "Emerald": {
+            "id": 28
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rainbow": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Now isn't he just the buzziest little worker bee?"
+      }
+    },
+    {
+      "id": 74033,
+      "name": "双城之战2 教授 黑默丁格",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74033,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Paragon": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "After his dismissal from the Piltover Council, Heimerdinger has been busy working on what matters most: the Anomaly and its effects on Zaun. Working together with Jayce and Ekko—his two protégés—Heimerdinger may finally be starting to see the full potential of magic."
+      }
+    }
+  ]
+}

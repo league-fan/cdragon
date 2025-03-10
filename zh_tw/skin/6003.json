@@ -1,0 +1,154 @@
+{
+  "id": 6003,
+  "contentId": "642684f6-7c56-4f40-8e63-99af4246b4cb",
+  "isBase": false,
+  "name": "全武裝機兵 烏爾加特",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Urgot/Skins/Skin03/Images/urgot_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Urgot/Skins/Skin03/Images/urgot_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Urgot/Skins/Skin03/Images/urgot_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Urgot/Skins/Skin03/UrgotLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/6/6003.png",
+  "chromas": [
+    {
+      "id": 6004,
+      "name": "全武裝機兵｜赤焰 烏爾加特",
+      "contentId": "382cba0b-208e-40d9-8ba0-5cc0ec4ecad9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/6/6004.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 6005,
+      "name": "全武裝機兵｜湛藍 烏爾加特",
+      "contentId": "82b90a6d-b8cf-4a06-a73b-3fc624cb71a0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/6/6005.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 6006,
+      "name": "全武裝機兵｜古銅 烏爾加特",
+      "contentId": "bc158a73-a494-4654-9fd0-7faed6f9b79a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/6/6006.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 6007,
+      "name": "全武裝機兵｜紺紫 烏爾加特",
+      "contentId": "02e8120c-076c-4b56-a7e5-fabc3a3bd201",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/6/6007.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 6008,
+      "name": "全武裝機兵｜鐵灰 烏爾加特",
+      "contentId": "310ef0c3-420e-4b17-b7d5-ca0cb2c49682",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/6/6008.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 25
+    }
+  ],
+  "description": "「全武裝機兵 烏爾加特」是由鈦金屬製成的重型裝甲車模型，特別用來粉碎那些頑固的政府反抗軍勢力，縱使其相當少見，但卻廣泛地令眾人感到害怕。除了龐大複雜的武器系統外，「全武裝機兵 烏爾加特」更配備了一個巨大的碎肉機，想逃離的敵人被拉進其中處刑的場面雖然可怕，但也不得不說是震撼人心的奇景之ㄧ。",
+  "wikiSkinData": {
+    "id": 6003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2012-03-05",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 8
+      },
+      "Pearl": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 4
+      },
+      "Sapphire": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Paul M. Guyet"
+    ],
+    "splashartist": [
+      "Izzy Medrano"
+    ],
+    "lore": "A titanium juggernaut used to crush pockets of particularly stubborn resistance, the Battlecast Urgot model is rarely seen but widely feared. Its extensive weapons systems are complemented by a massive, flesh-grinding spike mill, which it pulls fleeing opponents into for sheer spectacle."
+  }
+}

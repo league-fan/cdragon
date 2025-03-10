@@ -1,0 +1,175 @@
+{
+  "id": 267024,
+  "contentId": "80166a1a-7be6-4252-933e-0479853a2e6c",
+  "isBase": false,
+  "name": "우주의 운명 나미",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin24/Images/nami_splash_centered_24.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin24/Images/nami_splash_uncentered_24.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin24/Images/nami_splash_tile_24.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin24/NamiLoadscreen_24.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267024.png",
+  "chromas": [
+    {
+      "id": 267025,
+      "name": "우주의 운명 나미",
+      "contentId": "f0dcbedd-8994-42df-a441-ac84132a31a9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267025.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 267026,
+      "name": "우주의 운명 나미",
+      "contentId": "91160c6f-840a-4490-aea7-a2c723d2d176",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267026.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267027,
+      "name": "우주의 운명 나미",
+      "contentId": "854bb781-4a3b-49d7-b705-2dcdef1316a3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267027.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267028,
+      "name": "우주의 운명 나미",
+      "contentId": "197c2389-825a-48ca-bfaa-1e38b7a5c75f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267028.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267029,
+      "name": "우주의 운명 나미",
+      "contentId": "2b6a80b6-313c-4349-8749-75443cc520b0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267029.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 267030,
+      "name": "우주의 운명 나미",
+      "contentId": "0e0ee2c8-3899-4155-9829-ae20c6bf2e45",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267030.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 267031,
+      "name": "우주의 운명 나미",
+      "contentId": "2be2fafe-3c84-4a4a-a352-58dc464a31d4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267031.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 43
+    }
+  ],
+  "description": "생명을 불러오는 존재 나미는 새로운 별과 성좌의 탄생으로 나타난 차갑고 생기 없는 신생 바위나 행성에 생명의 씨앗을 뿌리는 임무를 수행합니다.",
+  "wikiSkinData": {
+    "id": 267024,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 28
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 31
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The bringer of life, Nami is charged with scattering the seeds of 'Élan vital' on the newborn, cold lifeless rocks and planets that appear with the birth of new stars and constellations."
+  }
+}

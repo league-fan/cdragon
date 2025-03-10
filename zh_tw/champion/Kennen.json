@@ -1,0 +1,375 @@
+{
+  "id": 85,
+  "name": "凱能",
+  "alias": "Kennen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/85.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 85000,
+      "name": "凱能",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 85000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2010-04-08",
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies."
+      }
+    },
+    {
+      "id": 85001,
+      "name": "紅色彗星 凱能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-08",
+        "retired": "2014-12-02",
+        "set": [
+          "Silver Age"
+        ],
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
+    },
+    {
+      "id": 85002,
+      "name": "銀色閃電 凱能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-08",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
+    },
+    {
+      "id": 85003,
+      "name": "小子難纏 凱能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-08",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
+    },
+    {
+      "id": 85004,
+      "name": "內科醫生 凱能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85004,
+        "formatname": "Kennen M.D.",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-03-29",
+        "set": [
+          "Rift Hospital"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Aquamarine": {
+            "id": 11,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Citrine": {
+            "id": 12,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Obsidian": {
+            "id": 15,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rainbow": {
+            "id": 16,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 9,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Mega Donor Bundle"
+          },
+          "Sapphire": {
+            "id": 14,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "lore": "Why run with scissors when you can throw scalpels?"
+      }
+    },
+    {
+      "id": 85005,
+      "name": "雪嶺突襲 凱能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-29",
+        "set": [
+          "Arctic Ops"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "lore": "High Command's public stance towards ninjas are joking-to-nonexistent, as this is a war of modern weapons, not medieval flights of fancy. Privately, they deploy Kennen to hot zones in the deep Arctic, relying on his finely honed ninjitsu and deadly precision."
+      }
+    },
+    {
+      "id": 85006,
+      "name": "血月舞忍 凱能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-02-25",
+        "earlysale": "2016-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "A kingslaying demon summoned on the night of the Blood Moon, Kennen's purpose is to depose those in power and eliminate every member of their line. He is ruthless in this task, tearing across heavily armed fortress cities in the blink of an eye."
+      }
+    },
+    {
+      "id": 85007,
+      "name": "閃能",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2017-03-29",
+        "earlysale": "2017-10",
+        "set": [
+          "Silver Age"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Coming to a store near you: the new Super Kennen action figure! At 6″ tall, the new Super Kennen is fully articulated, with dazzling lightning bolt action! Add this fitting tribute to New Valoran's bravest hero to your collection today!"
+      }
+    },
+    {
+      "id": 85008,
+      "name": "地獄火 凱能",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Rainbow": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A playful spirit of fire, Kennen is not a malevolent being, but can't help igniting his surroundings while zipping about. His lightning quick movements wreak havoc upon any village unfortunate enough to entice the impish spirit to visit."
+      }
+    },
+    {
+      "id": 85023,
+      "name": "DWG 凱能",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85023,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-29",
+        "set": [
+          "World Champions: 2020"
+        ],
+        "chromas": {
+          "Elite": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Honoring Nuguri's winning performance as Kennen during the 2020 World Championship."
+      }
+    },
+    {
+      "id": 85025,
+      "name": "太空約德爾人 凱能",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-02-24",
+        "set": [
+          "Astronauts"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "A master mechanic and genius in meep technology, Lieutenant Kennen always keeps the ship balanced. Although he's perpetually bothered by being second in command to Fizz, he never fails to design a plan to protect his team. His quick thinking and deadly precision are enough to keep any threats to planet M33P at bay."
+      }
+    }
+  ]
+}

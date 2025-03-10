@@ -1,0 +1,103 @@
+{
+  "id": 103003,
+  "contentId": "89f38dda-2263-468a-bde4-72cf558623c9",
+  "isBase": false,
+  "name": "妖焰火狐 阿璃",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin03/Images/ahri_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin03/Images/ahri_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin03/Images/ahri_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin03/AhriLoadscreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103003.png",
+  "chromas": [
+    {
+      "id": 103054,
+      "name": "妖焰火狐 阿璃",
+      "contentId": "91a6e2c5-a117-4736-8dda-8d032029d020",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103054.png",
+      "colors": [
+        "#2E38C4",
+        "#C8003F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2021 十周璃活動期間發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 103075,
+      "name": "妖焰火狐 阿璃",
+      "contentId": "e975eb55-5bda-4ea0-bf1e-2717dc295710",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103075.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "透過知名實況主／網紅發放取得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 86
+    }
+  ],
+  "description": "作為來自影焰神廟、年輕而充滿天賦的火占師，阿璃在極端教派釋放蒼火天尊時拋下自己的無聊人生。她現在以她的烈焰魔法對抗著他們，雖然希望之光或許早已熄滅。",
+  "wikiSkinData": {
+    "id": 103003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-07-11",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Ahri-versary": {
+        "id": 54
+      },
+      "Emerald": {
+        "id": 75,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Jeremy Chong",
+      "West Studio"
+    ],
+    "lore": "A young, talented pyromancer from the Shadowfire Temple, Ahri gave up her quiet life when a faction of extremists unleashed the burning horrors of the Ashen Lord. Now she uses her fire magic to fight against them, even though all hope seems lost."
+  }
+}

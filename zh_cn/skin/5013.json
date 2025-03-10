@@ -1,0 +1,181 @@
+{
+  "id": 5013,
+  "contentId": "e8dcdd9c-c3e5-4866-9e74-4c80eec23ac1",
+  "isBase": false,
+  "name": "屠龙勇士 赵信",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin13/Images/xinzhao_splash_centered_13.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin13/Images/xinzhao_splash_uncentered_13.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin13/Images/xinzhao_splash_tile_13.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin13/XinZhaoLoadscreen_13.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5013.png",
+  "chromas": [
+    {
+      "id": 5014,
+      "name": "屠龙勇士 赵信 金龙之优雅",
+      "contentId": "a3806603-512a-406e-88e3-e097d065e929",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5014.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 5015,
+      "name": "屠龙勇士 赵信 绿龙之无畏",
+      "contentId": "1e350f48-d7aa-489a-a6ba-2457ab0b718a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5015.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 5016,
+      "name": "屠龙勇士 赵信 铜龙之睿智",
+      "contentId": "1ef48c8e-0e57-4ab1-ace5-0285347434a4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5016.png",
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 5017,
+      "name": "屠龙勇士 赵信 银龙之庄严",
+      "contentId": "b74fc351-de13-4a92-b9d9-38b71f9abeb7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5017.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 5018,
+      "name": "屠龙勇士 赵信 晶龙之威仪",
+      "contentId": "33abd6d3-6f4e-4ec7-a309-1b8d4b17638c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5018.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 5019,
+      "name": "屠龙勇士 赵信 红龙之狂傲",
+      "contentId": "0c05b101-b83c-4de6-bc64-d3f6dc4cf331",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5019.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "这名女巫把这座山称为自己的故乡，重生的巨龙在这里遮天蔽日般飞向天空，屠龙勇士们纷纷赶来剿灭。赵信一骑当千冲进巨龙的巢穴，誓要将她的邪恶行径一举歼灭。",
+  "wikiSkinData": {
+    "id": 5013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-03-09",
+    "earlysale": "2017-09",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 18
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 15
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 19
+      },
+      "Sandstone": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "The sorceress called a great mountain her home, and from it, reborn dragons poured endlessly into the sky. Though dragonslayers fell all around him, Xin Zhao struck into the monster's lair, determined to end her evil once and for all."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 178,
+  "name": "编年史",
+  "description": "各种传说都是由它们的过去来考验、塑形和锻造的。",
+  "skins": [
+    {
+      "id": 12005,
+      "name": "巨角幻兽 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Youtube Distribution",
+        "cost": "Special",
+        "release": "2011-09-22",
+        "set": [
+          "Chronicle"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ]
+      }
+    },
+    {
+      "id": 26003,
+      "name": "遗迹守护者 基兰",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 26003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-08",
+        "set": [
+          "Chronicle"
+        ],
+        "neweffects": true
+      }
+    }
+  ]
+}

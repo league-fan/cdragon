@@ -1,0 +1,71 @@
+{
+  "id": 113005,
+  "contentId": "d0ff440d-221d-4310-b5ed-eac9b218cbe3",
+  "isBase": false,
+  "name": "포로를 탄 세주아니",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/Images/sejuani_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/Images/sejuani_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/Images/sejuani_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/SejuaniLoadscreen_5.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/113/113005.png",
+  "chromas": [
+    {
+      "id": 113047,
+      "name": "포로를 탄 세주아니",
+      "contentId": "6c2ea093-92ed-42bd-a49d-eaa38d6aa0f5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/113/113047.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "포로들은 포로 왕의 마법에 걸린 겨울왕국에 발이 묶인 어린 세주아니를 집으로 데려와 키웠습니다. 세주아니는 이제 포로들의 가장 뛰어난 챔피언 중 하나로 성장하여 언제나 맛있는 간식을 탐하며 군침을 흘리는 포로를 타고 그녀와 포로의 집을 위협하는 이들에 맞서 싸웁니다.",
+  "wikiSkinData": {
+    "id": 113005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home."
+  }
+}

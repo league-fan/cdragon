@@ -1,0 +1,307 @@
+{
+  "id": 523,
+  "name": "アフェリオス",
+  "alias": "Aphelios",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/523.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 523000,
+      "name": "アフェリオス",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 523000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2019-12-11",
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Emerging from moonlight’s shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune in her distant temple sanctuary from where she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone."
+      }
+    },
+    {
+      "id": 523001,
+      "name": "混沌の闇アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 523001,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "cost": 1350,
+        "release": "2019-12-11",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Emerald": {
+            "id": 7
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pariah": {
+            "id": 3,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          },
+          "Pearl": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Turquoise": {
+            "id": 2
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Separated at primordial birth, Aphelios, a fiend of chaos, and Alune, an archoness of order, were created as enemies. Yet, drawn each night to wander by shared visions of the moon, they found each other. Abandoning their natures, they struggle to show creation that darkness can shine, even as other divinities endlessly war…"
+      }
+    },
+    {
+      "id": 523009,
+      "name": "月の聖獣アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 523009,
+        "availability": "Legacy",
+        "looteligible": true,
+        "set": [
+          "Lunar Beast"
+        ],
+        "cost": 1350,
+        "release": "2021-02-04",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 14
+          },
+          "Vitality": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Beast 2021"
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Aphelios stays quiet, preferring to worship the Bull God according to obscure “old ways” that are unfamiliar to the rest of his squad. His teammates are welcoming, if curious, but have yet to realize that Aphelios and his sister Alune are actually the Bull God's progeny, placed among the squad to face this year's Lunar Beast."
+      }
+    },
+    {
+      "id": 523018,
+      "name": "EDG アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 523018,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-12",
+        "set": [
+          "World Champions: 2021"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 19,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Honoring Viper's winning performance as Aphelios during the 2021 World Championship."
+      }
+    },
+    {
+      "id": 523020,
+      "name": "精霊の花祭りアフェリオス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 523020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 23
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Night Blossom": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "Ionians share whispered stories of the twin spirits of the night, Aphelios and Alune. It is said the darkening of the sky comes from the brother's armaments, tearing the fabric of blues and whites apart to create an obsidian canvas painted with stars. The sister's motives are more... mysterious."
+      }
+    },
+    {
+      "id": 523030,
+      "name": "HEARTSTEEL アフェリオス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 523030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-08",
+        "set": [
+          "HEARTSTEEL"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 38
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rockstar": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2023"
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 35
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "N/A",
+          "Tania Gunadi"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen",
+          "Julia Yurtsev",
+          "Jennifer Wuestling"
+        ],
+        "lore": "A multi-instrumental musical genius whose passion for his craft is nigh obsessive, Aphelios is the composer and creative backbone of HEARTSTEEL.  Though he rarely ever speaks, with this wild band of musical misfits and his twin sister (the band's manager Alune) by his side, Aphelios is ready to have his creative voice heard loud and clear."
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 85,
+  "name": "鋼鉄軍人",
+  "description": "ジェネシス・インダストリーズとドレッドノヴァによる全面戦争の影で、多くの者の生活が失われた。しかし、彼らはそれを致し方ない犠牲としか考えていない。鋼鉄軍人は、戦場となって荒廃した惑星を拠点に活動する自警組織である。彼らは難民によって設立され、スクラップから造り出した武器で武装している。誰も守ってくれないのなら、自らを守るために戦うしかないのである。",
+  "skins": [
+    {
+      "id": 86006,
+      "name": "鋼鉄軍人ガレン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-02-01",
+        "set": [
+          "Steel Legion"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Garen is a steam-powered knight serving at the head of the Steel Legion's vanguard, feared by his enemies and respected by his allies in equal measure. His blade is one of a kind: a thaumaturgical innovation of science and magic, overflowing with sparking plasma."
+      }
+    },
+    {
+      "id": 99005,
+      "name": "鋼鉄軍人ラックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-02-01",
+        "set": [
+          "Steel Legion"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "lore": "This highly-trained specialist in the Steel Legion uses light-magnifying crystal rods to discharge rays of concentrated energy. Designated Lux, her affinity with the weapons has been quietly observed by several leading scientists within the organization."
+      }
+    }
+  ]
+}

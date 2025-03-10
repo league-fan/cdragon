@@ -1,0 +1,74 @@
+{
+  "id": 110,
+  "name": "Goth",
+  "description": "It's not a phase.",
+  "skins": [
+    {
+      "id": 1001,
+      "name": "Goth Annie",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 1001,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Digital Collector's Pack",
+        "release": "2009-10-27",
+        "set": [
+          "Goth"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Her mother is dead. Her father is dead. But Annie remains, seeing beauty in the dark."
+      }
+    },
+    {
+      "id": 32003,
+      "name": "Emumu",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 32003,
+        "formatname": "Emumu",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-01",
+        "set": [
+          "Goth"
+        ],
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "lore": "When your friends let you down, the best thing to do is start a rock band driven by hard emotions."
+      }
+    },
+    {
+      "id": 61001,
+      "name": "Gothic Orianna",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 61001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-06-01",
+        "set": [
+          "Goth"
+        ],
+        "voiceactor": [
+          "Heath Pennington"
+        ],
+        "lore": "Her father gave her the light of life—and yet, Orianna always preferred the dark."
+      }
+    }
+  ]
+}

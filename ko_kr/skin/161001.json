@@ -1,0 +1,49 @@
+{
+  "id": 161001,
+  "contentId": "ce838aaa-ec48-419b-964f-93a04fee5605",
+  "isBase": false,
+  "name": "전투 기계 벨코즈",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Velkoz/Skins/Skin01/Images/velkoz_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Velkoz/Skins/Skin01/Images/velkoz_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Velkoz/Skins/Skin01/Images/velkoz_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Velkoz/Skins/Skin01/VelkozLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 25
+    }
+  ],
+  "description": "공중에 떠 있는 이 거대한 전투 기계 흉물들은 지금은 사라진 벨코즈의 생물 형태에 기반한 자료 수집 부대로서, 인구 밀도가 높은 지역을 응축된 에너지 빔으로 훑습니다. 생명이 없는 잔해에서 수집된 조사 자료는 자동으로 전체 부대의 무기 시스템을 조정합니다. 이 부대가 매 접전마다 치명적인 위협이 되는 이유죠.",
+  "wikiSkinData": {
+    "id": 161001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-02-27",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An airborne data collection unit based on the now-extinct Vel'Koz lifeform, these Battlecast monstrosities sweep their concentrated energy beams over heavily populated areas. Survey data from the lifeless wreckage automatically calibrates the entire fleets' weapons systems, making the units a deadlier threat with every skirmish."
+  }
+}

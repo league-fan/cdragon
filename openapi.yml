@@ -1,0 +1,399 @@
+openapi: 3.0.3
+info:
+  title: CDragon Assets API
+  description: >-
+    League of Legends game resource data API, providing data from
+    communitydragon.org including champions, skins, skinlines, and universe data
+  version: 15.6.6634919+branch.main.content.release
+  contact:
+    name: CDragon Assets
+servers:
+  - url: 'https://league-fan.github.io/cdragon'
+    description: Production API server
+tags:
+  - name: Version
+    description: Version-related information
+  - name: Champions
+    description: Champion-related data
+  - name: Skins
+    description: Skin-related data
+  - name: Skinlines
+    description: Skinline-related data
+  - name: Universe
+    description: Universe-related data
+  - name: Wiki
+    description: Wiki-related data
+paths:
+  /version.json:
+    get:
+      summary: Get current data version
+      description: Returns version information about the current API data
+      operationId: getVersion
+      tags:
+        - Version
+      responses:
+        '200':
+          description: Successfully retrieved version information
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Version'
+  /wiki-skin-data.json:
+    get:
+      summary: Get Wiki skin data
+      description: Returns skin-related data compiled from the League of Legends Wiki
+      operationId: getWikiSkinData
+      tags:
+        - Wiki
+      responses:
+        '200':
+          description: Successfully retrieved Wiki skin data
+          content:
+            application/json:
+              schema:
+                type: object
+                description: Wiki skin data
+  '/{locale}/champion.json':
+    get:
+      summary: Get all champions
+      description: Returns a list of all champions in the specified language
+      operationId: getChampions
+      tags:
+        - Champions
+      parameters:
+        - &ref_0
+          $ref: '#/components/parameters/locale'
+      responses:
+        '200':
+          description: Successfully retrieved champion list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ChampionSummary'
+  '/{locale}/champion/{championAlias}.json':
+    get:
+      summary: Get specific champion details
+      description: >-
+        Returns detailed information about a specific champion in the specified
+        language
+      operationId: getChampionById
+      tags:
+        - Champions
+      parameters:
+        - *ref_0
+        - name: championAlias
+          in: path
+          required: true
+          description: 'Champion alias (usually the champion name, e.g., Aatrox)'
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully retrieved champion details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Champion'
+        '404':
+          description: Champion not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  '/{locale}/skin.json':
+    get:
+      summary: Get all skins
+      description: Returns a list of all skins in the specified language
+      operationId: getSkins
+      tags:
+        - Skins
+      parameters:
+        - *ref_0
+      responses:
+        '200':
+          description: Successfully retrieved skin list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/SkinSummary'
+  '/{locale}/skin/{skinId}.json':
+    get:
+      summary: Get specific skin details
+      description: >-
+        Returns detailed information about a specific skin in the specified
+        language
+      operationId: getSkinById
+      tags:
+        - Skins
+      parameters:
+        - *ref_0
+        - name: skinId
+          in: path
+          required: true
+          description: 'Skin ID (numeric ID, e.g., 1000, 10001)'
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully retrieved skin details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Skin'
+        '404':
+          description: Skin not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  '/{locale}/skinline.json':
+    get:
+      summary: Get all skinlines
+      description: Returns a list of all skinlines in the specified language
+      operationId: getSkinlines
+      tags:
+        - Skinlines
+      parameters:
+        - *ref_0
+      responses:
+        '200':
+          description: Successfully retrieved skinline list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/SkinlineSummary'
+  '/{locale}/skinline/{skinlineId}.json':
+    get:
+      summary: Get specific skinline details
+      description: >-
+        Returns detailed information about a specific skinline in the specified
+        language
+      operationId: getSkinlineById
+      tags:
+        - Skinlines
+      parameters:
+        - *ref_0
+        - name: skinlineId
+          in: path
+          required: true
+          description: 'Skinline ID (numeric ID, e.g., 0, 1, 10)'
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully retrieved skinline details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Skinline'
+        '404':
+          description: Skinline not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  '/{locale}/universe.json':
+    get:
+      summary: Get all universes
+      description: Returns a list of all universes in the specified language
+      operationId: getUniverses
+      tags:
+        - Universe
+      parameters:
+        - *ref_0
+      responses:
+        '200':
+          description: Successfully retrieved universe list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/UniverseSummary'
+  '/{locale}/universe/{universeId}.json':
+    get:
+      summary: Get specific universe details
+      description: >-
+        Returns detailed information about a specific universe in the specified
+        language
+      operationId: getUniverseById
+      tags:
+        - Universe
+      parameters:
+        - *ref_0
+        - name: universeId
+          in: path
+          required: true
+          description: 'Universe ID (numeric ID, e.g., 0, 1, 10)'
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully retrieved universe details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Universe'
+        '404':
+          description: Universe not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  parameters:
+    locale:
+      name: locale
+      in: path
+      required: true
+      description: Language/locale code
+      schema:
+        type: string
+        enum:
+          - default
+          - ja_jp
+          - ko_kr
+          - zh_cn
+          - zh_tw
+        default: default
+  schemas:
+    Error:
+      type: object
+      required:
+        - code
+        - message
+      properties:
+        code:
+          type: integer
+          format: int32
+        message:
+          type: string
+    Version:
+      type: object
+      description: API data version information
+      properties:
+        version:
+          type: string
+          description: API data version
+        crawledAt:
+          type: string
+          description: API data crawled at
+          format: date-time
+    ChampionSummary:
+      type: object
+      description: Champion summary information
+      properties:
+        total:
+          type: number
+          description: Total number of champions
+        champions:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: number
+              name:
+                type: string
+              alias:
+                type: string
+    Champion:
+      type: object
+      description: Detailed champion information
+      properties:
+        id:
+          type: number
+          description: Champion ID
+        name:
+          type: string
+          description: Champion name
+        alias:
+          type: string
+          description: Champion alias
+        squarePortraitPath:
+          type: string
+          description: Champion square portrait path
+    SkinSummary:
+      type: object
+      description: Skin summary information
+      properties:
+        total:
+          type: number
+          description: Total number of skins
+        skins:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+              name:
+                type: string
+    Skin:
+      type: object
+      description: Detailed skin information
+      properties:
+        id:
+          type: string
+          description: Skin ID
+        name:
+          type: string
+          description: Skin name
+    SkinlineSummary:
+      type: object
+      description: Skinline summary information
+      properties:
+        total:
+          type: number
+          description: Total number of skinlines
+        skinlines:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+              name:
+                type: string
+    Skinline:
+      type: object
+      description: Detailed skinline information
+      properties:
+        id:
+          type: string
+          description: Skinline ID
+        name:
+          type: string
+          description: Skinline name
+    UniverseSummary:
+      type: object
+      description: Universe summary information
+      properties:
+        total:
+          type: number
+          description: Total number of universes
+        universes:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: string
+              name:
+                type: string
+    Universe:
+      type: object
+      description: Detailed universe information
+      properties:
+        id:
+          type: string
+          description: Universe ID
+        name:
+          type: string
+          description: Universe name

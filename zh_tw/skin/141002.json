@@ -1,0 +1,155 @@
+{
+  "id": 141002,
+  "contentId": "d9cebdaa-0acf-4e62-a1ca-34383ffba698",
+  "isBase": false,
+  "name": "奧德賽 慨影",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/Images/kayn_splash_centered_2.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/Images/kayn_splash_uncentered_2.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/Images/kayn_splash_tile_2.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/KaynLoadscreen_2.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/KaynLoadScreen_2_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141002.png",
+  "chromas": [
+    {
+      "id": 141003,
+      "name": "奧德賽｜焰紅 慨影",
+      "contentId": "52ea248f-9e73-4333-8758-63b8f9708061",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141003.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 141004,
+      "name": "奧德賽｜珍珠白 慨影",
+      "contentId": "cc0f7e9e-e706-4414-b464-9f2aaff803cc",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141004.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 141005,
+      "name": "奧德賽｜翡翠 慨影",
+      "contentId": "5055049c-51c6-4a36-9c08-aa57a230cc1e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141005.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 141006,
+      "name": "奧德賽｜傭兵 慨影",
+      "contentId": "3d6d7b7e-cd3a-4bac-ad3f-97a69fac58cd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141006.png",
+      "colors": [
+        "#0C0C0F",
+        "#9B1520"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 世界大賽活動期間以戰利品限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 141007,
+      "name": "奧德賽｜湛藍 慨影",
+      "contentId": "d5ae1ca5-befa-4b0d-a517-da1786648f20",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141007.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 73
+    }
+  ],
+  "description": "作為蒂瑪克西亞帝國的光榮序主，慨影毫不留情地追捕晨星號的成員，希望能得到索娜，並透過她掌握奧德賽能量之門的祕密。慨影經常和他那具有生命的外星鐮刀勒哈斯特起爭執，他不知道的是，勒哈斯特的野心和慾望遠遠比他想像地還要可怕……",
+  "wikiSkinData": {
+    "id": 141002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Merc": {
+        "id": 6,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "As an honored Ordinal of the Demaxian Empire, Kayn relentlessly hounds the crew of the Morning Star, hoping to recapture Sona and learn the secrets of the legendary Ora Gate. He bickers constantly with his sentient alien scythe, Rhaast, whose own motivations are far more dire than Kayn could ever realize…"
+  }
+}

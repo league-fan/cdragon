@@ -1,0 +1,670 @@
+{
+  "id": 88,
+  "name": "Trick-or-Treat",
+  "description": "You better hope you have the good stuff. You know, Piltover Pops, Strikebreaker Sours, Dark Star Chocolate Bars... 'Cause if you don't, the kids on this block have some tricks up their sleeves. ",
+  "skins": [
+    {
+      "id": 1007,
+      "name": "FrankenTibbers Annie",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 1007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "He's a towering abomination of science and magic. She's an eight year old with a beehive hairdo, and undiagnosed pyromania. Name a more iconic duo. I'll wait."
+      }
+    },
+    {
+      "id": 4007,
+      "name": "Underworld Twisted Fate",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 4007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "For those dreading their inevitable meeting with Death, Twisted Fate offers another path. If they win his game of chance, a life of luxury awaits them. If they lose, he gladly adds yet another card to his ever-growing deck of doomed souls."
+      }
+    },
+    {
+      "id": 6002,
+      "name": "Butcher Urgot",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-24",
+        "retired": "2012-03-12",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ]
+      }
+    },
+    {
+      "id": 7004,
+      "name": "Ravenborn LeBlanc",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-10-28",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "LeBlanc loves nothing more than showing up her high society rivals at the annual holiday gala. Besides, taking a spin as the season's most fashionable witch will teach those Du Couteaus not to upstage her garden parties."
+      }
+    },
+    {
+      "id": 8003,
+      "name": "Nosferatu Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "lore": "Look, the guy is a film buff. So what? Hemomancers can like things, too."
+      }
+    },
+    {
+      "id": 9004,
+      "name": "Pumpkinhead Fiddlesticks",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Carriage drivers are cautioned to stick to well-traveled highways, especially during the witching season. Strange things can happen on those old, moonlit roads, where no birds sing, and something enormous moves within the fog."
+      }
+    },
+    {
+      "id": 23007,
+      "name": "Nightmare Tryndamere",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 23007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-07",
+        "earlysale": "2016-01",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ]
+      }
+    },
+    {
+      "id": 30003,
+      "name": "Grim Reaper Karthus",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 30003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-26",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "chromas": {
+          "Blight": {
+            "id": 7
+          },
+          "Burn": {
+            "id": 6
+          },
+          "Frostbite": {
+            "id": 8
+          }
+        },
+        "vu": true
+      }
+    },
+    {
+      "id": 32024,
+      "name": "Pumpkin Prince Amumu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 32024,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-22",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A lonely lad and prince of the patch, Amumu watches year after year as his people are decimated by possums and rowdy teenagers."
+      }
+    },
+    {
+      "id": 36004,
+      "name": "Mundo Mundo",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 36004,
+        "formatname": "Mundo Mundo",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "Svetlana Tigai",
+          "West Studio"
+        ],
+        "lore": "Mundo could have dressed as anyone to go trick-or-treating, but this year he went as Mundo. Every year he goes as Mundo. Mundo trick-or-treats as he pleases."
+      }
+    },
+    {
+      "id": 38006,
+      "name": "Count Kassadin",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 38006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Citrine": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "A grim, lonely man who lives on a grim, lonely street, Kassadin is the one whom all kids avoid on All Hallows' Eve; for in his presence, there are no treats nor sweets to be found."
+      }
+    },
+    {
+      "id": 41001,
+      "name": "Spooky Gangplank",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ]
+      }
+    },
+    {
+      "id": 53022,
+      "name": "Witch's Brew Blitzcrank",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53022,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 25
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments."
+      }
+    },
+    {
+      "id": 55004,
+      "name": "Kitty Cat Katarina",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 55004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "lore": "There are times when Katarina deeply questions the parameters of her assassination missions. This is, somehow, not one of those times."
+      }
+    },
+    {
+      "id": 56004,
+      "name": "Haunting Nocturne",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Haunting Nocturne would be a lot less haunting without those huge knife arms."
+      }
+    },
+    {
+      "id": 57004,
+      "name": "Haunted Maokai",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 57004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Volta Studio"
+        ],
+        "lore": "Few locals dare to trick-or-treat past the forest just outside of town. Too many have vanished within that dreary woodland, where one feels the weight of unseen eyes, and even the trees are driven by a terrible hunger…"
+      }
+    },
+    {
+      "id": 67001,
+      "name": "Vindicator Vayne",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 67001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-05-10",
+        "retired": "2015-08-29",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "voiceactor": [
+          "Nika Futterman"
+        ]
+      }
+    },
+    {
+      "id": 117002,
+      "name": "Wicked Lulu",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-03-20",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "lore": "In Runeterra, parents warn their children to obey them, lest they be snatched away in the night by wicked Lulu. There she'll turn them into pixies, making them gather flowers throughout the spooky forest for her wicked schemes!"
+      }
+    },
+    {
+      "id": 120003,
+      "name": "Headless Hecarim",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 120003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "There are many tales told about creatures prowling the roads at night, but none are as dark as that of the headless rider. He lost his head in a duel on horseback, and is doomed to haunt the living forevermore—a hideous jack-o-lantern resting upon his shoulders."
+      }
+    },
+    {
+      "id": 143002,
+      "name": "Haunted Zyra",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 143002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-10-29",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "The old cemetery is no place for stray trick-or-treaters. The twisted, dead undergrowth celebrates this season as well… but their roots run deep into the blighted earth, and their games too often prove deadly for the lost and afraid."
+      }
+    },
+    {
+      "id": 240002,
+      "name": "Count Kledula",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 240002,
+        "formatname": "Count Kledula",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 5
+          },
+          "Golden": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "This blood is MY blood. This candy is MY candy. Who sent you here?! You're not real ghosts! I'm Count Baron Double-Marquis Lord Duke Kledula… AND I'LL TEACH YOU NOT TO TRICK-OR-TREAT ON MY LAND!"
+      }
+    },
+    {
+      "id": 245012,
+      "name": "Trick or Treat Ekko",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 245012,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Golden": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Antony Del Rio"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Perhaps, in hindsight, looping time to get an infinite number of fun-size chocolate bars wasn't worth shattering the fabric of reality for…"
+      }
+    }
+  ]
+}

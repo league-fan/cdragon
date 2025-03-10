@@ -1,0 +1,466 @@
+{
+  "id": 90,
+  "name": "馬爾札哈",
+  "alias": "Malzahar",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/90.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 90000,
+      "name": "馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 90000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2010-06-01",
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra’s salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient Icathia. Amidst the ruins of that land, he gazed into the dark heart of the Void itself, and was gifted new power and purpose. Malzahar now sees himself as a shepherd, empowered to bring others into the fold… or to release the voidling creatures that dwell beneath."
+      }
+    },
+    {
+      "id": 90001,
+      "name": "黑暗王子 馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "retired": "2012-03-19",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "Vic Mignogna"
+        ]
+      }
+    },
+    {
+      "id": 90002,
+      "name": "波斯王子 馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Vic Mignogna"
+        ]
+      }
+    },
+    {
+      "id": 90003,
+      "name": "神燈精靈 馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-01",
+        "set": [
+          "Fables"
+        ],
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "lore": "Little is known about the djinn, misinformation leading many to seek out the dark, desolate corners of the world in hopes of finding one to grant their wildest wishes. Instead, they find themselves at the mercy of a powerful spirit that is neither good nor evil and has a penchant for possession."
+      }
+    },
+    {
+      "id": 90004,
+      "name": "萬物至尊 馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-09-19",
+        "set": [
+          "Definitely Not"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
+    },
+    {
+      "id": 90005,
+      "name": "霜降使者 馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-12-15",
+        "set": [
+          "Snow Day"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Snowdown Showdown 2018"
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "lore": "Prophets of doom love a snow day as much as anybody—perhaps even more, since Malzahar knows everything will one day be swallowed by the Void. Clad in fashionable winter gear and flanked by an army of voidling poros, he's ready to usher in the snowball apocalypse."
+      }
+    },
+    {
+      "id": 90006,
+      "name": "戰鬥魔王 馬爾札哈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "A boss hailing from a long-forgotten game cabinet, Malzahar broke free from the last remaining copy of his game to invade nearby machines. Now he has made his way to Arcade World, shredding the code of his enemies with an army of intelligent viruses."
+      }
+    },
+    {
+      "id": 90007,
+      "name": "海克斯科技 馬爾札哈",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90007,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-10-18",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Upon hearing that the origin of hextech lay in his homeland of Shurima, Malzahar ventured out into the wastes alone. There, after suffering a life-changing revelation, he became its greatest messenger, claiming to see prophecies of the coming of a second hextech renaissance."
+      }
+    },
+    {
+      "id": 90009,
+      "name": "文明末日 馬爾札哈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-09",
+        "set": [
+          "Worldbreaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 13
+          },
+          "Turquoise": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Zhong Yang",
+          "Kudos Productions"
+        ],
+        "lore": "With the world revitalized, there came another wave of titans. Most fearsome of all was Malzahar, the once-great protector of animals. Vengeful over the horrors of the previous extinction, the holy shaman succumbed to anger, and there, in the depths of his rage, his magic turned dark, fueling a fury to end all life—from the depths of the seas to the peaks of mountains."
+      }
+    },
+    {
+      "id": 90018,
+      "name": "蜂起雲湧 馬爾螫哈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90018,
+        "formatname": "Beezahar",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 20,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Rainbow": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 25
+          },
+          "Sapphire": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Foritis Wang",
+          "West Studio"
+        ],
+        "lore": "Open your true mind, and beelieve."
+      }
+    },
+    {
+      "id": 90028,
+      "name": "決勝賭豪 馬爾札哈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Cerulean Club": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Citrine": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 32
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Tanzanite": {
+            "id": 34
+          },
+          "Turquoise": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "An associate of LeBlanc's from her days in Crime City, now established as a mover and shaker in his own right. While the two cross paths on occasion, Malzahar has certain... outside interests to consider, and those business partners have promised him more than any mortal could ever dream of."
+      }
+    },
+    {
+      "id": 90038,
+      "name": "三重榮譽 馬爾札哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90038,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for finishing the ranked season with Honor level 5.",
+        "release": "2022-12-07",
+        "set": [
+          "Three Honors"
+        ],
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "As the Order of Solace's leader, Malzahar wants to extend a gentle, guiding hand to all. It was only by following the tenets of the Three Honors that he was able to escape from a pit of cynicism, and while apathy may reign supreme, Malzahar will do whatever it takes to build a better world."
+      }
+    },
+    {
+      "id": 90039,
+      "name": "宇宙幻焰 馬爾札哈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-01",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 45
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Neon Facade": {
+            "id": 48,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2024"
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 44
+          },
+          "Turquoise": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Malzahar is the self-proclaimed Voice of the Foreglow. Traveling from realm to realm, he announces that the Empyreans are symptoms of a greater sickness, the fever designed to fight an infection festering across the dimensions. Whether Malzahar truly speaks for the neon flame is anyone's guess, but for now, he's only just warming up."
+      }
+    }
+  ]
+}

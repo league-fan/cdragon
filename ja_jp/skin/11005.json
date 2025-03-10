@@ -1,0 +1,106 @@
+{
+  "id": 11005,
+  "contentId": "d8d8bc27-86f5-4da9-8ed1-82cd1ad12bac",
+  "isBase": false,
+  "name": "ヘッドハンター マスター・イー",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/Images/masteryi_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/Images/masteryi_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/Images/masteryi_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin05/MasterYiLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11005.png",
+  "chromas": [
+    {
+      "id": 11006,
+      "name": "首狩り族マスター・イー",
+      "contentId": "b1676ea6-35e1-4e76-b844-188ea4553e56",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11006.png",
+      "colors": [
+        "#FED24D",
+        "#D48F3B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 11007,
+      "name": "首狩り族マスター・イー",
+      "contentId": "6f20d141-4acf-4c74-af08-566d47f4799a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11007.png",
+      "colors": [
+        "#76E7F5",
+        "#DBAD38"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 11008,
+      "name": "首狩り族マスター・イー",
+      "contentId": "85779bc8-7e12-44b9-b62f-8cd0a5ff4a3a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11008.png",
+      "colors": [
+        "#993045",
+        "#AC6A64"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 30
+    }
+  ],
+  "description": "ハンターは仕事において、さまざまな道具を使うものだ。ボウガン、ライフル、ナイフ、そして精神。マスター・イーが好む道具は、隕石合金からできた刃渡り五尺におよぶ鋸歯の刀だ。 ",
+  "wikiSkinData": {
+    "id": 11005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-02-08",
+    "set": [
+      "Headhunter"
+    ],
+    "chromas": {
+      "Aqua": {
+        "id": 7
+      },
+      "Crimson": {
+        "id": 8
+      },
+      "Gold": {
+        "id": 6
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "lore": "Hunters use many tools: the bowgun, the rifle, the knife, the mind. Master Yi's tool of choice is a five foot long serrated blade forged from meteoric alloy. "
+  }
+}

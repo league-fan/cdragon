@@ -1,0 +1,53 @@
+{
+  "id": 2015,
+  "contentId": "7416919c-5922-464f-97ab-467bc03dce7b",
+  "isBase": false,
+  "name": "SKT T1 奥拉夫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin15/Images/olaf_splash_centered_15.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin15/Images/olaf_splash_uncentered_15.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin15/Images/olaf_splash_tile_15.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin15/OlafLoadscreen_15.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 6
+    }
+  ],
+  "description": "以此致敬Bengi在2016全球总决赛中使用奥拉夫的夺胜表现。这是Bengi的第三个世界冠军皮肤，前两次是2013和2015全球总决赛SKT夺冠。",
+  "wikiSkinData": {
+    "id": 2015,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-06-27",
+    "set": [
+      "World Champions: 2016"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Honoring Bengi's winning performance as Olaf during the 2016 World Championship. This is Bengi's third World Champion skin, following his wins with SKT at the 2013 and 2015 World Championships."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": 80006,
+  "contentId": "1a8b42a6-3bff-46dc-9dbf-ca114dbb9359",
+  "isBase": false,
+  "name": "Dragonslayer Pantheon",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Pantheon/Skins/Skin06/Images/pantheon_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Pantheon/Skins/Skin06/Images/pantheon_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Pantheon/Skins/Skin06/Images/pantheon_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Pantheon/Skins/Skin06/PantheonLoadscreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80006.png",
+  "chromas": [
+    {
+      "id": 80009,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "5ec2c713-df2f-4bc7-8be8-812ecb2213e6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80009.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 80010,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "35de2139-43d1-492e-bea8-9fc8be44d536",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80010.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 80011,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "2aac50ff-6f5e-4dbc-a392-6e99eb68983f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80011.png",
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 80012,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "ad0ed3eb-1f2c-40b9-80fb-59ba09725ea5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 80013,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "647940a2-3412-4495-81a4-f52bfa84662d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80013.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 80014,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "d30c0dd3-fb3a-4915-83b7-2e12a3ab904d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80014.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 80015,
+      "name": "Dragonslayer Pantheon",
+      "contentId": "eb882a96-ab9c-4d94-9c73-ac1434102d5f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80015.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge.",
+  "wikiSkinData": {
+    "id": 80006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-05-14",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 10
+      },
+      "Catseye": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 15
+      },
+      "Sandstone": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "George Georgiou"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge."
+  }
+}

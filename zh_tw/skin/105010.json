@@ -1,0 +1,113 @@
+{
+  "id": 105010,
+  "contentId": "ed70f15f-29ae-411c-af19-ae79ca77c70b",
+  "isBase": false,
+  "name": "戰爭機器 飛斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin10/Images/fizz_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin10/Images/fizz_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin10/Images/fizz_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin10/FizzLoadscreen_10.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105010.png",
+  "chromas": [
+    {
+      "id": 105011,
+      "name": "戰爭機器｜軍艦藍 飛斯",
+      "contentId": "1c792535-e96f-4168-a372-0ed7025d473c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105011.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 105012,
+      "name": "戰爭機器｜裝甲黑 飛斯",
+      "contentId": "8291573f-f9e7-45e6-af44-ae1843eb66cd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 105013,
+      "name": "戰爭機器｜衝鋒紫 飛斯",
+      "contentId": "9792f6b8-ed5a-415c-8864-dc1a1bae3ee9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105013.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 14
+    }
+  ],
+  "description": "作為戰爭機器隊伍中的破壞者，飛斯擅長在水下進行戰鬥。他在入隊前出過什麼樣的勤務沒人知道，我們唯一知道的是他把大海稱為「一個滿是魚餌的桶子」。",
+  "wikiSkinData": {
+    "id": 105010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-07-26",
+    "earlysale": "2018-01",
+    "set": [
+      "Omega Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Omega Squad's saboteur, Fizz is skilled in underwater combat. It is unclear what kind of action he saw before joining up, however, as he only ever refers to the sea as “a big bucket of chum.”"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": 350037,
+  "contentId": "d1cdbfaf-4bbb-41c3-ab2f-79fa62c20785",
+  "isBase": false,
+  "name": "EDG 悠米",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Yuumi/Skins/Skin37/Images/yuumi_splash_centered_37.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Yuumi/Skins/Skin37/Images/yuumi_splash_uncentered_37.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Yuumi/Skins/Skin37/Images/yuumi_splash_tile_37.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yuumi/Skins/Skin37/YuumiLoadscreen_37.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Yuumi/Skins/Skin37/YuumiLoadscreen_37_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/350/350037.png",
+  "chromas": [
+    {
+      "id": 350038,
+      "name": "EDG 悠米 破军",
+      "contentId": "1f227f8e-ba0e-4248-9625-82eb5833e10c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/350/350038.png",
+      "colors": [
+        "#131521",
+        "#9E1517"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 350048,
+      "name": "巅峰猫咪 悠米 凯旋辅卫",
+      "contentId": "2fd1897e-ad94-4246-b373-1c73af3ee071",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/350/350048.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Champion Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/54.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/54.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 158
+    }
+  ],
+  "description": "以此致敬Meiko在2021全球总决赛中使用悠米的夺胜表现。",
+  "wikiSkinData": {
+    "id": 350037,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-05-12",
+    "set": [
+      "World Champions: 2021"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 38,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tenfold Triumph": {
+        "id": 48
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Honoring Meiko's winning performance as Yuumi during the 2021 World Championship."
+  }
+}

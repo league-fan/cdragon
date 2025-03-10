@@ -1,0 +1,82 @@
+{
+  "id": 51011,
+  "contentId": "48f81330-6fa5-4b9d-88e1-290431fcf017",
+  "isBase": false,
+  "name": "펄스 건 케이틀린",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/Images/caitlyn_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/Images/caitlyn_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/Images/caitlyn_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/CaitlynLoadscreen_11.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51011.png",
+  "chromas": [
+    {
+      "id": 51021,
+      "name": "펄스 건 케이틀린",
+      "contentId": "43d89739-5e91-4e78-846b-419476743491",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51021.png",
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020 펄스 건 이벤트 기간 동안 출시된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 36
+    }
+  ],
+  "description": "어느 시대에서도 두려움의 대상인 전설적 시공경관 케이틀린. 그녀의 임무는 시간이라는 연약한 수수께끼를 지키는 것입니다. 그 순수함을 감히 위협하는 자는 시간 플라즈마 발사기의 조준경을 벗어날 수 없을 것입니다.",
+  "wikiSkinData": {
+    "id": 51011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-05-24",
+    "earlysale": "2017-11",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+  }
+}

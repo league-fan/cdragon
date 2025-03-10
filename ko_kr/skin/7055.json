@@ -1,0 +1,225 @@
+{
+  "id": 7055,
+  "contentId": "961bbd3a-1601-485c-ac7a-f13de075f6ef",
+  "isBase": false,
+  "name": "떠오른 전설 르블랑",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/Images/leblanc_splash_centered_55.SKINS_Leblanc_Skin55.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/Images/leblanc_splash_uncentered_55.SKINS_Leblanc_Skin55.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/Images/leblanc_splash_tile_55.SKINS_Leblanc_Skin55.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LeblancLoadScreen_55.SKINS_Leblanc_Skin55.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7055.png",
+  "chromas": [
+    {
+      "id": 7056,
+      "name": "떠오른 전설 르블랑",
+      "contentId": "3bf46d19-e12d-422b-9e3d-6aea3861df4a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7056.png",
+      "colors": [
+        "#059849",
+        "#C89600"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2024 전설의 전당 Faker 헌정 배틀 패스를 완료한 플레이어에게 한정 보상으로 지급된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "c2dcc64e-9eb8-41f9-bdaf-f6f294c6c531",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Starter.SKINS_Leblanc_Skin55.png"
+            },
+            {
+              "contentId": "abe22351-1a4b-44fa-959f-37f807cbcd47",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Premium.SKINS_Ahri_HoL_Support.png"
+            }
+          ],
+          "layer1": [
+            {
+              "contentId": "663256b4-1134-44b2-b285-e9d89e46b83d",
+              "layer": 1,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Signature.SKINS_Ahri_HoL_Support.png"
+            }
+          ]
+        },
+        "augments": [
+          {
+            "contentId": "37ebc24a-f536-4765-8249-06536cf73379",
+            "overlays": [
+              {
+                "centeredLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_centered_signature.SKINS_Leblanc_Skin55.png",
+                "uncenteredLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_uncentered_signature.SKINS_Leblanc_Skin55.png",
+                "socialCardLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/social_card_signature.SKINS_Leblanc_Skin55.png",
+                "tileLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_tile_signature.SKINS_Leblanc_Skin55.png"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 7057,
+      "name": "떠오른 전설 르블랑",
+      "contentId": "666ebc46-230d-471d-8043-f0152946a592",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7057.png",
+      "colors": [
+        "#64DCC8",
+        "#E446F7"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2024 전설의 전당 Faker 헌정 시그니처 에디션 컬렉션을 획득한 플레이어에게 한정 보상으로 지급된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 6
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "c2dcc64e-9eb8-41f9-bdaf-f6f294c6c531",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Starter.SKINS_Leblanc_Skin55.png"
+            },
+            {
+              "contentId": "abe22351-1a4b-44fa-959f-37f807cbcd47",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Premium.SKINS_Ahri_HoL_Support.png"
+            }
+          ],
+          "layer1": [
+            {
+              "contentId": "663256b4-1134-44b2-b285-e9d89e46b83d",
+              "layer": 1,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Signature.SKINS_Ahri_HoL_Support.png"
+            }
+          ]
+        },
+        "augments": [
+          {
+            "contentId": "37ebc24a-f536-4765-8249-06536cf73379",
+            "overlays": [
+              {
+                "centeredLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_centered_signature.SKINS_Leblanc_Skin55.png",
+                "uncenteredLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_uncentered_signature.SKINS_Leblanc_Skin55.png",
+                "socialCardLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/social_card_signature.SKINS_Leblanc_Skin55.png",
+                "tileLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_tile_signature.SKINS_Leblanc_Skin55.png"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 204
+    }
+  ],
+  "skinAugments": {
+    "borders": {
+      "layer0": [
+        {
+          "contentId": "c2dcc64e-9eb8-41f9-bdaf-f6f294c6c531",
+          "layer": 0,
+          "priority": 0,
+          "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Starter.SKINS_Leblanc_Skin55.png"
+        },
+        {
+          "contentId": "abe22351-1a4b-44fa-959f-37f807cbcd47",
+          "layer": 0,
+          "priority": 1,
+          "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Premium.SKINS_Ahri_HoL_Support.png"
+        }
+      ],
+      "layer1": [
+        {
+          "contentId": "663256b4-1134-44b2-b285-e9d89e46b83d",
+          "layer": 1,
+          "priority": 0,
+          "borderPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Signature.SKINS_Ahri_HoL_Support.png"
+        }
+      ]
+    },
+    "augments": [
+      {
+        "contentId": "37ebc24a-f536-4765-8249-06536cf73379",
+        "overlays": [
+          {
+            "centeredLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_centered_signature.SKINS_Leblanc_Skin55.png",
+            "uncenteredLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_uncentered_signature.SKINS_Leblanc_Skin55.png",
+            "socialCardLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/social_card_signature.SKINS_Leblanc_Skin55.png",
+            "tileLCOverlayPath": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Skin55/LCOverlays/splash_tile_signature.SKINS_Leblanc_Skin55.png"
+          }
+        ]
+      }
+    ]
+  },
+  "description": "인내의 수호자로서 네 의무를 기억해라, 르블랑. 너는 전략적이고, 체계적이며 영리한 모든 것의 화신이며, 내 힘을 얻을 자격이 있다고 생각하는 이들을 현혹하는 자다. 우리의 힘. 무엇보다도, 내가 선택한 이들을 시련으로 인도하고 불사대마왕의 이름으로 세상에 영향을 미쳐라.",
+  "wikiSkinData": {
+    "id": 7055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+    "release": "2024-06-12",
+    "set": [
+      "Risen Legends"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Mythclimber": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Hall of Legends Bundle Exclusive"
+      },
+      "Paragon": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Immortalized Legend Collection Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Carrie Keranen"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 115004,
+  "contentId": "91500b30-01ef-4a38-94d0-71fd860b94bf",
+  "isBase": false,
+  "name": "雪球也能爆炸！ 吉格斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin04/Images/ziggs_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin04/Images/ziggs_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin04/Images/ziggs_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Skin04/ZiggsLoadScreen_4.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 46
+    }
+  ],
+  "description": "关于高抛投弹，吉格斯还是有两下子的，而他很乐意给自己放个假，扔几个雪球玩玩。只不过“几个”的意思是成百上千，“球”的意思是带着寒冬死亡气息的爆炸性弧面体。",
+  "wikiSkinData": {
+    "id": 115004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-12-14",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Alessandro Juliani"
+    ],
+    "splashartist": [
+      "James Strehle"
+    ],
+    "lore": "Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death."
+  }
+}

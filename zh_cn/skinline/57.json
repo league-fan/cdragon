@@ -1,0 +1,333 @@
+{
+  "id": 57,
+  "name": "糖果大战",
+  "description": "从姜饼堡到根啤海，从甘草山脉到软糖森林——这是一个处于繁荣时期的糖果王国。",
+  "skins": [
+    {
+      "id": 9007,
+      "name": "糖果使徒 费德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-14",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "As lights go out across the Winterlands in preparation for Snowdown season, something ancient and terrible rises from the darkest corners of the Poro King's lands. Devoid of thought or purpose, it hunts for holiday revelers as if possessed, cutting down anything that crosses its path."
+      }
+    },
+    {
+      "id": 26006,
+      "name": "糖果大战 基兰",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 26006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 10
+          },
+          "Citrine": {
+            "id": 11
+          },
+          "Meteorite": {
+            "id": 12
+          },
+          "Peridot": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 7,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sweet Tooth": {
+            "id": 13,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "For most denizens of Candy Kingdom, there's never enough time to eat all the sweets. For Zilean, there's never enough candy to fill all the time."
+      }
+    },
+    {
+      "id": 28008,
+      "name": "糖果大战 伊芙琳",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 28008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Jasper": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sweet Tooth": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "In a world where every tooth is sweet, Evelynn's sugary bite is deadly."
+      }
+    },
+    {
+      "id": 78002,
+      "name": "波比的巧克力工坊",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 78002,
+        "formatname": "Lollipoppy",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-19",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Kate Higgins"
+        ],
+        "lore": "Lollipoppy is a legend to the people of the Candy Kingdom. Everyone remembers her face. Everyone."
+      }
+    },
+    {
+      "id": 115014,
+      "name": "糖果大战 吉格斯",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 19
+          },
+          "Aquamarine": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 16
+          },
+          "Meteorite": {
+            "id": 22
+          },
+          "Peridot": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 20
+          },
+          "Sweet Tooth": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "The famed Gumball Grenadier, Ziggs, bursts across Candy Kingdom! Everyone knows to enjoy his colorful explosions… from a safe distance."
+      }
+    },
+    {
+      "id": 117001,
+      "name": "糖果女巫 璐璐",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-03-20",
+        "retired": "2017-11-01",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "A candy witch living on the outskirts of the Peppermint Pine Barrens, Lulu's saccharine enchantments are known to grant incredible powers to any who desire them… but only at great cost to their candy soul."
+      }
+    },
+    {
+      "id": 201024,
+      "name": "糖果大战 布隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 29
+          },
+          "Peridot": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sweet Tooth": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "No one knows how Braum manages to never get candy stuck in his majestic mustache. Everyone knows how the great defender stands stalwart for everyone, from the smallest gumdrop to the strongest candy king."
+      }
+    },
+    {
+      "id": 427001,
+      "name": "糖果之王 艾翁",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 427001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-10-04",
+        "earlysale": "2017-02",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "The resplendent ruler of the Candy Kingdom, Ivern is beloved by subjects far and wide. Yet there are those who have seen the monster lurking beneath his jolly frame—and his gnawing hunger for candy flesh that can never be satisfied."
+      }
+    }
+  ]
+}

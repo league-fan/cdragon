@@ -1,0 +1,221 @@
+{
+  "id": 1013,
+  "contentId": "fbc745e9-8b5b-4f04-829a-9d65fe737995",
+  "isBase": false,
+  "name": "福牛守护者 安妮",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Annie/Skins/Skin13/Images/annie_splash_centered_13.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Annie/Skins/Skin13/Images/annie_splash_uncentered_13.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Annie/Skins/Skin13/Images/annie_splash_tile_13.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Annie/Skins/Skin13/AnnieLoadscreen_13.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Annie/Skins/Skin13/AnnieLoadscreen_13_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1013.png",
+  "chromas": [
+    {
+      "id": 1014,
+      "name": "福牛守护者 安妮 贺岁",
+      "contentId": "b2949367-d078-4e01-b52c-2e5e101bfe79",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1014.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2021年期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "name": "福牛守护者 安妮 如意",
+      "contentId": "90bd155f-840b-4f74-8b29-a0fcc2e10c93",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1015.png",
+      "colors": [
+        "#88FF00",
+        "#9B1520"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在福牛守护者(2021)事件期间作为战利品专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 1016,
+      "name": "福牛守护者 安妮 迎春",
+      "contentId": "e4d3ed96-05e6-4f60-9a6e-c1c38a3d3a83",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1016.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "name": "福牛守护者 安妮 进宝",
+      "contentId": "ea790a1c-f4fc-426d-8260-2f3dfa2b4752",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1017.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "name": "福牛守护者 安妮 纳福",
+      "contentId": "0ec90d02-04ad-41e8-bc30-52628bf35709",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1018.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 1019,
+      "name": "福牛守护者 安妮 吉祥",
+      "contentId": "797664b0-6bc2-4fcb-981b-8b968665ba62",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1019.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 1020,
+      "name": "福牛守护者 安妮 团圆",
+      "contentId": "9ec3aa6a-a92c-4ec7-8391-0da49726d9c5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/1/1020.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 2
+        },
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of Ox",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/61.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/61.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 142
+    }
+  ],
+  "description": "当安妮被选为福牛守护者的技术特工时，所有人都震惊了。安妮是一个早熟的神童，职责是团队的侦查战略家，确保巡游路线上没有平民。",
+  "wikiSkinData": {
+    "id": 1013,
+    "availability": "Legacy",
+    "looteligible": true,
+    "set": [
+      "Lunar Beast"
+    ],
+    "cost": 1350,
+    "release": "2021-02-04",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 17
+      },
+      "Citrine": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 14,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 18
+      },
+      "Vitality": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Beast 2021"
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "Everyone was shocked when Annie was chosen as Ox Clan's tech operative. A precocious prodigy, Annie serves as the team's recon strategist, making sure the parade route is clear of civilians."
+  }
+}

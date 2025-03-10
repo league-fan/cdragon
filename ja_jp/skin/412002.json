@@ -1,0 +1,80 @@
+{
+  "id": 412002,
+  "contentId": "0646235a-6057-4f01-88fc-e13a6e4725d7",
+  "isBase": false,
+  "name": "Worlds 2013 スレッシュ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Thresh/Skins/Skin02/Images/thresh_splash_centered_2.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Thresh/Skins/Skin02/Images/thresh_splash_uncentered_2.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Thresh/Skins/Skin02/Images/thresh_splash_tile_2.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Thresh/Skins/Skin02/ThreshLoadScreen_2.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Thresh/Skins/Skin02/ThreshLoadScreen_2_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/412/412002.png",
+  "chromas": [
+    {
+      "id": 412012,
+      "name": "Worlds 2013 スレッシュ",
+      "contentId": "176be0ec-a9c7-465f-b8f2-f00d62bf4eb4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/412/412012.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "Worldsイベント期間中に戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "北アメリカで開催された2013年のWorldsを記念。",
+  "wikiSkinData": {
+    "id": 412002,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-10-03",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      }
+    },
+    "voiceactor": [
+      "Mark Oliver"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "Celebrating Worlds 2013 in North America."
+  }
+}

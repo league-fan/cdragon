@@ -1,0 +1,446 @@
+{
+  "id": 350,
+  "name": "魔法猫咪",
+  "alias": "Yuumi",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/350.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 350000,
+      "name": "魔法猫咪",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 350000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2019-05-14",
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend."
+      }
+    },
+    {
+      "id": 350001,
+      "name": "战斗校长 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-14",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 3
+          },
+          "Formal": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Granite": {
+            "id": 4
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 7
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Following the disappearance of two principals, Yuumi has stepped in as the acting head of Durandal Academy until either individual can be found and re-instated. As a powerful channeler of magic, she uses the academic registry book as a focus object to generate apocalyptic levels of energy… often while perched on a terrified student's head."
+      }
+    },
+    {
+      "id": 350011,
+      "name": "觅心猫猫 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-04",
+        "set": [
+          "Heartbreakers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 15
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Citrine": {
+            "id": 13
+          },
+          "Granite": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Yuumi's always looking for what cats love: a belly full of fish and a warm lap to curl up on. But with the romantic mood captivating even Book, Yuumi knows the only thing to set her heart purring will be a very precise number of pets."
+      }
+    },
+    {
+      "id": 350019,
+      "name": "小蜜蜂 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350019,
+        "formatname": "Yuubee",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rainbow": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          },
+          "Tanzanite": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Hey… there's a bee on you."
+      }
+    },
+    {
+      "id": 350028,
+      "name": "魅惑女巫 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350028,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-07",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 32
+          },
+          "Citrine": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Svetlana Tigai",
+          "West Studio"
+        ],
+        "lore": "Yuumi pierces the protective bubble surrounding her prey, readying a pounce as it plops to the ground. She ponders for a moment: if a pumpkin-cat eats a pumpkin-fish, is that too much pumpkin? Is there even such a thing as too much pumpkin?"
+      }
+    },
+    {
+      "id": 350037,
+      "name": "EDG 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350037,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-12",
+        "set": [
+          "World Champions: 2021"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tenfold Triumph": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Honoring Meiko's winning performance as Yuumi during the 2021 World Championship."
+      }
+    },
+    {
+      "id": 350039,
+      "name": "狗头猫咪 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-06",
+        "set": [
+          "Cats Versus Dogs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 44
+          },
+          "Aquamarine": {
+            "id": 41
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Something about this smol, dainty dog doesn't feel right... Wait, did it just hiss at the audience?"
+      }
+    },
+    {
+      "id": 350049,
+      "name": "人工智能 悠米",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350049,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 55
+          },
+          "Catseye": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Meteorite": {
+            "id": 56
+          },
+          "Nightwire": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Override": {
+            "id": 60,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Anima Squad 2024 Premium Pass Bundle"
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "When Jinx stumbled onto an old Primordian program, she couldn't help but tinker with it, creating what would become the sentient digital cat behind the Anima Squad interface: Yuum.ai! Now inhabiting a shiny new hologram body, everyone's favorite online helper, bug swatter, and demander of head pats can hop into battle alongside her allies."
+      }
+    },
+    {
+      "id": 350050,
+      "name": "至臻 人工智能 悠米",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350050,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 49,
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Bringing your pampered pet as a plus one to A-list events is all the rage, but sometimes you don't want to have to worry about cat hair. No problem, because this latest model of Cyber Cat Yuumi is here to prove that they call it a “catwalk” for a reason!"
+      }
+    }
+  ]
+}

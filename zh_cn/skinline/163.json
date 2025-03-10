@@ -1,0 +1,58 @@
+{
+  "id": 163,
+  "name": "灵魂守卫",
+  "description": "乌迪尔花了将近十年的时间在艾欧尼亚与希拉娜修道院的僧侣们一起训练，学习控制和掌握他的灵力。最后，当弗雷尔卓德召唤他回家时，他选择留下来完成他的训练。从那时起，乌迪尔就成为了艾欧尼亚景观的一部分，无论是在精神领域还是在凡人世界，因为他在与李青和卡尔玛一起努力恢复这片战乱之地的平衡。",
+  "skins": [
+    {
+      "id": 77003,
+      "name": "灵魂守卫 乌迪尔",
+      "rarity": "kUltimate",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 77003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2013-07-16",
+        "set": [
+          "Spirit Guard"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Spirit Tiger",
+        "forms": [
+          "Base",
+          "Tiger",
+          "Turtle",
+          "Bear",
+          "Phoenix"
+        ],
+        "chromas": {
+          "Tiger": {
+            "id": 3
+          },
+          "Turtle": {
+            "id": 3
+          },
+          "Bear": {
+            "id": 3
+          },
+          "Phoenix": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Sean Rohani"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Udyr's time in Ionia, training at Hirana Monastery, taught him control and calmed the storm in his heart. Though the Freljord called him home, Udyr chose to stay and help Ionia regain spiritual harmony, as it had done for him. As he gets closer to this goal, he knows that his work to do the same for the whole of Runeterra has only just begun."
+      }
+    }
+  ]
+}

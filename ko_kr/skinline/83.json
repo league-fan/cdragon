@@ -1,0 +1,75 @@
+{
+  "id": 83,
+  "name": "컬렉터 에디션",
+  "description": "디지털이든 실물이든 컬렉터 에디션 박스에 들어 있다면 무엇이든 더 좋게 느껴집니다.",
+  "skins": [
+    {
+      "id": 10001,
+      "name": "은빛 케일",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Retail Purchase",
+        "cost": "Special",
+        "release": "2009-11-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 12001,
+      "name": "검은 알리스타",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Digital Collector's Edition",
+        "cost": "Special",
+        "release": "2009-06-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 13001,
+      "name": "인간 라이즈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 13001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Retail Collector's edition",
+        "cost": "Special",
+        "release": "2009-07-17",
+        "set": [
+          "Collector's Edition"
+        ],
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Given to players who pre-ordered the Retail Collector's Edition of League of Legends."
+      }
+    }
+  ]
+}

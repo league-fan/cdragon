@@ -1,0 +1,227 @@
+{
+  "id": 115,
+  "name": "Rift Hospital",
+  "description": "Take a seat. The doctor will be right with you.",
+  "skins": [
+    {
+      "id": 84004,
+      "name": "Nurse Akali",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 84004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-01-04",
+        "set": [
+          "Rift Hospital"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 36,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Citrine": {
+            "id": 33,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Emerald": {
+            "id": 35,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Obsidian": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rainbow": {
+            "id": 40,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Mega Donor Bundle"
+          },
+          "Tanzanite": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Hello, nurse! Goodbye, being alive."
+      }
+    },
+    {
+      "id": 85004,
+      "name": "Kennen M.D.",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85004,
+        "formatname": "Kennen M.D.",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-03-29",
+        "set": [
+          "Rift Hospital"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Aquamarine": {
+            "id": 11,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Citrine": {
+            "id": 12,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Obsidian": {
+            "id": 15,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rainbow": {
+            "id": 16,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 9,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Mega Donor Bundle"
+          },
+          "Sapphire": {
+            "id": 14,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "lore": "Why run with scissors when you can throw scalpels?"
+      }
+    },
+    {
+      "id": 98003,
+      "name": "Surgeon Shen",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 98003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-01-04",
+        "voiceactor": [
+          "Keith Silverstein"
+        ],
+        "set": [
+          "Rift Hospital"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Emerald": {
+            "id": 24,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Obsidian": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Pearl": {
+            "id": 28,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rainbow": {
+            "id": 30,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Rose Quartz": {
+            "id": 26,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Mega Donor Bundle"
+          },
+          "Sandstone": {
+            "id": 29,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          },
+          "Sapphire": {
+            "id": 25,
+            "availability": "Limited",
+            "source": "Store",
+            "distribution": "Charity Exclusive"
+          }
+        },
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Rest assured, anesthesia won't be part of the operation."
+      }
+    }
+  ]
+}

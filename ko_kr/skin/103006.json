@@ -1,0 +1,74 @@
+{
+  "id": 103006,
+  "contentId": "ed68050e-fd0a-4f47-abc1-6e4085ba21d5",
+  "isBase": false,
+  "name": "고교 여신 아리",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin06/Images/ahri_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin06/Images/ahri_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin06/Images/ahri_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Skin06/AhriLoadscreen_6.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103006.png",
+  "chromas": [
+    {
+      "id": 103057,
+      "name": "고교 여신 아리",
+      "contentId": "7f515212-444e-406a-9fc4-6c1e5eec7039",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103057.png",
+      "colors": [
+        "#2E38C4",
+        "#C8003F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021 아리의 10번째 생일 이벤트 기간 동안 출시된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 22
+    }
+  ],
+  "description": "징계 공지: 아리는 수업 중 핸드폰 사용, 휴대폰 사용으로 인한 징계회의 중 핸드폰 사용, 휴대폰 사용으로 인한 징계회의 중 탈주 등 반복적으로 학칙을 위반한 바 있어 본교에서 정학 처분이 결정됨을 알려드립니다.",
+  "wikiSkinData": {
+    "id": 103006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-08-26",
+    "earlysale": "2016-01",
+    "set": [
+      "Academy"
+    ],
+    "chromas": {
+      "Ahri-versary": {
+        "id": 57
+      }
+    },
+    "voiceactor": [
+      "Laura Post"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "NOTICE FROM THE DEAN: Ahri is henceforth suspended from Academy grounds for behavior including (but not limited to): use of her phone during class, use of her phone during disciplinary hearings about her phone, and escaping disciplinary hearings about her phone."
+  }
+}

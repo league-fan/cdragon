@@ -1,0 +1,75 @@
+{
+  "id": 83,
+  "name": "珍藏版 ",
+  "description": "無論是實體版或是數位版，珍藏版內容總有一種比較棒的感覺。",
+  "skins": [
+    {
+      "id": 10001,
+      "name": "銀白審判 凱爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Retail Purchase",
+        "cost": "Special",
+        "release": "2009-11-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 12001,
+      "name": "黑色猛牛 亞歷斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Digital Collector's Edition",
+        "cost": "Special",
+        "release": "2009-06-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 13001,
+      "name": "年輕法師 雷茲",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 13001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Retail Collector's edition",
+        "cost": "Special",
+        "release": "2009-07-17",
+        "set": [
+          "Collector's Edition"
+        ],
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Given to players who pre-ordered the Retail Collector's Edition of League of Legends."
+      }
+    }
+  ]
+}

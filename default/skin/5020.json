@@ -1,0 +1,140 @@
+{
+  "id": 5020,
+  "contentId": "505596a0-f08b-4ad0-8f93-17a644380c21",
+  "isBase": false,
+  "name": "Cosmic Defender Xin Zhao",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin20/Images/xinzhao_splash_centered_20.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin20/Images/xinzhao_splash_uncentered_20.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin20/Images/xinzhao_splash_tile_20.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Skin20/XinZhaoLoadscreen_20.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5020.png",
+  "chromas": [
+    {
+      "id": 5021,
+      "name": "Cosmic Defender Xin Zhao",
+      "contentId": "6bd63dbd-d5bd-4dbf-9842-57748af5b502",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5021.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive during 2018."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 5022,
+      "name": "Cosmic Defender Xin Zhao",
+      "contentId": "d7c479e9-c6e8-460d-92b8-7a4d3159e027",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5022.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 5023,
+      "name": "Cosmic Defender Xin Zhao",
+      "contentId": "216208da-8b37-43c1-9a7a-69bae3e550c6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5023.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 5024,
+      "name": "Cosmic Defender Xin Zhao",
+      "contentId": "709ef946-06cf-4f28-a77c-cb07e62db90c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5024.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 5025,
+      "name": "Cosmic Defender Xin Zhao",
+      "contentId": "4ac2ca8f-c9e0-4be6-9d60-291c4ea440ee",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5025.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 43
+    }
+  ],
+  "description": "Great horrors are attracted to the light of newborn stars—from the corruptants of the Dark Star, to squirming, ancient things yet unknown. Xin Zhao is the steadfast protector of these cosmic cradles, driving off any that would devour them.",
+  "wikiSkinData": {
+    "id": 5020,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-21",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Citrine": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 23
+      },
+      "Obsidian": {
+        "id": 22
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 25
+      }
+    },
+    "voiceactor": [
+      "Richard Epcar"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Great horrors are attracted to the light of newborn stars—from the corruptants of the Dark Star, to squirming, ancient things yet unknown. Xin Zhao is the steadfast protector of these cosmic cradles, driving off any that would devour them."
+  }
+}

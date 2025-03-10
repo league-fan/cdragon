@@ -1,0 +1,69 @@
+{
+  "id": 81005,
+  "contentId": "a0638a12-1a65-45e8-9c33-53e85e60c268",
+  "isBase": false,
+  "name": "펄스 건 이즈리얼",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/Images/ezreal_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/Images/ezreal_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/Images/ezreal_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/EzrealLoadscreen_5.jpg",
+  "skinType": "Ultimate",
+  "rarity": "kUltimate",
+  "isLegacy": false,
+  "splashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/AnimatedSplash/Ezreal_Skin5_centered.webm",
+  "collectionSplashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/AnimatedSplash/Ezreal_Skin5_uncentered.webm",
+  "collectionCardHoverVideoPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin05/AnimatedSplash/Ezreal_Skin05_card.webm",
+  "featuresText": "<ul><li>새로운 스킬 효과와 애니메이션</li><li>4단계로 진화하는 모델</li><li>펄스 건 이즈리얼과 시스템 음성</li><li>적 처치 시 특수 효과</li><li>소환사 아이콘</li><li>소환사 정보 휘장</li></ul>",
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 36
+    }
+  ],
+  "description": "시간의 도피자이자 시간 이동을 하는 위대한 탐험가 이즈리얼은 이세계를 넘나들며 흥미로운 기술을 찾아다닙니다. 그 과정에서 수많은 역설을 만들어 낸 탓에 반이상향 요원들이 그를 끈질기게 쫓고 있죠.",
+  "wikiSkinData": {
+    "id": 81005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2012-06-29",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Pulsefire Ezreal",
+    "forms": [
+      "Level 01",
+      "Level 06",
+      "Level 11",
+      "Level 16"
+    ],
+    "chromas": {
+      "Level 06": {
+        "id": 5
+      },
+      "Level 11": {
+        "id": 5
+      },
+      "Level 16": {
+        "id": 5
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman",
+      "Christine Brynn Khalil"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly."
+  }
+}

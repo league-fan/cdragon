@@ -1,0 +1,176 @@
+{
+  "id": 150015,
+  "contentId": "fcc90a5b-c3c9-41e4-9f74-4005d9543cb8",
+  "isBase": false,
+  "name": "Astronaut Gnar",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Gnar/Skins/Skin15/Images/gnar_splash_centered_15.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Gnar/Skins/Skin15/Images/gnar_splash_uncentered_15.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Gnar/Skins/Skin15/Images/gnar_splash_tile_15.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Gnar/Skins/Skin15/GnarLoadscreen_15.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Gnar/Skins/Skin15/GnarLoadscreen_15_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150015.png",
+  "chromas": [
+    {
+      "id": 150016,
+      "name": "Astronaut Gnar",
+      "contentId": "2376f719-cc59-4458-8387-d5a57f890978",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150016.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2020."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 150017,
+      "name": "Astronaut Gnar",
+      "contentId": "ed23f290-3262-44df-b671-60f5fb6e2598",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150017.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 150018,
+      "name": "Astronaut Gnar",
+      "contentId": "1fe5fed1-504f-47a4-9341-e1bdb33723de",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150018.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 150019,
+      "name": "Astronaut Gnar",
+      "contentId": "c5c6e2ff-6342-45d6-840c-93f87c97a484",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150019.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 150020,
+      "name": "Astronaut Gnar",
+      "contentId": "8a1ac71d-23b4-4834-b4ea-4d5414ff4e3a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150020.png",
+      "colors": [
+        "#85827F",
+        "#85827F"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 150021,
+      "name": "Astronaut Gnar",
+      "contentId": "24535047-5931-41f5-ab26-aebcc721a5e9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150021.png",
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 94
+    }
+  ],
+  "description": "Gnar knew he should be focusing on the mission at hand, but the strange little creatures he encountered on the planet's surface captivated his attention (and kept his wrath at bay… for now).",
+  "wikiSkinData": {
+    "id": 150015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-05-28",
+    "set": [
+      "Astronauts"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 19
+      },
+      "Catseye": {
+        "id": 17
+      },
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      },
+      "Granite": {
+        "id": 20
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "splashartist": [
+      "David Villegas",
+      "West Studio"
+    ],
+    "voiceactor": [
+      "Dorothy Fahn",
+      "Lucien Dodge"
+    ],
+    "lore": "Gnar knew he should be focusing on the mission at hand, but the strange little creatures he encountered on the planet's surface captivated his attention (and kept his wrath at bay… for now)."
+  }
+}

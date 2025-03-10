@@ -1,0 +1,80 @@
+{
+  "id": 238010,
+  "contentId": "de361d2f-2595-494d-af5f-07289b9d3fb3",
+  "isBase": false,
+  "name": "Worlds 2016 Zed",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin10/Images/zed_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin10/Images/zed_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin10/Images/zed_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin10/ZedLoadscreen_10.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin10/ZedLoadscreen_10_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238010.png",
+  "chromas": [
+    {
+      "id": 238012,
+      "name": "Worlds 2016 Zed",
+      "contentId": "663bd2e7-cace-417f-941d-e2031d572fe5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238012.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a Loot exclusive during a Worlds event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "Celebrating Worlds 2016 in North America.",
+  "wikiSkinData": {
+    "id": 238010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-09-25",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Celebrating Worlds 2016 in North America."
+  }
+}

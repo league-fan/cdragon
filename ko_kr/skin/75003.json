@@ -1,0 +1,106 @@
+{
+  "id": 75003,
+  "contentId": "3b43c0ec-d543-4b79-b798-106d297d1b1e",
+  "isBase": false,
+  "name": "공포의 기사 나서스",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Nasus/Skins/Skin03/Images/nasus_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Nasus/Skins/Skin03/Images/nasus_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Nasus/Skins/Skin03/Images/nasus_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Nasus/Skins/Skin03/NasusLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75003.png",
+  "chromas": [
+    {
+      "id": 75007,
+      "name": "공포의 기사 나서스 역병",
+      "contentId": "4ab73b51-d95b-47db-8fc3-31bbd6e9a3b8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75007.png",
+      "colors": [
+        "#6F1819",
+        "#252C4C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 75008,
+      "name": "공포의 기사 나서스 역병",
+      "contentId": "902a6095-1d02-4254-b041-ce486e23bef9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75008.png",
+      "colors": [
+        "#388F25",
+        "#3E2245"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 75009,
+      "name": "공포의 기사 나서스 역병",
+      "contentId": "02e8c2b8-46ef-4698-9e69-5b578426e2ca",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75009.png",
+      "colors": [
+        "#4AB8C2",
+        "#535381"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 123
+    }
+  ],
+  "description": "공포의 기사 나서스는 주인의 미로 같은 지하 도서관 깊숙이 잠들어 있는 책을 수호합니다. 소문에 의하면 그 안에는 공포의 기사들을 파멸로 이끄는 비밀이 적혀 있다고 하지만, 그것이 사실인지 아닌지 살아서 확인한 자는 아직 없습니다.",
+  "wikiSkinData": {
+    "id": 75003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-04-26",
+    "set": [
+      "Dreadknights"
+    ],
+    "chromas": {
+      "Blight": {
+        "id": 8
+      },
+      "Burn": {
+        "id": 7
+      },
+      "Frostbite": {
+        "id": 9
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Erik Todd Dellums"
+    ],
+    "lore": "Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable."
+  }
+}

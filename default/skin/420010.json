@@ -1,0 +1,175 @@
+{
+  "id": 420010,
+  "contentId": "eaa2fa13-0c24-4c08-a7b8-e9e330fd1d3c",
+  "isBase": false,
+  "name": "Cosmic Invoker Illaoi",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Illaoi/Skins/Skin10/Images/illaoi_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Illaoi/Skins/Skin10/Images/illaoi_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Illaoi/Skins/Skin10/Images/illaoi_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Illaoi/Skins/Skin10/IllaoiLoadScreen_10.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420010.png",
+  "chromas": [
+    {
+      "id": 420011,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "65d73d59-b691-4e46-8bb9-fd477413a0cc",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420011.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2020."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 420012,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "b6ecd75a-54d5-44a7-8011-8ae690c73972",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420012.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 420013,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "e5db2856-1789-477e-a69d-02a20970c7c1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420013.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 420014,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "c00713b1-40d0-4bcd-acf6-aa7a875d291d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420014.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 420015,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "a6b9aa6f-84ad-4c79-b3f6-5d007ca4a696",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420015.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 420016,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "353141f8-d5a3-4f81-823b-2d392fddcbe0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420016.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 420017,
+      "name": "Cosmic Invoker Illaoi",
+      "contentId": "8f0dfe8e-fe1b-40ba-8600-52cbc1b32c98",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/420/420017.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 43
+    }
+  ],
+  "description": "An entity who carries the raw power of cosmic creation in her hands, Illaoi can slam the orb she holds into the very fabric of reality, allowing time to flow forward even in places where life has been eradicated.",
+  "wikiSkinData": {
+    "id": 420010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-11-24",
+    "set": [
+      "Cosmic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Citrine": {
+        "id": 12
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Obsidian": {
+        "id": 17
+      },
+      "Rose Quartz": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "Rolonda Watts"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "An entity who carries the raw power of cosmic creation in her hands, Illaoi can slam the orb she holds into the very fabric of reality, allowing time to flow forward even in places where life has been eradicated."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": 16037,
+  "contentId": "525ba37e-e73f-4f5f-beea-fcbb870d1c50",
+  "isBase": false,
+  "name": "Immortal Journey Soraka",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin37/Images/soraka_splash_centered_37.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin37/Images/soraka_splash_uncentered_37.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin37/Images/soraka_splash_tile_37.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin37/SorakaLoadScreen_37.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin37/SorakaLoadScreen_37_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16037.png",
+  "chromas": [
+    {
+      "id": 16038,
+      "name": "Immortal Journey Soraka",
+      "contentId": "ea990b97-4865-421b-adbc-30c6fd8c907d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16038.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2023."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 16039,
+      "name": "Immortal Journey Soraka",
+      "contentId": "72a97ca0-a2aa-4347-b486-db5f4267e71d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16039.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 16040,
+      "name": "Immortal Journey Soraka",
+      "contentId": "9a6fc475-721e-4a17-9be8-7ed1bf6a19b5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16040.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 16041,
+      "name": "Immortal Journey Soraka",
+      "contentId": "4b08a257-4752-4baa-a3a5-75dc20423e41",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16041.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 16042,
+      "name": "Immortal Journey Soraka",
+      "contentId": "a276cd38-0baa-4801-82df-4c655a668df7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16042.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 16043,
+      "name": "Immortal Journey Soraka",
+      "contentId": "83b5b3c7-cf7d-499c-9398-9b6499f9a6f6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/16/16043.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 81
+    }
+  ],
+  "description": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way.",
+  "wikiSkinData": {
+    "id": 16037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2023-08-16",
+    "set": [
+      "Immortal Journey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 42
+      },
+      "Pearl": {
+        "id": 41
+      },
+      "Rose Quartz": {
+        "id": 39
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 43
+      },
+      "Turquoise": {
+        "id": 40
+      }
+    },
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way."
+  }
+}

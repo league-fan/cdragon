@@ -1,0 +1,159 @@
+{
+  "id": 85008,
+  "contentId": "72fe445c-b927-4396-b8b7-23f2e20872ba",
+  "isBase": false,
+  "name": "지옥의 케넨",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin08/Images/kennen_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin08/Images/kennen_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin08/Images/kennen_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Skin08/KennenLoadscreen_8.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85008.png",
+  "chromas": [
+    {
+      "id": 85017,
+      "name": "지옥의 케넨",
+      "contentId": "0457091a-f5e7-4c4e-ad2e-1283f04c00b1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85017.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 85018,
+      "name": "지옥의 케넨",
+      "contentId": "08282d2f-2651-47a4-9c9a-adab9291b84e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85018.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 85019,
+      "name": "지옥의 케넨",
+      "contentId": "5be513c0-326b-44e0-88fd-f790b19886a2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85019.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 85020,
+      "name": "지옥의 케넨",
+      "contentId": "0bce760b-bb73-4fef-afba-bc164f9aead9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85020.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 85021,
+      "name": "지옥의 케넨",
+      "contentId": "c08c8e45-9510-4b9b-8095-dc83370da319",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85021.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 85022,
+      "name": "지옥의 케넨",
+      "contentId": "0820adf2-c32e-4eb4-a8e8-93af7cabc203",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/85/85022.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 86
+    }
+  ],
+  "description": "장난기 많은 불의 정령 케넨은 사악한 존재가 아니지만, 빠르게 돌아다니는 동안 주체하지 못하고 주변에 불을 냅니다. 번개처럼 빠른 개구쟁이 정령 케넨의 호기심을 자극하는 비운의 마을에는 어김없이 재앙이 닥쳐옵니다.",
+  "wikiSkinData": {
+    "id": 85008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 17
+      },
+      "Rainbow": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A playful spirit of fire, Kennen is not a malevolent being, but can't help igniting his surroundings while zipping about. His lightning quick movements wreak havoc upon any village unfortunate enough to entice the impish spirit to visit."
+  }
+}

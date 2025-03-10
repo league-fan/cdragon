@@ -1,0 +1,545 @@
+{
+  "id": 152,
+  "name": "아케인",
+  "description": "",
+  "skins": [
+    {
+      "id": 19056,
+      "name": "아케인 밴더 워윅",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 19056,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Paragon": {
+            "id": 57,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Mo Yan"
+        ],
+        "lore": "Many in Zaun mourned Vander, even as the undercity fell deeper into corruption. No one could have ever known that he still lived, his shimmer-twisted body hidden deep within Singed's lab. Revived as a tormented beast of primal rage, the monster Warwick was unleashed on the world. But if a fragment of his humanity still lives... can Vander be saved?"
+      }
+    },
+    {
+      "id": 27028,
+      "name": "아케인 시머 실험실 신지드",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 27028,
+        "availability": "Limited",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "Reward for completing all three acts for the 'Jinx Fixes Everything' minigame",
+        "release": "2024-11-26",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Singed's experiments spit in the face of scientific ethics, each unleashing a new terror onto Zaun. But there is a method to Singed's madness. To make strides in the field of science, one must be willing to do whatever it takes, no matter the cost—and he is happy to pay the price."
+      }
+    },
+    {
+      "id": 51028,
+      "name": "아케인 집행자 케이틀린",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 51028,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-11-22",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 51050,
+      "name": "아케인 사령관 케이틀린",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 51050,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-11-20",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Paragon": {
+            "id": 52,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Driven by a newfound desire for revenge, Caitlyn's principles have crumbled, leaving no room for hope or peace as tensions with Zaun continue to escalate. Her single-minded focus is on bringing Jinx to justice. But beneath the grief and guilt, doubt begins to creep in: is the cost of vengeance truly worth it?"
+      }
+    },
+    {
+      "id": 51051,
+      "name": "프레스티지 아케인 사령관 케이틀린",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 51051,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-11-20",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 50,
+        "chromas": {
+          "Stellar": {
+            "id": 53,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Arcane 2024 Premium Pass Bundle"
+          }
+        },
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "As scion of the Kiramman family, Caitlyn knows how to command respect from the moment she enters a room—not only with her sharp appearance, but her even-sharper gaze as well. Having climbed the ranks to lead the city's enforcers, she makes an even stronger asset to the future of Piltover."
+      }
+    },
+    {
+      "id": 74033,
+      "name": "아케인 하이머딩거 교수",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74033,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Paragon": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Dennis Collins Johnson"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "After his dismissal from the Piltover Council, Heimerdinger has been busy working on what matters most: the Anomaly and its effects on Zaun. Working together with Jayce and Ekko—his two protégés—Heimerdinger may finally be starting to see the full potential of magic."
+      }
+    },
+    {
+      "id": 112024,
+      "name": "아케인 구원자 빅토르",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 112024,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Viktor wanted nothing to do with hextech after the death of his assistant, Sky—but the arcane had different plans for him. In the undercity, he found a new purpose as a healer thanks to the hexcore's effect on him. Now he hopes to show everyone the true power and promise of hextech, should they choose to accept it."
+      }
+    },
+    {
+      "id": 126024,
+      "name": "아케인 발명가 제이스",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126024,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-11-08",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 126035,
+      "name": "아케인 생존자 제이스",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126035,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-11-20",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Alsie Lau"
+        ],
+        "lore": "Jayce Talis faces a nightmarish possibility: the end of progress. The arcane transformed him, upending his world. Even his hextech hammer feels altered, wielding the weight of a gavel against threats to the future. What he has seen left him bloodied, what he survived nearly broke him—but he remains determined to keep a promise only he can fulfill."
+      }
+    },
+    {
+      "id": 222037,
+      "name": "아케인 적대자 징크스",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222037,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-11-24",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 222060,
+      "name": "아케인 분열 징크스",
+      "rarity": "kExalted",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222060,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "transforming": true,
+        "forms": [
+          "Hero",
+          "Tinkerer",
+          "Menace"
+        ],
+        "chromas": {
+          "Tinkerer": {
+            "id": 60
+          },
+          "Menace": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Inventor, maniac, hero—Jinx left the twin cities reeling after killing Silco and blowing up the Piltover Council. Her future had gone up in flames, and as she faced the pieces of her fractured life, Jinx did the same. Now a symbol of change, she must decide who she will become in a world shaped by her own chaos."
+      }
+    },
+    {
+      "id": 245036,
+      "name": "아케인 점화단 에코",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 245036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-02-17",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 40
+          },
+          "Citrine": {
+            "id": 41
+          },
+          "Obsidian": {
+            "id": 43
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 38
+          },
+          "Tanzanite": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Antony Del Rio"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 245057,
+      "name": "아케인 최후의 저항 에코",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 245057,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Paragon": {
+            "id": 58,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Antony Del Rio"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "While the future of Piltover and Zaun is unclear, one thing remains constant—Ekko's dedication to those he loves, and to the future of Zaun. Armed with his Z-Drive, he is ready to fight for that future, even if the odds are stacked against him. Luckily, the boy savior still has a few tricks up his sleeve…"
+      }
+    },
+    {
+      "id": 254029,
+      "name": "아케인 지하도시 바이",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 254029,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-11-15",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cia Court"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 254048,
+      "name": "아케인 싸움꾼 바이",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 254048,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-11-20",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Cia Court"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "As night falls in Zaun, the roar of the crowd rises from the underground cage fights. Bets are placed and money changes hands as brawlers fight their way to their next meal. Lately, a new fighter has been making a name for herself, an undefeated champion with bruised knuckles and a chip on her shoulder…"
+      }
+    },
+    {
+      "id": 800001,
+      "name": "아케인 의원 멜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 800001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-01-23",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 5
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Tanzanite": {
+            "id": 4
+          },
+          "Turquoise": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Toks Olagundoye"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Mel Medarda has always had a keen eye for potential—and in hextech, she saw power that would forever alter the face of Piltover. For most, this technology would be unobtainable, but with her influence on the Council, nothing escapes her grasp. With hextech at her fingertips, there is no telling what she'll be able to accomplish."
+      }
+    }
+  ]
+}

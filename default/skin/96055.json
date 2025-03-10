@@ -1,0 +1,950 @@
+{
+  "id": 96055,
+  "contentId": "8591f637-0f70-48d7-b259-8350797e999b",
+  "isBase": false,
+  "name": "Victorious Kog'Maw",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin55/Images/kogmaw_splash_centered_55.SKINS_KogMaw_Skin55.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin55/Images/kogmaw_splash_uncentered_55.SKINS_KogMaw_Skin55.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin55/Images/kogmaw_splash_tile_55.SKINS_KogMaw_Skin55.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin55/KogMawLoadScreen_55.SKINS_KogMaw_Skin55.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96055.png",
+  "chromas": [
+    {
+      "id": 96056,
+      "name": "Victorious Kog'Maw",
+      "contentId": "26948125-bff0-43a3-ab04-d0e3c4728da2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96056.png",
+      "colors": [
+        "#764D43",
+        "#764D43"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 1000 Split Points and reached Bronze rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96057,
+      "name": "Victorious Kog'Maw",
+      "contentId": "c1ba6774-e20d-4d06-95c6-803a5fe75896",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96057.png",
+      "colors": [
+        "#AAB5BA",
+        "#AAB5BA"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 1000 Split Points and reached Silver rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96058,
+      "name": "Victorious Kog'Maw",
+      "contentId": "6ad92c85-bf4a-4359-a1fb-2327246e2ab5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96058.png",
+      "colors": [
+        "#D9C445",
+        "#D9C445"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Gold rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96059,
+      "name": "Victorious Kog'Maw",
+      "contentId": "9fc752e5-4bb9-4194-84b3-72792d9da065",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96059.png",
+      "colors": [
+        "#55CDE5",
+        "#55CDE5"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Platinum rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96060,
+      "name": "Victorious Kog'Maw",
+      "contentId": "83a85c45-680a-4af0-bfd9-52e5accf3240",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96060.png",
+      "colors": [
+        "#26854C",
+        "#26854C"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Emerald rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96061,
+      "name": "Victorious Kog'Maw",
+      "contentId": "a8ef0984-358e-4d23-98c8-2408a0a47710",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96061.png",
+      "colors": [
+        "#65337F",
+        "#65337F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Diamond rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 3
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96062,
+      "name": "Victorious Kog'Maw",
+      "contentId": "7682827d-aa6d-4a07-b3aa-4ea62e44f663",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96062.png",
+      "colors": [
+        "#9D228D",
+        "#9D228D"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Master rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96063,
+      "name": "Victorious Kog'Maw",
+      "contentId": "7e9f3b77-f268-47e0-a175-4fe886ac2da9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96063.png",
+      "colors": [
+        "#B31316",
+        "#B31316"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Grandmaster rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 5
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 96064,
+      "name": "Victorious Kog'Maw",
+      "contentId": "822ac304-e814-4ba7-bc20-6f1166082034",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/96/96064.png",
+      "colors": [
+        "#1D62C8",
+        "#1D62C8"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This Chroma was awarded to players who accumulated at least 80 Split Points and reached Challenger rank in any Summoner's Rift ranked queue in Season 2024 - Split 1"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 5
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 7
+    }
+  ],
+  "skinAugments": {
+    "borders": {
+      "layer0": [
+        {
+          "contentId": "108bf582-5589-44c5-a382-a76ebccb58e2",
+          "layer": 0,
+          "priority": 0,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "335fbd89-ca4e-473b-91a5-b062f8b96d6f",
+          "layer": 0,
+          "priority": 1,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "ae122cb4-6ab9-407f-bb61-718cad89dadd",
+          "layer": 0,
+          "priority": 2,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "4870facb-c97e-4d1f-a89d-41780b6fb6d1",
+          "layer": 0,
+          "priority": 3,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "bef3a364-1ae3-47e3-ad5e-a1e95e29fb8f",
+          "layer": 0,
+          "priority": 4,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "5ea34080-865f-4482-b065-512469483ac1",
+          "layer": 0,
+          "priority": 5,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "b097c67a-06ba-481f-947a-6966f42db4d9",
+          "layer": 0,
+          "priority": 6,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "29db5992-c6e6-4213-b532-0d9d13118206",
+          "layer": 0,
+          "priority": 7,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "5ccb0c28-3831-4f8e-a4b9-d3d13d59af39",
+          "layer": 0,
+          "priority": 8,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "1871cf1c-48ad-40e1-9577-5a0c3b8b2960",
+          "layer": 0,
+          "priority": 9,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+        }
+      ]
+    }
+  },
+  "description": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth.",
+  "wikiSkinData": {
+    "id": 96055,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 1.",
+    "release": "2024-05-17",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 56,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Challenger": {
+        "id": 64,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Diamond": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Emerald": {
+        "id": 60,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Gold": {
+        "id": 58,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Grandmaster": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Master": {
+        "id": 62,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Platinum": {
+        "id": 59,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      },
+      "Silver": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 1"
+      }
+    },
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth."
+  }
+}

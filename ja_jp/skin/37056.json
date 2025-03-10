@@ -1,0 +1,950 @@
+{
+  "id": 37056,
+  "contentId": "d3d6f524-933b-48b1-90da-d5f42db9bf18",
+  "isBase": false,
+  "name": "勝利の栄光ソナ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin56/Images/sona_splash_centered_56.SKINS_Sona_Skin56.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin56/Images/sona_splash_uncentered_56.SKINS_Sona_Skin56.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin56/Images/sona_splash_tile_56.SKINS_Sona_Skin56.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin56/SonaLoadScreen_56.SKINS_Sona_Skin56.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37056.png",
+  "chromas": [
+    {
+      "id": 37057,
+      "name": "勝利の栄光ソナ",
+      "contentId": "cc7dedc5-cc93-460c-84af-26ad26f1e95a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37057.png",
+      "colors": [
+        "#764D43",
+        "#764D43"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計1000スプリットポイント以上を獲得し、ブロンズランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37058,
+      "name": "勝利の栄光ソナ",
+      "contentId": "3d4bac4a-5451-4396-9543-cee2623a3ea1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37058.png",
+      "colors": [
+        "#AAB5BA",
+        "#AAB5BA"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計1000スプリットポイント以上を獲得し、シルバーランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37059,
+      "name": "勝利の栄光ソナ",
+      "contentId": "c1c96856-eb6c-41d8-98eb-f57457a2a6a4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37059.png",
+      "colors": [
+        "#D9C445",
+        "#D9C445"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、ゴールドランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37060,
+      "name": "勝利の栄光ソナ",
+      "contentId": "55200faf-2519-41e9-8521-04b21d5ccb4e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37060.png",
+      "colors": [
+        "#55CDE5",
+        "#55CDE5"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、プラチナランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37061,
+      "name": "勝利の栄光ソナ",
+      "contentId": "aaa6fd8f-75df-4644-8c4b-5fbfd903d6bc",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37061.png",
+      "colors": [
+        "#26854C",
+        "#26854C"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、エメラルドランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37062,
+      "name": "勝利の栄光ソナ",
+      "contentId": "9a1a790b-702c-410e-a3ce-0d498fc01bc8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37062.png",
+      "colors": [
+        "#65337F",
+        "#65337F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、ダイヤモンドランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 3
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37063,
+      "name": "勝利の栄光ソナ",
+      "contentId": "e2ec580a-94e4-458d-8e34-4f657fcf783a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37063.png",
+      "colors": [
+        "#9D228D",
+        "#9D228D"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、マスターランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37064,
+      "name": "勝利の栄光ソナ",
+      "contentId": "56de5202-abf8-4534-9b64-65ea684ac3b9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37064.png",
+      "colors": [
+        "#B31316",
+        "#B31316"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、グランドマスターランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 5
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37065,
+      "name": "勝利の栄光ソナ",
+      "contentId": "47a2e908-4606-4ba5-8928-cfa9b3e448fd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37065.png",
+      "colors": [
+        "#1D62C8",
+        "#1D62C8"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "シーズン2024 - スプリット2において、サモナーズリフトのいずれかのランクキューで累計80スプリットポイント以上を獲得し、チャレンジャーランクに到達したプレイヤーに授与。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 5
+        }
+      ],
+      "skinAugments": {
+        "borders": {
+          "layer0": [
+            {
+              "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+              "layer": 0,
+              "priority": 0,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+              "layer": 0,
+              "priority": 1,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+              "layer": 0,
+              "priority": 2,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+              "layer": 0,
+              "priority": 3,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+              "layer": 0,
+              "priority": 4,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+              "layer": 0,
+              "priority": 5,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+              "layer": 0,
+              "priority": 6,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+              "layer": 0,
+              "priority": 7,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+              "layer": 0,
+              "priority": 8,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+            },
+            {
+              "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+              "layer": 0,
+              "priority": 9,
+              "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 7
+    }
+  ],
+  "skinAugments": {
+    "borders": {
+      "layer0": [
+        {
+          "contentId": "2d46b649-9330-474d-a4c4-c9c2087bfe13",
+          "layer": 0,
+          "priority": 0,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Iron.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "765c5e40-a9ab-4f51-ab6b-aa646c409135",
+          "layer": 0,
+          "priority": 1,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Bronze.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "7ddd4cce-8517-470f-b111-2ddd680d0654",
+          "layer": 0,
+          "priority": 2,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Silver.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "d2398e32-b161-4ce7-ba79-6aee571c3c79",
+          "layer": 0,
+          "priority": 3,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Gold.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "3b990708-8848-4b7b-ac67-a05c120b85fd",
+          "layer": 0,
+          "priority": 4,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Platinum.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "1cce3040-4541-4ab5-955d-c56dafa3e63c",
+          "layer": 0,
+          "priority": 5,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Emerald.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "ff623ab7-593d-4996-84f2-9018630f2312",
+          "layer": 0,
+          "priority": 6,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Diamond.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "570d327e-7ebd-4342-b108-3e7b9f3b932d",
+          "layer": 0,
+          "priority": 7,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Master.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "f8ab9496-d957-4987-b0da-5f749aedab33",
+          "layer": 0,
+          "priority": 8,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Grandmaster.Season2024RankedRewards.png"
+        },
+        {
+          "contentId": "060dddac-b9f2-45c5-a056-e4bd5490f340",
+          "layer": 0,
+          "priority": 9,
+          "borderPath": "/lol-game-data/assets/ASSETS/Rewards/Ranked/Season2024EOS/Season2024EOS_Victorious_Border_Challenger.Season2024RankedRewards.png"
+        }
+      ]
+    }
+  },
+  "description": "勝利の栄光ソナは、ランク戦で十分なスプリットポイントを得たプレイヤーが獲得できる。無防備な者にメロディで癒しの錯覚を与えて引き寄せるソナは、味方を死の淵から救い出すのと同じ素早さで、敵をグランドフィナーレへと導く。",
+  "wikiSkinData": {
+    "id": 37056,
+    "availability": "Limited",
+    "looteligible": false,
+    "cost": "Special",
+    "distribution": "Reward for earning split points in Season 2024 - Split 2.",
+    "release": "2024-10-10",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Bronze": {
+        "id": 57,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Challenger": {
+        "id": 65,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Diamond": {
+        "id": 62,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Emerald": {
+        "id": 61,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Gold": {
+        "id": 59,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Grandmaster": {
+        "id": 64,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Master": {
+        "id": 63,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Platinum": {
+        "id": 60,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      },
+      "Silver": {
+        "id": 58,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2024 - Split 2"
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Santiago Parra",
+      "Pandart Studio"
+    ],
+    "lore": "Victorious Sona was earned by players who accumulated enough split points in Ranked. Luring the unsuspecting into a false sense of ease with her melodies, Sona is as quick to pluck her allies from the brink of death as she is to send her foes to their grand finale."
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": 105016,
+  "contentId": "6425b461-3b1c-45c3-88bb-e15ec99adb3d",
+  "isBase": false,
+  "name": "ちび悪魔フィズ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin16/Images/fizz_splash_centered_16.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin16/Images/fizz_splash_uncentered_16.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin16/Images/fizz_splash_tile_16.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin16/FizzLoadscreen_16.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105016.png",
+  "chromas": [
+    {
+      "id": 105017,
+      "name": "ちび悪魔フィズ",
+      "contentId": "f64da990-a869-447b-b60e-8f0bf698d0df",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105017.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 105018,
+      "name": "ちび悪魔フィズ",
+      "contentId": "437ce1cd-1e30-4405-a069-bfca89899076",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105018.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 105019,
+      "name": "ちび悪魔フィズ",
+      "contentId": "d64df8a5-7b9a-4095-985e-27b81e35b36a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105019.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 105020,
+      "name": "ちび悪魔フィズ",
+      "contentId": "ad79f8fd-9e1c-4a19-9263-289083d94f65",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105020.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 105021,
+      "name": "ちび悪魔フィズ",
+      "contentId": "284f3478-3252-47e5-95ec-6f1cc63764a5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105021.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 105022,
+      "name": "ちび悪魔フィズ",
+      "contentId": "2e22d78a-8d16-41ff-8dc5-437b83c5d3b5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105022.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 105023,
+      "name": "ちび悪魔フィズ",
+      "contentId": "df45bee0-971b-4189-b796-79200f7a7f9a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105023.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 105024,
+      "name": "ちび悪魔フィズ",
+      "contentId": "dc322f82-45e9-4257-a4c5-5ff9fe7f63db",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105024.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 116
+    }
+  ],
+  "description": "海には悪魔が潜んでいる。",
+  "wikiSkinData": {
+    "id": 105016,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-22",
+    "set": [
+      "Demonic"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 23
+      },
+      "Emerald": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 20
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 18
+      },
+      "Ruby": {
+        "id": 21,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 24
+      },
+      "Tanzanite": {
+        "id": 17
+      }
+    },
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Lucas Parolin",
+      "West Studio"
+    ],
+    "lore": "Sea's a dwelling place for demons."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": 50,
+  "name": "심판자",
+  "description": "수호군은 불가피해 보이는 마법군단의 부상을 늦추기 위해 엄격하고 무자비한 법률을 집행하는 데 전념하던 조직이었습니다. 비록 수호군은 오래전에 해체했지만, 이제 심판자들은 고대의 적이 남긴 후손들을 공격할 기회를 기다리며 무장합니다.",
+  "skins": [
+    {
+      "id": 15007,
+      "name": "심판자 시비르",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-02-17",
+        "set": [
+          "Warden"
+        ],
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "lore": "The Wardens, like the Protectorate before them, cannot rely on innumerable conquered peoples to bolster its military as the Marauders do. Sivir, a skilled sellsword, was sworn into the order's ranks, only to take up the cause in earnest when she learned the organization's true purpose."
+      }
+    },
+    {
+      "id": 24012,
+      "name": "심판자 잭스",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-09-30",
+        "earlysale": "2016-03",
+        "set": [
+          "Warden"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A lone Warden claims to have lived since the destruction of the original Protectorate. While few records can back up his claims, Jax believes the Rune War began with the failure of a legal body founded to curtail political power—when this institute faltered, the fate of all was sealed."
+      }
+    },
+    {
+      "id": 43005,
+      "name": "심판자 카르마",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 43005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-09-30",
+        "earlysale": "2016-04",
+        "set": [
+          "Warden"
+        ],
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "The Protectorate was an order dedicated to enforcing a rigid, unforgiving system of laws, in an attempt to slow the seemingly inevitable rise of the Magelords. Though the order itself was disbanded long ago, Wardens such as Karma still uphold its tenets… and guard its many secrets."
+      }
+    },
+    {
+      "id": 79011,
+      "name": "심판자 그라가스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 79011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-07",
+        "set": [
+          "Warden"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 17
+          },
+          "Citrine": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Peridot": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Turquoise": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "J.S. Gilbert"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The Wardens are a sect of those who choose to don the armor of the Protectorate. Wardens hail from all corners of the world; so long as one holds fast to one's pledge, then one is a Warden. Gragas found purpose in this calling, and found camaraderie in his fellow Wardens, who welcomed him—all of him—with open arms."
+      }
+    },
+    {
+      "id": 111004,
+      "name": "심판자 노틸러스",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 111004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-02-17",
+        "earlysale": "2015-12",
+        "set": [
+          "Warden"
+        ],
+        "lore": "Shock troopers such as Nautilus bound their souls to suits of ancient Warden armor, becoming one with the powerful enchantments worked into the metal. Few of these suits now remain, though their method of creation seems to have been closely tied to a cataclysmic event known only as the Rune War."
+      }
+    },
+    {
+      "id": 133005,
+      "name": "심판자 퀸",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 133005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-01-07",
+        "set": [
+          "Warden"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 7
+          },
+          "Tanzanite": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Lauren Mayhew"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "The Protectorate of old gained its power from bonds: bonds between comrades, bonds to armor, bonds to its edicts. Quinn follows in the footsteps of her ancestors, having forged a bond with a familiar she has named Valor, in honor of the Protectorate's central tenet."
+      }
+    }
+  ]
+}

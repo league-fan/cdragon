@@ -1,0 +1,169 @@
+{
+  "id": 145040,
+  "contentId": "7bae2026-7b6d-4334-8edd-c802b239fcad",
+  "isBase": false,
+  "name": "星光戰士 凱莎",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/Images/kaisa_splash_centered_40.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/Images/kaisa_splash_uncentered_40.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/Images/kaisa_splash_tile_40.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/KaisaLoadscreen_40.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin40/KaisaLoadscreen_40_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145040.png",
+  "chromas": [
+    {
+      "id": 145041,
+      "name": "星光戰士｜焰紅 凱莎",
+      "contentId": "79af9197-e38c-4e8b-b8a3-cad2083adc9c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145041.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2022 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 145042,
+      "name": "星光戰士｜琥珀黃 凱莎",
+      "contentId": "762f5a7b-694c-4db6-afd1-dbecdfae5761",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145042.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145043,
+      "name": "星光戰士｜碧藍 凱莎",
+      "contentId": "8b94813d-6872-481f-bd22-7db4cd201948",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145043.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145044,
+      "name": "星光戰士｜翡翠 凱莎",
+      "contentId": "b0ea9dfc-f235-4035-af79-d7c2cbe5b480",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145044.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145045,
+      "name": "星光戰士｜紺紫 凱莎",
+      "contentId": "b1e7a1d3-bbb5-44b9-a084-24c1bd1967a8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145045.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 145046,
+      "name": "星光戰士｜璀璨 凱莎",
+      "contentId": "3e721285-ec53-46ce-8475-8218e5a83d8a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145046.png",
+      "colors": [
+        "#FDA4DA",
+        "#9DE5FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2022 星光戰士活動期間以戰利品限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 161
+    }
+  ],
+  "description": "身為一位天生具有戰術頭腦的領導者，凱莎非常認真地對待自己作為隊長的工作……有時候或許認真過頭了。盡管如此，她的隊員十分尊重她的指揮，就算是最危險的任務也願意跟隨她出生入死。她在隊伍中負責狙擊高優先度目標，再用星光之力驅動的導彈掃蕩剩下的敵人。",
+  "wikiSkinData": {
+    "id": 145040,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-07-14",
+    "set": [
+      "Star Guardian Season 4"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 43
+      },
+      "Brilliant": {
+        "id": 46,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Star Guardian 2022"
+      },
+      "Catseye": {
+        "id": 42
+      },
+      "Emerald": {
+        "id": 44
+      },
+      "Ruby": {
+        "id": 41,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 45
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Jeremy 'Jermu' Anninos"
+    ],
+    "lore": "A born leader with a head for tactics, Kai'Sa takes her job as captain extremely seriously... perhaps too much for her own good. Still, her squad respects her command and will follow her into even the most dangerous missions, where she'll snipe priority targets and spray the rest with payloads of starlight-powered missiles."
+  }
+}

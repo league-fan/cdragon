@@ -1,0 +1,76 @@
+{
+  "id": 51010,
+  "contentId": "b20d30f2-d3a3-4453-a1a8-7d936075a912",
+  "isBase": false,
+  "name": "月の生霊ケイトリン",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/Images/caitlyn_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/Images/caitlyn_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/Images/caitlyn_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin10/CaitlynLoadscreen_10.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51010.png",
+  "chromas": [
+    {
+      "id": 51012,
+      "name": "月の生霊ケイトリン",
+      "contentId": "33cc8b5b-741c-40eb-b190-a2ff78407bd9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51012.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018年のルナーフェスティバルミッションから戦利品限定で獲得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 55
+    }
+  ],
+  "description": "ルナーフェスティバルの時期に現れると言われる悪意を持った精霊のケイトリンは、神でも人間でも見境なくちょっかいを出すことで知られている。彼女の注意を引いた者には災厄が訪れ、その姿を目にすることすら不吉の前兆だと考えられている。",
+  "wikiSkinData": {
+    "id": 51010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-01-27",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "lore": "A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen."
+  }
+}

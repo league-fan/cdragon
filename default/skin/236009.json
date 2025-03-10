@@ -1,0 +1,183 @@
+{
+  "id": 236009,
+  "contentId": "b2e296c5-0204-4baf-ba97-c950dd459607",
+  "isBase": false,
+  "name": "Demacia Vice Lucian",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Lucian/Skins/Skin09/Images/lucian_splash_centered_9.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Lucian/Skins/Skin09/Images/lucian_splash_uncentered_9.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Lucian/Skins/Skin09/Images/lucian_splash_tile_9.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Lucian/Skins/Skin09/LucianLoadscreen_9.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Lucian/Skins/Skin09/LucianLoadscreen_9_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236009.png",
+  "chromas": [
+    {
+      "id": 236010,
+      "name": "Demacia Vice Lucian",
+      "contentId": "1aab5f45-6781-41a5-bcc1-d2a9898a1f17",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236010.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2019."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 236011,
+      "name": "Demacia Vice Lucian",
+      "contentId": "a646e7c5-76d3-4ab8-9af7-f2430298f0f1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236011.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 236012,
+      "name": "Demacia Vice Lucian",
+      "contentId": "a3b50dfd-4066-4409-8463-147ab48d40b3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 236013,
+      "name": "Demacia Vice Lucian",
+      "contentId": "9bf1a29b-5329-4c1f-b845-ee3b3f8e6fd8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236013.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 236014,
+      "name": "Demacia Vice Lucian",
+      "contentId": "28d7efdc-a675-4eef-9abe-ed774a97ae5f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236014.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 236015,
+      "name": "Demacia Vice Lucian",
+      "contentId": "2bda5e8d-ef52-419c-8a6a-e3a800eea18b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236015.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 236016,
+      "name": "Demacia Vice Lucian",
+      "contentId": "23209f27-8b2d-4abd-afec-1b613a0314c9",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236016.png",
+      "colors": [
+        "#611B9E",
+        "#19E888"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "Loot exclusive gained during the 2019 Demacia Vice event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 117
+    }
+  ],
+  "description": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order.",
+  "wikiSkinData": {
+    "id": 236009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-07-18",
+    "set": [
+      "Demacia Vice"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 15
+      },
+      "Catseye": {
+        "id": 14
+      },
+      "Neon Noir": {
+        "id": 16,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 13
+      },
+      "Turquoise": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "TJ Storm"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order."
+  }
+}

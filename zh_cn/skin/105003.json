@@ -1,0 +1,57 @@
+{
+  "id": 105003,
+  "contentId": "c49b1b4d-a8d3-48a9-b271-fab2323027ef",
+  "isBase": false,
+  "name": "海牛猎手 菲兹",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin03/Images/fizz_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin03/Images/fizz_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin03/Images/fizz_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Skin03/FizzLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 100
+    }
+  ],
+  "description": "叫我鱼实玛利。",
+  "wikiSkinData": {
+    "id": 105003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-04-01",
+    "set": [
+      "Day Job"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Philece Sampler"
+    ],
+    "splashartist": [
+      "Alex Konstad",
+      "Jon Neimeister",
+      "David Kegg",
+      "Dirty Iron"
+    ],
+    "lore": "Call me Fishmael."
+  }
+}

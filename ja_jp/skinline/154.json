@@ -1,0 +1,762 @@
+{
+  "id": 154,
+  "name": "磁器",
+  "description": "古代の精霊と魔法の生物たちが現代社会の外縁で生き続けるこの世界には、「干支の遺物」と呼ばれる強い力を秘めた磁器の工芸品が存在する。これらの遺物は絶大な力を解放するための鍵であり、「守護者」たち──遺物を悪しき者たちから守る使命を持つ、不死の護り手たちによって安全に保護されている。",
+  "skins": [
+    {
+      "id": 21050,
+      "name": "磁器ミス・フォーチュン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 21050,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 58
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Opulent": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Peridot": {
+            "id": 55
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 53
+          },
+          "Turquoise": {
+            "id": 56
+          }
+        },
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Through the centuries, humans have tried to replicate the power of dragon's breath. With gunpowder came the cannon, which was finessed into smaller and more refined variants until it was ultimately perfected by Sarah Fortune's mother. Her dual dragon-pistols carry on the legacy of not only her own family, but of the creatures of myth themselves."
+      }
+    },
+    {
+      "id": 25070,
+      "name": "磁器モルガナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 25070,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 78
+          },
+          "Emerald": {
+            "id": 72
+          },
+          "Obsidian": {
+            "id": 76
+          },
+          "Opulent": {
+            "id": 79,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 77
+          },
+          "Rose Quartz": {
+            "id": 75
+          },
+          "Ruby": {
+            "id": 71,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 74
+          },
+          "Turquoise": {
+            "id": 73
+          }
+        },
+        "voiceactor": [
+          "Erica Lindbeck"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "There is no one who comprehends the power of the sorceress Lissandra more than Morgana. The magic that bound Lissandra to her relic came at a cost: the protector who uttered the words would be trapped as well. Morgana made this sacrifice, the wings of her Rooster Relic wrapping her in a porcelain cocoon for millennia. Awake once more, she seeks revenge."
+      }
+    },
+    {
+      "id": 32034,
+      "name": "磁器アムム",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 32034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 39
+          },
+          "Catseye": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 38
+          },
+          "Golden Tiger": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Eternally young due to his bond with the Rat Relic, Amumu's innocence belies centuries of existence. He's been lonely in ages past, but no more: Lux is like his big sister, and Kindred is his… Kindred? Companionship hasn't stopped his occasional tantrums, of course, but at least now there's someone to shine his porcelain eyes after a nice cathartic cry."
+      }
+    },
+    {
+      "id": 39045,
+      "name": "磁器イレリア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 39045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 47
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Opulent": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 50
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 49
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Alsie Lau"
+        ],
+        "lore": "Irelia was dedicated to the preservation of ancient relics long before she became a protector. Her first year at university, she interned at the renowned Archeology Institute. It was the highlight of her short life... until she was granted mythical powers by the Ram Relic and thrust into a centuries-old war. Schoolwork sort of pales in comparison."
+      }
+    },
+    {
+      "id": 81025,
+      "name": "磁器の守護者エズリアル",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 81025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 31
+          },
+          "Golden Tiger": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "After accidentally unleashing an ancient evil sorceress while doing research in the university archive, Ezreal narrowly escaped certain death when Lux and the spirit of the Tiger Relic stepped in to save him. Though he is new to the world of magic, Ezreal has joined the Protectors— determined to help solve the problem he (inadvertently) caused."
+      }
+    },
+    {
+      "id": 99029,
+      "name": "磁器ラックス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 33
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Golden Tiger": {
+            "id": 41,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "As the current leader of the Protectors and wielder of the Rabbit Relic, Lux is determined to keep up her sunny disposition in spite of everything: her own arduous sorcery training, the newbie archaeologist who stumbled into their ranks, and the sudden threat of an awakened evil now out for vengeance. She's got this… right? Right."
+      }
+    },
+    {
+      "id": 99040,
+      "name": "プレステージ磁器ラックス",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99040,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 29,
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "A leader bends, but never breaks. In the Protectors' pursuit of ancient evil, Lux has navigated her team over obstacles that even the archeologist — in all his unbridled confidence — thought insurmountable. Lux's power, once a dim light in a darkened world, now shines brightly. And her ragtag group of fragile personalities, the Protectors? With her support, deserving of their title."
+      }
+    },
+    {
+      "id": 104045,
+      "name": "磁器グレイブス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 49,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 50
+          },
+          "Opulent": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 52
+          },
+          "Turquoise": {
+            "id": 51
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Santiago Parra",
+          "West Studio"
+        ],
+        "lore": "Not long after gunpowder was invented, the Zodiac searched for a new protector of the Dragon Relic. Though ancient and wise, the gods struggled to find someone worthy, so they settled for Malcolm Graves. Eventually his expertise in firepower was pointed in the right direction (away from all the breakable vases)."
+      }
+    },
+    {
+      "id": 122054,
+      "name": "磁器ダリウス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 122054,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 56
+          },
+          "Obsidian": {
+            "id": 60
+          },
+          "Opulent": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Pearl": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 59
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 58
+          },
+          "Turquoise": {
+            "id": 57
+          }
+        },
+        "voiceactor": [
+          "Chuck Kourouklis"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Darius has watched the modern-day protector of the Tiger Relic from afar, silently judging his descendant. Back when he was protector, the Tiger was a symbol of pride... Now it seems the Zodiac will hand off the duty to anyone with a minor in archeology. Returned to physical form, Darius believes he can show this kid a thing or two."
+      }
+    },
+    {
+      "id": 127023,
+      "name": "磁器リサンドラ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 127023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Aquamarine": {
+            "id": 25
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Golden Tiger": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "West Studio"
+        ],
+        "lore": "Long ago, the sorceress Lissandra stole the Snake Relic from the ancient Protectors in a bid to gain immortality. Cast down and sealed away for her crimes, Lissandra spent centuries of solitude scheming a way to take all twelve Zodiac Relics for herself, waiting for the perfect time to strike... And now Ezreal has given her the chance."
+      }
+    },
+    {
+      "id": 127033,
+      "name": "プレステージ磁器リサンドラ",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 127033,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 23,
+        "voiceactor": [
+          "Tess Masters"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "What is fashion, if not sculpture? Is it not beauty and elegance in physical form? The portrait of glamor in white, blue, and gold, Lissandra is a work of art, on and off the runway."
+      }
+    },
+    {
+      "id": 136031,
+      "name": "磁器の守護者オレリオン・ソル",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 136031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Opulent": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "When the Zodiac forged their relics, Aurelion Sol was there. With him, eleven others: the first to be humbled with the task of guarding the artifacts, the first to be granted their powers. Centuries later, Aurelion Sol is summoned forth by his draconic descendant, desperate for his help against an ancient threat with which he is all too familiar."
+      }
+    },
+    {
+      "id": 203012,
+      "name": "磁器キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 16
+          },
+          "Emerald": {
+            "id": 18
+          },
+          "Golden Tiger": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Once a skilled hunter and her fierce hound, the two were so bonded that their souls remained together when they were preserved inside the Dog Zodiac Relic. Now they are two halves of a whole, mentoring generations of Protectors like Lux and Amumu and standing guard eternally over the ancient magic that keeps them alive."
+      }
+    },
+    {
+      "id": 203033,
+      "name": "プレステージ磁器キンドレッド",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203033,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 12,
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "The hunter and the hound stalk the runway in white-feathered armor with cerulean plating. The refractions of images that dance in the crystals embossed on both bow and headdress dare the audience to reflect on the past year, their fashion feats, and faux pas."
+      }
+    }
+  ]
+}

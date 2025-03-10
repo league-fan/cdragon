@@ -1,0 +1,434 @@
+{
+  "id": 246,
+  "name": "キヤナ",
+  "alias": "Qiyana",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/246.png",
+  "roles": [
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 246000,
+      "name": "キヤナ",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 246000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2019-06-28",
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan—and by that right, deserving of not only a city, but an empire."
+      }
+    },
+    {
+      "id": 246001,
+      "name": "バトルボス キヤナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-28",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 5
+          },
+          "K.O.": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 6
+          },
+          "Turquoise": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A princess constantly in need of saving in the 1981 arcade port of “Super Ixaocan Bros.,” Qiyana needed very little convincing to empower herself with malignant Battle Boss code. She wasted no time testing her newfound abilities on the aforementioned Super Ixaocan Brothers. They're dead now. She lives in their castle."
+      }
+    },
+    {
+      "id": 246002,
+      "name": "True Damage キヤナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-11-10",
+        "set": [
+          "True Damage"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "Qiyana is the daughter of Latin music royalty. With her family's esteemed reputation, she has an easy path to superstardom—and yet, she has her eyes set on something grander. With her brash confidence and rebellious persona, she is determined to change the game in not just music, but the entirety of pop culture."
+      }
+    },
+    {
+      "id": 246010,
+      "name": "プレステージ True Damage キヤナ",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246010,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-11-10",
+        "set": [
+          "True Damage"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 10,
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Always a fixture in the spotlight, Qiyana dressed to impress at True Damage's sold-out concert in Paris. While the paparazzi swarmed her with photos and questions, she reveled in the attention, knowing this was only the beginning of her empire of celebrity."
+      }
+    },
+    {
+      "id": 246011,
+      "name": "バトルクイーン キヤナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 13
+          },
+          "Coronation": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "lore": "Qiyana is the youngest in a line of sisters who have been Queens of Ixtal for most of the recent Coronations. She's been waiting impatiently for her chance at the Crest and the title. Now that she has it, she intends to use the power she gains in the tournament to remake Ixtal in her vision."
+      }
+    },
+    {
+      "id": 246020,
+      "name": "雷刃キヤナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-02-17",
+        "set": [
+          "Shockblade"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 27
+          },
+          "Aquamarine": {
+            "id": 23
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Félix Donadio",
+          "West Studio"
+        ],
+        "lore": "Tempestuous as the Storm itself, Qiyana braved the Cloud Ritual despite warnings that no one had survived in years. Perhaps it was her display of stubborn courage the Storm found worthy, or something else; either way, she is now Shen's student, determined to master lightning the same way she mastered the other elements."
+      }
+    },
+    {
+      "id": 246021,
+      "name": "プレステージ True Damage キヤナ(2022)",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246021,
+        "formatname": "Prestige True Damage Qiyana (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "True Damage"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 10,
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Always a fixture in the spotlight, Qiyana dressed to impress at True Damage's sold-out concert in Paris. While the paparazzi swarmed her with photos and questions, she reveled in the attention, knowing this was only the beginning of her empire of celebrity."
+      }
+    },
+    {
+      "id": 246030,
+      "name": "月の女帝キヤナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-26",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 37
+          },
+          "Pearl": {
+            "id": 38
+          },
+          "Resplendent": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 35
+          },
+          "Turquoise": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "For some, forgiveness is a blessing; for Empress Qiyana, it is a necessity. Though the hostility between her empire and the Empire of the Great Sea is the fault of her sisters, she seeks atonement at this year's banquet. The only barrier to a reconciliation with Empress Ashe is her pride... and a centuries-old grudge between her guardian Malphite and a newly resurfaced giant serpent."
+      }
+    },
+    {
+      "id": 246040,
+      "name": "ラ・イルシオン キヤナ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246040,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-09-27",
+        "set": [
+          "La Ilusión"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 44
+          },
+          "Catseye": {
+            "id": 42
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 47
+          },
+          "Vivida": {
+            "id": 49,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "La Ilusión Megabundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Qiyana was a prodigiously self-centered athlete, but after dying during a championship match without warning, her family's love-stricken grief transformed her into an Eidola Vida. Still ashamed of her failure, Qiyana realizes her family never cared about what she did, only who she was. Filled with their love, she's ready to watch over them until the end."
+      }
+    },
+    {
+      "id": 246050,
+      "name": "プレステージ バトルアカデミア キヤナ",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 246050,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Montse Hernandez"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Some say class president and Sorcery Club captain Qiyana is Babylon Academy's greatest student (a rumor she gladly spread). When the God-Weapon instead chose Xayah to lead Babylon into the cross-academy tournament, Qiyana took it personally. Now she plots her revenge—to reclaim her rightful role and the prom date who spurned her: Rakan."
+      }
+    }
+  ]
+}

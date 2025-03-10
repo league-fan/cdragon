@@ -1,0 +1,88 @@
+{
+  "id": 92005,
+  "contentId": "088c198a-ece5-4511-a7e4-2d3ae795c963",
+  "isBase": false,
+  "name": "替父从军 花木兰",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/Images/riven_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/Images/riven_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/Images/riven_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin05/RivenLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92005.png",
+  "chromas": [
+    {
+      "id": 92017,
+      "name": "替父从军 花木兰 炫金龙刃",
+      "contentId": "7f05f6d5-0b24-4910-9087-152299ec391d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92017.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of the Horse",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/14.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/14.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 53
+    }
+  ],
+  "description": "王国中流传着一个关于花木兰替父从军讨伐巨龙的传说，她的剑是在巨龙的火焰中铸造而成的，随后她用这把剑杀进了敌人的领地，救回了被关押在那里的俘虏。从此花木兰的怒气回荡在整个王国，誓要诛杀所有奴役无辜者的恶人。",
+  "wikiSkinData": {
+    "id": 92005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-01-28",
+    "set": [
+      "Lunar Revel: Warring Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Bo Lu"
+    ],
+    "lore": "One tale of the kingdoms tells of Riven, her sword forged in dragonfire, descending into an enemy enclave in the aftermath of battle. Slaying her foes and freeing their captives, she rampaged across the countryside, crushing any who would enslave the innocent."
+  }
+}

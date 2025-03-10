@@ -1,0 +1,74 @@
+{
+  "id": 136,
+  "name": "星河",
+  "description": "殘月戰爭已殘害我們的星系將近上百萬年……但依然看不到盡頭。",
+  "skins": [
+    {
+      "id": 58001,
+      "name": "銀河暴君 雷尼克頓",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 58001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-01-18",
+        "retired": "2014-12-02",
+        "set": [
+          "Galactic"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Sean McNally"
+        ]
+      }
+    },
+    {
+      "id": 75001,
+      "name": "星際之門 納瑟斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 75001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-13",
+        "set": [
+          "Galactic"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ]
+      }
+    },
+    {
+      "id": 268001,
+      "name": "星際之門 阿祈爾",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 268001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-09-15",
+        "set": [
+          "Galactic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Travis Willingham"
+        ]
+      }
+    }
+  ]
+}

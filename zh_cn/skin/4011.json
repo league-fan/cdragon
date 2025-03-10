@@ -1,0 +1,80 @@
+{
+  "id": 4011,
+  "contentId": "62099ab2-289b-4a9b-9d11-eaedb2ef6a79",
+  "isBase": false,
+  "name": "未来战士 崔斯特",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/Skin11/Images/twistedfate_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/Skin11/Images/twistedfate_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/Skin11/Images/twistedfate_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/Skin11/TwistedFateLoadScreen_11.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/4/4011.png",
+  "chromas": [
+    {
+      "id": 4012,
+      "name": "未来战士 崔斯特 无尽永前",
+      "contentId": "af239fb4-44b1-41bc-a1f2-175f5f530cdf",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/4/4012.png",
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在未来战士(2020)事件期间作为战利品专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 36
+    }
+  ],
+  "description": "通过欺骗时间执法者，崔斯特因其跨越多条时间线同时进行大规模抢劫而闻名。﻿他熟知逃生最快的时间胡同，因此总能在执法者到来的前一刻携带着偷来的财宝逃生……",
+  "wikiSkinData": {
+    "id": 4011,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Pulsefire"
+    ],
+    "cost": 1350,
+    "release": "2018-05-17",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Jojo So"
+    ],
+    "lore": "Swindling his way past the chrono-enforcers, Twisted Fate has made himself known by pulling off grand heists, across various timelines. Always just moments ahead of the law, with stolen riches in his pocket, he knows the alleyways of time make for the quickest of getaways…"
+  }
+}

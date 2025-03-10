@@ -1,0 +1,61 @@
+{
+  "id": 123,
+  "name": "恐怖の騎士",
+  "description": "謎めいた古代の魔法で命を吹き込まれたこの不死の騎士たちは、遠い昔に語られた失われし歴史の残滓に過ぎない。彼らはかつて自分のものだった何かを守ろうとする──どれだけ定命の者たちが犠牲になるとしても。",
+  "skins": [
+    {
+      "id": 75003,
+      "name": "恐怖の騎士ナサス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 75003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-26",
+        "set": [
+          "Dreadknights"
+        ],
+        "chromas": {
+          "Blight": {
+            "id": 8
+          },
+          "Burn": {
+            "id": 7
+          },
+          "Frostbite": {
+            "id": 9
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ],
+        "lore": "Dreadknight Nasus serves as keeper of the forgotten texts deep within the catacombs of his Master's labyrinthine library. It is said that within lies the secret of the Dreadknights' undoing, but no living soul has yet verified whether this is truth or fable."
+      }
+    },
+    {
+      "id": 86004,
+      "name": "恐怖の騎士ガレン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86004,
+        "availability": "Available",
+        "looteligible": true,
+        "distribution": "Twitter Distribution",
+        "cost": 975,
+        "release": "2011-01-18",
+        "set": [
+          "Dreadknights"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "lore": "Once a valiant hero, Dreadknight Garen fell to the promise of power great enough to save his land. Now, twisted by the corrupting magic of his Master, he commands the frozen legions in their march upon the living. Only desolation remains in his wake."
+      }
+    }
+  ]
+}

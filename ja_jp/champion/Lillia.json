@@ -1,0 +1,262 @@
+{
+  "id": 876,
+  "name": "リリア",
+  "alias": "Lillia",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/876.png",
+  "roles": [
+    "fighter",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 876000,
+      "name": "リリア",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 876000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-07-22",
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people's unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!"
+      }
+    },
+    {
+      "id": 876001,
+      "name": "精霊の花祭りリリア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 876001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 7
+          },
+          "Citrine": {
+            "id": 5
+          },
+          "Night Blossom": {
+            "id": 9,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 3
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 8
+          },
+          "Turquoise": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "A shy fawn spirit, Lillia once served as the guardian of a sacred Ionian forest—until her grove was destroyed and cast into flame. Consumed by loss, she now slumbers in the spirit realm, reliving the destruction in an unending nightmare—unaware of the timid hope still waiting to bloom..."
+      }
+    },
+    {
+      "id": 876010,
+      "name": "混沌の闇リリア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 876010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 15
+          },
+          "Deathbringer": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          },
+          "Emerald": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Steward of nightmares, demon of dreams, Lillia revels in twisted fantasias that mortify mortal minds. Though she dallies in the war between order and chaos, she rarely joins the fray herself; she has a garden to tend to, after all, sowing seeds of terror and watching them bloom."
+      }
+    },
+    {
+      "id": 876019,
+      "name": "山海絵巻伝リリア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 876019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-14",
+        "set": [
+          "Shan Hai Scrolls"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 25
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 21
+          },
+          "Meteorite": {
+            "id": 22
+          },
+          "Obsidian": {
+            "id": 26
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Kevin Glint",
+          "West Studio"
+        ],
+        "lore": "Every day, the Sun Bird flies between two sacred trees: the western Tree of Dawn and the eastern Tree of Dusk. Lillia is a spirit of rejuvenation and the Sun Bird's caretaker. A steward of time and seasons, she uses her censer to spread a calming mist as she carries the bird home at night."
+      }
+    },
+    {
+      "id": 876028,
+      "name": "妖精の王宮リリア",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 876028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-15",
+        "set": [
+          "Faerie Court"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 32
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 33
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 35
+          },
+          "Tanzanite": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Holly Earl"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Lady of the Winter Court and Keeper of the Seelie Heart-tree, Lillia records the history of the Faerie Queendoms in the ancient tree's rings, freezing events into forested, ever-growing archives. When Lillia discovers that someone has tried to tamper with her work, however, she must rally her courage—there is trouble afoot!"
+      }
+    }
+  ]
+}

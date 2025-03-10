@@ -1,0 +1,80 @@
+{
+  "id": 110006,
+  "contentId": "6337b652-b074-4bf7-8eb1-40254f418dc7",
+  "isBase": false,
+  "name": "ダークスター ヴァルス",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin06/Images/varus_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin06/Images/varus_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin06/Images/varus_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin06/VarusLoadscreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/110/110006.png",
+  "chromas": [
+    {
+      "id": 110015,
+      "name": "ダークスター ヴァルス",
+      "contentId": "1bd629f3-4197-4da1-84f5-8111d95c0a2c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/110/110015.png",
+      "colors": [
+        "#000000",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年のギャラクシーイベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 44
+    }
+  ],
+  "description": "宇宙の遥か彼方、闇の中に生じたすべてを貪り尽すダークスターに仕えるヴァルス。その不気味な心奥へと呑み込まれた星辰は数知れない。彼の到来は絶滅をもたらす天変地異を呼び、惑星系が丸ごと、あたかも存在しなかったかのように消滅してしまう。",
+  "wikiSkinData": {
+    "id": 110006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-06-15",
+    "earlysale": "2016-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 15,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "An interstellar titan containing multitudes within his eldritch mind, Varus serves the all-consuming Dark Star, a dread singularity born in the darkness of deep space. His arrival is a cataclysmic extinction event, erasing entire planetary systems as if they were never there."
+  }
+}

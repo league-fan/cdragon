@@ -1,0 +1,75 @@
+{
+  "id": 114031,
+  "contentId": "8e098193-20fd-4b63-89e4-ff0918064f65",
+  "isBase": false,
+  "name": "iG 菲歐拉 ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin31/Images/fiora_splash_centered_31.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin31/Images/fiora_splash_uncentered_31.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin31/Images/fiora_splash_tile_31.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin31/FioraLoadscreen_31.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin31/FioraLoadscreen_31_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114031.png",
+  "chromas": [
+    {
+      "id": 114079,
+      "name": "iG 菲歐拉",
+      "contentId": "22e39968-fab0-451d-a95b-57d7e02b2ca1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114079.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 107
+    }
+  ],
+  "description": "紀念 TheShy 在 2018 世界大賽中使用菲歐拉贏得世界冠軍的精采表現。",
+  "wikiSkinData": {
+    "id": 114031,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-04-23",
+    "set": [
+      "World Champions: 2018"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 79,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring TheShy's winning performance as Fiora during the 2018 World Championship."
+  }
+}

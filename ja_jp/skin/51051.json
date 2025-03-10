@@ -1,0 +1,83 @@
+{
+  "id": 51051,
+  "contentId": "de853333-4a7b-454b-bc7b-027eb46058fd",
+  "isBase": false,
+  "name": "プレステージ Arcane コマンダー ケイトリン",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin51/Images/caitlyn_splash_centered_51.SKINS_Caitlyn_Skin51.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin51/Images/caitlyn_splash_uncentered_51.SKINS_Caitlyn_Skin51.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin51/Images/caitlyn_splash_tile_51.SKINS_Caitlyn_Skin51.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin51/CaitlynLoadScreen_51.SKINS_Caitlyn_Skin51.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin51/CaitlynLoadScreen_51_LE.SKINS_Caitlyn_Skin51.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51051.png",
+  "chromas": [
+    {
+      "id": 51053,
+      "name": "プレステージ Arcane コマンダー ケイトリン",
+      "contentId": "ff18242d-3299-42b6-878d-d8bd63ad7203",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51053.png",
+      "colors": [
+        "#464AF7",
+        "#FAFDC4"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "Arcaneイベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 5
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 152
+    }
+  ],
+  "description": "キラマン家の跡継ぎとして、ケイトリンは部屋に入った瞬間から敬意を勝ち取る方法を知っている──その研ぎ澄まされた外見だけでなく、さらに研ぎ澄まされた眼差しによって。都市の執行官を率いる地位にまで登り詰めた彼女は、ピルトーヴァーの未来にとってさらに強力な味方となるだろう。",
+  "wikiSkinData": {
+    "id": 51051,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "150 Mythic Essence",
+    "release": "2024-11-20",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "variant": 50,
+    "chromas": {
+      "Stellar": {
+        "id": 53,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Arcane 2024 Premium Pass Bundle"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Roanna Peroz",
+      "Kudos Productions"
+    ],
+    "lore": "As scion of the Kiramman family, Caitlyn knows how to command respect from the moment she enters a room—not only with her sharp appearance, but her even-sharper gaze as well. Having climbed the ranks to lead the city's enforcers, she makes an even stronger asset to the future of Piltover."
+  }
+}

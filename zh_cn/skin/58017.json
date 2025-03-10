@@ -1,0 +1,57 @@
+{
+  "id": 58017,
+  "contentId": "fba0f0e7-78c8-49aa-b797-41429dd6dd9e",
+  "isBase": false,
+  "name": "海克斯科技 雷克顿",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin17/Images/renekton_splash_centered_17.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin17/Images/renekton_splash_uncentered_17.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin17/Images/renekton_splash_tile_17.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Skin17/RenektonLoadscreen_17.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Hextech Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/43.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/43.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 8,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/8_large.png",
+  "skinLines": [
+    {
+      "id": 40
+    }
+  ],
+  "description": "一如往常的那样，海克斯科技复兴的工匠们将他们的新科学推行得太远太快了，没有全面考虑过可能导致的一系列后果。雷克顿——一个由血肉和金属组成的半疯癫的怪兽——就是那种短视带来的结果。",
+  "wikiSkinData": {
+    "id": 58017,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2018-12-20",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "As is so often the way, artificers of the Hextech Renaissance pushed too far and too fast into their new science, without fully considering the possible consequences. Renekton—a half-mad monster of flesh and metal—is the result of that shortsightedness."
+  }
+}

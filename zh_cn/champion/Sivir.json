@@ -1,0 +1,686 @@
+{
+  "id": 15,
+  "name": "战争女神",
+  "alias": "Sivir",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/15.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 15000,
+      "name": "战争女神",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 15000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies."
+      }
+    },
+    {
+      "id": 15001,
+      "name": "战场公主 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 15002,
+      "name": "亮丽女神 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-08",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 15003,
+      "name": "女猎手 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15003,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Champion Bundle",
+        "release": "2011-02-07",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 15004,
+      "name": "钢铁之心 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-03-21",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 15005,
+      "name": "创战纪 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Code Redemption",
+        "cost": "Special",
+        "release": "2011-08-25",
+        "set": [
+          "PAX"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "lore": "A special event skin given away PAX Prime 2011."
+      }
+    },
+    {
+      "id": 15006,
+      "name": "冰雪风暴 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-12-19",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Snowdown Showdown 2018"
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "The wild and brash Battle Mistress known as Sivir cares only for the thrill of combat and the rattle of coin. She relentlessly hunts her bounties across the ice, cutting down opponents with a massive, razor-sharp snowflake as hard and unforgiving as the cruelest snowstorm."
+      }
+    },
+    {
+      "id": 15007,
+      "name": "光明骑士 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-02-17",
+        "set": [
+          "Warden"
+        ],
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "lore": "The Wardens, like the Protectorate before them, cannot rely on innumerable conquered peoples to bolster its military as the Marauders do. Sivir, a skilled sellsword, was sworn into the order's ranks, only to take up the cause in earnest when she learned the organization's true purpose."
+      }
+    },
+    {
+      "id": 15008,
+      "name": "胜利女神 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15008,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2015-11-12",
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Victorious Sivir was awarded to players who reached Gold or higher in the 2015 season. As the ultimate battle mistress, Sivir wears a winged crown of victory and wields a golden weapon."
+      }
+    },
+    {
+      "id": 15009,
+      "name": "新创战纪 希维尔",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15009,
+        "availability": "Rare",
+        "looteligible": false,
+        "distribution": "Code Redemption and obtainable for a limited time period as a Hextech Crafting skin, requiring 10 Gemstone.",
+        "cost": "Special",
+        "release": "2017-08-30",
+        "retired": "2018-01-08",
+        "set": [
+          "PAX"
+        ],
+        "earlysale": "Ineligible",
+        "neweffects": true,
+        "variant": 5,
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "lore": "A special event skin given away PAX West 2017."
+      }
+    },
+    {
+      "id": 15010,
+      "name": "送披萨的小姐姐 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-03-29",
+        "set": [
+          "Culinary Masters"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 14
+          },
+          "Aquamarine": {
+            "id": 12
+          },
+          "Catseye": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Rose Quartz": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The fastest pizza delivery girl on the continent, Sivir has racked up an impressive nine consecutive awards from corporate headquarters, and hasn't seen a customer complaint since online reviews were invented. Her vicious rivalry with Birdio is well documented, and the two will do anything to one-up each other."
+      }
+    },
+    {
+      "id": 15016,
+      "name": "腥红之月 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-10",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 18,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          },
+          "Turquoise": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "A newly anointed priestess of the Blood Moon cult, Sivir wields a weapon that is both a killing tool and a key to the hellish mirror world where all demons are born. Slowly but surely, it has merged her twinned selves, and now it is no longer clear where the human ends and the monster begins."
+      }
+    },
+    {
+      "id": 15025,
+      "name": "奥德赛 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-15",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Merc": {
+            "id": 27,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Rainbow": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Tanzanite": {
+            "id": 30
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Kudos Productions"
+        ],
+        "lore": "Sivir runs her own small bounty hunting operation on the fringes of the galaxy. She's self-made and tough, having lost her parents to the Demaxian empire many years prior, but holds on to her soft and sympathetic side despite that hardened exterior. Sivir was hired by Karma, along with the other mercs, to free the captured templars."
+      }
+    },
+    {
+      "id": 15034,
+      "name": "咖啡甜心 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 39
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Tanzanite": {
+            "id": 41
+          },
+          "Turquoise": {
+            "id": 37
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Sivir began as a pastry chef, but has since transitioned to “front-of-house defense specialist”. Her protective nature has gotten her into a few scraps with unruly customers, but Sivir's love of her work, her friends, and the cafe is what she's really fighting for. If you want to talk to the manager, she's got some words for you, too."
+      }
+    },
+    {
+      "id": 15043,
+      "name": "日蚀骑士 希维尔",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 45
+          },
+          "Obsidian": {
+            "id": 49
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 44,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A mercenary Eclipse Knight known for her skill in battle and lack of chivalry, Sivir sells her services eliminating witches and monsters who menace the countryside, ignoring threats that do not prove lucrative. Though many knights find nobility in their stated purpose, Sivir cares naught but for coin, pledging to aid her order only in their final, dire hour."
+      }
+    },
+    {
+      "id": 15050,
+      "name": "剪纸仙灵 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15050,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 53
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Gilded": {
+            "id": 60,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Obsidian": {
+            "id": 58
+          },
+          "Paragon": {
+            "id": 71,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 59
+          },
+          "Rose Quartz": {
+            "id": 54
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Tanzanite": {
+            "id": 56
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "West Studio"
+        ],
+        "lore": "Once the hero of “The Great Beast Galio”, Sivir's myth-world is forever changed when the Lunar Players interrupt her climactic battle, and she discovers that she is no longer the protagonist. Grappling with the question of who she is if she's not saving the day, Sivir must now carve out a role for herself in a tale whose future is suddenly unwritten."
+      }
+    },
+    {
+      "id": 15051,
+      "name": "至臻 剪纸仙灵 希维尔",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15051,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 50,
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Sivir seeks nothing short of opulence, her beautiful clothes symbols of personal success as much as they are points of sartorial pride. It's important that she looks impeccable: the New Year is here, after all, and starting it off right means stepping out in style."
+      }
+    },
+    {
+      "id": 15061,
+      "name": "伏虎之力 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15061,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-24",
+        "set": [
+          "Primal Ambush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 68
+          },
+          "Citrine": {
+            "id": 67
+          },
+          "Emerald": {
+            "id": 66
+          },
+          "Obsidian": {
+            "id": 69
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 62,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 65
+          },
+          "Turquoise": {
+            "id": 64
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Born into greatness, Sivir quickly discovered that her enhanced capabilities were the key to earning higher mercenary payouts. As a master of instinct, she clawed her way through countless battles and struck down any target in the way of her coin. However, her current bounty, the leader of the Favorclaw, may prove to be a beast beyond even her reach."
+      }
+    },
+    {
+      "id": 15070,
+      "name": "十五周年纪念 希维尔",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15070,
+        "formatname": "Ann-Sivir-sary",
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "15th Anniversary Reward",
+        "cost": "Special",
+        "release": "2024-10-17",
+        "set": [
+          "Fist Bumps and Festivities"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "10:27 Riot Annie-Versary(Annie) signals that enemies are missing<br>10:27 Riot Annie-Versary(Annie) signals that enemies are missing<br>10:27 Riot Annie-Versary(Annie) signals that enemies are missing<br>10:27 Riot Annie-Versary(Annie) signals that…"
+      }
+    }
+  ]
+}

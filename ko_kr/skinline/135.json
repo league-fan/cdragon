@@ -1,0 +1,944 @@
+{
+  "id": 135,
+  "name": "용술사",
+  "description": "위대한 용들은 필멸자를 피해 자연이 아름다운 외진 곳에 살며 극히 소수의 선택받은 자에게만 능력을 부여합니다. 용술사는 그 궁극의 축복을 받을 만큼 운이 좋고 강력한 존재입니다. 용에게 받은 힘을 좋은 일에 쓸지, 나쁜 일에 쓸지, 서로를 막는 데 쓸지는 전적으로 용술사 자신에게 달려 있습니다.",
+  "skins": [
+    {
+      "id": 22023,
+      "name": "정령용 애쉬",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 22023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emberclaw": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Jadeclaw": {
+            "id": 30,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rainbow": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Ashe led her tribe into a mysterious forest to protect them from Brand's destruction. There, she happened upon the Fae Dragon, who sensed her immense power and devotion to her people and blessed her with its arcane magic. Now, Ashe weaves spells to keep them safe while biding her time for her revenge. "
+      }
+    },
+    {
+      "id": 38024,
+      "name": "용술사 카사딘",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 38024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 30
+          },
+          "Citrine": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Kassadin scoured the world in search of a missing loved one. He mapped out a path in the stars, following a pattern of constellations only he could read—reaching an open field where the Astral Dragon recognized his purpose. Though his spirit darkens over the possibility his journey may never end, he now harnesses the dragon's brilliance to light his way."
+      }
+    },
+    {
+      "id": 43044,
+      "name": "평온용 카르마",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 43044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 50
+          },
+          "Aquamarine": {
+            "id": 46
+          },
+          "Catseye": {
+            "id": 49
+          },
+          "Emberclaw": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 47,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Yuhong Ding",
+          "West Studio"
+        ],
+        "lore": "As Brand's corruption spread, Karma sought the power to restore peace. When her desperate search throughout the land failed, Karma was left with nowhere left to look but within. After months of quiet contemplation, the fabled Tranquility Dragon greeted her in a vision. She awoke with the dragon's gift, the power to bring tranquil peace to face Brand's raging violence."
+      }
+    },
+    {
+      "id": 63008,
+      "name": "불멸용 브랜드",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 63008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Emberclaw": {
+            "id": 23,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Jadeclaw": {
+            "id": 17,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          }
+        },
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "Intoxicated by the power over life and death he received from the Eternal Dragon, Brand now spreads death and decay across the land. Now that his dragon benefactor has retreated from the affairs of mortals, only other dragon-blessed can fight against the rot Brand leaves in his wake as he asserts his prowess."
+      }
+    },
+    {
+      "id": 64031,
+      "name": "폭풍용 리 신",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 64031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emberclaw": {
+            "id": 38,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Jadeclaw": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Mythic": {
+            "id": 50,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 34
+          },
+          "Tanzanite": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A warrior ascetic consumed with an electric passion for justice, Lee Sin climbed the mountain of the storm dragon Ao Shin, hoping to receive his blessing. Having returned from the summit as a legendary Dragonmancer, Lee Sin now doles out thunderous punishment to villains everywhere—ever under the watchful eye of his draconic patron."
+      }
+    },
+    {
+      "id": 67055,
+      "name": "용술사 베인",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 67055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 60
+          },
+          "Citrine": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Obsidian": {
+            "id": 62
+          },
+          "Pearl": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 56,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Vayne vowed to hunt the blazing, rotting forces that arose from Brand's destruction. She never faltered, even when cornered on a remote coast, where she fought to the brink of death. By fate, her narrow victory coincided with the turn of a new night, and the Midnight Dragon came down to imbue her spirit with blessed darkness, sharp as draconic scales."
+      }
+    },
+    {
+      "id": 106007,
+      "name": "이중용 볼리베어",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 14
+          },
+          "Citrine": {
+            "id": 11
+          },
+          "Emberclaw": {
+            "id": 18,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Felipe Martini",
+          "West Studio"
+        ],
+        "lore": "Volibear was the greatest terror in the forest, until the nearby volcano erupted. In the frenzy of escape, Volibear came across a child who was similarly trapped, and heeded a strange instinct—he saved the child. The Duality Dragon saw and made the mighty predator an offer: the power to hone the duality of his nature, both fury and compassion."
+      }
+    },
+    {
+      "id": 106009,
+      "name": "프레스티지 이중용 볼리베어",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 106009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "David Sobolov"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "Volibear stands poised between the two drives of his core self—rage and mercy, impulse and restraint, neither overwhelming the other. Balance is an active struggle; each day the predator and protector clash, and each day Volibear's will grows stronger by the grace of the dragon's gift."
+      }
+    },
+    {
+      "id": 114080,
+      "name": "용술사 피오라",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 114080,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 82
+          },
+          "Emerald": {
+            "id": 83
+          },
+          "Obsidian": {
+            "id": 86
+          },
+          "Pearl": {
+            "id": 88
+          },
+          "Rose Quartz": {
+            "id": 85
+          },
+          "Ruby": {
+            "id": 81,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 84
+          },
+          "Tanzanite": {
+            "id": 87
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Dignified and exacting, Fiora challenged all who misused their power. But her true test appeared in her own gilded dreams: a duel with herself, her greatest enemy. She defeated this other self, impressing the Defiance Dragon. Both dragon and chosen laughed as she raised her chin while receiving its blessing, cementing her worthiness."
+      }
+    },
+    {
+      "id": 136011,
+      "name": "폭풍용 아우렐리온 솔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 136011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Emberclaw": {
+            "id": 20,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Jadeclaw": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 15
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Zuoan Dong",
+          "Kudos Productions"
+        ],
+        "lore": "The dragon Aurelion Sol, known to seven generations of worshippers as Ao Shin, has long awaited the ascent of a warrior worthy of receiving the power of the storm. Now, with Lee Sin's transformation into the Dragonmancer, Ao Shin has directed his impossible power towards purging the world of evil."
+      }
+    },
+    {
+      "id": 145029,
+      "name": "바다용 카이사",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 145029,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 33
+          },
+          "Emberclaw": {
+            "id": 38,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Pearl": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Natasha Loring"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Seeking the power to purify the land of Brand's corruption, Kai'Sa plunged into the depths of the Lagoon Dragon's waters, despite terrifying legends of the endless deep. However, the Dragon recognized her for her courage to face the unknown and blessed her with its gifts. Now, she adventures the world, cleansing the land and protecting those who cannot protect themselves."
+      }
+    },
+    {
+      "id": 157054,
+      "name": "진리용 야스오",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157054,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 55,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Alone against an army, Yasuo chose to stand and fight. He blocked a narrow pass between two mountains, allowing innocents to escape the bloodshed. Wielding the truth of steel as a dance, he felled countless foes—but even he could not hold out forever. The Dragon of Truth, moved by his swordsmanship, came down from its peak to bless him..."
+      }
+    },
+    {
+      "id": 157055,
+      "name": "몽상용 야스오",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 54,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "The song of steel grew silent, and Yasuo was the last living soul on the battlefield—though he imagined he could hear the thankful murmurs of the villagers he'd protected. Wounded and dying, Yasuo produced his flute to play a last haunting elegy. The Dragon of Dreams descended from its mountaintop, moved by Yasuo's song, and offered him its power..."
+      }
+    },
+    {
+      "id": 412028,
+      "name": "강철용 쓰레쉬",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 412028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Aquamarine": {
+            "id": 36
+          },
+          "Catseye": {
+            "id": 34
+          },
+          "Emberclaw": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Obsidian": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "The Steel Dragon, happiest curled up in its cavernous archive amidst its treasures, needed someone with a talent for acquiring esoteric new treasures—and its eye fell on Thresh. Honored to assist, Thresh's limitless appetite for acquisition warped into obsession. Now he stops at nothing to acquire what he wants, justifying his cruelty in the name of his benefactor."
+      }
+    },
+    {
+      "id": 497037,
+      "name": "용술사 라칸",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 497037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 41
+          },
+          "Citrine": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 42
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 45
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Rakan wished to fight by his beloved Xayah's side, vowing to be her worthy equal after she gained the fenghuang's blessing. This vow took him inward, to a landscape of his nightmares, to confront his fears given form. Unflinching in battles of the mind and body, guarding the purity of his heart and love, Rakan earned the grace of the Devotion Dragon."
+      }
+    },
+    {
+      "id": 497038,
+      "name": "프레스티지 용술사 라칸",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 497038,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-01-09",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 37,
+        "voiceactor": [
+          "Ronan Summers"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "The dragon-blessed Rakan sports clean-cut scale textures and sharp selections of armor to highlight his best angles. His charm shines through the elegant, organic swoops of his form-fitting wear—and his devotion to the runway is unbeatable."
+      }
+    },
+    {
+      "id": 875008,
+      "name": "흑요석용 세트",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 875008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 24
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 28
+          },
+          "Citrine": {
+            "id": 25
+          },
+          "Emberclaw": {
+            "id": 20,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2021"
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tenfold Triumph": {
+            "id": 55
+          }
+        },
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Once an outcast child, Sett swore he would gain power to destroy anyone who made him feel weak. The Obsidian Dragon took notice of his grit and ferocity and blessed him with obsidian-hardened skin. Sett now uses his superhuman strength to make a name for himself as a pit fighter, and every hit that bounces off his crystalline skin makes his enemies tremble."
+      }
+    },
+    {
+      "id": 875009,
+      "name": "프레스티지 흑요석용 세트",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 875009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-10-01",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 8,
+        "voiceactor": [
+          "Xander Mobus"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "After cementing his reputation as an indomitable pit fighter, Sett used his winnings to give his mother the comfortable life of their dreams. With her happiness secured, Sett returns to the pits, determined to mentor talented young fighters and remake the fighting pits into a system that rewards not the richest or the largest, but the most determined."
+      }
+    }
+  ]
+}

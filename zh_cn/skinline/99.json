@@ -1,0 +1,483 @@
+{
+  "id": 99,
+  "name": "世界奇观",
+  "description": "这些个体来自遥远的“地球”宇宙，那里的巨型雕像活了过来，并且每个人都戴着一顶有趣的帽子。它很像符文之地，如果你仔细寻思的话。",
+  "skins": [
+    {
+      "id": 5004,
+      "name": "翼骑统领 赵信",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 5004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-09-26",
+        "retired": "2015-08-29",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "Richard Epcar"
+        ],
+        "splashartist": [
+          "Robin Ruan"
+        ],
+        "lore": "A member of the vaunted winged hussars, Xin Zhao is one of the last standard bearers of a military order tracing its roots back to the late 17th century. Of course, his progenitors didn't ride an army of armored black pegasi into battle, but you know how it is."
+      }
+    },
+    {
+      "id": 13003,
+      "name": "美国大叔 瑞兹",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 13003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-03",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Uncle Ryze wants YOU… to get on the rift!"
+      }
+    },
+    {
+      "id": 17007,
+      "name": "熊猫 提莫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 17007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-09",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Kudos Productions"
+        ],
+        "lore": "Pandas aren't naturally aggressive towards humans, but this isn't a panda. It's Teemo dressed as a panda. Stay alert."
+      }
+    },
+    {
+      "id": 23003,
+      "name": "诸神的黄昏 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 23003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-06-24",
+        "retired": "2014-12-02",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Vikings believed that death in battle was a ticket to the eternal realm of Valhalla. Tryndamere's signature ability is being unable to die. You… you're seeing the issue here, right?"
+      }
+    },
+    {
+      "id": 23005,
+      "name": "奥斯曼大帝 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 23005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-09-26",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "Tryndamere is a ruler from a distant land, and tales of his impossible strength and distinctive mustache have reached even the farthest-flung city-states. As is the rule rather than the exception with rulers from distant lands, his hat is exceptional."
+      }
+    },
+    {
+      "id": 30002,
+      "name": "自由女神 卡尔萨斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 30002,
+        "formatname": "Statue of Karthus",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-03",
+        "set": [
+          "Wonders of the World"
+        ],
+        "vu": true,
+        "lore": "At the entry point of one of the world's most powerful nations stands the three-hundred-and-five-foot-tall statue of an evil, undead preacher holding a giant torch. Sometimes it comes to life. It's fun. Statues are fun."
+      }
+    },
+    {
+      "id": 34002,
+      "name": "联盟之喙 艾尼维亚",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-02",
+        "set": [
+          "Wonders of the World"
+        ]
+      }
+    },
+    {
+      "id": 34007,
+      "name": "庆典女皇 艾尼维亚",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-02-23",
+        "earlysale": "2017-07",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "For one week a year, Anivia takes a break from being a prophetic ice spirit of the Freljord, and takes off for warmer climes… somewhere people will appreciate her samba."
+      }
+    },
+    {
+      "id": 35006,
+      "name": "武动巅峰 萨科",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 35006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-01-08",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A practitioner of masked dance drama, many of Shaco's performances begin as social commentary on the plight of the working class, and end with a random audience member being stabbed in the spine. It's a show worth seeing if you don't think about that last part."
+      }
+    },
+    {
+      "id": 41006,
+      "name": "奥斯曼大帝 普朗克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-11-13",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Gangplank is a ruler from a distant land, and tales of his battle prowess and flowing red beard have reached even the farthest-flung city-states. As all rulers from distant lands, he also sports a snappy hat."
+      }
+    },
+    {
+      "id": 54001,
+      "name": "三叶草 墨菲特",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 54001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "retired": "2011-11-28",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "lore": "Malphite is a twenty-ton rock man who used to be part of an even larger rock that was destroyed, leaving him orphaned on a distinctly un-rocklike plane of existence. The guy could use a little luck."
+      }
+    },
+    {
+      "id": 58002,
+      "name": "荒野之咬 雷克顿",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 58002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-01-18",
+        "retired": "2017-11-01",
+        "set": [
+          "Wonders of the World"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "Crikey, what a ripper."
+      }
+    },
+    {
+      "id": 64004,
+      "name": "至高之拳 李青",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 64004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-24",
+        "set": [
+          "Wonders of the World"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 61
+          },
+          "Emerald": {
+            "id": 62
+          },
+          "Obsidian": {
+            "id": 66
+          },
+          "Pearl": {
+            "id": 67
+          },
+          "Rose Quartz": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 60,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 64
+          },
+          "Turquoise": {
+            "id": 63
+          }
+        },
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "Known as “the art of eight limbs”, Muay Thai is a multidisciplinary fighting style practiced by boxers for centuries. Lee Sin, who has mastered many forms of hand-to-hand combat, is among its greatest champions."
+      }
+    },
+    {
+      "id": 79006,
+      "name": "美酒节特使 古拉加斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 79006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-09-21",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "J.S. Gilbert"
+        ],
+        "lore": "Gragas is the world's premier authority on beverages. Here, at the international beverage festival and funfair, he's drinking a lot of them."
+      }
+    },
+    {
+      "id": 80001,
+      "name": "斯巴达之魂 潘森",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-02",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "“They say the Myrmidons were shaped by the gods—that Zeus himself quickened life into magma. But then, the Myrmidons marched. They marched against us. And in the ash of their skin, the fire of their merciless eyes, I saw all the wars that humanity had wrought. That they... were us.”"
+      }
+    },
+    {
+      "id": 80005,
+      "name": "大夏武士 潘森",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-05-30",
+        "retired": "2017-11-01",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Born of a wolf, and bearing the wolf's standard into battle, this Dacian glaive warrior fights in the cold of the Carpathian Mountains—knowing that the blood of his enemies will keep him warm."
+      }
+    },
+    {
+      "id": 90001,
+      "name": "元老议会 玛尔扎哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "retired": "2012-03-19",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "Vic Mignogna"
+        ]
+      }
+    },
+    {
+      "id": 103001,
+      "name": "高丽风情 阿狸",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 103001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-14",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "chromas": {
+          "Ahri-versary": {
+            "id": 52
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Yuhong Ding",
+          "West Studio"
+        ],
+        "lore": "Though Ahri's royal blood is obvious in her fashion and poise, she much prefers running across rooftops and causing general mischief to being locked up in a castle. Life's more fun with laughter, don't you think?"
+      }
+    },
+    {
+      "id": 113004,
+      "name": "战熊骑士 瑟庄妮",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-07-31",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Sejuani has taken to battle on an armored, one-eyed warbear the size of a shed, while swinging a land mine on a chain, wearing a delightfully vintage red-star hat. Good luck out there!"
+      }
+    }
+  ]
+}

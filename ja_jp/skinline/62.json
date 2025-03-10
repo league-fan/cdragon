@@ -1,0 +1,55 @@
+{
+  "id": 62,
+  "name": "死の華",
+  "description": "北部の森には樹木のクリーチャーが眠っている。疲れた旅人も、勇敢な戦士も、彼らに気付くことはない。この土地と同じくらい悠久の時を過ごしてきた恐ろしいクリーチャーたちは辛抱強く好機をうかがい、完璧なタイミングで攻撃を仕掛ける。そして獲物の肉と骨で宴を楽しみ、大地は暗く、濃い深紅の色に染まる。",
+  "skins": [
+    {
+      "id": 60001,
+      "name": "死の華エリス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 60001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-10-26",
+        "set": [
+          "Death Blossom"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Sydney Rainin-Smith"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "An enchanting beauty she is, lithe in form, and colored like the flowering valleys frozen mid-bloom by winter's chill. Yet the creature Elise dines upon the flesh of maidens, allured by her delicate pulchritude, who dance softly into the jaws of a monster."
+      }
+    },
+    {
+      "id": 121003,
+      "name": "死の華カ＝ジックス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 121003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-03-17",
+        "earlysale": "2016-09",
+        "set": [
+          "Death Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Hidden among the great flower-fields of the north are the Death Blossoms, primeval hunters whose disarming beauty would lull even the bravest knight to tears, if but for a moment. For Kha'Zix, feeding upon these hardy souls offers yet another chance at metamorphosis… and a moment is all he needs."
+      }
+    }
+  ]
+}

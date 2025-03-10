@@ -1,0 +1,617 @@
+{
+  "id": 53,
+  "name": "ブリッツクランク",
+  "alias": "Blitzcrank",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/53.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 53000,
+      "name": "ブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 53000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-09-01",
+        "chromas": {
+          "Cobalt": {
+            "id": 9
+          },
+          "Gunmetal": {
+            "id": 10
+          },
+          "Molten": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump. Blitzcrank selflessly uses his strength and durability to protect others, extending a helpful metal fist or burst of energy to subdue any troublemakers."
+      }
+    },
+    {
+      "id": 53001,
+      "name": "錆びついたブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Limited Availability",
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2010-01-17",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ]
+      }
+    },
+    {
+      "id": 53002,
+      "name": "ゴールキーパー ブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-24",
+        "set": [
+          "Soccer Cup"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "One of the all time greatest keepers for Chaos FC, Blitzcrank has finally taken their place in the Sports Hall of Fame. Their image rests proudly with the likes of Volleyball Dragon, Women's Tennis Scuttle Crab, and Badminton Baron Nashor."
+      }
+    },
+    {
+      "id": 53003,
+      "name": "ボクサー ブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-29",
+        "set": [
+          "Day Job"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "Their fists are named “boom” and “boom,” proving that robots are a perfect facsimile of human life."
+      }
+    },
+    {
+      "id": 53004,
+      "name": "ピルトーヴァー ブリッツクランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2011-03-07",
+        "set": [
+          "Piltover Customs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra."
+      }
+    },
+    {
+      "id": 53005,
+      "name": "これじゃないブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "set": [
+          "Definitely Not"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "I, not a robot."
+      }
+    },
+    {
+      "id": 53006,
+      "name": "iBlitzcrank",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53006,
+        "formatname": "iBlitzcrank",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-03-01",
+        "set": [
+          "Program"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "Built as household assistance automata, thousands of iBlitzcranks were corrupted by Program during a routine software update. With their human owners oblivious to this fact, they continue to help, waiting patiently for the time their new command lines are initiated."
+      }
+    },
+    {
+      "id": 53007,
+      "name": "Riot ブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-10-21",
+        "set": [
+          "Riot"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2013."
+      }
+    },
+    {
+      "id": 53011,
+      "name": "バトルボス ブリッツクランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-08-19",
+        "earlysale": "2016-01",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 12
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rainbow": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 16
+          },
+          "Sapphire": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A boss hailing from a popular science fiction shooter, Blitzcrank is well known in the gaming community for cheap mechanics, powerful attacks, and a massive health pool. Veigar fittingly made them the gatekeeper of his personal fortress, because Veigar hates fun."
+      }
+    },
+    {
+      "id": 53020,
+      "name": "ダークランサー ブリッツクランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-11-16",
+        "earlysale": "2018-05",
+        "set": [
+          "Lancer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "variant": 21,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "An ancient sentinel corrupted by mysterious black lightning, Rogue Lancer Blitzcrank mercilessly crushes provincial armies, destroying entire castles with kings still on their thrones. What caused its rampage is still uncertain, but for now it seems to be following its dread protocol to the letter."
+      }
+    },
+    {
+      "id": 53021,
+      "name": "ライトランサー ブリッツクランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-11-16",
+        "earlysale": "2018-05",
+        "set": [
+          "Lancer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "variant": 20,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "A silent protector of the masses, the artificial paladin Blitzcrank was aroused from the earth by a bolt of mysterious white lighting. It now serves all honorable subjects, defending with true and calculated precision."
+      }
+    },
+    {
+      "id": 53022,
+      "name": "魔女の大釜ブリッツクランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53022,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-10-24",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 25
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments."
+      }
+    },
+    {
+      "id": 53029,
+      "name": "スペースグルーヴ ブリッツ＆クランク",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53029,
+        "formatname": "Space Groove Blitz & Crank",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-04-01",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 32
+          },
+          "Catseye": {
+            "id": 31
+          },
+          "Disco": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Space Groove 2021"
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Joe Zieja"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Blitz and Crank are Cat Planet's fiercest warriors, and work together seamlessly (mostly) to pilot their mech, Blitzcrank. While Crank believes that he can overcome his lack of rhythm with the help of his exuberant copilot, Blitz is… well… he's busy dancing to his own beat. Together they plan to take over Dog Planet and claim its sunbeams for themselves."
+      }
+    },
+    {
+      "id": 53036,
+      "name": "勝利の栄光ブリッツクランク",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53036,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2021-11-16",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Solo/Duo Platinum": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Diamond": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Master": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Grandmaster": {
+            "id": 40,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Solo/Duo Challenger": {
+            "id": 41,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Platinum": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Diamond": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Master": {
+            "id": 44,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Grandmaster": {
+            "id": 45,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          },
+          "Flex Challenger": {
+            "id": 46,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2022"
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "Victorious Blitzcrank was awarded to players who reached Gold or higher in the 2021 season. "
+      }
+    },
+    {
+      "id": 53047,
+      "name": "至高のゲーム ブリッツクランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53047,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-09",
+        "set": [
+          "Zenith Games"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 50
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Obsidian": {
+            "id": 55
+          },
+          "Pearl": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Originally a bomb defusal robot, Blitzcrank was made a referee because of their ability to make split-second adjustments to stay ahead of the prodigious athletes. Only later did everyone realize that the bot's background made them unusually effective in defusing the intense... disagreements that often arise."
+      }
+    },
+    {
+      "id": 53056,
+      "name": "ブンブン クランク",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53056,
+        "formatname": "Beezcrank",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-22",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 62
+          },
+          "Emerald": {
+            "id": 59
+          },
+          "Obsidian": {
+            "id": 61
+          },
+          "Pearl": {
+            "id": 60
+          },
+          "Rainbow": {
+            "id": 64
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 57,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Beezcrank has a reputation for getting his bee-infantry into sticky situations. Probably because of that giant honey-comb mech-arm."
+      }
+    }
+  ]
+}

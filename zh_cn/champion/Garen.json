@@ -1,0 +1,535 @@
+{
+  "id": 86,
+  "name": "德玛西亚之力",
+  "alias": "Garen",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/86.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 86000,
+      "name": "德玛西亚之力",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 86000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 260,
+        "release": "2010-04-27",
+        "chromas": {
+          "Garnet": {
+            "id": 7
+          },
+          "Ivory": {
+            "id": 9
+          },
+          "Plum": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel."
+      }
+    },
+    {
+      "id": 86001,
+      "name": "战神阿瑞斯 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "retired": "2017-11-01",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ]
+      }
+    },
+    {
+      "id": 86002,
+      "name": "黄金骑士 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "retired": "2012-03-19",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ]
+      }
+    },
+    {
+      "id": 86003,
+      "name": "铁甲雄心 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-08",
+        "set": [
+          "Commando"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Zhang Ji"
+        ],
+        "lore": "Most commandos excel at amphibious attacks and military paragliding. This one spins very fast toward things while holding a giant sword. It's basically the same."
+      }
+    },
+    {
+      "id": 86004,
+      "name": "死亡骑士 盖伦",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86004,
+        "availability": "Available",
+        "looteligible": true,
+        "distribution": "Twitter Distribution",
+        "cost": 975,
+        "release": "2011-01-18",
+        "set": [
+          "Dreadknights"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "lore": "Once a valiant hero, Dreadknight Garen fell to the promise of power great enough to save his land. Now, twisted by the corrupting magic of his Master, he commands the frozen legions in their march upon the living. Only desolation remains in his wake."
+      }
+    },
+    {
+      "id": 86005,
+      "name": "孤高游侠 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-08-15",
+        "set": [
+          "Rift Quest"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Mingchen Shen",
+          "West Studio"
+        ],
+        "lore": "Also known as “Handsome Garen,” this wandering warrior and extremely original NPC was created by Braum for his Riftquest game. Garen eventually adopted the character as his own, liking the fantasy of himself, but rugged."
+      }
+    },
+    {
+      "id": 86006,
+      "name": "钢铁军团 盖伦",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-02-01",
+        "set": [
+          "Steel Legion"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Garen is a steam-powered knight serving at the head of the Steel Legion's vanguard, feared by his enemies and respected by his allies in equal measure. His blade is one of a kind: a thaumaturgical innovation of science and magic, overflowing with sparking plasma."
+      }
+    },
+    {
+      "id": 86010,
+      "name": "海上霸主 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-07-22",
+        "earlysale": "2016-01",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A faded bounty poster from the Demacian naval authorities notes that Admiral Garen is a deadly adversary, and should be engaged with caution, lest he cut off your head and send it back to the capital. Each year, the Demacian naval authorities receive a disconcerting number of human heads."
+      }
+    },
+    {
+      "id": 86011,
+      "name": "张辽 文远",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-01-19",
+        "set": [
+          "Lunar Revel: Warring Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2018"
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "Brave guardian of Azir's ancient fortress, Garen is a mighty warrior who charges fearlessly into even the most hopeless battles. He fights for the glory of his ruler and the safety of his people, a powerful, if headstrong, force for justice."
+      }
+    },
+    {
+      "id": 86013,
+      "name": "神王 盖伦",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2018-06-27",
+        "set": [
+          "Battle of the God-Kings"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Mick Lauer"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "God-King Garen stands as the last scion of an ancient divinity, and the final bulwark against the end of all civilization. He rules the vast kingdom of Demacia with an iron fist, jealously protecting his people as a self-styled messiah, while rooting out and destroying all who would oppose him."
+      }
+    },
+    {
+      "id": 86014,
+      "name": "德玛西亚警官 盖伦",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-07-18",
+        "set": [
+          "Demacia Vice"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 20
+          },
+          "Catseye": {
+            "id": 19
+          },
+          "Neon Noir": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "As chrome eagles cry and steel panthers growl, lightning hot justice is delivered nightly by Detective Garen Stryker on the neon-drenched streets. A black belt in Ionian martial arts, this katana wielding cop pushes it to the limit with every case... for Demacia!"
+      }
+    },
+    {
+      "id": 86022,
+      "name": "王国机神玄武 盖伦",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-15",
+        "set": [
+          "Mecha Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Clare Wong",
+          "West Studio"
+        ],
+        "lore": "Once a ruthless warlord, Garen led his armies to victory after victory, laying the foundations for the Vercentia Kingdom. When the leviathans appeared out of nowhere, he opted to put aside his dream of uniting all the Great Kingdoms under his rule, and instead to march his newly-fashioned Avalon alongside his former enemies for the sake of humanity."
+      }
+    },
+    {
+      "id": 86023,
+      "name": "至臻 王国机神玄武 盖伦",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-01-15",
+        "set": [
+          "Mecha Kingdoms"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 22,
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "Having been elected the leader of the United Great Kingdoms, Garen will stop at nothing until the safety of his people is ensured. Armed with an Avalon upgraded to the teeth, he stands at the forefront of the mightiest warriors from across the land, determined to lead them into battle until the leviathans are no more."
+      }
+    },
+    {
+      "id": 86024,
+      "name": "战斗学院 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 32
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "'Brother' to Lux, Garen is the only biological child of his family, but was neglected from an early age as his parents spent all their time developing the god-weapon fragment that would one day become their daughter. As he vented his anger in increasingly delinquent ways, Labrys sought him out for enrollment, where he eventually joined the Battle Club."
+      }
+    },
+    {
+      "id": 86033,
+      "name": "剪纸仙灵 盖伦",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86033,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-01-12",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 37
+          },
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Gilded": {
+            "id": 42,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2023"
+          },
+          "Paragon": {
+            "id": 45,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Silvia Meiliani",
+          "Caravan Studio"
+        ],
+        "lore": "As the town's leader in “The Great Beast Galio”, Garen's chief concern is the safety of his people in the face of a fierce enemy. When the story is thrown off, however, Irelia convinces him to help by showing Garen that Galio can be reasoned with, perhaps even stopped entirely if they make a friend out of a foe."
+      }
+    },
+    {
+      "id": 86044,
+      "name": "堕落神王 盖伦",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86044,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Capsules or opening 30 Capsules",
+        "release": "2024-08-28",
+        "set": [
+          "Battle of the God-Kings"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 13,
+        "voiceactor": [
+          "Mick Lauer"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "God-King Garen stands as the last scion of an ancient divinity, and the final bulwark against the end of all civilization. He rules the vast kingdom of Demacia with an iron fist, jealously protecting his people as a self-styled messiah, while rooting out and destroying all who would oppose him."
+      }
+    }
+  ]
+}

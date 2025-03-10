@@ -1,0 +1,434 @@
+{
+  "id": 126,
+  "name": "杰西",
+  "alias": "Jayce",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/126.png",
+  "roles": [
+    "marksman",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 126000,
+      "name": "杰西",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 126000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-07-06",
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "Jayce Talis is a brilliant inventor who, along with his friend Viktor, made the first great discoveries in the field of hextech. Celebrated across Piltover, he tries to live up to his reputation as \"the Man of Progress,\" but often struggles with the expectations placed upon him. Because of this, Jayce has begun to see the ways in which his invention has furthered the division between Piltover and Zaun—and armed with his hextech hammer, he stands ready to defend tomorrow."
+      }
+    },
+    {
+      "id": 126001,
+      "name": "重武裝 杰西",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-07-06",
+        "filter": true,
+        "set": [
+          "Heavy Metal"
+        ],
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Backed by RiotCorp as the Full Metal Fighting League's first corporately sanctioned champion, Jayce has dethroned Pantheon and won the hearts of audiences worldwide—especially those who realize they gain 15 Riot Points every time they cheer his cyclonic blasts."
+      }
+    },
+    {
+      "id": 126002,
+      "name": "決勝賭豪 杰西",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-02-14",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "You're a scholar. You're an inventor. You're the man of the hour and the hour is now, yesterday, and tomorrow. Don't just be the father of invention—be the ivory god of substance, class, and style. It's you, Jayce. It's always been you."
+      }
+    },
+    {
+      "id": 126003,
+      "name": "被遺忘者 杰西",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-05-03",
+        "earlysale": "2015-12",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Opposed to balance in all measures, Jayce has gone down a path he cannot return from. He has sworn vengeance upon Chosen Master Yi and all he stands for."
+      }
+    },
+    {
+      "id": 126004,
+      "name": "光明錘士 杰西",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126004,
+        "formatname": "Jayce Brighthammer",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-11-17",
+        "earlysale": "2017-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A noble paladin who has inexplicably mastered science and engineering, Jayce Brighthammer is a stout ally no foul creature can best! Unless that foul creature is a loophole in the rulebook, since Jayce likes to get any advantage over the Rift Master he can."
+      }
+    },
+    {
+      "id": 126005,
+      "name": "戰爭學院 杰西",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-05-15",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 13,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Formal": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 6
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 10
+          },
+          "Tanzanite": {
+            "id": 11
+          },
+          "Turquoise": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A prestigious 2nd year whose face is known throughout the wider city of Durandal, Jayce is the class president, head of the world-renowned Luminary Club, and prodigious inventor of miraculous Jayce-branded technologies. He hopes his inventions will prevent the kind of tragedy that struck him in his youth, though he refuses to speak about what that was."
+      }
+    },
+    {
+      "id": 126015,
+      "name": "鋼鐵叛軍 杰西",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-12",
+        "set": [
+          "Battlecast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 17
+          },
+          "Emerald": {
+            "id": 18,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          },
+          "Tanzanite": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Xuning Cui",
+          "Kudos Productions"
+        ],
+        "lore": "While many presumed him dead, Jayce's sudden return to the Resistance has been heralded by some as a miracle and others as a curse. Burdened by guilt, he still blames himself for his failure to halt Viktor's rise. Only time will tell if Jayce can turn the tide."
+      }
+    },
+    {
+      "id": 126024,
+      "name": "奧術發明家 杰西",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126024,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-11-08",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 126025,
+      "name": "頂尖對決 杰西",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-09",
+        "set": [
+          "Zenith Games"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 33
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 26,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "West Studio"
+        ],
+        "lore": "Jayce invented Hammerjack as a showcase sport for humanity's new augmented abilities. Nothing else tested athletes across so many directions and terrain, and with this being its first year in the Zenith Games, he intends to show everyone what THE sport of the 22nd century looks like."
+      }
+    },
+    {
+      "id": 126034,
+      "name": "T1 杰西",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126034,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-08-14",
+        "set": [
+          "World Champions: 2023"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "Kelvin Law",
+          "Mo Yan"
+        ],
+        "lore": "Honoring Zeus's winning performance as Jayce during the 2023 World Championship."
+      }
+    },
+    {
+      "id": 126035,
+      "name": "奧術倖存者 杰西",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126035,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-11-20",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Alsie Lau"
+        ],
+        "lore": "Jayce Talis faces a nightmarish possibility: the end of progress. The arcane transformed him, upending his world. Even his hextech hammer feels altered, wielding the weight of a gavel against threats to the future. What he has seen left him bloodied, what he survived nearly broke him—but he remains determined to keep a promise only he can fulfill."
+      }
+    },
+    {
+      "id": 126036,
+      "name": "尊爵不凡 T1 杰西",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126036,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-08-14",
+        "set": [
+          "World Champions: 2023"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 34,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "After T1's shocking defeat at last year's Summoner's Cup, many lost hope that they'd ever be able to reclaim their throne. But Jayce's support for these legends never wavered. Sporting a bright white-and-gold glow, he stands tall in the front row and proudly cheers every victory, great or small, against WBG—a symbol of hope for all die-hard T1 fans."
+      }
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+{
+  "id": 86,
+  "name": "지옥",
+  "description": "세상을 전부 태우는 일에는 상상할 수 없는 힘이 필요하기에 잿빛 군주는 지옥 군단의 불길을 빌려오기 위해 그들을 불러냈습니다. 가장 어두운 심연에 있는 군단은 각자가 끔찍한 힘을 지니고 있지만, 모두가 똑같이 불타는 열정으로 부름에 응한 것은 아닙니다.",
+  "skins": [
+    {
+      "id": 2044,
+      "name": "지옥의 올라프",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 2044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-30",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 51
+          },
+          "Aquamarine": {
+            "id": 50
+          },
+          "Catseye": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 48,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Rainbow": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 46
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 49
+          }
+        },
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "As self-destructive as he is deadly, Infernal Olaf fervidly embraced the Infernal flame. Giving himself over to it, body and soul, he lives to serve the Ashen Lord and will destroy anything and everything in his path."
+      }
+    },
+    {
+      "id": 3013,
+      "name": "지옥의 갈리오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 3013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-05",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Peridot": {
+            "id": 14
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Josh Petersdorf"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A black-hearted monstrosity leading the hellish Infernal hordes, Galio is titanic even by the standards of his fiery kin. His steps melt the very bedrock beneath him, swallowing entire armies without so much as a second thought."
+      }
+    },
+    {
+      "id": 12006,
+      "name": "지옥의 알리스타",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-13",
+        "set": [
+          "Infernal"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Concept Art House"
+        ],
+        "lore": "Leading from the front of the Infernal invasion, Alistar is a lumbering juggernaut whose ponderous movements bely unimaginable strength and speed. Dozens of armies have fallen before him, overwhelmed suddenly and completely by his power."
+      }
+    },
+    {
+      "id": 19006,
+      "name": "불송곳니 워윅",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 19006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-03-29",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ],
+        "lore": "The Ashen Lord's hounds blaze with the fires of unspeakable molten hellscapes, and at their head is Warwick, the Firefang. Scouring the earth for anything untouched by flame, he relentlessly hunts the survivors of Infernal attacks, reducing them to sputtering cinders."
+      }
+    },
+    {
+      "id": 22067,
+      "name": "지옥의 애쉬",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 22067,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-30",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 72
+          },
+          "Aquamarine": {
+            "id": 70
+          },
+          "Catseye": {
+            "id": 69
+          },
+          "Emerald": {
+            "id": 71
+          },
+          "Pearl": {
+            "id": 75
+          },
+          "Rose Quartz": {
+            "id": 73
+          },
+          "Ruby": {
+            "id": 68,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 74
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Using her accursed bow, Ashe sets her sights on all who have not already willingly joined the Ashen Lord's army. Once pierced by her blazing arrows, her mark immediately becomes consumed by the Infernal flame and damned to serve within his legions forevermore."
+      }
+    },
+    {
+      "id": 30010,
+      "name": "지옥의 카서스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 30010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 12
+          }
+        },
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land."
+      }
+    },
+    {
+      "id": 32017,
+      "name": "지옥의 아무무",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 32017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-10-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "When ancient pyromancers unleashed the malevolent Infernals upon the world, they also unintentionally summoned younger, lonelier creatures. A mere spark compared to the fiery monsters now ravaging the land, Amumu seeks only friendship… unwittingly incinerating all those he touches."
+      }
+    },
+    {
+      "id": 33003,
+      "name": "용암 람머스",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 33003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-07-13",
+        "retired": "2013-07-18",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "An unstoppable warbeast drummed up from the Infernal hordes, Rammus simply chooses a direction and begins spinning—through homes, armies, and nations alike, burning everything to ashes."
+      }
+    },
+    {
+      "id": 43061,
+      "name": "지옥의 카르마",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 43061,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-05-30",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 68
+          },
+          "Aquamarine": {
+            "id": 64
+          },
+          "Catseye": {
+            "id": 63
+          },
+          "Pearl": {
+            "id": 69
+          },
+          "Peridot": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 66
+          },
+          "Ruby": {
+            "id": 62,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 67
+          }
+        },
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Possessed by a spirit of the Infernal flame, Karma was once a powerful pyromancer of the Shadowfire Temple. Believing it possible to control the flame spirit, she captured it hoping to put an end to the Ashen Lord's reign but succumbed to the hellfire like all the rest."
+      }
+    },
+    {
+      "id": 54004,
+      "name": "흑요석 말파이트",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 54004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-15",
+        "retired": "2015-08-29",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "lore": "As great mountains were ripped from their foundations during the rise of the Ashen Lord, from deep beneath them climbed strange, obsidian creatures, freed for the first time after thousands of years. They seem intent on stopping the Infernals, and are uniquely suited to defeating them."
+      }
+    },
+    {
+      "id": 57001,
+      "name": "그을린 마오카이",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 57001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-02-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ],
+        "lore": "Once a steward of the gentle treefolk, Maokai was consumed along with his people when the Infernals ravaged the world. Now, brimming with rage, he seeks only to spread his anger and misery to anything that crosses his path."
+      }
+    },
+    {
+      "id": 58005,
+      "name": "용광로 레넥톤",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 58005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-02-10",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "What is an Infernal but the screams beckoning from the darkest corners of mortal imagination? For centuries they were considered nothing more than myth—and yet, now, monstrosities such as Renekton roam freely, punishing us all for the last fleeting gasp of our own hubris."
+      }
+    },
+    {
+      "id": 62001,
+      "name": "불원숭이 오공",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-26",
+        "set": [
+          "Infernal"
+        ],
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "lore": "A greater Infernal whose power is drawn from the molten rock bubbling beneath the earth, Wukong's rage causes mountains to split, lava to rain from the sky, and rivers to become blackened glass. Still, he will never back down from any challenge—and this, perhaps, will be the key to his defeat."
+      }
+    },
+    {
+      "id": 75005,
+      "name": "지옥의 나서스",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 75005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2013-11-20",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Erik Todd Dellums"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "lore": "The greater Infernals are somehow even more cruel and hateful than their lesser counterparts, and Nasus is no exception. A three-headed monstrosity raised from some far-flung, hellish abyss, he withers life with his merest touch… then burns it away."
+      }
+    },
+    {
+      "id": 82002,
+      "name": "지옥의 모데카이저",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 82002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-24",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "An ancient, Infernal general who attacks without feeling or remorse, Mordekaiser raises the incinerated corpses of his victims as soldiers for his own vast armies. They sweep across the world like a burning plague, annihilating all life."
+      }
+    },
+    {
+      "id": 84002,
+      "name": "지옥의 아칼리",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 84002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-11",
+        "retired": "2012-03-19",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A djinn summoned from the world below, the Infernal known as Akali will burn her patron's enemies to cinders… though the cost for such service is always dire."
+      }
+    },
+    {
+      "id": 85008,
+      "name": "지옥의 케넨",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 17
+          },
+          "Rainbow": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A playful spirit of fire, Kennen is not a malevolent being, but can't help igniting his surroundings while zipping about. His lightning quick movements wreak havoc upon any village unfortunate enough to entice the impish spirit to visit."
+      }
+    },
+    {
+      "id": 98016,
+      "name": "지옥의 쉔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 98016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-05",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Peridot": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Keith Silverstein"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "An Infernal warrior risen from the raging depths of the underworld, Shen appears on battlefields in the blink of an eye, shielding his fellow titans from even the most well-organized resistance."
+      }
+    },
+    {
+      "id": 101003,
+      "name": "용광로 제라스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 101003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-07-13",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ],
+        "lore": "A highly unstable creature born from roiling magma, Xerath possesses a keen intellect, awaiting the day he might ascend through the ranks of the Infernal war machine, and usurp the Ashen Lord himself. For now his ambitions remain secret, but… soon… soon…"
+      }
+    },
+    {
+      "id": 103003,
+      "name": "불여우 아리",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 103003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-11",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Ahri-versary": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 75,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Jeremy Chong",
+          "West Studio"
+        ],
+        "lore": "A young, talented pyromancer from the Shadowfire Temple, Ahri gave up her quiet life when a faction of extremists unleashed the burning horrors of the Ashen Lord. Now she uses her fire magic to fight against them, even though all hope seems lost."
+      }
+    },
+    {
+      "id": 110009,
+      "name": "지옥의 바루스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 110009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-09-05",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 14
+          },
+          "Peridot": {
+            "id": 10
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The Infernal Varus rips massive gouts of magma from the foundation of the earth, before firing them in volleys at those who would fight back against him. Each arrow lands with the ferocity of an exploding volcano, reducing all resistance to ash."
+      }
+    },
+    {
+      "id": 131003,
+      "name": "지옥의 다이애나",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-04-20",
+        "earlysale": "2016-09",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Yan Li"
+        ],
+        "lore": "Chief among the lesser Infernals is Diana, a blistering elemental terror sent ahead of the main invasion forces to assassinate key officials and set cities ablaze. Even her kin regard her methods as extreme, and she has been rightly elevated for it."
+      }
+    },
+    {
+      "id": 136001,
+      "name": "잿빛 군주 아우렐리온 솔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 136001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-03-24",
+        "earlysale": "2016-09",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Neil Kaplan"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Pyromancer cultists unwisely summoned the god of fire and ruin—the Ashen Lord—into the world hoping to control his power. Instead, he unleashed his infernal legions to remake all things in his image: cinder, ash, and death."
+      }
+    },
+    {
+      "id": 143001,
+      "name": "불타는 자이라",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 143001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-24",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "Once a forest nymph, Zyra was consumed by the Infernals' burning touch. Now, she seeks nothing more than to spread wildfire throughout the forests and valleys of her dying world."
+      }
+    },
+    {
+      "id": 161004,
+      "name": "지옥의 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Rainbow": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury."
+      }
+    },
+    {
+      "id": 203001,
+      "name": "그림자 불꽃 킨드레드",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-10-13",
+        "earlysale": "2016-02",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "When the Ashen Lord rose, high priests of the Shadowfire Temple called upon their own god to fend off the all-consuming Infernals. They neglected, however, to account for the being's twin aspects: Destruction, and Rebirth. Kindred will fight the flames, but there may be a bitter price to pay before the end…"
+      }
+    }
+  ]
+}

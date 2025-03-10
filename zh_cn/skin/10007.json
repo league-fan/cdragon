@@ -1,0 +1,56 @@
+{
+  "id": 10007,
+  "contentId": "24e8fda8-b5de-4c66-b16c-44545b5b202d",
+  "isBase": false,
+  "name": "防暴天使 凯尔",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin07/Images/kayle_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin07/Images/kayle_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin07/Images/kayle_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin07/KayleLoadscreen_7.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Glory of Justice",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/24.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/24.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 37
+    }
+  ],
+  "description": "获取方式：在2014年与一位RIOT员工碰面，或是参加一个官方的RIOT事件。",
+  "wikiSkinData": {
+    "id": 10007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-08-12",
+    "set": [
+      "Riot"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "splashartist": [
+      "John Yucedag"
+    ],
+    "lore": "A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2014."
+  }
+}

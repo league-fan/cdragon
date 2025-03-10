@@ -1,0 +1,612 @@
+{
+  "id": 238,
+  "name": "影流之主",
+  "alias": "Zed",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/238.png",
+  "roles": [
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 238000,
+      "name": "影流之主",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 238000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-11-13",
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia’s magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order."
+      }
+    },
+    {
+      "id": 238001,
+      "name": "冲击之刃 劫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-11-13",
+        "set": [
+          "Shockblade"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 6
+          },
+          "Catseye": {
+            "id": 5
+          },
+          "Emerald": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 4
+          },
+          "Ruby": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "An elite operative of the Shockblade order, Zed dives into battle with lightning-fast lethality. Though his former partner Shen hasn't forgiven himself for nearly getting Zed killed, Zed still urges him to return to the front lines; and yet the Storm rages on, whether or not the duo are reunited. Zed will bring its fury to bear alone if he must."
+      }
+    },
+    {
+      "id": 238002,
+      "name": "SKT T1 劫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-05-04",
+        "set": [
+          "World Champions: 2013"
+        ],
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Bo Lu"
+        ],
+        "chromas": {
+          "Paragon": {
+            "id": 67,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Signature Immortalized Legend Collection Exclusive"
+          }
+        },
+        "lore": "Honoring Faker's winning performance as Zed during the 2013 World Championship."
+      }
+    },
+    {
+      "id": 238003,
+      "name": "源计划：阴 劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238003,
+        "formatname": "PROJECT: Zed",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-09-07",
+        "earlysale": "2016-03",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Reckoning": {
+            "id": 14,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Rising from the Command Line, Zed is a leader within PROJECT's counter-espionage units. He seeks out the G/NETIC rebels with split high frequency blades and molecular “solid smoke” projectors, favoring close-proximity and multiple angle target laceration."
+      }
+    },
+    {
+      "id": 238010,
+      "name": "冠军之隐 劫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-09-25",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2018"
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Celebrating Worlds 2016 in North America."
+      }
+    },
+    {
+      "id": 238011,
+      "name": "死亡誓约 劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238011,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-10-25",
+        "set": [
+          "Death Sworn"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Having lived his life in the shadows, Zed's eventual return from the dead should have come as no surprise to anyone. A master of unliving darkness, he is only too happy to spend all eternity spilling mortal blood, as one of the Death Sworn."
+      }
+    },
+    {
+      "id": 238013,
+      "name": "天煞 劫",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-04-18",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 26
+          },
+          "Merc": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2020"
+          },
+          "Mythic": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Zed was a promising Templar before he became host to the hivemind of ora and imbued with its alien essence. Able to morph his body into living weapons, he now sees himself as the perfect life form, deserving of all ora and destined to cleanse the galaxy of the weak."
+      }
+    },
+    {
+      "id": 238015,
+      "name": "灵能特工 劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-09-17",
+        "set": [
+          "Black Rose Group"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 18
+          },
+          "Hunter": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PsyOps 2020"
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 20
+          },
+          "Sapphire": {
+            "id": 21
+          },
+          "Tanzanite": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 23
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Known as the “Gas Can Man” in paramilitary circles, Zed is an infamous mercenary picked up by the Black Rose Group during one of their covert actions. His psionic powers are tied to a mysterious oil-like substance he ingests through his mask, allowing him to duplicate himself for assassinations and open combat."
+      }
+    },
+    {
+      "id": 238030,
+      "name": "至臻 源计划：阴 劫",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238030,
+        "formatname": "Prestige PROJECT: Zed",
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-06-24",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 3,
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "lore": "Faced with imminent defeat at the hands of Mordekaiser and the numberless hordes of infected machines, Zed seeks out a dilapidated research facility in the heart of the wasteland, searching for illegal and potentially dangerous upgrades. His return may mark a tipping point in the battle for the City… though he has transformed into something beyond both human and machine."
+      }
+    },
+    {
+      "id": 238031,
+      "name": "影执事 劫",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-12-09",
+        "set": [
+          "Debonair"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 33
+          },
+          "Cerulean Club": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Debonair 2021"
+          },
+          "Emerald": {
+            "id": 34
+          },
+          "Obsidian": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "The most powerful (and powerfully dressed) man in Nox Vegas, Zed has been dabbling in more than fancy parties and cutthroat dealmaking. A new crowd from Crime City has entered his inner circle, granting this debonair gentleman an unbreakable stranglehold over the strip… and a dreadful new change in both mind and body."
+      }
+    },
+    {
+      "id": 238038,
+      "name": "至高天 劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-11-03",
+        "set": [
+          "Empyrean"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 46
+          },
+          "Catseye": {
+            "id": 42
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Neon Flare": {
+            "id": 48,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2022"
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 43
+          },
+          "Turquoise": {
+            "id": 47
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "West Studio"
+        ],
+        "lore": "The Foreglow is a power many desire, but Zed resents how it exposes him. His is a strength born from darkness, away from prying eyes. Perhaps in the fallen Husk realm left in Pyke's wake can he build a new domain of shadows, one that no Empyrean can topple."
+      }
+    },
+    {
+      "id": 238049,
+      "name": "玉剑传说 无劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238049,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-08-16",
+        "set": [
+          "Immortal Journey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 55
+          },
+          "Catseye": {
+            "id": 51
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 50,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 54
+          },
+          "Turquoise": {
+            "id": 56
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "When Zed became immortal and began studying the other realms, a new desire took hold: knowledge was everywhere, so he needed to BE everywhere. Upon discovering his explorations, the Grounded Foresight School banished him. Zed doesn't care, though, for he's found a new demonic power, allowing him to be everywhere and all-knowing."
+      }
+    },
+    {
+      "id": 238058,
+      "name": "腥红之月 劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238058,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-17",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 62
+          },
+          "Catseye": {
+            "id": 60
+          },
+          "Emerald": {
+            "id": 63
+          },
+          "Obsidian": {
+            "id": 66
+          },
+          "Pearl": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 59,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 61
+          },
+          "Turquoise": {
+            "id": 64
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Mo Yan"
+        ],
+        "lore": "As loyalty fractures within the Blood Moon cult, Zed remains Twisted Fate's unshakable right hand and personal power broker. He trades in secrets, shadows, and blood, all while using his mastery over his demon to increase the cult's influence. What Twisted Fate doesn't know is that Zed is also searching for his lost acolyte, stolen by the Snow Moon."
+      }
+    },
+    {
+      "id": 238068,
+      "name": "灭世 天煞 劫",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238068,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "1% drop rate from the Sanctum or opening 40 Ancient Sparks",
+        "release": "2025-02-20",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "variant": 13,
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Zed was a promising Templar before he became host to the hivemind of ora and imbued with its alien essence. Able to morph his body into living weapons, he now sees himself as the perfect life form, deserving of all ora and destined to cleanse the galaxy of the weak."
+      }
+    }
+  ]
+}

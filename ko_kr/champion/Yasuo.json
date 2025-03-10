@@ -1,0 +1,777 @@
+{
+  "id": 157,
+  "name": "야스오",
+  "alias": "Yasuo",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/157.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 157000,
+      "name": "야스오",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 157000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2013-12-13",
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self defense. Even after his master’s true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade."
+      }
+    },
+    {
+      "id": 157001,
+      "name": "하이 눈 야스오",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-12-13",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 5
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Jasper": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Sapphire": {
+            "id": 4
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "The mysterious and reluctant sheriff of a two-street town, Yasuo is in self-imposed exile after being accused of murder in the eastern territories. Even so, he has driven off entire bandit gangs as well as many of the desert's deadliest threats, saving hundreds of lives along the way."
+      }
+    },
+    {
+      "id": 157002,
+      "name": "프로젝트: 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157002,
+        "formatname": "PROJECT: Yasuo",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-08-31",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ],
+        "lore": "Yasuo returned from advanced combat only to be accused of a crime he did not commit. Knowing that PROJECT's corporate leadership was somehow involved, Yasuo fights with the G/NETIC rebels, cutting away the lies of technology with his plasma coated blade."
+      }
+    },
+    {
+      "id": 157003,
+      "name": "핏빛달 야스오",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-02-25",
+        "earlysale": "2016-06",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Ceremonial executioner of the Blood Moon cult, Yasuo's blade is inhabited by an insidious, bloodthirsty demon whose hunger for death can never be satisfied. This suits Yasuo well, for he is possessed of an inner darkness even deeper than the creature whispering at his side."
+      }
+    },
+    {
+      "id": 157009,
+      "name": "어둠의 인도자 야스오",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157009,
+        "availability": "Available",
+        "looteligible": true,
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "cost": 1820,
+        "release": "2017-06-14",
+        "earlysale": "2017-12",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Pariah": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light."
+      }
+    },
+    {
+      "id": 157010,
+      "name": "오디세이 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-12",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 12
+          },
+          "Tanzanite": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Yasuo never wanted to be a space pirate… until he was framed for his brother's murder, and had to flee his life of relative luxury. Now on the run from a dozen different military and paramilitary factions, he's putting together an eccentric crew to make a new life among the stars."
+      }
+    },
+    {
+      "id": 157017,
+      "name": "중간보스 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-06-28",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 24
+          },
+          "Meteorite": {
+            "id": 19
+          },
+          "K.O.": {
+            "id": 26,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "One-time protagonist of the 1979 cult classic “Hasagi,” Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil."
+      }
+    },
+    {
+      "id": 157018,
+      "name": "True Damage 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-11-10",
+        "set": [
+          "True Damage"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 31
+          },
+          "Aquamarine": {
+            "id": 30
+          },
+          "Catseye": {
+            "id": 29
+          },
+          "Freestyle": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "True Damage 2019"
+          },
+          "Obsidian": {
+            "id": 28
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "As enigmatic as he is skilled, Yasuo is the veteran producer all others turn to for inspiration. His beats transcend genre, painting whole universes with wild textures of sound. Notoriously selective about his collaborations, Yasuo sees True Damage as his platform to revolutionize how society experiences music."
+      }
+    },
+    {
+      "id": 157035,
+      "name": "프레스티지 True Damage 야스오",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157035,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-09-25",
+        "set": [
+          "True Damage"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 18,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "After the global success of “GIANTS,” reclusive producer-extraordinaire Yasuo was inundated with requests. From record deals to clothing sponsorships, he turned down one after another, preferring to stay out of the limelight to focus on the simple joys of making beats. However, A Bathing Ape somehow managed to secure his attention. Now, donning golden threads to match his musical brilliance, Yasuo holds the world's ears at attention—with fans and critics alike waiting to hear his next revolutionary track."
+      }
+    },
+    {
+      "id": 157036,
+      "name": "영혼의 꽃 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-22",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 42
+          },
+          "Night Blossom": {
+            "id": 44,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Long ago, two brothers fought a bitter war across Ionia. Yasuo, the younger brother, was a warlord renowned for his roguish demeanor—until he was accused of crimes against the country and took up arms to defend himself. Both were fated to fall in their final duel… a lesson, perhaps, in pride and hubris."
+      }
+    },
+    {
+      "id": 157045,
+      "name": "뱃사람 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157045,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-05",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 50
+          },
+          "Aquamarine": {
+            "id": 48
+          },
+          "Catseye": {
+            "id": 47
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 51
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Sean 'Raiko' Tay",
+          "West Studio"
+        ],
+        "lore": "Empowered by the Buhru during his fight against Viego of Camavor, Yasuo made an unlikely champion for the children of Nagakabouros—his obsession with past events flew in the face of everything they believed in. Yet even the mangiest sea dog has his day, and Yasuo stood against the forces of darkness, emerging triumphant."
+      }
+    },
+    {
+      "id": 157054,
+      "name": "진리용 야스오",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157054,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 55,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Alone against an army, Yasuo chose to stand and fight. He blocked a narrow pass between two mountains, allowing innocents to escape the bloodshed. Wielding the truth of steel as a dance, he felled countless foes—but even he could not hold out forever. The Dragon of Truth, moved by his swordsmanship, came down from its peak to bless him..."
+      }
+    },
+    {
+      "id": 157055,
+      "name": "몽상용 야스오",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2021-10-21",
+        "set": [
+          "Dragonmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 54,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "The song of steel grew silent, and Yasuo was the last living soul on the battlefield—though he imagined he could hear the thankful murmurs of the villagers he'd protected. Wounded and dying, Yasuo produced his flute to play a last haunting elegy. The Dragon of Dreams descended from its mountaintop, moved by Yasuo's song, and offered him its power..."
+      }
+    },
+    {
+      "id": 157056,
+      "name": "먹그림자 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157056,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 59
+          },
+          "DEFY MSI 2023": {
+            "id": 67,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "MSI 2023 Esports Premium Bundle"
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Inked": {
+            "id": 66,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2023"
+          },
+          "Obsidian": {
+            "id": 65
+          },
+          "Rose Quartz": {
+            "id": 63
+          },
+          "Ruby": {
+            "id": 58,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 60
+          },
+          "Tanzanite": {
+            "id": 62
+          },
+          "Turquoise": {
+            "id": 64
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Displaced from his home alongside Master Yi, Yasuo now uses his Inkshadow tattoos to ride the wind between Rabadon City and the outskirts, protecting civilians seeking asylum with help from the mysterious Man of Masks. Though he gave up his freedom in exchange for power, he sees the price as penance for being unable to help those who needed it most."
+      }
+    },
+    {
+      "id": 157057,
+      "name": "프레스티지 먹그림자 야스오",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157057,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2023-05-03",
+        "set": [
+          "Inkshadow"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 56,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Sporting an elevated take on traditional Ionian menswear coupled with a fearlessly bare set of stunning blackout tattoos, Yasuo's gala look celebrates elegant rebellion, sartorial subversion, and an uprising of unprecedented design."
+      }
+    },
+    {
+      "id": 157068,
+      "name": "선지자 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157068,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-01-24",
+        "set": [
+          "Otherroads"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 75
+          },
+          "Catseye": {
+            "id": 70
+          },
+          "Emerald": {
+            "id": 72
+          },
+          "Obsidian": {
+            "id": 74
+          },
+          "Pearl": {
+            "id": 73
+          },
+          "Rose Quartz": {
+            "id": 76
+          },
+          "Ruby": {
+            "id": 69,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 71
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Yasuo glimpsed many paths in his dreams. One saw him as an old man, alone, having strayed far from his course. He had given up ambition, family, even love, all to atone for sins he could no longer remember. This vision was not a warning, but a reminder, for Yasuo knew he could always return to his path. He only needed to find it... or let it find him."
+      }
+    },
+    {
+      "id": 157077,
+      "name": "전투 늑대 야스오",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157077,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 83
+          },
+          "Catseye": {
+            "id": 79
+          },
+          "Nightwire": {
+            "id": 86,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Obsidian": {
+            "id": 85
+          },
+          "Pearl": {
+            "id": 84
+          },
+          "Peridot": {
+            "id": 81
+          },
+          "Rose Quartz": {
+            "id": 80
+          },
+          "Ruby": {
+            "id": 78,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 82
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "The first captain of the Wolf Squad, Yasuo fought alongside Riven in the early days of the invasion. He disappeared only to reemerge years later a battle-hardened survivalist, still wearing his original suit. He's here to warn Anima Squad that the enemy has evolved—and if they want to survive, they'll need all hands (and paws) on deck."
+      }
+    },
+    {
+      "id": 157087,
+      "name": "최초의 어둠의 인도자 야스오",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157087,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Capsules or opening 30 Capsules",
+        "release": "2024-10-09",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 9,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light."
+      }
+    }
+  ]
+}

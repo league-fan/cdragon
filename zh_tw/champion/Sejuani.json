@@ -1,0 +1,501 @@
+{
+  "id": 113,
+  "name": "史瓦妮",
+  "alias": "Sejuani",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/113.png",
+  "roles": [
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 113000,
+      "name": "史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 113000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-01-17",
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter’s Claw, one of the most feared tribes of the Freljord. Her people’s survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans alike to survive the harsh winters. Sejuani herself spearheads the most dangerous of these attacks from the saddle of her drüvask boar Bristle, using her True Ice flail to freeze and shatter her enemies."
+      }
+    },
+    {
+      "id": 113001,
+      "name": "劍牙猛騎 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-17",
+        "retired": "2014-12-02",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ]
+      }
+    },
+    {
+      "id": 113002,
+      "name": "黑暗騎士 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-17",
+        "set": [
+          "Death Sworn"
+        ],
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "lore": "Every army of the dead needs its cavalry. From atop the reanimated hulk of a savage drüvask, Sejuani leads hosts of cruel, lost souls, hellbent on shaping the world in Death's image."
+      }
+    },
+    {
+      "id": 113003,
+      "name": "元祖 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-04-30",
+        "set": [
+          "Traditional"
+        ],
+        "newvoice": true,
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Created to capture the original feel of Sejuani, one of our first fully reworked champions."
+      }
+    },
+    {
+      "id": 113004,
+      "name": "紅軍鐵騎 史瓦妮",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-07-31",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Sejuani has taken to battle on an armored, one-eyed warbear the size of a shed, while swinging a land mine on a chain, wearing a delightfully vintage red-star hat. Good luck out there!"
+      }
+    },
+    {
+      "id": 113005,
+      "name": "普羅騎士 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-12-15",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Tenfold Triumph": {
+            "id": 47
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home."
+      }
+    },
+    {
+      "id": 113006,
+      "name": "獸魔獵人 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-02-04",
+        "earlysale": "2016-07",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "A beast tamer as well as hunter, Sejuani rides her trusty mount Bristle into the thick of combat before snaring massive creatures in the chain of her flail. An almost supernaturally strong woman, she can—temporarily—hold down beasts weighing several tons, which is exactly the window her fellow hunters need."
+      }
+    },
+    {
+      "id": 113007,
+      "name": "黎明獵人 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113007,
+        "formatname": "Sejuani Dawnchaser",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-11-17",
+        "earlysale": "2017-04",
+        "set": [
+          "Rift Quest"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Riding her dire lion into the thick of combat, Sejuani Dawnchaser is an intimidating foe for all but the greatest Riftquest threats. Sadly not the most careful roleplayer, she's on her fourth dire lion this campaign."
+      }
+    },
+    {
+      "id": 113008,
+      "name": "金豬報喜 史瓦妮",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-28",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 10
+          },
+          "Golden Tiger": {
+            "id": 27,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          },
+          "Turquoise": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "Charging forth on her giant pig and swinging a whip made from low-grade explosives, Sejuani has firmly cemented herself as the woman to watch this Lunar Revel. Because if you're not watching her she'll trample you, and you'll die."
+      }
+    },
+    {
+      "id": 113015,
+      "name": "海克斯科技 史瓦妮",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113015,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-03-05",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Sean 'Raiko' Tay",
+          "West Studio"
+        ],
+        "lore": "A merchant tycoon hailing from the top echelons of Piltovan society, Sejuani paved the way for the manufacture of hextech mounts. Often seen atop the back of her trusted stead, Bristech, she surveys the gilded streets of her magnificent city, always on the lookout to recruit young innovators who dare to push the boundaries of science and engineering."
+      }
+    },
+    {
+      "id": 113016,
+      "name": "菁英計畫：史瓦妮",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113016,
+        "formatname": "PROJECT: Sejuani",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-05-27",
+        "set": [
+          "PROJECT"
+        ],
+        "filter": true,
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Reckoning": {
+            "id": 25,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2021"
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "The leader of a more radicalized sect of the G/NETIC rebels, Sejuani broke off from Ashe's movement when their 'resistance action' failed to turn explicitly violent. Resurfacing amid Program's takeover of the City, she rides a piece of reclaimed pre-collapse technology alongside her ferocious cohort, ready to put down this new threat before it takes root."
+      }
+    },
+    {
+      "id": 113026,
+      "name": "日蝕使者 史瓦妮",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 31
+          },
+          "Citrine": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "A Knight of the Eclipse who patrols the border of the Elderwood on a great beast. Grim and wild at heart, Sejuani lives for battle with the forces of the Old Gods, caring naught for the reason why."
+      }
+    },
+    {
+      "id": 113036,
+      "name": "戰爭英雄 史瓦妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113036,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "release": "2022-11-15",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Flex Challenger": {
+            "id": 46,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Diamond": {
+            "id": 43,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Grandmaster": {
+            "id": 45,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Master": {
+            "id": 44,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Flex Platinum": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Challenger": {
+            "id": 41,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Diamond": {
+            "id": 38,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Grandmaster": {
+            "id": 40,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Master": {
+            "id": 39,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          },
+          "Solo/Duo Platinum": {
+            "id": 37,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023"
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Victorious Sejuani was awarded to players who reached Gold or higher in the 2022 season. After surrendering their strongest warriors and Iceborn to the Winter's Claw, all tribes of the Freljord now bend to the will of Queen Sejuani, clad in the finest gear her kingdom has to offer."
+      }
+    }
+  ]
+}

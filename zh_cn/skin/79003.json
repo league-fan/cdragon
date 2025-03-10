@@ -1,0 +1,52 @@
+{
+  "id": 79003,
+  "contentId": "3f4165d2-9868-48c7-bedc-d67433c904f1",
+  "isBase": false,
+  "name": "圣诞老人 古拉加斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Gragas/Skins/Skin03/Images/gragas_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Gragas/Skins/Skin03/Images/gragas_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Gragas/Skins/Skin03/Images/gragas_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Gragas/Skins/Skin03/GragasLoadScreen_3.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Gragas/Skins/Skin03/GragasLoadScreen_3_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "有些人可能说古拉加斯才是完美的圣诞使者，他的欢乐姿态和浓密胡须无疑适合这个角色。但古拉加斯同时也很不靠谱，一直都是酩酊大醉的样子，还会莫名其妙地挑事打架——但他喜欢这身衣服，而且没人敢找他要回来。",
+  "wikiSkinData": {
+    "id": 79003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "lore": "Some might say Gragas would be the perfect Santa, and between his jolly frame and wild beard he certainly fits the bill. But Gragas is also very unreliable, constantly intoxicated, and starts fights seemingly at random—but he likes the costume, and no one is brave enough to take it back."
+  }
+}

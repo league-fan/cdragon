@@ -1,0 +1,45 @@
+{
+  "id": 178,
+  "name": "クロニクル",
+  "description": "レジェンドたちは己の過去によって試され、そして形作られる。",
+  "skins": [
+    {
+      "id": 12005,
+      "name": "拘束不能アリスター",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Youtube Distribution",
+        "cost": "Special",
+        "release": "2011-09-22",
+        "set": [
+          "Chronicle"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ]
+      }
+    },
+    {
+      "id": 26003,
+      "name": "シュリーマ砂漠ジリアン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 26003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-08",
+        "set": [
+          "Chronicle"
+        ],
+        "neweffects": true
+      }
+    }
+  ]
+}

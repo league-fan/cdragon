@@ -1,0 +1,144 @@
+{
+  "id": 3013,
+  "contentId": "e4b2c454-2125-44b6-ae77-76131972bb3f",
+  "isBase": false,
+  "name": "地獄火 加里歐",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Galio/Skins/Skin13/Images/galio_splash_centered_13.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Galio/Skins/Skin13/Images/galio_splash_uncentered_13.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Galio/Skins/Skin13/Images/galio_splash_tile_13.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Galio/Skins/Skin13/GalioLoadscreen_13.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/3/3013.png",
+  "chromas": [
+    {
+      "id": 3014,
+      "name": "地獄火｜橄欖綠 加里歐",
+      "contentId": "056631d5-7c02-43d3-b656-aa1013b47f75",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/3/3014.png",
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 3015,
+      "name": "地獄火｜琥珀黃 加里歐",
+      "contentId": "e3230b07-d149-4544-abab-c1ef6f952126",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/3/3015.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 3016,
+      "name": "地獄火｜焰紅 加里歐",
+      "contentId": "c05e0b33-8ffa-46b1-b26d-fc1caa6c7bd7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/3/3016.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2019 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 3017,
+      "name": "地獄火｜薔薇粉 加里歐",
+      "contentId": "307ed5a5-0b4e-46fd-9dde-3fe12fbeaeff",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/3/3017.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 3018,
+      "name": "地獄火｜珍珠白 加里歐",
+      "contentId": "6a76df02-676f-486d-ad47-f56bf0d470c6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/3/3018.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 86
+    }
+  ],
+  "description": "黑心、狠毒、駭人，加里歐領導著一支來自地獄的地獄火軍團，而即使以他暴躁猛烈的族人的標準來看，加里歐還是一個龐然大物。他的每一個踏步都能融化腳下的基岩，而吞噬整支大軍對他來講是一件再輕鬆不過的兒戲。",
+  "wikiSkinData": {
+    "id": 3013,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-09-05",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Peridot": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 16,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Josh Petersdorf"
+    ],
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "A black-hearted monstrosity leading the hellish Infernal hordes, Galio is titanic even by the standards of his fiery kin. His steps melt the very bedrock beneath him, swallowing entire armies without so much as a second thought."
+  }
+}

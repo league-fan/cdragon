@@ -1,0 +1,89 @@
+{
+  "id": 64029,
+  "contentId": "c3d8870d-34c9-400b-806e-33d51bdf9045",
+  "isBase": false,
+  "name": "FPX 李青",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/LeeSin/Skins/Skin29/Images/leesin_splash_centered_29.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/LeeSin/Skins/Skin29/Images/leesin_splash_uncentered_29.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/LeeSin/Skins/Skin29/Images/leesin_splash_tile_29.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/LeeSin/Skins/Skin29/LeeSinLoadscreen_29.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/LeeSin/Skins/Skin29/LeeSinLoadscreen_29_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/64/64029.png",
+  "chromas": [
+    {
+      "id": 64030,
+      "name": "FPX 李青 涅槃",
+      "contentId": "e35117dc-84fb-49ed-859f-905616c578f3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/64/64030.png",
+      "colors": [
+        "#0C0C0F",
+        "#9B1520"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Champion Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/54.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/54.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 130
+    }
+  ],
+  "description": "以此致敬Tian在2019全球总决赛中使用李青的夺胜表现。",
+  "wikiSkinData": {
+    "id": 64029,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 30,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Feodor Chin"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring Tian's winning performance as Lee Sin during the 2019 World Championship."
+  }
+}

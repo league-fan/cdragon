@@ -1,0 +1,81 @@
+{
+  "id": 432005,
+  "contentId": "9ed79f90-07d6-456b-ac3b-66fb80692e49",
+  "isBase": false,
+  "name": "霜降使者 巴德",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/Images/bard_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/Images/bard_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/Images/bard_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/BardLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432005.png",
+  "chromas": [
+    {
+      "id": 432007,
+      "name": "霜降使者｜香檳金 巴德",
+      "contentId": "6cf0e647-3789-405a-b29b-e7916090a739",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432007.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "來自 2018 霜降慶典活動的限定戰利品。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 46
+    }
+  ],
+  "description": "巴德強大的宇宙力量與無法預測的天性是雪球大戰中極其重要的獲勝條件。他的身邊總會出現一隻隻來自凜冬之地的企鵝以及能夠自動加熱的可可亞。巴德的傳送門可以讓他通往未知之境，這也讓這名漂泊守望者有著無與倫比的優勢。",
+  "wikiSkinData": {
+    "id": 432005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-12-10",
+    "earlysale": "2016-06",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge."
+  }
+}

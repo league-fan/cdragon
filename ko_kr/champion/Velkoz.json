@@ -1,0 +1,278 @@
+{
+  "id": 161,
+  "name": "벨코즈",
+  "alias": "Velkoz",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/161.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 161000,
+      "name": "벨코즈",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 161000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2014-02-27",
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Christian Fell",
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "It is unclear if Vel’Koz was the first Voidborn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm—and the strange, warlike beings that dwell there—for any weakness the Void might exploit. But Vel’Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself."
+      }
+    },
+    {
+      "id": 161001,
+      "name": "전투 기계 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-02-27",
+        "set": [
+          "Battlecast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "An airborne data collection unit based on the now-extinct Vel'Koz lifeform, these Battlecast monstrosities sweep their concentrated energy beams over heavily populated areas. Survey data from the lifeless wreckage automatically calibrates the entire fleets' weapons systems, making the units a deadlier threat with every skirmish."
+      }
+    },
+    {
+      "id": 161002,
+      "name": "빛의 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-01-28",
+        "set": [
+          "Arclight"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight."
+      }
+    },
+    {
+      "id": 161003,
+      "name": "나 벨코즈 아니다",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2016-03-31",
+        "earlysale": "2016-07",
+        "set": [
+          "Definitely Not"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "I'm not a laser squid, I'm a man!"
+      }
+    },
+    {
+      "id": 161004,
+      "name": "지옥의 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-16",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Rainbow": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 5,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury."
+      }
+    },
+    {
+      "id": 161011,
+      "name": "어둠서리 벨코즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-15",
+        "set": [
+          "Blackfrost"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Citrine": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Gabriela Dea Julia",
+          "West Studio"
+        ],
+        "lore": "Beneath the ice they slumber, trapped as two worlds pass them by. Watching, waiting, for the day they will rise again, and all will be buried in ice."
+      }
+    },
+    {
+      "id": 161020,
+      "name": "벌코즈",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 161020,
+        "formatname": "Bee'Koz",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-11-22",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 22,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Nathaniel Himawan",
+          "West Studio"
+        ],
+        "lore": "Controllable tentacles made out of honey? That's bee-nius!"
+      }
+    }
+  ]
+}

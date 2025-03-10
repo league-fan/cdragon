@@ -1,0 +1,67 @@
+{
+  "id": 183,
+  "name": "摄魂者",
+  "description": "灵魂就是生命、光明和力量——并且在一个没有慈悲的世界里，它们被无情的死亡之主们偷走并吞噬。",
+  "skins": [
+    {
+      "id": 8006,
+      "name": "摄魂男爵 弗拉基米尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-07-09",
+        "set": [
+          "Soulstealer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ]
+      }
+    },
+    {
+      "id": 67010,
+      "name": "摄魂使者 薇恩",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 67010,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2016-07-28",
+        "set": [
+          "Soulstealer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "First Decennial": {
+            "id": 53
+          },
+          "Tenfold Triumph": {
+            "id": 54
+          }
+        },
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Once a hunter of all things tainted, Vayne has become the very thing she sought to destroy. Her twisted mind warps her perception, causing her to see an enemy in every living thing. She takes souls with impunity, with no stain of these vile deeds upon her conscience."
+      }
+    }
+  ]
+}

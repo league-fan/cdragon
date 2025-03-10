@@ -1,0 +1,240 @@
+{
+  "id": 526,
+  "name": "銳兒",
+  "alias": "Rell",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/526.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 526000,
+      "name": "銳兒",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 526000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2020-12-10",
+        "voiceactor": [
+          "Laya DeLeon Hayes"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old 'academy,' defending the meek while delivering violent death to her former overseers."
+      }
+    },
+    {
+      "id": 526001,
+      "name": "戰爭女皇 銳兒",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 526001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 4
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Coronation": {
+            "id": 8,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 3
+          },
+          "Tanzanite": {
+            "id": 7
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Laya DeLeon Hayes"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers."
+      }
+    },
+    {
+      "id": 526010,
+      "name": "星光戰士 銳兒",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 526010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-07-28",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Brilliant": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Star Guardian 2022"
+          },
+          "Catseye": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 18
+          },
+          "Pearl": {
+            "id": 17
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Laya DeLeon Hayes"
+        ],
+        "splashartist": [
+          "Park Jun Seong",
+          "West Studio"
+        ],
+        "lore": "Hailing from a sister city along with Quinn, Rell is a delinquent loner who does what she wants, when she wants, and avoids making friends by pushing everyone away. In battle she rides atop her mighty steed Sebastien, her simmering rage transforming her into a starlit knight who defends the meek from harm."
+      }
+    },
+    {
+      "id": 526020,
+      "name": "西域牛仔 銳兒",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 526020,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-20",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 22
+          },
+          "Noonday": {
+            "id": 29,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "High Noon 2024"
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Laya DeLeon Hayes"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Rell ran as her home rotted away at the Fifth Harbinger's hands, but the young Powder Witch ain't running now. She squares her shoulders and swings into the saddle of a horse made of magic, steam, and fire. From its back, she looks down at the haunted gunslinger. “Come on, old man. We got a second chance, I ain't gonna waste it.”"
+      }
+    },
+    {
+      "id": 526030,
+      "name": "大角鬥賽 銳兒",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 526030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2025-03-05",
+        "set": [
+          "Grand Reckoning"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Laya DeLeon Hayes"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "In training, Rell was told that the arena is unforgiving. On the sand, you couldn't rely on anyone but yourself, and maybe your mount… if you could stay in the saddle. But if you let it, that brutal world inside the arena would cut you, bleed you, strike you down. Reckonings were built on blood and iron, forged in the fire of conflict—but so was she."
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": 131018,
+  "contentId": "f52bac9f-9438-42c4-aec4-9d7e2d8bc81d",
+  "isBase": false,
+  "name": "屠龙勇士 黛安娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/Images/diana_splash_centered_18.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/Images/diana_splash_uncentered_18.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/Images/diana_splash_tile_18.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/DianaLoadscreen_18.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131018.png",
+  "chromas": [
+    {
+      "id": 131019,
+      "name": "屠龙勇士 黛安娜 红龙之狂傲",
+      "contentId": "7c5d1679-e8dc-4b11-b94e-0e845bac902b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131019.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 131020,
+      "name": "屠龙勇士 黛安娜 金龙之优雅",
+      "contentId": "c956858e-f8af-4168-bbee-80f2e7a131b4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131020.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131021,
+      "name": "屠龙勇士 黛安娜 绿龙之无畏",
+      "contentId": "5817e4fa-2eba-4043-ab03-0d0c6f8d13cb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131021.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131022,
+      "name": "屠龙勇士 黛安娜 蓝龙之坚定",
+      "contentId": "7a845854-8f92-4f45-9d0d-0d99af84e503",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131022.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131023,
+      "name": "屠龙勇士 黛安娜 银龙之庄严",
+      "contentId": "10f94521-33fd-4ac8-a425-1b1944899962",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131023.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131024,
+      "name": "屠龙勇士 黛安娜 黑龙之狡黠",
+      "contentId": "c26dce34-455a-4bf0-9e48-429b372e0ec1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131024.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "传说有一种特殊的龙会在乡村肆虐，它们能够隐藏在龙葵的面纱下。其他屠龙勇士们在挑战如此危险的对手时也许会顾虑重重，但黛安娜则会当机立断——她的剑刃和护甲都由这些可怕龙兽的残骸所铸。",
+  "wikiSkinData": {
+    "id": 131018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts."
+  }
+}

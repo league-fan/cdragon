@@ -1,0 +1,90 @@
+{
+  "id": 432005,
+  "contentId": "9ed79f90-07d6-456b-ac3b-66fb80692e49",
+  "isBase": false,
+  "name": "冰雪游神 巴德",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/Images/bard_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/Images/bard_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/Images/bard_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Skin05/BardLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432005.png",
+  "chromas": [
+    {
+      "id": 432007,
+      "name": "冰雪游神 巴德 炫金",
+      "contentId": "6cf0e647-3789-405a-b29b-e7916090a739",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432007.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "   "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 46
+    }
+  ],
+  "description": "巴德神通广大的宇宙力量和他不可捉摸的天性是打雪仗的巨大优势。他召唤的冰雪大陆魔法企鹅队列、自动加热的可可饮料、还有通向未知的传送门，全都让这个冰雪游神无往不利。",
+  "wikiSkinData": {
+    "id": 432005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-12-10",
+    "earlysale": "2016-06",
+    "set": [
+      "Snow Day"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge."
+  }
+}

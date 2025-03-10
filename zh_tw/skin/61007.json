@@ -1,0 +1,80 @@
+{
+  "id": 61007,
+  "contentId": "5496a1d8-e33b-4c4e-9a7e-92438d947402",
+  "isBase": false,
+  "name": "幽冥煞星 奧莉安娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/OriannaLoadscreen_7.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/61/61007.png",
+  "chromas": [
+    {
+      "id": 61012,
+      "name": "幽冥煞星｜反物質 奧莉安娜",
+      "contentId": "39ab4050-6981-4d85-bfb5-b45f1b784966",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/61/61012.png",
+      "colors": [
+        "#000000",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 星河活動期間以戰利品限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 44
+    }
+  ],
+  "description": "她透過最先進的技術誕生，意識嵌入了最宏大的系統，奧莉安娜以其完美的精準度侍奉幽冥煞星。她在銀河中婆娑慢舞，令人恐懼的精湛演出留下來的是彷彿沒有盡頭的空洞與沉默。",
+  "wikiSkinData": {
+    "id": 61007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-05-03",
+    "earlysale": "2017-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake."
+  }
+}

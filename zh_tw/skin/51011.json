@@ -1,0 +1,82 @@
+{
+  "id": 51011,
+  "contentId": "48f81330-6fa5-4b9d-88e1-290431fcf017",
+  "isBase": false,
+  "name": "脈衝火焰 凱特琳",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/Images/caitlyn_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/Images/caitlyn_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/Images/caitlyn_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin11/CaitlynLoadscreen_11.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51011.png",
+  "chromas": [
+    {
+      "id": 51021,
+      "name": "脈衝火焰｜時之彩 凱特琳",
+      "contentId": "43d89739-5e91-4e78-846b-419476743491",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51021.png",
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 脈衝火焰活動期間以戰利品限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 36
+    }
+  ],
+  "description": "做為傳奇般的執法者，「脈衝火焰」凱特琳是每個時代罪犯心中的夢魘。保護時間這個脆弱且不可思議的謎團便是她的使命，而那些膽敢踰矩的人最終絕對會成為她準心的目標！",
+  "wikiSkinData": {
+    "id": 51011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2017-05-24",
+    "earlysale": "2017-11",
+    "set": [
+      "Pulsefire"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Chrono": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster."
+  }
+}

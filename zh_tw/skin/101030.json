@@ -1,0 +1,78 @@
+{
+  "id": 101030,
+  "contentId": "8e429091-beb3-47fb-af65-907bd0e2a1fe",
+  "isBase": false,
+  "name": "不羈幻晶 齊勒斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/Images/xerath_splash_centered_30.SKINS_Xerath_Skin30.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/Images/xerath_splash_uncentered_30.SKINS_Xerath_Skin30.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/Images/xerath_splash_tile_30.SKINS_Xerath_Skin30.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/XerathLoadScreen_30.SKINS_Xerath_Skin30.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/XerathLoadScreen_30_LE.SKINS_Xerath_Skin30.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101030.png",
+  "chromas": [
+    {
+      "id": 101031,
+      "name": "不羈幻晶 齊勒斯",
+      "contentId": "f0375088-6ddc-402a-946e-fa005838350d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101031.png",
+      "colors": [
+        "#239DE9",
+        "#22D389"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 202
+    }
+  ],
+  "description": "齊勒斯過去曾是沒沒無聞的漁夫，但某次出海歸來時，帶回的眾多魔法水晶改變了他的命運。水晶的力量讓他晉升成為族人的領袖，他也下定決心要開創稜晶統治的新紀元。然而強大力量背後的代價極高，水晶損害了他的心智，使他對任何想法都抱持著猜疑的態度，就連自己腦中的聲音也無法信任……",
+  "wikiSkinData": {
+    "id": 101030,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-06-12",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Zoe Zhu",
+      "West Studio"
+    ],
+    "lore": "Once a humble fisherman, Xerath returned from a voyage with a multitude of magical crystals in tow. Their power elevated him to become a leader of his people, ushering in what he hoped would be a new era of the Prismae Crystals' rule. But the cost of such power damaged his mind, leaving him suspicious that no thoughts are to be trusted… even his own."
+  }
+}

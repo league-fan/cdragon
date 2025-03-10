@@ -1,0 +1,162 @@
+{
+  "id": 117,
+  "name": "데마시아 강력반",
+  "description": "아리가 시작 화면에서 자신의 캐릭터를 선택하자 신스-헤비 음악이 아케이드를 채웁니다. 아리가 누르는 버튼은 무작위가 아니라 완벽하게 계산되며, 범죄로 가득한 데마시아의 거리를 따라 챔피언을 움직이게 합니다. 관중들은 불과 며칠 전에 아리가 세운 최고 점수를 깨는 모습을 지켜보기 위해 모입니다.",
+  "skins": [
+    {
+      "id": 44002,
+      "name": "다섯번째 성기사 타릭",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 44002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-04-08",
+        "set": [
+          "Demacia Vice"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Yuri Lowenthal"
+        ],
+        "splashartist": [
+          "Xi Zhang"
+        ]
+      }
+    },
+    {
+      "id": 86014,
+      "name": "데마시아 강력반 가렌",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-07-18",
+        "set": [
+          "Demacia Vice"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 20
+          },
+          "Catseye": {
+            "id": 19
+          },
+          "Neon Noir": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Jamieson Price"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "As chrome eagles cry and steel panthers growl, lightning hot justice is delivered nightly by Detective Garen Stryker on the neon-drenched streets. A black belt in Ionian martial arts, this katana wielding cop pushes it to the limit with every case... for Demacia!"
+      }
+    },
+    {
+      "id": 236009,
+      "name": "데마시아 강력반 루시안",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 236009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-07-18",
+        "set": [
+          "Demacia Vice"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 15
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Neon Noir": {
+            "id": 16,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Arcade 2019"
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 13
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Half man, half machine, and all justice, Detective Lucian Phoenix fights crime under the pastel palm trees of Demacia. Rebuilt out of polished chrome and gilded Piltovan carbon fiber following a fatal gunfight, this technological marvel dispenses vaporwave vengeance as a neon beacon of law and order."
+      }
+    },
+    {
+      "id": 254001,
+      "name": "네온 주먹 바이",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 254001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-19",
+        "set": [
+          "Demacia Vice"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "voiceactor": [
+          "Cia Court"
+        ]
+      }
+    }
+  ]
+}

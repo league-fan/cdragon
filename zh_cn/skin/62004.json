@@ -1,0 +1,58 @@
+{
+  "id": 62004,
+  "contentId": "a5a8ada7-9a46-4116-bbc2-9f29d695f079",
+  "isBase": false,
+  "name": "地狱行者 孙悟空",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MonkeyKing/Skins/Skin04/Images/monkeyking_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MonkeyKing/Skins/Skin04/Images/monkeyking_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MonkeyKing/Skins/Skin04/Images/monkeyking_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MonkeyKing/Skins/Skin04/MonkeyKingLoadScreen_4.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Halloween_a",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/10.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/10.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 87
+    }
+  ],
+  "description": "孙悟空曾是一名武术学徒，在他师父严苛的传统和学说下训练。在他体内，死亡看到了无限的潜能，并且选择为地底世界收下这名被忽视的学生。现在，孙悟空与不灭部族并肩作战，不再受缚于生灵的法则。",
+  "wikiSkinData": {
+    "id": 62004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2014-10-28",
+    "set": [
+      "Death Sworn"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Spike Spencer"
+    ],
+    "splashartist": [
+      "Sperasoft Studio"
+    ],
+    "lore": "Once a pupil of the martial arts, Wukong trained under his masters' strict traditions and doctrines. In him, Death saw limitless potential, and chose to claim the disregarded student for the underworld instead. Now, Wukong fights alongside the undying hordes, no longer bound by the rules of the living."
+  }
+}

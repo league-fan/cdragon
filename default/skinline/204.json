@@ -1,0 +1,78 @@
+{
+  "id": 204,
+  "name": "Risen Legends",
+  "description": "Long ago, gods of myth sealed their strength within the four Shards of the Risen: Chaos, Harmony, Patience, and Vigor. Each presented a life-threatening trial to warriors who sought its power, promising to immortalize them in history. To this day, fighters across the land rise to the challenge in hopes of leaving a legacy that even a god will respect.",
+  "skins": [
+    {
+      "id": 7055,
+      "name": "Risen Legend LeBlanc",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7055,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+        "release": "2024-06-12",
+        "set": [
+          "Risen Legends"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Mythclimber": {
+            "id": 56,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Hall of Legends Bundle Exclusive"
+          },
+          "Paragon": {
+            "id": 57,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Signature Immortalized Legend Collection Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Carrie Keranen"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Remember your duty as my Keeper of Patience, LeBlanc. You embody all that is strategic, methodical, and clever, as you deceive those who think themselves worthy of my power. Our power. Above all else, guide my chosen through their trials and influence the masses in the name of the Unkillable Demon King."
+      }
+    },
+    {
+      "id": 103085,
+      "name": "Risen Legend Ahri",
+      "rarity": "kTranscendent",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 103085,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends event.",
+        "release": "2024-06-12",
+        "set": [
+          "Risen Legends"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling",
+          "Julia Yurtsev",
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "You've done well, Ahri, to complete my trials with such grace and humility. To become a Risen Legend is no easy feat, and even in the face of failure, you have proven your resilience. Go forth and leave a legacy worthy of the Unkillable Demon King. When you're ready to learn your true potential… heed my call."
+      }
+    }
+  ]
+}

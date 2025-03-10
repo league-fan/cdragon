@@ -1,0 +1,161 @@
+{
+  "id": 36010,
+  "contentId": "8bde95da-317b-4d5f-9ef5-f2c5d65d3584",
+  "isBase": false,
+  "name": "얼음 왕자 문도",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/DrMundo/Skins/Skin10/Images/drmundo_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/DrMundo/Skins/Skin10/Images/drmundo_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/DrMundo/Skins/Skin10/Images/drmundo_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/DrMundo/Skins/Skin10/DrMundoLoadscreen_10.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/DrMundo/Skins/Skin10/DrMundoLoadscreen_10_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/36/36010.png",
+  "chromas": [
+    {
+      "id": 36011,
+      "name": "얼음 왕자 문도",
+      "contentId": "e59bbd8d-db7f-434f-afea-9ff422f2a64b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/36/36011.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 36012,
+      "name": "얼음 왕자 문도",
+      "contentId": "310e3a5a-4821-479f-ad9a-f6dcbf6d0e49",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/36/36012.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 36013,
+      "name": "얼음 왕자 문도",
+      "contentId": "a60be673-f67c-4ecb-b70c-bb17abb8b0ca",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/36/36013.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 36014,
+      "name": "얼음 왕자 문도",
+      "contentId": "459d87fd-d8bd-4c8f-83b7-98e36296e1f1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/36/36014.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 36015,
+      "name": "얼음 왕자 문도",
+      "contentId": "442bd609-b3d1-49f8-9679-6304c7884381",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/36/36015.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "겨울왕국 변방의 잘생긴 왕자였던 문도는 빙하의 제왕 트위치의 저주에 걸려 야수와 같은 모습으로 변하고 말았습니다. 그는 자신이 여전히 예전처럼 조각상 같은 모습의 왕족이라고 확신하며... 가고 싶은 데로 갑니다.",
+  "wikiSkinData": {
+    "id": 36010,
+    "formatname": "Frozen Prince Mundo",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Pearl": {
+        "id": 14
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Armen Taylor"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Once a handsome prince from an outlying region of the Winterlands, Mundo was touched by the curse of Ice King Twitch—corrupting him into a brutish thrall. He's still convinced he's the same statuesque royal as before, and as such… goes where he pleases."
+  }
+}

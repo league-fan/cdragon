@@ -1,0 +1,75 @@
+{
+  "id": 56,
+  "name": "もこもこしっぽ",
+  "description": "ウサギの季節がやってきた！みんなで仲良く素敵なウサギの衣装に身を包み、草むらを駆け回る。そしてタマゴには色が塗られ、笑顔があふれる。ホリデーをぴょんぴょん楽しめますように！",
+  "skins": [
+    {
+      "id": 17005,
+      "name": "もこもこしっぽティーモ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 17005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-18",
+        "earlysale": "2016-02",
+        "set": [
+          "Cottontail"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Aquamarine": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 10
+          },
+          "Speckled": {
+            "id": 11
+          },
+          "Turquoise": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Eggs are lame, right? They're round. They break easily. Eggs need a major facelift. Introducing… Teemo! He's cute. He's annoying. But most of all, he'll paint all your eggs for you, maybe turning one or two (or seven) into life-threatening explosives."
+      }
+    },
+    {
+      "id": 105008,
+      "name": "もこもこしっぽフィズ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 105008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-08-09",
+        "set": [
+          "Cottontail"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Rising from the fluffiest depths to crush all root vegetable cohorts, Fizz commands the greatest threat carrots have ever known—a killer rabbit with the foulest and cruelest of tempers."
+      }
+    }
+  ]
+}

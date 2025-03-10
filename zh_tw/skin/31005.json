@@ -1,0 +1,172 @@
+{
+  "id": 31005,
+  "contentId": "2e49a934-4dff-4c77-9919-1f3fbe69c3ba",
+  "isBase": false,
+  "name": "狂派機甲 科加斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/skin05/Images/chogath_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/skin05/Images/chogath_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/skin05/Images/chogath_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/skin05/ChogathLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31005.png",
+  "chromas": [
+    {
+      "id": 31008,
+      "name": "狂派機甲｜赤焰 科加斯",
+      "contentId": "303d2153-53f4-459c-80fe-a067618acebe",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31008.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 31009,
+      "name": "狂派機甲｜黃金 科加斯",
+      "contentId": "2bafc692-5092-43a3-8659-bd677ba81998",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31009.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 31010,
+      "name": "狂派機甲｜湛藍 科加斯",
+      "contentId": "56a4c14b-96c5-46db-ba6f-4823c9c090fe",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31010.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 31011,
+      "name": "狂派機甲｜皚白 科加斯",
+      "contentId": "416ed6d5-a49d-4461-9760-dc190e688452",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31011.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 31012,
+      "name": "狂派機甲｜黑鐵 科加斯",
+      "contentId": "1d061262-11e6-4fbe-a226-7dffa433dd9b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31012.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 31013,
+      "name": "狂派機甲｜紺紫 科加斯",
+      "contentId": "1365a2b4-8383-4304-ab81-9a1249989f82",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/31/31013.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 25
+    }
+  ],
+  "description": "身為狂派機甲裝甲兵中的楷模，「狂派機甲 科加斯」使用了能自我複製的特殊機器來強化它的骨架，以適應它因不斷吞噬活體生物而增長的身軀。對於那些被它佔領的城市來說，科加斯吞噬著不願屈服的居民已經成為了一種常見而駭人的景象。",
+  "wikiSkinData": {
+    "id": 31005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2012-08-03",
+    "set": [
+      "Battlecast"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 9
+      },
+      "Obsidian": {
+        "id": 12
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Ruby": {
+        "id": 8
+      },
+      "Sapphire": {
+        "id": 10
+      },
+      "Tanzanite": {
+        "id": 13
+      }
+    },
+    "voiceactor": [
+      "J.S. Gilbert"
+    ],
+    "splashartist": [
+      "Alex Konstad"
+    ],
+    "lore": "The gold standard of Battlecast shock troopers, Prime Cho'Gath implements self-replicating nanites that reinforce its frame as it consumes living tissue. It has become a common and terrifying sight in occupied cities, where it feeds on civilians who won't submit to conversion."
+  }
+}

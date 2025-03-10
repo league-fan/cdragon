@@ -1,0 +1,155 @@
+{
+  "id": 131018,
+  "contentId": "f52bac9f-9438-42c4-aec4-9d7e2d8bc81d",
+  "isBase": false,
+  "name": "龍殺しダイアナ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/Images/diana_splash_centered_18.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/Images/diana_splash_uncentered_18.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/Images/diana_splash_tile_18.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin18/DianaLoadscreen_18.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131018.png",
+  "chromas": [
+    {
+      "id": 131019,
+      "name": "龍殺しダイアナ",
+      "contentId": "7c5d1679-e8dc-4b11-b94e-0e845bac902b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131019.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 131020,
+      "name": "龍殺しダイアナ",
+      "contentId": "c956858e-f8af-4168-bbee-80f2e7a131b4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131020.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131021,
+      "name": "龍殺しダイアナ",
+      "contentId": "5817e4fa-2eba-4043-ab03-0d0c6f8d13cb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131021.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131022,
+      "name": "龍殺しダイアナ",
+      "contentId": "7a845854-8f92-4f45-9d0d-0d99af84e503",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131022.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131023,
+      "name": "龍殺しダイアナ",
+      "contentId": "10f94521-33fd-4ac8-a425-1b1944899962",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131023.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 131024,
+      "name": "龍殺しダイアナ",
+      "contentId": "c26dce34-455a-4bf0-9e48-429b372e0ec1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131024.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "言い伝えによれば、夜の帳に姿を隠すことができる特殊な類いの龍が地方を荒らし回っているという。他の龍殺しなら、そのような危険な敵に挑むことをためらっただろうが、ダイアナは真っ先に飛び込んだ──彼女の剣と鎧はまさに龍という恐ろしい獣の死骸から鍛造されたものだった。",
+  "wikiSkinData": {
+    "id": 131018,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-01-30",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 20
+      },
+      "Emerald": {
+        "id": 21
+      },
+      "Obsidian": {
+        "id": 24
+      },
+      "Pearl": {
+        "id": 23
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 22
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts."
+  }
+}

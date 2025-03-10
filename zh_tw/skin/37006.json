@@ -1,0 +1,63 @@
+{
+  "id": 37006,
+  "contentId": "b452bc17-5964-4799-9a1f-df47eb90b5ab",
+  "isBase": false,
+  "name": "熱音 DJ 索娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/Images/sona_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/Images/sona_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/Images/sona_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/SonaLoadScreen_6.jpg",
+  "skinType": "Ultimate",
+  "rarity": "kUltimate",
+  "isLegacy": false,
+  "splashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/AnimatedSplash/Sona_Skin6_centered.webm",
+  "collectionSplashVideoPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/AnimatedSplash/Sona_Skin6_uncentered.webm",
+  "collectionCardHoverVideoPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin06/AnimatedSplash/Sona_Skin06_card.webm",
+  "featuresText": "<ul><li>- 音樂三重奏</li><li>- 精湛的舞步</li><li>- 精彩的特效</li><li>- 與隊友分享音樂</li><li>- 三款活動限定頭像 + 個人資料動態背景</li></ul>",
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 173
+    }
+  ],
+  "description": null,
+  "wikiSkinData": {
+    "id": 37006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 3250,
+    "release": "2015-02-25",
+    "set": [
+      "DJ"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "DJ Sona Kinetic",
+    "forms": [
+      "Kinetic",
+      "Concussive",
+      "Ethereal"
+    ],
+    "chromas": {
+      "Concussive": {
+        "id": 6
+      },
+      "Ethereal": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ]
+  }
+}

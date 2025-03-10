@@ -1,0 +1,171 @@
+{
+  "id": 238031,
+  "contentId": "a3331149-fcc9-49e5-9caa-3e36a820b8a0",
+  "isBase": false,
+  "name": "연미복 제드",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin31/Images/zed_splash_centered_31.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin31/Images/zed_splash_uncentered_31.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin31/Images/zed_splash_tile_31.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin31/ZedLoadscreen_31.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin31/ZedLoadscreen_31_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238031.png",
+  "chromas": [
+    {
+      "id": 238032,
+      "name": "연미복 제드",
+      "contentId": "408c2e60-82cb-4826-8613-282a89558d2e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238032.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 238033,
+      "name": "연미복 제드",
+      "contentId": "706d64b4-77df-43ba-9d82-7ef7f99fbf34",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238033.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 238034,
+      "name": "연미복 제드",
+      "contentId": "33757b0b-10a8-4842-a357-2620f5c38300",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238034.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 238035,
+      "name": "연미복 제드",
+      "contentId": "545d38aa-8503-467a-8edc-88d47b84bba4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238035.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 238036,
+      "name": "연미복 제드",
+      "contentId": "7121b2ea-a75f-4ceb-8d4e-497aa369069a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238036.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 238037,
+      "name": "연미복 제드",
+      "contentId": "ccd6b7ed-3502-47fc-bf73-9946faa0640d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238037.png",
+      "colors": [
+        "#42A7CC",
+        "#FFFFFF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021 연미복 이벤트 기간 동안 출시된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 23
+    }
+  ],
+  "description": "녹스 베가스에서 가장 강력한 힘과 인상적인 패션을 자랑하는 제드는 화려한 파티와 위험한 거래 외에도 여러 분야에 손을 대고 있습니다. 범죄 도시 출신들을 부하로 받아들이면서 그 영향력은 더욱 견고해졌고, 제드는 더 무시무시하게 변해 버렸죠.",
+  "wikiSkinData": {
+    "id": 238031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-12-09",
+    "set": [
+      "Debonair"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 33
+      },
+      "Cerulean Club": {
+        "id": 37,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Debonair 2021"
+      },
+      "Emerald": {
+        "id": 34
+      },
+      "Obsidian": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 32,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "The most powerful (and powerfully dressed) man in Nox Vegas, Zed has been dabbling in more than fancy parties and cutthroat dealmaking. A new crowd from Crime City has entered his inner circle, granting this debonair gentleman an unbreakable stranglehold over the strip… and a dreadful new change in both mind and body."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 497005,
+  "contentId": "9083042f-e996-4fec-8557-98eac7b2774d",
+  "isBase": false,
+  "name": "星之守护者 洛",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Rakan/Skins/Skin05/Images/rakan_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Rakan/Skins/Skin05/Images/rakan_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Rakan/Skins/Skin05/Images/rakan_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Rakan/Skins/Skin05/RakanLoadscreen_5.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Rakan/Skins/Skin05/RakanLoadscreen_5_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/497/497005.png",
+  "chromas": [
+    {
+      "id": 497006,
+      "name": "星之守护者 洛 烈翎",
+      "contentId": "f56fe994-4358-4ecf-8b05-834353f2ffe2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/497/497006.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 497007,
+      "name": "星之守护者 洛 寒翎",
+      "contentId": "c98b195c-b097-4050-93af-35e3d67ca0f5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/497/497007.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 497008,
+      "name": "星之守护者 洛 魅翎",
+      "contentId": "de580cde-06bf-46c4-83d9-96ce39246573",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/497/497008.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 119
+    }
+  ],
+  "description": "多年以前，洛曾在对抗佐伊的战斗中与爱人一起遇害。随后，这对眷侣被复活并转而对抗他们的盟友——洛似乎敏锐地意识到了这个事实。他在耐心等待出击时机的同时，心底有了一个净化霞黑暗内心的计划——尽管代价可能会是他自己永远地堕入邪恶。",
+  "wikiSkinData": {
+    "id": 497005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Rose Quartz": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Ronan Summers"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Rakan was destroyed in the fight against Zoe, alongside his lover Xayah. The pair were then resurrected and turned against their allies "
+  }
+}

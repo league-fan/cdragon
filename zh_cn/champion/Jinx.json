@@ -1,0 +1,615 @@
+{
+  "id": 222,
+  "name": "暴走萝莉",
+  "alias": "Jinx",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/222.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 222000,
+      "name": "暴走萝莉",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 222000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2013-10-09",
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Katie 'TeaTime' De Sousa"
+        ],
+        "lore": "An unhinged and impulsive criminal from the undercity, Jinx is haunted by the consequences of her past—but that doesn't stop her from bringing her own chaotic brand of pandemonium to Piltover and Zaun. She uses her arsenal of DIY weapons to devastating effect, unleashing torrents of colorful explosions and gunfire, inspiring the disenfranchised to rebellion and resistance with the mayhem she leaves in her wake."
+      }
+    },
+    {
+      "id": 222001,
+      "name": "黑帮狂花 金克丝",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-10-09",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Known by state police as “La Principessa,” Jinx is an unhinged hitwoman with loose ties to the Graves crime family. Sent into rival businesses as a figurative time bomb, the slightest offense will trigger one of her jubilant rampages, with body counts as high as the ceiling."
+      }
+    },
+    {
+      "id": 222002,
+      "name": "神龙烈焰 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-02-10",
+        "earlysale": "2015-12",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Aquamarine": {
+            "id": 7
+          },
+          "Citrine": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Golden Tiger": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Pearl": {
+            "id": 5
+          },
+          "Rose Quartz": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Never one to turn down an imaginary challenge, Jinx has constructed a number of Lunar Revel weapons, including a seven foot long rocket shaped like an angry dragon. She'll tell you it's a fun firecracker for parties. It is not."
+      }
+    },
+    {
+      "id": 222003,
+      "name": "丧尸杀手 金克丝",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-11-05",
+        "set": [
+          "Zombies VS Slayers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "When a mutagenic virus turned the world into an undead purgatory, no one was more excited than Jinx. No laws, no civilization, not even a thin veneer of polite society had survived—just a numberless horde of slime-vomiting bullet sponges and all the ammo she can forage. It's paradise."
+      }
+    },
+    {
+      "id": 222004,
+      "name": "星之守护者 金克丝",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2016-10-05",
+        "earlysale": "2017-04",
+        "set": [
+          "Star Guardian Season 1"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Mythic": {
+            "id": 50,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Much to the annoyance of her team, Jinx is an impulsive and sometimes cynical Star Guardian who loves a good, glittery explosion. However, when the fighting starts, Jinx will throw herself into the battle to protect others, especially her childhood friend Lux."
+      }
+    },
+    {
+      "id": 222012,
+      "name": "圣诞捣蛋鬼 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222012,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-12-12",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "A master toy maker and inventor, Jinx believes she could one day become the greatest Santa anyone has ever seen. Other elves worry her creations could be classified as weapons... but sometimes that's the price of true ambition."
+      }
+    },
+    {
+      "id": 222013,
+      "name": "奥德赛 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-12",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 15
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Pearl": {
+            "id": 19
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 14,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 18
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Adept at building and/or destroying (but mostly destroying) a variety of haphazard, highly unstable weaponry for the Morning Star crew, Jinx also serves as the ship's pilot. Her previous job as a mining explosives technician resulted in a lot of collateral damage, and a thoroughly justified dismissal."
+      }
+    },
+    {
+      "id": 222020,
+      "name": "源计划：疯狂 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222020,
+        "formatname": "PROJECT: Jinx",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-01",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 23
+          },
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 21
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Reckoning": {
+            "id": 28,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "PROJECT 2019"
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "Jinx volunteered for PROJECT conversion, never expecting that a critical power failure would scramble her memory core, leaving her a psychopath driven by the manic voices in her head. Seemingly obsessed with destruction for its own sake, she has begun to show signs of something far more sinister than mere memory fragmentation: the cold, calculating influence of Program."
+      }
+    },
+    {
+      "id": 222029,
+      "name": "觅心萝莉 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222029,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-04",
+        "set": [
+          "Heartbreakers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Aquamarine": {
+            "id": 31
+          },
+          "Catseye": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rainbow": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 32,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Love is a battlefield, and Jinx comes prepared! Armed with her beloved companion Fishbones, she's ready to break hearts—and bones. But if she likes you enough, she's prepared to play nice. Maybe. Probably not."
+      }
+    },
+    {
+      "id": 222037,
+      "name": "双城之战 金克丝",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222037,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2021-11-24",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Celebrating the RiotX Arcane event."
+      }
+    },
+    {
+      "id": 222038,
+      "name": "幻灵战斗猫 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 42
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Nightwire": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 47
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Felipe Martini",
+          "West Studio"
+        ],
+        "lore": "Jinx is a one-cat demolitions squad, her natural destructive impulses turned toward more productive ends: fighting off the Primordians. She's not really a soldier, doesn't seem to care about humanity's cause, and doesn't follow orders "
+      }
+    },
+    {
+      "id": 222040,
+      "name": "至臻 幻灵战斗猫 金克丝",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222040,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 38,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Unleashed and brandishing an arsenal of squid-stomping explosives strong enough to knock over a Primordian warship, Jinx has the enemy right in her claws. With this Battle Cat on the prowl? The war is as good as over."
+      }
+    },
+    {
+      "id": 222051,
+      "name": "咖啡甜心 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222051,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-25",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 53
+          },
+          "Obsidian": {
+            "id": 56
+          },
+          "Pearl": {
+            "id": 59
+          },
+          "Rose Quartz": {
+            "id": 58
+          },
+          "Ruby": {
+            "id": 52,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 55
+          },
+          "Tanzanite": {
+            "id": 57
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "Determined to prove that she's the best pastry chef around, Jinx uses her unique blend of chaos and technique to impress her patrons and blow away the competition! Although she specializes in savory treats, she'll occasionally indulge in a little sugary goodness from time to time. But… don't get in her way while she's in the middle of a sugar rush."
+      }
+    },
+    {
+      "id": 222060,
+      "name": "双城之战2 破碎者 金克丝",
+      "rarity": "kExalted",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222060,
+        "availability": "Rare",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+        "release": "2024-12-11",
+        "set": [
+          "Arcane"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "transforming": true,
+        "forms": [
+          "Hero",
+          "Tinkerer",
+          "Menace"
+        ],
+        "chromas": {
+          "Tinkerer": {
+            "id": 60
+          },
+          "Menace": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Inventor, maniac, hero—Jinx left the twin cities reeling after killing Silco and blowing up the Piltover Council. Her future had gone up in flames, and as she faced the pieces of her fractured life, Jinx did the same. Now a symbol of change, she must decide who she will become in a world shaped by her own chaos."
+      }
+    },
+    {
+      "id": 222062,
+      "name": "T1 金克丝",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222062,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-08-14",
+        "set": [
+          "World Champions: 2023"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 63,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Alsie Lau",
+          "Kelvin Law",
+          "Mo Yan"
+        ],
+        "lore": "Honoring Gumayusi's winning performance as Jinx during the 2023 World Championship."
+      }
+    }
+  ]
+}

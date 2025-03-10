@@ -1,0 +1,443 @@
+{
+  "id": 41,
+  "name": "갱플랭크",
+  "alias": "Gangplank",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/41.png",
+  "roles": [
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 41000,
+      "name": "갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 41000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-08-18",
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "As unpredictable as he is brutal, the dethroned reaver king Gangplank is feared far and wide. Once, he ruled the port city of Bilgewater, and while his reign is over, there are those who believe this has only made him more dangerous. Gangplank would see Bilgewater bathed in blood once more before letting someone else take it—and now with pistol, cutlass, and barrels of gunpowder, he is determined to reclaim what he has lost."
+      }
+    },
+    {
+      "id": 41001,
+      "name": "으스스한 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ]
+      }
+    },
+    {
+      "id": 41002,
+      "name": "민병대원 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-03",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ]
+      }
+    },
+    {
+      "id": 41003,
+      "name": "해군 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-01-10",
+        "retired": "2013-07-18",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "lore": "O, Bilgewater has been my home,<br>Since last time I was sailing!<br>But I'll not stay another day,<br>I'd sooner be out whaling."
+      }
+    },
+    {
+      "id": 41004,
+      "name": "장난감 병정 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-12-14",
+        "set": [
+          "Toy Box"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "lore": "Gangplank is a model soldier in the toy army, racking up an impressive array of victories against the dolls and stuffed animals. He hopes to one day be named Toy General, leading his troops into glorious battle."
+      }
+    },
+    {
+      "id": 41005,
+      "name": "특수 부대 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-09-12",
+        "set": [
+          "Commando"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "lore": "How special are the special forces? Let's put it this way: they're the only unit in the military with unlimited access to oranges."
+      }
+    },
+    {
+      "id": 41006,
+      "name": "술탄 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-11-13",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Gangplank is a ruler from a distant land, and tales of his battle prowess and flowing red beard have reached even the farthest-flung city-states. As all rulers from distant lands, he also sports a snappy hat."
+      }
+    },
+    {
+      "id": 41007,
+      "name": "캡틴 갱플랭크",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-08-09",
+        "earlysale": "2016-02",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "neweffects": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Gangplank was a legendary murderer and cutthroat, prior to having his ship blown up while he was still on it. The silhouette of his famed captain's jacket is still burned into the memory of more than one unlucky sailor... with many convinced the man is somehow still alive."
+      }
+    },
+    {
+      "id": 41008,
+      "name": "행성 파괴자 갱플랭크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-01-12",
+        "earlysale": "2017-07",
+        "set": [
+          "Dreadnova"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 13
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Rogue": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Steel Valkyries 2022"
+          },
+          "Ruby": {
+            "id": 9
+          },
+          "Sapphire": {
+            "id": 11
+          },
+          "Tanzanite": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Once a high ranking admiral in the Royal Space Military, Gangplank's reign of terror began when he stole and proliferated blueprints for a former colleague's experimental superweapon. Ending a thousand-year civil war in an instant, he defected with a massive armed battalion and formed the interplanetary criminal network known as the Dreadnova Corps."
+      }
+    },
+    {
+      "id": 41014,
+      "name": "수영장 파티 갱플랭크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-02",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Gangplank is the self-crowned King of the Grill, but his summer bod is the real life of the party. There should be a law against those abs."
+      }
+    },
+    {
+      "id": 41021,
+      "name": "FPX 갱플랭크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41021,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-30",
+        "set": [
+          "World Champions: 2019"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Signature Edition Mega Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring GimGoon's winning performance as Gangplank during the 2019 World Championship."
+      }
+    },
+    {
+      "id": 41023,
+      "name": "배신자 갱플랭크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41023,
+        "formatname": "Gangplank the Betrayer",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-05-05",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 25
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 27
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Edward Chee",
+          "West Studio"
+        ],
+        "lore": "Energized by a mysterious amulet containing Viego of Camavor and wielding the Blade of the Ruined King, Gangplank's personality erupted as he raged in search of the long-lost Isolde. Though ultimately freed of the King's influence by a group of heroes, he carries the experience with him... a reminder, perhaps, of true power."
+      }
+    },
+    {
+      "id": 41033,
+      "name": "프로젝트: 갱플랭크",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41033,
+        "formatname": "PROJECT: Gangplank",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-03-06",
+        "set": [
+          "PROJECT"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 13
+          },
+          "Citrine": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 40
+          },
+          "Peridot": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 37
+          },
+          "Turquoise": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Eric Xie",
+          "West Studio"
+        ],
+        "lore": "Leader of the Command Line with a merciless reputation, Gangplank's access to dangerous PROJECT tech allows him to rule the city with a cybernetic fist. But when an insubordinate program wreaks havoc on his domain, he resorts to manipulating former Outcasts to protect his legacy and wipe the virus out for good."
+      }
+    }
+  ]
+}

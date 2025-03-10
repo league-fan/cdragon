@@ -1,0 +1,102 @@
+{
+  "id": 432000,
+  "contentId": "ca59bace-060f-4a28-b6cf-74b484dc3955",
+  "isBase": true,
+  "name": "バード",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Base/Images/bard_splash_centered_0.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Base/Images/bard_splash_uncentered_0.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Base/Images/bard_splash_tile_0.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Base/BardLoadScreen.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432000.png",
+  "chromas": [
+    {
+      "id": 432002,
+      "name": "バード満開",
+      "contentId": "64077a17-b722-4cfc-8517-fee3733030ce",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432002.png",
+      "colors": [
+        "#F7963F",
+        "#701E1E"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 432003,
+      "name": "バード満開",
+      "contentId": "cd201dc7-01e6-4bd3-82b0-53bf5409b438",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432003.png",
+      "colors": [
+        "#447164",
+        "#262C35"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 432004,
+      "name": "バード満開",
+      "contentId": "ff1bae8d-fd1d-4c15-bd34-e77bfb9df6b8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432004.png",
+      "colors": [
+        "#3F4CAF",
+        "#0D124A"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": null,
+  "description": null,
+  "wikiSkinData": {
+    "id": 432000,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 880,
+    "release": "2015-03-12",
+    "chromas": {
+      "Ivy": {
+        "id": 3
+      },
+      "Marigold": {
+        "id": 2
+      },
+      "Sage": {
+        "id": 4
+      }
+    },
+    "voiceactor": [
+      "N/A; Utora",
+      "Sebastien 'Chemicalseb' Najand"
+    ],
+    "splashartist": [
+      "Evan 'Somnicidal' Monteiro"
+    ],
+    "lore": "A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful spirit meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good… in his own odd way."
+  }
+}

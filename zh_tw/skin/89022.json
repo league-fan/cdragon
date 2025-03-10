@@ -1,0 +1,80 @@
+{
+  "id": 89022,
+  "contentId": "e9171d22-a91d-4506-9916-a1459cf7ece0",
+  "isBase": false,
+  "name": "DWG 雷歐娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Leona/Skins/Skin22/Images/leona_splash_centered_22.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Leona/Skins/Skin22/Images/leona_splash_uncentered_22.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Leona/Skins/Skin22/Images/leona_splash_tile_22.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Leona/Skins/Skin22/LeonaLoadscreen_22.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Leona/Skins/Skin22/LeonaLoadscreen_22_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/89/89022.png",
+  "chromas": [
+    {
+      "id": 89032,
+      "name": "DWG 雷歐娜（菁英）",
+      "contentId": "1fbef3cf-99de-4aad-a45a-89cf57585b9c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/89/89032.png",
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "此炫彩造型於 2021 年 MSI 以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 145
+    }
+  ],
+  "description": "紀念 BeryL 在 2020 世界大賽中使用雷歐娜贏得世界冠軍的精采表現。",
+  "wikiSkinData": {
+    "id": 89022,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2021-04-29",
+    "set": [
+      "World Champions: 2020"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 32,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Wendee Lee"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Honoring BeryL's winning performance as Leona during the 2020 World Championship."
+  }
+}

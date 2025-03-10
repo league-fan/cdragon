@@ -1,0 +1,175 @@
+{
+  "id": 101005,
+  "contentId": "6e2fdf93-b547-4d1f-ad2b-1a5672572986",
+  "isBase": false,
+  "name": "Dark Star Xerath",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin05/Images/xerath_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin05/Images/xerath_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin05/Images/xerath_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin05/XerathLoadscreen_5.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin05/XerathLoadscreen_5_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101005.png",
+  "chromas": [
+    {
+      "id": 101006,
+      "name": "Dark Star Xerath",
+      "contentId": "7f3aea45-33a6-4d02-9576-975e477ff376",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101006.png",
+      "colors": [
+        "#000000",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a Loot exclusive in the 2020 Galaxies event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 101007,
+      "name": "Dark Star Xerath",
+      "contentId": "46d16669-20ac-4792-8c68-3e0a74a27447",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101007.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 101008,
+      "name": "Dark Star Xerath",
+      "contentId": "f10a5fad-b7c8-4563-84f6-d500e534d6cb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101008.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 101009,
+      "name": "Dark Star Xerath",
+      "contentId": "a06f43b1-0391-4b35-b0a6-812fe6a00eec",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101009.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 101010,
+      "name": "Dark Star Xerath",
+      "contentId": "85245941-4bc9-4f4d-981d-fdbacd14c7d1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101010.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 101011,
+      "name": "Dark Star Xerath",
+      "contentId": "a3a0e4ef-d3e3-4e79-bc88-8b6e24bb1818",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101011.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2020."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 44
+    }
+  ],
+  "description": "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation.",
+  "wikiSkinData": {
+    "id": 101005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-03-26",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 6,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      },
+      "Emerald": {
+        "id": 7
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 9
+      },
+      "Ruby": {
+        "id": 10,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 11
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Katya Cyan",
+      "West Studio"
+    ],
+    "lore": "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born—a dark being of malice and annihilation."
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "id": 12,
+  "name": "牛头酋长",
+  "alias": "Alistar",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/12.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 12000,
+      "name": "牛头酋长",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 12000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly becoming a beast. Now, free of the chains of his former masters, he fights in the name of the downtrodden and the disadvantaged, his rage as much a weapon as his horns, hooves and fists."
+      }
+    },
+    {
+      "id": 12001,
+      "name": "暗黑灵魂 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Digital Collector's Edition",
+        "cost": "Special",
+        "release": "2009-06-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 12002,
+      "name": "金牛座 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 390,
+        "release": "2010-01-13",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ]
+      }
+    },
+    {
+      "id": 12003,
+      "name": "斗牛士 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-05-11",
+        "retired": "2012-03-19",
+        "set": [
+          "Day Job"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Man's greatest battle is the one he must fight within himself, unless he's a matador who is also a giant bull. Then the battle is more literal."
+      }
+    },
+    {
+      "id": 12004,
+      "name": "荒野镖客 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-16",
+        "retired": "2014-12-02",
+        "set": [
+          "High Noon"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "A handful of the Old West's more pragmatic individuals have integrated into human society—the hulking minotaur Alistar among them. Working as muscle for hire, he can be found breaking up saloon fights as often as knocking down bank vault doors. If it pays, the longhorn's on board."
+      }
+    },
+    {
+      "id": 12005,
+      "name": "巨角幻兽 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Youtube Distribution",
+        "cost": "Special",
+        "release": "2011-09-22",
+        "set": [
+          "Chronicle"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ]
+      }
+    },
+    {
+      "id": 12006,
+      "name": "地狱火 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-07-13",
+        "set": [
+          "Infernal"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Concept Art House"
+        ],
+        "lore": "Leading from the front of the Infernal invasion, Alistar is a lumbering juggernaut whose ponderous movements bely unimaginable strength and speed. Dozens of armies have fallen before him, overwhelmed suddenly and completely by his power."
+      }
+    },
+    {
+      "id": 12007,
+      "name": "后场堡垒 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-06-18",
+        "retired": "2017-11-01",
+        "set": [
+          "Soccer Cup"
+        ],
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "They call him a sweeper, but Alistar is more of a mobile fortress with horns. If a rival player has the ball, just point Alistar in their direction for immediate and painful results."
+      }
+    },
+    {
+      "id": 12008,
+      "name": "黑暗骑士 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-09-30",
+        "earlysale": "2016-03",
+        "set": [
+          "Marauder"
+        ],
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Though the great armies of the Magelord Empire have vanished into antiquity, their modern descendants uphold the vicious brutality of their ancestors. Alistar, a prime specimen of the beastmen hordes, now fights for the same culture that conquered his own people so very long ago."
+      }
+    },
+    {
+      "id": 12009,
+      "name": "SKT T1 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12009,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-08-17",
+        "set": [
+          "World Champions: 2015"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Honoring Wolf's winning performance as Alistar during the 2015 World Championship."
+      }
+    },
+    {
+      "id": 12010,
+      "name": "哞利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-03-29",
+        "earlysale": "2017-10",
+        "set": [
+          "Toy Box"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Aquamarine": {
+            "id": 14
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Citrine": {
+            "id": 17
+          },
+          "Jasper": {
+            "id": 15
+          },
+          "Peridot": {
+            "id": 12
+          },
+          "Rose Quartz": {
+            "id": 11
+          },
+          "Sapphire": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A rare cow-themed variant of the popular Alistar figurines, mint-in-box units have been known to go for several thousand dollars at auction. Yesterday, this one was submerged in the tub. Children don't deserve nice things."
+      }
+    },
+    {
+      "id": 12019,
+      "name": "海克斯科技 阿利斯塔",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12019,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-03-26",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "The fusion of arcane sorcery and Piltovan ingenuity, Alistar is an advanced, living golem built by the finest artificers in Runeterra. Tasked with guarding the secrets of hextech, it crushes all who would abuse the methods behind its creation."
+      }
+    },
+    {
+      "id": 12020,
+      "name": "征服者 阿利斯塔",
+      "rarity": "kRare",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12020,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2019-04-30",
+        "set": [
+          "Conqueror"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Golden": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "MSI 2019"
+          }
+        },
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Commemorating the 2019 Mid-Season Invitational in Asia."
+      }
+    },
+    {
+      "id": 12022,
+      "name": "黯晶巨牛 阿利斯塔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-03-05",
+        "set": [
+          "Blackfrost"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The mightiest of all minotaurs, Alistar once roamed the northern mountains freely… but when the endless winter came and blanketed his home in frost as dark as the heart of the Ice Witch herself, the fearsome behemoth fell prey to an eerie corruption—as his fur and bone twisted into pure, frozen malice."
+      }
+    },
+    {
+      "id": 12029,
+      "name": "福牛守护者 阿利斯塔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12029,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-02-04",
+        "set": [
+          "Lunar Beast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Catseye": {
+            "id": 32
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 30,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Vitality": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Beast 2021"
+          }
+        },
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The leader of Ox Clan, Alistar keeps his stubborn squad in line with his reliability and gruff approval. A bit quick to anger with some squad members' bull-headedness, he's determined that nothing and no one will derail this Lunar New Year festival, or Ox Clan's plan to make it a flawless celebration."
+      }
+    }
+  ]
+}

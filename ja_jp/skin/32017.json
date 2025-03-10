@@ -1,0 +1,152 @@
+{
+  "id": 32017,
+  "contentId": "e3a32ab9-4e20-4f95-89db-9519505a3f37",
+  "isBase": false,
+  "name": "地獄の業火アムム",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Amumu/Skins/Skin17/Images/amumu_splash_centered_17.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Amumu/Skins/Skin17/Images/amumu_splash_uncentered_17.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Amumu/Skins/Skin17/Images/amumu_splash_tile_17.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Amumu/Skins/Skin17/AmumuLoadscreen_17.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32017.png",
+  "chromas": [
+    {
+      "id": 32018,
+      "name": "地獄の業火アムム",
+      "contentId": "3feb9ef9-d223-461a-a445-106c5148f32a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32018.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "このクロマは2018年にセット限定でリリースされた。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 32019,
+      "name": "地獄の業火アムム",
+      "contentId": "8e5da40b-2e87-4a46-bab3-7491065398a1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32019.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "インフルエンサーの視聴者プレゼントで入手。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 32020,
+      "name": "地獄の業火アムム",
+      "contentId": "81440429-3983-4882-9534-16889930307e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32020.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 32021,
+      "name": "地獄の業火アムム",
+      "contentId": "1c1c5224-8f52-47eb-b0de-3eae5697a2ec",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32021.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 32022,
+      "name": "地獄の業火アムム",
+      "contentId": "dc051f74-f176-4fa8-8ae3-ab6f6eba97ec",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32022.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 86
+    }
+  ],
+  "description": "太古の炎術師たちが邪悪な地獄の住人たちをこの世界に放ったとき、彼らは誤ってまだ幼く孤独な怪物も召喚してしまった。アムムは現在各地で暴れ回っている炎の化け物たちと比べると火花のような存在で、ただ友達を作ることだけを願っている。だがその意思とは裏腹に、彼が触れるものはすべて燃え上がってしまうのだ…",
+  "wikiSkinData": {
+    "id": 32017,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-10-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 21
+      },
+      "Catseye": {
+        "id": 22
+      },
+      "Emerald": {
+        "id": 19,
+        "availability": "Partner",
+        "source": "Partner",
+        "distribution": "Partner Program"
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Cristina Milizia"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "When ancient pyromancers unleashed the malevolent Infernals upon the world, they also unintentionally summoned younger, lonelier creatures. A mere spark compared to the fiery monsters now ravaging the land, Amumu seeks only friendship… unwittingly incinerating all those he touches."
+  }
+}

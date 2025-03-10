@@ -1,0 +1,148 @@
+{
+  "id": 107001,
+  "contentId": "d2395d98-e3c9-40ac-9657-42f266189a7c",
+  "isBase": false,
+  "name": "獵頭者 雷葛爾",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/Images/rengar_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/Images/rengar_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/Images/rengar_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/RengarLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107001.png",
+  "chromas": [
+    {
+      "id": 107004,
+      "name": "獵頭者｜鈷青 雷葛爾",
+      "contentId": "26125792-b952-4be1-8759-7d5a9fa11f80",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107004.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 107005,
+      "name": "獵頭者｜血紅 雷葛爾",
+      "contentId": "099579e0-013f-44e1-834f-8eb1320912b3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107005.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 107006,
+      "name": "獵頭者｜草綠 雷葛爾",
+      "contentId": "6af77447-3edd-4697-aa3d-50b38b9e843c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107006.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 107007,
+      "name": "獵頭者｜紺紫 雷葛爾",
+      "contentId": "ea12a3e9-849f-4981-b39f-a68012fe821f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107007.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 30
+    }
+  ],
+  "description": "某些獵人選擇在有生之年盡可能地挑戰極限，嘗試攀登至不可能抵達的高度，他們為了殺戮的喜悅而殺害無數生物。雷葛爾的身上配戴著無數獵物的骨頭，不禁讓人擔憂他的嗜血程度是否越演越烈。",
+  "wikiSkinData": {
+    "id": 107001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-08-21",
+    "set": [
+      "Headhunter"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Emerald": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith",
+      "Bo Lu",
+      "Pan Chengwei",
+      "Wesley Keil"
+    ],
+    "lore": "Some hunters choose to scale impossible heights, cutting down creatures many times their own size for the sheer rush of the kill. Rengar is clad in the bones of these creatures, a worrying sign to his more human quarry."
+  }
+}

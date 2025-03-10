@@ -1,0 +1,603 @@
+{
+  "id": 96,
+  "name": "寇格魔",
+  "alias": "KogMaw",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/96.png",
+  "roles": [
+    "marksman",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 96000,
+      "name": "寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 96000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2010-06-24",
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog’Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog’Maw’s beguiling naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity."
+      }
+    },
+    {
+      "id": 96001,
+      "name": "摩斯拉 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-24",
+        "retired": "2013-07-18",
+        "set": [
+          "Storybook"
+        ],
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "Kog'Maw, ever lost in thought, sat upon his toadstool until he was famished. “Wonderland is full of such delights,” he mused, gulping down the toadstool entirely. “It would be a shame not to devour them all.”"
+      }
+    },
+    {
+      "id": 96002,
+      "name": "索諾拉沙蟲 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-24",
+        "retired": "2011-11-28",
+        "set": [
+          "High Noon"
+        ],
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "Long considered a pest by frontier settlers, Kog'Maw critters have been growing in number as more dangerous beasts are pushed to the brink of extinction. And they are very, very hungry."
+      }
+    },
+    {
+      "id": 96003,
+      "name": "蝶斯拉 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-16",
+        "set": [
+          "Legacy"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ]
+      }
+    },
+    {
+      "id": 96004,
+      "name": "聖誕馴鹿 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "It is rumored that Kog'Maw stole his glowing nose and deer antlers from a particularly adorable creature he devoured. Whether or not the theory is true, Kog'Maw is now the most famous reindeer of all."
+      }
+    },
+    {
+      "id": 96005,
+      "name": "大嘴年獸 寇格魔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2011-02-01",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "It is unclear if Kog'Maw even understands what Lunar Revel is, but someone seems to have painted him for it. That person has presumably been eaten and digested, but Kog'Maw does look very festive."
+      }
+    },
+    {
+      "id": 96006,
+      "name": "魚斯拉 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-09-19",
+        "retired": "2017-11-01",
+        "set": [
+          "Forgotten Depths"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "“Perhaps my old mind was deceived by the fury of the storm. Yet as we sank, I glimpsed a field of lights beneath the waves, a thousand eyes of wicked alabaster… they were dark things tearing into the flesh of our crew as if all they ever knew was hunger.”"
+      }
+    },
+    {
+      "id": 96007,
+      "name": "侏羅紀 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-03-23",
+        "set": [
+          "Day Job"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ]
+      }
+    },
+    {
+      "id": 96008,
+      "name": "狂派機甲 寇格魔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-11-25",
+        "set": [
+          "Battlecast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "lore": "Mass-produced artillery units based on the now-extinct Kog'Maw organism, Viktor has invented an ingenious shell delivery system best appreciated from about a hundred miles away—the latest design's maximum range."
+      }
+    },
+    {
+      "id": 96009,
+      "name": "狗格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96009,
+        "formatname": "Pug'Maw",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-03-29",
+        "earlysale": "2017-10",
+        "set": [
+          "Toy Box"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 14
+          },
+          "Granite": {
+            "id": 18
+          },
+          "Meteorite": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Rose Quartz": {
+            "id": 11
+          },
+          "Sandstone": {
+            "id": 12
+          },
+          "Speckled": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Pug'Maw is a nine month old purebred pug with a sweet disposition and possibly some sort of salivary problem. Great with children and pets. Highly food motivated. Has eaten three action figures and one doll, approach with extreme caution."
+      }
+    },
+    {
+      "id": 96010,
+      "name": "海克斯科技 寇格魔",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96010,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2017-12-07",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A newer Hextech innovation, Kog'Maw constructs are available as pets for wealthy families, delighting Piltover's upper crust with their friendly demeanor and intricately complex design. Though living things, they are viewed among the well-to-do as little more than status symbols."
+      }
+    },
+    {
+      "id": 96019,
+      "name": "奧術萌獸 寇格魔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-09",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Rainbow": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The diminutive familiar of a famed sorcerer, Kog'Maw was mistreated and neglected for years as his master pursued the arcane arts. Thanks to a chance meeting with Zoe, he was released from servitude to travel the land with her… ultimately enrolling in the same school Zoe technically attends."
+      }
+    },
+    {
+      "id": 96028,
+      "name": "口蜜腹箭 寇格蜜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96028,
+        "formatname": "Bee'Maw",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-04",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 30
+          },
+          "Aquamarine": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Peridot": {
+            "id": 32
+          },
+          "Rainbow": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Snowballing lane won't bring back your precious honey!"
+      }
+    },
+    {
+      "id": 96037,
+      "name": "電擊格魔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96037,
+        "formatname": "Zap'Maw",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-08-11",
+        "set": [
+          "Monster Tamers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 42
+          },
+          "Aquamarine": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 40,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 45
+          },
+          "Turquoise": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "The Zap'Maw is a curious monster that baffles even the most experienced of Tamers. Sightings are limited to abandoned ruins that only the bravest dare enter. But taming one is an even more challenging task. Only one Tamer has succeeded so far, their bond—and the Zap'Maw's lightning attacks—growing stronger each day."
+      }
+    },
+    {
+      "id": 96046,
+      "name": "山海卷軸 寇格魔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96046,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-14",
+        "set": [
+          "Shan Hai Scrolls"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 52
+          },
+          "Catseye": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Peridot": {
+            "id": 51
+          },
+          "Rose Quartz": {
+            "id": 50
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Exia Xiaotong",
+          "West Studio"
+        ],
+        "lore": "In defiance of the maelstrom's power, the beast Kog'Maw safely rides along its currents thanks to its nigh-unbreakable shell. Perpetually at odds with itself, its tail is addicted to feeding on the maelstrom's energy, while its head simply wants to devour everything in sight. Can anything within the Scrolls sate its growing hunger?"
+      }
+    },
+    {
+      "id": 96055,
+      "name": "戰爭英雄 寇格魔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96055,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2024 - Split 1.",
+        "release": "2024-05-17",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 56,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Challenger": {
+            "id": 64,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Diamond": {
+            "id": 61,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Emerald": {
+            "id": 60,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Gold": {
+            "id": 58,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Grandmaster": {
+            "id": 63,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Master": {
+            "id": 62,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Platinum": {
+            "id": 59,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          },
+          "Silver": {
+            "id": 57,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2024 - Split 1"
+          }
+        },
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "Kog'Maw was earned by players who accumulated enough split points in Ranked. Those curious enough to follow the shimmering ooze trailing from the mouth of a crevasse, have but a moment to recognize that same curiosity in Kog'Maw's glittering stare before finding themselves enveloped in his terrible mouth."
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 74001,
+  "contentId": "39e58f72-8857-4b19-9f79-5ef16cdfe88e",
+  "isBase": false,
+  "name": "第三类接触 黑默丁格",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin01/Images/heimerdinger_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin01/Images/heimerdinger_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin01/Images/heimerdinger_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin01/HeimerdingerLoadScreen_1.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin01/HeimerdingerLoadScreen_1_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 105
+    }
+  ],
+  "description": "在黑默丁格尝试警告人们关于外太空的入侵时，没人相信过他。在他摘下假发时，他们相信了。",
+  "wikiSkinData": {
+    "id": 74001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2010-07-13",
+    "retired": "2012-07-16",
+    "earlysale": "2019-09-20",
+    "set": [
+      "Invaders"
+    ],
+    "neweffects": true,
+    "transforming": true,
+    "vu": true,
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "lore": "No one believed Heimerdinger when he tried to warn them about the invaders from outer space. They believed when he took off the wig."
+  }
+}

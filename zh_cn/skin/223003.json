@@ -1,0 +1,189 @@
+{
+  "id": 223003,
+  "contentId": "fb6f879a-83f9-4e20-ada7-3df9c74d9280",
+  "isBase": false,
+  "name": "纳财大帝 塔姆",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/TahmKench/Skins/Skin03/Images/tahmkench_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/TahmKench/Skins/Skin03/Images/tahmkench_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/TahmKench/Skins/Skin03/Images/tahmkench_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/TahmKench/Skins/Skin03/TahmKenchLoadscreen_3.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/TahmKench/Skins/Skin03/TahmKenchLoadScreen_3_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223003.png",
+  "chromas": [
+    {
+      "id": 223004,
+      "name": "纳财大帝 塔姆 赠禄",
+      "contentId": "d18d4e62-5af8-42f8-9252-849e4814a669",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223004.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 223005,
+      "name": "纳财大帝 塔姆 赐福",
+      "contentId": "968c2490-056d-4dfa-9fc3-70bc68d80f39",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223005.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 223006,
+      "name": "纳财大帝 塔姆 盈贯",
+      "contentId": "bbb80ecc-97bc-497e-b483-8a81f8c7cb39",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223006.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 223007,
+      "name": "纳财大帝 塔姆 进宝",
+      "contentId": "39265407-ee03-464e-86d9-229f257d40b2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223007.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 223008,
+      "name": "纳财大帝 塔姆 招财",
+      "contentId": "b1ae46d7-ea1b-4fb6-bb95-863747b71274",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223008.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 223009,
+      "name": "纳财大帝 塔姆 送吉",
+      "contentId": "c156ebb4-44ae-4fb2-a7e2-18f6bb9ed092",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/223/223009.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of Pig",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/53.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/53.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 55
+    }
+  ],
+  "description": "塔姆对钱币气息的渴望胜于其它俗世之乐。每逢春节庆典，塔姆就会从他的河中王国中现身，设法与凡人们讨价还价。尽管他的目标们几乎总是避免不了穷困潦倒的下场，但有传言说，只要运用适当的尊重和谨慎的措辞，就有可能带着无法想象的财富逃离他的砍价。",
+  "wikiSkinData": {
+    "id": 223003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-01-28",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 6
+      },
+      "Aquamarine": {
+        "id": 5
+      },
+      "Obsidian": {
+        "id": 4
+      },
+      "Pearl": {
+        "id": 8
+      },
+      "Rose Quartz": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Pat Duke"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy."
+  }
+}

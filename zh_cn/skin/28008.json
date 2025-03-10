@@ -1,0 +1,174 @@
+{
+  "id": 28008,
+  "contentId": "ceee0281-6588-4e55-b893-2f4d2d75ccd0",
+  "isBase": false,
+  "name": "糖果大战 伊芙琳",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Evelynn/Skins/Skin08/Images/evelynn_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Evelynn/Skins/Skin08/Images/evelynn_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Evelynn/Skins/Skin08/Images/evelynn_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Evelynn/Skins/Skin08/EvelynnLoadscreen_8.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Evelynn/Skins/Skin08/EvelynnLoadscreen_8_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28008.png",
+  "chromas": [
+    {
+      "id": 28009,
+      "name": "糖果大战 伊芙琳 草莓奶昔",
+      "contentId": "59c37e4b-6f01-4132-b0e9-019187b58ab6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28009.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 28010,
+      "name": "糖果大战 伊芙琳 樱桃奶昔",
+      "contentId": "e621e98f-6f6a-4000-a85b-bf380b9a4c92",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28010.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 28011,
+      "name": "糖果大战 伊芙琳 蔓越莓奶昔",
+      "contentId": "cabc19df-07e4-4e83-b2e7-d93615a0aafd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28011.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 28012,
+      "name": "糖果大战 伊芙琳 嗜甜之齿",
+      "contentId": "9acc442d-a602-4067-94bf-467f375d7a95",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28012.png",
+      "colors": [
+        "#E58BA5",
+        "#6FFDFF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 28013,
+      "name": "糖果大战 伊芙琳 巧克力奶昔",
+      "contentId": "29325fcc-7e10-45fa-91c1-ac43a965a42b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28013.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 28014,
+      "name": "糖果大战 伊芙琳 可可奶昔",
+      "contentId": "61670340-1789-452a-942f-8f5f3f2f7af4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/28/28014.png",
+      "colors": [
+        "#9F4A25",
+        "#9F4A25"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 57
+    }
+  ],
+  "description": "在一个每个人的牙齿都很甜的世界里，伊芙琳的甜蜜之咬非常致命。",
+  "wikiSkinData": {
+    "id": 28008,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-12-17",
+    "set": [
+      "Sugar Rush"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 11
+      },
+      "Jasper": {
+        "id": 14
+      },
+      "Obsidian": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 10
+      },
+      "Ruby": {
+        "id": 9,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sweet Tooth": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sugar Rush 2019"
+      }
+    },
+    "voiceactor": [
+      "Mara Junot"
+    ],
+    "splashartist": [
+      "Xiao Guang Sun",
+      "West Studio"
+    ],
+    "lore": "In a world where every tooth is sweet, Evelynn's sugary bite is deadly."
+  }
+}

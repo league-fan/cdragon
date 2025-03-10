@@ -1,0 +1,809 @@
+{
+  "id": 13,
+  "name": "龍的世界 ",
+  "description": "龍焰曾經肆虐了這個世界兩次，而從餘燼之中誕生的是拯救世界的英雄。",
+  "skins": [
+    {
+      "id": 2016,
+      "name": "弒龍戰士 歐拉夫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 2016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-30",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 20
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19
+          },
+          "Meteorite": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 21,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 17
+          }
+        },
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "A savage berserker from the hinterlands, Olaf sought a warrior's death in slaying dragons. One by one, the horrid beasts fell to his axe, and rumors even tell of him consuming the heart of a dragon he beheaded. Truth is, this act has only fanned the fire of his rage, driving him to bring about the end of dragons."
+      }
+    },
+    {
+      "id": 3019,
+      "name": "龍族守護者 加里歐",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 3019,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-15",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 22
+          },
+          "Citrine": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Pearl": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 21
+          },
+          "Ruby": {
+            "id": 20,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 24
+          }
+        },
+        "voiceactor": [
+          "Josh Petersdorf"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "A great dragon of old, who protected dragonkind's ancestral nesting grounds from those who might do it harm. Tricked by the mad knight Kayle so she could destroy every clutch of eggs under his charge, he has followed her back to human society, so he might exact his vengeance personally."
+      }
+    },
+    {
+      "id": 5013,
+      "name": "弒龍鬥士 趙信 ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 5013,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-03-09",
+        "earlysale": "2017-09",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 15
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 19
+          },
+          "Sandstone": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Richard Epcar"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "The sorceress called a great mountain her home, and from it, reborn dragons poured endlessly into the sky. Though dragonslayers fell all around him, Xin Zhao struck into the monster's lair, determined to end her evil once and for all."
+      }
+    },
+    {
+      "id": 10024,
+      "name": "弒龍劍士 凱爾",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-15",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 28
+          },
+          "Tanzanite": {
+            "id": 29
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Forrest Imel",
+          "West Studio"
+        ],
+        "lore": "A famous dragonslayer who vanished into the distant mountains, obsessed with destroying the dragon lineage utterly. Many years later she has returned, so changed by the carnage that she has begun to resemble a dragon herself."
+      }
+    },
+    {
+      "id": 18010,
+      "name": "馴龍高手 崔絲塔娜",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 18010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2015-12-03",
+        "earlysale": "2016-05",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 19
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Rainbow": {
+            "id": 21
+          },
+          "Rose Quartz": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "As the dragonslayers fought a bitter war with their nemeses, Tristana was busy with a draconic matter of her own. Deep in the wooded forests, away from the battles, she busily trained a young dragon—a trying task rewarded with lifelong friendship."
+      }
+    },
+    {
+      "id": 29036,
+      "name": "弒龍弩士 圖奇",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 29036,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-15",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 40
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 37,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "A lesser dragon who has learned to blend in among humans… poorly. Twitch worships the true dragons and plans to one day become one himself, though he isn't sure how just yet."
+      }
+    },
+    {
+      "id": 48006,
+      "name": "弒龍勇士 特朗德",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 48006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-30",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Joshua Tomar"
+        ],
+        "splashartist": [
+          "Lucas Parolin",
+          "West Studio"
+        ],
+        "lore": "The king of a clan of giant trolls, Trundle is a revered dragonslayer. Blessed with the ability to command the raw power of mountain ice, he defends his realm from death and destruction. Over the ages, surviving trolls have looked up to him as their fearsome leader in this world torn asunder by dragon fire."
+      }
+    },
+    {
+      "id": 50004,
+      "name": "喚龍魔君 斯溫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 50004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-22",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 8
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 5
+          },
+          "Ruby": {
+            "id": 7
+          },
+          "Sapphire": {
+            "id": 9
+          },
+          "Tanzanite": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "James Faulkner"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "Seeking to turn the very essence of dragons against them, the great Dragonslayer Swain battled beneath the earth for the souls of ancient, long-dead wyrms. In his hubris, he was consumed by their power, emerging a corrupted thrall of the monsters he once swore to destroy."
+      }
+    },
+    {
+      "id": 59002,
+      "name": "弒龍者 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-03-01",
+        "set": [
+          "Dragon World"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "lore": "All are accepted into the ranks of the dragonslayers, from the lowliest peasant to the mightiest king, for dragons would devour all equally. Jarvan IV willingly gave up the throne to join his doomed countrymen and stand against the fury of monsters reborn."
+      }
+    },
+    {
+      "id": 67003,
+      "name": "弒龍獵人 汎",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 67003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-24",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Green": {
+            "id": 7
+          },
+          "Red": {
+            "id": 8
+          },
+          "Silver": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "lore": "Many heeded the call of the dragonslayers as they mustered their forces, from common cutpurses to fabled monster hunters. Vayne was one such legendary recruit—for what is a dragon, if not the deadliest beast of all?"
+      }
+    },
+    {
+      "id": 74006,
+      "name": "馴龍高手 漢默丁格",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 74006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2018-10-11",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Jason Palmer"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Dragon training, to the few who understand it, seems to be the sole domain of yordles. Heimerdinger has long believed that dragons and humankind can peacefully coexist, citing centuries of his own successful research. His current dragon hatchling, Pythagoras, holds no opinion on the subject."
+      }
+    },
+    {
+      "id": 77005,
+      "name": "神龍之諭 烏迪爾",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 77005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-08-15",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sean Rohani"
+        ],
+        "lore": "Every dragon that dies leaves behind a blazing spirit. Through Udyr, a mystic who doubted the old tales, these dragon spirits have the chance to touch life once again. He believes that dragons are only as evil as those who command them and, in channeling the spirits and their flames, seeks to prove it to the slayers."
+      }
+    },
+    {
+      "id": 78006,
+      "name": "血色戰錘 波比",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 78006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-01",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Kate Higgins"
+        ]
+      }
+    },
+    {
+      "id": 80006,
+      "name": "弒龍壯士 潘森",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-05-14",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 15
+          },
+          "Sandstone": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge."
+      }
+    },
+    {
+      "id": 82001,
+      "name": "龍騎士 魔鬥凱薩",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 82001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-24",
+        "retired": "2011-11-28",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Fred Tatasciore"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "The ancient dragons first rose to the call of Mordekaiser, the self-proclaimed Dragon Knight. Through his evil, the world was ravaged by flame, until a newly-formed order of Dragonslayers finally defeated him. His story would become rumor, then myth, then legend… at least, for now."
+      }
+    },
+    {
+      "id": 117003,
+      "name": "馴龍高手 露璐",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-11-13",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Dragons, though feared, are still living things and can be befriended under the right circumstances. Lulu enthralled her small friend with whimsical magic... becoming the first ever dragon trainer."
+      }
+    },
+    {
+      "id": 131018,
+      "name": "弒龍死士 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-30",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts."
+      }
+    },
+    {
+      "id": 143004,
+      "name": "荊棘龍后 枷蘿",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 143004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-03-09",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Survivors of recent monster attacks tell stories of serpents in the sky and a powerful sorceress nesting deep in the mountains. If the rumors are true, it means the dragons have returned—and that this time, Zyra is breeding them."
+      }
+    },
+    {
+      "id": 201001,
+      "name": "弒龍守護者 布郎姆",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-05-11",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 4
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Fan Pass": {
+            "id": 20,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Fan Pass Missions"
+          },
+          "LCS": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Team Pass Missions"
+          },
+          "LEC": {
+            "id": 21,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Team Pass Missions"
+          },
+          "LPL": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Team Pass Missions"
+          },
+          "Obsidian": {
+            "id": 5
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Sandstone": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ],
+        "lore": "Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent."
+      }
+    }
+  ]
+}

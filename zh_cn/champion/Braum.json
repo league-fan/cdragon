@@ -1,0 +1,346 @@
+{
+  "id": 201,
+  "name": "弗雷尔卓德之心",
+  "alias": "Braum",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/201.png",
+  "roles": [
+    "tank",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 201000,
+      "name": "弗雷尔卓德之心",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 201000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2014-05-11",
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "Blessed with massive biceps and an even bigger heart, Braum is a beloved hero of the Freljord. Every mead hall north of Frostheld toasts his legendary strength, said to have felled a forest of oaks in a single night, and punched an entire mountain into rubble. Bearing an enchanted vault door as his shield, Braum roams the frozen north sporting a mustachioed smile as big as his muscles—a true friend to all those in need."
+      }
+    },
+    {
+      "id": 201001,
+      "name": "屠龙勇士 布隆",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-05-11",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 4
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Emerald": {
+            "id": 7
+          },
+          "Fan Pass": {
+            "id": 20,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Fan Pass Missions"
+          },
+          "LCS": {
+            "id": 22,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Team Pass Missions"
+          },
+          "LEC": {
+            "id": 21,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Team Pass Missions"
+          },
+          "LPL": {
+            "id": 23,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Team Pass Missions"
+          },
+          "Obsidian": {
+            "id": 5
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Sandstone": {
+            "id": 8
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ],
+        "lore": "Dragonslayers first rose to battle their ancient foes hundreds of years ago, and after their victory, the land fell into a long, forgetful peace. When the dragons returned, most of the ancient warriors had passed away, leaving Braum to take up their task with only his mighty shield to defend the innocent."
+      }
+    },
+    {
+      "id": 201002,
+      "name": "猛虎 布隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-01-21",
+        "set": [
+          "Luchador"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "A contemporary wrestler beloved the world over, El Tigre's roar is the bellow of a people's champion. He is a friend to all… but can still scissor kick a two hundred pound cage fighter right out of the ring."
+      }
+    },
+    {
+      "id": 201003,
+      "name": "布隆·狮心",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201003,
+        "formatname": "Braum Lionheart",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-12-07",
+        "earlysale": "2016-05",
+        "set": [
+          "Rift Quest"
+        ],
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "lore": "The strongest, bravest knight in all the land, people love Braum Lionheart and his daring tales of adventure! He's definitely not a stickler for 7th-edition Riftquest rules, and there are certainly not snax stains on his character sheet. That would be unbecoming of such a gallant warrior."
+      }
+    },
+    {
+      "id": 201010,
+      "name": "圣诞老人 布隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201010,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-12-14",
+        "set": [
+          "Snowdown Showdown"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "He's making that list, and checking it twice—but there's a lot of room for improvement because Braum is so nice! He may be tasked with giving coal to naughty children, but his big heart and sunny outlook ensure everyone gets exactly what they wanted... even the bad kids."
+      }
+    },
+    {
+      "id": 201011,
+      "name": "黑帮管家 布隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-23",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder."
+      }
+    },
+    {
+      "id": 201024,
+      "name": "糖果大战 布隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 28
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 29
+          },
+          "Peridot": {
+            "id": 31
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sweet Tooth": {
+            "id": 32,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "No one knows how Braum manages to never get candy stuck in his majestic mustache. Everyone knows how the great defender stands stalwart for everyone, from the smallest gumdrop to the strongest candy king."
+      }
+    },
+    {
+      "id": 201033,
+      "name": "泳池派对 布隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-06-09",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 37
+          },
+          "Aquamarine": {
+            "id": 36
+          },
+          "Catseye": {
+            "id": 35
+          },
+          "Obsidian": {
+            "id": 40
+          },
+          "Peridot": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Braum's tiki lemonades are a lot like him—tall, sweet, and very popular with poros. Even the Boss is willing to wait his turn to get a glass!"
+      }
+    }
+  ]
+}

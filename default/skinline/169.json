@@ -1,0 +1,126 @@
+{
+  "id": 169,
+  "name": "Surprise Party",
+  "description": "Who doesn't like a surprise party? The guest list is done, everybody's bought their presents, and the food's going to be great. We even got a clown! This'll be one to remember. Just don't tell Amumu.",
+  "skins": [
+    {
+      "id": 1012,
+      "name": "Annie-Versary",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 1012,
+        "formatname": "Annie-Versary",
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "10th Anniversary Reward",
+        "cost": "Special",
+        "release": "2019-10-27",
+        "set": [
+          "Surprise Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Ten years of epic outplays, last second turnarounds, and brutal throws - and we couldn't have done it without each and every one of you. Annie is ready to usher in the festivities, and Teemo… has been lifting, I see. Happy 10!"
+      }
+    },
+    {
+      "id": 9006,
+      "name": "Surprise Party Fiddlesticks",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-27",
+        "set": [
+          "Surprise Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Peridot": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Everyone told you hiring a clown would be a good idea. “Clowns are great for parties,” they said. But now everyone's missing, and the power is out, and something's laughing just down the hall..."
+      }
+    },
+    {
+      "id": 32008,
+      "name": "Surprise Party Amumu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 32008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-03-31",
+        "earlysale": "2015-12",
+        "set": [
+          "Surprise Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 11
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Catseye": {
+            "id": 14
+          },
+          "Citrine": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Rainbow": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 16
+          },
+          "Sapphire": {
+            "id": 12
+          }
+        },
+        "voiceactor": [
+          "Cristina Milizia"
+        ]
+      }
+    }
+  ]
+}

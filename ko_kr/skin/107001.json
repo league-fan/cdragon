@@ -1,0 +1,148 @@
+{
+  "id": 107001,
+  "contentId": "d2395d98-e3c9-40ac-9657-42f266189a7c",
+  "isBase": false,
+  "name": "인간사냥꾼 렝가",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/Images/rengar_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/Images/rengar_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/Images/rengar_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Skin01/RengarLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107001.png",
+  "chromas": [
+    {
+      "id": 107004,
+      "name": "인간사냥꾼 렝가",
+      "contentId": "26125792-b952-4be1-8759-7d5a9fa11f80",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107004.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 107005,
+      "name": "인간사냥꾼 렝가",
+      "contentId": "099579e0-013f-44e1-834f-8eb1320912b3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107005.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 107006,
+      "name": "인간사냥꾼 렝가",
+      "contentId": "6af77447-3edd-4697-aa3d-50b38b9e843c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107006.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 107007,
+      "name": "인간사냥꾼 렝가",
+      "contentId": "ea12a3e9-849f-4981-b39f-a68012fe821f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/107/107007.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 30
+    }
+  ],
+  "description": "믿을 수 없을 만큼 높이 뛰어오를 수 있는 사냥꾼들이 있습니다. 살상의 짜릿함만을 좇으며 자신보다 몇 배나 큰 괴물을 쓰러뜨리기 위한 것이죠. 렝가가 괴물의 뼈를 온몸에 두르고 나섰습니다. 그의 사냥감이 될 인간들은 단단히 각오해야 할 겁니다.",
+  "wikiSkinData": {
+    "id": 107001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-08-21",
+    "set": [
+      "Headhunter"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 4
+      },
+      "Emerald": {
+        "id": 6
+      },
+      "Ruby": {
+        "id": 5
+      },
+      "Tanzanite": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Jason Simpson"
+    ],
+    "splashartist": [
+      "Joshua 'HUGEnFAST' Brian Smith",
+      "Bo Lu",
+      "Pan Chengwei",
+      "Wesley Keil"
+    ],
+    "lore": "Some hunters choose to scale impossible heights, cutting down creatures many times their own size for the sheer rush of the kill. Rengar is clad in the bones of these creatures, a worrying sign to his more human quarry."
+  }
+}

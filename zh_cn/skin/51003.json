@@ -1,0 +1,56 @@
+{
+  "id": 51003,
+  "contentId": "fe9208f8-4c36-45a6-9652-3e3aba33e108",
+  "isBase": false,
+  "name": "古墓丽影 凯特琳",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin03/Images/caitlyn_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin03/Images/caitlyn_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin03/Images/caitlyn_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Skin03/CaitlynLoadscreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Last Hit",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/20.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/20.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 167
+    }
+  ],
+  "description": "当凯特琳·基拉曼博士没有参加庆祝活动或教学研讨会时，可以在探索中的古代遗址里找到正在寻找历史文物的她。凭借着她可靠的步枪、丰富的艰深知识和那个容易出状况的伊泽瑞尔，她得以勇敢地前往世界上的各种最神秘的地方，将早已消亡的各个文明及其秘密公之于众。",
+  "wikiSkinData": {
+    "id": 51003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-05-10",
+    "set": [
+      "Legacy"
+    ],
+    "retired": "2012-03-19",
+    "neweffects": true,
+    "voiceactor": [
+      "Kirsten Potter"
+    ],
+    "splashartist": [
+      "Jiunn Kuo",
+      "West Studio"
+    ],
+    "lore": "When she isn't attending galas or teaching seminars, Dr. Caitlyn Kiramman can be found exploring ancient ruins in search of historical artifacts. Armed with her trusty rifle, a wealth of esoteric knowledge, and an accident-prone Ezreal, she braves the most mysterious places in the world to bring long-dead civilizations and their secrets into the light."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": 103,
+  "name": "ダンクマスター",
+  "description": "この世の中には2種類の人間がいる。ダンクする者と、ダンクされる者だ。自分がどちらなのか分からないなら、見ているがいい！なぜなら、今から俺がお前にダンクしてやるからだ！",
+  "skins": [
+    {
+      "id": 122004,
+      "name": "ダンクマスター ダリウス",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 122004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2014-10-12",
+        "set": [
+          "Dunkmaster"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 9
+          },
+          "Aquamarine": {
+            "id": 13
+          },
+          "Catseye": {
+            "id": 10
+          },
+          "Citrine": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 11
+          },
+          "Mythic": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "Chuck Kourouklis"
+        ],
+        "splashartist": [
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "Sporting over a hundred different endorsement deals and tens of millions of fans the world over, Darius has transformed himself from a showy basketball prodigy to the world's leading authority on dunking. He has recently perfected the Dunktown Express, where he dunks so hard that all public transit on the planet simultaneously explodes."
+      }
+    },
+    {
+      "id": 427002,
+      "name": "ダンクマスター アイバーン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 427002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-04-04",
+        "set": [
+          "Dunkmaster"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 7
+          },
+          "Catseye": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Peridot": {
+            "id": 4
+          },
+          "Rose Quartz": {
+            "id": 5
+          },
+          "Ruby": {
+            "id": 3,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "David Lodge"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "Daisy and Ivern first started as a basketball doubles pair on the mean streets of Kumungu jungle—but then a chance encounter with then-NBA commissioner John Brambleback pushed them both into the national spotlight. They've been tearing up the court on the professional circuit ever since."
+      }
+    }
+  ]
+}

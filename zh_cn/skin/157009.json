@@ -1,0 +1,92 @@
+{
+  "id": 157009,
+  "contentId": "6fa40a68-04c5-4113-8d4f-787fd93f6657",
+  "isBase": false,
+  "name": "黑夜使者 亚索",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin09/Images/yasuo_splash_centered_9.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin09/Images/yasuo_splash_uncentered_9.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin09/Images/yasuo_splash_tile_9.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin09/YasuoLoadscreen_9.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin09/YasuoLoadscreen_9_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157009.png",
+  "chromas": [
+    {
+      "id": 157034,
+      "name": "黑夜使者 亚索 堕夜",
+      "contentId": "97a85dcf-4851-4632-a86b-7dfe937990c6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157034.png",
+      "colors": [
+        "#C33C3E",
+        "#0C0E15"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2019期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 193
+    }
+  ],
+  "description": "生于造物之破晓的溃烂回响，亚索是星界里混沌能量的如魔具象。他的宿命就是与黎明使者永远对抗下去，而他正在等待着，终有一日，他的黑暗将完全斩断她的光明。",
+  "wikiSkinData": {
+    "id": 157009,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Nightbringer and Dawnbringer"
+    ],
+    "cost": 1820,
+    "release": "2017-06-14",
+    "earlysale": "2017-12",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Pariah": {
+        "id": 34,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Night & Dawn 2019"
+      }
+    },
+    "voiceactor": [
+      "Liam O'Brien"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Born from festering echoes at the dawn of creation, Yasuo is the hellish embodiment of chaos in the cosmos. Fated to clash against the Dawnbringer for all time, he awaits a day when his darkness will finally cleave away her light."
+  }
+}

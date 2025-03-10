@@ -1,0 +1,104 @@
+{
+  "id": 37004,
+  "contentId": "ff3d69ff-8e9f-42f7-9592-3a2ea633eb09",
+  "isBase": false,
+  "name": "古琴余韵 娑娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin04/Images/sona_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin04/Images/sona_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin04/Images/sona_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin04/SonaLoadScreen_4.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37004.png",
+  "chromas": [
+    {
+      "id": 37008,
+      "name": "古琴余韵 娑娜 炫金天籁",
+      "contentId": "6b605994-851b-40ae-a8cb-1b16b0640339",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37008.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 37055,
+      "name": "古琴余韵 娑娜 龙神天籁",
+      "contentId": "e9560d21-8e05-48f7-84b9-f1a4c5320325",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37055.png",
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of the Dragon",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/13.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/13.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 55
+    }
+  ],
+  "description": null,
+  "wikiSkinData": {
+    "id": 37004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-01-10",
+    "set": [
+      "Lunar Revel"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      },
+      "Meteorite": {
+        "id": 55
+      }
+    },
+    "vu": true,
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "id": 6,
+  "name": "Urgot",
+  "alias": "Urgot",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/6.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 6000,
+      "name": "Urgot",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 6000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-08-24",
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Victor '3rdColossus' Maury"
+        ],
+        "lore": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain."
+      }
+    },
+    {
+      "id": 6001,
+      "name": "Giant Enemy Crabgot",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6001,
+        "formatname": "Giant Enemy Crabgot",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-24",
+        "set": [
+          "Kaiju"
+        ],
+        "neweffects": true,
+        "filter": true,
+        "vu": true,
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ],
+        "lore": "Emerging from the deep sea as the first of the kaiju menace, Crabgot has never been completely defeated by the forces of humanity. The best result when it emerges is to temporarily halt its advance, sending the massive crustacean back into the sea... until it can rise once more."
+      }
+    },
+    {
+      "id": 6002,
+      "name": "Butcher Urgot",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-24",
+        "retired": "2012-03-12",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ]
+      }
+    },
+    {
+      "id": 6003,
+      "name": "Battlecast Urgot",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-03-05",
+        "set": [
+          "Battlecast"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 6
+          },
+          "Ruby": {
+            "id": 4
+          },
+          "Sapphire": {
+            "id": 5
+          },
+          "Tanzanite": {
+            "id": 7
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ],
+        "lore": "A titanium juggernaut used to crush pockets of particularly stubborn resistance, the Battlecast Urgot model is rarely seen but widely feared. Its extensive weapons systems are complemented by a massive, flesh-grinding spike mill, which it pulls fleeing opponents into for sheer spectacle."
+      }
+    },
+    {
+      "id": 6009,
+      "name": "High Noon Urgot",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-30",
+        "set": [
+          "High Noon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Pearl": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 10
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ],
+        "lore": "Jeremiah James was once a famed railroad baron and millionaire industrialist, who bet his own heart on a game of chance… and lost. Left alone in the desert to die, he bargained with a passing devil, trading his immortal soul for a twisted, monstrous body of gears and iron."
+      }
+    },
+    {
+      "id": 6015,
+      "name": "Pajama Guardian Cosplay Urgot",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-04-01",
+        "set": [
+          "Definitely Not"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Catseye": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 22
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "A Star Guardian superfan of almost impossible proportions, Urgot worked really hard on this outfit for the fan meet, so please be respectful."
+      }
+    },
+    {
+      "id": 6023,
+      "name": "Fright Night Urgot",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 6023,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-09-22",
+        "set": [
+          "Fright Night"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 30
+          },
+          "Catseye": {
+            "id": 25
+          },
+          "Citrine": {
+            "id": 28
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 27
+          },
+          "Turquoise": {
+            "id": 31
+          }
+        },
+        "voiceactor": [
+          "Paul M. Guyet"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Unctuous Uncle Urgot has no nose to smell<br>No feet or toes to stink, but he's still feeling swell<br>'Cause visitors arrive and ring the household bell<br>With new parts not so rotten for him, and tummy snacks as well!"
+      }
+    }
+  ]
+}

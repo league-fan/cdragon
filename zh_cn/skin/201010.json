@@ -1,0 +1,56 @@
+{
+  "id": 201010,
+  "contentId": "79949a31-bbd7-4224-980b-633b82496b89",
+  "isBase": false,
+  "name": "圣诞老人 布隆",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin10/Images/braum_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin10/Images/braum_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin10/Images/braum_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin10/BraumLoadScreen_10.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "他手里拿着名单，正在检查第二遍。但计划随时可能改变，因为布隆实在太友善。或许他原本的任务是给淘气的孩子塞黑煤块，但他的宽容和乐观会确保每个人都实现心愿……包括坏小孩。",
+  "wikiSkinData": {
+    "id": 201010,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "He's making that list, and checking it twice—but there's a lot of room for improvement because Braum is so nice! He may be tasked with giving coal to naughty children, but his big heart and sunny outlook ensure everyone gets exactly what they wanted... even the bad kids."
+  }
+}

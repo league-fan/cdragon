@@ -1,0 +1,79 @@
+{
+  "id": 15006,
+  "contentId": "2109bef9-824c-400d-ba6b-c689371da22d",
+  "isBase": false,
+  "name": "吹雪のシヴィア",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin06/Images/sivir_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin06/Images/sivir_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin06/Images/sivir_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Skin06/SivirLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15006.png",
+  "chromas": [
+    {
+      "id": 15017,
+      "name": "吹雪のシヴィア",
+      "contentId": "689d5cb3-d945-48df-ab21-942a936828c7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/15/15017.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018年のスノーダウンイベントから戦利品限定で獲得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "ワイルドで気の強い戦場の女王シヴィアは、戦闘のスリルとコインが鳴らす音だけが生きがいだ。彼女は氷上で賞金首を執拗に追いかけ、カミソリのごとく鋭い巨大な雪の結晶で、吹き荒れる雪嵐のように容赦なく相手を切り裂くのだ。",
+  "wikiSkinData": {
+    "id": 15006,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-12-19",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Snowdown Showdown 2018"
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ],
+    "lore": "The wild and brash Battle Mistress known as Sivir cares only for the thrill of combat and the rattle of coin. She relentlessly hunts her bounties across the ice, cutting down opponents with a massive, razor-sharp snowflake as hard and unforgiving as the cruelest snowstorm."
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": 83004,
+  "contentId": "f505a0fc-99ee-4da9-a0d9-f87231e24444",
+  "isBase": false,
+  "name": "요릭냥이",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin04/Images/yorick_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin04/Images/yorick_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin04/Images/yorick_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin04/YorickLoadscreen_4.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin04/YorickLoadscreen_4_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83004.png",
+  "chromas": [
+    {
+      "id": 83005,
+      "name": "요릭냥이",
+      "contentId": "cd2d5fed-5dc4-4c27-8424-48e5e1966130",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83005.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2019년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 83006,
+      "name": "요릭냥이",
+      "contentId": "163b9d36-6ca2-4f7e-81eb-f60628c651dd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83006.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 83007,
+      "name": "요릭냥이",
+      "contentId": "3415c33a-5f95-45ad-ad24-0d0a44ee238c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83007.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 83008,
+      "name": "요릭냥이",
+      "contentId": "393f755d-dd1a-496f-a71e-9191ff21a538",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83008.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 83009,
+      "name": "요릭냥이",
+      "contentId": "a0d67ec2-9e3e-4216-94e1-dcc0245cdc85",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83009.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 83010,
+      "name": "요릭냥이",
+      "contentId": "b25ed14d-ec0b-4d4d-8e95-9870f18c28b3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83010.png",
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 83011,
+      "name": "요릭냥이",
+      "contentId": "a741bf12-9a20-42fd-9399-85da215e7bf4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/83/83011.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 98
+    }
+  ],
+  "description": "고양이 애호가인 요릭은 초대형 반려동물용품점의 버려진 통로에서 왔습니다. 고양이 같은 옷차림을 하고 고양이 무리에 둘러싸여 있지만, 요릭은 아주 평범한 신사죠. 고양이와의 마찰도 전혀 없습니다. 그저 날아다니는 거대 고양이를 소환하는 비밀스러운 능력을 지니고 있을 뿐이죠. 하지만 신사라면 누구나 그 정도는 할 수 있잖아요?",
+  "wikiSkinData": {
+    "id": 83004,
+    "formatname": "Meowrick",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-03-27",
+    "set": [
+      "Cats Versus Dogs"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Catseye": {
+        "id": 6
+      },
+      "Obsidian": {
+        "id": 9
+      },
+      "Pearl": {
+        "id": 11
+      },
+      "Rainbow": {
+        "id": 8
+      },
+      "Ruby": {
+        "id": 5,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 10
+      },
+      "Turquoise": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Daniel Riordan"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "A cat fancier hailing from the Forsaken Aisles of a Pets Supreme Superstore, Yorick does not have any unresolved issues involving or related to cats. Yorick is a perfectly normal gentleman dressed as a cat, surrounded by cats, who can call upon the esoteric powers of a giant, floating cat. You know, normal gentleman stuff."
+  }
+}

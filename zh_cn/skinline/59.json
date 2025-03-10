@@ -1,0 +1,91 @@
+{
+  "id": 59,
+  "name": "上古战魂",
+  "description": "在遥远群星之间的空旷空间中，由未知文明制造的有机机器早已活得比它们的创造者们更久。他们耐心地潜伏着，无法逃离他们的地表监狱，等着再一次有人偶然发现它们并将它们释放回银河系。他们已经等待了许久。他们还在等待着。他们还将等待——不管要等多久。",
+  "skins": [
+    {
+      "id": 56005,
+      "name": "上古战魂 魔腾",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2012-12-05",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "lore": "Your worst nightmare, embodied in the form of organic metal—it lingers, watching and waiting for the right moment to shroud all of existence in eternal darkness."
+      }
+    },
+    {
+      "id": 69008,
+      "name": "上古魔蛇 卡西奥佩娅",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 69008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-09-20",
+        "earlysale": "2018-03",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "In a world overrun by alien machines, this one seems especially intrigued by your presence. Its lithe, metal form slides toward you, begging for your attention. You take one look, and—"
+      }
+    },
+    {
+      "id": 421001,
+      "name": "上古战魂 雷克塞",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 421001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-12-11",
+        "set": [
+          "Eternum"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screech… A cry of hunger… Then, nothing."
+      }
+    }
+  ]
+}

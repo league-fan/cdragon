@@ -1,0 +1,436 @@
+{
+  "id": 115,
+  "name": "ジグス",
+  "alias": "Ziggs",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/115.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 115000,
+      "name": "ジグス",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 115000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-02-01",
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor’s assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town, Ziggs took her advice and moved to Zaun, where he now explores his fascinations more freely, terrorizing the chem-barons and regular citizens alike in his never ending quest to blow stuff up."
+      }
+    },
+    {
+      "id": 115001,
+      "name": "狂気の化学者ジグス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-01",
+        "set": [
+          "Mad Scientists"
+        ],
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Alex Konstad"
+        ],
+        "lore": "The last time Ziggs plugged two electromagnetic charges into his brain, he almost exploded. Maybe, three will do the trick."
+      }
+    },
+    {
+      "id": 115002,
+      "name": "ジグス少佐",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-01",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Alessandro Juliani"
+        ]
+      }
+    },
+    {
+      "id": 115003,
+      "name": "プールパーティ ジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-09-04",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Ziggs is obsessed with creating the biggest water balloon in the history of poolside festivities, for reasons lost on everyone he's ever met. He keeps insisting he's a 'waterologist,' which isn't a real thing."
+      }
+    },
+    {
+      "id": 115004,
+      "name": "雪遊びジグス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-14",
+        "set": [
+          "Snow Day"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "James Strehle"
+        ],
+        "lore": "Ziggs knows a thing or two about lobbing bombs, and he's happy to take a break and throw snowballs around instead. If by “a couple”, you mean several hundred, and by “balls”, you mean volatile spheres of explosive wintery death."
+      }
+    },
+    {
+      "id": 115005,
+      "name": "魔紋を極めしジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-05-06",
+        "earlysale": "2015-12",
+        "set": [
+          "Arcanists"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Ziggs dwells at the crossroads of science and magic, striking an eccentric figure whose collection of enchanted artifacts and forbidden tomes rivals the greatest in the known world. He uses this arcane knowledge to make bombs. Magic bombs. Big ones."
+      }
+    },
+    {
+      "id": 115006,
+      "name": "バトルボス ジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-08-08",
+        "earlysale": "2018-02",
+        "set": [
+          "Arcade: Battle Bosses"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A boss originally from Super Yordle Bombers, Ziggs was transported to Arcade World for one purpose: blow up everything. Armed with his signature explosives (and the programming to use them!) he has wrought digital destruction the way only an angry mini-boss can."
+      }
+    },
+    {
+      "id": 115007,
+      "name": "オデッセイ ジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-09-12",
+        "retired": "2018-09-24",
+        "set": [
+          "Odyssey"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 8
+          },
+          "Emerald": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 9,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "A disgraced engineer best known for rapid advances in ora mining technology, Ziggs lost everything when a young technician and her hulking manager “accidentally” rigged one of his devices to explode ahead of schedule. Bitter and manic, he now travels between ora hotspots in a mad gamble to regain his former prestige."
+      }
+    },
+    {
+      "id": 115014,
+      "name": "シュガーラッシュ ジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-17",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 19
+          },
+          "Aquamarine": {
+            "id": 18
+          },
+          "Catseye": {
+            "id": 16
+          },
+          "Meteorite": {
+            "id": 22
+          },
+          "Peridot": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 20
+          },
+          "Sweet Tooth": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sugar Rush 2019"
+          }
+        },
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "The famed Gumball Grenadier, Ziggs, bursts across Candy Kingdom! Everyone knows to enjoy his colorful explosions… from a safe distance."
+      }
+    },
+    {
+      "id": 115023,
+      "name": "ヘクステック ジグス",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-09-03",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Famed inventor of Tocker, Ziggs is a savant to some, to others a maniac. All can agree that no matter the consequences, Ziggs seems to enjoy his experiments—especially the subsequent explosions. What is perhaps most miraculous of all is how he and Tocker have survived so many blasts over the years."
+      }
+    },
+    {
+      "id": 115024,
+      "name": "ブンブンジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115024,
+        "formatname": "BZZZiggs",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-03",
+        "set": [
+          "Bees!"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 28
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rainbow": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 27
+          },
+          "Tanzanite": {
+            "id": 26
+          }
+        },
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "According to all known laws of apiculture, bees shouldn't be given explosives. Hey! Put that bouncing bomb down, bee!"
+      }
+    },
+    {
+      "id": 115033,
+      "name": "ラ・イルシオン ジグス",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115033,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-09-27",
+        "set": [
+          "La Ilusión"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 36
+          },
+          "Rainbow": {
+            "id": 41
+          },
+          "Rose Quartz": {
+            "id": 39
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 38
+          },
+          "Tanzanite": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 37
+          },
+          "Vivida": {
+            "id": 42,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "La Ilusión Megabundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Driven mad by no longer remembering anything of who or what he was when he was alive, Ziggs and his Eidola Muerte family wander the world sowing chaos. Whether it's lobbing Ardor to weaken a building pylon or lighting a destructive thought in someone's mind like a brushfire, there is no reason behind his madness, only whatever catches his cool blue eyes."
+      }
+    }
+  ]
+}

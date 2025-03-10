@@ -1,0 +1,58 @@
+{
+  "id": 163,
+  "name": "정령 수호자",
+  "description": "우디르는 히라나 대수도원의 수도승들과 수련하며 아이오니아에서 10년 가까이 지냈습니다. 수련을 통해 자신의 영적 힘을 다스리는 법을 익혔죠. 마침내 프렐요드가 우디르를 고향으로 불렀을 때, 그는 아이오니아에 남아 수련을 마치는 쪽을 택했습니다. 영적으로나 물질적으로나 아이오니아의 일부가 된 우디르는 리 신과 카르마와 협력해 전쟁으로 피폐해진 아이오니아의 균형을 회복하려 합니다.",
+  "skins": [
+    {
+      "id": 77003,
+      "name": "정령 수호자 우디르",
+      "rarity": "kUltimate",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 77003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 3250,
+        "release": "2013-07-16",
+        "set": [
+          "Spirit Guard"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "extras": true,
+        "formicon": "Spirit Tiger",
+        "forms": [
+          "Base",
+          "Tiger",
+          "Turtle",
+          "Bear",
+          "Phoenix"
+        ],
+        "chromas": {
+          "Tiger": {
+            "id": 3
+          },
+          "Turtle": {
+            "id": 3
+          },
+          "Bear": {
+            "id": 3
+          },
+          "Phoenix": {
+            "id": 3
+          }
+        },
+        "voiceactor": [
+          "Sean Rohani"
+        ],
+        "splashartist": [
+          "Rudy Siswanto"
+        ],
+        "lore": "Udyr's time in Ionia, training at Hirana Monastery, taught him control and calmed the storm in his heart. Though the Freljord called him home, Udyr chose to stay and help Ionia regain spiritual harmony, as it had done for him. As he gets closer to this goal, he knows that his work to do the same for the whole of Runeterra has only just begun."
+      }
+    }
+  ]
+}

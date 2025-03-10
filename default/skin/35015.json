@@ -1,0 +1,170 @@
+{
+  "id": 35015,
+  "contentId": "7d498db7-f374-4ef3-8886-690abbc03af9",
+  "isBase": false,
+  "name": "Arcanist Shaco",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Shaco/Skins/Skin15/Images/shaco_splash_centered_15.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Shaco/Skins/Skin15/Images/shaco_splash_uncentered_15.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Shaco/Skins/Skin15/Images/shaco_splash_tile_15.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Shaco/Skins/Skin15/ShacoLoadscreen_15.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35015.png",
+  "chromas": [
+    {
+      "id": 35016,
+      "name": "Arcanist Shaco",
+      "contentId": "822bd11c-7cae-4f20-bf6e-299db5889d01",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35016.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 35017,
+      "name": "Arcanist Shaco",
+      "contentId": "f2513241-cf89-4a14-9878-fb73f702c306",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35017.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 35018,
+      "name": "Arcanist Shaco",
+      "contentId": "f69f6030-5413-4bac-9547-34ac6d755873",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35018.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2020."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 35019,
+      "name": "Arcanist Shaco",
+      "contentId": "2cc3fb08-88ec-406c-af15-a5ab5a541786",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35019.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 35020,
+      "name": "Arcanist Shaco",
+      "contentId": "35db89df-21da-48d7-9ccf-cc9ee2abf2ea",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35020.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 35021,
+      "name": "Arcanist Shaco",
+      "contentId": "eb30a83d-b6ed-48bb-8bb3-6cf47d73e222",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35021.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 35022,
+      "name": "Arcanist Shaco",
+      "contentId": "434abab6-770c-4a7f-8aa6-7c7eea922595",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/35/35022.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 95
+    }
+  ],
+  "description": "Vile warlock and wanted criminal, Shaco is a dangerous creature whose mind was shattered during experimental soul duplication rituals. At some point he came into possession of a rare and powerful book of spells, amplifying the threat of his monstrous arcane sorcery.",
+  "wikiSkinData": {
+    "id": 35015,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-09",
+    "set": [
+      "Arcanists"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 17
+      },
+      "Emerald": {
+        "id": 20
+      },
+      "Rainbow": {
+        "id": 16
+      },
+      "Ruby": {
+        "id": 18,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 22
+      },
+      "Turquoise": {
+        "id": 21
+      }
+    },
+    "voiceactor": [
+      "Adam Harrington"
+    ],
+    "splashartist": [
+      "Sangsoo Jeong"
+    ],
+    "lore": "Vile warlock and wanted criminal, Shaco is a dangerous creature whose mind was shattered during experimental soul duplication rituals. At some point he came into possession of a rare and powerful book of spells, amplifying the threat of his monstrous arcane sorcery."
+  }
+}

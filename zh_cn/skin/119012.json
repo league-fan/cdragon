@@ -1,0 +1,56 @@
+{
+  "id": 119012,
+  "contentId": "f60e15ac-fd16-4d7d-8cf7-35f939499cdc",
+  "isBase": false,
+  "name": "圣诞老人 德莱文",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin12/Images/draven_splash_centered_12.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin12/Images/draven_splash_uncentered_12.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin12/Images/draven_splash_tile_12.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Skin12/DravenLoadscreen_12.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "德莱文始终都相信自己能够成为最完美的圣诞使者。他的样貌英俊、发型奇特、对潮流敏锐掌控，还曾在诺克萨斯竞技场战赢得过数百次胜利，飞斧也永远保持锋利 —— 每一点都和完美圣诞使者的要求，差不多。",
+  "wikiSkinData": {
+    "id": 119012,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-12-12",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Draven always knew he would make the perfect Santa. He's handsome, his hair is incredible, he has a great sense of fashion, he's defeated hundreds in the Noxian fighting pits, and his flying axes are super sharp—the perfect Santa, more or less."
+  }
+}

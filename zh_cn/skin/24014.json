@@ -1,0 +1,168 @@
+{
+  "id": 24014,
+  "contentId": "85b07a35-4576-4f3f-a367-943e6f61c2e7",
+  "isBase": false,
+  "name": "王国机神白虎 贾克斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Jax/Skins/Skin14/Images/jax_splash_centered_14.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Jax/Skins/Skin14/Images/jax_splash_uncentered_14.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Jax/Skins/Skin14/Images/jax_splash_tile_14.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Jax/Skins/Skin14/JaxLoadscreen_14.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Jax/Skins/Skin14/JaxLoadscreen_14_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24014.png",
+  "chromas": [
+    {
+      "id": 24015,
+      "name": "王国机神白虎 贾克斯 炼狱",
+      "contentId": "f056feef-6824-4cd1-ac80-83e37ec2454a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24015.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 24016,
+      "name": "王国机神白虎 贾克斯 森林",
+      "contentId": "2e95197a-a672-4cac-864c-d0b19ab0f408",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24016.png",
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 24017,
+      "name": "王国机神白虎 贾克斯 水晶",
+      "contentId": "8db7192b-340f-40c5-addc-ac308b5f153a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24017.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 24018,
+      "name": "王国机神白虎 贾克斯 光",
+      "contentId": "ef51a71d-7fd0-49e7-b7f3-9aaa8568afc2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24018.png",
+      "colors": [
+        "#0C0E15",
+        "#611B9E"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020期间作为礼包专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 24019,
+      "name": "王国机神白虎 贾克斯 云霄",
+      "contentId": "a397e711-e267-4dbd-8a87-a6238678efd8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24019.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Year of mouse",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/58.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/58.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 127
+    }
+  ],
+  "description": "作为全大陆最负盛名的武器大师，贾克斯一直渴望着一件合适的武器，以及一场合适的战斗。当艾斯特王国的智囊们汇聚一堂——使用似乎是上天赐予的奇怪科技——以建造一台百折不挠的阿瓦隆时，贾克斯终于被打动了。他乐于见到利维坦的入侵，并希望这些巨大的敌人们能证明它们就是他毕生所寻的挑战。",
+  "wikiSkinData": {
+    "id": 24014,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-01-15",
+    "set": [
+      "Mecha Kingdoms"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Peacekeeper": {
+        "id": 18,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mecha Kingdoms 2019"
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Peridot": {
+        "id": 16
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 15,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Erik Braa"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "Famed as the greatest weapons master in all the land, Jax has been itching for a proper weapon, and a proper fight. When the best minds of the Estercrest Kingdom came together—using strange technology seemingly gifted to them by the heavens—to construct an indomitable Avalon, Jax was finally impressed. He welcomes the leviathan invasion, hoping these monstrous foes will prove to be the challenge he has been searching for his entire life."
+  }
+}

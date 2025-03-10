@@ -1,0 +1,89 @@
+{
+  "id": 61007,
+  "contentId": "5496a1d8-e33b-4c4e-9a7e-92438d947402",
+  "isBase": false,
+  "name": "暗星 奥莉安娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/Images/orianna_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Skin07/OriannaLoadscreen_7.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/61/61007.png",
+  "chromas": [
+    {
+      "id": 61012,
+      "name": "暗星 奥莉安娜 万神殿之陷",
+      "contentId": "39ab4050-6981-4d85-bfb5-b45f1b784966",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/61/61012.png",
+      "colors": [
+        "#000000",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020银河战争事件期间作为战利品专属来发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 44
+    }
+  ],
+  "description": "在极度先进的科技系统中诞生，奥莉安娜一生为暗星鞠躬尽瘁。她自苏醒之后就在各个行星之间不断舞蹈，而这场恐怖演出的唯一观众只是她一路留下的毁灭。",
+  "wikiSkinData": {
+    "id": 61007,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2017-05-03",
+    "earlysale": "2017-11",
+    "set": [
+      "Dark Star"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Antimatter": {
+        "id": 12,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Event Horizon 2020"
+      }
+    },
+    "voiceactor": [
+      "Heath Pennington"
+    ],
+    "splashartist": [
+      "Jem Flores"
+    ],
+    "lore": "Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake."
+  }
+}

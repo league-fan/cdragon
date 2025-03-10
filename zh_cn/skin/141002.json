@@ -1,0 +1,164 @@
+{
+  "id": 141002,
+  "contentId": "d9cebdaa-0acf-4e62-a1ca-34383ffba698",
+  "isBase": false,
+  "name": "奥德赛 凯隐",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/Images/kayn_splash_centered_2.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/Images/kayn_splash_uncentered_2.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/Images/kayn_splash_tile_2.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/KaynLoadscreen_2.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Skin02/KaynLoadScreen_2_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141002.png",
+  "chromas": [
+    {
+      "id": 141003,
+      "name": "奥德赛 凯隐 银河征服者",
+      "contentId": "52ea248f-9e73-4333-8758-63b8f9708061",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141003.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在2020年期间作为礼包专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 141004,
+      "name": "奥德赛 凯隐 星云环游者",
+      "contentId": "cc0f7e9e-e706-4414-b464-9f2aaff803cc",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141004.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 141005,
+      "name": "奥德赛 凯隐 虫洞穿行者",
+      "contentId": "5055049c-51c6-4a36-9c08-aa57a230cc1e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141005.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 141006,
+      "name": "奥德赛 凯隐 宇宙探索者",
+      "contentId": "3d6d7b7e-cd3a-4bac-ad3f-97a69fac58cd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141006.png",
+      "colors": [
+        "#0C0C0F",
+        "#9B1520"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "这个炫彩曾在全球总决赛(2020)事件期间作为战利品专属发布。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 141007,
+      "name": "奥德赛 凯隐 星辉收割者",
+      "contentId": "d5ae1ca5-befa-4b0d-a517-da1786648f20",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/141/141007.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 73
+    }
+  ],
+  "description": "作为德玛-萨斯帝国万人敬仰的首席帝王，凯隐无情地追捕晨星组织的成员，期望能够重新抓住娑娜以了解传说中奥拉之门的秘密。﻿凯隐经常与他那把有灵性的异星镰刀，拉亚斯特拌嘴。但拉亚斯特自己的动机远比凯隐能意识到的更加可怕。",
+  "wikiSkinData": {
+    "id": 141002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Emerald": {
+        "id": 5
+      },
+      "Merc": {
+        "id": 6,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2020"
+      },
+      "Pearl": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 3,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Robbie Daymond",
+      "Sam A. Mowry"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "As an honored Ordinal of the Demaxian Empire, Kayn relentlessly hounds the crew of the Morning Star, hoping to recapture Sona and learn the secrets of the legendary Ora Gate. He bickers constantly with his sentient alien scythe, Rhaast, whose own motivations are far more dire than Kayn could ever realize…"
+  }
+}

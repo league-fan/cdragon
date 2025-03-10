@@ -1,0 +1,388 @@
+{
+  "id": 203,
+  "name": "キンドレッド",
+  "alias": "Kindred",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/203.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 203000,
+      "name": "キンドレッド",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 203000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2015-10-13",
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro"
+        ],
+        "lore": "Separate, but never parted, Kindred represents the twin essences of death. Lamb’s bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred’s nature vary across Runeterra, every mortal must choose the true face of their death."
+      }
+    },
+    {
+      "id": 203001,
+      "name": "揺らめく炎影キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-10-13",
+        "earlysale": "2016-02",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "When the Ashen Lord rose, high priests of the Shadowfire Temple called upon their own god to fend off the all-consuming Infernals. They neglected, however, to account for the being's twin aspects: Destruction, and Rebirth. Kindred will fight the flames, but there may be a bitter price to pay before the end…"
+      }
+    },
+    {
+      "id": 203002,
+      "name": "超銀河キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-05-25",
+        "earlysale": "2016-11",
+        "set": [
+          "Super Galaxy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Lamb joined the Super Galaxy team as its lead scout, venturing into uncharted territory to face all manner of alien dangers. Soon after, Wolf joined the team as Lamb's partner—though, in truth, he only really joined because she still owes him for lunch, back when they were cadets. She's not getting away this time!"
+      }
+    },
+    {
+      "id": 203003,
+      "name": "精霊の花祭りキンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-08-06",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Catseye": {
+            "id": 5
+          },
+          "Night Blossom": {
+            "id": 11,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Spirit Blossom 2020"
+          },
+          "Obsidian": {
+            "id": 9
+          },
+          "Peridot": {
+            "id": 6
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 4,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "In the Ionian tradition, the Kindred are interpreted as a child and her beastly companion, endlessly playing games with one another until they are called to perform their duties. The two do not know where they came from, but it is said they feel a sense of loss for someone they knew long ago…"
+      }
+    },
+    {
+      "id": 203012,
+      "name": "磁器キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 16
+          },
+          "Emerald": {
+            "id": 18
+          },
+          "Golden Tiger": {
+            "id": 21,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 15
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 17
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Once a skilled hunter and her fierce hound, the two were so bonded that their souls remained together when they were preserved inside the Dog Zodiac Relic. Now they are two halves of a whole, mentoring generations of Protectors like Lux and Amumu and standing guard eternally over the ancient magic that keeps them alive."
+      }
+    },
+    {
+      "id": 203022,
+      "name": "もふもふコンビ キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203022,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-06",
+        "set": [
+          "Cats Versus Dogs"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 27
+          },
+          "Granite": {
+            "id": 31
+          },
+          "Obsidian": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 25
+          },
+          "Ruby": {
+            "id": 24,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 26
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Who said dogs and cats can't be best friends? Cat ladies and golden retriever boyfriends pitting the two against each other for centuries? Eh, forget all that! Woof and Lamb are living proof that canines and felines CAN get along... though the judges are not actually sure either of them are \"alive\"."
+      }
+    },
+    {
+      "id": 203023,
+      "name": "DRX キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203023,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-01",
+        "set": [
+          "World Champions: 2022"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Elite": {
+            "id": 32,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Honoring Pyosik's winning performance as Kindred during the 2022 World Championship."
+      }
+    },
+    {
+      "id": 203033,
+      "name": "プレステージ磁器キンドレッド",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203033,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 12,
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "The hunter and the hound stalk the runway in white-feathered armor with cerulean plating. The refractions of images that dance in the crystals embossed on both bow and headdress dare the audience to reflect on the past year, their fashion feats, and faux pas."
+      }
+    },
+    {
+      "id": 203034,
+      "name": "狼に選ばれし者キンドレッド",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 203034,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-11-06",
+        "set": [
+          "Chosen of the Wolf"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Obsidian": {
+            "id": 41
+          },
+          "Pearl": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 38
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Marcella Lentz-Pope",
+          "Matthew Mercer"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Do you hunger, dear Wolf? The Eternal Chase is almost upon us. For you and your followers who find bliss through battle, this hunt is their reward. Only those chosen to enter Volrachnun are granted this opportunity. Tell me, will they be able to withstand us in your afterlife?"
+      }
+    }
+  ]
+}

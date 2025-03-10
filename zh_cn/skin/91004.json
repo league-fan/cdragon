@@ -1,0 +1,54 @@
+{
+  "id": 91004,
+  "contentId": "fbe65d4e-0178-4f24-8412-c5b540fd912e",
+  "isBase": false,
+  "name": "SSW 泰隆",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Talon/Skins/Skin04/Images/talon_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Talon/Skins/Skin04/Images/talon_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Talon/Skins/Skin04/Images/talon_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Talon/Skins/Skin04/TalonLoadScreen_4.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 4
+    }
+  ],
+  "description": "以此致敬PawN在2014全球总决赛中使用泰隆的夺胜表现。",
+  "wikiSkinData": {
+    "id": 91004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-05-13",
+    "set": [
+      "World Champions: 2014"
+    ],
+    "voiceactor": [
+      "Travis Willingham"
+    ],
+    "splashartist": [
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring PawN's winning performance as Talon during the 2014 World Championship."
+  }
+}

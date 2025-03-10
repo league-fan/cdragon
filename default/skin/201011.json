@@ -1,0 +1,184 @@
+{
+  "id": 201011,
+  "contentId": "85e42348-bf61-4947-9d88-050177e7c897",
+  "isBase": false,
+  "name": "Crime City Braum",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin11/Images/braum_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin11/Images/braum_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin11/Images/braum_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Skin11/BraumLoadscreen_11.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201011.png",
+  "chromas": [
+    {
+      "id": 201012,
+      "name": "Crime City Braum",
+      "contentId": "9457bf73-5b36-45dd-bb32-5db9b47727f8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201012.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive during 2018."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 201013,
+      "name": "Crime City Braum",
+      "contentId": "d015b8a4-712d-4d5b-bb90-37dfbf51684f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201013.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 201014,
+      "name": "Crime City Braum",
+      "contentId": "c0fd4f4f-9602-418f-9061-04613ce41cd3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201014.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 201015,
+      "name": "Crime City Braum",
+      "contentId": "e9955c6c-3255-457a-91cb-81edb8877b44",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201015.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 201016,
+      "name": "Crime City Braum",
+      "contentId": "d5f22e6c-3e04-4b42-a960-a7f2fd2ce154",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201016.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 201017,
+      "name": "Crime City Braum",
+      "contentId": "a20bc5d9-a730-47ce-b607-a87d992cc349",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201017.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 201018,
+      "name": "Crime City Braum",
+      "contentId": "56c4a2ee-5ad4-4f63-b412-881160441cbb",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201018.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 201019,
+      "name": "Crime City Braum",
+      "contentId": "55aa6fa1-5924-4a7e-96f3-428f251a9d28",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201019.png",
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 51
+    }
+  ],
+  "description": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder.",
+  "wikiSkinData": {
+    "id": 201011,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-08-23",
+    "set": [
+      "Crime City"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 13
+      },
+      "Emerald": {
+        "id": 16
+      },
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 18
+      },
+      "Rose Quartz": {
+        "id": 17
+      },
+      "Ruby": {
+        "id": 12,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sandstone": {
+        "id": 19
+      },
+      "Tanzanite": {
+        "id": 14
+      }
+    },
+    "voiceactor": [
+      "JB Blanc"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder."
+  }
+}

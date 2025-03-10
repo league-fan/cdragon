@@ -1,0 +1,371 @@
+{
+  "id": 93,
+  "name": "빛을 삼키다",
+  "description": "먼 옛날 한 수도원의 기사단이 달과 해의 힘을 이어받아 고대의 사악한 신들을 굴복시켰습니다. 세상이 다시 한번 어둠과 폭력 속으로 빠져들고 있는 지금, 바로 그 기사단이 돌아오려 합니다. 빛을 삼키는 이들이죠.",
+  "skins": [
+    {
+      "id": 10042,
+      "name": "태양 포식자 케일",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10042,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 44
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Rainbow": {
+            "id": 49
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 43,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 46
+          },
+          "Turquoise": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "The hated sun-eater, Kayle wished to be one with the divine she loved, devouring the primordial sun and steeping the land in an eternal eclipse. Driven mad with light and unable to contain her power, she passed fragments down to an army of witch-knights, who slew the other gods in an act of unforgivable blasphemy."
+      }
+    },
+    {
+      "id": 15043,
+      "name": "해를 삼킨 시비르",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 45
+          },
+          "Obsidian": {
+            "id": 49
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Rose Quartz": {
+            "id": 48
+          },
+          "Ruby": {
+            "id": 44,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A mercenary Eclipse Knight known for her skill in battle and lack of chivalry, Sivir sells her services eliminating witches and monsters who menace the countryside, ignoring threats that do not prove lucrative. Though many knights find nobility in their stated purpose, Sivir cares naught but for coin, pledging to aid her order only in their final, dire hour."
+      }
+    },
+    {
+      "id": 89010,
+      "name": "해를 삼킨 레오나",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2018-11-27",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 11,
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Hearken! We beseech thee, O Cruel Sun, and deign to bless with the cleansing flame of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore."
+      }
+    },
+    {
+      "id": 89011,
+      "name": "달을 삼킨 레오나",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2018-11-27",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 10,
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Hearken! We beseech thee, O Savage Moon, and deign to bless with the vermillion shadow of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore."
+      }
+    },
+    {
+      "id": 113026,
+      "name": "해를 삼킨 세주아니",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 31
+          },
+          "Citrine": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ],
+        "lore": "A Knight of the Eclipse who patrols the border of the Elderwood on a great beast. Grim and wild at heart, Sejuani lives for battle with the forces of the Old Gods, caring naught for the reason why."
+      }
+    },
+    {
+      "id": 235026,
+      "name": "달을 삼킨 세나",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 235026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 33
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Tanzanite": {
+            "id": 32
+          },
+          "Turquoise": {
+            "id": 35
+          }
+        },
+        "voiceactor": [
+          "Cynthia Kaye McWilliams"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "An ancient knight long thought dead, freed from the Eclipse Cathedral's catacombs as Kayle began to stir from her ancient slumber. Senna now aids her knighthood against the new threat of the Coven, saving whoever she can from the resurrected Old Gods… though she remains ever vigilant, as the sun-eater's return is now inevitable."
+      }
+    },
+    {
+      "id": 235027,
+      "name": "프레스티지 달을 삼킨 세나",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 235027,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 26,
+        "voiceactor": [
+          "Cynthia Kaye McWilliams"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Burning up the runway in a look inspired by an ancient order of magical knights, Senna brings a cold, but determined energy to the Gala proceedings. Evil beware — these looks can kill... and kill again."
+      }
+    },
+    {
+      "id": 266021,
+      "name": "달을 삼킨 아트록스",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 266021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-28",
+        "set": [
+          "Eclipse"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 28
+          },
+          "Rainbow": {
+            "id": 29
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 27
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "One of the few who took up the mantle of the Eclipse Knights in the days of old, Aatrox hopelessly pined for Kayle's affections… but she could only ever love the blazing sun. When she devoured it, the entity's lunar corona consumed him. He exists now as Kayle's monstrous, once-noble shadow, ever at her side."
+      }
+    }
+  ]
+}

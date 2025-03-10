@@ -1,0 +1,496 @@
+{
+  "id": 8,
+  "name": "Vladimir",
+  "alias": "Vladimir",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/8.png",
+  "roles": [
+    "mage",
+    "fighter"
+  ],
+  "skins": [
+    {
+      "id": 8000,
+      "name": "Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 8000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-07-27",
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ],
+        "lore": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire’s earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily as his own. In the flamboyant salons of the Noxian aristocracy, this has enabled him to build a fanatical cult of personality around himself—while in the lowest back alleys, it allows him to bleed his enemies dry."
+      }
+    },
+    {
+      "id": 8001,
+      "name": "Count Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-27",
+        "retired": "2014-12-02",
+        "set": [
+          "Storybook"
+        ],
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ],
+        "lore": "Once upon a time, in the heart of a dark and gloomy castle, there lived an eternally youthful count who the people greatly feared. Every night, a terrible red mist would seep into the villages, and some poor soul would vanish without a trace—another life lost to Vladimir's growing appetites."
+      }
+    },
+    {
+      "id": 8002,
+      "name": "Marquis Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-27",
+        "set": [
+          "High Society"
+        ],
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "At the last ball he attended, Vladimir stole everyone's heart. Strangely enough, no one has heard or seen those attendees since…"
+      }
+    },
+    {
+      "id": 8003,
+      "name": "Nosferatu Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "lore": "Look, the guy is a film buff. So what? Hemomancers can like things, too."
+      }
+    },
+    {
+      "id": 8004,
+      "name": "Vandal Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-01-24",
+        "retired": "2014-12-02",
+        "set": [
+          "Vandal"
+        ],
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "lore": "Leader of the notorious Vandals, Vladimir's exposure to residual radiation has given him control over the blood of living organisms. If he wanted to, he could cure every creature in the wasteland of disease—instead he rides around with his crew ransacking settlements. Priorities."
+      }
+    },
+    {
+      "id": 8005,
+      "name": "Blood Lord Vladimir",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2011-11-21",
+        "set": [
+          "Bloodstone"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Former leader of a Bloodstone cult, Vladimir took part in a ritual that sacrificed his humanity—along with the blood of several victims—to transform the once foppish noble into a terror of the night. To satiate his sanguine cravings, he stalks the urban labyrinth in search of hapless prey."
+      }
+    },
+    {
+      "id": 8006,
+      "name": "Soulstealer Vladimir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-07-09",
+        "set": [
+          "Soulstealer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ]
+      }
+    },
+    {
+      "id": 8007,
+      "name": "Academy Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-08-26",
+        "earlysale": "2016-02",
+        "set": [
+          "Academy"
+        ],
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "NOTICE FROM THE DEAN: Vladimir is henceforth suspended from Academy grounds for behavior including (but not limited to) extreme snobbery, hiring other students to finish his exams and attend his classes, and putting an unnecessary strain on our janitorial department after “that” incident."
+      }
+    },
+    {
+      "id": 8008,
+      "name": "Dark Waters Vladimir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-05-31",
+        "earlysale": "",
+        "set": [
+          "Bilgewater: Curse of the Drowned"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emerald": {
+            "id": 12
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Sandstone": {
+            "id": 13
+          },
+          "Tanzanite": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Rudy Siswanto",
+          "Kelly Aleshire"
+        ],
+        "lore": "In his younger days, Vladimir practiced at a school of medicine known for magically manipulating the humors of a patient's body. Turns out in Bilgewater there's more coin to be made killing than saving, and now he's found himself in a much more lucrative—if not messier—line of work."
+      }
+    },
+    {
+      "id": 8014,
+      "name": "Nightbringer Vladimir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-12-12",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 16
+          },
+          "Pariah": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2019"
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "The chaotic king of the night, Vladimir exists as the personification of uncertainty and revelry. He thrives in the unknown shadows, feeding on the life essence and darkness found in mortal hearts."
+      }
+    },
+    {
+      "id": 8021,
+      "name": "Cosmic Devourer Vladimir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 23
+          },
+          "Emerald": {
+            "id": 26
+          },
+          "Obsidian": {
+            "id": 29
+          },
+          "Pearl": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 28
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 24
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Pompous, arrogant, and isolated from his cosmic brethren, Vladimir drinks the essence from dead worlds to infuse dying ones with life. Yet as of late his hunger has begun to grow…"
+      }
+    },
+    {
+      "id": 8030,
+      "name": "Cafe Cuties Vladimir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8030,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-12-02",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 35
+          },
+          "Emerald": {
+            "id": 33
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Pearl": {
+            "id": 37
+          },
+          "Rose Quartz": {
+            "id": 34
+          },
+          "Ruby": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 32
+          },
+          "Tanzanite": {
+            "id": 36
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Vladimir spent years searching for the elixir of life—only to discover that it is, in fact, tea. Since then he has steeped himself in the art of the perfect cup. Though he pretends to frequent the cafe solely to advance his Tasseomancy, Vladimir has grown fond of the ragtag group that allowed him to take up residence among their ranks."
+      }
+    },
+    {
+      "id": 8039,
+      "name": "Broken Covenant Vladimir",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8039,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 41
+          },
+          "Emerald": {
+            "id": 43
+          },
+          "Obsidian": {
+            "id": 46
+          },
+          "Pearl": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 40,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 44
+          },
+          "Turquoise": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "The ultimate Neverghaast, at least to himself, Vladimir cares only about feeding himself and his ego. Though he is not above helping someone for the right price, like that \"idiot\" Rakan, he has no stake in the war beyond finding the fabled well of Aspira within the congregation. Such power, he smugly reasons, would surely be better in his hands."
+      }
+    },
+    {
+      "id": 8048,
+      "name": "Masque of the Black Rose Vladimir",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 8048,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "2025, S1 Act 1 Premium Battle Pass reward (Level 10)",
+        "release": "2025-01-09",
+        "set": [
+          "Masque of the Black Rose"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kevin M. Connolly"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Lord Vladimir, your presence is requested at the upcoming Silken Danse. You might consider such a gathering beneath you, or unfavorably compare them to the carousals you host. Worry not, this masque will not be an intrusion upon your territory. Our matron simply has need of your boldness, to draw in new blood for our grand designs. –Lady Elise"
+      }
+    }
+  ]
+}

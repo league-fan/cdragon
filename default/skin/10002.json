@@ -1,0 +1,128 @@
+{
+  "id": 10002,
+  "contentId": "7c6a2fb9-90eb-4b94-b6ab-b5cc9efebd5f",
+  "isBase": false,
+  "name": "Viridian Kayle",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin02/Images/kayle_splash_centered_2.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin02/Images/kayle_splash_uncentered_2.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin02/Images/kayle_splash_tile_2.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Skin02/KayleLoadscreen_2.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/10/10002.png",
+  "chromas": [
+    {
+      "id": 10010,
+      "name": "Viridian Kayle",
+      "contentId": "eca00301-ea8a-4742-a517-2a3b9c6a7c87",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/10/10010.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 10011,
+      "name": "Viridian Kayle",
+      "contentId": "97c6c00d-7d7f-4b07-a4e8-7ec240ebd543",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/10/10011.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 10012,
+      "name": "Viridian Kayle",
+      "contentId": "cc254b58-bc06-4b0f-b9b5-2413818c4fbf",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/10/10012.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 10013,
+      "name": "Viridian Kayle",
+      "contentId": "ac62db4e-2d51-4186-b08c-572c3325ed3e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/10/10013.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 10014,
+      "name": "Viridian Kayle",
+      "contentId": "8236f34a-83b6-47e2-b4fd-1747a472040d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/10/10014.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 97
+    }
+  ],
+  "description": "Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world.",
+  "wikiSkinData": {
+    "id": 10002,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-06-01",
+    "set": [
+      "Albion"
+    ],
+    "voiceactor": [
+      "Zehra Fazal"
+    ],
+    "chromas": {
+      "Aquamarine": {
+        "id": 11
+      },
+      "Citrine": {
+        "id": 10
+      },
+      "Obsidian": {
+        "id": 14
+      },
+      "Pearl": {
+        "id": 12
+      },
+      "Rose Quartz": {
+        "id": 13
+      }
+    },
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "Forest Elves are long lived compared to the humans they live among, and many delve into centuries-long explorations for even a scrap of their empires' lost magic. Those who find it, such as Kayle, are gifted with incredible powers over the natural world."
+  }
+}

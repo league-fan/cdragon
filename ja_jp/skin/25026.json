@@ -1,0 +1,155 @@
+{
+  "id": 25026,
+  "contentId": "d614af74-ea14-4056-9b48-8fcf76fdbc97",
+  "isBase": false,
+  "name": "盟約の魔女モルガナ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Morgana/Skins/Skin26/Images/morgana_splash_centered_26.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Morgana/Skins/Skin26/Images/morgana_splash_uncentered_26.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Morgana/Skins/Skin26/Images/morgana_splash_tile_26.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Morgana/Skins/Skin26/MorganaLoadscreen_26.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Morgana/Skins/Skin26/MorganaLoadscreen_26_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25026.png",
+  "chromas": [
+    {
+      "id": 25027,
+      "name": "盟約の魔女モルガナ",
+      "contentId": "1b47568c-7d55-4f98-8cd4-9a71dcb459f6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25027.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 25028,
+      "name": "盟約の魔女モルガナ",
+      "contentId": "7edd73ee-c840-402f-a984-df2559936b5f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25028.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 25029,
+      "name": "盟約の魔女モルガナ",
+      "contentId": "993c871c-ab9e-4a08-b982-2db320c29581",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25029.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 25030,
+      "name": "盟約の魔女モルガナ",
+      "contentId": "bf7cccae-d5e4-460c-8128-72fbd5e60980",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25030.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 25040,
+      "name": "盟約の魔女モルガナ",
+      "contentId": "fd9d9b74-3090-4973-89e4-e0b295f35c73",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25040.png",
+      "colors": [
+        "#162B30",
+        "#8E0A38"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021年の盟約の魔女イベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 92
+    }
+  ],
+  "description": "盟約の魔女の女王、そして「灰の梟」と呼ばれる守護神。モルガナは古の神々を崇拝していた。その神々が殺害されたとき──モルガナを裏切った姉が原初の太陽を殺害し、その力を魔女騎士の軍団に与えたとき、彼女は涙を流した。そして今、モルガナは人類の支配を終わらせるために戻ってきた。この世界の真の神々を、彼らに相応しき朽ちた王座へと戻すために。",
+  "wikiSkinData": {
+    "id": 25026,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2020-04-16",
+    "set": [
+      "Coven"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Dark Ritual": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Coven 2021"
+      },
+      "Obsidian": {
+        "id": 30
+      },
+      "Pearl": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 27,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 29
+      }
+    },
+    "voiceactor": [
+      "Erica Lindbeck"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain "
+  }
+}

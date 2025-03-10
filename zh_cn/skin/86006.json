@@ -1,0 +1,56 @@
+{
+  "id": 86006,
+  "contentId": "ad04fd91-7221-4a45-a1af-b4a7f83eff0d",
+  "isBase": false,
+  "name": "钢铁军团 盖伦",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Garen/Skins/Skin06/Images/garen_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Garen/Skins/Skin06/Images/garen_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Garen/Skins/Skin06/Images/garen_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Garen/Skins/Skin06/GarenLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "LPL",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/22.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/22.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 85
+    }
+  ],
+  "description": "盖伦是一个蒸汽驱动的骑士，在钢铁军团的前锋中担任要职，敌人对他有多畏惧，同盟就对他有多尊敬。他的剑刃是一种科学和魔法的奇异发明，剑身洋溢着放电等离子体。",
+  "wikiSkinData": {
+    "id": 86006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2013-02-01",
+    "set": [
+      "Steel Legion"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Jamieson Price"
+    ],
+    "splashartist": [
+      "Christian Fell"
+    ],
+    "lore": "Garen is a steam-powered knight serving at the head of the Steel Legion's vanguard, feared by his enemies and respected by his allies in equal measure. His blade is one of a kind: a thaumaturgical innovation of science and magic, overflowing with sparking plasma."
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": 51,
+  "name": "クライムシティー",
+  "description": "ヴァロランシティは犯罪を燃料とし、汚れた金をオイルとして動く、無秩序に拡大する機械のような街だ。表立って認める者はひとりもいないが、それが真実であることは誰もが知っている。",
+  "skins": [
+    {
+      "id": 21006,
+      "name": "クライムシティー ミス・フォーチュン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 21006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-01",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "splashartist": [
+          "Atey Ghailan"
+        ],
+        "lore": "A former gun for hire, Miss Sarah Fortune has recently spun up her own criminal cartel, with a hand in everything from arms smuggling to protection rackets. Having destabilized the relationship between Twitch and Graves, she now seeks to cement her empire before they get wise to her ambitions."
+      }
+    },
+    {
+      "id": 29004,
+      "name": "クライムシティー トゥイッチ",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 29004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-10-13",
+        "set": [
+          "Crime City"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Doug Boyd"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ],
+        "lore": "Deeply violent and severely paranoid, Twitch runs one of the largest crime syndicates in the nation. His orders are carried out by a literal army of rat-men, the only creatures he even comes close to trusting."
+      }
+    },
+    {
+      "id": 64010,
+      "name": "K.O. リー・シン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 64010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-05-31",
+        "earlysale": "2016-01",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Feodor Chin"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ],
+        "lore": "'Knockout' Lee Sin is a brutal pit fighter, who made his name in the underground circuit, before leaving the bloody sport for greener, more criminal pastures. He currently sells his services as a “problem-solver” to a select group of monied kingpins."
+      }
+    },
+    {
+      "id": 79004,
+      "name": "グラガス殿下",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 79004,
+        "formatname": "Gragas, Esq.",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-12",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "J.S. Gilbert"
+        ],
+        "lore": "One of the city's top criminal defense attorneys, Gragas, Esquire is often seen carousing with the chief of police and various circuit court judges—mostly because they know he has access to the finest prohibited goods… but also because he's been paying them off for decades."
+      }
+    },
+    {
+      "id": 104003,
+      "name": "クライムシティー グレイブス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-02",
+        "set": [
+          "Crime City"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "OldGun-K"
+        ],
+        "lore": "Cool, calm, and collected, Malcolm Graves is head of the notorious Graves crime family—and the only non-rat that Twitch will trust. Recent moves in the criminal underworld have put his alliance with the rat-men on shaky ground, and he's keen to find out why."
+      }
+    },
+    {
+      "id": 201011,
+      "name": "クライムシティー ブラウム",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 201011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-23",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 16
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 12,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 19
+          },
+          "Tanzanite": {
+            "id": 14
+          }
+        },
+        "voiceactor": [
+          "JB Blanc"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Miss Fortune's body man is an unnervingly pleasant gentleman by the name of 'Bank Vault' Braum, whose alias was earned ripping the wall off a maximum security gold depository. He is accompanied by a small cadre of gun-toting poros, who love nothing more than belly rubs and murder."
+      }
+    },
+    {
+      "id": 222001,
+      "name": "クライムシティー ジンクス",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-10-09",
+        "set": [
+          "Crime City"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Known by state police as “La Principessa,” Jinx is an unhinged hitwoman with loose ties to the Graves crime family. Sent into rival businesses as a figurative time bomb, the slightest offense will trigger one of her jubilant rampages, with body counts as high as the ceiling."
+      }
+    }
+  ]
+}

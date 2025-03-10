@@ -1,0 +1,180 @@
+{
+  "id": 53022,
+  "contentId": "0496769c-f587-42fc-9405-83cec20dd275",
+  "isBase": false,
+  "name": "魔眼湯鍋 布里茨",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Blitzcrank/Skins/Skin22/Images/blitzcrank_splash_centered_22.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Blitzcrank/Skins/Skin22/Images/blitzcrank_splash_uncentered_22.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Blitzcrank/Skins/Skin22/Images/blitzcrank_splash_tile_22.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Blitzcrank/Skins/Skin22/BlitzcrankLoadscreen_22.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Blitzcrank/Skins/Skin22/BlitzcrankLoadscreen_22_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53022.png",
+  "chromas": [
+    {
+      "id": 53023,
+      "name": "魔眼湯鍋｜焰紅 布里茨",
+      "contentId": "31eed231-1314-48a9-9499-198f592ccf6c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53023.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2019 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 53024,
+      "name": "魔眼湯鍋｜琥珀黃 布里茨",
+      "contentId": "4a7b10e4-01bc-4f8f-aa27-5c150056b2c8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53024.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 53025,
+      "name": "魔眼湯鍋｜碧藍 布里茨",
+      "contentId": "4bf13897-8a7b-43c0-bb89-c89fa039db9d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53025.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 53026,
+      "name": "魔眼湯鍋｜翡翠 布里茨",
+      "contentId": "57a0459c-d3e9-4e98-8360-e48576c1385c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53026.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 53027,
+      "name": "魔眼湯鍋｜寶石青 布里茨",
+      "contentId": "1126abf3-2938-481a-810e-8ccb27c81ca2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53027.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 53028,
+      "name": "魔眼湯鍋｜鐵灰 布里茨",
+      "contentId": "18c8b7ba-f304-4e47-a309-b353676d32ce",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53028.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 88
+    }
+  ],
+  "description": "布里茨曾經只是個簡單的大鍋，而現在它被施法賦予生命，以協助好運姐施行她誘人的幻惑。",
+  "wikiSkinData": {
+    "id": 53022,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2019-10-24",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 25
+      },
+      "Catseye": {
+        "id": 24
+      },
+      "Emerald": {
+        "id": 26
+      },
+      "Obsidian": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 23,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Duncan Watt"
+    ],
+    "splashartist": [
+      "Choe HeonHwa"
+    ],
+    "lore": "Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments."
+  }
+}

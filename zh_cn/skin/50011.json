@@ -1,0 +1,57 @@
+{
+  "id": 50011,
+  "contentId": "6d0456bd-757f-4f88-8686-60f8934fa5b3",
+  "isBase": false,
+  "name": "海克斯科技 斯维因",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Swain/Skins/Skin11/Images/swain_splash_centered_11.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Swain/Skins/Skin11/Images/swain_splash_uncentered_11.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Swain/Skins/Skin11/Images/swain_splash_tile_11.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Swain/Skins/Skin11/SwainLoadscreen_11.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Hextech Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/43.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/43.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 8,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/8_large.png",
+  "skinLines": [
+    {
+      "id": 40
+    }
+  ],
+  "description": "名叫杰里柯·斯维因的海克斯科技制宝师是皮尔特沃夫不断增长的上流阶层中的一位传奇人物。尽管他声称不干涉城市事务，但他一直在悄悄地把各种海克斯科技组件整合到自己的身体中……并且凭借它们，就能出色地使用成千上万的人工生物们的眼睛和耳朵了。",
+  "wikiSkinData": {
+    "id": 50011,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2019-12-12",
+    "set": [
+      "Hextech"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "James Faulkner"
+    ],
+    "splashartist": [
+      "Maki Planas Mata"
+    ],
+    "lore": "The hextech artificer known as Jericho Swain is an almost legendary figure among Piltover's growing upper crust. Though he professes not to meddle in city affairs, he has been quietly integrating various hextech components into his own body… and with them, unparalleled access to the eyes and ears of thousands of artificial creatures."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 74004,
+  "contentId": "ae83e5eb-5407-4c4d-8dd3-04885fd7bc95",
+  "isBase": false,
+  "name": "雪默丁格",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin04/Images/heimerdinger_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin04/Images/heimerdinger_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin04/Images/heimerdinger_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin04/HeimerdingerLoadScreen_4.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "被魔法帽的力量赋予生命的雪默丁格，现在追寻着理论冰雪科学，例如雪球抛物线、可可冷却速度、和自动炮塔搭建。他也负责自己一套胡萝卜鼻子的工程工艺。",
+  "wikiSkinData": {
+    "id": 74004,
+    "formatname": "Snowmerdinger",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "transforming": true,
+    "vu": true,
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "lore": "Brought to life by the power of a magic hat, Snowmerdinger now pursues theoretical Snowdown sciences including snowball trajectory, cocoa cooling speeds, and automated turret construction. He engineered his own strain of carrot noses."
+  }
+}

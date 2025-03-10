@@ -1,0 +1,81 @@
+{
+  "id": 145026,
+  "contentId": "b5442947-3037-408a-a295-9eaf17a2dd82",
+  "isBase": false,
+  "name": "K/DA ALL OUT カイ＝サ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin26/Images/kaisa_splash_centered_26.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin26/Images/kaisa_splash_uncentered_26.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin26/Images/kaisa_splash_tile_26.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin26/KaisaLoadscreen_26.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Skin26/KaisaLoadscreen_26_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145026.png",
+  "chromas": [
+    {
+      "id": 145028,
+      "name": "K/DA ALL OUT カイ＝サ",
+      "contentId": "1988ce82-e3da-45cd-960b-17adc84d56d1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/145/145028.png",
+      "colors": [
+        "#0C0C0F",
+        "#272A3F"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年のバトルクイーンイベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 91
+    }
+  ],
+  "description": "完璧なダンステクニックを全世界に披露してもなお、カイ＝サはパフォーミングアーティストとしての自分に必要なあらゆるトレーニングを止めようとはしない。これからさらに一歩進んで、ソロとして独立したら一体どうなるのかはまだ自分でも分からないが、そんな挑戦ですら訪れることを楽しみにしている。",
+  "wikiSkinData": {
+    "id": 145026,
+    "formatname": "K/DA ALL OUT Kai'Sa",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-10-29",
+    "set": [
+      "K/DA"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "BADDEST": {
+        "id": 28,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Battle Queen 2020"
+      }
+    },
+    "voiceactor": [
+      "Natasha Loring"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "After showcasing her flawless dance techniques world-wide, Kai'sa is ready to apply her legendary discipline and focus to all aspects of her life as a performing artist. She's still not sure who she'll be when she steps forward to shine as herself, but she's looking forward to the challenge of finding out."
+  }
+}

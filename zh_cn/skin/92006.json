@@ -1,0 +1,90 @@
+{
+  "id": 92006,
+  "contentId": "4f391080-827e-4ba5-8ddf-f08679bffd60",
+  "isBase": false,
+  "name": "电玩勇者 锐雯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin06/Images/riven_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin06/Images/riven_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin06/Images/riven_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin06/RivenLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92006.png",
+  "chromas": [
+    {
+      "id": 92021,
+      "name": "电玩勇者 锐雯 K.O.",
+      "contentId": "0557bc2f-9b45-40c0-9ae1-e89799808022",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92021.png",
+      "colors": [
+        "#A5FFF8",
+        "#D87BFF"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2019电玩事件期间的战利品专属道具。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "4 Year Celebration",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/37.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/37.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 10
+    }
+  ],
+  "description": "锐雯在回家之后还有一份兼职工作，在世界上最先进的跳舞模拟街机中扮演动作模拟器，即使被可怕的Boss送进街机的世界，她仍可以使用她的舞步(以及一些来自她最喜爱RPG的装备)来摧毁维迦的邪恶大军，一刀一个。",
+  "wikiSkinData": {
+    "id": 92006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-08-19",
+    "earlysale": "2016-02",
+    "set": [
+      "Arcade: Heroes"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "chromas": {
+      "K.O.": {
+        "id": 21,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Arcade 2019"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Riven's part-time job at an arcade mostly involved playing dance simulators after her manager went home. Digitally transported to Arcade World by even scarier bosses, she's now using her moves (and some gear from her favorite RPG) to tear up Veigar's regime, one enemy at a time."
+  }
+}

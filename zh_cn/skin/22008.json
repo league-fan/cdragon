@@ -1,0 +1,87 @@
+{
+  "id": 22008,
+  "contentId": "35de98be-d718-4cf2-825c-109437f9a0f5",
+  "isBase": false,
+  "name": "源计划：联合 艾希",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/skin08/Images/ashe_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/skin08/Images/ashe_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/skin08/Images/ashe_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/skin08/AsheLoadScreen_8.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/skin08/AsheLoadScreen_8_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22008.png",
+  "chromas": [
+    {
+      "id": 22062,
+      "name": "源计划：联合 艾希 红莲之弓",
+      "contentId": "4cd5b030-e891-4c7f-af73-8c04252e0d4f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/22/22062.png",
+      "colors": [
+        "#DF9117",
+        "#821133"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 18
+    }
+  ],
+  "description": "艾希曾在一场集团战争的前线上见证了源计划以人类作为代价实现自己的野心。现在她是反抗组织基因动力的领袖，艾希的目标就是要颠覆这个最强大的集团。",
+  "wikiSkinData": {
+    "id": 22008,
+    "formatname": "PROJECT: Ashe",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2016-08-01",
+    "earlysale": "2017-02",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Mythic": {
+        "id": 62,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "While on the frontlines of a corporate war, Ashe witnessed the human cost of PROJECT's ambition. Now the leader of the resistance group G/NETIC, Ashe has set her sights on nothing less than the downfall of the most powerful corporations."
+  }
+}

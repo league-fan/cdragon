@@ -1,0 +1,58 @@
+{
+  "id": 16006,
+  "contentId": "26e3ac79-5023-4826-b10d-70aae54f2b9a",
+  "isBase": false,
+  "name": "源代码 索拉卡",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin06/Images/soraka_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin06/Images/soraka_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin06/Images/soraka_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin06/SorakaLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 17
+    }
+  ],
+  "description": "源代码索拉卡的创造是作为支援机器人保护人类的脆弱本质，以机械天使之手带来科技的救赎。如今被损坏代码入侵的她，不知道是否还以这个仁慈的使命作为自己的首要指令。",
+  "wikiSkinData": {
+    "id": 16006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-04-06",
+    "earlysale": "2016-08",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "voiceactor": [
+      "Lisa Lindsley"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Program Soraka was created as a support bot to protect humanity's fragile nature, offering technological salvation at the hands of a mechanical angel. Infiltrated by corrupt code, it is unclear if this mission of mercy remains her prime directive."
+  }
+}

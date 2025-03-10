@@ -1,0 +1,47 @@
+{
+  "id": 2001,
+  "contentId": "8aa0c96d-2736-405f-b5f5-7e46c0937b14",
+  "isBase": false,
+  "name": "烈焰猛士 奥拉夫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin01/Images/olaf_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin01/Images/olaf_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin01/Images/olaf_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Skin01/OlafLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Warrior",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/30.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/30.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 2,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/2_large.png",
+  "skinLines": [
+    {
+      "id": 167
+    }
+  ],
+  "description": null,
+  "wikiSkinData": {
+    "id": 2001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 520,
+    "release": "2010-06-08",
+    "retired": "2017-11-01",
+    "set": [
+      "Legacy"
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "id": 59,
+  "name": "嘉文四世",
+  "alias": "JarvanIV",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/59.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 59000,
+      "name": "嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 59000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-03-01",
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Jason Chan"
+        ],
+        "lore": "Prince Jarvan, scion of the Lightshield dynasty, is heir apparent to the throne of Demacia. Raised to be a paragon of his nation’s greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to fight on the front lines. Jarvan inspires his troops with his fearsome courage and selfless determination, raising his family’s colors high and revealing his true strength as a future leader of his people."
+      }
+    },
+    {
+      "id": 59001,
+      "name": "魔鬼司令 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-01",
+        "set": [
+          "Commando"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Zhang Ji"
+        ],
+        "lore": "Yes, those are guns strapped to Jarvan's arms and legs. No, he can't shoot them."
+      }
+    },
+    {
+      "id": 59002,
+      "name": "弒龍者 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-03-01",
+        "set": [
+          "Dragon World"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "lore": "All are accepted into the ranks of the dragonslayers, from the lowliest peasant to the mightiest king, for dragons would devour all equally. Jarvan IV willingly gave up the throne to join his doomed countrymen and stand against the fury of monsters reborn."
+      }
+    },
+    {
+      "id": 59003,
+      "name": "黑暗龍甲 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-26",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ]
+      }
+    },
+    {
+      "id": 59004,
+      "name": "戰爭英雄 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59004,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "cost": "Special",
+        "release": "2011-09-14",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "Victorious Jarvan IV was awarded to players who reached Gold or higher in the 2011 season. As the first Victorious skin ever released, Jarvan shines in silver armor with a flashy gold trim."
+      }
+    },
+    {
+      "id": 59005,
+      "name": "戰神呂布 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-02-08",
+        "set": [
+          "Lunar Revel: Warring Kingdoms"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "chromas": {
+          "Golden": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2019"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "lore": "A fabled warrior of peerless might, Jarvan IV strides across the Warring Kingdoms seeking only the worthiest opponents. All others careless enough to face him are crushed without mercy, the earth erupting beneath his immeasurable strength."
+      }
+    },
+    {
+      "id": 59006,
+      "name": "Fnatic 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59006,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2014-09-24",
+        "set": [
+          "World Champions: 2011"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "lore": "Honoring Cyanide's winning performance as Jarvan IV during the 2011 World Championship."
+      }
+    },
+    {
+      "id": 59007,
+      "name": "幽冥煞星 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-03-01",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "filter": true,
+        "chromas": {
+          "Antimatter": {
+            "id": 12,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Event Horizon 2020"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "A mortal emperor unbound by the destruction of his world, Jarvan's essence has since been reforged by the ageless energies of deep space. His humanity and his people now lost forever, he stands ready to welcome the Dark Star incursion, in the final subjugation of all existence."
+      }
+    },
+    {
+      "id": 59008,
+      "name": "SSG 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59008,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-07-20",
+        "set": [
+          "World Champions: 2017"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Rudy Siswanto",
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Ambition's winning performance as Jarvan IV during the 2017 World Championship. "
+      }
+    },
+    {
+      "id": 59009,
+      "name": "海克斯科技 嘉文四世",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2019-04-04",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "The Hextech Renaissance appealed not only to those with backgrounds in science, but also to those looking for an escape from their day-to-day lives. For the young Prince Jarvan, it presented the chance to enhance his martial skill—with technology that would have never been accepted within his father's kingdom."
+      }
+    },
+    {
+      "id": 59011,
+      "name": "泳池狂歡 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-07-02",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Aquamarine": {
+            "id": 15
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 19
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Peridot": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 13,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "For Jarvan, there's nothing more relaxing than hanging out at the beach. No kingdoms to run, no thrones to sit on (save for his favorite beach chair), just the sound of the waves and, if he listens closely, the faint whistle of a volleyball being spiked directly at him..."
+      }
+    },
+    {
+      "id": 59021,
+      "name": "牛年特戰隊 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59021,
+        "availability": "Legacy",
+        "looteligible": true,
+        "set": [
+          "Lunar Beast"
+        ],
+        "cost": 1350,
+        "release": "2021-02-04",
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 27
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 25
+          },
+          "Vitality": {
+            "id": 26,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Beast 2021"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Jarvan IV's stubborn refusal to join Ox Clan only relented to his father's stubborn insistence. Though he tries his best to shirk the celebrity status that comes with the role, Jarvan comes from a long line of philanthropists, and has found himself caught up in the thrill of bringing businesslike efficiency to the biggest community event of the year."
+      }
+    },
+    {
+      "id": 59030,
+      "name": "2021 世界大賽 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59030,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-23",
+        "set": [
+          "World Championship"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Aquamarine": {
+            "id": 31,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Catseye": {
+            "id": 32
+          },
+          "MAKE/BREAK": {
+            "id": 34,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Night & Dawn 2021"
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "Celebrating Worlds 2021 in Reykjavík."
+      }
+    },
+    {
+      "id": 59035,
+      "name": "闇夜使者 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59035,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-04-20",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 38
+          },
+          "Citrine": {
+            "id": 37
+          },
+          "Emerald": {
+            "id": 41,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Pearl": {
+            "id": 43
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 36,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Jarvan is the magnetism of chaos made real. Like the eye of a hurricane, his destruction inevitably sweeps up anyone and anything in his path. To him, chaos is the forge from which true gods are made, and only those that survive the war will be worthy to live in the new age of creation that follows."
+      }
+    },
+    {
+      "id": 59044,
+      "name": "剪紙仙靈 嘉文四世",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59044,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2025-01-23",
+        "set": [
+          "Mythmaker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 49
+          },
+          "Emerald": {
+            "id": 51
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 45,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 48
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 46
+          }
+        },
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "The region's Emperor, Jarvan IV, does whatever it takes to protect his realm from outsiders, leading him to frequent clashes with other gods. But when the malicious Jhin poses a threat greater than any before, he finds himself working with unlikely allies to pave the way for humanity's survival."
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": 245057,
+  "contentId": "825920c7-38ad-449f-81cd-e289a18d0c31",
+  "isBase": false,
+  "name": "Arcane ラストスタンド エコー",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin57/Images/ekko_splash_centered_57.SKINS_Ekko_Skin57.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin57/Images/ekko_splash_uncentered_57.SKINS_Ekko_Skin57.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin57/Images/ekko_splash_tile_57.SKINS_Ekko_Skin57.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin57/EkkoLoadScreen_57.SKINS_Ekko_Skin57.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Skin57/EkkoLoadScreen_57_LE.SKINS_Ekko_Skin57.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245057.png",
+  "chromas": [
+    {
+      "id": 245058,
+      "name": "Arcane ラストスタンド エコー",
+      "contentId": "87baf2a7-2e04-4caa-9522-a67954976d7d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245058.png",
+      "colors": [
+        "#BCD6EF",
+        "#474AF7"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "サンクタムの限定ドロップとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 6
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 152
+    }
+  ],
+  "description": "ピルトーヴァーとゾウンの未来がどうなるのかは不明だが、ひとつだけ変わらないことは、エコーが今後も自分が愛する人々とゾウンの未来のために献身を続けることだ。自ら開発したゼロ・ドライブを武器にして、彼は未来のために戦う覚悟だ──たとえどれだけ不利な状況になったとしても。幸いなことに、この救世主の少年はまだ奥の手を隠している…",
+  "wikiSkinData": {
+    "id": 245057,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-12-11",
+    "set": [
+      "Arcane"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Paragon": {
+        "id": 58,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sanctum Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Antony Del Rio"
+    ],
+    "splashartist": [
+      "Herbie Wang",
+      "Kudos Productions"
+    ],
+    "lore": "While the future of Piltover and Zaun is unclear, one thing remains constant—Ekko's dedication to those he loves, and to the future of Zaun. Armed with his Z-Drive, he is ready to fight for that future, even if the odds are stacked against him. Luckily, the boy savior still has a few tricks up his sleeve…"
+  }
+}

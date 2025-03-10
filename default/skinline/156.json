@@ -1,0 +1,929 @@
+{
+  "id": 156,
+  "name": "Anima Squad",
+  "description": "",
+  "skins": [
+    {
+      "id": 21031,
+      "name": "Battle Bunny Miss Fortune",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 21031,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 37
+          },
+          "Nightwire": {
+            "id": 39,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 38
+          },
+          "Peridot": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 36
+          },
+          "Ruby": {
+            "id": 34,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Laura Bailey"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+      }
+    },
+    {
+      "id": 21032,
+      "name": "Admiral Battle Bunny Miss Fortune",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 21032,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "1% drop rate from Anima Squad 2024 Capsules or opening 30 Anima Squad 2024 Capsules",
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 31,
+        "voiceactor": [
+          "Laura Bailey"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+      }
+    },
+    {
+      "id": 67032,
+      "name": "Battle Bat Vayne",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 67032,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 36
+          },
+          "Emerald": {
+            "id": 37
+          },
+          "Nightwire": {
+            "id": 43,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 42
+          },
+          "Rose Quartz": {
+            "id": 40
+          },
+          "Ruby": {
+            "id": 35,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 41
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Turquoise": {
+            "id": 38
+          }
+        },
+        "voiceactor": [
+          "Nika Futterman"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Vayne is Anima Squad's premiere intel expert, infiltrating enemy strongholds to strike first, strike fast, and strike hard. She's willing to do anything it takes to ensure humanity's survival, even if sometimes that means butting heads with the leadership of Commander Fortune."
+      }
+    },
+    {
+      "id": 89052,
+      "name": "Battle Lion Leona",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89052,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 55
+          },
+          "Meteorite": {
+            "id": 60
+          },
+          "Nightwire": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Override": {
+            "id": 62,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Pearl": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 54,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 58
+          },
+          "Turquoise": {
+            "id": 59
+          }
+        },
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Pandart Studio"
+        ],
+        "lore": "Leona is Anima Squad's reliable front-line defense, big sister, and official wrangler of its wilder members. Someone has to make sure those fire starters from the demolitions team get safely back to base! Don't think Leona can't bring the pain on her own, though. When it comes to battle, you will hear her roar!"
+      }
+    },
+    {
+      "id": 89053,
+      "name": "Prestige Battle Lion Leona",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89053,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-07-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 52,
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Sporting the latest in fashionable activewear for any on-the-go warrior, Leona defends her title of “Pride of the Runway” as easily as she rocks a bold lip color. Saving the world is important, but doing it with style? That's what Anima Squad is all about."
+      }
+    },
+    {
+      "id": 92044,
+      "name": "Battle Bunny Prime Riven",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 92044,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Nightwire": {
+            "id": 54,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 52
+          },
+          "Paragon": {
+            "id": 72,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sanctum Exclusive"
+          },
+          "Pearl": {
+            "id": 53
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 46,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Cristina Valenzuela"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Riven volunteered for what would eventually become Anima Squad after losing many comrades in the early days of the Primordian invasion. A string of victories later, she is famous: a war hero looked up to by all. ...So why has she suddenly vanished when the world needs her most?"
+      }
+    },
+    {
+      "id": 147043,
+      "name": "Battle Dove Seraphine",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 147043,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 46
+          },
+          "Emerald": {
+            "id": 45
+          },
+          "Nightwire": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Rose Quartz": {
+            "id": 47
+          },
+          "Ruby": {
+            "id": 44,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 48
+          }
+        },
+        "voiceactor": [
+          "Michele Panu"
+        ],
+        "splashartist": [
+          "Alsie Lau"
+        ],
+        "lore": "Seraphine was Anima Squad's comms officer, the \"girl in the chair\"—until she became the first Battle Dove, using her naturally sensitive hearing to operate a new AnimaTech suit that weaponizes sound waves to rock the battlefield! When she intercepts a strange distress call, Seraphine gets her first mission: find the source, and lead a team to the rescue."
+      }
+    },
+    {
+      "id": 157077,
+      "name": "Battle Wolf Yasuo",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157077,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 83
+          },
+          "Catseye": {
+            "id": 79
+          },
+          "Nightwire": {
+            "id": 86,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Obsidian": {
+            "id": 85
+          },
+          "Pearl": {
+            "id": 84
+          },
+          "Peridot": {
+            "id": 81
+          },
+          "Rose Quartz": {
+            "id": 80
+          },
+          "Ruby": {
+            "id": 78,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 82
+          }
+        },
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "The first captain of the Wolf Squad, Yasuo fought alongside Riven in the early days of the invasion. He disappeared only to reemerge years later a battle-hardened survivalist, still wearing his original suit. He's here to warn Anima Squad that the enemy has evolved—and if they want to survive, they'll need all hands (and paws) on deck."
+      }
+    },
+    {
+      "id": 222038,
+      "name": "Battle Cat Jinx",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 42
+          },
+          "Emerald": {
+            "id": 46
+          },
+          "Nightwire": {
+            "id": 49,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 47
+          },
+          "Pearl": {
+            "id": 48
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 41,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 45
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Felipe Martini",
+          "West Studio"
+        ],
+        "lore": "Jinx is a one-cat demolitions squad, her natural destructive impulses turned toward more productive ends: fighting off the Primordians. She's not really a soldier, doesn't seem to care about humanity's cause, and doesn't follow orders "
+      }
+    },
+    {
+      "id": 222040,
+      "name": "Prestige Battle Cat Jinx",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 222040,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 38,
+        "voiceactor": [
+          "Sarah Anne Williams"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Unleashed and brandishing an arsenal of squid-stomping explosives strong enough to knock over a Primordian warship, Jinx has the enemy right in her claws. With this Battle Cat on the prowl? The war is as good as over."
+      }
+    },
+    {
+      "id": 233010,
+      "name": "Primordian Briar",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 233010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Abyssal": {
+            "id": 19,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Amethyst": {
+            "id": 15
+          },
+          "Aquamarine": {
+            "id": 13
+          },
+          "Catseye": {
+            "id": 12
+          },
+          "Obsidian": {
+            "id": 17
+          },
+          "Pearl": {
+            "id": 18
+          },
+          "Peridot": {
+            "id": 14
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 11,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Julie Nathanson"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Briar was an early draft of Aatrox's perfection, but was deemed a “failure”—because instead of using her finely-honed mind to get back at surface-dwellers, she loves humans! Now that Briar has joined up with Anima Squad, maybe they can show her how to be more than what she was made to be."
+      }
+    },
+    {
+      "id": 350049,
+      "name": "Cyber Cat Yuumi",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350049,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 55
+          },
+          "Catseye": {
+            "id": 54
+          },
+          "Emerald": {
+            "id": 52
+          },
+          "Meteorite": {
+            "id": 56
+          },
+          "Nightwire": {
+            "id": 59,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Override": {
+            "id": 60,
+            "availability": "Limited",
+            "source": "Bundle",
+            "distribution": "Anima Squad 2024 Premium Pass Bundle"
+          },
+          "Pearl": {
+            "id": 57
+          },
+          "Rose Quartz": {
+            "id": 53
+          },
+          "Ruby": {
+            "id": 51,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 58
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "When Jinx stumbled onto an old Primordian program, she couldn't help but tinker with it, creating what would become the sentient digital cat behind the Anima Squad interface: Yuum.ai! Now inhabiting a shiny new hologram body, everyone's favorite online helper, bug swatter, and demander of head pats can hop into battle alongside her allies."
+      }
+    },
+    {
+      "id": 350050,
+      "name": "Prestige Cyber Cat Yuumi",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 350050,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 49,
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Bringing your pampered pet as a plus one to A-list events is all the rage, but sometimes you don't want to have to worry about cat hair. No problem, because this latest model of Cyber Cat Yuumi is here to prove that they call it a “catwalk” for a reason!"
+      }
+    },
+    {
+      "id": 420027,
+      "name": "Battle Bear Illaoi",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 420027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 30
+          },
+          "Emerald": {
+            "id": 32,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Nightwire": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 29
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 31
+          },
+          "Turquoise": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "Rolonda Watts"
+        ],
+        "splashartist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ],
+        "lore": "Every Anima Squad recruit knows Illaoi's booming laugh—and her notoriously tough training sessions—all too well. As someone always looking towards the future, it may seem strange that she is also Anima Squad's keeper of the Old Ways. But Illaoi knows that there was life before Final City, and she will ensure life continues long after the war is done."
+      }
+    },
+    {
+      "id": 498047,
+      "name": "Battle Bat Xayah",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498047,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 49
+          },
+          "Nightwire": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Obsidian": {
+            "id": 53
+          },
+          "Pearl": {
+            "id": 54
+          },
+          "Rainbow": {
+            "id": 55
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 51
+          },
+          "Turquoise": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Bat Squad's edgy hotshot Xayah knows that sometimes you have to strike first and hard to make a statement. Hailing from an attempted settlement outside Final City that was destroyed, Xayah's grudge against the Primordians is deeply personal. Between battles, she uses her stealth training to avoid Seraphine prying about who the guy she's always texting is."
+      }
+    },
+    {
+      "id": 517024,
+      "name": "Battle Wolf Sylas",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 517024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-03-31",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 30,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Nightwire": {
+            "id": 33,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2022"
+          },
+          "Obsidian": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 32
+          },
+          "Rose Quartz": {
+            "id": 27
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 29
+          },
+          "Turquoise": {
+            "id": 28
+          }
+        },
+        "voiceactor": [
+          "Fergus O'Donnell"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Sylas is the leader of Wolf Team: a daring, ruthless strike force under the banner of Anima Squad. Though he rejects anyone claiming authority over him (Commander Fortune included), Sylas knows that if humanity falls, there will be nothing left to fight for."
+      }
+    },
+    {
+      "id": 893001,
+      "name": "Battle Bunny Aurora",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 893001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 7
+          },
+          "Catseye": {
+            "id": 3
+          },
+          "Emerald": {
+            "id": 4
+          },
+          "Meteorite": {
+            "id": 8
+          },
+          "Nightwire": {
+            "id": 10,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Obsidian": {
+            "id": 6
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 2,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "voiceactor": [
+          "Emeri Chase"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "As Anima Squad's sole research specialist, Aurora uses her understanding of the Primordians (and PhD in bioengineering) to translate and adapt Primordian technology. While her work has led to incredible advancements in Anima Squad's equipment, her true passion is helping the world understand Primordians as she does."
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 67015,
+  "contentId": "52bcc2bb-a237-46b9-9c0b-2335f9a3774b",
+  "isBase": false,
+  "name": "FPX 汎",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin15/Images/vayne_splash_centered_15.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin15/Images/vayne_splash_uncentered_15.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin15/Images/vayne_splash_tile_15.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin15/VayneLoadscreen_15.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin15/VayneLoadscreen_15_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67015.png",
+  "chromas": [
+    {
+      "id": 67016,
+      "name": "FPX｜浴火鳳凰 汎",
+      "contentId": "c296537d-e70b-48ae-8126-f98c2c99e8d5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67016.png",
+      "colors": [
+        "#0C0C0F",
+        "#9B1520"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 130
+    }
+  ],
+  "description": "紀念 2019 世界大賽中，LWX 在梧桐、小橘、小白、小黑的幫助下使用汎贏得世界冠軍的精采表現。",
+  "wikiSkinData": {
+    "id": 67015,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-30",
+    "set": [
+      "World Champions: 2019"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Elite": {
+        "id": 16,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Signature Edition Mega Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring LWX's winning performance as Vayne during the 2019 World Championship with the help of Lil'Black, Lil'Orange, Firmiana and Lil'White."
+  }
+}

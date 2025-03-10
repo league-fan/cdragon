@@ -1,0 +1,180 @@
+{
+  "id": 81025,
+  "contentId": "83e7d51a-5b15-471d-aab9-7fcfef35cbf5",
+  "isBase": false,
+  "name": "磁器の守護者エズリアル",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin25/Images/ezreal_splash_centered_25.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin25/Images/ezreal_splash_uncentered_25.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin25/Images/ezreal_splash_tile_25.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin25/EzrealLoadscreen_25.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Skin25/EzrealLoadscreen_25_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81025.png",
+  "chromas": [
+    {
+      "id": 81026,
+      "name": "磁器の守護者エズリアル",
+      "contentId": "0c0be491-093c-46fc-ace0-855b9ef8e02b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81026.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2022年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 81027,
+      "name": "磁器の守護者エズリアル",
+      "contentId": "842ee57b-df06-4c59-9e85-f0b704d56377",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81027.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 81028,
+      "name": "磁器の守護者エズリアル",
+      "contentId": "ebe60f77-75a5-4f12-b0fb-861862e845d2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81028.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 81029,
+      "name": "磁器の守護者エズリアル",
+      "contentId": "10ac07cf-9d6d-4dcb-a404-45997a9ffe17",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81029.png",
+      "colors": [
+        "#FF9D13",
+        "#B9FFC1"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2022年のルナーフェスティバルイベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 81030,
+      "name": "磁器の守護者エズリアル",
+      "contentId": "e392a337-afe3-481e-937a-33dc423963b1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81030.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 81031,
+      "name": "磁器の守護者エズリアル",
+      "contentId": "60df6a05-a9c7-4e4e-9f17-43c45e533dda",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81031.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 154
+    }
+  ],
+  "description": "エズリアルは大学の書庫で調べ物を行っていた際に、間違って古代の邪悪な女魔術師を解放してしまった。しかし、ラックスと精霊である寅の干支の遺物が助けてくれたことで、辛うじて一命を取り留めた。魔法の世界のことはこれまで何も知らなかったが、彼は守護者の仲間に加わり、自らが(意図せず)引き起こした問題の解決を手伝うことを決めた。",
+  "wikiSkinData": {
+    "id": 81025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-01-26",
+    "set": [
+      "Porcelain"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 31
+      },
+      "Golden Tiger": {
+        "id": 29,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2022"
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rose Quartz": {
+        "id": 27
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 28
+      }
+    },
+    "voiceactor": [
+      "Daniel Amerman"
+    ],
+    "splashartist": [
+      "Edward Chee",
+      "West Studio"
+    ],
+    "lore": "After accidentally unleashing an ancient evil sorceress while doing research in the university archive, Ezreal narrowly escaped certain death when Lux and the spirit of the Tiger Relic stepped in to save him. Though he is new to the world of magic, Ezreal has joined the Protectors— determined to help solve the problem he (inadvertently) caused."
+  }
+}

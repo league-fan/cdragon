@@ -1,0 +1,153 @@
+{
+  "id": 131012,
+  "contentId": "fba1acb9-4ee0-4a9e-9b9f-404a5ab6847a",
+  "isBase": false,
+  "name": "黑潮 黛安娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin12/Images/diana_splash_centered_12.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin12/Images/diana_splash_uncentered_12.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin12/Images/diana_splash_tile_12.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Skin12/DianaLoadscreen_12.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131012.png",
+  "chromas": [
+    {
+      "id": 131013,
+      "name": "黑潮 黛安娜 海中月影号",
+      "contentId": "913fb737-967f-49cb-ad7d-53a16fb958b1",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131013.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 131014,
+      "name": "黑潮 黛安娜 窒息赤潮号",
+      "contentId": "42c69895-c54b-41bc-924c-457e05cb9840",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131014.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 131015,
+      "name": "黑潮 黛安娜 魅惑塞壬号",
+      "contentId": "98c6e790-ab0e-4546-b2e8-48a4e800c3c5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131015.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 131016,
+      "name": "黑潮 黛安娜 北海巨妖号",
+      "contentId": "12898748-8f85-4fe8-8339-90acceab4b0f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131016.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 131017,
+      "name": "黑潮 黛安娜 碧海之歌号",
+      "contentId": "f1fab702-195c-4a9b-8a47-fb4c18d19019",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131017.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 74
+    }
+  ],
+  "description": "黛安娜曾是蛇母教派中的一名极端主义者，但现在，她将每一天都花费在使用月之光华来谋害她雇主的敌人上。在比尔吉沃特，人们并不在意你是谁，而是更在意你所发送的消息。",
+  "wikiSkinData": {
+    "id": 131012,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-05-31",
+    "earlysale": "",
+    "set": [
+      "Bilgewater: Curse of the Drowned"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Obsidian": {
+        "id": 15
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Ruby": {
+        "id": 14
+      },
+      "Sapphire": {
+        "id": 17
+      },
+      "Turquoise": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Nicole Oliver"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send."
+  }
+}

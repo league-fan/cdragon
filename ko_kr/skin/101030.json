@@ -1,0 +1,78 @@
+{
+  "id": 101030,
+  "contentId": "8e429091-beb3-47fb-af65-907bd0e2a1fe",
+  "isBase": false,
+  "name": "야성의 수정 제라스",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/Images/xerath_splash_centered_30.SKINS_Xerath_Skin30.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/Images/xerath_splash_uncentered_30.SKINS_Xerath_Skin30.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/Images/xerath_splash_tile_30.SKINS_Xerath_Skin30.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/XerathLoadScreen_30.SKINS_Xerath_Skin30.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Skin30/XerathLoadScreen_30_LE.SKINS_Xerath_Skin30.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101030.png",
+  "chromas": [
+    {
+      "id": 101031,
+      "name": "야성의 수정 제라스",
+      "contentId": "f0375088-6ddc-402a-946e-fa005838350d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/101/101031.png",
+      "colors": [
+        "#239DE9",
+        "#22D389"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 202
+    }
+  ],
+  "description": "한때 평범한 어부였던 제라스는 수많은 마법의 수정을 싣고 항해에서 돌아왔습니다. 수정의 힘 덕분에 그는 지도자가 되어 바라던 프리즘 수정의 새 통치 시대를 열게 되었죠. 하지만 그 대가로 정신이 파괴되었고, 결국 어떤 생각도 믿지 못하게 되었습니다... 자신의 생각조차도 말이죠.",
+  "wikiSkinData": {
+    "id": 101030,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2024-06-12",
+    "set": [
+      "Crystalis Indomitus"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Fractured": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Mythic Shop"
+      }
+    },
+    "voiceactor": [
+      "Michael McConnohie"
+    ],
+    "splashartist": [
+      "Zoe Zhu",
+      "West Studio"
+    ],
+    "lore": "Once a humble fisherman, Xerath returned from a voyage with a multitude of magical crystals in tow. Their power elevated him to become a leader of his people, ushering in what he hoped would be a new era of the Prismae Crystals' rule. But the cost of such power damaged his mind, leaving him suspicious that no thoughts are to be trusted… even his own."
+  }
+}

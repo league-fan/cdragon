@@ -1,0 +1,170 @@
+{
+  "id": 57016,
+  "contentId": "4ab4a1ea-f6d4-424f-ad15-1687ab049468",
+  "isBase": false,
+  "name": "文明末日 茂凱",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin16/Images/maokai_splash_centered_16.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin16/Images/maokai_splash_uncentered_16.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin16/Images/maokai_splash_tile_16.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Skin16/MaokaiLoadscreen_16.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57016.png",
+  "chromas": [
+    {
+      "id": 57017,
+      "name": "文明末日｜焰紅 茂凱",
+      "contentId": "142f779d-6763-46b1-83e2-102490c4fe1a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57017.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2020 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 57018,
+      "name": "文明末日｜金黃 茂凱",
+      "contentId": "f55a8162-f1c3-420c-9697-793153465faf",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57018.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 57019,
+      "name": "文明末日｜翡翠 茂凱",
+      "contentId": "5af26538-f1d6-498c-91bd-bc5d08d6a247",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57019.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 57020,
+      "name": "文明末日｜紺紫 茂凱",
+      "contentId": "a11316c6-d0ec-4e04-997a-253bdf53da4e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57020.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 57021,
+      "name": "文明末日｜薔薇粉 茂凱",
+      "contentId": "eec96372-08d7-49a4-8f43-bff267894990",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57021.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 57022,
+      "name": "文明末日｜珍珠白 茂凱",
+      "contentId": "97fdc9f4-d1d3-4c04-bf0d-27be3e01775e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57022.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 57023,
+      "name": "文明末日｜湛藍 茂凱",
+      "contentId": "a1252c0c-d5e1-41d1-aea0-5d860587a408",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57023.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 29
+    }
+  ],
+  "description": "茂凱是一尊龐大的樹形巨像，生長於世界根基，儘管在最終滅絕時已付之一炬。他背負著在每個毀滅性循環後重振世界的重任，徘徊於永恆，並用魔法樹苗播種，讓生機歸於大地……直到這一切再次歸於虛無。",
+  "wikiSkinData": {
+    "id": 57016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-04-09",
+    "set": [
+      "Worldbreaker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 18
+      },
+      "Emerald": {
+        "id": 19
+      },
+      "Pearl": {
+        "id": 22
+      },
+      "Rose Quartz": {
+        "id": 21
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 23
+      },
+      "Tanzanite": {
+        "id": 20
+      }
+    },
+    "voiceactor": [
+      "Jay Preston"
+    ],
+    "splashartist": [
+      "Xuning Cui",
+      "Kudos Productions"
+    ],
+    "lore": "An immense tree-like golem, Maokai grew from the very roots of the world, charred though they were by the last annihilation. Burdened to revive the world after every destructive cycle, he wanders for all eternity, reseeding the earth with his magical saplings, making way for the renewal of life…  only for it to be undone once more."
+  }
+}

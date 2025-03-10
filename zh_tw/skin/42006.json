@@ -1,0 +1,99 @@
+{
+  "id": 42006,
+  "contentId": "7d7ab946-f34c-4046-b85f-e1263c05e0dd",
+  "isBase": false,
+  "name": "翔龍飛翼 庫奇",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/Images/corki_splash_centered_6.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/Images/corki_splash_uncentered_6.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/Images/corki_splash_tile_6.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Skin06/CorkiLoadScreen_6.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/42/42006.png",
+  "chromas": [
+    {
+      "id": 42017,
+      "name": "翔龍飛翼｜香檳金 庫奇",
+      "contentId": "7ec9343f-5986-4d89-8e7b-617222df7f9a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/42/42017.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "來自 2018 新春狂歡系列任務的限定戰利品。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 42035,
+      "name": "翔龍飛翼 庫奇",
+      "contentId": "e73080ea-e265-4ecf-8f51-e133e4c260b7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/42/42035.png",
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 54
+    }
+  ],
+  "description": "庫奇身後的工作人員非常肯定他乘坐的這一臺飛行器絕對適合新春狂歡這樣的節日，機身上面還裝上了一顆龍頭，用來嚇跑那些趁大家在歡慶之際偷溜出來作亂的惡靈們。他的飛行器之後甚至還加裝了機關槍和導彈，合理判斷這應該也是為了嚇跑惡靈…吧。",
+  "wikiSkinData": {
+    "id": 42006,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2013-02-08",
+    "set": [
+      "Lunar Revel: Firecracker"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 17,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Lunar Revel 2018"
+      },
+      "Meteorite": {
+        "id": 35
+      }
+    },
+    "voiceactor": [
+      "'Ralph'"
+    ],
+    "splashartist": [
+      "Concept Art House"
+    ],
+    "lore": "Corki's pit crew made sure to outfit him with a special ship for Lunar Revel, emblazoned with the visage of a dragon to scare off evil spirits. It has been further modified to spray bullets and fire explosives… presumably also to scare off evil spirits."
+  }
+}

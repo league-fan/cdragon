@@ -1,0 +1,75 @@
+{
+  "id": 83,
+  "name": "收藏版",
+  "description": "任何东西在被放入一个典藏版礼盒中时都会感觉更棒，不管是数码版的还是实体版的。 ",
+  "skins": [
+    {
+      "id": 10001,
+      "name": "银白审判 凯尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Retail Purchase",
+        "cost": "Special",
+        "release": "2009-11-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Jem Flores"
+        ],
+        "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 12001,
+      "name": "暗黑灵魂 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Digital Collector's Edition",
+        "cost": "Special",
+        "release": "2009-06-13",
+        "set": [
+          "Collector's Edition"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends."
+      }
+    },
+    {
+      "id": 13001,
+      "name": "青年 瑞兹",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 13001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Pre-order Retail Collector's edition",
+        "cost": "Special",
+        "release": "2009-07-17",
+        "set": [
+          "Collector's Edition"
+        ],
+        "voiceactor": [
+          "Dave B. Mitchell"
+        ],
+        "lore": "Given to players who pre-ordered the Retail Collector's Edition of League of Legends."
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": 11017,
+  "contentId": "69986f1a-25b1-4b31-8786-3451ef52b7f0",
+  "isBase": false,
+  "name": "雪だるま・イー",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin17/Images/masteryi_splash_centered_17.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin17/Images/masteryi_splash_uncentered_17.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin17/Images/masteryi_splash_tile_17.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin17/MasterYiLoadscreen_17.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Skin17/MasterYiLoadScreen_17_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11017.png",
+  "chromas": [
+    {
+      "id": 11019,
+      "name": "雪だるま・イー",
+      "contentId": "e6aec8bc-c729-46fb-9ba8-04b5615dd44a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11019.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "このクロマは2018年にセット限定でリリースされた。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 11020,
+      "name": "雪だるま・イー",
+      "contentId": "a2152692-b7c2-46d2-bb8e-467220c4a824",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11020.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        },
+        {
+          "region": "tencent",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 11021,
+      "name": "雪だるま・イー",
+      "contentId": "75027710-9774-4bb4-8dbc-63673080dfab",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11021.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 11022,
+      "name": "雪だるま・イー",
+      "contentId": "bc6d2b42-307a-4dcc-bdff-24308dc6488b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11022.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 11023,
+      "name": "雪だるま・イー",
+      "contentId": "b29efb91-a085-48e4-a31a-4a1813ae84b2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11023.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "ポロキングの魔法によって命を吹き込まれた素朴な雪だるまのイーは、この国で一番の騎士になるために厳しい修行をしている。差し迫った氷の邪王トゥイッチによる侵略は、彼にとって絶好のチャンスとなるかもしれない。",
+  "wikiSkinData": {
+    "id": 11017,
+    "formatname": "Snow Man Yi",
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-12-06",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 22
+      },
+      "Obsidian": {
+        "id": 23
+      },
+      "Pearl": {
+        "id": 21
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 19,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Micha Berman"
+    ],
+    "splashartist": [
+      "Rudy Siswanto"
+    ],
+    "lore": "A humble snowman brought to life by the magic of the Poro King, Yi strives to become the most gallant knight in all the land… and with the imminent invasion of Ice King Twitch, he might just get his chance."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 267001,
+  "contentId": "376feaa2-352c-47f6-b43a-062e5be635c0",
+  "isBase": false,
+  "name": "锦鲤 娜美",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin01/Images/nami_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin01/Images/nami_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin01/Images/nami_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin01/NamiLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267001.png",
+  "chromas": [
+    {
+      "id": 267004,
+      "name": "锦鲤 娜美 黄金鲤",
+      "contentId": "8c67b098-39fe-4d24-9511-96af4764708e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267004.png",
+      "colors": [
+        "#CF8730",
+        "#3B899A"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 267005,
+      "name": "锦鲤 娜美 红白鲤",
+      "contentId": "74e3b362-cbf2-4466-a87c-33a167ffc9fd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267005.png",
+      "colors": [
+        "#5C8694",
+        "#743449"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 267006,
+      "name": "锦鲤 娜美 幻紫鲤",
+      "contentId": "3a9a9801-e1e4-4815-870a-eb5cfbcedca7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267006.png",
+      "colors": [
+        "#8A397B",
+        "#18214A"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 167
+    }
+  ],
+  "description": null,
+  "wikiSkinData": {
+    "id": 267001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-12-07",
+    "set": [
+      "Legacy"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Smoke": {
+        "id": 5
+      },
+      "Sunbeam": {
+        "id": 4
+      },
+      "Twilight": {
+        "id": 6
+      }
+    },
+    "voiceactor": [
+      "Cassandra Lee Morris"
+    ],
+    "splashartist": [
+      "Michelle Hoefener"
+    ]
+  }
+}

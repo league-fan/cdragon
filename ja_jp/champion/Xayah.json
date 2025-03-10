@@ -1,0 +1,557 @@
+{
+  "id": 498,
+  "name": "ザヤ",
+  "alias": "Xayah",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/498.png",
+  "roles": [
+    "marksman"
+  ],
+  "skins": [
+    {
+      "id": 498000,
+      "name": "ザヤ",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 498000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-04-18",
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Evan 'Somnicidal' Monteiro",
+          "Jason Chan",
+          "Joshua 'HUGEnFAST' Brian Smith"
+        ],
+        "lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory."
+      }
+    },
+    {
+      "id": 498001,
+      "name": "宇宙の黄昏ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-04-18",
+        "earlysale": "2017-11",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Dusk beckons the dawn to its embrace, two lovers locked in an endless waltz across the stars. Thus Xayah is always a step ahead of Rakan, leading him forever into her arms."
+      }
+    },
+    {
+      "id": 498002,
+      "name": "スイートハート ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-02-12",
+        "set": [
+          "Heartbreakers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Jean 'Curing' Go"
+        ],
+        "lore": "Some say Xayah is lucky to have found true love. Her feathers captivate the soul, filling one's heart with passion and romance—that is, if you're Rakan. If you're not Rakan, Xayah's feathers cut right through the heart, leaving nothing but unrequited feelings, and tables for one."
+      }
+    },
+    {
+      "id": 498003,
+      "name": "SSG ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-07-20",
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "set": [
+          "World Champions: 2017"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Rudy Siswanto",
+          "Pan Chengwei"
+        ],
+        "lore": "Honoring Ruler's winning performance as Xayah during the 2017 World Championship. "
+      }
+    },
+    {
+      "id": 498004,
+      "name": "スターガーディアン ザヤ",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2019-09-12",
+        "set": [
+          "Star Guardian Season 3"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 7
+          },
+          "Ruby": {
+            "id": 6,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 5
+          }
+        },
+        "newvoice": true,
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen",
+          "Atey Ghailan"
+        ],
+        "lore": "Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies "
+      }
+    },
+    {
+      "id": 498008,
+      "name": "古の賢樹ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 12
+          },
+          "Emberwood": {
+            "id": 15,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Battle Queen 2020"
+          },
+          "Emerald": {
+            "id": 9
+          },
+          "Pearl": {
+            "id": 11
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 16,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 14
+          },
+          "Tanzanite": {
+            "id": 10
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Deep in the shaded canopies of the Elderwood, the Fey Prince Rakan and Princess Xayah hold court over two rival fairy dominions. Though Princess Xayah has seen the darkness of the world beyond, she has chosen to simply adopt its colors for her court rather than confront it."
+      }
+    },
+    {
+      "id": 498017,
+      "name": "勇ましき不死鳥ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-02",
+        "set": [
+          "Phoenixmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 22
+          },
+          "Emerald": {
+            "id": 19
+          },
+          "Golden Tiger": {
+            "id": 27,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 25
+          },
+          "Rose Quartz": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 21
+          },
+          "Tanzanite": {
+            "id": 23
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Xayah is a defender of ancient magic, protecting relics and places of great power from those who would use them for evil. Honoring her service, the fenghuang bestowed upon her a single feather, granting Xayah impossible power."
+      }
+    },
+    {
+      "id": 498026,
+      "name": "プレステージ勇ましき不死鳥ザヤ",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498026,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2022-02-17",
+        "set": [
+          "Phoenixmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 17,
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Julia Yurtsev"
+        ],
+        "lore": "Her heart unwavering, Xayah carries the fenghuang's blessing with her across the once peaceful lands. She makes quick work of those who would lay waste to the relics of the past, her magic mirroring their beauty in a harmonious dance. If they wield their power in order to honor their ancestors, Xayah is confident that the forces of good will prevail."
+      }
+    },
+    {
+      "id": 498028,
+      "name": "アルカナ ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498028,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-04-14",
+        "set": [
+          "Arcana"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 30
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Pearl": {
+            "id": 36
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 29,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 33
+          },
+          "Tanzanite": {
+            "id": 34
+          },
+          "Turquoise": {
+            "id": 32
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "One half of a perpetually incomplete whole, Xayah has found her love not in the world of the Higher Arcana, but the Lower. As she strains to meet the fated Rakan and pull him upwards towards herself, their tension frays and forms discordant knots—setting the stage for something new."
+      }
+    },
+    {
+      "id": 498037,
+      "name": "破られし盟約ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-03-09",
+        "set": [
+          "Broken Covenant"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 40
+          },
+          "Citrine": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 46
+          },
+          "Peridot": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 43
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "Thieves until the end, Xayah and Rakan only cared about each other and shunned the war raging around them. When Rakan ran afoul of the Neverghaast and was almost killed, Xayah agreed to spy on the Aspirants if Vladimir made her partner a Neverghaast. As she reports back from within the congregation, she prays she can find a cure for her lover's curse."
+      }
+    },
+    {
+      "id": 498038,
+      "name": "光の目覚めスターガーディアン ザヤ",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2023-10-11",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "variant": 4,
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Being bad was fun while it lasted. But all things must end. Through the power of devotion—and the First Star—Rakan sacrificed himself to save Xayah. Now a guardian once more, Xayah searches the night skies for her love, hoping to return the favor without falling into chaos herself."
+      }
+    },
+    {
+      "id": 498047,
+      "name": "バトルバット ザヤ",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498047,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-07-17",
+        "set": [
+          "Anima Squad"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Emerald": {
+            "id": 49
+          },
+          "Nightwire": {
+            "id": 56,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Anima Squad 2024"
+          },
+          "Obsidian": {
+            "id": 53
+          },
+          "Pearl": {
+            "id": 54
+          },
+          "Rainbow": {
+            "id": 55
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 51
+          },
+          "Turquoise": {
+            "id": 50
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Bat Squad's edgy hotshot Xayah knows that sometimes you have to strike first and hard to make a statement. Hailing from an attempted settlement outside Final City that was destroyed, Xayah's grudge against the Primordians is deeply personal. Between battles, she uses her stealth training to avoid Seraphine prying about who the guy she's always texting is."
+      }
+    },
+    {
+      "id": 498057,
+      "name": "バトルアカデミア ザヤ",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 498057,
+        "availability": "Upcoming",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "N/A",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Catseye": {
+            "id": 59
+          },
+          "Emerald": {
+            "id": 61
+          },
+          "Pearl": {
+            "id": 63
+          },
+          "Rebelguard": {
+            "id": 62
+          },
+          "Ruby": {
+            "id": 58,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Laila Pyne"
+        ],
+        "splashartist": [
+          "Sora Kim",
+          "West Studio"
+        ],
+        "lore": "Babylon Academy's God-Weapon chose Xayah to lead the school's team in this year's cross-academy tournament, which they've never won. As captain of the Battle Club, she's happy to use her new leverage to boss around her teammates and savor the “vacation” with Rakan, though she'll never admit she enjoys being a leader."
+      }
+    }
+  ]
+}

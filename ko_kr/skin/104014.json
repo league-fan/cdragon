@@ -1,0 +1,136 @@
+{
+  "id": 104014,
+  "contentId": "bd4b6f32-266d-425f-8b5c-20a02b953619",
+  "isBase": false,
+  "name": "승리의 그레이브즈",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/Images/graves_splash_centered_14.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/Images/graves_splash_uncentered_14.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/Images/graves_splash_tile_14.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/GravesLoadScreen_14.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104014.png",
+  "chromas": [
+    {
+      "id": 104015,
+      "name": "승리의 그레이브즈",
+      "contentId": "3371801c-ce30-4173-8303-60d1a7407582",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104015.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2017 시즌에 자유 랭크 게임에서 골드 달성 시 지급된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 104016,
+      "name": "승리의 그레이브즈",
+      "contentId": "bd85c8c8-7411-484c-b511-ce1bc0bd4eae",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104016.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2017 시즌에 개인 랭크 게임에서 골드 달성 시 지급된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 104017,
+      "name": "승리의 그레이브즈",
+      "contentId": "3071a125-8ecc-4b88-9be3-588651220f53",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104017.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2017 시즌에 3대3 랭크 게임에서 골드 달성 시 지급된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 7
+    }
+  ],
+  "description": "승리의 그레이브즈는 2017 시즌 골드 티어 이상을 달성한 플레이어에게 시즌 보상으로 지급되었습니다. 빌지워터에서 가장 유명한 무법자 그레이브즈가 위엄 넘치는 최고급 예복을 입고 수년간의 화려한 약탈 경력을 뽐내고 있습니다.",
+  "wikiSkinData": {
+    "id": 104014,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2017-11-08",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "3v3": {
+        "id": 17,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      },
+      "Solo": {
+        "id": 16,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      },
+      "Flex": {
+        "id": 15,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy."
+  }
+}

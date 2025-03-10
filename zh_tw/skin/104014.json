@@ -1,0 +1,136 @@
+{
+  "id": 104014,
+  "contentId": "bd4b6f32-266d-425f-8b5c-20a02b953619",
+  "isBase": false,
+  "name": "戰爭英雄 葛雷夫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/Images/graves_splash_centered_14.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/Images/graves_splash_uncentered_14.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/Images/graves_splash_tile_14.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Skin14/GravesLoadScreen_14.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104014.png",
+  "chromas": [
+    {
+      "id": 104015,
+      "name": "戰爭英雄 葛雷夫（彈性積分）",
+      "contentId": "3371801c-ce30-4173-8303-60d1a7407582",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104015.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 S7 賽季期間在彈性積分模式中達到金牌的獎勵。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 104016,
+      "name": "戰爭英雄 葛雷夫 (單/雙排積分)",
+      "contentId": "bd85c8c8-7411-484c-b511-ce1bc0bd4eae",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104016.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 S7 賽季期間在單排積分模式中達到金牌的獎勵。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 104017,
+      "name": "戰爭英雄 葛雷夫（3v3 積分）",
+      "contentId": "3071a125-8ecc-4b88-9be3-588651220f53",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/104/104017.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 S7 賽季期間在 3v3 積分模式中達到金牌的獎勵。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 7
+    }
+  ],
+  "description": "「戰爭英雄 葛雷夫」是玩家在 2017 賽季裡達到金牌或更高以上的牌階所獲得的獎勵。比爾吉沃特裡最著名的亡命之徒披著一身要價不斐的王袍，吹噓著自己這幾年歲月中所展露出的熟練搶劫手法。",
+  "wikiSkinData": {
+    "id": 104014,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2017-11-08",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "3v3": {
+        "id": 17,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      },
+      "Solo": {
+        "id": 16,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      },
+      "Flex": {
+        "id": 15,
+        "availability": "Limited",
+        "source": "Reward",
+        "distribution": "Season 2017"
+      }
+    },
+    "voiceactor": [
+      "Kyle Hebert"
+    ],
+    "splashartist": [
+      "Xu 'Crow God' Cheng"
+    ],
+    "lore": "Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy."
+  }
+}

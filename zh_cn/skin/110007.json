@@ -1,0 +1,89 @@
+{
+  "id": 110007,
+  "contentId": "e93fe825-20e6-4546-98f4-2bc2a56ecede",
+  "isBase": false,
+  "name": "征服者 韦鲁斯",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin07/Images/varus_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin07/Images/varus_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin07/Images/varus_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin07/VarusLoadscreen_7.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Skin07/VarusLoadScreen_7_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/110/110007.png",
+  "chromas": [
+    {
+      "id": 110008,
+      "name": "征服者 韦鲁斯 炫金",
+      "contentId": "ed3931a6-65ba-4327-8584-16c8d11a7486",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/110/110008.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 109
+    }
+  ],
+  "description": "以此纪念2018年于欧洲举办的季中邀请赛。",
+  "wikiSkinData": {
+    "id": 110007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2018-04-25",
+    "set": [
+      "Conqueror"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 8,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      }
+    },
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Alvin Lee"
+    ],
+    "lore": "Commemorating the 2018 Mid-Season Invitational in Europe."
+  }
+}

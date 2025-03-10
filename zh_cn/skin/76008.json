@@ -1,0 +1,89 @@
+{
+  "id": 76008,
+  "contentId": "1334d46e-494b-41e4-8dd8-4cea0e76594f",
+  "isBase": false,
+  "name": "勇者 奈德丽",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin08/Images/nidalee_splash_centered_8.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin08/Images/nidalee_splash_uncentered_8.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin08/Images/nidalee_splash_tile_8.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin08/NidaleeLoadScreen_8.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Skin08/NidaleeLoadscreen_8_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/76/76008.png",
+  "chromas": [
+    {
+      "id": 76010,
+      "name": "勇者 奈德丽 炫金",
+      "contentId": "a65a5353-9ceb-448e-ba55-ded4576d684e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/76/76010.png",
+      "colors": [
+        "#FFC948",
+        "#FFC948"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": " "
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 9
+    }
+  ],
+  "description": "纪念2016赛季开始。",
+  "wikiSkinData": {
+    "id": 76008,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-01-14",
+    "set": [
+      "Challenger"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 10,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "MSI 2019"
+      }
+    },
+    "voiceactor": [
+      "Roxana Ortega"
+    ],
+    "splashartist": [
+      "Sixmorevodka Studio"
+    ],
+    "lore": "Commemorating the 2016 season start."
+  }
+}

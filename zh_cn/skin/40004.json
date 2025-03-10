@@ -1,0 +1,54 @@
+{
+  "id": 40004,
+  "contentId": "be6b53c0-41e0-4e88-aa79-6ff2db120f0b",
+  "isBase": false,
+  "name": "胜利女神 迦娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin04/Images/janna_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin04/Images/janna_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin04/Images/janna_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin04/JannaLoadScreen_4.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 7
+    }
+  ],
+  "description": "胜利女神迦娜是给2012赛季达到黄金段位或更高的玩家的奖励。装备了水晶法杖和德玛西亚精良铠甲的，胜利女神迦娜将释放史诗般的强风，将敌人吹散。",
+  "wikiSkinData": {
+    "id": 40004,
+    "availability": "Limited",
+    "looteligible": false,
+    "distribution": "Reward for finishing the ranked season in Gold or higher.",
+    "cost": "Special",
+    "release": "2012-11-06",
+    "set": [
+      "Victorious"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "lore": "Victorious Janna was awarded to players who reached Gold or higher in the 2012 season. Armed with a crystalline staff and the best Demacian armor, Victorious Janna unleashes epic gales to blow her enemies away."
+  }
+}

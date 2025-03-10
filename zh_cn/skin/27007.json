@@ -1,0 +1,54 @@
+{
+  "id": 27007,
+  "contentId": "63172c9c-85b1-4e95-a1a7-fddde0771b28",
+  "isBase": false,
+  "name": "SSW 辛吉德",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Singed/Skins/Skin07/Images/singed_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Singed/Skins/Skin07/Images/singed_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Singed/Skins/Skin07/Images/singed_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Singed/Skins/Skin07/SingedLoadScreen_7.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/1.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/1.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 4
+    }
+  ],
+  "description": "以此致敬Looper在2014全球总决赛中使用辛吉德的夺胜表现。",
+  "wikiSkinData": {
+    "id": 27007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2015-05-13",
+    "set": [
+      "World Champions: 2014"
+    ],
+    "voiceactor": [
+      "Unknown voice actor"
+    ],
+    "splashartist": [
+      "Alvin Lee",
+      "Pan Chengwei"
+    ],
+    "lore": "Honoring Looper's winning performance as Singed during the 2014 World Championship."
+  }
+}

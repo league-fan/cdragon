@@ -1,0 +1,59 @@
+{
+  "id": 39003,
+  "contentId": "566dc0ac-ee45-44a3-979c-19f0843c4950",
+  "isBase": false,
+  "name": "夜行义贼 艾瑞莉娅",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Irelia/Skins/Skin03/Images/irelia_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Irelia/Skins/Skin03/Images/irelia_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Irelia/Skins/Skin03/Images/irelia_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Irelia/Skins/Skin03/IreliaLoadscreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 111
+    }
+  ],
+  "description": "使用高科技自动追击装置装备的超硬化战刃，艾瑞莉娅矫健的身手还是很难有人能够追上。她身上已经背负了一连串的抢劫与侦查活动的案底。",
+  "wikiSkinData": {
+    "id": 39003,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-10-11",
+    "retired": "2014-12-02",
+    "set": [
+      "Silver Age"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "vu": true,
+    "voiceactor": [
+      "Cherami Leigh"
+    ],
+    "splashartist": [
+      "Zeen Chin"
+    ],
+    "lore": "Using technologically superior cracking devices and hard-light blades, Irelia's nefarious activity is surprisingly hard to follow. She's responsible for a string of heists and high-profile espionage missions."
+  }
+}

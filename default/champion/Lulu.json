@@ -1,0 +1,502 @@
+{
+  "id": 117,
+  "name": "Lulu",
+  "alias": "Lulu",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/117.png",
+  "roles": [
+    "support",
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 117000,
+      "name": "Lulu",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 117000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-03-20",
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this mundane, physical realm. While others might consider her magic at best unnatural, and at worst dangerous, she believes everyone could use a touch of enchantment."
+      }
+    },
+    {
+      "id": 117001,
+      "name": "Bittersweet Lulu",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-03-20",
+        "retired": "2017-11-01",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Andrew 'Silver' Silver"
+        ],
+        "lore": "A candy witch living on the outskirts of the Peppermint Pine Barrens, Lulu's saccharine enchantments are known to grant incredible powers to any who desire them… but only at great cost to their candy soul."
+      }
+    },
+    {
+      "id": 117002,
+      "name": "Wicked Lulu",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-03-20",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "lore": "In Runeterra, parents warn their children to obey them, lest they be snatched away in the night by wicked Lulu. There she'll turn them into pixies, making them gather flowers throughout the spooky forest for her wicked schemes!"
+      }
+    },
+    {
+      "id": 117003,
+      "name": "Dragon Trainer Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2012-11-13",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 25
+          },
+          "Pearl": {
+            "id": 22
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Dragons, though feared, are still living things and can be befriended under the right circumstances. Lulu enthralled her small friend with whimsical magic... becoming the first ever dragon trainer."
+      }
+    },
+    {
+      "id": 117004,
+      "name": "Winter Wonder Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2013-12-19",
+        "set": [
+          "Winter Wonder"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "A kindly sorceress trailed by her poro pal Pix, Lulu's whimsical ice magic amazes and delights Snowdown revelers everywhere. She's also a skilled fighter, firing deadly glacial spikes and transforming foes into harmless snowmen."
+      }
+    },
+    {
+      "id": 117005,
+      "name": "Pool Party Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-06-25",
+        "earlysale": "2016-01",
+        "set": [
+          "Pool Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 7
+          },
+          "Citrine": {
+            "id": 12
+          },
+          "Peridot": {
+            "id": 9
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 10
+          },
+          "Sandstone": {
+            "id": 8
+          },
+          "Turquoise": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "Floaties and adorable squid-hats are in order whenever Lulu hits the beach with Pix the Pufferfish, but be careful not to splash her—she can turn people into adorable baby seals. Cute, cuddly, and utterly defenseless baby seals."
+      }
+    },
+    {
+      "id": 117006,
+      "name": "Star Guardian Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-10-05",
+        "earlysale": "2017-03",
+        "set": [
+          "Star Guardian Season 1"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 15,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "The youngest member of Lux's team, Lulu is an odd but gifted Star Guardian. Though her unique relationship with the Starlight is sometimes puzzling, Lulu can be counted on to support her team—and let them know that the light supports them, too."
+      }
+    },
+    {
+      "id": 117014,
+      "name": "Cosmic Enchantress Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117014,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-08-21",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 18
+          },
+          "Obsidian": {
+            "id": 20
+          },
+          "Rose Quartz": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 19
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Tasked with charting the heavens, Lulu's whimsical splashes of magic dot the sky with newborn stars. She keeps meticulous records of their names, mourning each of them when they finally pass."
+      }
+    },
+    {
+      "id": 117015,
+      "name": "Pajama Guardian Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117015,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-21",
+        "set": [
+          "Star Guardian Season 1"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 6,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Fuzzy onesies! Paper fortune tellers! Cuddly, incoming! Lulu's so ready for this slumber party. Even Pix is excited, and getting into the spirit of things. Star Guardians are destined to protect the universe—but that doesn't mean they can't have a little fun along the way!"
+      }
+    },
+    {
+      "id": 117026,
+      "name": "Space Groove Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117026,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-04-01",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 32
+          },
+          "Disco": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Space Groove 2021"
+          },
+          "Obsidian": {
+            "id": 35
+          },
+          "Peridot": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 33
+          },
+          "Turquoise": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Hailing from Boogie Wonderland, a planet of Pure Groove, Lulu is uniquely attuned to the resonance of cosmic disco energy. Using her staff to conjure visions of freedom and abandon to the beat of the music, she can get even the most left-footed creatures in the galaxy tapping along."
+      }
+    },
+    {
+      "id": 117027,
+      "name": "Prestige Space Groove Lulu",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117027,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-04-01",
+        "set": [
+          "Space Groove"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 26,
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Fresh off a visit from the Three Party Goddesses in the center of the galaxy, Lulu's more in tune with the Groove than ever. Her visions are even more potent, her beats are even more irresistible, and no one knows where Lulu's going to pop up next."
+      }
+    },
+    {
+      "id": 117037,
+      "name": "Monster Tamer Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-08-11",
+        "set": [
+          "Monster Tamers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 41
+          },
+          "Obsidian": {
+            "id": 44
+          },
+          "Pearl": {
+            "id": 45
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 43
+          },
+          "Turquoise": {
+            "id": 40
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Though she's new to the scene, Lulu exemplifies what it means to be a Tamer. She's studied the CORE (Compact Object for Relay and Engagement) manual front to back. She's even used it in the field a few times! Her latest discovery: Zap'Maw, a creature as dangerous as it is adorable."
+      }
+    },
+    {
+      "id": 117046,
+      "name": "Cafe Cuties Lulu",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 117046,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-10-25",
+        "set": [
+          "Cafe Cuties"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 48
+          },
+          "Emerald": {
+            "id": 49
+          },
+          "Obsidian": {
+            "id": 54
+          },
+          "Rose Quartz": {
+            "id": 52
+          },
+          "Ruby": {
+            "id": 47,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 51
+          },
+          "Tanzanite": {
+            "id": 50
+          },
+          "Turquoise": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Faye Mata"
+        ],
+        "splashartist": [
+          "Fortune 'Fortuneee' K"
+        ],
+        "lore": "Sweet tooths are always satisfied when Lulu and her helpful sous-chef Pix are crafting the desserts! Just one whiff of their pastry magic concoctions is enough to enchant even the most unruly customers. Some say their treats are so captivating that they even have reality altering effects…"
+      }
+    }
+  ]
+}

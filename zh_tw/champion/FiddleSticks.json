@@ -1,0 +1,449 @@
+{
+  "id": 9,
+  "name": "費德提克",
+  "alias": "FiddleSticks",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/9.png",
+  "roles": [
+    "mage",
+    "support"
+  ],
+  "skins": [
+    {
+      "id": 9000,
+      "name": "費德提克",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 9000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 585,
+        "release": "2009-02-21",
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe, the haggard, makeshift creature reaps fear itself, shattering the minds of those unlucky enough to survive in its wake. Beware the sounding of the crow, or the whispering of the shape that appears almost human… Fiddlesticks has returned."
+      }
+    },
+    {
+      "id": 9001,
+      "name": "幽魂嘆息 費德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "set": [
+          "Omen of the Dark"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "A gruesome spectre, rumored to stand eternally watchful over a peculiar book of fables. Brave knights and cruel sorceresses alike have tried in vain to reach the tome, but none have ever returned. Perhaps that lost queendom of old isn't so fictional after all…"
+      }
+    },
+    {
+      "id": 9002,
+      "name": "英倫萬歲！ 費德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-12",
+        "set": [
+          "Winter Sports"
+        ],
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Katya Cyan",
+          "West Studio"
+        ],
+        "lore": "Pip pip. Cheerio."
+      }
+    },
+    {
+      "id": 9003,
+      "name": "荒野鏢客 費德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-10",
+        "set": [
+          "High Noon"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 26
+          },
+          "Citrine": {
+            "id": 23
+          },
+          "Obsidian": {
+            "id": 20
+          },
+          "Pearl": {
+            "id": 21
+          },
+          "Peridot": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Turquoise": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "If the day ever comes, riding those dusty trails, when a thin man in a wide hat appears far in the distance… run. Ride hard and fast and never look back, lest the horror known as Fiddlesticks drag you to from your saddle, and into darkness."
+      }
+    },
+    {
+      "id": 9004,
+      "name": "萬聖稻草人 費德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-10-19",
+        "set": [
+          "Trick-or-Treat"
+        ],
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Carriage drivers are cautioned to stick to well-traveled highways, especially during the witching season. Strange things can happen on those old, moonlit roads, where no birds sing, and something enormous moves within the fog."
+      }
+    },
+    {
+      "id": 9005,
+      "name": "失意海賊 費德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9005,
+        "formatname": "Fiddle Me Timbers",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-04-26",
+        "retired": "2015-08-29",
+        "set": [
+          "Bilgewater: Burning Tides"
+        ],
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Yar har, fiddle-dee-dee."
+      }
+    },
+    {
+      "id": 9006,
+      "name": "派對稻草人 費德提克",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-27",
+        "set": [
+          "Surprise Party"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 16
+          },
+          "Peridot": {
+            "id": 17
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "Everyone told you hiring a clown would be a good idea. “Clowns are great for parties,” they said. But now everyone's missing, and the power is out, and something's laughing just down the hall..."
+      }
+    },
+    {
+      "id": 9007,
+      "name": "惡影糖果 費德提克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-14",
+        "set": [
+          "Sugar Rush"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "As lights go out across the Winterlands in preparation for Snowdown season, something ancient and terrible rises from the darkest corners of the Poro King's lands. Devoid of thought or purpose, it hunts for holiday revelers as if possessed, cutting down anything that crosses its path."
+      }
+    },
+    {
+      "id": 9008,
+      "name": "砂皇督軍 費德提克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-04-29",
+        "earlysale": "2015-12",
+        "set": [
+          "Guardian of the Sands"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Once upon a time in a faraway land, a jealous young emperor invoked profane summoning rites in exchange for power. Yet when the ancient horror Fiddlesticks stepped forth, it did not aid the boy"
+      }
+    },
+    {
+      "id": 9009,
+      "name": "禁衛軍甲 費德提克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-11-08",
+        "set": [
+          "Praetorian"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "chromas": {
+          "Citrine": {
+            "id": 12
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 15
+          }
+        },
+        "voiceactor": [
+          "N/A"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "The Remembrancers' worst fears have been realized. Emerging from tears in the fabric of spacetime, hordes of faceless, robotic marauders appear across the multiverse, destroying everything in their path. Fiddlesticks is only a single unit in this endless invasion force, assimilating any technology it comes across, and eradicating all life."
+      }
+    },
+    {
+      "id": 9027,
+      "name": "弒星者 費德提克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-07-14",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 29
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Peridot": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sandstone": {
+            "id": 35
+          },
+          "Sapphire": {
+            "id": 31
+          },
+          "Turquoise": {
+            "id": 33
+          },
+          "Wicked": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Star Guardian 2022"
+          }
+        },
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "The creature known as Fiddlesticks has fed on Star Guardians across every era, hunting those on the verge of falling before finally consuming their light. Its connection to the Guardians, and the reason it is drawn to them, is not well understood... but the familiar seemingly trapped within it suggests a truly disturbing origin."
+      }
+    },
+    {
+      "id": 9037,
+      "name": "血月之鐮 費德提克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-18",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 41
+          },
+          "Citrine": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 40,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "A demon of fear and chaos, Fiddlesticks was summoned directly into the mortal realm by Aatrox himself. It craves violence and the taste of blood, driven purely by instinct and compulsion as it tears through Ionia. Other demons follow in its wake, scavenging what remains of its carnage."
+      }
+    }
+  ]
+}

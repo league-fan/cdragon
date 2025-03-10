@@ -1,0 +1,640 @@
+{
+  "id": 131,
+  "name": "黛安娜",
+  "alias": "Diana",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/131.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 131000,
+      "name": "黛安娜",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 131000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2012-08-07",
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Bearing her crescent moonblade, Diana fights as a warrior of the Lunari—a faith all but quashed in the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon’s power. Imbued with the essence of an Aspect from beyond Targon’s towering summit, Diana is no longer wholly human, and struggles to understand her power and purpose in this world."
+      }
+    },
+    {
+      "id": 131001,
+      "name": "闇之女武神 黛安娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-08-07",
+        "set": [
+          "Fables"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Occasionally, a valkyrie will be seduced by the comforts of mortal life, and be cast out from the halls of Valhalla. Understandably, this makes them pretty upset with Valhalla's whole management style."
+      }
+    },
+    {
+      "id": 131002,
+      "name": "望月女神 黛安娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-01-28",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 8
+          },
+          "Aquamarine": {
+            "id": 6
+          },
+          "Obsidian": {
+            "id": 10
+          },
+          "Pearl": {
+            "id": 5
+          },
+          "Peridot": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 4
+          },
+          "Turquoise": {
+            "id": 7
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Michal Ivan",
+          "Puppetworks Animation Studio"
+        ]
+      }
+    },
+    {
+      "id": 131003,
+      "name": "地獄火 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-04-20",
+        "earlysale": "2016-09",
+        "set": [
+          "Infernal"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Yan Li"
+        ],
+        "lore": "Chief among the lesser Infernals is Diana, a blistering elemental terror sent ahead of the main invasion forces to assassinate key officials and set cities ablaze. Even her kin regard her methods as extreme, and she has been rightly elevated for it."
+      }
+    },
+    {
+      "id": 131011,
+      "name": "血月天牙 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A child chosen by the Blood Moon itself, Diana's mind has been opened to the lost ways of the cult—unknown to its leaders, and even the slavering demons beyond. Hers is a truth no one can know, and a fated metamorphosis beyond men and the gods."
+      }
+    },
+    {
+      "id": 131012,
+      "name": "幽黯死海 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131012,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-05-31",
+        "earlysale": "",
+        "set": [
+          "Bilgewater: Curse of the Drowned"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 14
+          },
+          "Sapphire": {
+            "id": 17
+          },
+          "Turquoise": {
+            "id": 16
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send."
+      }
+    },
+    {
+      "id": 131018,
+      "name": "弒龍死士 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131018,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-01-30",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 20
+          },
+          "Emerald": {
+            "id": 21
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 23
+          },
+          "Ruby": {
+            "id": 19,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts."
+      }
+    },
+    {
+      "id": 131025,
+      "name": "戰爭女皇 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-12-10",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Exiled for heresy, Diana has assented to return to her queendom to save her people—nothing else. She intends to use the Coronation to prove her worth and force Eos' elders to admit the truth of her beliefs: that the Crest answers to the will of the nation, not its leaders."
+      }
+    },
+    {
+      "id": 131026,
+      "name": "尊爵不凡 戰爭女皇 黛安娜",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131026,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2020-12-10",
+        "set": [
+          "Battle Queens"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 25,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Sanhua Chen",
+          "Kudos Productions"
+        ],
+        "lore": "After revealing the truth at her nomination ceremony, Diana will let nothing stand in her way. Clad in new armor as steely as her resolve, Diana intends to subdue the Tournament's monsters—and the power-hungry religious order that has stifled Eosia."
+      }
+    },
+    {
+      "id": 131027,
+      "name": "光之哨兵 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-08",
+        "set": [
+          "Sentinels of Light"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 29
+          },
+          "Emerald": {
+            "id": 30
+          },
+          "Pearl": {
+            "id": 33
+          },
+          "Resolute": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Rose Quartz": {
+            "id": 35
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 32
+          },
+          "Tanzanite": {
+            "id": 31
+          },
+          "Turquoise": {
+            "id": 34
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "The Ruination of Targon and the loss of the Aspect of War devastated the Rakkor tribes. But the only way to fight an Aspect's power is with another Aspect—and so Diana takes up her blade as a member of the Sentinels, knowing that Viego would destroy everything the moonlight touches."
+      }
+    },
+    {
+      "id": 131037,
+      "name": "福虎生風 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131037,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-01-26",
+        "set": [
+          "Lunar Revel: Firecracker"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 43
+          },
+          "Emerald": {
+            "id": 40
+          },
+          "Golden Tiger": {
+            "id": 46,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 42
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 39
+          },
+          "Tanzanite": {
+            "id": 41
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Market stalls offer the Lady of the Moon their wares freely, in hope of receiving a blessing for the New Year. Diana is happy to oblige, even if it means getting stopped every few feet by another well-wisher… Luckily, Diana's festival buddies are patient."
+      }
+    },
+    {
+      "id": 131047,
+      "name": "凜冬碎星 黛安娜",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131047,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2022-12-08",
+        "set": [
+          "Winterblessed"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "newvoice": true,
+        "chromas": {
+          "Emerald": {
+            "id": 50
+          },
+          "Pearl": {
+            "id": 52
+          },
+          "Rose Quartz": {
+            "id": 49
+          },
+          "Ruby": {
+            "id": 48,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 51
+          },
+          "Wreathguard": {
+            "id": 53,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Winterblessed 2022"
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "One can learn many lessons from the tales of Polaris, the living embodiment of the Aurora. Each year brings a new Polaris and a new chance to receive the Aurora's blessings—or its punishments. This incarnation of Polaris, Diana, arrived to find three local leaders waiting for her, eager for blessings: the Hunter Swain, Sage Zilean, and Warden Zoe."
+      }
+    },
+    {
+      "id": 131054,
+      "name": "聖鱗天尊 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131054,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-02-07",
+        "set": [
+          "Heavenscale"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 59
+          },
+          "Citrine": {
+            "id": 57
+          },
+          "Emerald": {
+            "id": 58
+          },
+          "Lustrous": {
+            "id": 63,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2024"
+          },
+          "Obsidian": {
+            "id": 62
+          },
+          "Pearl": {
+            "id": 61
+          },
+          "Rose Quartz": {
+            "id": 56
+          },
+          "Ruby": {
+            "id": 55,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 60
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal"
+        ],
+        "lore": "The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans."
+      }
+    },
+    {
+      "id": 131064,
+      "name": "幽冥煞星 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131064,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 67
+          },
+          "Emerald": {
+            "id": 70
+          },
+          "Pearl": {
+            "id": 73
+          },
+          "Quasar": {
+            "id": 74,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Worlds 2024"
+          },
+          "Rainbow": {
+            "id": 72
+          },
+          "Rose Quartz": {
+            "id": 69
+          },
+          "Ruby": {
+            "id": 66,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 68
+          },
+          "Turquoise": {
+            "id": 71
+          }
+        },
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Su Fu",
+          "Kudos Productions"
+        ],
+        "lore": "Diana was once a favorite of Cosmic Queen Ashe, but was labeled a heretic and banished for trying to understand the Dark Star's power with a little too much interest for the Court's comfort. Left adrift in the bleak nothingness of space, she had no choice but to embrace the chaos that had fascinated her for so long."
+      }
+    },
+    {
+      "id": 131065,
+      "name": "尊爵不凡 幽冥煞星 黛安娜",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131065,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2024-10-23",
+        "set": [
+          "Dark Star"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 64,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "Diana has always been lightyears ahead of the fashion world, unafraid to be avant-garde when others shy away. This Gala, she was inspired by event horizons and waves of energy bending and twisting across space and time, lending darkly cosmic shapes to her striking, out-of-this-world look."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 498004,
+  "contentId": "6982b446-b689-4b0e-8654-91e3ce67dcda",
+  "isBase": false,
+  "name": "星光戰士 剎雅",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Xayah/Skins/Skin04/Images/xayah_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Xayah/Skins/Skin04/Images/xayah_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Xayah/Skins/Skin04/Images/xayah_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Xayah/Skins/Skin04/XayahLoadscreen_4.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Xayah/Skins/Skin04/XayahLoadscreen_4_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/498/498004.png",
+  "chromas": [
+    {
+      "id": 498005,
+      "name": "星光戰士｜寶石青 剎雅",
+      "contentId": "6bc20453-87c7-44b9-8c2c-6a41c34c9f24",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/498/498005.png",
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 498006,
+      "name": "星光戰士｜焰紅 剎雅",
+      "contentId": "68762f5b-69b2-4b99-9bdb-b04d9332e9c8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/498/498006.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2019 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 498007,
+      "name": "星光戰士｜碧藍 剎雅",
+      "contentId": "64860989-9ee1-4415-875a-178b8cf5adc4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/498/498007.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 119
+    }
+  ],
+  "description": "許多年前，剎雅和她的愛侶銳空在對抗柔依的戰鬥中被摧毀殆盡。隨後，這對比翼愛侶的形體被重構並轉而對抗他們曾經的戰友 ─ 而剎雅似乎對這樣的轉變非常滿意。她怨忿於星光戰士在生死交關時棄她不顧，並因此轉而對付他們；縱使各種疑慮好像正在漸漸滋生…",
+  "wikiSkinData": {
+    "id": 498004,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2019-09-12",
+    "set": [
+      "Star Guardian Season 3"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 7
+      },
+      "Ruby": {
+        "id": 6,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Turquoise": {
+        "id": 5
+      }
+    },
+    "newvoice": true,
+    "voiceactor": [
+      "Laila Pyne"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen",
+      "Atey Ghailan"
+    ],
+    "lore": "Many years ago, Xayah was destroyed in the fight against Zoe, alongside her lover Rakan. The pair were then resurrected and turned against their allies "
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": 21031,
+  "contentId": "fce06c2d-ccdd-4972-85cf-d2bd822cb14a",
+  "isBase": false,
+  "name": "Battle Bunny Miss Fortune",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/Images/missfortune_splash_centered_31.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/Images/missfortune_splash_uncentered_31.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/Images/missfortune_splash_tile_31.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/MissFortuneLoadscreen_31.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin31/MissFortuneLoadscreen_31_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21031.png",
+  "chromas": [
+    {
+      "id": 21034,
+      "name": "Battle Bunny Miss Fortune",
+      "contentId": "d10a50df-4a64-4e16-b3ca-d0516f5bf297",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21034.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2022."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 21035,
+      "name": "Battle Bunny Miss Fortune",
+      "contentId": "02ace035-e88e-4733-b4e7-dddc5c14b4b5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21035.png",
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 21036,
+      "name": "Battle Bunny Miss Fortune",
+      "contentId": "6bd2a369-7ec6-4b48-8dab-ab68b641e045",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21036.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 21037,
+      "name": "Battle Bunny Miss Fortune",
+      "contentId": "1ab753c9-7e65-4ca4-99be-e3a2a258ce39",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21037.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 21038,
+      "name": "Battle Bunny Miss Fortune",
+      "contentId": "b316c3c1-f44e-4096-ad7d-4bff0a6fb9a4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21038.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 21039,
+      "name": "Battle Bunny Miss Fortune",
+      "contentId": "c80b75cf-83b7-4652-a497-b1e76040d224",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21039.png",
+      "colors": [
+        "#2B7CFF",
+        "#FF930E"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a Loot exclusive in the 2022 Anima Squad event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 156
+    }
+  ],
+  "description": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity.",
+  "wikiSkinData": {
+    "id": 21031,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2022-03-31",
+    "set": [
+      "Anima Squad"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Catseye": {
+        "id": 37
+      },
+      "Nightwire": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2022"
+      },
+      "Obsidian": {
+        "id": 38
+      },
+      "Peridot": {
+        "id": 35
+      },
+      "Rose Quartz": {
+        "id": 36
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      }
+    },
+    "voiceactor": [
+      "Laura Bailey"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sarah Fortune is the second to take on the title of Anima Squad Commander, after her predecessor Riven's mysterious disappearance. They're big leporine shoes to fill, considering Riven's status as a war hero, but Sarah is smart, skilled, and courageous enough to forge her own legend in the fight for humanity."
+  }
+}

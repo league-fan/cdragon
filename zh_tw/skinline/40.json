@@ -1,0 +1,530 @@
+{
+  "id": 40,
+  "name": "海克斯科技 ",
+  "description": "位在科學與藝術最先端的海克斯科技，從原先尚未成熟的初期階段逐漸進化，成為複雜難解、具備自由意志的人造生命的現代文藝復興。技術嫻熟的工匠把這項媒介引領至嶄新的未來──但這究竟會帶來什麼，沒人敢斷言。",
+  "skins": [
+    {
+      "id": 1010,
+      "name": "海克斯科技 安妮",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 1010,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2016-03-15",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A scientific prodigy even among the intellectuals of the Hextech renaissance, Annie's beautiful, living warbears are among the most prized innovations of the era. Her most mysterious creation, Tibbers, is always close at hand—her confidant, friend, and monstrous bodyguard."
+      }
+    },
+    {
+      "id": 3002,
+      "name": "海克斯科技 加里歐",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 3002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-10",
+        "retired": "2013-07-18",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Josh Petersdorf"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Sensing a shift in the marketability of Hextech items, several of Piltover's largest industrial families pooled resources to create Galio, a massive golem donated to the city and her people. While he is ostensibly a walking advertisement, the protective creature is both curious about the world, and proud of his responsibility."
+      }
+    },
+    {
+      "id": 12019,
+      "name": "海克斯科技 亞歷斯塔",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12019,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-03-26",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "The fusion of arcane sorcery and Piltovan ingenuity, Alistar is an advanced, living golem built by the finest artificers in Runeterra. Tasked with guarding the secrets of hextech, it crushes all who would abuse the methods behind its creation."
+      }
+    },
+    {
+      "id": 14001,
+      "name": "海克斯科技 賽恩",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 14001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "retired": "2011-11-28",
+        "set": [
+          "Hextech"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "splashartist": [
+          "Izzy Medrano"
+        ],
+        "lore": "Over the years, many have asked—should art be chained by the fleeting concept of morality? Or should science bend a knee to the laws of man? Some believe progress is not made by holding ourselves back, and though we may give birth to monsters… Hextech will always guide our path..."
+      }
+    },
+    {
+      "id": 18040,
+      "name": "海克斯科技 崔絲塔娜",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 18040,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2021-09-09",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Elspeth Eastman"
+        ],
+        "splashartist": [
+          "West Studio"
+        ],
+        "lore": "Hex-powered munitions have been around since the early days of hextech innovation, but no one has perfected their use like Tristana. Decorated for her service in protecting the innocent with her Hexcrystal Cannon (Mark III), she stands at the forefront of martial hextechnology as a staunch and noble advocate."
+      }
+    },
+    {
+      "id": 27002,
+      "name": "海克斯科技 辛吉德",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 27002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-15",
+        "retired": "2017-11-01",
+        "set": [
+          "Hextech"
+        ],
+        "voiceactor": [
+          "Unknown voice actor"
+        ],
+        "lore": "Zaun's early forays into Hextech were critical to the movement, but not all were met with success. The scientist known as Singed warped his mind and body as he looped noxious, magically-infused chemical byproducts into his veins, twisting himself into a monster."
+      }
+    },
+    {
+      "id": 32023,
+      "name": "海克斯科技 阿姆姆",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 32023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2019-09-26",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "A mechanical boy intended as a playmate for wealthy children, Amumu has been long forgotten in the advent of newer and more advanced Hextech innovations. But a child has feelings, and within his artificial mind something has begun to awaken that will change the history of Hextech forever."
+      }
+    },
+    {
+      "id": 33016,
+      "name": "海克斯科技 拉姆斯",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 33016,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2019-08-15",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "lore": "Even the most renowned Hextech artificer must bow to the creativity and perfection of nature. After crafting each of Rammus's arcs to mimic the golden spiral, the creature proved so efficient at rolling... it escaped the moment its creator put down her wrench."
+      }
+    },
+    {
+      "id": 34004,
+      "name": "海克斯科技 艾妮維亞",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-03-01",
+        "retired": "2017-11-01",
+        "set": [
+          "Hextech"
+        ],
+        "lore": "Early hextech lifeforms could barely be considered sentient... until the development of Anivia, an artificial avian capable of limited speech. Her birth was the foundation of the modern Hextech movement, and the multitude of creatures that came after her."
+      }
+    },
+    {
+      "id": 38014,
+      "name": "海克斯科技 卡薩丁",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 38014,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-10-15",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Malex Zhang",
+          "Kudos Productions"
+        ],
+        "lore": "Engrossed in his work to the point of near-obsession, Kassadin vanished for some time into the bowels of his labyrinthian workshop, disappearing from public life for years. When he emerged, he revealed a shocking hextech innovation to the world: his own body, fully integrated with the technology he so loved."
+      }
+    },
+    {
+      "id": 40002,
+      "name": "海克斯科技 珍娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 40002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-11-08",
+        "retired": "2017-11-01",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ],
+        "lore": "Practitioners of Hextech science have historically benefited from the core crystalline matrix's more esoteric properties. Janna's long exposure to such raw materials famously granted her the power of limited flight, and the ability to control the wind."
+      }
+    },
+    {
+      "id": 50011,
+      "name": "海克斯科技 斯溫",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 50011,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2019-12-12",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "James Faulkner"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "The hextech artificer known as Jericho Swain is an almost legendary figure among Piltover's growing upper crust. Though he professes not to meddle in city affairs, he has been quietly integrating various hextech components into his own body… and with them, unparalleled access to the eyes and ears of thousands of artificial creatures."
+      }
+    },
+    {
+      "id": 56016,
+      "name": "海克斯科技 夜曲",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 56016,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-06-11",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Jason Wishnov"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Not every part of the Hextech renaissance led to bright innovations. A clandestine experiment to fuse Hextech with demonic energies wrought a living nightmare, a predator rumored to stalk the streets and back alleyways of the city. Authorities report that any such creation would have been terminated along with any such project, and that any missing persons reports are, of course, completely unrelated."
+      }
+    },
+    {
+      "id": 58017,
+      "name": "海克斯科技 雷尼克頓",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 58017,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-12-20",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Alvin Lee"
+        ],
+        "lore": "As is so often the way, artificers of the Hextech Renaissance pushed too far and too fast into their new science, without fully considering the possible consequences. Renekton—a half-mad monster of flesh and metal—is the result of that shortsightedness."
+      }
+    },
+    {
+      "id": 59009,
+      "name": "海克斯科技 嘉文四世",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59009,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2019-04-04",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kyle Hebert"
+        ],
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "The Hextech Renaissance appealed not only to those with backgrounds in science, but also to those looking for an escape from their day-to-day lives. For the young Prince Jarvan, it presented the chance to enhance his martial skill—with technology that would have never been accepted within his father's kingdom."
+      }
+    },
+    {
+      "id": 78015,
+      "name": "海克斯科技 波比",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 78015,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-07-23",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Kate Higgins"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "Artificers of the Hextech renaissance owe much to Poppy, an expert engineer of the delicate craft. Having perfected the infusion of life into the inanimate, she now feverishly researches the ultimate scientific breakthrough—the creation of an artificial soul."
+      }
+    },
+    {
+      "id": 90007,
+      "name": "海克斯科技 馬爾札哈",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90007,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2018-10-18",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Vic Mignogna"
+        ],
+        "splashartist": [
+          "Xu 'Crow God' Cheng"
+        ],
+        "lore": "Upon hearing that the origin of hextech lay in his homeland of Shurima, Malzahar ventured out into the wastes alone. There, after suffering a life-changing revelation, he became its greatest messenger, claiming to see prophecies of the coming of a second hextech renaissance."
+      }
+    },
+    {
+      "id": 96010,
+      "name": "海克斯科技 寇格魔",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96010,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2017-12-07",
+        "earlysale": "Ineligible",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "A newer Hextech innovation, Kog'Maw constructs are available as pets for wealthy families, delighting Piltover's upper crust with their friendly demeanor and intricately complex design. Though living things, they are viewed among the well-to-do as little more than status symbols."
+      }
+    },
+    {
+      "id": 113015,
+      "name": "海克斯科技 史瓦妮",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 113015,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-03-05",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicki Burke"
+        ],
+        "splashartist": [
+          "Sean 'Raiko' Tay",
+          "West Studio"
+        ],
+        "lore": "A merchant tycoon hailing from the top echelons of Piltovan society, Sejuani paved the way for the manufacture of hextech mounts. Often seen atop the back of her trusted stead, Bristech, she surveys the gilded streets of her magnificent city, always on the lookout to recruit young innovators who dare to push the boundaries of science and engineering."
+      }
+    },
+    {
+      "id": 115023,
+      "name": "海克斯科技 希格斯",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115023,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2020-09-03",
+        "set": [
+          "Hextech"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Alessandro Juliani"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "Famed inventor of Tocker, Ziggs is a savant to some, to others a maniac. All can agree that no matter the consequences, Ziggs seems to enjoy his experiments—especially the subsequent explosions. What is perhaps most miraculous of all is how he and Tocker have survived so many blasts over the years."
+      }
+    }
+  ]
+}

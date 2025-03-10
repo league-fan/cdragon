@@ -1,0 +1,154 @@
+{
+  "id": 54016,
+  "contentId": "99f7d4a5-61b6-4b53-945b-6bb0869b4474",
+  "isBase": false,
+  "name": "오디세이 말파이트",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin16/Images/malphite_splash_centered_16.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin16/Images/malphite_splash_uncentered_16.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin16/Images/malphite_splash_tile_16.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin16/MalphiteLoadscreen_16.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Skin16/MalphiteLoadScreen_16_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54016.png",
+  "chromas": [
+    {
+      "id": 54017,
+      "name": "오디세이 말파이트",
+      "contentId": "7f4dc6d8-2c09-42d2-8537-a602f8e309e5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54017.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2018년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 54018,
+      "name": "오디세이 말파이트",
+      "contentId": "1771864a-da75-45b3-aaf4-6b0dd32f2557",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54018.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 54019,
+      "name": "오디세이 말파이트",
+      "contentId": "33d95d27-fce3-4b0f-b9ac-d5b6f8590e8c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54019.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 54020,
+      "name": "오디세이 말파이트",
+      "contentId": "23a8582e-af69-49da-984b-fa33f7a1e95e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54020.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 54021,
+      "name": "오디세이 말파이트",
+      "contentId": "72d803fc-ffe6-4184-a4d5-2fa334c60865",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54021.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 54022,
+      "name": "오디세이 말파이트",
+      "contentId": "3986f46d-b7e8-4133-acef-bc1e63571709",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54022.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 73
+    }
+  ],
+  "description": "말파이트는 한때 심우주에 있는 한 채굴장의 현장 감독이었습니다. 징크스가 소행성을 두 동강 내서 둘 다 해고당하기 전까지는 말이죠. 말파이트는 사이코패스가 틀림없는 누군가를 전적으로 신뢰하는 바람에 은하계의 온갖 위험에 처하게 되었지만 그다지 신경 쓰지 않는 듯합니다.",
+  "wikiSkinData": {
+    "id": 54016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Emerald": {
+        "id": 18
+      },
+      "Pearl": {
+        "id": 19
+      },
+      "Rose Quartz": {
+        "id": 20
+      },
+      "Ruby": {
+        "id": 17,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 21
+      },
+      "Tanzanite": {
+        "id": 22
+      }
+    },
+    "splashartist": [
+      "Viktor Titov",
+      "Grafit Studio"
+    ],
+    "lore": "Malphite was once the pit boss of a deep space mining operation, until Jinx cracked the asteroid in half and got them both fired. His enduring loyalty to someone who is very obviously a psychopath has landed him in all kinds of danger across the galaxy, but he honestly doesn't seem to mind."
+  }
+}

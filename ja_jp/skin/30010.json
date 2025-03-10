@@ -1,0 +1,156 @@
+{
+  "id": 30010,
+  "contentId": "1a964ed5-efd5-4b40-a379-ac3c60e86452",
+  "isBase": false,
+  "name": "地獄の業火カーサス",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Karthus/Skins/Skin10/Images/karthus_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Karthus/Skins/Skin10/Images/karthus_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Karthus/Skins/Skin10/Images/karthus_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Karthus/Skins/Skin10/KarthusLoadscreen_10.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30010.png",
+  "chromas": [
+    {
+      "id": 30011,
+      "name": "地獄の業火カーサス",
+      "contentId": "11301e83-add3-432e-b6b5-cefc357b3ac2",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30011.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2020年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 30012,
+      "name": "地獄の業火カーサス",
+      "contentId": "d8796783-11aa-430f-9aaf-c6a0694fdb2b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30012.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 30013,
+      "name": "地獄の業火カーサス",
+      "contentId": "8404e3ee-91e5-44fa-b973-07b49934ea94",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30013.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 30014,
+      "name": "地獄の業火カーサス",
+      "contentId": "5c98862c-4483-41e0-9de7-c2b3d7e62c91",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30014.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 30015,
+      "name": "地獄の業火カーサス",
+      "contentId": "50193652-b501-4849-ab5d-97f55a648efe",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30015.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 30016,
+      "name": "地獄の業火カーサス",
+      "contentId": "7fe99ecb-1b8d-4376-a0f7-2ef3b9f19def",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30016.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 86
+    }
+  ],
+  "description": "カーサスの弟子たちは自らの上に火柱を召喚することを誓う耳障りな不協和音の合唱によって、この地獄の前兆を世界に呼び寄せる。カーサスが現れたとき、この死を歌う者の歌声は天上から降り注ぐ地獄の業火で火柱を立ち上げる。大地が炎に包まれる中、この葬送歌を聞いて生き残れた者はほとんどいない。",
+  "wikiSkinData": {
+    "id": 30010,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2020-07-16",
+    "set": [
+      "Infernal"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 16
+      },
+      "Citrine": {
+        "id": 14
+      },
+      "Emerald": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 15
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 12
+      }
+    },
+    "splashartist": [
+      "West Studio"
+    ],
+    "lore": "The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land."
+  }
+}

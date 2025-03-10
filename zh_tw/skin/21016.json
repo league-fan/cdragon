@@ -1,0 +1,70 @@
+{
+  "id": 21016,
+  "contentId": "2e35db1e-cbe4-42c0-abfc-cfe445ed7fbe",
+  "isBase": false,
+  "name": "重槍女武神 好運姐",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/Images/missfortune_splash_centered_16.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/Images/missfortune_splash_uncentered_16.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/Images/missfortune_splash_tile_16.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/MissFortuneLoadScreen_16.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/MissFortuneLoadscreen_16_LE.jpg",
+  "skinType": "Ultimate",
+  "rarity": "kUltimate",
+  "isLegacy": false,
+  "splashVideoPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/AnimatedSplash/MissFortune_Skin16_centered.webm",
+  "collectionSplashVideoPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/AnimatedSplash/MissFortune_Skin16_uncentered.webm",
+  "collectionCardHoverVideoPath": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Skin16/AnimatedSplash/MissFortune_Skin16_card.webm",
+  "featuresText": "<ul><li>- 四把超級武器，各自擁有不同的智能戰甲</li><li>- 每套智能戰甲都有全新的視覺特效及音效</li><li>- 你可以在基地不限次數地切換武器形態</li><li>- 四款活動限定頭像 + 個人資料動態背景</li></ul>",
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 65
+    }
+  ],
+  "description": "莎拉‧好運擁有毀滅性的力量，她不僅是活生生的超級武器，同時也是傳奇般的賞金獵人。她在全銀河的盜賊之間打滾，只為了替自己的母親復仇。現在她憑藉著致命的智能戰甲在太空飛行，她將在她的殺手生涯中貫徹暴力正義。",
+  "wikiSkinData": {
+    "id": 21016,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 2775,
+    "release": "2018-03-22",
+    "set": [
+      "Steel Valkyries"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "newvoice": true,
+    "extras": true,
+    "formicon": "Gun Goddess",
+    "forms": [
+      "Scarlet Fair",
+      "Zero Hour",
+      "Royal Arms",
+      "Starswarm"
+    ],
+    "chromas": {
+      "Zero Hour": {
+        "id": 16
+      },
+      "Royal Arms": {
+        "id": 16
+      },
+      "Starswarm": {
+        "id": 16
+      }
+    },
+    "voiceactor": [
+      "Rachel Kimsey",
+      "Joe Zieja"
+    ],
+    "splashartist": [
+      "Pan Chengwei"
+    ],
+    "lore": "Sarah Fortune is a living weapon of mass destruction; a legendary bounty hunter seeking revenge among a galaxy of thieves. Shot and left for dead, she now pilots the deadliest combat exo-suit in known space—and she'll stop at nothing to bring violent justice to her would-be killers."
+  }
+}

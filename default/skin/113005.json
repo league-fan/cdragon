@@ -1,0 +1,71 @@
+{
+  "id": 113005,
+  "contentId": "d0ff440d-221d-4310-b5ed-eac9b218cbe3",
+  "isBase": false,
+  "name": "Poro Rider Sejuani",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/Images/sejuani_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/Images/sejuani_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/Images/sejuani_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Skin05/SejuaniLoadscreen_5.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/113/113005.png",
+  "chromas": [
+    {
+      "id": 113047,
+      "name": "Poro Rider Sejuani",
+      "contentId": "6c2ea093-92ed-42bd-a49d-eaa38d6aa0f5",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/113/113047.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 47
+    }
+  ],
+  "description": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home.",
+  "wikiSkinData": {
+    "id": 113005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-12-15",
+    "set": [
+      "Winter Wonder"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Tenfold Triumph": {
+        "id": 47
+      }
+    },
+    "voiceactor": [
+      "Nicki Burke"
+    ],
+    "splashartist": [
+      "Jean 'Curing' Go"
+    ],
+    "lore": "Stranded as a child in the Poro King's enchanted Winterlands, Sejuani was taken in by the poros and raised as their own. She is now one of their greatest champions, riding a slobbery, snack-obsessed war poro against any who would threaten her adoptive home."
+  }
+}

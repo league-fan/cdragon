@@ -1,0 +1,80 @@
+{
+  "id": 102005,
+  "contentId": "ada23378-1748-4a4a-8415-293222beb318",
+  "isBase": false,
+  "name": "2014世界大賽 希瓦娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Shyvana/Skins/Skin05/Images/shyvana_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Shyvana/Skins/Skin05/Images/shyvana_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Shyvana/Skins/Skin05/Images/shyvana_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Shyvana/Skins/Skin05/ShyvanaLoadScreen_5.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Shyvana/Skins/Skin05/ShyvanaLoadScreen_5_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/102/102005.png",
+  "chromas": [
+    {
+      "id": 102007,
+      "name": "2014世界大賽 希瓦娜",
+      "contentId": "fe328842-fb56-48b7-85bd-bb8c2d4a1a00",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/102/102007.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於世界大賽期間以活動限定戰利品的方式取得。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "慶祝於韓國舉辦的2014世界大賽。",
+  "wikiSkinData": {
+    "id": 102005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2014-10-13",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Golden": {
+        "id": 7,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2018"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Brandon 'Madspartan' Liao"
+    ],
+    "lore": "Celebrating Worlds 2014 in Korea."
+  }
+}

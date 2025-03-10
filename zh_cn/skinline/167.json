@@ -1,0 +1,1847 @@
+{
+  "id": 167,
+  "name": "珍宝",
+  "description": "很久以前的珍宝，闪闪发光，触手可及。",
+  "skins": [
+    {
+      "id": 1006,
+      "name": "安伯斯与提妮",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 1006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-09-06",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Cristina Milizia"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
+    },
+    {
+      "id": 2001,
+      "name": "烈焰猛士 奥拉夫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 2001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-08",
+        "retired": "2017-11-01",
+        "set": [
+          "Legacy"
+        ]
+      }
+    },
+    {
+      "id": 3001,
+      "name": "幽蓝梦魇 加里奥",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 3001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-10",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Josh Petersdorf"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ]
+      }
+    },
+    {
+      "id": 4003,
+      "name": "魔幻卡牌 崔斯特",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 4003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-05-17",
+        "retired": "2012-07-16",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ]
+      }
+    },
+    {
+      "id": 5002,
+      "name": "皇家守卫 赵信",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 5002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-13",
+        "retired": "2017-11-01",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Richard Epcar"
+        ]
+      }
+    },
+    {
+      "id": 7001,
+      "name": "潮流女王 乐芙兰",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 7001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-11-02",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ]
+      }
+    },
+    {
+      "id": 10005,
+      "name": "圣光审判 凯尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 10005,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Limited Distribution",
+        "cost": "Special",
+        "release": "2011-08-22",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Zehra Fazal"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "Those poor souls accused of crimes are brought before the all-seeing entity Kayle, where their deeds are judged with cold dispassion. Few are absolved, and fewer still escape their sentence."
+      }
+    },
+    {
+      "id": 11001,
+      "name": "暗影 易",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 390,
+        "release": "2009-12-17",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Ever since Yi gave up the ideals of Wuju style, he's been a terror to Noxian forces. A blade in the night, he strikes at the foes of Ionia with deadly precision. With every whisper of the leaves they shudder, expecting the next moment to be their last."
+      }
+    },
+    {
+      "id": 11002,
+      "name": "星战 易",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-03",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ]
+      }
+    },
+    {
+      "id": 11003,
+      "name": "天人合一 易",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-09-12",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ]
+      }
+    },
+    {
+      "id": 11004,
+      "name": "侍魂 易",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11004,
+        "formatname": "Samurai Yi",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-07",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Micha Berman"
+        ]
+      }
+    },
+    {
+      "id": 12002,
+      "name": "金牛座 阿利斯塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 12002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 390,
+        "release": "2010-01-13",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Harlan Hogan"
+        ]
+      }
+    },
+    {
+      "id": 14004,
+      "name": "战争机器 赛恩",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 14004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-18",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Scott McNeil"
+        ],
+        "lore": "No memory of the man that Sion was remains. His life is spite, a curse on those who would dare to strike him down. But through it all—each ill-fated century—he remains, his decaying form bound together by his armor's dark magic."
+      }
+    },
+    {
+      "id": 15001,
+      "name": "战场公主 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 15002,
+      "name": "亮丽女神 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2010-06-08",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 15004,
+      "name": "钢铁之心 希维尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-03-21",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Alexa Kahn"
+        ]
+      }
+    },
+    {
+      "id": 17002,
+      "name": "军情五处 提莫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 17002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2009-12-17",
+        "retired": "2014-12-02",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ]
+      }
+    },
+    {
+      "id": 17003,
+      "name": "密林猎手 提莫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 17003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-01-13",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Melissa Hutchison"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ]
+      }
+    },
+    {
+      "id": 21002,
+      "name": "法国皇室 厄运小姐",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 21002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-08",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "splashartist": [
+          "Jennifer Wuestling"
+        ]
+      }
+    },
+    {
+      "id": 22005,
+      "name": "紫晶射手 艾希",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 22005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-15",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Melissa Hutchison"
+        ]
+      }
+    },
+    {
+      "id": 23001,
+      "name": "勇敢的心 泰达米尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 23001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-16",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Brian Sommer"
+        ]
+      }
+    },
+    {
+      "id": 24005,
+      "name": "百夫长 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24005,
+        "formatname": "Jaximus",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-10",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ],
+        "lore": "In a fighters' colosseum, Jax's victories were celebrated by a young kid and dedicated fan, Joe. Jax found that Joe himself was an incredible warrior, far braver than anyone Jax had met. Joe gave Jax the nickname “Jaximus,” a title he heartily accepted. “Here's to you, kid,” declared Jax as he charged into battle, hoisting the lamplight in Joe's honor."
+      }
+    },
+    {
+      "id": 24006,
+      "name": "少林武僧 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-15",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Jax's search for inner peace brought him to many temples and the tutelage of various martial masters. His fiery attitude got him in trouble often, but Jax learned to appreciate the schooling. Tempering his battle prowess with a serene, strategic mind, Jax now faces every fight with a renewed unity of mind, body, and spirit."
+      }
+    },
+    {
+      "id": 24007,
+      "name": "复仇武神 贾克斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 24007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-09-14",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amber": {
+            "id": 10
+          },
+          "Brick": {
+            "id": 11
+          },
+          "Cream": {
+            "id": 9
+          }
+        },
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "No one knows what lies beneath the glowing mask. Human, monster, or something more, it wields a violet lantern-mace and travels from conflict to conflict. Yet it always seems to fight on the side of benevolence. Through myths told by wanderers and night merchants, it has become a figure of legend: a phantasm of the dark, standing against darkness."
+      }
+    },
+    {
+      "id": 28002,
+      "name": "假面女皇 伊芙琳",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 28002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-17",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Andrew Theophilopoulos"
+        ]
+      }
+    },
+    {
+      "id": 30001,
+      "name": "幽灵幻影 卡尔萨斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 30001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 460,
+        "release": "2010-01-13",
+        "retired": "2012-03-19",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true
+      }
+    },
+    {
+      "id": 31001,
+      "name": "梦魇 科加斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 31001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2012-03-12",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true
+      }
+    },
+    {
+      "id": 33002,
+      "name": "铬金铠甲 拉莫斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 33002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-05-17",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ]
+      }
+    },
+    {
+      "id": 33005,
+      "name": "忍龟 拉莫斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 33005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-17",
+        "retired": "2017-11-01",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Duncan Watt"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
+    },
+    {
+      "id": 34003,
+      "name": "重甲猎鹰 艾尼维亚",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-24",
+        "retired": "2014-12-02",
+        "set": [
+          "Legacy"
+        ]
+      }
+    },
+    {
+      "id": 35002,
+      "name": "贵族血统 萨科",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 35002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-09-12",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Adam Harrington"
+        ]
+      }
+    },
+    {
+      "id": 35004,
+      "name": "小丑工作坊 萨科",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 35004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "neweffects": true,
+        "release": "2011-03-29",
+        "retired": "2012-03-19",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Wang Xun"
+        ]
+      }
+    },
+    {
+      "id": 35005,
+      "name": "飞越疯人院 萨科",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 35005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-07",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ]
+      }
+    },
+    {
+      "id": 36002,
+      "name": "健美教练 蒙多",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 36002,
+        "formatname": "Mr. Mundoverse",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-24",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Armen Taylor"
+        ],
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "Mundo didn't mean to become fitness influencer, but Mundo's gains speak for themselves. Mundo recommends never skipping leg day, eating lots of protein, and smashing that like and subscribe button for more Mr. Mundoverse content."
+      }
+    },
+    {
+      "id": 38004,
+      "name": "先驱行者 卡萨丁",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 38004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-13",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Adam Harrington"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ],
+        "lore": "Kassadin swore vengeance on all gods, good and evil, of his world and of others, when his kingdom was destroyed by an errant thought. Forging armor from the remnants of an ancient living machine, he now sees himself growing closer towards the all-powerful beings he wishes to destroy. "
+      }
+    },
+    {
+      "id": 39001,
+      "name": "夜刃 艾瑞莉娅",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 39001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-16",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newquotes": true,
+        "filter": true,
+        "vu": true,
+        "voiceactor": [
+          "Cherami Leigh"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "In exchange for the power to expel Noxus from Ionia, Irelia struck a bargain with an evil spirit—a decision that would prove costly when her humanity began to slip away..."
+      }
+    },
+    {
+      "id": 40001,
+      "name": "暴风女神 迦娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 40001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-13",
+        "retired": "2014-12-02",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Erin Fitzgerald"
+        ]
+      }
+    },
+    {
+      "id": 41002,
+      "name": "老兵 普朗克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 41002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-07-03",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Matthew Mercer"
+        ]
+      }
+    },
+    {
+      "id": 42003,
+      "name": "红色男爵 库奇",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 42003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2010-03-24",
+        "retired": "2012-07-16",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "'Ralph'"
+        ]
+      }
+    },
+    {
+      "id": 43002,
+      "name": "樱花乱舞 卡尔玛",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 43002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-01",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Rashida Clendening"
+        ],
+        "splashartist": [
+          "Jessica 'OwleyCat' Oyhenart",
+          "Jem Flores"
+        ]
+      }
+    },
+    {
+      "id": 51003,
+      "name": "古墓丽影 凯特琳",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 51003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-05-10",
+        "set": [
+          "Legacy"
+        ],
+        "retired": "2012-03-19",
+        "neweffects": true,
+        "voiceactor": [
+          "Kirsten Potter"
+        ],
+        "splashartist": [
+          "Jiunn Kuo",
+          "West Studio"
+        ],
+        "lore": "When she isn't attending galas or teaching seminars, Dr. Caitlyn Kiramman can be found exploring ancient ruins in search of historical artifacts. Armed with her trusty rifle, a wealth of esoteric knowledge, and an accident-prone Ezreal, she braves the most mysterious places in the world to bring long-dead civilizations and their secrets into the light."
+      }
+    },
+    {
+      "id": 53001,
+      "name": "铁锈斑斑 布里茨",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 53001,
+        "availability": "Limited",
+        "looteligible": false,
+        "distribution": "Limited Availability",
+        "cost": 520,
+        "release": "2009-11-20",
+        "retired": "2010-01-17",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Duncan Watt"
+        ]
+      }
+    },
+    {
+      "id": 54003,
+      "name": "石破天惊 墨菲特",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 54003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-21",
+        "retired": "2014-12-02",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true
+      }
+    },
+    {
+      "id": 55001,
+      "name": "赏金猎人 卡特琳娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 55001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2009-11-20",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Suke 'hugehugesword' Su"
+        ]
+      }
+    },
+    {
+      "id": 57002,
+      "name": "图腾古树 茂凯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 57002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-02-16",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "vu": true,
+        "voiceactor": [
+          "Jay Preston"
+        ],
+        "splashartist": [
+          "Mike Azevedo"
+        ]
+      }
+    },
+    {
+      "id": 59003,
+      "name": "龙骑统帅 嘉文四世",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 59003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-26",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ]
+      }
+    },
+    {
+      "id": 61003,
+      "name": "灵骨工匠 奥莉安娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 61003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-29",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Heath Pennington"
+        ]
+      }
+    },
+    {
+      "id": 62002,
+      "name": "斗战胜佛 孙悟空",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-07-26",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Zhou Juexian"
+        ],
+        "lore": "Once a mischievous scout, Wukong led his sworn brethren on a treacherous journey to the western hinterlands, where he attained martial enlightenment. Now promoted to the rank of general, he commands a host of fearsome warriors, destined to cleanse the realm of monsters and demons alike."
+      }
+    },
+    {
+      "id": 68001,
+      "name": "热带丛林 兰博",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 68001,
+        "formatname": "Rumble in the Jungle",
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-04-26",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Ari Rubin"
+        ],
+        "splashartist": [
+          "Feihong Chen"
+        ]
+      }
+    },
+    {
+      "id": 76002,
+      "name": "丛林猎豹 奈德丽",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 76002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-24",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Roxana Ortega"
+        ],
+        "splashartist": [
+          "Jon 'DrPh8' Buran",
+          "Jessica 'OwleyCat' Oyhenart"
+        ],
+        "lore": "Nidalee roams the tall grasses and bubbling tar pits of her home, a prehistoric savannah teeming with natural magic. She protects her leap of leopards by taking the appearance of their hunters, deceiving and disarming human threats with her wild skill."
+      }
+    },
+    {
+      "id": 78005,
+      "name": "军神战甲 波比",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 78005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-03-15",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 12
+          },
+          "Emerald": {
+            "id": 10
+          },
+          "Obsidian": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 8
+          },
+          "Ruby": {
+            "id": 9
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "vu": true,
+        "voiceactor": [
+          "Kate Higgins"
+        ],
+        "splashartist": [
+          "Shuohan Zhou"
+        ]
+      }
+    },
+    {
+      "id": 79002,
+      "name": "乡村农夫 古拉加斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 79002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-01",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "J.S. Gilbert"
+        ]
+      }
+    },
+    {
+      "id": 81004,
+      "name": "失落的世界 伊泽瑞尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 81004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-10-13",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Daniel Amerman"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Ezreal's almost suicidal obsession with braving tombs, ruins, forbidden temples, and abandoned cities has netted him a tidy handful of priceless relics. Most of those relics are sold off to pay exploration-related medical bills, but one of these days…"
+      }
+    },
+    {
+      "id": 84006,
+      "name": "银色之牙 阿卡丽",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 84006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-29",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Jennifer Wuestling"
+        ],
+        "lore": "Former second-in-command of an honorable clan of assassins, Akali has broken from their ranks to find her own path. She plies her trade in the darkest corners of the world's largest metropolis, awaiting the day when she can establish a clan of her own."
+      }
+    },
+    {
+      "id": 85002,
+      "name": "银色闪电 凯南",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-08",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
+    },
+    {
+      "id": 85003,
+      "name": "空手道 凯南",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-08",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
+    },
+    {
+      "id": 86001,
+      "name": "战神阿瑞斯 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "retired": "2017-11-01",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ]
+      }
+    },
+    {
+      "id": 86002,
+      "name": "黄金骑士 盖伦",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 86002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-04-27",
+        "retired": "2012-03-19",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Jamieson Price"
+        ]
+      }
+    },
+    {
+      "id": 89002,
+      "name": "神圣守卫 蕾欧娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-07-13",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Wendee Lee"
+        ]
+      }
+    },
+    {
+      "id": 89003,
+      "name": "钢铁烈阳 蕾欧娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 89003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-10",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Wendee Lee"
+        ],
+        "splashartist": [
+          "Michael 'IronStylus' Maurino"
+        ],
+        "lore": "She who bears the Iron Solari into battle bears the weight of history—as iron gives way to steel, and steel to eternity."
+      }
+    },
+    {
+      "id": 90002,
+      "name": "暗影王子 玛尔扎哈",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 90002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-06-01",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Vic Mignogna"
+        ]
+      }
+    },
+    {
+      "id": 91001,
+      "name": "刺客信条 泰隆",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 91001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2011-08-24",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Travis Willingham"
+        ]
+      }
+    },
+    {
+      "id": 96003,
+      "name": "帝王斑蝶 克格莫",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 96003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-11-16",
+        "set": [
+          "Legacy"
+        ],
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Patrick Seitz"
+        ]
+      }
+    },
+    {
+      "id": 98002,
+      "name": "炎爆 慎",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 98002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-03-24",
+        "retired": "2011-11-28",
+        "set": [
+          "Legacy"
+        ],
+        "vu": true,
+        "voiceactor": [
+          "Keith Silverstein"
+        ]
+      }
+    },
+    {
+      "id": 98005,
+      "name": "战国大名 慎",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 98005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-04-17",
+        "set": [
+          "Legacy"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 9
+          },
+          "Catseye": {
+            "id": 7
+          },
+          "Emerald": {
+            "id": 13
+          },
+          "Obsidian": {
+            "id": 8
+          },
+          "Pearl": {
+            "id": 10
+          },
+          "Ruby": {
+            "id": 11
+          },
+          "Sapphire": {
+            "id": 12
+          },
+          "Tanzanite": {
+            "id": 13
+          }
+        },
+        "voiceactor": [
+          "Keith Silverstein"
+        ],
+        "splashartist": [
+          "Mist XG"
+        ]
+      }
+    },
+    {
+      "id": 99004,
+      "name": "星际迷航 拉克丝",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 99004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-11-29",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Carrie Keranen"
+        ]
+      }
+    },
+    {
+      "id": 101001,
+      "name": "符文生物 泽拉斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 101001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-10-05",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Michael McConnohie"
+        ]
+      }
+    },
+    {
+      "id": 102001,
+      "name": "钢之逆鳞 希瓦娜",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 102001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-01",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
+    },
+    {
+      "id": 102003,
+      "name": "黯黑魔龙 希瓦娜",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 102003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-05-28",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "lore": "With her humanity burned away by the Darkflame, Shvyana wreaks havoc upon the battlefield. It is said that any enemy touched by her flame will have their very soul incinerated by its dark magics."
+      }
+    },
+    {
+      "id": 103002,
+      "name": "暗影妖狐 阿狸",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 103002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-12-14",
+        "set": [
+          "Legacy"
+        ],
+        "chromas": {
+          "Ahri-versary": {
+            "id": 53
+          }
+        },
+        "voiceactor": [
+          "Laura Post"
+        ],
+        "splashartist": [
+          "Roanna Peroz",
+          "Kudos Productions"
+        ],
+        "lore": "Deep in the snowy forests bordering the kingdom, villagers tell tales of a mysterious icefox who, under the light of the midnight moon, becomes human. What they don't know is that this fox, Ahri, was once a princess. Cursed to live a life as wild as her heart, she runs through the forests during the day, hoping to find someone to break her eternal curse."
+      }
+    },
+    {
+      "id": 104002,
+      "name": "杀出重围 格雷福斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 104002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-10-19",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Kyle Hebert"
+        ]
+      }
+    },
+    {
+      "id": 105002,
+      "name": "苔原猎手 菲兹",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 105002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-11-15",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ]
+      }
+    },
+    {
+      "id": 107002,
+      "name": "暗黑武士 雷恩加尔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 107002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-05-19",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "transforming": true,
+        "voiceactor": [
+          "Jason Simpson"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ]
+      }
+    },
+    {
+      "id": 110001,
+      "name": "夜魔水晶 韦鲁斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 110001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-05-08",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "Gavin Hammon"
+        ],
+        "lore": "Wielding radiant mineral bows, three excavators dove into a cave of crystalline monsters. But only the grimly determined Varus emerged. While shattering the horrors that lurked in dark depths, they lost all grasp of time, sense, and self. Varus became an amalgam of crystal, monster, and man—now fracturing the world he once sought to make safe."
+      }
+    },
+    {
+      "id": 111002,
+      "name": "地底迷城 诺提勒斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 111002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-14",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "splashartist": [
+          "Kienan 'Knockwurst' Lafferty"
+        ]
+      }
+    },
+    {
+      "id": 115002,
+      "name": "少校 吉格斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 115002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-02-01",
+        "retired": "2015-08-29",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Alessandro Juliani"
+        ]
+      }
+    },
+    {
+      "id": 119002,
+      "name": "绞肉机刽子手 德莱文",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 119002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-25",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Erik Braa"
+        ],
+        "splashartist": [
+          "Charles 'Yideth' Liu"
+        ]
+      }
+    },
+    {
+      "id": 126003,
+      "name": "天启骑士 杰斯",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 126003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2015-05-03",
+        "earlysale": "2015-12",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "voiceactor": [
+          "Trevor Devall"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ],
+        "lore": "Opposed to balance in all measures, Jayce has gone down a path he cannot return from. He has sworn vengeance upon Chosen Master Yi and all he stands for."
+      }
+    },
+    {
+      "id": 154001,
+      "name": "邪恶魔人 扎克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 154001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-03-29",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Pan Chengwei"
+        ]
+      }
+    },
+    {
+      "id": 236001,
+      "name": "职业杀手 卢锡安",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 236001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2013-08-21",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "TJ Storm"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ]
+      }
+    },
+    {
+      "id": 267001,
+      "name": "锦鲤 娜美",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 267001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-12-07",
+        "set": [
+          "Legacy"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Smoke": {
+            "id": 5
+          },
+          "Sunbeam": {
+            "id": 4
+          },
+          "Twilight": {
+            "id": 6
+          }
+        },
+        "voiceactor": [
+          "Cassandra Lee Morris"
+        ],
+        "splashartist": [
+          "Michelle Hoefener"
+        ]
+      }
+    }
+  ]
+}

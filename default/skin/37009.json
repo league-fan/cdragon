@@ -1,0 +1,155 @@
+{
+  "id": 37009,
+  "contentId": "ab8e76eb-cd22-401d-a9f7-8f960aafae50",
+  "isBase": false,
+  "name": "Odyssey Sona",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin09/Images/sona_splash_centered_9.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin09/Images/sona_splash_uncentered_9.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin09/Images/sona_splash_tile_9.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin09/SonaLoadscreen_9.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin09/SonaLoadScreen_9_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37009.png",
+  "chromas": [
+    {
+      "id": 37010,
+      "name": "Odyssey Sona",
+      "contentId": "25f56655-075b-493b-83c4-66c5dbfcd763",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37010.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 37011,
+      "name": "Odyssey Sona",
+      "contentId": "5925f936-aea1-4c55-afcf-455a096d9a2d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37011.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive during 2018."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 37012,
+      "name": "Odyssey Sona",
+      "contentId": "4c0e8b06-1f9a-42fb-bb09-97ac9e1faf0d",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37012.png",
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 37013,
+      "name": "Odyssey Sona",
+      "contentId": "8aa7170f-a9b3-49a4-a4a5-42cb741f7439",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37013.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 37014,
+      "name": "Odyssey Sona",
+      "contentId": "3b0b1af1-b277-4804-99c6-c0442c47be03",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37014.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 37015,
+      "name": "Odyssey Sona",
+      "contentId": "dc4aca5d-77cd-4069-860d-8f3f561ced8e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/37/37015.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 73
+    }
+  ],
+  "description": "Once member of the Templar Order, Sona was born with the ability to commune directly with ora, and the creatures from which it is harvested. More recently, she has sought out Yasuo, troubled captain of the Morning Star, and joined his ragtag crew—hoping to avert a disaster that could destroy the entire galaxy.",
+  "wikiSkinData": {
+    "id": 37009,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2018-09-12",
+    "set": [
+      "Odyssey"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Aquamarine": {
+        "id": 12
+      },
+      "Obsidian": {
+        "id": 10
+      },
+      "Pearl": {
+        "id": 13
+      },
+      "Rose Quartz": {
+        "id": 14
+      },
+      "Ruby": {
+        "id": 11,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Tanzanite": {
+        "id": 15
+      }
+    },
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Kelly Aleshire"
+    ],
+    "lore": "Once member of the Templar Order, Sona was born with the ability to commune directly with ora, and the creatures from which it is harvested. More recently, she has sought out Yasuo, troubled captain of the Morning Star, and joined his ragtag crew—hoping to avert a disaster that could destroy the entire galaxy."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 37007,
+  "contentId": "9c86f9a2-4a17-43d1-a4c4-241c8b675330",
+  "isBase": false,
+  "name": "甜心宝贝 娑娜",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin07/Images/sona_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin07/Images/sona_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin07/Images/sona_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Skin07/SonaLoadScreen_7.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Valentine",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/8.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/8.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 64
+    }
+  ],
+  "description": "娑娜的高雅气质以及她对于音律的精通让她的心变得不可侵犯，任何胆敢冒犯她的人都会被她的声波切成两半。这就是爱的二元性，有的时候你可以赢得她的心，有的时候你会被切成两半。",
+  "wikiSkinData": {
+    "id": 37007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2016-02-11",
+    "set": [
+      "Heartbreakers"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Erin Fitzgerald"
+    ],
+    "splashartist": [
+      "Yan Li"
+    ],
+    "lore": "Sona's quiet elegance and mastery of enchanted music might make the heart go all aflutter, but don't be fooled—she can still cut a man in half at thirty paces with her harp's soundwaves. That's the duality of love: sometimes you win, sometimes you get cut in half by soundwaves."
+  }
+}

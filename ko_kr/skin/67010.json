@@ -1,0 +1,92 @@
+{
+  "id": 67010,
+  "contentId": "acfd587a-a666-41e5-8152-88d37a4ac99a",
+  "isBase": false,
+  "name": "영혼약탈자 베인",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/skin10/Images/vayne_splash_centered_10.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/skin10/Images/vayne_splash_uncentered_10.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/skin10/Images/vayne_splash_tile_10.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/skin10/VayneLoadscreen_10.jpg",
+  "skinType": "",
+  "rarity": "kMythic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67010.png",
+  "chromas": [
+    {
+      "id": 67053,
+      "name": "영혼약탈자 베인",
+      "contentId": "9c393600-64bc-402b-8b02-f57f3211d9c3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67053.png",
+      "colors": [
+        "#DCCE74",
+        "#17151A"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 4
+        }
+      ]
+    },
+    {
+      "id": 67054,
+      "name": "영혼약탈자 베인",
+      "contentId": "fa989700-10ee-4dbb-a958-0e1ce7be8b9c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67054.png",
+      "colors": [
+        "#FF1515",
+        "#E8CD6B"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 183
+    }
+  ],
+  "description": "더러워진 모든 것을 사냥했던 베인은 자신이 파괴하고자 했던 존재가 되고 말았습니다. 뒤틀린 마음 때문에 인식이 왜곡된 베인은 이제 모든 생명체를 적으로 간주합니다. 닥치는 대로 영혼을 거두는 악행을 저지르지만 베인의 양심에는 티끌만큼의 거리낌도 없습니다.",
+  "wikiSkinData": {
+    "id": 67010,
+    "availability": "Rare",
+    "looteligible": true,
+    "cost": "Special",
+    "distribution": "125 Mythic Essence",
+    "release": "2016-07-28",
+    "set": [
+      "Soulstealer"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "First Decennial": {
+        "id": 53
+      },
+      "Tenfold Triumph": {
+        "id": 54
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Once a hunter of all things tainted, Vayne has become the very thing she sought to destroy. Her twisted mind warps her perception, causing her to see an enemy in every living thing. She takes souls with impunity, with no stain of these vile deeds upon her conscience."
+  }
+}

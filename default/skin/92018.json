@@ -1,0 +1,80 @@
+{
+  "id": 92018,
+  "contentId": "688e6b14-0919-43a5-a281-f4020af9c790",
+  "isBase": false,
+  "name": "Pulsefire Riven",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin18/Images/riven_splash_centered_18.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin18/Images/riven_splash_uncentered_18.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin18/Images/riven_splash_tile_18.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin18/RivenLoadscreen_18.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92018.png",
+  "chromas": [
+    {
+      "id": 92025,
+      "name": "Pulsefire Riven",
+      "contentId": "60e3609b-ba09-4a73-993d-5f32a9a9974b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92025.png",
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a Loot exclusive in the 2020 Pulsefire event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 36
+    }
+  ],
+  "description": "A worshipper of temporal purity, Riven knows there are many others who would rather see time manipulated in their favor. These heretics give her blade purpose—she can only find true solace in eliminating all who would disturb the natural order.",
+  "wikiSkinData": {
+    "id": 92018,
+    "availability": "Available",
+    "looteligible": true,
+    "set": [
+      "Pulsefire"
+    ],
+    "cost": 1350,
+    "release": "2018-05-17",
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "filter": true,
+    "chromas": {
+      "Chrono": {
+        "id": 25,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Pulsefire 2020"
+      }
+    },
+    "voiceactor": [
+      "Cristina Valenzuela"
+    ],
+    "splashartist": [
+      "Bo 'chenbowow' Chen"
+    ],
+    "lore": "A worshipper of temporal purity, Riven knows there are many others who would rather see time manipulated in their favor. These heretics give her blade purpose—she can only find true solace in eliminating all who would disturb the natural order."
+  }
+}

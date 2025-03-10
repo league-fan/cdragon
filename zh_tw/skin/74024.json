@@ -1,0 +1,192 @@
+{
+  "id": 74024,
+  "contentId": "cb0458e9-f5ca-4df0-a75f-e984792e0372",
+  "isBase": false,
+  "name": "漢默叮格",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin24/Images/heimerdinger_splash_centered_24.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin24/Images/heimerdinger_splash_uncentered_24.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin24/Images/heimerdinger_splash_tile_24.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Skin24/HeimerdingerLoadscreen_24.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74024.png",
+  "chromas": [
+    {
+      "id": 74025,
+      "name": "漢默叮格 ",
+      "contentId": "335528bf-1ed2-4f43-9dc6-1103c283a85f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74025.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "於 2022 年以組合包限定商品的形式發行。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 74026,
+      "name": "漢默叮格 ",
+      "contentId": "20d75257-80a7-453d-9a3a-4a2b59a08844",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74026.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 74027,
+      "name": "漢默叮格 ",
+      "contentId": "392d3495-0997-4e56-9b25-9ee8a5bf6e9f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74027.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 74028,
+      "name": "漢默叮格 ",
+      "contentId": "4b976d17-85ef-4363-9e62-943dce28c4ba",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74028.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 74029,
+      "name": "漢默叮格 ",
+      "contentId": "9ef3bf5c-0c45-45c8-82eb-d587c8584619",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74029.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 74030,
+      "name": "漢默叮格 ",
+      "contentId": "396e535e-1d7b-46a2-9464-58423d8a81fd",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74030.png",
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 74031,
+      "name": "漢默叮格 ",
+      "contentId": "69741984-7bc9-45f5-8e83-904ab0c1de61",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74031.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 74032,
+      "name": "漢默叮格 ",
+      "contentId": "d6a1e3ea-d548-4caf-9508-cfc798e24ee4",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/74/74032.png",
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ],
+      "descriptions": [],
+      "rarities": []
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 143
+    }
+  ],
+  "description": "現在他就是最忙碌的小蜜蜂了吧？",
+  "wikiSkinData": {
+    "id": 74024,
+    "formatname": "Heimerstinger",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2022-03-03",
+    "set": [
+      "Bees!"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "transforming": true,
+    "chromas": {
+      "Emerald": {
+        "id": 28
+      },
+      "Obsidian": {
+        "id": 31
+      },
+      "Pearl": {
+        "id": 30
+      },
+      "Rainbow": {
+        "id": 32
+      },
+      "Rose Quartz": {
+        "id": 29
+      },
+      "Ruby": {
+        "id": 25,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 26
+      },
+      "Tanzanite": {
+        "id": 27
+      }
+    },
+    "voiceactor": [
+      "Dennis Collins Johnson"
+    ],
+    "splashartist": [
+      "Huyy Nguyen",
+      "West Studio"
+    ],
+    "lore": "Now isn't he just the buzziest little worker bee?"
+  }
+}

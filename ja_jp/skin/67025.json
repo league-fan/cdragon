@@ -1,0 +1,174 @@
+{
+  "id": 67025,
+  "contentId": "beb6c7a6-afe4-44fe-ae3e-e9c6323d9324",
+  "isBase": false,
+  "name": "光の番人ヴェイン",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin25/Images/vayne_splash_centered_25.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin25/Images/vayne_splash_uncentered_25.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin25/Images/vayne_splash_tile_25.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin25/VayneLoadscreen_25.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin25/VayneLoadscreen_25_LE.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67025.png",
+  "chromas": [
+    {
+      "id": 67026,
+      "name": "光の番人ヴェイン",
+      "contentId": "c1d0267f-f618-441b-a01e-f5f95b59a31f",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67026.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021年にセット限定でリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 67027,
+      "name": "光の番人ヴェイン",
+      "contentId": "370d035d-cacc-4eec-a09a-a02ead86405c",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67027.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 67028,
+      "name": "光の番人ヴェイン",
+      "contentId": "e1f06a94-c84d-47fd-ab4f-37cfbea859e3",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67028.png",
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 67029,
+      "name": "光の番人ヴェイン",
+      "contentId": "1f0c586c-d82b-4dd5-ae0f-a40a8ed1df65",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67029.png",
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 67030,
+      "name": "光の番人ヴェイン",
+      "contentId": "9f5f1288-7afe-45ab-9039-502270db6932",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67030.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 67031,
+      "name": "光の番人ヴェイン",
+      "contentId": "aa1b6145-914f-42f5-8576-f92e8170df2a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67031.png",
+      "colors": [
+        "#080808",
+        "#8E0A38"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2021年の光の番人イベントで戦利品限定アイテムとしてリリース。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 147
+    }
+  ],
+  "description": "ヴェインは怪物ハンターとしてのスキルを絶えず磨き続けてきた。その彼女が「光の番人」に加わった大きな理由は、自らの武器を強化し、「黒き霧」との戦いから学ぶためだった。そのついでに、ルーンテラを邪悪な存在から守れるのだから悪い話ではない。その目的を果たすためなら、グレイブスのような愚か者たちに付き合わされるとしても、彼女は我慢するだろう。この戦いには、それだけの価値がある。",
+  "wikiSkinData": {
+    "id": 67025,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2021-07-08",
+    "set": [
+      "Sentinels of Light"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 29
+      },
+      "Emerald": {
+        "id": 27
+      },
+      "Resolute": {
+        "id": 31,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Sentinels of Light 2021"
+      },
+      "Rose Quartz": {
+        "id": 28
+      },
+      "Ruby": {
+        "id": 26,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 30
+      }
+    },
+    "voiceactor": [
+      "Alexa Kahn"
+    ],
+    "splashartist": [
+      "Jennifer Wuestling"
+    ],
+    "lore": "Ever striving to become a better monster hunter, Vayne joins the Sentinels primarily to advance her own arsenal and learn from their battle with the Black Mist. It doesn't hurt that she is also defending Runeterra from evil, of course. If she must endure the friendship of a fool like Graves to do so, she will. The cause is worth it."
+  }
+}

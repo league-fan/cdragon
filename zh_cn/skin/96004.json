@@ -1,0 +1,53 @@
+{
+  "id": 96004,
+  "contentId": "e23ff0ac-0a4f-4e16-972e-81acfde7d128",
+  "isBase": false,
+  "name": "圣诞驯鹿 克格莫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin04/Images/kogmaw_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin04/Images/kogmaw_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin04/Images/kogmaw_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin04/KogmawLoadScreen_4.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Skin04/KogMawLoadScreen_4_LE.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "据传说克格莫的发光鼻子和鹿角全都是偷来的，原来的主人是某个被他吞吃的可爱生物。无论这个猜想是真是假，克格莫都是现在最著名的驯鹿。",
+  "wikiSkinData": {
+    "id": 96004,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-12-14",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "neweffects": true,
+    "newquotes": true,
+    "voiceactor": [
+      "Patrick Seitz"
+    ],
+    "lore": "It is rumored that Kog'Maw stole his glowing nose and deer antlers from a particularly adorable creature he devoured. Whether or not the theory is true, Kog'Maw is now the most famous reindeer of all."
+  }
+}

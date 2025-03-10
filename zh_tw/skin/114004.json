@@ -1,0 +1,84 @@
+{
+  "id": 114004,
+  "contentId": "260f89b7-0f4c-43a4-a4f3-0b5dc1bdeb10",
+  "isBase": false,
+  "name": "菁英計畫：菲歐拉",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin04/Images/fiora_splash_centered_4.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin04/Images/fiora_splash_uncentered_4.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin04/Images/fiora_splash_tile_4.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin04/FioraLoadScreen_4.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin04/FioraLoadScreen_4_LE.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114004.png",
+  "chromas": [
+    {
+      "id": 114040,
+      "name": "菁英計畫｜清算炫彩 菲歐拉",
+      "contentId": "ba277f9b-0780-4b10-93e1-b5076a5a5665",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114040.png",
+      "colors": [
+        "#FF5500",
+        "#162B30"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "來自 2019 菁英計畫活動的限定戰利品。"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 18
+    }
+  ],
+  "description": "改造後提高了敏捷性的菲歐拉，用她的零脈衝劍和艾希為首的 G/NETIC 反抗軍一同並肩作戰。這把充滿能量的長劍能讓她以毫無瑕疵的精準度及最大的力量來攻擊並擊退敵人，其劍鋒上包裹的三維空間原子物質最適合用來進行一對一的單挑。",
+  "wikiSkinData": {
+    "id": 114004,
+    "formatname": "PROJECT: Fiora",
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2015-09-07",
+    "earlysale": "2016-02",
+    "set": [
+      "PROJECT"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "chromas": {
+      "Reckoning": {
+        "id": 40,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "PROJECT 2019"
+      }
+    },
+    "voiceactor": [
+      "Karen Strassman"
+    ],
+    "splashartist": [
+      "Alex 'alexplank' Flores"
+    ],
+    "lore": "Augmented for speed, Fiora uses her zero-pulse sword to fight alongside Ashe and the other members of G/NETIC. The full-length energy blade allows for flawless attack precision and maximum repel strength, while the spatially controlled atomic tip coating is most suited for single-target combat."
+  }
+}

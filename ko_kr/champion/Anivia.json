@@ -1,0 +1,466 @@
+{
+  "id": 34,
+  "name": "애니비아",
+  "alias": "Anivia",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/34.png",
+  "roles": [
+    "mage"
+  ],
+  "skins": [
+    {
+      "id": 34000,
+      "name": "애니비아",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 34000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2009-07-09",
+        "lore": "Anivia is a benevolent winged spirit who endures endless cycles of life, death, and rebirth to protect the Freljord. A demigod born of unforgiving ice and bitter winds, she wields those elemental powers to thwart any who dare disturb her homeland. Anivia guides and protects the tribes of the harsh north, who revere her as a symbol of hope, and a portent of great change. She fights with every ounce of her being, knowing that through her sacrifice, her memory will endure, and she will be reborn into a new tomorrow."
+      }
+    },
+    {
+      "id": 34001,
+      "name": "국가대표 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34001,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-12",
+        "set": [
+          "Winter Sports"
+        ],
+        "lore": "Despite her festive colors, Anivia is an incredibly poor sport. She has been known to wall off the exits to locker rooms and fire icicles at her teammates when faced with a loss, behavior that would would be disciplined... if she hadn't frozen the judges and referees."
+      }
+    },
+    {
+      "id": 34002,
+      "name": "독수리 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-05-02",
+        "set": [
+          "Wonders of the World"
+        ]
+      }
+    },
+    {
+      "id": 34003,
+      "name": "녹서스 사냥꾼 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-24",
+        "retired": "2014-12-02",
+        "set": [
+          "Legacy"
+        ]
+      }
+    },
+    {
+      "id": 34004,
+      "name": "마법공학 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-03-01",
+        "retired": "2017-11-01",
+        "set": [
+          "Hextech"
+        ],
+        "lore": "Early hextech lifeforms could barely be considered sentient... until the development of Anivia, an artificial avian capable of limited speech. Her birth was the foundation of the modern Hextech movement, and the multitude of creatures that came after her."
+      }
+    },
+    {
+      "id": 34005,
+      "name": "어둠서리 애니비아",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1820,
+        "release": "2013-04-29",
+        "set": [
+          "Blackfrost"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newvoice": true,
+        "splashartist": [
+          "Sperasoft Studio"
+        ]
+      }
+    },
+    {
+      "id": 34006,
+      "name": "선사시대 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2015-06-14",
+        "earlysale": "2016-01",
+        "set": [
+          "Prehistoric Hunters"
+        ],
+        "neweffects": true,
+        "splashartist": [
+          "Michal Ivan",
+          "Sixmorevodka Studio"
+        ],
+        "lore": "A gargantuan beast capable of creating vast ice fields, Anivia is a nightmarish opponent for even the most seasoned hunters. She is drawn to the sound of hunts, dive bombing the area before retreating with a hunter or two to snack on."
+      }
+    },
+    {
+      "id": 34007,
+      "name": "삼바 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2017-02-23",
+        "earlysale": "2017-07",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "For one week a year, Anivia takes a break from being a prophetic ice spirit of the Freljord, and takes off for warmer climes… somewhere people will appreciate her samba."
+      }
+    },
+    {
+      "id": 34008,
+      "name": "종이로 접은 애니비아",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-02-21",
+        "set": [
+          "Papercraft"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Catseye": {
+            "id": 9
+          },
+          "Emerald": {
+            "id": 10,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 11
+          },
+          "Pearl": {
+            "id": 12
+          },
+          "Rainbow": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 14
+          },
+          "Ruby": {
+            "id": 15,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Tanzanite": {
+            "id": 16
+          }
+        },
+        "splashartist": [
+          "Maki Planas Mata"
+        ],
+        "lore": "At the tallest paper mountain in the whole paper world, Nunu and Willump found a great paper phoenix. “You cannot go to the top of the mountain,” said the phoenix, “or your mother will be very angry.” So Nunu and Willump thought and thought, but they couldn't find any way to get past…"
+      }
+    },
+    {
+      "id": 34017,
+      "name": "우주의 비상 애니비아",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34017,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-11-24",
+        "set": [
+          "Cosmic"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Citrine": {
+            "id": 19
+          },
+          "Emerald": {
+            "id": 20
+          },
+          "Obsidian": {
+            "id": 25
+          },
+          "Rainbow": {
+            "id": 26
+          },
+          "Rose Quartz": {
+            "id": 24
+          },
+          "Ruby": {
+            "id": 18,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 22
+          },
+          "Tanzanite": {
+            "id": 23
+          },
+          "Turquoise": {
+            "id": 21
+          }
+        },
+        "splashartist": [
+          "Terence 'Terrylefruit' Cantal",
+          "West Studio"
+        ],
+        "lore": "A regal and truly ancient being, whose swirling energies give birth to entire galaxies. She has begun to wall off her creations, fearing the return of an ancient, golden foe that her kind has long sought to forget…"
+      }
+    },
+    {
+      "id": 34027,
+      "name": "신성한 불사조 애니비아",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34027,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-09-02",
+        "set": [
+          "Phoenixmancers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 33
+          },
+          "Aquamarine": {
+            "id": 31
+          },
+          "Citrine": {
+            "id": 32
+          },
+          "Emerald": {
+            "id": 29
+          },
+          "Golden Tiger": {
+            "id": 36,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Lunar Revel 2022"
+          },
+          "Obsidian": {
+            "id": 34
+          },
+          "Pearl": {
+            "id": 35
+          },
+          "Rose Quartz": {
+            "id": 30
+          },
+          "Ruby": {
+            "id": 28,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "splashartist": [
+          "David Villegas",
+          "West Studio"
+        ],
+        "lore": "The legendary fenghuang watches over the world, awaiting the rise of selfless champions. Anivia grants power to those who fight for others with bravery and kindness in their hearts."
+      }
+    },
+    {
+      "id": 34037,
+      "name": "마녀 박쥐 애니비아",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34037,
+        "formatname": "Bewitching Batnivia",
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2022-10-20",
+        "set": [
+          "Bewitching"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 43
+          },
+          "Catseye": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 42,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Pearl": {
+            "id": 45
+          },
+          "Rose Quartz": {
+            "id": 41
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 40
+          },
+          "Turquoise": {
+            "id": 44
+          }
+        },
+        "splashartist": [
+          "Huyy Nugyen",
+          "West Studio"
+        ],
+        "lore": "Enchanted by LeBlanc herself, Batnivia flies along with a coven of witches, shrouding the night sky in darkness and chaos. Though she was once an ordinary bat, Leblanc sensed the spirit of the season in her; now she helps to spread terror to the children below and glee to the partygoers who follow her flight."
+      }
+    },
+    {
+      "id": 34046,
+      "name": "승리의 애니비아",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 34046,
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Reward for earning split points in Season 2023 - Split 1.",
+        "release": "2023-07-17",
+        "set": [
+          "Victorious"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Bronze": {
+            "id": 47,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Challenger": {
+            "id": 54,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Diamond": {
+            "id": 51,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Gold": {
+            "id": 49,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Grandmaster": {
+            "id": 53,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Master": {
+            "id": 52,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Platinum": {
+            "id": 50,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          },
+          "Silver": {
+            "id": 48,
+            "availability": "Limited",
+            "source": "Reward",
+            "distribution": "Season 2023 - Split 1"
+          }
+        },
+        "splashartist": [
+          "Augusto Quirino",
+          "West Studio"
+        ],
+        "lore": "Victorious Anivia was awarded to players who earned the requisite ranked split points in Season 2023 Split 1. Rising from the ashes covered in crystalline armor, Anivia's opulent feathers reflect her heightened nature. She is perseverance personified, an undying wish granted to those that need her most. "
+      }
+    }
+  ]
+}

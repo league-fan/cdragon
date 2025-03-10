@@ -1,0 +1,56 @@
+{
+  "id": 19005,
+  "contentId": "199af8b3-9c5a-4734-b49c-9c442637d940",
+  "isBase": false,
+  "name": "嗜血狂暴 沃里克",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Warwick/Skins/Skin05/Images/warwick_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Warwick/Skins/Skin05/Images/warwick_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Warwick/Skins/Skin05/Images/warwick_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Warwick/Skins/Skin05/WarwickLoadscreen_5.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Treasures",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/33.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/33.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 1,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/1_large.png",
+  "skinLines": [
+    {
+      "id": 111
+    }
+  ],
+  "description": "作为辛吉德的又一名恶毒的心腹，沃里克从来不会远离他邪恶的主人。他在被一只有放射性的狼咬过后获得了狼之力，并且被辛吉德的邪恶研究给进一步地改造了！我们勇敢的英雄们能够阻止他吗？！",
+  "wikiSkinData": {
+    "id": 19005,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2010-11-16",
+    "retired": "2012-03-19",
+    "set": [
+      "Silver Age"
+    ],
+    "neweffects": true,
+    "vu": true,
+    "voiceactor": [
+      "Dave B. Mitchell"
+    ],
+    "splashartist": [
+      "Mike Azevedo"
+    ],
+    "lore": "Another of Singed's vile henchmen, Warwick is never far from his villainous master. Given wolf powers after being bitten by a radioactive wolf, Warwick has been further augmented by Singed's evil research! Will our brave heroes ever be able to stop him?!"
+  }
+}

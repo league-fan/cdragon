@@ -1,0 +1,57 @@
+{
+  "id": 8005,
+  "contentId": "831b8497-03a6-4d94-aee0-f90af5ba6e50",
+  "isBase": false,
+  "name": "血石领主 弗拉基米尔",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Vladimir/Skins/Skin05/Images/vladimir_splash_centered_5.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Vladimir/Skins/Skin05/Images/vladimir_splash_uncentered_5.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Vladimir/Skins/Skin05/Images/vladimir_splash_tile_5.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Vladimir/Skins/Skin05/VladimirLoadScreen_5.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Legend",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/31.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/31.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 5,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/5_large.png",
+  "skinLines": [
+    {
+      "id": 126
+    }
+  ],
+  "description": "弗拉基米尔是一个血石教团的前任领导者，参加过一个献祭了他的人性的仪式——连同一些受害者的血一起——来将这个曾经时髦的贵族变成黑夜里的恐怖存在。为了满足他对鲜血的渴望，他阔步于城市街道的迷宫，搜寻着不幸的猎物。",
+  "wikiSkinData": {
+    "id": 8005,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2011-11-21",
+    "set": [
+      "Bloodstone"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "voiceactor": [
+      "Gavin Hammon"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "Former leader of a Bloodstone cult, Vladimir took part in a ritual that sacrificed his humanity—along with the blood of several victims—to transform the once foppish noble into a terror of the night. To satiate his sanguine cravings, he stalks the urban labyrinth in search of hapless prey."
+  }
+}

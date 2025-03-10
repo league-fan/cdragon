@@ -1,0 +1,181 @@
+{
+  "id": 234037,
+  "contentId": "c5c191aa-b35a-484a-b10e-8cff21b983fb",
+  "isBase": false,
+  "name": "2024 월드 챔피언십 비에고",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Skin37/Images/viego_splash_centered_37.SKINS_Viego_Skin37.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Skin37/Images/viego_splash_uncentered_37.SKINS_Viego_Skin37.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Skin37/Images/viego_splash_tile_37.SKINS_Viego_Skin37.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Skin37/ViegoLoadScreen_37.SKINS_Viego_Skin37.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Skin37/ViegoLoadScreen_37_LE.SKINS_Viego_Skin37.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/234/234037.png",
+  "chromas": [
+    {
+      "id": 234038,
+      "name": "2024 월드 챔피언십 비에고",
+      "contentId": "2759c018-b7c1-4d0f-9d4a-8a5e4e43fe33",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/234/234038.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2024년 출시된 세트 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 234039,
+      "name": "2024 월드 챔피언십 비에고",
+      "contentId": "67bf14dc-bbd0-4a7e-86f6-abed6fae68e7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/234/234039.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2024 Unlocked 세트 상품에 포함되어 한정 출시된 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "TENCENT",
+          "rarity": 4
+        },
+        {
+          "region": "riot",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 234040,
+      "name": "2024 월드 챔피언십 비에고",
+      "contentId": "1adbc20b-c36c-421a-be52-384c5609f687",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/234/234040.png",
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 234041,
+      "name": "2024 월드 챔피언십 비에고",
+      "contentId": "a51e1ab8-4eda-4db5-bf49-fbb60d228864",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/234/234041.png",
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 234042,
+      "name": "2024 월드 챔피언십 비에고",
+      "contentId": "2ff50334-1bea-414d-a0b3-d87cb8ce29e0",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/234/234042.png",
+      "colors": [
+        "#B2C6D7",
+        "#B9916B"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "2024 월드 챔피언십 이벤트 기간 동안 출시된 마법공학 제작 한정 크로마"
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 2
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 8
+    }
+  ],
+  "description": "런던에서 열린 2024 월드 챔피언십을 기념하는 스킨",
+  "wikiSkinData": {
+    "id": 234037,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2024-09-25",
+    "set": [
+      "World Championship"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "chromas": {
+      "Citrine": {
+        "id": 40
+      },
+      "Obsidian": {
+        "id": 41
+      },
+      "Ruby": {
+        "id": 38,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Triumphant": {
+        "id": 42,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Worlds 2024"
+      },
+      "Unlocked": {
+        "id": 39,
+        "availability": "Limited",
+        "source": "Bundle",
+        "distribution": "Worlds Unlocked"
+      }
+    },
+    "voiceactor": [
+      "Sean Teale"
+    ],
+    "splashartist": [
+      "Francis Tneh",
+      "West Studio"
+    ],
+    "lore": "Celebrating Worlds 2024 in London."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 4007,
+  "contentId": "dcd381e4-2fe2-413f-95c9-6fd106e335db",
+  "isBase": false,
+  "name": "地底世界 崔斯特",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/skin07/Images/twistedfate_splash_centered_7.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/skin07/Images/twistedfate_splash_uncentered_7.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/skin07/Images/twistedfate_splash_tile_7.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/skin07/TwistedFateLoadScreen_7.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Superior Warrior Limited",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/46.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/46.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 88
+    }
+  ],
+  "description": "对那些畏惧与死亡那不可避免的相遇的人来说，崔斯特提供了另一条路。如果赢了他的赌局，就会有奢华的生活等待着。如果输了，崔斯特就会欣然将又一张卡牌添加到他那日益增长的、由凄惨灵魂组成的牌组中。",
+  "wikiSkinData": {
+    "id": 4007,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-10-26",
+    "set": [
+      "Trick-or-Treat"
+    ],
+    "neweffects": true,
+    "voiceactor": [
+      "Owen Thomas"
+    ],
+    "splashartist": [
+      "Kienan 'Knockwurst' Lafferty"
+    ],
+    "lore": "For those dreading their inevitable meeting with Death, Twisted Fate offers another path. If they win his game of chance, a life of luxury awaits them. If they lose, he gladly adds yet another card to his ever-growing deck of doomed souls."
+  }
+}

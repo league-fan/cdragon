@@ -1,0 +1,179 @@
+{
+  "id": 238001,
+  "contentId": "0d45ca44-f198-492b-a1ac-7bb23476ace5",
+  "isBase": false,
+  "name": "雷刃ゼド",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin01/Images/zed_splash_centered_1.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin01/Images/zed_splash_uncentered_1.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin01/Images/zed_splash_tile_1.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Skin01/ZedLoadScreen_1.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238001.png",
+  "chromas": [
+    {
+      "id": 238004,
+      "name": "雷刃ゼド",
+      "contentId": "51d751b2-fa22-4c13-afcd-bef5cf0a9488",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238004.png",
+      "colors": [
+        "#B768C7",
+        "#591A61"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 238005,
+      "name": "雷刃ゼド",
+      "contentId": "5f586a7d-2328-42c9-934a-4bd0dc75c2a7",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238005.png",
+      "colors": [
+        "#E3C425",
+        "#552121"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "VN",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 238006,
+      "name": "雷刃ゼド",
+      "contentId": "e8fff446-39ac-4a21-a52e-f1251cc8ed6e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238006.png",
+      "colors": [
+        "#5BBCF0",
+        "#151A61"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 238007,
+      "name": "雷刃ゼド",
+      "contentId": "6ece252e-15d2-4853-b25d-ff527fe5ef4e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238007.png",
+      "colors": [
+        "#B9172C",
+        "#320808"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 238008,
+      "name": "雷刃ゼド",
+      "contentId": "223a8ced-2250-4079-b7a9-e20a24d96358",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238008.png",
+      "colors": [
+        "#5C52E5",
+        "#132151"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 238009,
+      "name": "雷刃ゼド",
+      "contentId": "0186d49c-93b7-41b0-aae9-cb45bb8fb611",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238009.png",
+      "colors": [
+        "#2FD482",
+        "#0C1E17"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "VN",
+          "rarity": 1
+        },
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 155
+    }
+  ],
+  "description": "ゼドは雷刃の一団の精鋭工作員であり、雷の如き迅速さで戦闘に飛び込んでいく。以前の相棒であるシェンは、ゼドの命を危険にさらしたことを今でも悔いているが、ゼドは彼が早く最前線に戻ってくるように促している。だが、二人が再び相棒となるかどうかにかかわらず、“嵐”の怒りは激しさを増している。ゼドは必要とあらば、その怒りを一人で担うつもりだ。",
+  "wikiSkinData": {
+    "id": 238001,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2012-11-13",
+    "set": [
+      "Shockblade"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "chromas": {
+      "Amethyst": {
+        "id": 8
+      },
+      "Aquamarine": {
+        "id": 6
+      },
+      "Catseye": {
+        "id": 5
+      },
+      "Emerald": {
+        "id": 9
+      },
+      "Rose Quartz": {
+        "id": 4
+      },
+      "Ruby": {
+        "id": 7
+      }
+    },
+    "voiceactor": [
+      "Donny Lucas"
+    ],
+    "splashartist": [
+      "Michal Ivan",
+      "Puppetworks Animation Studio"
+    ],
+    "lore": "An elite operative of the Shockblade order, Zed dives into battle with lightning-fast lethality. Though his former partner Shen hasn't forgiven himself for nearly getting Zed killed, Zed still urges him to return to the front lines; and yet the Storm rages on, whether or not the duo are reunited. Zed will bring its fury to bear alone if he must."
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": 62,
+  "name": "齐天大圣",
+  "alias": "MonkeyKing",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/62.png",
+  "roles": [
+    "fighter",
+    "tank"
+  ],
+  "skins": [
+    {
+      "id": 62000,
+      "name": "齐天大圣",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 62000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 880,
+        "release": "2011-07-26",
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial art known as Wuju. Armed with an enchanted staff, Wukong seeks to prevent Ionia from falling to ruin."
+      }
+    },
+    {
+      "id": 62001,
+      "name": "三昧真火 孙悟空",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-07-26",
+        "set": [
+          "Infernal"
+        ],
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "lore": "A greater Infernal whose power is drawn from the molten rock bubbling beneath the earth, Wukong's rage causes mountains to split, lava to rain from the sky, and rivers to become blackened glass. Still, he will never back down from any challenge—and this, perhaps, will be the key to his defeat."
+      }
+    },
+    {
+      "id": 62002,
+      "name": "斗战胜佛 孙悟空",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-07-26",
+        "set": [
+          "Legacy"
+        ],
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Zhou Juexian"
+        ],
+        "lore": "Once a mischievous scout, Wukong led his sworn brethren on a treacherous journey to the western hinterlands, where he attained martial enlightenment. Now promoted to the rank of general, he commands a host of fearsome warriors, destined to cleanse the realm of monsters and demons alike."
+      }
+    },
+    {
+      "id": 62003,
+      "name": "定海神珍 孙悟空",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-01-10",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "chromas": {
+          "Meteorite": {
+            "id": 25
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "lore": "Imbued with the power of the legendary jade dragon, Wukong has honed his abilities to a razor sharp point.Though still headstrong and brash, his newfound power is undeniable—a worrying sign to his master, as the jade dragon carries a powerful curse..."
+      }
+    },
+    {
+      "id": 62004,
+      "name": "地狱行者 孙悟空",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62004,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-10-28",
+        "set": [
+          "Death Sworn"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "Once a pupil of the martial arts, Wukong trained under his masters' strict traditions and doctrines. In him, Death saw limitless potential, and chose to claim the disregarded student for the underworld instead. Now, Wukong fights alongside the undying hordes, no longer bound by the rules of the living."
+      }
+    },
+    {
+      "id": 62005,
+      "name": "美猴王 孙悟空",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2016-01-27",
+        "earlysale": "2016-07",
+        "set": [
+          "Lunar Revel"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Sixmorevodka Studio"
+        ],
+        "lore": "An ascendant being of nearly limitless power, Radiant Wukong has undertaken a great journey to test his skills against history's greatest warriors. However, overcoming his quick temper and impulsive nature might be his greatest challenge yet."
+      }
+    },
+    {
+      "id": 62006,
+      "name": "破空枪骑 孙悟空",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2018-04-04",
+        "set": [
+          "Lancer"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "newquotes": true,
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Bo 'chenbowow' Chen"
+        ],
+        "lore": "Another of the ancient, mechanized Lancer units, Wukong arises from his dusty slumber in times of extreme danger, protecting the outland city-states from the most dire threats. Once these foes are eliminated he returns to the earth, an enigma older than recorded history."
+      }
+    },
+    {
+      "id": 62007,
+      "name": "战斗学院 孙悟空",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-03-18",
+        "set": [
+          "Battle Academia"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 10
+          },
+          "Emerald": {
+            "id": 12
+          },
+          "Meteorite": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 13
+          },
+          "Rose Quartz": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 8,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "A consummate troublemaker and prankster, Wukong has failed out of every high school in the region, eventually washing out into Labrys as an 'enrollment of last resort'. A naturally gifted fighter in the Battle Club, he still hasn't learned discipline, and only listens to Caitlyn because she can beat him up."
+      }
+    },
+    {
+      "id": 62016,
+      "name": "永恒之森 孙悟空",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 62016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2023-06-28",
+        "set": [
+          "Elderwood"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 23
+          },
+          "Aquamarine": {
+            "id": 21
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 19,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Pearl": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 22
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Turquoise": {
+            "id": 20
+          }
+        },
+        "voiceactor": [
+          "Spike Spencer"
+        ],
+        "splashartist": [
+          "Ina Wong",
+          "West Studio"
+        ],
+        "lore": "A protector with no one left to protect, Wukong torments any creatures who dare traverse within the Elderwood's depths. After the Coven destroyed his village in search of his enchanted staff's limitless power, he learned that trust is a fool's luxury. The gleam from his weapon's crystals serve as a constant reminder of the ancient trickster's failure."
+      }
+    }
+  ]
+}

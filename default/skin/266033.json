@@ -1,0 +1,170 @@
+{
+  "id": 266033,
+  "contentId": "cd2711c3-5403-4f45-809c-354786d28a2f",
+  "isBase": false,
+  "name": "Primordian Aatrox",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Aatrox/Skins/Skin33/Images/aatrox_splash_centered_33.SKINS_Aatrox_Skin33.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Aatrox/Skins/Skin33/Images/aatrox_splash_uncentered_33.SKINS_Aatrox_Skin33.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Aatrox/Skins/Skin33/Images/aatrox_splash_tile_33.SKINS_Aatrox_Skin33.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Aatrox/Skins/Skin33/AatroxLoadScreen_33.SKINS_Aatrox_Skin33.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Aatrox/Skins/Skin33/AatroxLoadScreen_33_LE.SKINS_Aatrox_Skin33.jpg",
+  "skinType": "",
+  "rarity": "kLegendary",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266033.png",
+  "chromas": [
+    {
+      "id": 266034,
+      "name": "Primordian Aatrox",
+      "contentId": "04d46cbd-375b-406b-9038-c5c3455f2a9e",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266034.png",
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a bundle exclusive in 2024."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 266035,
+      "name": "Primordian Aatrox",
+      "contentId": "9924107d-9219-4fd8-8b47-fee501cdf993",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266035.png",
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 266036,
+      "name": "Primordian Aatrox",
+      "contentId": "0745a936-f477-408b-a743-870f9d6e96d8",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266036.png",
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 266037,
+      "name": "Primordian Aatrox",
+      "contentId": "e998b289-207d-4a46-93b9-c1e1202dd308",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266037.png",
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 266038,
+      "name": "Primordian Aatrox",
+      "contentId": "869e3766-3772-41af-a750-487ca069f892",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266038.png",
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ],
+      "descriptions": [],
+      "rarities": []
+    },
+    {
+      "id": 266039,
+      "name": "Primordian Aatrox",
+      "contentId": "e66ef0a7-5c39-450d-b4c6-343e2f1eef8a",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/266/266039.png",
+      "colors": [
+        "#3BE98B",
+        "#BABA9B"
+      ],
+      "descriptions": [
+        {
+          "region": "riot",
+          "description": "This chroma was released as a Loot exclusive in the 2024 Anima Squad event."
+        }
+      ],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 1
+        }
+      ]
+    }
+  ],
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 206
+    }
+  ],
+  "description": "When the Primordians first attacked, humanity was unprepared—until Anima Squad formed to become its last defense. But they are safe no longer, for the Primordians evolved in turn. Their apex being is called Aatrox, whose understanding of humanity only furthers his hatred. His flesh has no limits, his sword no mercy. He is the harbinger of Anima's end.",
+  "wikiSkinData": {
+    "id": 266033,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1820,
+    "release": "2024-07-31",
+    "set": [
+      "Primordian"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newvoice": true,
+    "chromas": {
+      "Abyssal": {
+        "id": 39,
+        "availability": "Loot",
+        "source": "Loot",
+        "distribution": "Anima Squad 2024"
+      },
+      "Catseye": {
+        "id": 35
+      },
+      "Emerald": {
+        "id": 38
+      },
+      "Ruby": {
+        "id": 34,
+        "availability": "Bundle",
+        "source": "Bundle",
+        "distribution": "Bundle Exclusive"
+      },
+      "Sapphire": {
+        "id": 36
+      },
+      "Tanzanite": {
+        "id": 37
+      }
+    },
+    "voiceactor": [
+      "Ramon Tikaram"
+    ],
+    "splashartist": [
+      "Exia Xiaotong",
+      "Pandart Studio"
+    ],
+    "lore": "When the Primordians first attacked, humanity was unprepared—until Anima Squad formed to become its last defense. But they are safe no longer, for the Primordians evolved in turn. Their apex being is called Aatrox, whose understanding of humanity only furthers his hatred. His flesh has no limits, his sword no mercy. He is the harbinger of Anima's end."
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 67003,
+  "contentId": "38ca5c6c-1803-49cd-9a59-d5f2e81f4634",
+  "isBase": false,
+  "name": "屠龙勇士 薇恩",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin03/Images/vayne_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin03/Images/vayne_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin03/Images/vayne_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Skin03/VayneLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67003.png",
+  "chromas": [
+    {
+      "id": 67007,
+      "name": "屠龙勇士 薇恩 毒龙之息",
+      "contentId": "2768add0-fb9a-4045-909c-54a0a0b1ec6b",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67007.png",
+      "colors": [
+        "#677117",
+        "#26360D"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 67008,
+      "name": "屠龙勇士 薇恩 炎龙之息",
+      "contentId": "52580110-cea8-4484-bab2-e1f2bbf73374",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67008.png",
+      "colors": [
+        "#B21B27",
+        "#59182A"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 67009,
+      "name": "屠龙勇士 薇恩 冰龙之息",
+      "contentId": "260517c7-5341-453d-b35b-1df0348adfc6",
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67009.png",
+      "colors": [
+        "#BCE5E6",
+        "#484961"
+      ],
+      "descriptions": [],
+      "rarities": [
+        {
+          "region": "riot",
+          "rarity": 0
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "Epic",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 4,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+  "skinLines": [
+    {
+      "id": 13
+    }
+  ],
+  "description": "很多人都响应了屠龙勇士的召唤聚集他们的力量，薇恩是他们中最具传奇色彩的应征者。什么是巨龙？不就是世间最危险的野兽么？",
+  "wikiSkinData": {
+    "id": 67003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 975,
+    "release": "2011-08-24",
+    "set": [
+      "Dragon World"
+    ],
+    "neweffects": true,
+    "chromas": {
+      "Green": {
+        "id": 7
+      },
+      "Red": {
+        "id": 8
+      },
+      "Silver": {
+        "id": 9
+      }
+    },
+    "voiceactor": [
+      "Nika Futterman"
+    ],
+    "lore": "Many heeded the call of the dragonslayers as they mustered their forces, from common cutpurses to fabled monster hunters. Vayne was one such legendary recruit—for what is a dragon, if not the deadliest beast of all?"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 17001,
+  "contentId": "fb9a07fe-f451-4069-9bce-a7468e901129",
+  "isBase": false,
+  "name": "圣诞开心鬼 提莫",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin01/Images/teemo_splash_centered_1.ASU_Teemo.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin01/Images/teemo_splash_uncentered_1.ASU_Teemo.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin01/Images/teemo_splash_tile_1.ASU_Teemo.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin01/TeemoLoadScreen_1.ASU_Teemo.jpg",
+  "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Skin01/TeemoLoadScreen_1_LE.ASU_Teemo.jpg",
+  "skinType": "",
+  "rarity": "kNoRarity",
+  "isLegacy": true,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": [
+    {
+      "name": "Snowdown",
+      "emblemPath": {
+        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+      },
+      "positions": {}
+    }
+  ],
+  "regionRarityId": 7,
+  "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+  "skinLines": [
+    {
+      "id": 48
+    }
+  ],
+  "description": "这只小精灵对于任何事物都抱有坚定的乐观和快乐，但有些人曾相信在提莫欢快的外表下隐藏着一颗杀手之心。这些持否定态度的人全都在非常正常的情况下消失了。",
+  "wikiSkinData": {
+    "id": 17001,
+    "availability": "Legacy",
+    "looteligible": true,
+    "cost": 750,
+    "release": "2009-12-17",
+    "set": [
+      "Snowdown Showdown"
+    ],
+    "voiceactor": [
+      "Melissa Hutchison"
+    ],
+    "splashartist": [
+      "Augusto Quirino",
+      "West Studio"
+    ],
+    "lore": "An elf renowned for his unflinching happiness in all things, some people once believed that under Teemo's merry exterior lay the heart of a killer. Those naysayers soon vanished under completely normal circumstances."
+  }
+}

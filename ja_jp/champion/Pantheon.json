@@ -1,0 +1,500 @@
+{
+  "id": 80,
+  "name": "パンテオン",
+  "alias": "Pantheon",
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/80.png",
+  "roles": [
+    "fighter",
+    "assassin"
+  ],
+  "skins": [
+    {
+      "id": 80000,
+      "name": "パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": true,
+      "wikiSkinData": {
+        "id": 80000,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 790,
+        "release": "2010-02-02",
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect’s weapons on the field of battle."
+      }
+    },
+    {
+      "id": 80001,
+      "name": "ミュルミドン パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-02-02",
+        "set": [
+          "Wonders of the World"
+        ],
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "“They say the Myrmidons were shaped by the gods—that Zeus himself quickened life into magma. But then, the Myrmidons marched. They marched against us. And in the ash of their skin, the fire of their merciless eyes, I saw all the wars that humanity had wrought. That they... were us.”"
+      }
+    },
+    {
+      "id": 80002,
+      "name": "一槍戦兵パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80002,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 520,
+        "release": "2010-08-08",
+        "retired": "2015-08-29",
+        "set": [
+          "Road Warrior"
+        ],
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Choe HeonHwa"
+        ],
+        "lore": "You can't run from your past. Not when it's riding you down from the back of a doombuggy, scrap-spear raised. Hunting for the dregs of the Vandal gang across the wastes, it's said they're the only ones who know his name, and what happened that night… when he became ruthless."
+      }
+    },
+    {
+      "id": 80003,
+      "name": "ペルセウス パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80003,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2010-11-02",
+        "retired": "2014-12-02",
+        "set": [
+          "Fables"
+        ],
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Jeremy 'Jermu' Anninos"
+        ],
+        "lore": "Favored by the gods, Perseus gathered five sacred artifacts, and even tamed the wild pegasus, all in his quest to rescue fair Andromeda—only to turn the relics against those same gods when they unleashed the Gorgons upon humanity."
+      }
+    },
+    {
+      "id": 80004,
+      "name": "フルメタル パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-08-01",
+        "set": [
+          "Heavy Metal"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Blake Byun"
+        ],
+        "lore": "A former Full Metal Robot Fighting League champion (2x reign, 14 title defenses), Pantheon was forced to retire in disgrace after a scandal involving Targon Fabrications. Reemerging from retirement to face the chosen champion, Jayce, Pantheon may be damaged, but has found that revenge adequately charges his weapon systems."
+      }
+    },
+    {
+      "id": 80005,
+      "name": "剣の戦士パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80005,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2012-05-30",
+        "retired": "2017-11-01",
+        "set": [
+          "Wonders of the World"
+        ],
+        "neweffects": true,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Sangsoo Jeong"
+        ],
+        "lore": "Born of a wolf, and bearing the wolf's standard into battle, this Dacian glaive warrior fights in the cold of the Carpathian Mountains—knowing that the blood of his enemies will keep him warm."
+      }
+    },
+    {
+      "id": 80006,
+      "name": "龍殺しパンテオン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2014-05-14",
+        "set": [
+          "Dragon World"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "newquotes": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 10
+          },
+          "Catseye": {
+            "id": 13
+          },
+          "Emerald": {
+            "id": 14
+          },
+          "Obsidian": {
+            "id": 12
+          },
+          "Pearl": {
+            "id": 9
+          },
+          "Ruby": {
+            "id": 15
+          },
+          "Sandstone": {
+            "id": 11
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "When dragon fire consumed the world, heroes rose from the embers and cast down the beasts of legend. These warriors passed into history, then myth… until Pantheon alone remained, the last of the ancient dragonslayers, swearing upon the skies eternal revenge."
+      }
+    },
+    {
+      "id": 80007,
+      "name": "ゾンビスレイヤー パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80007,
+        "availability": "Legacy",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-11-05",
+        "set": [
+          "Zombies VS Slayers"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "A former mechanic at the same auto body shop Jinx once worked at, Pantheon dreamed of switching careers… until a mutagenic virus turned everyone else into zombies. Slicing monsters in half with a chainsaw-spear is way more fun than replacing windshield wipers, anyway."
+      }
+    },
+    {
+      "id": 80008,
+      "name": "パン屋パンテオン",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80008,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-09-07",
+        "earlysale": "2017-03",
+        "set": [
+          "Culinary Masters"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Jojo So"
+        ],
+        "lore": "He's the armored dough-puncher, the Targonian Aspect of tasty pastries. He always wanted to be a baker, and now he'll throw down in the ultimate cooking showdown. Put your hands together for Pantheon!"
+      }
+    },
+    {
+      "id": 80016,
+      "name": "パルスファイア パンテオン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-05-14",
+        "set": [
+          "Pulsefire"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 21
+          },
+          "Aquamarine": {
+            "id": 19
+          },
+          "Chrono": {
+            "id": 22,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Pulsefire 2020"
+          },
+          "Citrine": {
+            "id": 18
+          },
+          "Emerald": {
+            "id": 24
+          },
+          "Obsidian": {
+            "id": 23
+          },
+          "Pearl": {
+            "id": 20
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Zhong Yang",
+          "Kudos Productions"
+        ],
+        "lore": "The sole survivor from a timeline devoured by Praetorians, Pantheon refused to succumb when the marauders ran him through and left him for dead. He now dons the Pulsefire suit to hunt down those who would dare risk creating the anomalies that unleash the robotic hordes upon time and space."
+      }
+    },
+    {
+      "id": 80025,
+      "name": "滅びのパンテオン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80025,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2021-07-08",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Citrine": {
+            "id": 28
+          },
+          "Cursed": {
+            "id": 35,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Sentinels of Light 2021"
+          },
+          "Emerald": {
+            "id": 31
+          },
+          "Pearl": {
+            "id": 34
+          },
+          "Rose Quartz": {
+            "id": 32
+          },
+          "Ruby": {
+            "id": 27,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 30
+          },
+          "Tanzanite": {
+            "id": 33
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "The Mist did not just subsume Atreus, but also resurrected the long-dead spirit of Pantheon: the old Aspect of War himself. With Atreus' stubborn defiance silenced, Pantheon can resume control and revel in battle once again. It doesn't matter to him whose banner he fights under. If that banner is the Ruined King's? So be it."
+      }
+    },
+    {
+      "id": 80026,
+      "name": "プレステージ超越者パンテオン",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80026,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2021-07-08",
+        "set": [
+          "Ruined"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "variant": 25,
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Yan Kyohara",
+          "West Studio"
+        ],
+        "lore": "Pantheon was defeated once, but with all of Runeterra on the line now Atreus must defeat it himself. Seizing back control from the Aspect of War, Atreus harnesses the celestial power of Targon itself—briefly becoming not just a vessel or an Aspect, but something new. Something immensely powerful and entirely his own."
+      }
+    },
+    {
+      "id": 80036,
+      "name": "灰の征服者パンテオン",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80036,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "125 Mythic Essence",
+        "release": "2022-06-23",
+        "set": [
+          "Ashen Knights"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Emberwoken": {
+            "id": 37,
+            "availability": "Loot",
+            "source": "Loot",
+            "distribution": "Mythic Shop"
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "A brave knight of old, who legends say slew a god in battle so that all humankind might see that they were their own masters. Standing watch over the ashes of his former lands, Pantheon himself is now the only foe left to conquer, and he awaits a worthy challenger to face one final time."
+      }
+    },
+    {
+      "id": 80038,
+      "name": "狼に選ばれし者パンテオン",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 80038,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-11-06",
+        "set": [
+          "Chosen of the Wolf"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 46
+          },
+          "Emerald": {
+            "id": 40
+          },
+          "Obsidian": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 39,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          },
+          "Tanzanite": {
+            "id": 41
+          },
+          "Turquoise": {
+            "id": 45
+          }
+        },
+        "voiceactor": [
+          "George Georgiou"
+        ],
+        "splashartist": [
+          "Francis Tneh",
+          "West Studio"
+        ],
+        "lore": "Why was the spearman chosen, dear Wolf? Did his spirit catch your eye, or was it his steadfastness? Regardless, he has done what was asked of him. He was a worthy first test for the mighty Noxian general. What fate awaits him now? He will prove his worth once more, and join the hunt."
+      }
+    }
+  ]
+}

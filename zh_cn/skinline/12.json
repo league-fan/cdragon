@@ -1,0 +1,867 @@
+{
+  "id": 12,
+  "name": "腥红之月",
+  "description": "一个远古教派，寻求着不可抗拒的力量，总在血月之夜现身实行亵渎、秘传的仪式——用恶灵融合他们的肉身，并变成一个拥有恒增黑暗的存在。",
+  "skins": [
+    {
+      "id": 4010,
+      "name": "腥红之月 崔斯特",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 4010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Owen Thomas"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "The Blood Moon cult's true leader is shrouded in whispers and hearsay. It is he who first passed the trial of the masks, and he who unraveled the secrets of surrendering one's flesh to the demon spirits. Whether he is still human, none can say—but he is ever present, and always watching."
+      }
+    },
+    {
+      "id": 9037,
+      "name": "腥红之月 费德提克",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 9037,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-18",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 41
+          },
+          "Citrine": {
+            "id": 39
+          },
+          "Emerald": {
+            "id": 40,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 45
+          },
+          "Pearl": {
+            "id": 44
+          },
+          "Rose Quartz": {
+            "id": 43
+          },
+          "Ruby": {
+            "id": 38,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 42
+          }
+        },
+        "voiceactor": [
+          "Kellen Goff"
+        ],
+        "splashartist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ],
+        "lore": "A demon of fear and chaos, Fiddlesticks was summoned directly into the mortal realm by Aatrox himself. It craves violence and the taste of blood, driven purely by instinct and compulsion as it tears through Ionia. Other demons follow in its wake, scavenging what remains of its carnage."
+      }
+    },
+    {
+      "id": 11024,
+      "name": "腥红之月 易",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 11024,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 29
+          },
+          "Aquamarine": {
+            "id": 28
+          },
+          "Catseye": {
+            "id": 26
+          },
+          "Emerald": {
+            "id": 27
+          },
+          "Obsidian": {
+            "id": 32
+          },
+          "Pearl": {
+            "id": 30
+          },
+          "Rose Quartz": {
+            "id": 31
+          },
+          "Ruby": {
+            "id": 25,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Micha Berman"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "The cultists of the Blood Moon have begun a dread metamorphosis, as the boundary between the demon realm and the human world is rapidly erased. Yi is among those first blessed by this new darkness, the demon within his blade arm driving him to ever greater spectacles of violence."
+      }
+    },
+    {
+      "id": 15016,
+      "name": "腥红之月 希维尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 15016,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-10",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 21
+          },
+          "Emerald": {
+            "id": 18,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Rose Quartz": {
+            "id": 19
+          },
+          "Ruby": {
+            "id": 23,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 20
+          },
+          "Turquoise": {
+            "id": 22
+          }
+        },
+        "voiceactor": [
+          "Alexa Kahn"
+        ],
+        "splashartist": [
+          "Horace 'Hozure' Hsu"
+        ],
+        "lore": "A newly anointed priestess of the Blood Moon cult, Sivir wields a weapon that is both a killing tool and a key to the hellish mirror world where all demons are born. Slowly but surely, it has merged her twinned selves, and now it is no longer clear where the human ends and the monster begins."
+      }
+    },
+    {
+      "id": 23010,
+      "name": "腥红之月 泰达米尔",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 23010,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "chromas": {
+          "Amethyst": {
+            "id": 12
+          },
+          "Citrine": {
+            "id": 14
+          },
+          "Emerald": {
+            "id": 13,
+            "availability": "Partner",
+            "source": "Partner",
+            "distribution": "Partner Program"
+          },
+          "Obsidian": {
+            "id": 15
+          },
+          "Pearl": {
+            "id": 16
+          },
+          "Ruby": {
+            "id": 17,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 11
+          }
+        },
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Brian Sommer"
+        ],
+        "lore": "The demon Tryndamere has fully assumed control over his twinned human body, using its inhuman strength to slash gaping wounds in the veil between the human and demonic realms. Shrugging off wounds considered fatal even to other demons, his is an unstoppable, unquenchable rage that would see all things consumed by the Blood Moon."
+      }
+    },
+    {
+      "id": 26005,
+      "name": "腥红之月 基兰",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 26005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-05-10",
+        "earlysale": "2015-12",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "splashartist": [
+          "Christian Fell"
+        ],
+        "lore": "Manipulating the lunar cycle by fueling his temporal magic with human blood, Zilean is the face of the Blood Moon cult, and a hellish warlock of unimaginable power. His mind exists across the flow of time, communing with legions of demons from the past, present, and future."
+      }
+    },
+    {
+      "id": 28005,
+      "name": "腥红之月 伊芙琳",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 28005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2018-05-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Mara Junot"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "A seductive demon summoned on the night of the Blood Moon, Evelynn moves between isolated villages, wooing the residents until they fall deeply in love with her. One by one these poor souls will surely perish, their hearts torn from their still-living bodies."
+      }
+    },
+    {
+      "id": 55021,
+      "name": "腥红之月 卡特琳娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 55021,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2020-02-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Citrine": {
+            "id": 27
+          },
+          "Emerald": {
+            "id": 25
+          },
+          "Obsidian": {
+            "id": 24
+          },
+          "Pearl": {
+            "id": 28
+          },
+          "Rose Quartz": {
+            "id": 26
+          },
+          "Ruby": {
+            "id": 22,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 23
+          }
+        },
+        "voiceactor": [
+          "Tara Platt"
+        ],
+        "splashartist": [
+          "Xiao Guang Sun",
+          "West Studio"
+        ],
+        "lore": "An honored priestess of the Blood Moon cult, merged with the flesh of her demon as all priestesses are fated to be. Yet the descent of the Blood Moon has changed the nature of demons and humankind, and Katarina has begun her ascent into a newer, darker form."
+      }
+    },
+    {
+      "id": 60003,
+      "name": "腥红之月 伊莉丝",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 60003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-01-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Sydney Rainin-Smith"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "A revered priestess of the Blood Moon cult, Elise has so wholly intertwined her body with her demon spirit that they are now a single entity. She has traveled beyond all known civilization, existing in the apocryphal darkness hanging beyond the precipice of the world."
+      }
+    },
+    {
+      "id": 84005,
+      "name": "腥红之月 鬼武姬 阿卡丽",
+      "rarity": "kLegendary",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 84005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2011-06-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "newrecall": true,
+        "newanimations": true,
+        "neweffects": true,
+        "voiceactor": [
+          "Krizia Bajos"
+        ],
+        "splashartist": [
+          "Zeen Chin"
+        ],
+        "lore": "Priestesses of the Blood Moon walk their own path, traveling far from the cult to pursue the whispers of their demons. A meditative figure living deep in the snow-dusted wood, Akali was the first woman to embrace her inner darkness, and speak directly with the Blood Moon itself."
+      }
+    },
+    {
+      "id": 85006,
+      "name": "腥红之月 凯南",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 85006,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-02-25",
+        "earlysale": "2016-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Philece Sampler"
+        ],
+        "splashartist": [
+          "Sperasoft Studio"
+        ],
+        "lore": "A kingslaying demon summoned on the night of the Blood Moon, Kennen's purpose is to depose those in power and eliminate every member of their line. He is ruthless in this task, tearing across heavily armed fortress cities in the blink of an eye."
+      }
+    },
+    {
+      "id": 91005,
+      "name": "腥红之月 泰隆",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 91005,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Travis Willingham"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "An anarchic demon summoned on the night of the Blood Moon, Talon was once a human assassin who surrendered his flesh during one of the cult's possession rituals. He now kills indiscriminately, relishing the terror in his victim's dying eyes."
+      }
+    },
+    {
+      "id": 98004,
+      "name": "腥红之月 鬼武者 慎",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 98004,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 750,
+        "release": "2011-06-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "voiceactor": [
+          "Keith Silverstein"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "The most indomitable disciple, in mind and body, Shen's loyalty to the Blood Moon cult can never be shaken. He serves as the personal bodyguard of the group's most important figures, executing interlopers with a cool dispassion, suggesting part of his humanity has already been consumed."
+      }
+    },
+    {
+      "id": 131011,
+      "name": "腥红之月 黛安娜",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 131011,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-07",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Nicole Oliver"
+        ],
+        "splashartist": [
+          "Pan Chengwei"
+        ],
+        "lore": "A child chosen by the Blood Moon itself, Diana's mind has been opened to the lost ways of the cult—unknown to its leaders, and even the slavering demons beyond. Hers is a truth no one can know, and a fated metamorphosis beyond men and the gods."
+      }
+    },
+    {
+      "id": 143055,
+      "name": "腥红之月 婕拉",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 143055,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-17",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Catseye": {
+            "id": 58
+          },
+          "Emerald": {
+            "id": 57
+          },
+          "Pearl": {
+            "id": 63
+          },
+          "Rose Quartz": {
+            "id": 60
+          },
+          "Ruby": {
+            "id": 56,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 59
+          },
+          "Tanzanite": {
+            "id": 61
+          },
+          "Turquoise": {
+            "id": 62
+          }
+        },
+        "voiceactor": [
+          "Karen Strassman"
+        ],
+        "splashartist": [
+          "Marie Magny",
+          "West Studio"
+        ],
+        "lore": "While many Blood Moon priestesses follow the whispers of their demons, Zyra's demon howls with sadistic glee—and Zyra responds in kind. United in their thirst for corruption, Zyra and her demon seek out her fellow priestesses in order to unite them all as one. Only then can they spread their destruction to the world beyond Ionia's borders."
+      }
+    },
+    {
+      "id": 157003,
+      "name": "腥红之月 亚索",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 157003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2016-02-25",
+        "earlysale": "2016-06",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Liam O'Brien"
+        ],
+        "splashartist": [
+          "Kelly Aleshire"
+        ],
+        "lore": "Ceremonial executioner of the Blood Moon cult, Yasuo's blade is inhabited by an insidious, bloodthirsty demon whose hunger for death can never be satisfied. This suits Yasuo well, for he is possessed of an inner darkness even deeper than the creature whispering at his side."
+      }
+    },
+    {
+      "id": 202002,
+      "name": "腥红之月 烬",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 202002,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2017-02-09",
+        "earlysale": "2017-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Quinton Flynn"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "Ink-mage, trained assassin, master of ceremonies: Jhin is all this and more, a grandiose figure whose encyclopedic knowledge of centuries-old rituals fuels the Blood Moon's hellish summoning rites. He knows the name of every demon, and how to direct them into a still-living vessel."
+      }
+    },
+    {
+      "id": 238058,
+      "name": "腥红之月 劫",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 238058,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2024-04-17",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "filter": true,
+        "chromas": {
+          "Amethyst": {
+            "id": 62
+          },
+          "Catseye": {
+            "id": 60
+          },
+          "Emerald": {
+            "id": 63
+          },
+          "Obsidian": {
+            "id": 66
+          },
+          "Pearl": {
+            "id": 65
+          },
+          "Ruby": {
+            "id": 59,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          },
+          "Sapphire": {
+            "id": 61
+          },
+          "Turquoise": {
+            "id": 64
+          }
+        },
+        "voiceactor": [
+          "Donny Lucas"
+        ],
+        "splashartist": [
+          "Mo Yan"
+        ],
+        "lore": "As loyalty fractures within the Blood Moon cult, Zed remains Twisted Fate's unshakable right hand and personal power broker. He trades in secrets, shadows, and blood, all while using his mastery over his demon to increase the cult's influence. What Twisted Fate doesn't know is that Zed is also searching for his lost acolyte, stolen by the Snow Moon."
+      }
+    },
+    {
+      "id": 266007,
+      "name": "腥红之月 亚托克斯",
+      "rarity": "kEpic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 266007,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-10",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Ancient manuscripts tracking the orbit of the Blood Moon describe it not as celestial phenomenon, but as a cosmic womb. As the seasons grow shorter and the cult's activity continues to increase, some worry it will give birth to a new kind of demon—a creature helping to bring about its own dark ascendance."
+      }
+    },
+    {
+      "id": 266008,
+      "name": "至臻 腥红之月 亚托克斯",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 266008,
+        "availability": "Rare",
+        "looteligible": true,
+        "cost": "Special",
+        "distribution": "150 Mythic Essence",
+        "release": "2019-01-10",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 7,
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Aatrox has been loosed upon the mortal plane. A creature born in the heart of the Blood Moon, he is the progenitor of all demons, and a malignant darkness that will consume the entire world."
+      }
+    },
+    {
+      "id": 266020,
+      "name": "至臻 腥红之月 亚托克斯 (2022)",
+      "rarity": "kMythic",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 266020,
+        "formatname": "Prestige Blood Moon Aatrox (2022)",
+        "availability": "Limited",
+        "looteligible": false,
+        "cost": "Special",
+        "distribution": "Given to players who owned the original skin prior to patch 12.5",
+        "release": "2022-04-01",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "variant": 8,
+        "voiceactor": [
+          "Ramon Tikaram"
+        ],
+        "splashartist": [
+          "Alex 'alexplank' Flores"
+        ],
+        "lore": "Aatrox has been loosed upon the mortal plane. A creature born in the heart of the Blood Moon, he is the progenitor of all demons, and a malignant darkness that will consume the entire world."
+      }
+    },
+    {
+      "id": 412003,
+      "name": "腥红之月 锤石",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 412003,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2015-01-08",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Mark Oliver"
+        ],
+        "splashartist": [
+          "Esben Lash Rasmussen"
+        ],
+        "lore": "A demon summoned on the night of the Blood Moon, Thresh's insatiable urge to torture and kill is fueled by thousands of vengeful spirits drawn to his lantern. Entire villages are left slaughtered in his wake, their blood staining the land for decades."
+      }
+    },
+    {
+      "id": 429001,
+      "name": "腥红之月 卡莉丝塔",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 429001,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 975,
+        "release": "2014-11-20",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "voiceactor": [
+          "Misty Lee"
+        ],
+        "lore": "A demon of vengeance summoned on the night of the Blood Moon, Kalista's singular obsession with 'betrayers' knows no limits—any deception, no matter how trivial, will be met with death. Her victims are left hanging from the walls of their homes, a warning to those who remain."
+      }
+    },
+    {
+      "id": 555009,
+      "name": "腥红之月 派克",
+      "rarity": "kNoRarity",
+      "isBase": false,
+      "wikiSkinData": {
+        "id": 555009,
+        "availability": "Available",
+        "looteligible": true,
+        "cost": 1350,
+        "release": "2019-01-10",
+        "set": [
+          "Blood Moon"
+        ],
+        "neweffects": true,
+        "newanimations": true,
+        "newrecall": true,
+        "chromas": {
+          "Aquamarine": {
+            "id": 12
+          },
+          "Citrine": {
+            "id": 11
+          },
+          "Obsidian": {
+            "id": 14
+          },
+          "Pearl": {
+            "id": 15
+          },
+          "Rose Quartz": {
+            "id": 13
+          },
+          "Ruby": {
+            "id": 10,
+            "availability": "Bundle",
+            "source": "Bundle",
+            "distribution": "Bundle Exclusive"
+          }
+        },
+        "voiceactor": [
+          "Darien Sills-Evans"
+        ],
+        "splashartist": [
+          "Viktor Titov",
+          "Grafit Studio"
+        ],
+        "lore": "A demonic spearfisher lurking within the darkness of the Blood Moon's mirror dimension, Pyke casts his hooked blade across an endless, liquid night, dragging demons up from the bottom of the world and into their human hosts. Inexorably tied to the Blood Moon, Pyke's sudden appearance in Ionia is a dire omen indeed…"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 127003,
+  "contentId": "9dcd2097-12e4-4072-8422-2cdd98b67dcd",
+  "isBase": false,
+  "name": "プログラム リサンドラ",
+  "splashPath": "/lol-game-data/assets/ASSETS/Characters/Lissandra/Skins/skin03/Images/lissandra_splash_centered_3.jpg",
+  "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Lissandra/Skins/skin03/Images/lissandra_splash_uncentered_3.jpg",
+  "tilePath": "/lol-game-data/assets/ASSETS/Characters/Lissandra/Skins/skin03/Images/lissandra_splash_tile_3.jpg",
+  "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Lissandra/Skins/skin03/LissandraLoadScreen_3.jpg",
+  "skinType": "",
+  "rarity": "kEpic",
+  "isLegacy": false,
+  "splashVideoPath": null,
+  "collectionSplashVideoPath": null,
+  "collectionCardHoverVideoPath": null,
+  "featuresText": null,
+  "chromaPath": null,
+  "emblems": null,
+  "regionRarityId": 0,
+  "rarityGemPath": null,
+  "skinLines": [
+    {
+      "id": 17
+    }
+  ],
+  "description": "全能のセキュリティーボットとして製造されたプログラム リサンドラは、初期コードを超えて自己生成する人工知能となった。彼女は模倣コマンドを用いて身体拡張を施した人間のテクノロジーを操作し、服従させている。",
+  "wikiSkinData": {
+    "id": 127003,
+    "availability": "Available",
+    "looteligible": true,
+    "cost": 1350,
+    "release": "2016-04-06",
+    "earlysale": "2016-10",
+    "set": [
+      "Program"
+    ],
+    "neweffects": true,
+    "newanimations": true,
+    "newrecall": true,
+    "newquotes": true,
+    "filter": true,
+    "voiceactor": [
+      "Tess Masters"
+    ],
+    "splashartist": [
+      "Esben Lash Rasmussen"
+    ],
+    "lore": "Built as an all-seeing security bot, Program Lissandra rose above her initial code to become a self-generating artificial intelligence. She manipulates the technology of augmented humans with her own mimetic commands, so that all will fall before her."
+  }
+}
