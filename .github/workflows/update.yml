@@ -46,14 +46,14 @@ jobs:
 
       - name: Prepare tag
         id: prepare_tag
-        if: ${{ !contains(steps.update-assets.outputs.stdout, 'no need to crawl') }}
+        if: ${{ !contains(steps.update-assets.outputs.stdout, 'No Need to Crawl') }}
         run: |
           echo "DEPLOY_TAG=`cat .data/version.json | jq -r '.version'`" >> $GITHUB_ENV
           echo "DEPLOY_TIME=`cat .data/version.json | jq -r '.crawledAt'`" >> $GITHUB_ENV
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ !contains(steps.update-assets.outputs.stdout, 'no need to crawl') }}
+        if: ${{ !contains(steps.update-assets.outputs.stdout, 'No Need to Crawl') }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .data

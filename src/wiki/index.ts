@@ -2,6 +2,7 @@ import * as cheerio from "cheerio";
 import { createFetch } from "../api/fetchClient.ts";
 import { LOL_WIKI_URL } from "../constants.ts";
 import { WikiSkinData } from "./types.ts";
+import { ERROR } from "../helpers.ts";
 
 const skinDataUrl = `${LOL_WIKI_URL}/Module:SkinData/data?action=render`;
 
@@ -42,17 +43,14 @@ function parseLuaTable(luaCode: string): WikiSkinData {
   // 处理未闭合的字符串
   jsCode = jsCode.replace(/("lore"\s*:\s*"[^"]*?)(?=\n\s*[}\]])/g, '$1"');
 
-  // 保存中间结果以便调试
-  Deno.writeTextFileSync("wikiSkinData.json", jsCode);
-
   try {
     // 尝试解析JSON - 注意这里不再添加额外的花括号
     const result = JSON.parse(jsCode);
     return result;
   } catch (error) {
     // 如果解析失败，输出错误信息和错误位置附近的代码
-    console.error("解析失败:", error);
-    
+    ERROR("解析失败:", error);
+
     if (error instanceof SyntaxError) {
       const errorMessage = error.message;
       const match = errorMessage.match(/position (\d+)/);
@@ -60,10 +58,10 @@ function parseLuaTable(luaCode: string): WikiSkinData {
         const position = parseInt(match[1]);
         const start = Math.max(0, position - 50);
         const end = Math.min(jsCode.length, position + 50);
-        console.error("错误位置附近的代码:", jsCode.substring(start, end));
+        ERROR("错误位置附近的代码:", jsCode.substring(start, end));
       }
     }
-    
+
     return {};
   }
 }

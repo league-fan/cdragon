@@ -1,10 +1,13 @@
 import { ApiConfig, CdragonApi } from "./api/cdragon.ts";
 import { join } from "@std/path";
 import {
+  ERROR,
+  INFO,
   readDataFromFile,
   saveDataToFile,
   skinAbsIdToSkinId,
   skinIdToChampionId,
+  SUCCESS,
 } from "./helpers.ts";
 import { Skin } from "./types/skins.ts";
 import { Skinline } from "./types/skinline.ts";
@@ -56,8 +59,8 @@ class Crawler {
       version: string;
     }>("content-metadata.json");
 
-    console.log(
-      `originalVersion: ${originalVersion?.version}, version: ${version.version}`,
+    INFO(
+      `Version Changed: ${originalVersion?.version} -> ${version.version}`,
     );
 
     if (originalVersion?.version === version.version && !forceCrawl) {
@@ -241,7 +244,7 @@ async function main(forceCrawl: boolean = false) {
 
   const needCrawling = await defaultCrawler.checkIfNeedCrawling(forceCrawl);
   if (!needCrawling) {
-    console.log("no need to crawl");
+    INFO("No Need to Crawl");
     return;
   }
 
@@ -249,7 +252,7 @@ async function main(forceCrawl: boolean = false) {
   const wikiSkinData = await getWikiSkinData();
   await saveDataToFile(wikiSkinData, "wiki-skin-data.json", SAVE_DIR);
 
-  console.log(`start crawling ${desiredLanguages.length} languages`);
+  INFO(`Start Crawling ${desiredLanguages.length} Languages`);
   const timeStart = Date.now();
 
   // 并行抓取多种语言的数据
@@ -260,23 +263,23 @@ async function main(forceCrawl: boolean = false) {
       fallbackLanguage: "default",
     }, `${SAVE_DIR}/${language}`);
 
-    console.log(`${language} start crawling`);
+    INFO(`Crawling ${language}`);
     const langTimeStart = Date.now();
     await crawler.crawling(wikiSkinData);
     const langTimeEnd = Date.now();
-    console.log(
-      `${language} crawling finished, cost ${langTimeEnd - langTimeStart}ms`,
+    SUCCESS(
+      `Finished ${language}, cost ${langTimeEnd - langTimeStart}ms`,
     );
   }));
 
   const timeEnd = Date.now();
-  console.log(`all languages crawling finished, cost ${timeEnd - timeStart}ms`);
+  INFO(`All Languages Finished, Cost ${timeEnd - timeStart}ms`);
 }
 
 // 测试运行函数
 if (import.meta.main) {
   const forceCrawl = Deno.args.includes("--force");
   main(forceCrawl).then(() => {
-    console.log("all crawling tasks finished");
-  }).catch(console.error);
+    INFO("All Crawling Tasks Finished");
+  }).catch(ERROR);
 }
