@@ -1,858 +1,859 @@
 {
+  "total": 171,
   "champions": [
     {
       "id": -1,
-      "name": "None",
+      "name": "なし",
       "alias": "None"
     },
     {
       "id": 1,
-      "name": "Annie",
+      "name": "アニー",
       "alias": "Annie"
     },
     {
       "id": 2,
-      "name": "Olaf",
+      "name": "オラフ",
       "alias": "Olaf"
     },
     {
       "id": 3,
-      "name": "Galio",
+      "name": "ガリオ",
       "alias": "Galio"
     },
     {
       "id": 4,
-      "name": "Twisted Fate",
+      "name": "ツイステッド・フェイト",
       "alias": "TwistedFate"
     },
     {
       "id": 5,
-      "name": "Xin Zhao",
+      "name": "シン・ジャオ",
       "alias": "XinZhao"
     },
     {
       "id": 6,
-      "name": "Urgot",
+      "name": "アーゴット",
       "alias": "Urgot"
     },
     {
       "id": 7,
-      "name": "LeBlanc",
+      "name": "ルブラン",
       "alias": "Leblanc"
     },
     {
       "id": 8,
-      "name": "Vladimir",
+      "name": "ブラッドミア",
       "alias": "Vladimir"
     },
     {
       "id": 9,
-      "name": "Fiddlesticks",
+      "name": "フィドルスティックス",
       "alias": "FiddleSticks"
     },
     {
       "id": 10,
-      "name": "Kayle",
+      "name": "ケイル",
       "alias": "Kayle"
     },
     {
       "id": 11,
-      "name": "Master Yi",
+      "name": "マスター・イー",
       "alias": "MasterYi"
     },
     {
       "id": 12,
-      "name": "Alistar",
+      "name": "アリスター",
       "alias": "Alistar"
     },
     {
       "id": 13,
-      "name": "Ryze",
+      "name": "ライズ",
       "alias": "Ryze"
     },
     {
       "id": 14,
-      "name": "Sion",
+      "name": "サイオン",
       "alias": "Sion"
     },
     {
       "id": 15,
-      "name": "Sivir",
+      "name": "シヴィア",
       "alias": "Sivir"
     },
     {
       "id": 16,
-      "name": "Soraka",
+      "name": "ソラカ",
       "alias": "Soraka"
     },
     {
       "id": 17,
-      "name": "Teemo",
+      "name": "ティーモ",
       "alias": "Teemo"
     },
     {
       "id": 18,
-      "name": "Tristana",
+      "name": "トリスターナ",
       "alias": "Tristana"
     },
     {
       "id": 19,
-      "name": "Warwick",
+      "name": "ワーウィック",
       "alias": "Warwick"
     },
     {
       "id": 20,
-      "name": "Nunu & Willump",
+      "name": "ヌヌ＆ウィルンプ",
       "alias": "Nunu"
     },
     {
       "id": 21,
-      "name": "Miss Fortune",
+      "name": "ミス・フォーチュン",
       "alias": "MissFortune"
     },
     {
       "id": 22,
-      "name": "Ashe",
+      "name": "アッシュ",
       "alias": "Ashe"
     },
     {
       "id": 23,
-      "name": "Tryndamere",
+      "name": "トリンダメア",
       "alias": "Tryndamere"
     },
     {
       "id": 24,
-      "name": "Jax",
+      "name": "ジャックス",
       "alias": "Jax"
     },
     {
       "id": 25,
-      "name": "Morgana",
+      "name": "モルガナ",
       "alias": "Morgana"
     },
     {
       "id": 26,
-      "name": "Zilean",
+      "name": "ジリアン",
       "alias": "Zilean"
     },
     {
       "id": 27,
-      "name": "Singed",
+      "name": "シンジド",
       "alias": "Singed"
     },
     {
       "id": 28,
-      "name": "Evelynn",
+      "name": "イブリン",
       "alias": "Evelynn"
     },
     {
       "id": 29,
-      "name": "Twitch",
+      "name": "トゥイッチ",
       "alias": "Twitch"
     },
     {
       "id": 30,
-      "name": "Karthus",
+      "name": "カーサス",
       "alias": "Karthus"
     },
     {
       "id": 31,
-      "name": "Cho'Gath",
+      "name": "チョ＝ガス",
       "alias": "Chogath"
     },
     {
       "id": 32,
-      "name": "Amumu",
+      "name": "アムム",
       "alias": "Amumu"
     },
     {
       "id": 33,
-      "name": "Rammus",
+      "name": "ラムス",
       "alias": "Rammus"
     },
     {
       "id": 34,
-      "name": "Anivia",
+      "name": "アニビア",
       "alias": "Anivia"
     },
     {
       "id": 35,
-      "name": "Shaco",
+      "name": "シャコ",
       "alias": "Shaco"
     },
     {
       "id": 36,
-      "name": "Dr. Mundo",
+      "name": "ドクター・ムンド",
       "alias": "DrMundo"
     },
     {
       "id": 37,
-      "name": "Sona",
+      "name": "ソナ",
       "alias": "Sona"
     },
     {
       "id": 38,
-      "name": "Kassadin",
+      "name": "カサディン",
       "alias": "Kassadin"
     },
     {
       "id": 39,
-      "name": "Irelia",
+      "name": "イレリア",
       "alias": "Irelia"
     },
     {
       "id": 40,
-      "name": "Janna",
+      "name": "ジャンナ",
       "alias": "Janna"
     },
     {
       "id": 41,
-      "name": "Gangplank",
+      "name": "ガングプランク",
       "alias": "Gangplank"
     },
     {
       "id": 42,
-      "name": "Corki",
+      "name": "コーキ",
       "alias": "Corki"
     },
     {
       "id": 43,
-      "name": "Karma",
+      "name": "カルマ",
       "alias": "Karma"
     },
     {
       "id": 44,
-      "name": "Taric",
+      "name": "タリック",
       "alias": "Taric"
     },
     {
       "id": 45,
-      "name": "Veigar",
+      "name": "ベイガー",
       "alias": "Veigar"
     },
     {
       "id": 48,
-      "name": "Trundle",
+      "name": "トランドル",
       "alias": "Trundle"
     },
     {
       "id": 50,
-      "name": "Swain",
+      "name": "スウェイン",
       "alias": "Swain"
     },
     {
       "id": 51,
-      "name": "Caitlyn",
+      "name": "ケイトリン",
       "alias": "Caitlyn"
     },
     {
       "id": 53,
-      "name": "Blitzcrank",
+      "name": "ブリッツクランク",
       "alias": "Blitzcrank"
     },
     {
       "id": 54,
-      "name": "Malphite",
+      "name": "マルファイト",
       "alias": "Malphite"
     },
     {
       "id": 55,
-      "name": "Katarina",
+      "name": "カタリナ",
       "alias": "Katarina"
     },
     {
       "id": 56,
-      "name": "Nocturne",
+      "name": "ノクターン",
       "alias": "Nocturne"
     },
     {
       "id": 57,
-      "name": "Maokai",
+      "name": "マオカイ",
       "alias": "Maokai"
     },
     {
       "id": 58,
-      "name": "Renekton",
+      "name": "レネクトン",
       "alias": "Renekton"
     },
     {
       "id": 59,
-      "name": "Jarvan IV",
+      "name": "ジャーヴァンⅣ",
       "alias": "JarvanIV"
     },
     {
       "id": 60,
-      "name": "Elise",
+      "name": "エリス",
       "alias": "Elise"
     },
     {
       "id": 61,
-      "name": "Orianna",
+      "name": "オリアナ",
       "alias": "Orianna"
     },
     {
       "id": 62,
-      "name": "Wukong",
+      "name": "ウーコン",
       "alias": "MonkeyKing"
     },
     {
       "id": 63,
-      "name": "Brand",
+      "name": "ブランド",
       "alias": "Brand"
     },
     {
       "id": 64,
-      "name": "Lee Sin",
+      "name": "リー・シン",
       "alias": "LeeSin"
     },
     {
       "id": 67,
-      "name": "Vayne",
+      "name": "ヴェイン",
       "alias": "Vayne"
     },
     {
       "id": 68,
-      "name": "Rumble",
+      "name": "ランブル",
       "alias": "Rumble"
     },
     {
       "id": 69,
-      "name": "Cassiopeia",
+      "name": "カシオペア",
       "alias": "Cassiopeia"
     },
     {
       "id": 72,
-      "name": "Skarner",
+      "name": "スカーナー",
       "alias": "Skarner"
     },
     {
       "id": 74,
-      "name": "Heimerdinger",
+      "name": "ハイマーディンガー",
       "alias": "Heimerdinger"
     },
     {
       "id": 75,
-      "name": "Nasus",
+      "name": "ナサス",
       "alias": "Nasus"
     },
     {
       "id": 76,
-      "name": "Nidalee",
+      "name": "ニダリー",
       "alias": "Nidalee"
     },
     {
       "id": 77,
-      "name": "Udyr",
+      "name": "ウディア",
       "alias": "Udyr"
     },
     {
       "id": 78,
-      "name": "Poppy",
+      "name": "ポッピー",
       "alias": "Poppy"
     },
     {
       "id": 79,
-      "name": "Gragas",
+      "name": "グラガス",
       "alias": "Gragas"
     },
     {
       "id": 80,
-      "name": "Pantheon",
+      "name": "パンテオン",
       "alias": "Pantheon"
     },
     {
       "id": 81,
-      "name": "Ezreal",
+      "name": "エズリアル",
       "alias": "Ezreal"
     },
     {
       "id": 82,
-      "name": "Mordekaiser",
+      "name": "モルデカイザー",
       "alias": "Mordekaiser"
     },
     {
       "id": 83,
-      "name": "Yorick",
+      "name": "ヨリック",
       "alias": "Yorick"
     },
     {
       "id": 84,
-      "name": "Akali",
+      "name": "アカリ",
       "alias": "Akali"
     },
     {
       "id": 85,
-      "name": "Kennen",
+      "name": "ケネン",
       "alias": "Kennen"
     },
     {
       "id": 86,
-      "name": "Garen",
+      "name": "ガレン",
       "alias": "Garen"
     },
     {
       "id": 89,
-      "name": "Leona",
+      "name": "レオナ",
       "alias": "Leona"
     },
     {
       "id": 90,
-      "name": "Malzahar",
+      "name": "マルザハール",
       "alias": "Malzahar"
     },
     {
       "id": 91,
-      "name": "Talon",
+      "name": "タロン",
       "alias": "Talon"
     },
     {
       "id": 92,
-      "name": "Riven",
+      "name": "リヴェン",
       "alias": "Riven"
     },
     {
       "id": 96,
-      "name": "Kog'Maw",
+      "name": "コグ＝マウ",
       "alias": "KogMaw"
     },
     {
       "id": 98,
-      "name": "Shen",
+      "name": "シェン",
       "alias": "Shen"
     },
     {
       "id": 99,
-      "name": "Lux",
+      "name": "ラックス",
       "alias": "Lux"
     },
     {
       "id": 101,
-      "name": "Xerath",
+      "name": "ゼラス",
       "alias": "Xerath"
     },
     {
       "id": 102,
-      "name": "Shyvana",
+      "name": "シヴァーナ",
       "alias": "Shyvana"
     },
     {
       "id": 103,
-      "name": "Ahri",
+      "name": "アーリ",
       "alias": "Ahri"
     },
     {
       "id": 104,
-      "name": "Graves",
+      "name": "グレイブス",
       "alias": "Graves"
     },
     {
       "id": 105,
-      "name": "Fizz",
+      "name": "フィズ",
       "alias": "Fizz"
     },
     {
       "id": 106,
-      "name": "Volibear",
+      "name": "ボリベア",
       "alias": "Volibear"
     },
     {
       "id": 107,
-      "name": "Rengar",
+      "name": "レンガー",
       "alias": "Rengar"
     },
     {
       "id": 110,
-      "name": "Varus",
+      "name": "ヴァルス",
       "alias": "Varus"
     },
     {
       "id": 111,
-      "name": "Nautilus",
+      "name": "ノーチラス",
       "alias": "Nautilus"
     },
     {
       "id": 112,
-      "name": "Viktor",
+      "name": "ビクター",
       "alias": "Viktor"
     },
     {
       "id": 113,
-      "name": "Sejuani",
+      "name": "セジュアニ",
       "alias": "Sejuani"
     },
     {
       "id": 114,
-      "name": "Fiora",
+      "name": "フィオラ",
       "alias": "Fiora"
     },
     {
       "id": 115,
-      "name": "Ziggs",
+      "name": "ジグス",
       "alias": "Ziggs"
     },
     {
       "id": 117,
-      "name": "Lulu",
+      "name": "ルル",
       "alias": "Lulu"
     },
     {
       "id": 119,
-      "name": "Draven",
+      "name": "ドレイヴン",
       "alias": "Draven"
     },
     {
       "id": 120,
-      "name": "Hecarim",
+      "name": "ヘカリム",
       "alias": "Hecarim"
     },
     {
       "id": 121,
-      "name": "Kha'Zix",
+      "name": "カ＝ジックス",
       "alias": "Khazix"
     },
     {
       "id": 122,
-      "name": "Darius",
+      "name": "ダリウス",
       "alias": "Darius"
     },
     {
       "id": 126,
-      "name": "Jayce",
+      "name": "ジェイス",
       "alias": "Jayce"
     },
     {
       "id": 127,
-      "name": "Lissandra",
+      "name": "リサンドラ",
       "alias": "Lissandra"
     },
     {
       "id": 131,
-      "name": "Diana",
+      "name": "ダイアナ",
       "alias": "Diana"
     },
     {
       "id": 133,
-      "name": "Quinn",
+      "name": "クイン",
       "alias": "Quinn"
     },
     {
       "id": 134,
-      "name": "Syndra",
+      "name": "シンドラ",
       "alias": "Syndra"
     },
     {
       "id": 136,
-      "name": "Aurelion Sol",
+      "name": "オレリオン・ソル",
       "alias": "AurelionSol"
     },
     {
       "id": 141,
-      "name": "Kayn",
+      "name": "ケイン",
       "alias": "Kayn"
     },
     {
       "id": 142,
-      "name": "Zoe",
+      "name": "ゾーイ",
       "alias": "Zoe"
     },
     {
       "id": 143,
-      "name": "Zyra",
+      "name": "ザイラ",
       "alias": "Zyra"
     },
     {
       "id": 145,
-      "name": "Kai'Sa",
+      "name": "カイ＝サ",
       "alias": "Kaisa"
     },
     {
       "id": 147,
-      "name": "Seraphine",
+      "name": "セラフィーン",
       "alias": "Seraphine"
     },
     {
       "id": 150,
-      "name": "Gnar",
+      "name": "ナー",
       "alias": "Gnar"
     },
     {
       "id": 154,
-      "name": "Zac",
+      "name": "ザック",
       "alias": "Zac"
     },
     {
       "id": 157,
-      "name": "Yasuo",
+      "name": "ヤスオ",
       "alias": "Yasuo"
     },
     {
       "id": 161,
-      "name": "Vel'Koz",
+      "name": "ヴェル＝コズ",
       "alias": "Velkoz"
     },
     {
       "id": 163,
-      "name": "Taliyah",
+      "name": "タリヤ",
       "alias": "Taliyah"
     },
     {
       "id": 164,
-      "name": "Camille",
+      "name": "カミール",
       "alias": "Camille"
     },
     {
       "id": 166,
-      "name": "Akshan",
+      "name": "アクシャン",
       "alias": "Akshan"
     },
     {
       "id": 200,
-      "name": "Bel'Veth",
+      "name": "ベル＝ヴェス",
       "alias": "Belveth"
     },
     {
       "id": 201,
-      "name": "Braum",
+      "name": "ブラウム",
       "alias": "Braum"
     },
     {
       "id": 202,
-      "name": "Jhin",
+      "name": "ジン",
       "alias": "Jhin"
     },
     {
       "id": 203,
-      "name": "Kindred",
+      "name": "キンドレッド",
       "alias": "Kindred"
     },
     {
       "id": 221,
-      "name": "Zeri",
+      "name": "ゼリ",
       "alias": "Zeri"
     },
     {
       "id": 222,
-      "name": "Jinx",
+      "name": "ジンクス",
       "alias": "Jinx"
     },
     {
       "id": 223,
-      "name": "Tahm Kench",
+      "name": "タム・ケンチ",
       "alias": "TahmKench"
     },
     {
       "id": 233,
-      "name": "Briar",
+      "name": "ブライアー",
       "alias": "Briar"
     },
     {
       "id": 234,
-      "name": "Viego",
+      "name": "ヴィエゴ",
       "alias": "Viego"
     },
     {
       "id": 235,
-      "name": "Senna",
+      "name": "セナ",
       "alias": "Senna"
     },
     {
       "id": 236,
-      "name": "Lucian",
+      "name": "ルシアン",
       "alias": "Lucian"
     },
     {
       "id": 238,
-      "name": "Zed",
+      "name": "ゼド",
       "alias": "Zed"
     },
     {
       "id": 240,
-      "name": "Kled",
+      "name": "クレッド",
       "alias": "Kled"
     },
     {
       "id": 245,
-      "name": "Ekko",
+      "name": "エコー",
       "alias": "Ekko"
     },
     {
       "id": 246,
-      "name": "Qiyana",
+      "name": "キヤナ",
       "alias": "Qiyana"
     },
     {
       "id": 254,
-      "name": "Vi",
+      "name": "ヴァイ",
       "alias": "Vi"
     },
     {
       "id": 266,
-      "name": "Aatrox",
+      "name": "エイトロックス",
       "alias": "Aatrox"
     },
     {
       "id": 267,
-      "name": "Nami",
+      "name": "ナミ",
       "alias": "Nami"
     },
     {
       "id": 268,
-      "name": "Azir",
+      "name": "アジール",
       "alias": "Azir"
     },
     {
       "id": 350,
-      "name": "Yuumi",
+      "name": "ユーミ",
       "alias": "Yuumi"
     },
     {
       "id": 360,
-      "name": "Samira",
+      "name": "サミーラ",
       "alias": "Samira"
     },
     {
       "id": 412,
-      "name": "Thresh",
+      "name": "スレッシュ",
       "alias": "Thresh"
     },
     {
       "id": 420,
-      "name": "Illaoi",
+      "name": "イラオイ",
       "alias": "Illaoi"
     },
     {
       "id": 421,
-      "name": "Rek'Sai",
+      "name": "レク＝サイ",
       "alias": "RekSai"
     },
     {
       "id": 427,
-      "name": "Ivern",
+      "name": "アイバーン",
       "alias": "Ivern"
     },
     {
       "id": 429,
-      "name": "Kalista",
+      "name": "カリスタ",
       "alias": "Kalista"
     },
     {
       "id": 432,
-      "name": "Bard",
+      "name": "バード",
       "alias": "Bard"
     },
     {
       "id": 497,
-      "name": "Rakan",
+      "name": "ラカン",
       "alias": "Rakan"
     },
     {
       "id": 498,
-      "name": "Xayah",
+      "name": "ザヤ",
       "alias": "Xayah"
     },
     {
       "id": 516,
-      "name": "Ornn",
+      "name": "オーン",
       "alias": "Ornn"
     },
     {
       "id": 517,
-      "name": "Sylas",
+      "name": "サイラス",
       "alias": "Sylas"
     },
     {
       "id": 518,
-      "name": "Neeko",
+      "name": "ニーコ",
       "alias": "Neeko"
     },
     {
       "id": 523,
-      "name": "Aphelios",
+      "name": "アフェリオス",
       "alias": "Aphelios"
     },
     {
       "id": 526,
-      "name": "Rell",
+      "name": "レル",
       "alias": "Rell"
     },
     {
       "id": 555,
-      "name": "Pyke",
+      "name": "パイク",
       "alias": "Pyke"
     },
     {
       "id": 711,
-      "name": "Vex",
+      "name": "ヴェックス",
       "alias": "Vex"
     },
     {
       "id": 777,
-      "name": "Yone",
+      "name": "ヨネ",
       "alias": "Yone"
     },
     {
       "id": 799,
-      "name": "Ambessa",
+      "name": "アンベッサ",
       "alias": "Ambessa"
     },
     {
       "id": 800,
-      "name": "Mel",
+      "name": "メル",
       "alias": "Mel"
     },
     {
       "id": 875,
-      "name": "Sett",
+      "name": "セト",
       "alias": "Sett"
     },
     {
       "id": 876,
-      "name": "Lillia",
+      "name": "リリア",
       "alias": "Lillia"
     },
     {
       "id": 887,
-      "name": "Gwen",
+      "name": "グウェン",
       "alias": "Gwen"
     },
     {
       "id": 888,
-      "name": "Renata Glasc",
+      "name": "レナータ・グラスク",
       "alias": "Renata"
     },
     {
       "id": 893,
-      "name": "Aurora",
+      "name": "オーロラ",
       "alias": "Aurora"
     },
     {
       "id": 895,
-      "name": "Nilah",
+      "name": "ニーラ",
       "alias": "Nilah"
     },
     {
       "id": 897,
-      "name": "K'Sante",
+      "name": "カ・サンテ",
       "alias": "KSante"
     },
     {
       "id": 901,
-      "name": "Smolder",
+      "name": "スモルダー",
       "alias": "Smolder"
     },
     {
       "id": 902,
-      "name": "Milio",
+      "name": "ミリオ",
       "alias": "Milio"
     },
     {
       "id": 910,
-      "name": "Hwei",
+      "name": "フェイ",
       "alias": "Hwei"
     },
     {
       "id": 950,
-      "name": "Naafiri",
+      "name": "ナフィーリ",
       "alias": "Naafiri"
     }
   ]
