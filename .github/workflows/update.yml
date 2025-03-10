@@ -27,7 +27,6 @@ jobs:
           deno-version: v2.x # Run with latest stable Deno.
 
       - name: Update Assets
-        id: update-assets
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             deno run crawler --force
@@ -35,18 +34,27 @@ jobs:
             deno run crawler
           fi
 
-      - name: Prepare tag
-        id: prepare_tag
-        if: ${{ !contains(steps.update-assets.outputs.stdout, 'No Need to Crawl') }}
+      - name: Check if Crawling is done
+        id: check_crawling
         run: |
-          echo "DEPLOY_TAG=`cat .data/version.json | jq -r '.version'`" >> "${GITHUB_OUTPUT}"
-          echo "DEPLOY_TIME=`cat .data/version.json | jq -r '.crawledAt'`" >> "${GITHUB_OUTPUT}"
+          if [ -f .data/index.html ]; then
+            echo "Crawling is done"
+            echo "CRAWLING_DONE=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "Crawling is not done"
+            echo "CRAWLING_DONE=false" >> "${GITHUB_OUTPUT}"
+          fi
+
+      - name: Prepare Message
+        id: prepare_message
+        if: ${{ steps.check_crawling.outputs.CRAWLING_DONE == 'true' }}
+        run: |
+          echo "DEPLOY_VERSION=`cat .data/version.json | jq -r '.version'`" >> "${GITHUB_OUTPUT}"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ !contains(steps.update-assets.outputs.stdout, 'No Need to Crawl') }}
+        if: ${{ steps.check_crawling.outputs.CRAWLING_DONE == 'true' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .data
-          tag_name: ${{ steps.prepare_tag.outputs.DEPLOY_TAG }}
-          tag_message: "Deployment of ${{ steps.prepare_tag.outputs.DEPLOY_TAG }} at ${{ steps.prepare_tag.outputs.DEPLOY_TIME }}"
+          commit_message: "${{ github.event.head_commit.message }} ${{ steps.prepare_message.outputs.DEPLOY_VERSION }}"
