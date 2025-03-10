@@ -1,3 +1,5 @@
+import { RarityElement, RegionalDescription } from "./common.ts";
+
 export interface Skins {
   [key: string]: Skin;
 }
@@ -43,29 +45,9 @@ export interface Chroma {
   name: string;
   chromaPath: string;
   colors: string[];
-  descriptions: Description[];
+  descriptions: RegionalDescription[];
   rarities: RarityElement[];
   skinAugments?: SkinAugments;
-}
-
-export interface Description {
-  region: Region;
-  description: string;
-}
-
-export enum Region {
-  Empty = "",
-  ID = "ID",
-  RegionTencent = "tencent",
-  Riot = "riot",
-  Tencent = "TENCENT",
-  Tw = "TW",
-  Vn = "VN",
-}
-
-export interface RarityElement {
-  region: Region;
-  rarity: number;
 }
 
 export interface SkinAugments {
