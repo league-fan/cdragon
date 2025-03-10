@@ -18,7 +18,8 @@ export function assetsRealUrl(
   return originalUrl
     .replace(
       "/lol-game-data/assets",
-      `${CDRAGON_URL}/${patch ?? "pbe"}/plugins/rcp-be-lol-game-data/global/${language ?? "default"
+      `${CDRAGON_URL}/${patch ?? "pbe"}/plugins/rcp-be-lol-game-data/global/${
+        language ?? "default"
       }`,
     )
     .toLowerCase();
@@ -98,4 +99,3 @@ export function WARN(...data: any[]) {
 export function SUCCESS(...data: any[]) {
   console.log(`✅`, ...data);
 }
-

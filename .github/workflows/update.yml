@@ -42,7 +42,6 @@ jobs:
           else
             deno run crawler
           fi
-          deno run genIndex
 
       - name: Prepare tag
         id: prepare_tag

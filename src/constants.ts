@@ -2,6 +2,9 @@
 export const CDRAGON_URL = "https://raw.communitydragon.org";
 export const LOL_WIKI_URL = "https://wiki.leagueoflegends.com/en-us";
 
+export const APP_URL = "https://league-fan.github.io/cdragon";
+// export const APP_URL = "http://127.0.0.1:8080";
+
 /* Languages */
 export const LANGUAGES = [
   "ar_ae",

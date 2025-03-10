@@ -11,7 +11,7 @@ import {
 } from "./helpers.ts";
 import { Skin } from "./types/skins.ts";
 import { Skinline } from "./types/skinline.ts";
-import { Language } from "./constants.ts";
+import { Language, Patch } from "./constants.ts";
 import { concurrentLimit } from "./helpers.ts";
 import { getWikiSkinData } from "./wiki/index.ts";
 import { WikiSkin, WikiSkinData } from "./wiki/types.ts";
@@ -123,13 +123,14 @@ class Crawler {
         // Champion汇总数据
         await saveDataToFile(
           {
+            total: champions.length,
             champions: champions.map((champion) => ({
               id: champion.id,
               name: champion.name,
               alias: champion.alias,
             })),
           },
-          "champion/index.json",
+          "champion.json",
           this.saveDir,
         );
       })(),
@@ -162,7 +163,7 @@ class Crawler {
               name: universe.name,
             })),
           },
-          "universe/index.json",
+          "universe.json",
           this.saveDir,
         );
       })(),
@@ -194,7 +195,7 @@ class Crawler {
               name: skinline.name,
             })),
           },
-          "skinline/index.json",
+          "skinline.json",
           this.saveDir,
         );
       })(),
@@ -219,7 +220,7 @@ class Crawler {
             total: skins.length,
             skins: skinsResolvedMap(skins, wikiSkins),
           },
-          "skin/index.json",
+          "skin.json",
           this.saveDir,
         );
       })(),
@@ -227,15 +228,17 @@ class Crawler {
   }
 }
 
-async function main(forceCrawl: boolean = false) {
-  const desiredLanguages = [
+export async function crawl(
+  forceCrawl: boolean = false,
+  desiredLanguages: Language[] = [
     "zh_cn",
     "default",
     "zh_tw",
     "ja_jp",
     "ko_kr",
-  ] as Language[];
-
+  ],
+  patch: Patch = "pbe",
+) {
   const defaultCrawler = new Crawler({
     language: "default",
     patch: "pbe",
@@ -259,7 +262,7 @@ async function main(forceCrawl: boolean = false) {
   await Promise.all(desiredLanguages.map(async (language) => {
     const crawler = new Crawler({
       language,
-      patch: "pbe",
+      patch,
       fallbackLanguage: "default",
     }, `${SAVE_DIR}/${language}`);
 
@@ -279,7 +282,7 @@ async function main(forceCrawl: boolean = false) {
 // 测试运行函数
 if (import.meta.main) {
   const forceCrawl = Deno.args.includes("--force");
-  main(forceCrawl).then(() => {
+  crawl(forceCrawl).then(() => {
     INFO("All Crawling Tasks Finished");
   }).catch(ERROR);
 }

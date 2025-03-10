@@ -1,14 +1,13 @@
 {
   "tasks": {
-    "crawler": "deno run -A src/crawler.ts",
-    "genIndex": "deno run -A src/genIndex.ts"
+    "crawler": "deno run -A src/index.ts"
   },
   "imports": {
     "@better-fetch/fetch": "npm:@better-fetch/fetch@^1.1.15",
     "@std/assert": "jsr:@std/assert@1",
     "@std/fs": "jsr:@std/fs@^1.0.14",
     "@std/path": "jsr:@std/path@^1.0.8",
-    "@vento/vento": "jsr:@vento/vento@^1.12.15",
+    "@std/yaml": "jsr:@std/yaml@^1.0.5",
     "cheerio": "npm:cheerio@1.0.0"
   }
 }
