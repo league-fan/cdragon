@@ -147,11 +147,7 @@ class Crawler {
         await saveDataToFile(
           {
             total: champions.length,
-            champions: champions.map((champion) => ({
-              id: champion.id,
-              name: champion.name,
-              alias: champion.alias,
-            })),
+            champions: champions,
           },
           "champion.json",
           this.saveDir,
@@ -160,31 +156,23 @@ class Crawler {
 
       // 2. Universe相关数据处理
       (async () => {
-        // Universe详细数据
-        await concurrentLimit(universes, async (universe) => {
+        const resolvedUniverses = universes.map((universe) => {
           const skinlinesOfUniverse = universe.skinSets
             .map((id) => skinlines.find((skinline) => skinline.id === id))
             .filter((skinline) => skinline !== undefined)
             .sort((a, b) => (a.name > b.name ? 1 : -1));
           const skinlinesResolved = skinlinesResolvedMap(skinlinesOfUniverse);
-          await saveDataToFile(
-            {
-              ...universe,
-              skinlines: skinlinesResolved,
-            },
-            `universe/${universe.id}.json`,
-            this.saveDir,
-          );
+          return {
+            ...universe,
+            skinSets: skinlinesResolved,
+          };
         });
 
         // Universe汇总数据
         await saveDataToFile(
           {
             total: universes.length,
-            universes: universes.map((universe) => ({
-              id: universe.id,
-              name: universe.name,
-            })),
+            universes: resolvedUniverses,
           },
           "universe.json",
           this.saveDir,
