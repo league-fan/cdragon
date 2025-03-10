@@ -28,7 +28,7 @@ jobs:
 
       - name: Update Assets
         run: |
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" || "${{ github.event_name }}" == "push" ]]; then
             deno run crawler --force
           else
             deno run crawler

@@ -250,74 +250,116 @@ class Crawler {
 
       // 5. Item相关数据处理
       (async () => {
-        // Item详细数据
-        await concurrentLimit(items, async (item) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: items.length,
+            items,
+          },
+          "item.json",
+          this.saveDir,
+        );
       })(),
 
       // 6. TftItem相关数据处理
       (async () => {
-        // TftItem详细数据
-        await concurrentLimit(tftItems, async (item) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: tftItems.length,
+            tftItems,
+          },
+          "tftitem.json",
+          this.saveDir,
+        );
       })(),
 
       // 7. SummonerEmote相关数据处理
       (async () => {
-        // SummonerEmote详细数据
-        await concurrentLimit(summonerEmotes, async (emote) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: summonerEmotes.length,
+            summonerEmotes,
+          },
+          "summoner-emote.json",
+          this.saveDir,
+        );
       })(),
 
       // 8. SummonerIcon相关数据处理
       (async () => {
         // SummonerIcon详细数据
-        await concurrentLimit(summonerIcons, async (icon) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: summonerIcons.length,
+            summonerIcons,
+          },
+          "summoner-icon.json",
+          this.saveDir,
+        );
       })(),
 
       // 9. SummonerIconSet相关数据处理
       (async () => {
         // SummonerIconSet详细数据
-        await concurrentLimit(summonerIconSets, async (set) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: summonerIconSets.length,
+            summonerIconSets,
+          },
+          "summoner-icon-set.json",
+          this.saveDir,
+        );
       })(),
 
       // 10. TftChampion相关数据处理
       (async () => {
         // TftChampion详细数据
-        await concurrentLimit(tftChampions, async (champion) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: tftChampions.length,
+            tftChampions,
+          },
+          "tftchampion.json",
+          this.saveDir,
+        );
       })(),
 
       // 11. TftMapSkin相关数据处理
       (async () => {
         // TftMapSkin详细数据
-        await concurrentLimit(tftMapSkins, async (skin) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: tftMapSkins.length,
+            tftMapSkins,
+          },
+          "tftmapskin.json",
+          this.saveDir,
+        );
       })(),
 
       // 12. WardSkin相关数据处理
       (async () => {
         // WardSkin详细数据
-        await concurrentLimit(wardSkins, async (skin) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: wardSkins.length,
+            wardSkins,
+          },
+          "wardskin.json",
+          this.saveDir,
+        );
       })(),
 
       // 13. WardSkinSet相关数据处理
       (async () => {
         // WardSkinSet详细数据
-        await concurrentLimit(wardSkinSets, async (set) => {
-          // TODO
-        });
+        await saveDataToFile(
+          {
+            total: wardSkinSets.length,
+            wardSkinSets,
+          },
+          "ward-skin-set.json",
+          this.saveDir,
+        );
       })(),
     ]);
   }
